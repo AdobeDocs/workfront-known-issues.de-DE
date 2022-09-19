@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Testsendungen: Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Timesheets: Bei Verwendung von [!UICONTROL Registerkarte] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)

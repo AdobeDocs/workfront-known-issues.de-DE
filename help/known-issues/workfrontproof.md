@@ -3,9 +3,9 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Bekannte Probleme für [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: acde7285f2f24b853abed934ab7f48a109db45e6
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '160'
 ht-degree: 4%
 
 ---
@@ -30,6 +30,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 | **Anfrage** | **Letzte Änderung** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [Testsendungen: Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 15. September 2022 |
 | [[!DNL Workfront Proof]: E-Mail-Benachrichtigungen werden verzögert](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15. September 2022 |
 | [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [[!DNL Workfront Proof]: Anforderer und Prüfer zählen zur Lizenzanzahl eines Unternehmens](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12. August 2022 |

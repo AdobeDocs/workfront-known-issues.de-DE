@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1206'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Der Testversand kann nicht geöffnet werden in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Testsendungen: Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md)

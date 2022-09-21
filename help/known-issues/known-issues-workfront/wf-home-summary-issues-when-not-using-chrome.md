@@ -3,14 +3,14 @@ title: '"Home": Probleme mit der Home-Zusammenfassung bei der Verwendung anderer
 description: Wenn ein Benutzer seine Homepage anzeigt und einen anderen Browser als Chrome verwendet, werden ihm möglicherweise die verschiedenen Probleme angezeigt.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Startseite]: Probleme mit der Home-Zusammenfassung bei der Verwendung anderer Browser als [!DNL Chrome]
+# [!UICONTROL Startseite]: [!UICONTROL Startseite] Zusammenfassungsprobleme bei der Verwendung anderer Browser als [!DNL Chrome]
 
 >[!NOTE]
 >

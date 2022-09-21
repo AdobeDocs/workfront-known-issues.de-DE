@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Fusion]
 description: Bekannte Probleme für [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 8%
 
 ---
 
@@ -30,5 +30,4 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 |-----------------------------------------------------------------------------------|-------------------|
 | [[!DNL Workfront Fusion]: Das Modul wird beim Erstellen oder Bearbeiten eines Szenarios nicht geladen](known-issues-workfront-fusion/fusion-module-does-not-load.md) | 16. September 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] -Modul gibt 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9. September 2022 |
-| [[!DNL Workfront Fusion]: Unable to connect to [!DNL MS Dynamics] Modul in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md) | 16. August 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] In-App-Hilfe-Links führen nicht zu bestimmten Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2. August 2022 |

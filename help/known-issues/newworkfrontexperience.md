@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
+source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '473'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,6 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 | **Anfrage** | **Letzte Änderung** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [Testsendungen: Der Testversand kann nicht geöffnet werden in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20. September 2022 |
-| [Aktualisierungen: Benutzerkarte kann nicht im Aktualisierungsstream geschlossen werden](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20. September 2022 |
 | [Benutzerdefinierte Formulare: Elemente, die sich im linken Bereich überschneiden](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16. September 2022 |
 | [Timesheets: Bei Verwendung von [!UICONTROL Registerkarte] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16. September 2022 |
 | [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |

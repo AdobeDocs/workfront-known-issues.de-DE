@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Leere Seiten bei der Anzeige eines Testversands mit mehreren Seiten](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Testsendungen: Fehler beim Hinzufügen des Testversands zu [!DNL Workfront] von [!DNL Workfront] Testversand](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fehler beim Hochladen einer Datei in einen Kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Ordneransichten zeigen keine Testsendungen an](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Neue Phase erstellt, weil der Termin nicht mit dem Termin für die bestehende Phase übereinstimmen kann](known-issues-workfront-proof/new-stage-created.md)
       + [Falsche Testversand-Validierungsfrist in der Startseite angezeigt](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Benutzer kann nicht zum Testversand hinzugefügt werden, indem der Benutzer in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Es kann keine neue Version eines Testversands erstellt werden](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL In Testversand antworten] Schaltflächenverhalten inkonsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Automatischer Zugriff auf Testsendungen wird verzögert](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Validierung des Testversands] kann Termine nicht genau bestimmen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] In-App-Hilfe-Links führen nicht zu bestimmten Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Gelöste Probleme in [!DNL Workfront Fusion] {#fusion-resolved}
       + [401-Fehler bei [!DNL Workfront] Module](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Es kann nicht gescrollt werden, um alle Szenario-Ausführungen anzuzeigen](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Daten aus benutzerdefinierten Formularen, die in nicht verfügbar sind [!DNL Workfront Fusion] [!DNL Workfront] Module](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront-Ziele] {#goals}

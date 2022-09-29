@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 | **Anfrage** | **Letzte Änderung** |
 |---|---|
+| [Benachrichtigungen: Benutzer, die nicht benachrichtigt wurden, wenn sie erwähnt wurden oder in einem Kommentar enthalten sind](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 19. September 2022 |
 | [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15. September 2022 |
 | [Aufgaben und Probleme: Unbeabsichtigtes Beenden beim Erstellen von Aufgaben oder Problemen](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9. September 2022 |
@@ -36,6 +37,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 | **Anfrage** | **Letzte Änderung** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [Timesheets: Fehler beim Hinzufügen von Kommentaren zu einem Timesheet](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 29. September 2022 |
 | [Benutzerdefinierte Formulare: Elemente, die sich im linken Bereich überschneiden](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16. September 2022 |
 | [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [Integrationen: Fehler beim Senden der Anforderung von [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |

@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
 
 ## Aktualisierungen im September 2022
+
++++**Wartungs-Update am 29. September 2022**
+
+**Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück**
+
+*Korrekturabzüge*
+
+Wenn ein Benutzer einen Testversand in [!DNL Workfront] den Testversand schließt, gibt er nicht die Seite zurück, auf der er sich vor dem Öffnen des Testversands befand. Stattdessen werden sie zu einer anderen Seite in [!DNL Workfront].
+
+**Der Testversand kann nicht geöffnet werden in[!DNL Workfront]**
+
+*Korrekturabzüge*
+
+Wenn ein Benutzer ein Dokument in [!DNL Workfront] und versucht, den Testversand zu öffnen, wird der Testversand nicht geöffnet und der Benutzer wird an die [!UICONTROL Dokumentdetails] Seite.
+
+**Bei Verwendung von [!UICONTROL Registerkarte] key**
+
+*Arbeitszeit- tabellen*
+
+Wenn ein Benutzer ein Zeitblatt ausfüllt und zwischen Zellen mit der [!UICONTROL Registerkarte] -Taste, werden die Stunden nicht gespeichert. Die [!UICONTROL Automatisches Speichern] -Benachrichtigung wird unten im Bildschirm nicht angezeigt. Wenn der Benutzer die Seite aktualisiert, kann er sehen, wie die Stunden nicht gespeichert wurden.
+
+**Leere Seiten bei der Anzeige eines Testversands mit mehreren Seiten**
+
+*[!DNL Workfront Proof]*
+
+Wenn ein Benutzer einen Testversand mit mehreren Seiten anzeigt, kann er Miniaturansichten der Seiten sehen, die Seiten werden jedoch nicht im Hauptansichtsfenster geöffnet.
+
+
+
++++
 
 +++**Wartungs-Update am 22. September 2022**
 
@@ -72,6 +102,8 @@ Um die neue Funktion widerzuspiegeln, mit der sowohl Aufgaben als auch Probleme 
 *[!DNL Workfront Scenario Planner]*
 
 Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen freigeben, ist der Filter für alle Gruppen- und Untergruppenmitglieder sichtbar, die Projekte im [!UICONTROL Projekte importieren] im Feld eines Plans [!DNL Scenario Planner].
+
++++
 
 +++**Wartungs-Update am 8. September 2022**
 

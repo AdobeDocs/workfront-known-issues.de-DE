@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Fusion]
 description: Bekannte Probleme für [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1d537f182d5c86f6f06d39b806b29f225143e3f
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 8%
 
 ---
 
@@ -30,6 +30,5 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 |-----------------------------------------------------------------------------------|-------------------|
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] Textmodul](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 30. September 2022 |
 | [[!DNL Workfront Fusion]: Fehler &quot;Verbindung konnte nicht überprüft werden&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29. September 2022 |
-| [[!DNL Workfront Fusion]: Das Modul wird beim Erstellen oder Bearbeiten eines Szenarios nicht geladen](known-issues-workfront-fusion/fusion-module-does-not-load.md) | 16. September 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] -Modul gibt 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9. September 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] In-App-Hilfe-Links führen nicht zu bestimmten Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2. August 2022 |

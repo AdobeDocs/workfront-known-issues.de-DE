@@ -2,9 +2,9 @@
 title: "[!DNL Workfront Fusion]: Verbindungsfehler konnte nicht überprüft werden."
 description: "Workfront Fusion-Verbindungen zu einem Workfront-Konto können die Authentifizierung fehlschlagen, was dazu führt, dass Szenarien den folgenden Fehler auslösen: Verbindung konnte nicht überprüft werden."
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Workfront Fusion]: Fehler &quot;Verbindung konnte nicht überprüft werden&quot;
 
-Workfront Fusion-Verbindungen zu einem Workfront-Konto können die Authentifizierung fehlschlagen, was dazu führt, dass Szenarien den folgenden Fehler auslösen:
+[!UICONTROL Workfront Fusion] Verbindungen zu einer [!DNL Workfront] -Konto kann die Authentifizierung fehlschlagen, was dazu führt, dass Szenarien den folgenden Fehler auslösen:
 
 Verbindung konnte nicht überprüft werden.
 

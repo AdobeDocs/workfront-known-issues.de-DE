@@ -2,15 +2,20 @@
 title: "Berichte: Probleme beim Erstellen und Bearbeiten von Berichten in ReportBuilder"
 description: "Beim Erstellen und Bearbeiten von Berichten in ReportBuilder wurden mehrere Probleme gemeldet."
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # Berichte: Probleme beim Erstellen und Bearbeiten von Berichten in ReportBuilder
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
+
 
 Beim Erstellen und Bearbeiten von Berichten in ReportBuilder wurden die folgenden Probleme gemeldet:
 

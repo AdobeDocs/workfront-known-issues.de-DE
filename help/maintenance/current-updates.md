@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,18 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 -->
 
 Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
+
+## Aktualisierungen im Oktober 2022
+
++++**Wartungs-Update am 3. Oktober 2022**
+
+**Speichern Sie Ihr Timesheet manuell, wenn sich die vorherigen Vorgangsrollen geändert haben.**
+
+*Arbeitszeit- tabellen*
+
+Wenn sich die Rolle des Auftrags, für den Sie die Zeit protokolliert haben, geändert hat und die [!UICONTROL Manuelles Zuweisen von Auftragsrollen zu Stundeneinträgen] -Einstellung deaktiviert wurde, müssen Sie Ihre Zeiteinträge manuell speichern, bis Stunden nicht mehr für die geänderte Vorgangsrolle protokolliert werden.
+
++++
 
 ## Aktualisierungen im September 2022
 

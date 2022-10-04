@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '475'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 | **Anfrage** | **Letzte Änderung** |
 |---|---|
+| [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
 | [Benachrichtigungen: Benutzer, die nicht benachrichtigt wurden, wenn sie erwähnt wurden oder in einem Kommentar enthalten sind](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
 | [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15. September 2022 |
 | [Aufgaben und Probleme: Unbeabsichtigtes Beenden beim Erstellen von Aufgaben oder Problemen](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 9. September 2022 |

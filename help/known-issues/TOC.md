@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1258'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [Teams: Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Benachrichtigungen: Benutzer, die nicht benachrichtigt wurden, wenn sie erwähnt wurden oder in einem Kommentar enthalten sind](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Timesheets: Fehler beim Hinzufügen von Kommentaren zu einem Timesheet](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)

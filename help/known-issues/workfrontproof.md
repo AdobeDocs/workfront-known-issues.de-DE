@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Bekannte Probleme für [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 | Anfrage | Letzte Änderung |
 |---|---|
-| Keine |  |
+| [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

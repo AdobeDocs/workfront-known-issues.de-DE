@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '13581'
+source-wordcount: '13746'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,41 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
 
 ## Aktualisierungen im Oktober 2022
+
++++**(Geplant) Aktualisierung der Wartung am 6. Oktober 2022**
+
+**Elemente, die sich im linken Bereich überschneiden**
+
+*Benutzerdefinierte Formulare in meiner Gruppe*
+
+Wenn ein Benutzer im Formular-Builder arbeitet und das Formular mehr als 100 Felder enthält, führt die Meldung, die den Benutzer über die Feldbegrenzung informiert, dazu, dass sich die Elemente im linken Bereich überschneiden.
+
+**Datumsauswahl wird automatisch im Fokus geöffnet**
+
+*Navigation*
+
+Beim Navigieren über die Tastatur werden die Datumsauswahl beim Empfang des Tastaturfokus nicht mehr automatisch geöffnet und aktiviert.
+
+&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert.]&quot;-Fehler beim automatischen Speichern von Änderungen in einem Timesheet
+
+*Arbeitszeit- tabellen*
+
+Wenn ein Benutzer versucht, ein Timesheet so zu bearbeiten, dass die Änderungen automatisch gespeichert und Trigger werden, werden die Änderungen nicht gespeichert und der Benutzer sieht die folgende Meldung:
+
+&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die anzuzeigende Seite.]&quot;
+
+Dies wurde beim Bearbeiten der folgenden Elemente berichtet:
+
+* Stunden
+* Aufgaben
+
+E-Mail-Benachrichtigungen werden verzögert
+
+*Workfront-Korrekturabzug*
+
+Wenn ein Ereignis in [!DNL Workfront Proof] Wenn eine E-Mail-Benachrichtigung Trigger wird, erhält der Benutzer die Benachrichtigung nicht sofort. Die Benachrichtigung kann um mehrere Stunden verzögert werden.
+
++++
 
 +++**Wartungs-Update am 3. Oktober 2022**
 

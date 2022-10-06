@@ -3,10 +3,10 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
-source-wordcount: '444'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 ## Neu
 
-Diese kürzlich gemeldeten Probleme werden derzeit überprüft
+Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |

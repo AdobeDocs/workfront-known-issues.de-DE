@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupd
 
 ## Aktualisierungen im Oktober 2022
 
-+++**(Geplant) Aktualisierung der Wartung am 6. Oktober 2022**
++++**Wartungs-Update am 6. Oktober 2022**
 
 **Elemente, die sich im linken Bereich überschneiden**
 
@@ -45,7 +45,17 @@ Wenn ein Benutzer im Formular-Builder arbeitet und das Formular mehr als 100 Fel
 
 Beim Navigieren über die Tastatur werden die Datumsauswahl beim Empfang des Tastaturfokus nicht mehr automatisch geöffnet und aktiviert.
 
-&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert.]&quot;-Fehler beim automatischen Speichern von Änderungen in einem Timesheet
+**Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist**
+
+*Teams*
+
+>[!NOTE]
+>
+>Dieses Problem tritt nur in der Vorschau -Umgebung auf.
+
+Wenn ein Benutzer einer Aufgabe oder einem Problem mehrere Teams zuweist, wird nur ein Team in der Zuweisungsliste angezeigt. Dieses Problem betrifft auch die Berichterstellung. Berichte mit Teamzuweisungen sind ungenau, da nur ein Team als der Aufgabe oder dem Problem zugewiesen angezeigt wird.
+
+**&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert.]&quot;-Fehler beim automatischen Speichern von Änderungen in einem Timesheet**
 
 *Arbeitszeit- tabellen*
 
@@ -58,7 +68,7 @@ Dies wurde beim Bearbeiten der folgenden Elemente berichtet:
 * Stunden
 * Aufgaben
 
-E-Mail-Benachrichtigungen werden verzögert
+**E-Mail-Benachrichtigungen werden verzögert**
 
 *Workfront-Korrekturabzug*
 

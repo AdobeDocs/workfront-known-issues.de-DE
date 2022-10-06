@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Bekannte Probleme für [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 5%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6. Oktober 2022 |
 | [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}

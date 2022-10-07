@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '13831'
+source-wordcount: '13915'
 ht-degree: 3%
 
 ---
@@ -45,11 +45,13 @@ Der Blueprint-Typ &quot;Dashboard&quot; wurde dem Blueprint-Katalog hinzugefügt
 
 Wenn ein Benutzer im Formular-Builder arbeitet und das Formular mehr als 100 Felder enthält, führt die Meldung, die den Benutzer über die Feldbegrenzung informiert, dazu, dass sich die Elemente im linken Bereich überschneiden.
 
-**Datumsauswahl wird automatisch im Fokus geöffnet**
+**Die Datumsauswahl wird nicht mehr automatisch beim Eingabefokus oder Klick geöffnet**
 
 *Navigation*
 
-Beim Navigieren über die Tastatur werden die Datumsauswahl beim Empfang des Tastaturfokus nicht mehr automatisch geöffnet und aktiviert.
+Wenn ein Benutzer über die Tastatur navigiert, werden die Datumsauswahl bei der Datumseingabe, die den Tastaturfokus erhält, nicht mehr automatisch geöffnet. Stattdessen sollten Tastaturbenutzer die Registerkarte zum Datumsauswahlsymbol öffnen und die Eingabetaste drücken, um die Datumsauswahl zu öffnen. Wenn ein Benutzer mit der Maus navigiert, werden die Datumsauswahl bei angeklickter Datumseingabe nicht mehr automatisch geöffnet. Stattdessen sollten Tastaturbenutzer auf das Datumsauswahlsymbol klicken, um die Datumsauswahl zu öffnen.
+
+Diese Änderung wurde vorgenommen, um besser mit den Standard-UX-Mustern für die Datumsauswahl übereinzustimmen und ein barrierefreies Erlebnis für Benutzer von Tastatur und Bildschirmlesehilfe zu schaffen.
 
 **Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist**
 

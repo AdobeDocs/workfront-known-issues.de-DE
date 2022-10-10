@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Testsendungen: Durch Hinzufügen einer Gruppe zu einem Testversand werden nicht alle Mitglieder der Gruppe hinzugefügt](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Aufgaben und Probleme: Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layoutvorlage](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Testsendungen: Testsendungen können nicht automatisch verglichen werden](known-issues-workfront/wf-proofs-cannot-auto-compare.md)

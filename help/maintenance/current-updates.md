@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '13915'
+source-wordcount: '14291'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,56 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
 
 ## Aktualisierungen im Oktober 2022
+
++++**(Geplant) Aktualisierung der Wartung am 13. Oktober 2022**
+
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+
+*Navigation*
+
+>[!NOTE]
+>
+>Dieses Problem wird in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+
+Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+
+Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+
+**Neu erstellte Filter können nicht benannt oder gespeichert werden**
+
+*[!UICONTROL Ressourcenplaner]*
+
+Wenn ein Benutzer versucht, einen neuen Filter im [!UICONTROL Ressourcenplaner], bleibt das Namensfeld leer. Wenn der Benutzer die Leertaste gedrückt hat, wird die [!UICONTROL Speichern] Schaltfläche deaktiviert.
+
+**Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden**
+
+*Aufgaben und Probleme*
+
+Benutzer mit [!UICONTROL Beitragen] Der Zugriff auf eine Aufgabe oder ein Problem kann den Namen der Aufgabe oder des Problems in der Kopfzeile nicht bearbeiten. Darüber hinaus können Benutzer mit [!UICONTROL Beitragen] Der Zugriff kann den Prozentsatz der Fertigstellung einer Aufgabe oder eines Problems nicht bearbeiten.
+
+**Anforderer und Prüfer zählen zur Lizenzanzahl eines Unternehmens**
+
+*[!DNL Workfront Proof]*
+
+Wenn ein Benutzer einem Testversand als Validierer oder Anforderer hinzugefügt wird, erhält er eine[!UICONTROL Besucher]&quot;Berechtigungsprofil, das nicht eine [!DNL Workfront Proof] Lizenz. Beim Hinzufügen des Benutzers wird jedoch die Anzahl der verwendeten [!DNL Workfront Proof] erhöht sich.
+
++++
+
++++**Aktualisierung der Wartung am 11. Oktober 2022
+
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+
+*Navigation*
+
+>[!NOTE]
+>
+>Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+
+Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+
+Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+
++++
 
 +++**Wartungs-Update am 6. Oktober 2022**
 

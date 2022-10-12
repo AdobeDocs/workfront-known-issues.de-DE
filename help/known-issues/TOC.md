@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1347'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Listen: [!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [Zuweisungen: Fehler bei der Massenzuweisung eines Teams](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)

@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Listen: [!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12. Oktober 2022 |
 | [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11. Oktober 2022 |
 | [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10. Oktober 2022 |
 | [Aufgaben und Probleme: Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10. Oktober 2022 |

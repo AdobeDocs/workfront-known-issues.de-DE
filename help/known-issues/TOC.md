@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [Zuweisungen: Fehler bei der Massenzuweisung eines Teams](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [Testsendungen: Durch Hinzufügen einer Gruppe zu einem Testversand werden nicht alle Mitglieder der Gruppe hinzugefügt](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Aufgaben und Probleme: Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)

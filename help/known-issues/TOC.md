@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1354'
+source-wordcount: '1372'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [Benutzerdefinierte Formulare: Fehler &quot;Hopfen&quot; beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Timesheets: Stunden können nicht in [!UICONTROL Allgemeine Zeit]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [Listen: [!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)

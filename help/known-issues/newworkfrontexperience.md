@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '487'
 ht-degree: 2%
 
 ---
@@ -24,10 +24,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Timesheets: Stunden können nicht in [!UICONTROL Allgemeine Zeit]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12. Oktober 2022 |
-| [Zuweisungen: Fehler bei der Massenzuweisung eines Teams](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11. Oktober 2022 |
-| [Testsendungen: Durch Hinzufügen einer Gruppe zu einem Testversand werden nicht alle Mitglieder der Gruppe hinzugefügt](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10. Oktober 2022 |
-| [Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layoutvorlage](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6. Oktober 2022 |
 | [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6. Oktober 2022 |
 | [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
 | [Benachrichtigungen: Benutzer, die nicht benachrichtigt wurden, wenn sie erwähnt wurden oder in einem Kommentar enthalten sind](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
@@ -42,11 +38,11 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Zuweisungen: Fehler bei der Massenzuweisung eines Teams](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 13. Oktober 2022 |
+| [Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layoutvorlage](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 13. Oktober 2022 |
 | [Listen: [!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 12. Oktober 2022 |
 | [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11. Oktober 2022 |
 | [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10. Oktober 2022 |
-| [Aufgaben und Probleme: Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10. Oktober 2022 |
-| [Testsendungen: Testsendungen können nicht automatisch verglichen werden](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6. Oktober 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30. September 2022 |
 | [Integrationen: Fehler beim Senden der Anforderung von [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Support-Fall für Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Bekannte Probleme für [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Durch Hinzufügen einer Gruppe zu einem Testversand werden nicht alle Mitglieder der Gruppe hinzugefügt](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10. Oktober 2022 |
 | [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6. Oktober 2022 |
 | [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
 
@@ -36,8 +35,7 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Testsendungen können nicht automatisch verglichen werden](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6. Oktober 2022 |
-| [[!DNL Workfront Proof]: Anforderer und Prüfer zählen zur Lizenzanzahl eines Unternehmens](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12. August 2022 |
+| Keine |  |
 
 {style=&quot;table-layout:auto&quot;}
 

@@ -2,7 +2,7 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 3%
@@ -65,7 +65,7 @@ Wenn ein Benutzer einem Testversand als Validierer oder Anforderer hinzugefügt 
 
 +++
 
-+++**Aktualisierung der Wartung am 11. Oktober 2022
++++**Wartungsupdate am 11. Oktober 2022**
 
 **Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
 

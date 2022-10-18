@@ -2,9 +2,9 @@
 title: Workfront-Wartungs-Updates
 description: Wartungsupdates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
+source-wordcount: '14458'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,39 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
 
 ## Aktualisierungen im Oktober 2022
+
++++**Wartungs-Update am 20. Oktober 2022**
+
+**Fehler bei der Massenzuweisung eines Teams**
+
+*Zuweisungen*
+
+Wenn ein Benutzer Aufgaben oder Probleme bei der Massenbearbeitung hat und ein Team zuweist, nachdem er eine Person zugewiesen hat, werden die Zuweisungen nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+
+&quot;[!UICONTROL Versuchen wir es erneut - der folgende Fehler ist aufgetreten: teamAssignments muss entweder eine Liste von Objekten oder eine Liste von IDs sein]&quot;
+
+**[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error**
+
+*Dokumente*
+
+Wenn ein Benutzer versucht, eine Datei in die [!UICONTROL Dokumente] -Bereich, die Datei wird nicht hochgeladen und der Benutzer sieht den Fehler &quot;[!UICONTROL Datei konnte nicht hochgeladen werden].&quot;
+
+Dies wurde beim Versuch berichtet, MP4-Dateien hochzuladen.
+
+**Die Anzahl der Probleme in der linken Navigation der Aufgabe ist falsch**
+
+*Anfragen*
+
+Wenn ein Benutzer eine Aufgabe anzeigt, wird die Zahl auf der [!UICONTROL Probleme] im linken Navigationsbereich nicht genau die tatsächliche Anzahl der mit der Aufgabe verbundenen Probleme darstellt.
+
+
+**[!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile**
+
+*Aufgaben*
+
+Wenn ein Benutzer eine Aufgabe anzeigt, fehlt das Symbol des Vorgängers der Aufgabe in der Kopfzeile.
+
++++
 
 +++**Wartungs-Update am 13. Oktober 2022**
 

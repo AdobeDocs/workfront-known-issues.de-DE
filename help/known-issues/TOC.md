@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme für [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1424'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Pinnwände]: [!UICONTROL Pinnwände] Seite wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Programme: Probleme beim Zuweisen einer [!UICONTROL Programmeigentümer]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Berichte: Option &quot;Verschieben nach&quot;nicht für Problemberichte verfügbar](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Probleme: Die Anzahl der Probleme in der linken Navigation der Aufgabe ist falsch](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Leere Seiten bei der Anzeige eines Testversands mit mehreren Seiten](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Testsendungen: Fehler beim Hinzufügen des Testversands zu [!DNL Workfront] von [!DNL Workfront] Testversand](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Fehler beim Hochladen einer Datei in einen Kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)

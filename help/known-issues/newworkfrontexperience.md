@@ -3,9 +3,9 @@ title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
 description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Pinnwände]: [!UICONTROL Pinnwände] Seite wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18. Oktober 2022 |
+| [Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18. Oktober 2022 |
 | [Probleme: Die Anzahl der Probleme in der linken Navigation der Aufgabe ist falsch](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12. Oktober 2022 |
 | [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6. Oktober 2022 |
 | [Dokumente: &quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4. Oktober 2022 |
@@ -59,6 +61,7 @@ Korrekturen für diese Probleme befinden sich derzeit nicht im Fahrplan. In eini
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [Dashboards: Die in einem Dashboard angezeigten Berichtdiagramme verwenden andere Farben als bei der Anzeige im Bericht](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
 | [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Startbereich angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |

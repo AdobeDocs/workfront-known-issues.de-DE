@@ -1,17 +1,17 @@
 ---
-title: '"Anforderungen: In ein Projekt konvertierte Anforderung mit Vorlage zeigt Gruppe aus Anforderungswarteschlange, nicht Gruppe aus Vorlage'
-description: Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der Gruppe zugeordnet, der die Anforderungswarteschlange gehört, nicht der Gruppe, die der Vorlage zugewiesen ist. Dies geschieht auch, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe in der [!UICONTROL Gruppe] -Feld.
+title: '„Anfragen: Wenn eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert wird, wird die in der Anfragewarteschlange befindliche Gruppe anstelle der Gruppe in der Vorlage angezeigt“'
+description: Wenn ein(e) Benutzende(r) eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der in der Anfragewarteschlange befindlichen Gruppe zugeordnet und nicht der Gruppe, die in der Vorlage zugewiesen wird. Dies ist auch dann der Fall, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe im Feld [!UICONTROL Gruppe] angezeigt wird.
 exl-id: 2efeda9f-b261-4c86-b124-f5ba37a3c7dd
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anforderungen: In ein Projekt konvertierte Anforderung mit Vorlage zeigt Gruppe aus Anforderungswarteschlange, nicht Gruppe aus Vorlage
+# Anfragen: Wenn eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert wird, wird die in der Anfragewarteschlange befindliche Gruppe anstelle der Gruppe in der Vorlage angezeigt
 
-Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der Gruppe zugeordnet, der die Anforderungswarteschlange gehört, nicht der Gruppe, die der Vorlage zugewiesen ist. Dies geschieht auch, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe in der [!UICONTROL Gruppe] -Feld.
+Wenn ein(e) Benutzende(r) eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der in der Anfragewarteschlange befindlichen Gruppe zugeordnet und nicht der Gruppe, die in der Vorlage zugewiesen wird. Dies ist auch dann der Fall, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe im Feld [!UICONTROL Gruppe] angezeigt wird.
 
 _Erste Meldung am 15. Juli 2022._

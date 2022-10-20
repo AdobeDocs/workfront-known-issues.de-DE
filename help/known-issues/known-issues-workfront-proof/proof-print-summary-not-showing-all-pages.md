@@ -4,8 +4,8 @@ description: "Wenn ein Benutzer einen Testversand anzeigt und versucht, den Test
 hidefromtoc: true
 source-git-commit: 62e78c3cffeb0e48da9cbdd917ddf717e8cb8cf1
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

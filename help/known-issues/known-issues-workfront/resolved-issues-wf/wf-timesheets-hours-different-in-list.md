@@ -1,17 +1,17 @@
 ---
-title: "Timesheets: Die auf dem Timesheet angezeigten Stunden unterscheiden sich von den Timesheets-Listen."
-description: Wenn ein Benutzer ein Timesheet öffnet, um es anzuzeigen, unterscheiden sich die angezeigten Stunden von denen, wenn der Benutzer dasselbe Timesheet in einer Timesheet-Liste anzeigt.
+title: '„Arbeitszeittabellen: Die auf der Arbeitszeittabelle angezeigten Stunden unterscheiden sich von der Arbeitszeittabellenliste“'
+description: Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle öffnet, unterscheiden sich die angezeigten Stunden von denen, die in der entsprechenden Arbeitszeittabellenliste anzeigt werden.
 exl-id: 5f1005c0-d55d-4082-b07e-86944289e946
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Timesheets: Die auf dem Timesheet angezeigten Stunden unterscheiden sich von der Timesheets-Liste
+# Arbeitszeittabellen: Die auf der Arbeitszeittabelle angezeigten Stunden unterscheiden sich von der Arbeitszeittabellenliste
 
-Wenn ein Benutzer ein Timesheet öffnet, um es anzuzeigen, unterscheiden sich die angezeigten Stunden von denen, wenn der Benutzer dasselbe Timesheet in einer Timesheet-Liste anzeigt.
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle öffnet, unterscheiden sich die angezeigten Stunden von denen, die in der entsprechenden Arbeitszeittabellenliste anzeigt werden.
 
 _Erste Meldung am 18. Juli 2022._

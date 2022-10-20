@@ -1,12 +1,12 @@
 ---
-title: Bekannte Probleme in neuen [!DNL Adobe Workfront] Erlebnis
-description: Bekannte Probleme bei neuen [!DNL Adobe Workfront] Erlebnis
+title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
+description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
+source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 2%
+source-wordcount: '578'
+ht-degree: 60%
 
 ---
 
@@ -16,7 +16,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 >[!IMPORTANT]
 >
->Informationen zu Serverbetriebszeiten oder -ausfällen finden Sie unter [status.adobe.com](https://status.adobe.com). Informationen zu Problemen, die kürzlich behoben wurden, finden Sie unter [[!DNL Workfront] Wartungsaktualisierungen](../maintenance/current-updates.md).
+>Informationen zu Server-Betriebszeiten oder -Ausfällen finden Sie unter [status.adobe.com/de](https://status.adobe.com/de). Informationen zu Problemen, die kürzlich behoben wurden, finden Sie unter [[!DNL Workfront] Wartungs-Updates](../maintenance/current-updates.md).
 
 ## Neu
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Die Druckzusammenfassung zeigt nicht alle Seiten des Testversands an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 | [[!UICONTROL Pinnwände]: [!UICONTROL Pinnwände] Seite wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18. Oktober 2022 |
 | [Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18. Oktober 2022 |
 | [Probleme: Die Anzahl der Probleme in der linken Navigation der Aufgabe ist falsch](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12. Oktober 2022 |
@@ -40,6 +41,8 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Berichtverwendungsinformationen werden nicht aktualisiert](known-issues-workfront/wf-reports-usage-not-updating.md) | 19. Oktober 2022 |
+| [Navigation: Objekte können nicht fixiert werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19. Oktober 2022 |
 | [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18. Oktober 2022 |
 | [Programme: Probleme beim Zuweisen einer [!UICONTROL Programmeigentümer]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17. Oktober 2022 |
 | [Berichte: Option &quot;Verschieben nach&quot;nicht für Problemberichte verfügbar](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13. Oktober 2022 |
@@ -50,8 +53,8 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 | [Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11. Oktober 2022 |
 | [Aufgaben: [!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10. Oktober 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30. September 2022 |
-| [Integrationen: Fehler beim Senden der Anforderung von [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Support-Fall für Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
+| [Integrationen: Fehler beim Senden einer Anfrage über  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -62,31 +65,31 @@ Korrekturen für diese Probleme befinden sich derzeit nicht im Fahrplan. In eini
 | **Anfrage** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
-| [Testsendungen: [!UICONTROL Aktive Testphase] Feld leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
-| [Dashboards: Die in einem Dashboard angezeigten Berichtdiagramme verwenden andere Farben als bei der Anzeige im Bericht](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
-| [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Startbereich angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |
-| [Agile: Felder aus benutzerdefinierten Formularen können nicht auf Karten bearbeitet werden](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11. Mai 2022 |
-| [Layout-Vorlagen: Gruppe kann beim Erstellen einer Layout-Vorlage nicht ausgewählt werden](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4. Mai 2022 |
-| [Agile: Probleme beim Verschieben von Karten auf der [!UICONTROL Agile] Pinnwand](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27. April 2022 |
-| [Genehmigungen: Die Validierungsdelegierung ist für die falsche Anzahl von Tagen festgelegt.](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20. April 2022 |
-| [[!UICONTROL Startseite]: Neue Option &quot;Aufgabe&quot;mit deaktivierten Benutzern in [!UICONTROL Zuweisen zu] field](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1. Oktober 2021 |
+| [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
+| [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
+| [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |
+| [Agile: Felder auf Karten können nicht über benutzerdefinierte Formulare bearbeitet werden](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11. Mai 2022 |
+| [Layout-Vorlagen: Beim Erstellen einer Layout-Vorlage kann keine Gruppe ausgewählt werden](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4. Mai 2022 |
+| [Agile: Probleme beim Verschieben von Karten auf dem [!UICONTROL Agile]-Board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27. April 2022 |
+| [Genehmigungen: Für die Delegierung von Genehmigungen wird die falsche Anzahl von Tagen festgelegt](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20. April 2022 |
+| [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] ](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1. Oktober 2021 |
 | [Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1. Oktober 2021 |
-| [Kalender: Probleme mit [!UICONTROL Zeitlimit] calendar](known-issues-workfront/wf-calendars-issue-time-off.md) | 25. Juni 2021 |
-| [Agile: Diskrepanz in [!UICONTROL Abgeschlossene Punkte] für eine Iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22. Juni 2021 |
-| [[!UICONTROL Startseite]: [!UICONTROL In Testversand antworten] Schaltflächenverhalten inkonsistent](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
-| [E-Mail-Benachrichtigungen: &quot;[!UICONTROL Ich habe ein Problem.]&quot; wird angezeigt](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2. Juni 2021 |
-| [E-Mail-Benachrichtigungen: Benutzer wird nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23. April 2021 |
-| [Kalender: [!DNL OR] Filteranweisung ausschließen Filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23. April 2021 |
-| [[!UICONTROL Workfront-Testversand]: [!UICONTROL Validierung des Testversands] kann Termine nicht genau bestimmen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
-| [[!UICONTROL Startseite]: Abgeschlossene Testsendungen stecken im [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14. Juni 2021 |
-| [Berichte: Bericht kann beim Anzeigen im Dashboard nicht horizontal gescrollt werden](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30. März 2021 |
-| [[!UICONTROL Startseite]: Der Projektname wird als GUID im [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11. Februar 2021 |
-| [Dokumente: Das Symbol &quot;Testversand-Workflow&quot;wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25. Januar 2021 |
-| [Berichte: Der Kalender verwendet standardmäßig alte Datumswerte](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 5. Februar 2021 |
-| [E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) | 30. März 2021 |
-| [[!UICONTROL Startseite]: Das Dokumentbild kann nicht im [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-unable-to-view-document-image.md) | 9. November 2020 |
-| [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierungen angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 9. November 2020 |
-| [Startseite: Datumsangaben der Validierungsdelegierung, die nach der Aktualisierung und dem Versand von zwei E-Mails geändert werden](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 9. November 2020 |
+| [Kalender: Probleme mit dem [!UICONTROL Urlaubskalender] ](known-issues-workfront/wf-calendars-issue-time-off.md) | 25. Juni 2021 |
+| [Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22. Juni 2021 |
+| [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
+| [E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2. Juni 2021 |
+| [E-Mail-Benachrichtigungen: Der/die Benutzende wird nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23. April 2021 |
+| [Kalender: [!DNL OR] -Filteranweisung führt zum Ausschluss der Filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23. April 2021 |
+| [[!UICONTROL Workfront-Korrekturabzug]: Für den Bericht zu [!UICONTROL Korrekturabzugsgenehmigungen] können keine Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
+| [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) hängen | 14. Juni 2021 |
+| [Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30. März 2021 |
+| [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) als GUID angezeigt | 11. Februar 2021 |
+| [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25. Januar 2021 |
+| [Berichte: Im Kalender werden wieder alte Datumswerte angezeigt](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 5. Februar 2021 |
+| [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) nicht korrekt formatiert | 30. März 2021 |
+| [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-unable-to-view-document-image.md) angezeigt | 9. November 2020 |
+| [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 9. November 2020 |
+| [Startseite: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung und zwei E-Mails werden versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 9. November 2020 |
 | [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 9. November 2020 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -1,21 +1,21 @@
 ---
-title: Workfront-Wartungs-Updates
-description: Wartungsupdates für [!DNL Adobe Workfront]
+title: Wartungs-Updates für Workfront
+description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
 source-wordcount: '14458'
-ht-degree: 3%
+ht-degree: 94%
 
 ---
 
-# [!DNL Workfront] Wartungsaktualisierungen
+# Wartungs-Updates für [!DNL Workfront]
 
-Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
+Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 
 >[!NOTE]
 >
->Diese Aktualisierungen umfassen auch andere kleinere oder weniger auffällige Fehlerbehebungen. [!DNL Workfront] Der Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+>Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -27,11 +27,11 @@ Die folgenden Wartungsaktualisierungen wurden 2022 vorgenommen.
 * [January 2022](#updates-in-january-2022)
 -->
 
-Informationen zu Wartungsupdates vor 2022 finden Sie unter [Frühere Wartungsupdates](#previous-maintenance-updates)
+Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
-## Aktualisierungen im Oktober 2022
+## Updates im Oktober 2022
 
-+++**Wartungs-Update am 20. Oktober 2022**
++++**Wartungs-Update vom 20. Oktober 2022**
 
 **Fehler bei der Massenzuweisung eines Teams**
 
@@ -64,7 +64,7 @@ Wenn ein Benutzer eine Aufgabe anzeigt, fehlt das Symbol des Vorgängers der Auf
 
 +++
 
-+++**Wartungs-Update am 13. Oktober 2022**
++++**Wartungs-Update vom 13. Oktober 2022**
 
 **Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
 
@@ -90,11 +90,11 @@ Wenn ein Benutzer versucht, einen neuen Filter im [!UICONTROL Ressourcenplaner],
 
 Benutzer mit [!UICONTROL Beitragen] Der Zugriff auf eine Aufgabe oder ein Problem kann den Namen der Aufgabe oder des Problems in der Kopfzeile nicht bearbeiten. Darüber hinaus können Benutzer mit [!UICONTROL Beitragen] Der Zugriff kann den Prozentsatz der Fertigstellung einer Aufgabe oder eines Problems nicht bearbeiten.
 
-**Anforderer und Prüfer zählen zur Lizenzanzahl eines Unternehmens**
+**Anfordernde und Prüfende werden bei der Lizenzanzahl eines Unternehmens mitgezählt**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer einem Testversand als Validierer oder Anforderer hinzugefügt wird, erhält er eine[!UICONTROL Besucher]&quot;Berechtigungsprofil, das nicht eine [!DNL Workfront Proof] Lizenz. Beim Hinzufügen des Benutzers wird jedoch die Anzahl der verwendeten [!DNL Workfront Proof] erhöht sich.
+Wenn ein(e) Benutzende(r) einem Korrekturabzug als Prüfende(r) oder Anfragende(r) hinzugefügt wird, erhält er/sie das Berechtigungsprofil „[!UICONTROL Besucher]“, für das keine [!DNL Workfront Proof]-Lizenz erforderlich ist. Wenn der/die Benutzende hinzugefügt wird, steigt aber die Anzahl der verwendeten [!DNL Workfront Proof]-Lizenzen.
 
 +++
 
@@ -114,7 +114,7 @@ Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröff
 
 +++
 
-+++**Wartungs-Update am 6. Oktober 2022**
++++**Wartungs-Update vom 6. Oktober 2022**
 
 **Neuer Blueprint-Typ**
 
@@ -126,7 +126,7 @@ Der Blueprint-Typ &quot;Dashboard&quot; wurde dem Blueprint-Katalog hinzugefügt
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer im Formular-Builder arbeitet und das Formular mehr als 100 Felder enthält, führt die Meldung, die den Benutzer über die Feldbegrenzung informiert, dazu, dass sich die Elemente im linken Bereich überschneiden.
+Wenn ein(e) Benutzende(r) im Formular-Builder arbeitet und das Formular mehr als 100 Felder enthält, führt die Meldung, die den/die Benutzende(n) über die Feldbegrenzung informiert, zu einer Überschneidung der Elemente im linken Bereich.
 
 **Die Datumsauswahl wird nicht mehr automatisch beim Eingabefokus oder Klick geöffnet**
 
@@ -142,7 +142,7 @@ Diese Änderung wurde vorgenommen, um besser mit den Standard-UX-Mustern für di
 
 >[!NOTE]
 >
->Dieses Problem tritt nur in der Vorschau -Umgebung auf.
+>Dieses Problem tritt nur in der Vorschau-Umgebung auf.
 
 Wenn ein Benutzer einer Aufgabe oder einem Problem mehrere Teams zuweist, wird nur ein Team in der Zuweisungsliste angezeigt. Dieses Problem betrifft auch die Berichterstellung. Berichte mit Teamzuweisungen sind ungenau, da nur ein Team als der Aufgabe oder dem Problem zugewiesen angezeigt wird.
 
@@ -150,24 +150,24 @@ Wenn ein Benutzer einer Aufgabe oder einem Problem mehrere Teams zuweist, wird n
 
 *Arbeitszeit- tabellen*
 
-Wenn ein Benutzer versucht, ein Timesheet so zu bearbeiten, dass die Änderungen automatisch gespeichert und Trigger werden, werden die Änderungen nicht gespeichert und der Benutzer sieht die folgende Meldung:
+Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle so zu bearbeiten, dass die automatische Speicherung der Änderungen ausgelöst wird, werden die Änderungen nicht gespeichert und der/die Benutzende sieht die folgende Meldung:
 
 &quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die anzuzeigende Seite.]&quot;
 
-Dies wurde beim Bearbeiten der folgenden Elemente berichtet:
+Dies wurde beim Bearbeiten der folgenden Elemente gemeldet:
 
 * Stunden
 * Aufgaben
 
-**E-Mail-Benachrichtigungen werden verzögert**
+**E-Mail-Benachrichtigungen sind verzögert**
 
 *Workfront-Korrekturabzug*
 
-Wenn ein Ereignis in [!DNL Workfront Proof] Wenn eine E-Mail-Benachrichtigung Trigger wird, erhält der Benutzer die Benachrichtigung nicht sofort. Die Benachrichtigung kann um mehrere Stunden verzögert werden.
+Wenn ein Ereignis in [!DNL Workfront Proof] stattfindet, durch das eine E-Mail-Benachrichtigung ausgelöst wird, erhält der/die Benutzende die Benachrichtigung nicht sofort. Die Benachrichtigung kann um mehrere Stunden verzögert ankommen.
 
 +++
 
-+++**Wartungs-Update am 3. Oktober 2022**
++++**Wartungs-Update vom 3. Oktober 2022**
 
 **Speichern Sie Ihr Timesheet manuell, wenn sich die vorherigen Vorgangsrollen geändert haben.**
 
@@ -177,9 +177,9 @@ Wenn sich die Rolle des Auftrags, für den Sie die Zeit protokolliert haben, ge�
 
 +++
 
-## Aktualisierungen im September 2022
+## Updates im September 2022
 
-+++**Wartungs-Update am 29. September 2022**
++++**Wartungs-Update vom 29. September 2022**
 
 **Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück**
 
@@ -197,7 +197,7 @@ Wenn ein Benutzer ein Dokument in [!DNL Workfront] und versucht, den Testversand
 
 *Arbeitszeit- tabellen*
 
-Wenn ein Benutzer ein Zeitblatt ausfüllt und zwischen Zellen mit der [!UICONTROL Registerkarte] -Taste, werden die Stunden nicht gespeichert. Die [!UICONTROL Automatisches Speichern] -Benachrichtigung wird unten im Bildschirm nicht angezeigt. Wenn der Benutzer die Seite aktualisiert, kann er sehen, wie die Stunden nicht gespeichert wurden.
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle ausfüllt und mit der [!UICONTROL Tabulatortaste] zwischen Zellen navigiert, werden die Stunden nicht gespeichert. Die Benachrichtigung zum [!UICONTROL automatischen Speichern] wird nicht unten am Bildschirm angezeigt. Wenn der/die Benutzende die Seite aktualisiert, kann er/sie sehen, das die Stunden nicht gespeichert wurden.
 
 **Leere Seiten bei der Anzeige eines Testversands mit mehreren Seiten**
 
@@ -209,426 +209,426 @@ Wenn ein Benutzer einen Testversand mit mehreren Seiten anzeigt, kann er Miniatu
 
 +++
 
-+++**Wartungs-Update am 22. September 2022**
++++**Wartungs-Update vom 22. September 2022**
 
-**Benutzerkarte kann nicht im Aktualisierungsstream geschlossen werden**
+**Benutzerkarte wird in Aktualisierungen nicht geschlossen**
 
 *Updates*
 
-Wenn ein Benutzer Aktualisierungen anzeigt und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum Benutzer, dessen Name geöffnet wird und nicht automatisch geschlossen wird, angezeigt. Die Seite reagiert erst, wenn die Karte manuell geschlossen wird, indem Sie auf das X in der oberen rechten Ecke klicken.
+Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht mehr, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.
 
 +++
 
-+++**Wartungs-Update am 15. September 2022**
++++**Wartungs-Update vom 15. September 2022**
 
-**&quot;[!UICONTROL Jemand anders hat versucht, dieses Projekt zu speichern]&quot;-Fehler bei Eingabe der Stunden**
+**Beim Eingeben von Stunden erscheint der Fehler „[!UICONTROL Eine andere Person hat versucht, dieses Projekt zu speichern]“**
 
 *Arbeitszeit- tabellen*
 
-Wenn ein Benutzer versucht, Stunden für eine Aufgabe auf seinem Zeitblatt zu protokollieren, werden die Stunden nicht automatisch gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, einer Aufgabe auf seiner/ihrer Arbeitszeittabelle Stunden hinzuzufügen, werden die Stunden nicht automatisch gespeichert und die folgende Fehlermeldung erscheint:
 
-&quot;[!UICONTROL Hinweis: Das Speichern ist fehlgeschlagen, da ein anderer Benutzer gleichzeitig versucht hat, dieses Projekt zu speichern. Versuchen Sie erneut, das Projekt zu speichern.]&quot;
+„[!UICONTROL Hinweis: Das Speichern ist fehlgeschlagen, da ein anderer Benutzer gleichzeitig versucht hat, dieses Projekt zu speichern. Versuchen Sie erneut, das Projekt zu speichern.]“
 
-**Benutzerkarte kann nicht im Aktualisierungsstream geschlossen werden**
+**Benutzerkarte wird in Aktualisierungen nicht geschlossen**
 
 *Updates*
 
-Wenn ein Benutzer Aktualisierungen anzeigt und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum Benutzer, dessen Name geöffnet wird und nicht automatisch geschlossen wird, angezeigt. Die Seite reagiert erst, wenn die Karte manuell geschlossen wird, indem Sie auf das X in der oberen rechten Ecke klicken.
+Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht mehr, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.
 
-**Die &quot;[!UICONTROL Aufgabenrollenzuweisung]&quot; wurde in &quot;[!UICONTROL Rollenzuweisung]&quot; bei der Zuweisung von Aufgaben in großen Mengen mithilfe der [!UICONTROL Lastenausgleich]**
+**Das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ wurde in „[!UICONTROL Rollenzuweisung]“ umbenannt, um zum Ausdruck zu bringen, dass gleichzeitig mehrere Arbeitsaufgaben über den [!UICONTROL Workload Balancer]** zugewiesen werden können
 
 *[!UICONTROL Workload Balancer]*
 
-Um die neue Funktion widerzuspiegeln, mit der sowohl Aufgaben als auch Probleme stapelweise über die [!UICONTROL Nicht zugewiesene Arbeit] wurde in[!UICONTROL Aufgabenrollenzuweisung]&quot;-Feld in &quot;[!UICONTROL Rollenzuweisung]&quot; in der [!UICONTROL Lastenausgleich]. Das Feld bezieht sich auf Vorgangsrollen, die Aufgaben oder Problemen zugewiesen wurden, und wird beim Zuweisen von Benutzern zu Elementen im [!UICONTROL Massenzuweisungen] ankreuzen.
+Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größere Anzahl von sowohl Aufgaben als auch Problemen im Bereich [!UICONTROL Nicht zugewiesene Arbeit] zugewiesen werden können, wurde im [!UICONTROL Workload Balancer] das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ in „[!UICONTROL Rollenzuweisung]“ umbenannt. Das Feld bezieht sich auf Aufgabengebiete, die entweder Aufgaben oder Problemen zugewiesen wurden, und es wird angezeigt, wenn im Feld [!UICONTROL Massenzuweisungen] Benutzende Elementen zugewiesen werden.
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Wartungs-Update am 15. September 2022**
++++**[!DNL Workfront Scenario Planner]Wartungs-Update vom 15. September 2022**
 
-**Für eine Gruppe freigegebene Filter wird nun im [!DNL Scenario Planner]s  [!UICONTROL Projekte importieren] Liste für Mitglieder aller Untergruppen**
+**Ein für eine Gruppe freigegebener Filter wird nun für Mitglieder aller Untergruppen im [!DNL Scenario Planner] in der Liste [!UICONTROL Projekte importieren] angezeigt**
 
 *[!DNL Workfront Scenario Planner]*
 
-Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen freigeben, ist der Filter für alle Gruppen- und Untergruppenmitglieder sichtbar, die Projekte im [!UICONTROL Projekte importieren] im Feld eines Plans [!DNL Scenario Planner].
+Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen freigeben, ist der Filter für alle Gruppen- und Untergruppenmitglieder sichtbar, die Projekte im Feld [!UICONTROL Projekte importieren] eines Plans im [!DNL Scenario Planner] betrachten.
 
 +++
 
-+++**Wartungs-Update am 8. September 2022**
++++**Wartungs-Update vom 8. September 2022**
 
-**Aktualisierte Namen, die für die Benutzer- und Rollenzuweisungsfelder zurückgesetzt wurden**
+**Aktualisierte Feldernamen zur Zuweisung von Benutzenden und Aufgabengebieten wurden wieder zurückgesetzt**
 
 *Zuweisungen*
 
-Die in der letzten Woche vorübergehend umbenannten Zuweisungsfelder wurden auf ihre ursprünglichen Namen zurückgesetzt:
+Die in der letzten Woche vorübergehend umbenannten Arbeitsauftragsfelder wurden auf ihre ursprünglichen Namen zurückgesetzt:
 
 * [!UICONTROL Arbeitsauftrag – Benutzer]
 * [!UICONTROL Arbeitsauftrag – Aufgabengebiete]
 
-**Fehler beim Entfernen des Projekteigentümers aus der Kopfzeile**
+**Fehler beim Entfernen des Projektbesitzers aus der Kopfzeile**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, eine [!UICONTROL Projektinhaber] aus der Kopfzeile eines Projekts, die [!UICONTROL Projektinhaber] nicht entfernt wurde und dem Benutzer die folgende Fehlermeldung angezeigt wird:
+Wenn ein(e) Benutzende(r) versucht, eine(n) [!UICONTROL Projektbesitzer(in)] aus der Kopfzeile eines Projekts zu entfernen, wird der/die [!UICONTROL Projektbesitzer(in)] nicht entfernt und der/die Benutzende erhält folgende Fehlermeldung:
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
-**Neu [!UICONTROL Beschreibung] zurück in die Originalgröße**
+**Geänderte Größe des Fensters [!UICONTROL Beschreibung] wird auf die Originalgröße** zurückgesetzt
 
 *Projekte, Aufgaben und Probleme*
 
-Wenn ein Benutzer die Größe [!UICONTROL Beschreibung] im Detailbereich eines Arbeitselements klicken, um es zu vergrößern, und dann mit der Eingabe in das Feld beginnen, kehrt die Originalgröße des Feldes zurück. Der Benutzer kann weiterhin das Feld eingeben und die Inhalte wie erwartet speichern
+Wenn ein(e) Benutzende das Fenster [!UICONTROL Beschreibung] im Detailbereich eines Arbeitselements vergrößert und dann Text in das Feld tippt, wird die Originalgröße des Feldes wiederhergestellt. Der/die Benutzende kann dennoch Text in das Feld eingeben und der Inhalt wird wie erwartet gespeichert.
 
 **Unbeabsichtigtes Beenden beim Erstellen von Aufgaben oder Problemen**
 
 *Aufgaben und Probleme*
 
-Wenn ein Benutzer eine Aufgabe oder ein Problem in einem Projekt erstellt und außerhalb des Erstellungs-Popup klickt, wird das Popup ohne Warnung geschlossen und alle zuvor eingegebenen Informationen gehen verloren.
+Wenn ein(e) Benutzende(r) eine Aufgabe oder ein Problem in einem Projekt erstellt und außerhalb des Erstellungsfensters klickt, wird das Fenster ohne Warnung geschlossen und alle eingegebenen Informationen gehen verloren.
 
-**Die Möglichkeit, einen Testversand per E-Mail an eine Dropzone zu senden, wurde entfernt**
+**Die Möglichkeit, einen Korrekturabzug per E-Mail an einen Ablagebereich zu senden, wurde entfernt**
 
 *[!DNL Workfront Proof]*
 
-Ab Donnerstag, 8. September 2022 haben wir die Möglichkeit entfernt, einen Testversand per E-Mail an eine Dropzone im Standalone-Modus zu senden [!DNL Workfront Proof] Produkt.
+Am 8. September 2022 haben wir die Möglichkeit entfernt, im Standalone-[!DNL Workfront Proof]-Produkt einen Korrekturabzug per E-Mail an einen Ablagebereich zu senden.
 
-Sie können weiterhin Dropzones auf andere Weise verwenden, um neue Testsendungen und neue Versionen von Testsendungen an Ihr Konto zu senden, ohne sich bei Ihrem Konto anmelden zu müssen. Siehe [Die Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html) für weitere Informationen.
+Sie können Ablagebereiche weiterhin auf andere Weise verwenden, um neue Korrekturabzüge und neue Versionen von Korrekturabzügen an Ihr Konto zu senden, ohne sich bei Ihrem Konto anmelden zu müssen. Siehe [Der Ablagebereich](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=de) für weitere Informationen.
 
 +++
 
-+++**Wartungs-Update am 6. September 2022**
++++**Wartungs-Update vom 6. September 2022**
 
-**Zur Liste der Felder für anpassbare Projekt-Header hinzugefügte Datumsangaben**
+**Zur Felderliste für anpassbare Projekt-Kopfzeilen wurden ein voraussichtliches Datum hinzugefügt**
 
 *Projekte*
 
-Wir haben die [!UICONTROL Projiziertes Startdatum] und [!UICONTROL Voraussichtlicher Abschluss] in die Liste der Felder für anpassbare Projekt-Header bei Verwendung einer Layoutvorlage.
+Wir haben zur Liste der Felder für anpassbare Projekt-Kopfzeilen bei der Verwendung einer Layout-Vorlage das [!UICONTROL voraussichtliche Startdatum] und das [!UICONTROL voraussichtliche Abschlussdatum] hinzugefügt.
 
-**Neues Limit mit einer Bestätigungsnachricht, die die Anzahl der zu einem Timesheet hinzugefügten Elemente anzeigt**
+**Neues Limit bei einer Bestätigungsnachricht, bei der die Anzahl der zu einer Arbeitszeittabelle hinzugefügten Elemente angezeigt wird**
 
 *Arbeitszeit- tabellen*
 
-Wenn Sie mehr als 50 Elemente auswählen, die Sie einem Zeitblatt hinzufügen möchten, erhalten Sie jetzt eine Bestätigungsnachricht, die die Anzahl der Elemente anzeigt, die zum Zeitblatt hinzugefügt werden sollen. Außerdem erhalten Sie die Möglichkeit, den Kurs zu ändern und nicht alle Elemente hinzuzufügen. Alle hinzugefügten Elemente werden automatisch in das Timesheet eingefügt und müssen manuell aus den aktuellen und allen zukünftigen Timesheets entfernt werden.
+Wenn Sie zum Hinzufügen an eine Arbeitszeittabelle mehr als 50 Elemente auswählen, erhalten Sie jetzt eine Bestätigungsnachricht mit der Anzahl dieser Elemente und einer Möglichkeit, nicht alle Elemente hinzuzufügen. Alle hinzugefügten Elemente werden automatisch in die Arbeitszeittabelle angeheftet und müssen gegebenenfalls manuell aus allen aktuellen und zukünftigen Arbeitszeittabellen wieder entfernt werden.
 
 +++
 
-+++**Wartungs-Update am 2. September 2022**
++++**Wartungs-Update vom 2. September 2022**
 
-Fügen Sie die [!UICONTROL Integrationen] -Feld in der benutzerdefinierten Kopfzeile des Projekts
+Das Feld [!UICONTROL Integrationen] kann zur benutzerdefinierten Kopfzeile eines Projekts hinzugefügt werden
 
 *Integrationen*
 
-Sie können jetzt die [!UICONTROL Integrationen] -Feld zum benutzerdefinierten Header eines Projekts hinzufügen, wenn Sie eine Layoutvorlage verwenden. Nach dem Hinzufügen zeigt das Feld einen Link zu einem externen Element an, das mit dem Projekt verknüpft ist, das sich unter [!DNL Salesforce] oder [!DNL Anaplan]- abhängig von Ihrer Integration.
+Sie können bei der Verwendung einer Layout-Vorlage jetzt das Feld [!UICONTROL Integrationen] zur benutzerdefinierten Kopfzeile eines Projekts hinzufügen. Nach dem Hinzufügen wird im Feld ein Link zu einem externen Element angezeigt, das mit dem Projekt verknüpft ist, das sich je nach Integration in [!DNL Salesforce] oder [!DNL Anaplan] befindet.
 
 >[!NOTE]
 >
->Dieses Wartungsupdate wurde zuvor am 25. August 2022 in der Vorschau-Umgebung veröffentlicht und befindet sich jetzt in der Produktion.
+>Dieses Wartungs-Update wurde am 25. August 2022 in der Vorschau-Umgebung veröffentlicht und befindet sich jetzt in der Produktionsumgebung.
 
 +++
 
-+++**Wartungs-Update am 1. September 2022**
++++**Wartungs-Update vom 1. September 2022**
 
-**Abgeschlossene Elemente aus der Zuweisung entfernt**
+**Erledigte Elemente aus der Delegierung entfernt**
 
 *Delegierungen*
 
-Jetzt werden nur unvollständige Elemente, deren Daten mit den Daten einer Delegation übereinstimmen, an andere Benutzer delegiert, wenn die Zuweisung von Arbeitselementen beginnt. Wenn die Elemente vor dem Beginn der Delegation abgeschlossen wurden, werden sie nicht delegiert. Elemente, die während des Zeitrahmens der Delegierung ausgefüllt werden, bleiben für den Delegierten und den Verantwortlichen zwei Wochen lang auf der Arbeitsliste des Heimbereichs, bevor sie automatisch entfernt werden, sofern die Delegation in diesen Wochen nicht beendet wurde.
+Jetzt werden beim Beginn einer Delegierung von Arbeitselementen nur mehr noch nicht erledigte Elemente, deren Daten mit den Daten einer Delegierung übereinstimmen, an andere Benutzende delegiert. Wenn Elemente vor dem Beginn der Delegierung erledigt wurden, werden sie nicht mehr delegiert. Elemente, die innerhalb des Zeitrahmens der Delegierung erledigt werden, bleiben für den/die Beauftragte(n) und den/die Zuweisende(n) zwei Wochen lang auf der Arbeitsliste des Startseiten-Bereichs, bevor sie automatisch entfernt werden, sofern die Delegierung in diesen Wochen nicht beendet wurde.
 
-**Metadatenaktualisierungen für die [!DNL Adobe Workfront] für [!DNL Experience Manager Assets] und [!DNL Assets Essentials] Integrationen**
+**Metadaten-Updates für [!DNL Adobe Workfront] für [!DNL Experience Manager Assets]- und [!DNL Assets Essentials]-Integrationen**
 
 *Integrationen*
 
 Metadaten werden automatisch übergeben, wenn Sie ein Asset zu einem verknüpften Ordner hinzufügen.
 
-Zuvor wurden Metadaten nur gepusht, wenn Sie ein Asset mit dem [!UICONTROL Neu hinzufügen] Dropdown-Menü.
+Zuvor wurden Metadaten nur übergeben, wenn Sie ein Asset mit dem Dropdown-Menü [!UICONTROL Neu hinzufügen] hinzugefügt haben.
 
-**Stunden für ein Problem können nicht genehmigt oder abgelehnt werden**
-
-*Anfragen*
-
-Wenn ein Benutzer versucht, Stunden für die [!UICONTROL Stunden] Registerkarte eines Problems, die [!UICONTROL Genehmigen] und [!UICONTROL Ablehnen] -Schaltflächen fehlen.
-
-**Beim Konvertieren eines Problems in ein Projekt mit einer Vorlage wird eine falsche Fehlermeldung angezeigt**
+**Stunden in Verbindung mit einem Problem können nicht genehmigt oder abgelehnt werden**
 
 *Anfragen*
 
-Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird und ein Fehler auftritt, wird dem Benutzer eine Seite mit der Meldung &quot;[!UICONTROL Das Projekt existiert nicht mehr]&quot; anstelle der korrekten Fehlermeldung, die die Ursache der fehlgeschlagenen Konvertierung erklärt.
+Ein(e) Benutzende(r) versucht, Stunden in Bezug auf ein Problem in der Registerkarte [!UICONTROL Stunden] zu genehmigen oder abzulehnen, doch die Schaltflächen [!UICONTROL Genehmigen] und [!UICONTROL Ablehnen] fehlen.
 
-**Testversand für Dateien mit mehr als 1,5 GB nicht möglich**
+**Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird, wird eine falsche Fehlermeldung angezeigt**
+
+*Anfragen*
+
+Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird und ein Fehler auftritt, wird eine Seite mit der Mitteilung „[!UICONTROL Das Projekt existiert nicht mehr]“ anstelle der korrekten Fehlermeldung angezeigt, in der die Ursache der fehlgeschlagenen Konvertierung erklärt wird.
+
+**Korrekturabzug für Dateien mit mehr als 1,5 GB kann nicht erstellt werden**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer beim Erstellen eines neuen Testversands eine Datei mit mehr als 1,5 GB hochlädt, wird der Dateiname rot und der Testversand kann nicht erstellt werden.
+Wenn ein(e) Benutzende(r) beim Erstellen eines neuen Korrekturabzugs eine Datei mit mehr als 1,5 GB hochlädt, wird der Dateiname rot dargestellt und der Korrekturabzug kann nicht erstellt werden.
 
 +++
 
-## Aktualisierungen im August 2022
+## Updates im August 2022
 
-+++**Wartungs-Update am 25. August 2022**
++++**Wartungs-Update vom 25. August 2022**
 
-**Links zum Arbeitslastausgleich werden in Dashboards falsch angezeigt**
+**Links zum Workload Balancer werden in Dashboards falsch angezeigt**
 
 *Dashboards*
 
-Die Links für den Lastenausgleich für die gemeinsame Nutzung werden beim Hinzufügen zu einem Dashboard als externe Seite falsch angezeigt. Anstatt die eindeutige(n) Ansicht(en)/Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die zuletzt angewendete Ansicht(en) für den Arbeitslastausgleich.
+Workload Balancer-Links zur gemeinsamen Nutzung werden falsch angezeigt, wenn sie als externe Seite zu einem Dashboard hinzugefügt werden. Anstatt die Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die jüngste Ansicht/die jüngsten Filter, die auf den Work Balancer angewendet wurden.
 
-**Fügen Sie die [!UICONTROL Integrationen] -Feld in der benutzerdefinierten Kopfzeile des Projekts**
+**Feld [!UICONTROL Integrationen] zur benutzerdefinierten Kopfzeile des Projekts kann hinzugefügt werden**
 
 *Projekte*
 
-Sie können jetzt die [!UICONTROL Integrationen] -Feld zum benutzerdefinierten Header eines Projekts hinzufügen, wenn Sie eine Layoutvorlage verwenden. Nach dem Hinzufügen zeigt das Feld einen Link zu einem externen Element an, das mit dem Projekt verknüpft ist, das sich unter [!DNL Salesforce] oder [!DNL Anaplan]- abhängig von Ihrer Integration.
+Sie können bei der Verwendung einer Layout-Vorlage jetzt das Feld [!UICONTROL Integrationen] zur benutzerdefinierten Kopfzeile eines Projekts hinzufügen. Nach dem Hinzufügen wird im Feld ein Link zu einem externen Element angezeigt, das mit dem Projekt verknüpft ist, das sich je nach Integration in [!DNL Salesforce] oder [!DNL Anaplan] befindet.
 
 >[!NOTE]
 >
->Dieses Wartungsupdate befindet sich derzeit nur in der Umgebung &quot;Vorschau&quot;. Er wird eine Woche nach der Vorschau-Veröffentlichung für die Produktion freigegeben.
+>Dieses Wartungs-Update befindet sich derzeit nur in der Vorschau-Umgebung. Es wird eine Woche nach der Vorschau-Veröffentlichung für die Produktion freigegeben.
 
 **Benutzerdefinierte Daten werden beim Konvertieren eines Problems in ein leeres Projekt nicht beibehalten**
 
 *Projekte*
 
-Wenn ein Benutzer ein Problem in ein leeres Projekt konvertiert (ohne Vorlage), werden Daten in berechneten Feldern nicht an das neue Projekt übertragen.
+Wenn ein(e) Benutzende(r) ein Problem in ein leeres Projekt konvertiert (ohne Vorlage), werden Daten in berechneten Feldern nicht an das neue Projekt übertragen.
 
-**Fehler &quot;Timeline-Planungsmodus&quot; beim Ändern eines Datums in einem Projekt**
+**Fehler „Timeline-Planungsmodus“ beim Ändern eines Datums in einem Projekt**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Datum in einem Projekt zu ändern, das die [!UICONTROL Planmodus] auf [!UICONTROL Manuelles Speichern] > [!UICONTROL Timeline-Planung], ändert sich das Datum nicht und der Benutzer sieht einen Fehler.
+Wenn ein(e) Benutzende(r) versucht, ein Datum in einem Projekt zu ändern, in dem der [!UICONTROL Planungsmodus] auf [!UICONTROL Manuelles Speichern] > [!UICONTROL Timeline-Planung] festgelegt ist, ändert sich das Datum nicht und ein Fehler wird angezeigt.
 
-&quot;[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn timelineDate geladen wird. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]&quot;
+[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Konsistenz beim Öffnen des Workload Balancer mithilfe der Monatsansicht**
 
 *Lastenausgleich*
 
-Jetzt zeigt der Lastenausgleich die zugewiesenen Elemente der Benutzer an, die bei der Anzeige im [!UICONTROL Tag], [!UICONTROL Woche]oder [!UICONTROL Monat] Ansichten. Vor dieser Aktualisierung wurden die zugewiesenen Elemente für die [!UICONTROL Tag] und [!UICONTROL Woche] Ansichten und reduzierte für die [!UICONTROL Monat] anzeigen.
+Jetzt zeigt der Workload Balancer in der Ansicht [!UICONTROL Tag], [!UICONTROL Woche] oder [!UICONTROL Monat] die den Benutzenden zugewiesenen Elemente maximiert an. Vor diesem Update wurden die zugewiesenen Elemente für die [!UICONTROL Tag]- und [!UICONTROL Wochen]-Ansicht maximiert, aber für die [!UICONTROL Monats]-Ansicht reduziert angezeigt.
 
 
 +++
 
-+++**Wartungs-Update am 18. August 2022**
++++**Wartungs-Update vom 18. August 2022**
 
-**&quot;[!UICONTROL Zu Iteration hinzufügen]&quot; und &quot;[!UICONTROL Hinzufügen zum Kanban Board]&quot;Optionen sind bei der Inline-Bearbeitung von Aufgaben in einem Bericht nicht verfügbar**
+Die Optionen **„[!UICONTROL Zu Iteration hinzufügen]“ und „[!UICONTROL Zu Kanban-Board hinzufügen]“ sind nicht verfügbar, wenn Aufgaben in einem Bericht inline bearbeitet werden**
 
 *Berichte*
 
-Wenn ein Benutzer eine Liste von Aufgaben in einem Bericht anzeigt und die [!UICONTROL Mehr] Menü (mit drei Punkten), das[!UICONTROL Zu Iteration hinzufügen]&quot; und &quot;[!UICONTROL Hinzufügen zum Kanban Board]Die Optionen sind im Dropdown-Menü nicht verfügbar. Wenn der Bericht in einem Dashboard angezeigt wird, wird die[!UICONTROL Zu Iteration hinzufügen]&quot; und &quot;[!UICONTROL Hinzufügen zum Kanban Board]Die Optionen sind im Dropdown-Menü verfügbar.
+Wenn ein(e) Benutzende(r) eine Liste von Aufgaben in einem Bericht aufruft und das Menü [!UICONTROL Mehr] (drei Punkte) öffnet, sind die Optionen „[!UICONTROL Zu Iteration hinzufügen]“ und „[!UICONTROL Zu Kanban-Board hinzufügen]“ in der Dropdown-Liste nicht verfügbar. Wenn der Bericht in einem Dashboard angezeigt wird, sind die Optionen „[!UICONTROL Zu Iteration hinzufügen]“ und „[!UICONTROL Zu Kanban-Board hinzufügen]“ in der Dropdown-Liste verfügbar.
 
 **Matrix-Berichte werden beim Scrollen falsch angezeigt**
 
 *Berichte*
 
-Wenn ein Benutzer einen Matrix-Bericht anzeigt und scrollt, können sich einige visuelle Elemente des Berichts überschneiden oder duplizieren.
+Wenn ein(e) Benutzende(r) einen Matrix-Bericht öffnet und scrollt, können sich einige visuelle Elemente des Berichts überschneiden oder doppelt angezeigt werden.
 
-**[!UICONTROL Milestone] Aus der Timesheets-Projektliste entfernte Ansicht**
+Ansicht **[!UICONTROL Meilenstein] aus der Arbeitszeittabellen-Projektliste entfernt**
 
 *Arbeitszeit- tabellen*
 
-Die [!UICONTROL Milestone] wurde beim Hinzufügen eines Projekts aus der Timesheet-Projektliste entfernt.
+Die Ansicht [!UICONTROL Meilenstein] wurde aus der Arbeitszeittabellen-Projektliste entfernt, wenn ein Projekt hinzugefügt wird.
 
-**Hyperlinks in einem interaktiven Testversand sind nicht aktiv**
-
-*[!DNL Workfront Proof]*
-
-Wenn ein Benutzer einen interaktiven Testversand anzeigt und auf einen Link oder eine Schaltfläche klickt, die einen Link enthält, wird der Benutzer nicht zu der Seite weitergeleitet, auf die der Link oder die Schaltfläche verweist.
-
-**Neue Felder für fehlende Testseiten**
+**Hyperlinks in einem interaktiven Korrekturabzug sind nicht aktiv**
 
 *[!DNL Workfront Proof]*
 
-Im [!DNL New Proof] -Seite, werden viele Textfelder nicht angezeigt (einschließlich Feldbezeichnungen, Dropdown-Optionen und Checkbox-Namen).
+Wenn ein(e) Benutzende(r) einen interaktiven Korrekturabzug öffnet und auf einen Link oder eine Schaltfläche klickt, die einen Link enthält, wird der/die Benutzende nicht zu der Seite weitergeleitet, auf die der Link oder die Schaltfläche verweist.
 
-**Benutzer erhalten keine Benachrichtigungen, wenn sie in einem Testversand getaggt werden**
+**Auf der Seite „Neuer Korrekturabzug“ fehlen Textfelder**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer in einem Testversand-Kommentar getaggt wird, erhält er keine E-Mail-Benachrichtigung über den Kommentar.
+Auf der Seite [!DNL New Proof] werden viele Textfelder nicht angezeigt (einschließlich Feldbezeichnungen, Dropdown-Optionen und Checkbox-Namen).
+
+**Benutzende erhalten keine Benachrichtigungen, wenn sie in einem Korrekturabzug getaggt werden**
+
+*[!DNL Workfront Proof]*
+
+Wenn ein(e) Benutzende(r) in einem Korrekturabzugskommentar getaggt wird, erhält er/sie keine E-Mail-Benachrichtigung über den Kommentar.
 
 +++
 
-+++**Wartungs-Update am 12. August 2022**
++++**Wartungs-Update vom 12. August 2022**
 
 **Neues anpassbares Kopfzeilenfeld am Anfang der Kopfzeile hinzugefügt**
 
 *Kopfzeilen*
 
-Wenn Sie ein neues Feld zu einer anpassbaren Kopfzeile hinzufügen, wird das Feld jetzt als erstes Feld links in der Kopfzeile oder direkt nach dem [!UICONTROL Suche] in der Layout-Vorlage. Vor dieser Änderung wurde das Feld als letztes Feld in der Kopfzeile hinzugefügt.
+Wenn Sie ein neues Feld zu einer anpassbaren Kopfzeile hinzufügen, wird das Feld jetzt als erstes Feld links in der Kopfzeile oder direkt nach dem Feld [!UICONTROL Suche] in der Layout-Vorlage hinzugefügt. Vor dieser Änderung wurde das Feld als letztes Feld in der Kopfzeile hinzugefügt.
 
 +++
 
-+++**Wartungs-Update am 11. August 2022**
++++**Wartungs-Update vom 11. August 2022**
 
 **Benutzerdefinierte Formulare können aufgrund einer falschen Zeichenbeschränkung für beschreibende Textfelder nicht bearbeitet werden**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu bearbeiten, und dieses benutzerdefinierte Formular über eine [!UICONTROL Beschreibender Text] -Feld, das derzeit mehr als 512 Zeichen enthält, kann der Benutzer die Änderungen nicht im benutzerdefinierten Formular speichern. Der folgende Fehler tritt auf:
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular zu bearbeiten, und dieses [!UICONTROL ein beschreibendes Textfeld] beinhaltet, das mehr als 512 Zeichen enthält, können die Änderungen nicht im benutzerdefinierten Formular gespeichert werden und der folgende Fehler wird angezeigt:
 
-&quot;Die folgenden Felder sind ungültig: (Feld) ist zu lang, max. 512&quot;
+„Die folgenden Felder sind ungültig: (Feld) ist zu lang, max. 512“
 
-Diese Auswirkungen [!UICONTROL Beschreibender Text] Felder, die zuvor gut funktioniert haben, obwohl sie mehr als 512 Zeichen enthalten.
+Dies betrifft [!UICONTROL beschreibende Textfelder], die zuvor gut funktioniert haben, obwohl sie mehr als 512 Zeichen enthielten.
 
-**Daten in Feldern, die nach Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren eines Problems in ein Projekt nicht erhalten**
-
-*Benutzerdefinierte Formulare in meiner Gruppe*
-
-Wenn ein Benutzer ein Problem in ein Projekt konvertiert und das Problem ein benutzerdefiniertes Formular mit Daten in einem Abschnittsumbruch enthält, die mithilfe der Anzeigerogik ausgeblendet werden können, werden die Daten in diesem Abschnitt nicht an das neue Projekt übertragen.
-
-**Daten in Feldern, die nach Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren einer Anforderung in ein Projekt nicht erhalten**
+**Daten in Feldern, die durch einen Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren eines Problems in ein Projekt nicht erhalten**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer eine Anforderung in ein Projekt konvertiert und die Anforderung ein benutzerdefiniertes Formular mit Daten in einem Abschnittsumbruch enthält, die mithilfe der Anzeigerogik ausgeblendet werden können, werden die Daten in diesem Abschnitt nicht an das neue Projekt übertragen.
+Wenn ein(e) Benutzende(r) ein Problem in ein Projekt konvertiert und das Problem ein benutzerdefiniertes Formular mit Daten in einem Abschnittsumbruch enthält, der mithilfe der Anzeigelogik ausgeblendet werden kann, werden die Daten in diesem Abschnitt nicht an das neue Projekt übertragen.
 
-**Benutzerdefinierte Formulare können aufgrund des Textfelds &quot;Beschreibender Text&quot;nicht bearbeitet werden**
-
-*Benutzerdefinierte Formulare in meiner Gruppe*
-
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu bearbeiten, das ein Feld mit beschreibendem Text enthält, wird die Feldbeschriftung nicht ausgefüllt. Der Benutzer sieht den Fehler &quot;[!UICONTROL Dieses Feld ist erforderlich]&quot; unter dem Beschriftungsfeld ein, und der Benutzer kann das benutzerdefinierte Formular aufgrund dieses Fehlers nicht bearbeiten.
-
-**Anweisungen können nicht aus einem benutzerdefinierten Feld im benutzerdefinierten Formular-Builder entfernt werden**
+**Daten in Feldern, die durch einen Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren einer Anfrage in ein Projekt nicht erhalten**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer ein benutzerdefiniertes Feld bearbeitet und versucht, vorhandenen Text im [!UICONTROL Anweisungen] -Bereich, wird der Text beim Speichern des Felds nicht entfernt. Der Benutzer kann Text bearbeiten, aber nicht vollständig entfernen.
+Wenn ein(e) Benutzende(r) eine Anfrage in ein Projekt konvertiert und die Anfrage ein benutzerdefiniertes Formular mit Daten in einem Abschnittsumbruch enthält, der mithilfe der Anzeigelogik ausgeblendet werden kann, werden die Daten in diesem Abschnitt nicht an das neue Projekt übertragen.
 
-**Teamzuweisung beim Erstellen einer Anforderung wird nicht in der neuen Anforderung angezeigt**
+**Benutzerdefinierte Formulare können aufgrund eines beschreibenden Textfelds nicht bearbeitet werden**
+
+*Benutzerdefinierte Formulare in meiner Gruppe*
+
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular zu bearbeiten, das ein beschreibendes Textfeld enthält, wird der Feldtitel nicht befüllt. Der/die Benutzende sieht unter dem Titelfeld den Fehler „[!UICONTROL Dies ist ein Pflichtfeld]“ und kann das benutzerdefinierte Formular aufgrund dieses Fehlers nicht bearbeiten.
+
+**Anweisungen können nicht aus einem benutzerdefinierten Feld im Formular-Builder entfernt werden**
+
+*Benutzerdefinierte Formulare in meiner Gruppe*
+
+Wenn ein Benutzer ein benutzerdefiniertes Feld bearbeitet und versucht, vorhandenen Text im Bereich [!UICONTROL Anweisungen] zu entfernen, wird der Text beim Speichern des Felds nicht entfernt. Der/die Benutzende kann Text bearbeiten, ihn aber nicht vollständig entfernen.
+
+**Team-Arbeitsauftrag erscheint beim Erstellen einer Anfrage nicht in der neuen Anfrage**
 
 *Anforde- rungen*
 
-Wenn ein Benutzer eine Anforderung erstellt und der Anforderung ein Team zuweist und dann die Anforderung sendet, wird das Team der erstellten Anforderung nicht zugewiesen. Dies wirkt sich nur auf die Teamzuweisung aus. Benutzerzuweisungen funktionieren erwartungsgemäß.
+Wenn ein(e) Benutzende(r) eine Anfrage erstellt und ihr ein Team zuweist und dann die Anfrage absendet, wird das Team der erstellten Anfrage nicht zugewiesen. Dies betrifft nur Arbeitsaufträge an Teams. Arbeitsaufträge an Benutzende funktionieren erwartungsgemäß.
 
 +++
 
-+++**Wartungs-Update am 4. August 2022**
++++**Wartungs-Update vom 4. August 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
-Alle [!DNL Workfront Classic] wurde am 14. Juli 2022 entfernt.
+Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
 **Fehler beim Ändern des geplanten Abschlussdatums in der Kopfzeile einer Aufgabe oder eines Problems**
 
 *Aufgaben und Probleme*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Geplantes Abschlussdatum] in der Kopfzeile einer Aufgabe oder eines Problems wird das Datum nicht geändert und der Benutzer sieht einen Fehler ähnlich dem folgenden:
+Wenn ein(e) Benutzende(r) versucht, das [!UICONTROL geplante Abschlussdatum] in der Kopfzeile einer Aufgabe oder eines Problems zu ändern, wird das Datum nicht geändert und dem/r Benutzenden wird ein Fehler angezeigt, der in etwa folgendermaßen lautet:
 
 `500: (Date that user is attempting to change to)/attask/api-internal/(object type)/(object ID)`
 
 +++
 
-## Aktualisierungen im Juli 2022
+## Updates im Juli 2022
 
-+++**Wartungs-Update am 28. Juli 2022**
++++**Wartungs-Update vom 28. Juli 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
-Alle [!DNL Workfront Classic] wurde am 14. Juli 2022 entfernt.
+Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
-**Fehler beim Öffnen eines Elements über [!UICONTROL Homepage-Arbeitsliste]**
-
-*[!UICONTROL Startseite]*
-
-Wenn ein Benutzer versucht, ein Element auf seiner [!UICONTROL Homepage-Arbeitsliste], wird das Element nicht geöffnet und der Benutzer sieht die folgende Nachricht:
-
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Um mit Ihrer Arbeit fortzufahren, aktualisieren Sie diese Browser-Seite.]&quot;
-
-**Aufgaben und Probleme, die einem Benutzer zugewiesen wurden, werden nicht in der Startseiten-Arbeitsliste des Benutzers angezeigt**
+**Fehler beim Öffnen eines Elements in der [!UICONTROL Startseiten-Arbeitsliste]**
 
 *[!UICONTROL Startseite]*
 
-Wenn der Benutzer die [!UICONTROL Homepage-Arbeitsliste], werden alle dem Benutzer zugewiesenen Aufgaben oder Probleme nicht in der Liste aufgeführt und dem Benutzer sind die Delegationen möglicherweise nicht bekannt.
+Wenn ein(e) Benutzende(r) versucht, ein Element in seiner/ihrer [!UICONTROL Startseiten-Arbeitsliste] zu öffnen, wird das Element nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-**Geplante Berichte werden nicht an alle Empfänger gesendet**
+„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
+
+**Aufgaben und Probleme, die einem/r Benutzenden zugewiesen wurden, werden nicht in der Startseiten-Arbeitsliste des/r Benutzenden angezeigt**
+
+*[!UICONTROL Startseite]*
+
+Wenn ein(e) Benutzende(r) die [!UICONTROL Startseiten-Arbeitsliste] aufruft, werden dem/r Benutzenden zugewiesenen Aufgaben oder Probleme nicht in der Liste aufgeführt und dem/r Benutzenden sind die Delegationen möglicherweise nicht bekannt.
+
+**Terminierte Berichte werden nicht an alle Empfangenden gesendet**
 
 *Berichte*
 
-Wenn ein terminierter Bericht gesendet wird, wird er nicht an alle Benutzer in der[!UICONTROL Senden an]&quot;. Die ausgesetzten Benutzer sind zufällig und können bei jedem Versand des Berichts variieren.
+Wenn ein terminierter Bericht gesendet wird, wird er nicht an alle Benutzenden im Bereich „[!UICONTROL Senden an]“ übermittelt. Die Auswahl der übergangenen Benutzenden ist zufällig und kann bei jedem Versand des Berichts anders sein.
 
-**[!UICONTROL Auswahl von Aufgaben beim Anhängen einer Vorlage nicht aufheben]**
+**[!UICONTROL Die Auswahl von Aufgaben kann nicht aufgehoben werden, wenn eine Vorlage angehängt wird]**
 
 *Vorlagen*
 
-Wenn ein Benutzer eine Vorlage anhängt und anpasst, wird er aufgefordert, die Auswahl der Aufgaben aufzuheben, die er nicht einbeziehen möchte. Keine der Aufgaben wird jedoch als ausgewählt angezeigt und der Benutzer kann die Auswahl nicht aufheben.
+Wenn ein(e) Benutzende(r) eine Vorlage anhängt und anpasst, wird er/sie aufgefordert, die Auswahl der Aufgaben aufzuheben, die nicht einbezogen werden sollen. Keine der Aufgaben wird jedoch als ausgewählt angezeigt und der/die Benutzende kann die Auswahl nicht aufheben.
 
-**Felder vom Typ &quot;Gebietsschema&quot;haben jetzt spezifischere Bezeichnungen**
+**Felder vom Typ „Gebietsschema“ haben jetzt spezifischere Bezeichnungen**
 
 *Terminologie*
 
-So erstellen Sie die Funktion des[!UICONTROL Gebietsschema]&quot;-Felder klarer, wir haben ihre Titel aktualisiert.
+Um die Funktion der Felder unter „[!UICONTROL Gebietsschema]“ zu verdeutlichen, wurden ihre Titel überarbeitet.
 
-* Die &quot;[!UICONTROL Gebietsschema]&quot;-Feld im Benutzerprofil ist jetzt mit &quot;[!UICONTROL Gebietsschema der E-Mail]&quot;
-* Die &quot;[!UICONTROL Gebietsschema]&quot;-Feld im [!UICONTROL Einrichtung] >[!UICONTROL System] >[!UICONTROL Kundeninformationen] Bereich ist jetzt mit &quot;[!UICONTROL Standard-E-Mail-Gebietsschema]&quot;
+* Das Feld „[!UICONTROL Gebietsschema]“ im Benutzerprofil heißt jetzt „[!UICONTROL E-Mail-Gebietsschema]“
+* Das Feld „[!UICONTROL Gebietsschema]“ im Bereich [!UICONTROL Setup] > [!UICONTROL System] > [!UICONTROL Kundeninformationen] heißt jetzt „[!UICONTROL Standard-E-Mail-Gebietsschema]“
 
 Die Funktionalität dieser Felder hat sich nicht geändert.
 
-**Probleme beim Erstellen von Timesheets**
+**Probleme beim Erstellen von Arbeitszeittabellen**
 
 *Arbeitszeit- tabellen*
 
-Die folgenden Probleme wurden bezüglich der Erstellung von Timesheets gemeldet:
+Die folgenden Probleme wurden bei der Erstellung von Arbeitszeittabellen gemeldet:
 
-* Wenn ein Benutzer versucht, ein Timesheet für eine Rolle zu erstellen, wird das Timesheet nicht erstellt und der Benutzer sieht den Fehler &quot;[!UICONTROL Benutzer mit Primärschlüsselwerten &quot;XXXXXXXXXXXXX&quot;nicht gefunden.]&quot;
-* Wenn ein Benutzer versucht, ein Timesheet für ein Team zu erstellen, wird die [!UICONTROL typeahead] -Feld wird nicht mit Teams aufgefüllt und die [!UICONTROL Erstellen eines Zeitplans] -Schaltfläche deaktiviert ist.
+* Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle für eine Rolle zu erstellen, wird die Arbeitszeittabelle nicht erstellt und der folgende Fehler angezeigt: „[!UICONTROL Benutzer mit Primärschlüsselwerten ‚XXXXXXXXXXX‘ nicht gefunden].“
+* Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle für ein Team zu erstellen, wird das Feld [!UICONTROL mit automatischer Textvervollständigung] nicht mit Teams befüllt und die Schaltfläche [!UICONTROL Arbeitszeittabelle erstellen] ist deaktiviert.
 
 
-**Gebiete von [!DNL Workfront Proof] nicht aktualisieren, wenn ein Testversand erstellt, verschoben oder archiviert wird**
+**Manche Bereiche von [!DNL Workfront Proof] werden nicht aktualisiert, wenn ein Korrekturabzug erstellt, verschoben oder archiviert wird**
 
 *[!DNL Workfront]Korrekturabzug*
 
-Beim Testversand treten derzeit Indizierungsverzögerungen auf. Dies kann sich auf das Benutzererlebnis auswirken, z. B. auf Folgendes:
+Beim Korrekturabzug treten derzeit Indexierungsverzögerungen auf. Dies kann sich auf das Benutzererlebnis auswirken, beispielsweise:
 
-* In Dashboards wird nicht die richtige Anzahl von Testsendungen angezeigt
-* Ordner werden beim Erstellen oder Verschieben eines Testversands nicht aktualisiert
-* Archivierte Testsendungen bleiben auf aktiven Testversandlisten.
+* In Dashboards wird nicht die richtige Anzahl von Korrekturabzügen angezeigt
+* Ordner werden beim Erstellen oder Verschieben eines Korrekturabzugs nicht aktualisiert
+* Archivierte Korrekturabzüge bleiben auf der Liste der aktiven Korrekturabzüge.
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 26. Juli 2022**
++++**Wartungs-Update (Hotfix) vom 26. Juli 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
-Alle [!DNL Workfront Classic] wurde am 14. Juli 2022 entfernt.
+Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
-**Die auf dem Timesheet angezeigten Stunden unterscheiden sich von der Timesheets-Liste**
+**Die auf der Arbeitszeittabelle angezeigten Stunden unterscheiden sich von denen auf der Arbeitszeittabellenliste**
 
 *Arbeitszeit- tabellen*
 
-Wenn ein Benutzer ein Timesheet öffnet, um es anzuzeigen, unterscheiden sich die angezeigten Stunden von denen, wenn der Benutzer dasselbe Timesheet in einer Timesheet-Liste anzeigt.
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle öffnet, unterscheiden sich die angezeigten Stunden von denen, die in der entsprechenden Arbeitszeittabellenliste anzeigt werden.
 
 
-**In ein Projekt konvertierte Anforderung mit Vorlage zeigt Gruppe aus Anforderungswarteschlange, nicht Gruppe aus Vorlage**
+**Wenn eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert wird, wird eine Gruppe in der Anfragewarteschlange anstelle einer Gruppe in der Vorlage angezeigt**
 
 *Anforde- rungen*
 
-Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der Gruppe zugeordnet, der die Anforderungswarteschlange gehört, nicht der Gruppe, die der Vorlage zugewiesen ist. Dies geschieht auch, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe in der [!UICONTROL Gruppe] -Feld.
+Wenn ein(e) Benutzende(r) eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert, wird das neu erstellte Projekt der in der Anfragewarteschlange befindlichen Gruppe zugeordnet und nicht der Gruppe, die in der Vorlage zugewiesen wird. Dies ist auch dann der Fall, wenn bei der Erstellung des Projekts die mit der Vorlage verknüpfte Gruppe im Feld [!UICONTROL Gruppe] angezeigt wird.
 
 +++
 
-+++**Wartungs-Update am 21. Juli 2022**
++++**Wartungs-Update vom 21. Juli 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
-Alle [!DNL Workfront Classic] wurde am 14. Juli 2022 entfernt.
+Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
-**Der mit einer Genehmigung verknüpfte Abweisungsstatus berücksichtigt den Genehmigungs-Workflow**
+**Der mit einer Genehmigung verknüpfte Ablehnungsstatus berücksichtigt den Genehmigungs-Workflow**
 
 **HINWEIS: Diese Funktion wurde am 22. Juli 2022 veröffentlicht.**
 
 *Genehmigungen*
 
-Wenn Sie einen mit einem Validierungsprozess verknüpften Status als Zurückweisungsstatus für einen Validierungspfad auswählen, wechselt das zurückgewiesene Objekt in den ausgewählten Status und wird als &quot;&quot;markiert[!UICONTROL Ausstehende Genehmigung]&quot;. Wenn Sie beispielsweise [!UICONTROL Halten] für den Zurückweisungsstatus und [!UICONTROL Halten] -Status mit einem Genehmigungsprozess verknüpft ist, wird das zurückgewiesene Objekt in den Status[!UICONTROL Bei Genehmigung in Wartezeit]&quot;, was die Genehmigung erfordert.
+Wenn Sie einen mit einem Genehmigungsprozess verknüpften Status als Ablehnungsstatus für einen Genehmigungspfad auswählen, wechselt das abgelehnte Objekt in den ausgewählten Status und erhält die Kennzeichnung „[!UICONTROL Genehmigung ausstehend]“. Wenn Sie beispielsweise für den Ablehnungsstatus [!UICONTROL Halten] auswählen und der [!UICONTROL Halten]-Status mit einem Genehmigungsprozess verknüpft ist, wird das abgelehnte Objekt in den Status „[!UICONTROL Wird gehalten – Genehmigung ausstehend]“ versetzt, was eine Genehmigung erfordert.
 
-Vor dieser Aktualisierung umging das Objekt den Genehmigungsprozess für den Zurückweisungsstatus und wurde in die [!UICONTROL Halten] Status.
+Vor diesem Update umging das Objekt den Genehmigungsprozess für den Ablehnungsstatus und wurde in den Status [!UICONTROL Halten] versetzt.
 
-**Benutzerdefinierte Hilfe-URL konfigurieren**
+**Konfigurieren einer benutzerdefinierten Hilfe-URL**
 
 *[!UICONTROL Hauptmenü]*
 
-Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie die [!UICONTROL Hauptmenü] [!UICONTROL Hilfe] -Symbol, um zu dieser Site zu gelangen. Dies ist nützlich, wenn die Hilfeseite Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront].
-Diese benutzerdefinierte URL hat keine Auswirkungen auf den Haupt-Hilfe-Link im oberen Bereich von [!DNL Workfront], noch die kontextsensitiven Hilfelinks in [!DNL Workfront], wodurch Benutzer zu den [!DNL Workfront] Hilfeseite.
+Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie im [!UICONTROL Hauptmenü] das [!UICONTROL Hilfe]-Symbol so konfigurieren, dass es auf diese Seite verweist. Dies ist nützlich, wenn die Hilfeseite Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront] nutzt.
+Diese benutzerdefinierte URL hat keine Auswirkungen auf den Haupt-Hilfe-Link im oberen Bereich von [!DNL Workfront] noch auf die kontextsensitiven Hilfelinks in [!DNL Workfront], über die Benutzende zur [!DNL Workfront]-Hilfeseite gelangen.
 
-**Vergangene Zeit kann bei der Inline-Bearbeitung nicht ausgewählt werden [!UICONTROL Aufgabendauer]**
+**Verstrichene Zeit kann nicht ausgewählt werden, wenn die [!UICONTROL Aufgabendauer]** inline bearbeitet wird
 
 *Aufgaben*
 
-Wenn ein Benutzer eine Aufgabenliste anzeigt und versucht, die [!UICONTROL Aufgabendauer], sind folgende Zeiteinheiten nicht verfügbar:
+Wenn ein(e) Benutzende(r) eine Aufgabenliste öffnet und versucht, die [!UICONTROL Aufgabendauer] zu bearbeiten, sind die folgenden Einheiten nicht verfügbar:
 
 * [!UICONTROL Verstrichene Minuten]
 * [!UICONTROL Verstrichene Stunden]
@@ -636,338 +636,338 @@ Wenn ein Benutzer eine Aufgabenliste anzeigt und versucht, die [!UICONTROL Aufga
 * [!UICONTROL Verstrichene Wochen]
 * [!UICONTROL Verstrichene Monate]
 
-**[!UICONTROL Meine Aktualisierungen] Seite ist leer**
+Seite **[!UICONTROL Meine Aktualisierungen] ist leer**
 
 *Updates*
 
-Wenn ein Benutzer versucht, seine [!UICONTROL Meine Aktualisierungen] -Seite, wird die Seite nicht geladen. Der Benutzer kann nur die [!DNL Workfront] Navigationskopfzeile.
+Wenn ein(e) Benutzende(r) versucht, die Seite [!UICONTROL Meine Aktualisierungen] aufzurufen, wird die Seite nicht geladen. Der/die Benutzende kann nur die [!DNL Workfront]-Navigationskopfzeile sehen.
 
-**&quot;[!UICONTROL Nur SAML 2.0-Authentifizierung zulassen]&quot;-Einstellung fehlt beim Kopieren eines Benutzers**
+**Einstellung „[!UICONTROL Nur SAML 2.0-Authentifizierung zulassen]“ fehlt, wenn ein(e) Benutzende(r) kopiert wird**
 
 *Benutzer*
 
-Wenn ein Gruppenadministrator einen Benutzer kopiert und die &quot;[!UICONTROL Eine Einladungs-E-Mail an diese Person senden]&quot;, die Option &quot;O&quot;[!UICONTROL Nur SAML 2.0-Authentifizierung zulassen]&quot;, wird nicht wie erwartet angezeigt. Dies kann auch dann vorkommen, wenn alle Zugriffs- und Berechtigungsanforderungen für diese Aktion erfüllt sind.
+Wenn ein(e) Gruppen-Administrator(in) eine(n) Benutzende(n) kopiert und die Option „[!UICONTROL Einladungs-E-Mail an diese Person senden]“ deaktiviert, wird das Kontrollkästchen „[!UICONTROL Nur SAML 2.0-Authentifizierung zulassen]“ nicht wie erwartet angezeigt. Dies kann auch dann vorkommen, wenn alle Zugriffs- und Berechtigungsanforderungen für diese Aktion erfüllt sind.
 
 +++
 
-+++**Wartungs-Update am 14. Juli 2022**
++++**Wartungs-Update vom 14. Juli 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
-Alle [!DNL Workfront Classic] wurde am 14. Juli 2022 entfernt.
+Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
-**Fehler beim Zurücksetzen des Kennworts**
+**Fehler beim Zurücksetzen des Passworts**
 
 *Anmeldung*
 
-Wenn ein Benutzer versucht, sein Passwort zurückzusetzen, kann er es nicht zurücksetzen und er wird in einer Meldung darüber informiert, dass er keinen Zugriff hat. Der Benutzer kann sich nicht bei Workfront anmelden.
+Wenn ein(e) Benutzende(r) versucht, sein/ihr Passwort zurückzusetzen, gelingt dies nicht und eine Meldung informiert darüber, dass er/sie keinen Zugriff hat. Der/die Benutzende kann sich nicht bei Workfront anmelden.
 
 **Es kann kein weiterer Zugriff auf einen Bericht angefordert werden**
 
 *Berichte*
 
-Wenn ein Benutzer mit eingeschränktem Zugriff auf einen Bericht versucht, mehr Zugriff auf einen Bericht anzufordern, ist die Option, mehr Zugriff anzufordern, nicht verfügbar unter [!UICONTROL Berichtsaktionen] Menü.
+Wenn ein(e) Benutzende(r) mit eingeschränktem Zugriff auf einen Bericht versucht, mehr Zugriffsberechtigungen anzufordern, ist die entsprechende Option nicht im Menü [!UICONTROL Berichtsaktionen] verfügbar.
 
-**Bestätigungsnachricht beim Löschen eines Anfrageentwurfs aktualisiert**
+**Bestätigungsnachricht beim Löschen eines Anfrageentwurfs wurde aktualisiert**
 
 *Anforde- rungen*
 
-Wenn Sie eine entworfene Anforderung verwerfen, wird die Bestätigungsmeldung angezeigt, die nach dem Klicken auf[!UICONTROL Entwurf verwerfen]&quot; zeigt Folgendes an:
+Wenn Sie eine entworfene Anfrage verwerfen, wird in der Bestätigungsmeldung nach dem Klicken auf „[!UICONTROL Entwurf verwerfen]“ Folgendes angezeigt:
 
 * [!UICONTROL Entwurf wurde verworfen] (Dies ist eine Benachrichtigung, die Sie darüber informiert, dass Ihr Entwurf verworfen wurde)
-* [!UICONTROL Rückgängig] (Dies ist ein Link, auf den Sie klicken können, um die Aktion zum Löschen des Entwurfs wiederherzustellen. Dadurch wird der Entwurf beibehalten, anstatt ihn zu löschen.)
+* [!UICONTROL Rückgängig] (Dies ist ein Link, auf den Sie klicken können, um das Löschen des Entwurfs rückgängig zu machen. Dadurch wird der Entwurf beibehalten und nicht gelöscht.)
 
 Vor dieser Änderung waren folgende Optionen verfügbar:
 
 * [!UICONTROL Entwurf wird verworfen]
 * [!UICONTROL Abbrechen]
 
-**Datumswerte für Journaleintragsfelder sind beim Zugriff über die API falsch**
+**Datumswerte für Tagebucheintragsfelder sind falsch, wenn über die API zugegriffen wird**
 
 *Updates*
 
-Wenn ein Benutzer einen Datumswert für ein Objekt ändert und dann über die API auf den Journaleintrag zugegriffen wird, der diese Datumsänderung darstellt, werden die Datumswerte für [!UICONTROL oldDateVal] und [!UICONTROL newDateVal] von der API zurückgegeben wurden, sind falsch.
+Wenn ein(e) Benutzende(r) ein Datum für ein Objekt ändert und dann über die API auf den Tagebucheintrag zugegriffen wird, in dem diese Datumsänderung dargestellt wird, sind die Datumswerte für [!UICONTROL oldDateVal] und [!UICONTROL newDateVal], die von der API zurückgegeben werden, falsch.
 
-**Fehler beim Versuch, Kommentar rückgängig zu machen**
+**Fehler beim Versuch, einen Kommentar rückgängig zu machen**
 
 *Updates*
 
-Wenn ein Benutzer versucht, einen Kommentar rückgängig zu machen, wird der Kommentar nicht rückgängig gemacht und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, einen Kommentar rückgängig zu machen, gelingt dies nicht und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Fehler 403: Sie haben nicht genügend Zugriff, um diese Anmerkung zu löschen /attask/api-internal/NOTE]
+[!UICONTROL Fehler 403: Sie verfügen nicht über ausreichende Zugriffsberechtigungen, um die Anmerkung unter /attask/api-internal/NOTE zu löschen]
 
 **Neue Begrenzung der Zeichenanzahl in einer Aktualisierung in der Vorschau**
 
 *Updates*
 
-Verbesserung der Leistung der [!UICONTROL Updates] hinzugefügt, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie in einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch diese Aktualisierung wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000.
+Um die Leistung des Bereichs [!UICONTROL Aktualisierungen] zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie bei einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch dieses Update wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000.
 
-**Fehler beim Hochladen des Anhangs von [!DNL Workfront] für die Outlook-Integration**
+**Fehler beim Hochladen eines Anhangs über die [!DNL Workfront] für Outlook-Integration**
 
 *Workfront-Integrationen*
 
-Wenn ein Benutzer versucht, eine Anlage mit dem [!DNL Workfront for Outlook] -Integration, wird der Anhang nicht hochgeladen und der Benutzer sieht die folgende Nachricht:
+Wenn ein(e) Benutzende(r) versucht, eine Anlage über die [!DNL Workfront for Outlook]-Integration hochzuladen, gelingt dies nicht und die folgende Nachricht wird angezeigt:
 
 [!UICONTROL Einige Anlagen wurden nicht hochgeladen. Grund: Beim Hochladen von Anhängen ist etwas schiefgelaufen.]
 
-**Aktualisierung der E-Mail-Benachrichtigung zum Testversand**
+**Update für die E-Mail-Benachrichtigung für den Korrekturabzug**
 
 *[!DNL Workfront]Korrekturabzug*
 
-Anfang dieses Monats als Teil eines Patches für die [!DNL Workfront] Produktionsumgebung, haben wir einen Fehler im Benachrichtigungssystem für Testversand-E-Mails behoben. Diese Änderung wurde im Wartungs-Update zum Zeitpunkt der Veröffentlichung nicht mitgeteilt. Wir haben die folgenden Informationen zum [Wartungs-Update am 2. Juni 2022](#maintenance-update-on-june-2-2022) :
+Anfang dieses Monats haben wir im Zuge eines Patches für die [!DNL Workfront]-Produktionsumgebung einige Fehlerbehebungen im Benachrichtigungssystem für Korrekturabzug-E-Mails durchgeführt. Diese Änderung wurde nicht im Wartungs-Update zum Zeitpunkt seiner Veröffentlichung mitgeteilt. Wir haben die folgenden Informationen zum [Wartungs-Update vom 2. Juni 2022](#maintenance-update-on-june-2-2022) hinzugefügt:
 
-Infolge dieser Fehlerkorrekturen hat sich die E-Mail-Adresse geändert, die zum Senden von Testversandbenachrichtigungen verwendet wird.
+Infolge dieser Fehlerkorrekturen hat sich die E-Mail-Adresse geändert, die zum Senden von Korrekturabzugs-Benachrichtigungen verwendet wird.
 
-Zuvor enthielten Testversand-E-Mail-Adressen die Subdomain Ihres Unternehmens. Beispiel: notifications@[Unternehmensdomäne].my.workfront.com
+Zuvor enthielten Korrekturabzugs-E-Mail-Adressen die Subdomain Ihres Unternehmens. Beispiel: notifications@[Unternehmensdomain].my.workfront.com
 
-Jetzt enthalten die Zustellung von E-Mail-Adressen keine Organisations-Subdomain mehr. Alle E-Mail-Benachrichtigungen zum Testversand werden von der folgenden Adresse gesendet: notification@my.workfront.com
+Jetzt enthalten die Korrekturabzugs-E-Mail-Adressen keine Unternehmens-Subdomain mehr. Alle E-Mail-Benachrichtigungen zu Korrekturabzügen werden von der folgenden Adresse gesendet: notification@my.workfront.com
 
 Daher empfehlen wir, die folgenden Aktionen durchzuführen, falls Sie dies noch nicht getan haben:
 
-* Aktualisieren Sie Ihre Spamfilter, um E-Mails von notification@my.workfront.com zu akzeptieren.
-* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von notification@my.workfront.com zu akzeptieren.
+* Aktualisieren Sie Ihre Spam-Filter, um E-Mails von notification@my.workfront.com zuzulassen.
+* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von notification@my.workfront.com zuzulassen.
 
-**Benutzeroptionen können nach der ersten Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
+**Benutzeroptionen können nach der erstmaligen Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer einer Workflow-Vorlage einen Benutzer hinzufügt, kann er Optionen konfigurieren. Nach Abschluss der ersten Konfiguration kann der Benutzer jedoch Folgendes nicht mehr ändern:
+Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einer Workflow-Vorlage hinzufügt, können Optionen konfiguriert werden. Nach Abschluss der erstmaligen Konfiguration kann der/die Benutzende jedoch Folgendes nicht mehr ändern:
 
-* &quot;[!UICONTROL Kommentare auflösen und Aktionen anwenden]&quot;-Fähigkeit
-* [!UICONTROL &quot;Freigeben des Testversands durch Tagging]&quot;-Fähigkeit
-* Proof role ([!UICONTROL Überprüfer], [!UICONTROL Genehmiger]usw.)
+* Die Funktion zum „[!UICONTROL Auflösen von Kommentaren und Anwenden von Aktionen]“
+* Die Funktion zum „[!UICONTROL Freigeben des Korrekturabzugs durch Taggen]“
+* Korrekturabzugs-Rolle ([!UICONTROL Prüfende Person], [!UICONTROL genehmigende Person] usw.)
 
-**&quot;[!UICONTROL Die Arbeitselemente dieses Projekts]&quot; Filter wurde im Projekt wiederhergestellt [!UICONTROL Lastenausgleich]**
+Der Filter **„[!UICONTROL Die Arbeitselemente dieses Projekts]“ wurde im Projekt-[!UICONTROL Workload Balancer]** wiederhergestellt
 
 *[!UICONTROL Lastenausgleich]*
 
-Wir haben den Filter &quot;Arbeitselemente dieses Projekts&quot;im Abschnitt [!UICONTROL Zugeordnet] Bereich, in dem Sie auf [!UICONTROL Lastenausgleich] aus einem Projekt.
+Der Filter „Arbeitselemente dieses Projekts“ ist wieder im Bereich [!UICONTROL Zugeordnet] verfügbar, wenn Sie über ein Projekt auf den [!UICONTROL Workload Balancer] zugreifen.
 
-Dieser Filter wird jetzt unter der[!UICONTROL Vorgeschlagen]&quot;-Abschnitt der Filter für die [!UICONTROL Zugewiesene Arbeit] Bereich eines Projekts [!UICONTROL Lastenausgleich].
+Dieser Filter befindet sich jetzt im [!UICONTROL Workload Balancer] eines Projekts in den Filtern für den Bereich [!UICONTROL Zugewiesene Arbeit] unter dem Abschnitt „[!UICONTROL Vorgeschlagen]“.
 
 +++
 
-## Aktualisierungen im Juni 2022
+## Updates im Juni 2022
 
-+++**Wartungs-Update am 30. Juni 2022**
++++**Wartungs-Update vom 30. Juni 2022**
 
-**Anzeigen der [!UICONTROL Lastenausgleich] für eine Woche**
-
-*[!UICONTROL Lastenausgleich]*
-
-Basierend auf dem Feedback, das wir von vielen Kunden erhalten haben, haben wir nun eine Option hinzugefügt, um die [!UICONTROL Lastenausgleich] für eine Woche. Vor dieser Aktualisierung können Sie die [!UICONTROL Lastenausgleich] 4, 6 und 12 Wochen. Mit diesem Update haben wir auch die 12-Wochen-Option auf 3 Monate geändert.
-
-**Das Bedienfeld &quot;Delegieren&quot;ist jetzt über den Lastenausgleich verfügbar.**
+**Anzeigen des [!UICONTROL Workload Balancer] für eine Woche**
 
 *[!UICONTROL Lastenausgleich]*
 
-HINWEIS: Diese Aktualisierung ist nur in der Vorschau -Umgebung verfügbar. Die mit dieser Aktualisierung verknüpfte Funktion wird ab Version 22.3 in der Produktion verfügbar sein.
+Aufgrund des Feedbacks, das wir von vielen Kunden erhalten haben, haben wir nun eine Option hinzugefügt, durch die der [!UICONTROL Workload Balancer] eine Woche lang angezeigt werden kann. Vor diesem Update konnten Sie den [!UICONTROL Workload Balancer] 4, 6 und 12 Wochen lang anzeigen. Mit diesem Update haben wir auch die 12-Wochen-Option in 3 Monate geändert.
 
-Sie können jetzt die Delegaten einer Aufgabe oder eines Problems über den Lastenausgleich anzeigen. Beim Zuweisen einer Aufgabe oder eines Problems aus dem Arbeitslastausgleich können Sie eine Liste der Zuweisungen sowie eine Liste der Delegierten für die Aufgabe oder das Problem anzeigen, sofern diese derzeit zugewiesen sind.
+**Das Bedienfeld „Delegieren“ ist jetzt über den Workload Balancer verfügbar.**
 
-**Endpunktinformationen können nicht in API Explorer geöffnet werden**
+*[!UICONTROL Lastenausgleich]*
+
+HINWEIS: Dieses Update ist nur in der Vorschau-Umgebung verfügbar. Die mit diesem Update verknüpfte Funktionalität wird ab Version 22.3 in der Produktionsumgebung verfügbar sein.
+
+Sie können jetzt die Beauftragten einer Aufgabe oder eines Problems über den Workload Balancer aufrufen. Beim Zuweisen einer Aufgabe oder eines Problems über den Workload Balancer können Sie eine Liste der Zuweisungen sowie eine Liste der Beauftragten für die Aufgabe oder das Problem aufrufen, sofern diese gerade zugewiesen sind.
+
+**Endpunktinformationen in API Explorer können nicht geöffnet werden**
 
 *API*
 
-Wenn ein Benutzer die [!DNL API Explorer] und auf einen Endpunkt klickt, werden die Endpunktinformationen nicht angezeigt.
+Wenn ein(e) Benutzende(r) [!DNL API Explorer] aufruft und auf einen Endpunkt klickt, werden die Endpunktinformationen nicht angezeigt.
 
-**Probleme mit [!UICONTROL Details] bei Verwendung der [!UICONTROL Home Calendar]**
+**Probleme mit der Schaltfläche [!UICONTROL Details] bei Verwendung des [!UICONTROL Startseiten-Kalenders]**
 
 *Startseite*
 
-Wenn ein Benutzer die [!UICONTROL Home Calendar] und auf eine Aufgabe klickt, kann eine der folgenden Aktionen eintreten:
+Wenn ein(e) Benutzende(r) den [!UICONTROL Startseiten-Kalender] verwendet und auf eine Aufgabe klickt, kann eines der folgenden Szenarien eintreten:
 
-* Die [!UICONTROL Details] wird kurz angezeigt und verschwindet dann. Der Benutzer kann nicht auf die Details zugreifen.
-* Die [!UICONTROL Details] -Schaltfläche wird nicht angezeigt. Der Benutzer kann nicht auf die Details zugreifen.
-* Die [!UICONTROL Details] angezeigt, sich jedoch nicht an der richtigen Stelle befindet. Der Benutzer kann auf die Schaltfläche klicken, um auf die Details zuzugreifen.
+* Die Schaltfläche [!UICONTROL Details] wird kurz angezeigt und verschwindet wieder. Der/die Benutzende kann nicht auf die Details zugreifen.
+* Die Schaltfläche [!UICONTROL Details] wird nicht angezeigt. Der/die Benutzende kann nicht auf die Details zugreifen.
+* Die Schaltfläche [!UICONTROL Details] wird angezeigt, befindet sich jedoch nicht an der richtigen Stelle. Der/die Benutzende kann auf die Schaltfläche klicken, um auf die Details zuzugreifen.
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 24. Juni 2022**
++++**Wartungs-Update (Hotfix) vom 24. Juni 2022**
 
 **Datumsauswahl wird beim Bearbeiten eines benutzerdefinierten Formulars nicht geschlossen**
 
 *Benutzerdefinierte Formulare*
 
-Wenn ein Benutzer ein benutzerdefiniertes Formular bearbeitet und versucht, ein Datum zu ändern, wird die Datumsauswahl bei Auswahl des Datums nicht geschlossen. Der Benutzer kann die Datumsauswahl nicht durch Speichern, Abbrechen oder Klicken weg von der Datumsauswahl schließen.
+Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular bearbeitet und versucht, ein Datum zu ändern, wird die Datumsauswahl bei Auswahl des Datums nicht geschlossen. Der/die Benutzende kann die Datumsauswahl nicht durch Speichern, Abbrechen oder Anklicken einer anderen Stelle schließen.
 
 Dies wurde in den folgenden Bereichen gemeldet:
 
-* [!UICONTROL Updates] area
+* Bereich [!UICONTROL Aktualisierungen]
 * [!UICONTROL Startseite]
 
-**Benutzer können sich nicht in eine andere Testphase verschieben**
+**Benutzende können sich nicht in einen anderen Korrekturabzugsschritt verschieben**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer die [!UICONTROL Testversand-Workflow] des Testversands und versucht, sich selbst in eine andere Testphase zu ziehen, wird der Name des Benutzers in die ursprüngliche Phase zurückgesetzt und nicht zur gewünschten Phase hinzugefügt.
+Wenn ein(e) Benutzende(r) den [!UICONTROL Korrekturabzug-Workflow] eines Korrekturabzugs anzeigt und versucht, sich selbst in einen anderen Korrekturabzugsschritt zu ziehen, springt der Name des/r Benutzenden an die ursprüngliche Stelle zurück und wird nicht zum gewünschten Schritt hinzugefügt.
 
 +++
 
-+++**Wartungs-Update am 23. Juni 2022**
++++**Wartungs-Update vom 23. Juni 2022**
 
-**[!UICONTROL Neue Anforderung kann nicht über das Dashboard hinzugefügt werden]**
+**[!UICONTROL Neue Anfrage kann nicht über das Dashboard hinzugefügt werden]**
 
 *Dashboards*
 
-Wenn ein Benutzer ein Dashboard in einem Projekt anzeigt und versucht, eine neue Anforderung hinzuzufügen, indem er auf [!UICONTROL +Neue Anforderung] nicht reagiert, ist die Schaltfläche nicht responsiv und der Benutzer kann keine neue Anforderung hinzufügen.
+Wenn ein(e) Benutzende(r) ein Dashboard zu einem Projekt öffnet und versucht, eine neue Anfrage hinzuzufügen, indem er/sie auf [!UICONTROL +Neue Anfrage] klickt, reagiert die Schaltfläche nicht und der/die Benutzende kann keine neue Anfrage hinzufügen.
 
-**Fehler beim Anzeigen von Elementen in der Startseite-Arbeitsliste**
+**Fehler beim Anzeigen von Elementen in der Startseiten-Arbeitsliste**
 
 *[!UICONTROL Startseite]*
 
-Wenn ein Benutzer seine [!UICONTROL Homepage-Arbeitsliste] und auf ein Element im [!UICONTROL Gesendete Genehmigungen] -Abschnitt, zeigt die Seite den folgenden Fehler an:
+Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Startseiten-Arbeitsliste] öffnet und auf ein Element im Bereich [!UICONTROL Von mir gesendete Genehmigungen] klickt, wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]&quot;
+„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
 
-Wenn der Benutzer die Seite aktualisiert, klickt er auf ein Element im [!UICONTROL Arbeitsliste], wird der Fehler angezeigt. Das Problem betrifft nicht mehr nur Elemente im [!UICONTROL Gesendete Genehmigungen] Abschnitt.
+Wenn der/die Benutzende die Seite aktualisiert und dann auf ein Element in der [!UICONTROL Arbeitsliste] klickt, wird der Fehler angezeigt. Das Problem betrifft nicht mehr nur Elemente im Abschnitt [!UICONTROL Gesendete Genehmigungen].
 
 **Benutzerdefinierter Abschnitt eines Objekts enthält Ergebnisse, die nicht in diesem Objekt enthalten sind**
 
 *Objekte*
 
-Wenn ein Benutzer eine [!UICONTROL custom] -Abschnitt eines Objekts zeigt der benutzerdefinierte Abschnitt Elemente an, die nicht Teil dieses Objekts sind. Dies wurde gemeldet, wenn der benutzerdefinierte Abschnitt direkt zum Objekt hinzugefügt wird und wenn ein benutzerdefinierter Abschnitt über eine Layoutvorlage hinzugefügt wird.
+Wenn ein(e) Benutzende(r) einen [!UICONTROL benutzerdefinierten] Abschnitt eines Objekts öffnet, zeigt der benutzerdefinierte Abschnitt Elemente an, die nicht zu diesem Objekt gehören. Dies wurde gemeldet, wenn der benutzerdefinierte Abschnitt direkt zum Objekt oder über eine Layout-Vorlage hinzugefügt wird.
 
 **Aufgaben werden in ein falsches Projekt verschoben**
 
 *Aufgaben*
 
-Wenn ein Benutzer Aufgaben von Projekt A zu Projekt B wechselt und dann mehr Aufgaben von Projekt A zu Projekt C wechselt, werden die ursprünglich in Projekt B verschoben Aufgaben in Projekt C angezeigt.
+Wenn ein(e) Benutzende(r) Aufgaben von Projekt A zu Projekt B verschiebt und dann weitere Aufgaben von Projekt A zu Projekt C verschiebt, werden die ursprünglich in Projekt B verschoben Aufgaben in Projekt C angezeigt.
 
-**Einige Schaltflächen/Symbole funktionieren nicht beim Zugriff auf [!UICONTROL Lastenausgleich] über einen freigegebenen Link oder ein freigegebenes Dashboard**
+**Einige Schaltflächen/Symbole funktionieren nicht beim Zugriff auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder ein freigegebenes Dashboard**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer zum [!UICONTROL Lastenausgleich] über einen freigegebenen Link oder einen Link in einem Dashboard und versucht, das Element oben im Bildschirm zu verwenden, funktionieren die Elemente nicht. Dies wurde für die folgenden Elemente gemeldet:
+Wenn ein(e) Benutzende(r) auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder einen Link in einem Dashboard zugreift und versucht, die Elemente oben im Bildschirm zu verwenden, funktionieren sie nicht. Dies wurde für die folgenden Elemente gemeldet:
 
 * [!UICONTROL Heute]
-* Pfeile &quot;Zurück&quot;und &quot;Weiter&quot;
+* Vorwärts- und Rückwärtspfeile
 * [!UICONTROL Wochen]
 * Kalendersymbol (Datumsauswahl)
 
 +++
 
-+++**[!DNL Workfront]Aktualisierung des Szenario-Planers für die Wartung am 23. Juni 2022**
++++**[!DNL Workfront]Wartungs-Update von Workfront Scenario Planner vom 23. Juni 2022**
 
-**Benutzer mit [!UICONTROL Verwalten] Berechtigungen für einen Plan können ihn für andere freigeben**
+**Benutzende mit der Berechtigung [!UICONTROL Verwalten] für einen Plan können ihn für andere freigeben**
 
-Als Benutzer mit [!UICONTROL Verwalten] Berechtigungen für einen Plan im [!DNL Scenario Planner], können Sie sie jetzt für andere Benutzer freigeben. Vor dieser Aktualisierung konnte nur der Ersteller des Plans den Plan für andere Benutzer freigeben.
+Benutzende mit der Genehmigung [!UICONTROL Verwalten] für einen Plan im [!DNL Scenario Planner] können den Plan jetzt für andere Benutzende freigeben. Vor diesem Update konnte nur der/die Erstellende des Plans diesen für andere freigeben.
 
 +++
 
-+++**Wartungs-Update am 16. Juni 2022**
++++**Wartungs-Update vom 16. Juni 2022**
 
-**Gruppenadministrator kann keine Mitglieder zu Gruppe hinzufügen**
+**Gruppenadministrator bzw. -administratorin kann keine Mitglieder zu Gruppe hinzufügen**
 
 *Gruppen*
 
-Wenn ein Gruppenadministrator versucht, einen Benutzer zu einer Gruppe hinzuzufügen, wird das Dropdown-Menü zur Auswahl des Benutzers nicht ausgefüllt. Der Gruppenadministrator kann keine Benutzer auswählen und kann daher keine Benutzer zur Gruppe hinzufügen.
+Wenn ein Gruppenadministrator bzw. eine Gruppenadministratorin versucht, eine(n) Benutzende(n) zu einer Gruppe hinzuzufügen, wird das Dropdown-Menü zur Auswahl des/der Benutzenden nicht vorab befüllt. Der Gruppenadministrator bzw. die Gruppenadministratorin kann keine Benutzenden auswählen und daher keine Benutzenden zur Gruppe hinzufügen.
 
 **Benutzerdefinierte Quartale werden beim Festlegen eines Filters nicht angezeigt**
 
 *Filter*
 
-Wenn ein Benutzer einen Filter erstellt und nach einem Datumsfeld filtert, enthält die Dropdown-Liste der verfügbaren Operatoren für das Datumsfeld keine kürzlich hinzugefügten benutzerdefinierten Quartale.
+Wenn ein(e) Benutzende(r) einen Filter erstellt und eine Filterung nach einem Datumsfeld durchführt, enthält die Dropdown-Liste der verfügbaren Operatoren für das Datumsfeld keine kürzlich hinzugefügten benutzerdefinierten Quartale.
 
-**Fehler &quot;Bounces&quot; beim Konvertieren eines Problems in ein Projekt über eine Vorlage**
+**„Hoppla“-Fehler beim Konvertieren eines Problems in ein Projekt über eine Vorlage**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Problem über eine Vorlage in ein Projekt zu konvertieren, und das Problem über ein benutzerdefiniertes Formular verfügt, das einen reinen Administratorabschnitt enthält, wird das Problem nicht konvertiert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, ein Problem über eine Vorlage in ein Projekt zu konvertieren, und das Problem ein benutzerdefiniertes Formular hat, das einen Abschnitt nur für Administratoren bzw. Administratorinnen enthält, wird das Problem nicht konvertiert und der folgende Fehler erscheint:
 
-&quot;[!UICONTROL Versuchen Sie es erneut. Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]&quot;
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-**Anforderungen werden gesendet, ohne dass erforderliche Felder ausgefüllt werden**
+**Anfragen werden gesendet, ohne dass die erforderlichen Felder ausgefüllt sind**
 
 *Anforde- rungen*
 
-Wenn ein Benutzer eine Anforderung erstellt und die erforderlichen Felder nicht ausfüllt und dann die Anforderung sendet, wird die Anforderung ohne Daten in den erforderlichen Feldern gesendet. Es wird erwartet, dass die Anfrage nicht gesendet wird und der Benutzer benachrichtigt wird, dass er die erforderlichen Felder ausfüllen muss, bevor er die Anfrage sendet.
+Wenn ein(e) Benutzende(r) eine Anfrage erstellt und die erforderlichen Felder nicht ausfüllt und dann die Anfrage sendet, wird die Anfrage ohne Angaben in den Pflichtfeldern gesendet. Erwartet wird, dass die Anfrage nicht gesendet wird und der/die Benutzende benachrichtigt wird, dass er/sie die Pflichtfelder ausfüllen muss, bevor er/sie die Anfrage sendet.
 
 **Neue benutzerdefinierte Quartale werden anscheinend nicht gespeichert**
 
 *Setup*
 
-Wenn ein Benutzer ein neues benutzerdefiniertes Quartal im Bereich &quot;Projekte&quot;der Einrichtung hinzufügt und auf [!UICONTROL Speichern], gibt es keinen visuellen Hinweis auf die Speicherung. Dem Benutzer wird keine Erfolgsmeldung angezeigt und die Variable [!UICONTROL Speichern] in noch vorhanden und aktiv. Wenn der Benutzer die Seite jedoch aktualisiert, kann er sehen, dass die neuen Quartale in der Liste der benutzerdefinierten Quartale angezeigt werden.
+Wenn ein(e) Benutzende(r) ein neues benutzerdefiniertes Quartal im Bereich „Projekte“ unter Setup hinzufügt und auf [!UICONTROL Speichern] klickt, gibt es keinen visuellen Hinweis auf die Speicherung. Dem/der Benutzenden wird keine Erfolgsmeldung angezeigt und die Schaltfläche [!UICONTROL Speichern] in noch vorhanden und aktiv. Wenn der/die Benutzende die Seite jedoch aktualisiert, kann er/sie sehen, dass die neuen Quartale in der Liste der benutzerdefinierten Quartale angezeigt werden.
 
-Wenn der Benutzer ein neues Quartal hinzufügt, klickt auf [!UICONTROL Speichern], erhält keine Angabe zum Speichern, fügt ein weiteres Quartal hinzu, ohne die Seite zu aktualisieren, und klickt auf [!UICONTROL Speichern] erneut verwenden, kann das zweite hinzugefügte Quartal möglicherweise nicht gespeichert werden.
+Wenn der/die Benutzende ein neues Quartal hinzufügt, auf [!UICONTROL Speichern] klickt, keine Speicherbestätigung erhält, ein weiteres Quartal hinzufügt, ohne die Seite zu aktualisieren, und erneut auf [!UICONTROL Speichern] klickt, wird das zweite hinzugefügte Quartal möglicherweise nicht gespeichert.
 
-**[!UICONTROL Team-Arbeitsanforderungen] Seite ist leer**
+**[!UICONTROL Team-Arbeitsanfragen]-Seite ist leer**
 
 *Teams*
 
-HINWEIS: Dieses Problem tritt nur in der Vorschau -Umgebung auf.
+HINWEIS: Dieses Problem tritt nur in der Vorschau-Umgebung auf.
 
-Wenn ein Benutzer versucht, die [!UICONTROL Arbeitsanforderungen] auf einer Team-Seite ist die Seite leer. Der Benutzer kann die obere Navigationsleiste sehen, jedoch keinen Seiteninhalt.
+Wenn ein(e) Benutzende(r) den Abschnitt [!UICONTROL Arbeitsanfragen] auf einer Team-Seite öffnet, ist die Seite leer. Der/die Benutzende kann die obere Navigationsleiste sehen, jedoch keinen Seiteninhalt.
 
 +++
 
-+++**Wartungs-Update am 9. Juni 2022**
++++**Wartungs-Update vom 9. Juni 2022**
 
-**Objekte können nicht ausgewählt werden, die gefiltert werden sollen [!UICONTROL Portfolio Optimizer] Voreinstellungen**
+**Objekte, die in den Voreinstellungen von [!UICONTROL Portfolio-Optimizer] gefiltert werden sollen, können nicht ausgewählt werden**
 
 *Portfolios*
 
-Wenn sich ein Benutzer im [!UICONTROL Portfolio Optimizer] und zeigt die [!UICONTROL Projektfilter] im [!UICONTROL Voreinstellungen] -Bereich, fehlen die Kontrollkästchen neben den Objekten. Der Benutzer kann die Kontrollkästchen nicht aktivieren oder deaktivieren und kann daher keine zu filternden Objekte auswählen.
+Wenn sich ein(e) Benutzende(r) im [!UICONTROL Portfolio-Optimizer] befindet und die Registerkarte [!UICONTROL Projektfilter] im Bereich [!UICONTROL Voreinstellungen] öffnet, fehlen die Kontrollkästchen neben den Objekten. Der/die Benutzende kann die Kontrollkästchen nicht aktivieren oder deaktivieren und daher keine zu filternden Objekte auswählen.
 
-**Kann nicht geändert werden [!UICONTROL Geplantes Startdatum] oder [!UICONTROL Geplantes Abschlussdatum] wenn[!UICONTROL Zeitplan ab]&quot; ist nicht markiert**
+**[!UICONTROL Geplantes Startdatum] oder [!UICONTROL Geplantes Abschlussdatum] kann nicht geändert werden, wenn „[!UICONTROL Zeitplan ab]“ nicht markiert ist**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Geplantes Startdatum] oder [!UICONTROL Geplantes Abschlussdatum] eines Projekts und der[!UICONTROL Zeitplan ab]&quot; nicht aktiviert ist, wird die [!UICONTROL Geplantes Startdatum] und [!UICONTROL Geplantes Abschlussdatum] -Bereiche deaktiviert sind und der Benutzer diese Daten nicht bearbeiten kann.
+Wenn ein(e) Benutzende(r) versucht, das [!UICONTROL geplante Startdatum] oder das [!UICONTROL geplante Abschlussdatum] eines Projekts zu bearbeiten und die Option „[!UICONTROL Zeitplan ab]“ nicht aktiviert ist, sind die Bereiche [!UICONTROL Geplantes Startdatum] und [!UICONTROL Geplantes Abschlussdatum] deaktiviert und der/die Benutzende diese Daten nicht bearbeiten.
 
-**Zugriffsebene von Benutzern kann nicht bearbeitet werden**
+**Zugriffsebene von Benutzenden kann nicht bearbeitet werden**
 
 *Benutzer*
 
-Wenn ein Benutzer mit Planungszugriff, der Benutzeradministratoren (Gruppenbenutzer) enthält, versucht, Benutzer in der Gruppe zu bearbeiten, für die er Administrator ist, wird die [!UICONTROL Zugriff] -Feld deaktiviert ist und der Benutzer die Zugriffsebene nicht bearbeiten kann.
+Wenn ein(e) Benutzende(r) mit Planerzugriff, der/die auch Administratorrechte für Gruppenbenutzende besitzt, versucht, Benutzende in der Gruppe zu bearbeiten, die von ihm/ihr administriert wird, ist das Feld [!UICONTROL Zugriffsebene] deaktiviert und der/die Benutzende kann die Zugriffsebene nicht bearbeiten.
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Wartungs-Update am 9. Juni 2022**
++++**[!DNL Workfront Scenario Planner]Wartungs-Update vom 9. Juni 2022**
 
-**Anpassbare linke Leiste im[!DNL Scenario Planner]**
+**Anpassbares linkes Bedienfeld im[!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
-Sie können jetzt die Größe des linken Bereichs in einem Plan ändern, indem Sie im [!DNL Scenario Planner]. Dadurch können längere Initiativnamen vollständig angezeigt werden. Vor dieser Aktualisierung wurden längere Initiativnamen abgeschnitten.
+Sie können jetzt im [!DNL Scenario Planner] die Größe des linken Bedienfelds in einem Plan ändern. Dadurch können längere Namen vollständig angezeigt werden. Vor diesem Update wurden längere Namen abgeschnitten.
 
 +++
 
-+++**[!DNL Workfront Fusion]Wartungs-Update am 9. Juni 2022**
++++**[!DNL Workfront Fusion]Wartungs-Update vom 9. Juni 2022**
 
-**Daten aus benutzerdefinierten Formularen, die in nicht verfügbar sind [!DNL Workfront Fusion] [!DNL Workfront] Module**
+**Daten aus benutzerdefinierten Formularen sind nicht in [!DNL Workfront Fusion] [!DNL Workfront]-Modulen verfügbar**
 
 *[!DNL Workfront Fusion]*
 
-Wenn ein Benutzer eine [!DNL Workfront] -Modul in [!DNL Workfront Fusion]und versucht, Ausgaben für das Modul auszuwählen, sind Felder aus benutzerdefinierten Formularen nicht sichtbar. Dies tritt auf, wenn das benutzerdefinierte Formular für einen Typ von [!DNL Workfront] -Objekt und anschließend wurde ein anderer Typ hinzugefügt. [!DNL Workfront Fusion] zeigt nur Felder aus benutzerdefinierten Formularen an, die ursprünglich für den ausgewählten Objekttyp erstellt wurden.
+Wenn ein(e) Benutzende(r) ein [!DNL Workfront]-Modul in [!DNL Workfront Fusion] konfiguriert und versucht, Ausgaben für das Modul auszuwählen, sind die Felder von benutzerdefinierten Formularen nicht sichtbar. Dies tritt auf, wenn ein benutzerdefiniertes Formular für einen Typ eines [!DNL Workfront]-Objekts erstellt wurde und anschließend ein anderer Typ hinzugefügt wurde. In [!DNL Workfront Fusion] werden nur Felder von benutzerdefinierten Formularen angezeigt, die ursprünglich für den ausgewählten Objekttyp erstellt wurden.
 
 **Es kann nicht gescrollt werden, um alle Szenario-Ausführungen anzuzeigen**
 
 *[!DNL Workfront Fusion]*
 
-Wenn ein Benutzer den Ausführungsverlauf eines Szenarios anzeigt und versucht, nach unten zu scrollen, um weitere Ausführungen anzuzeigen, wird das Laden der Ausführungen beendet und der Benutzer kann sie nicht anzeigen. Außerdem kann der Benutzer nicht zu den neuesten Ausführungen zurückkehren.
+Wenn ein(e) Benutzende(r) den Ausführungsverlauf eines Szenarios anzeigt und versucht, nach unten zu scrollen, um weitere Ausführungen anzuzeigen, werden keine Ausführungen mehr geladen und der/die Benutzende kann sie nicht anzeigen. Zusätzlich kann der/die Benutzende auch nicht mehr zu den letzten Ausführungen hinaufscrollen.
 
 +++
 
-+++**Wartungs-Update am 2. Juni 2022**
++++**Wartungs-Update vom 2. Juni 2022**
 
-**[!UICONTROL Portfolio Optimizer] zeigt den Wert 0 bei Verwendung einer anderen Sprache als Englisch an**
+**[!UICONTROL Portfolio-Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
 
 *Portfolios*
 
-Wenn ein Benutzer [!DNL Workfront] in einer anderen Sprache als Englisch und zeigt die [!UICONTROL Portfolio Optimizer], wird der Wert als 0 angezeigt. Dies kann auch auftreten, wenn der Geschäftsfall nicht abgeschlossen ist.
+Wenn ein(e) Benutzende(r) [!DNL Workfront] in einer anderen Sprache als Englisch anzeigt und den [!UICONTROL Portfolio-Optimizer] öffnet, wird der Score als 0 dargestellt. Dies kann auch auftreten, wenn der Business-Case noch nicht abgeschlossen ist.
 
-**Berechnete Feldwerte falsch bei der Erstellung eines Projekts aus einer Vorlage**
+**Berechnete Feldwerte sind bei der Erstellung eines Projekts aus einer Vorlage falsch**
 
 *Projekte*
 
-Wenn ein Benutzer ein Projekt aus einer Vorlage erstellt, die berechnete Felder enthält, sind die im neuen Projekt angezeigten Feldwerte falsch.
+Wenn ein(e) Benutzende(r) ein Projekt aus einer Vorlage erstellt, die berechnete Felder enthält, sind die im neuen Projekt angezeigten Feldwerte falsch.
 
-**Kann nicht bearbeitet werden [!UICONTROL Bedingungen] in [!UICONTROL Projektvoreinstellungen] Gebiet von [!UICONTROL Einrichtung]**
+**[!UICONTROL Bedingungen] im Abschnitt [!UICONTROL Projektvoreinstellungen] von [!UICONTROL Setup]** können nicht bearbeitet werden
 
 *[!UICONTROL Einrichtung]*
 
-Wenn ein Benutzer versucht, [!UICONTROL Bedingungen] im [!UICONTROL Projektvoreinstellungen] Gebiet von [!UICONTROL Einrichtung], ist die Seite leer.
+Wenn ein(e) Benutzende(r) versucht, [!UICONTROL Bedingungen] im Abschnitt [!UICONTROL Projektvoreinstellungen] von [!UICONTROL Setup] zu bearbeiten, ist die Seite leer.
 
 **Neue Begrenzung der Zeichenanzahl in einer Aktualisierung in der Vorschau**
 
@@ -975,28 +975,29 @@ Wenn ein Benutzer versucht, [!UICONTROL Bedingungen] im [!UICONTROL Projektvorei
 
 >[!NOTE]
 >
->Diese Aktualisierung gilt nur für die Vorschau -Umgebung.
+>Dieses Update gilt nur für die Vorschau-Umgebung.
 
-Um die Leistung des Bereichs Updates zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie in einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch diese Aktualisierung wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000. Aktualisierungen Unterstützung für benutzerdefinierte Felder vom Typ &quot;Typehead&quot;in den Arbeitslastausgleichsfiltern
+Um die Leistung des Bereichs „Aktualisierungen“ zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie bei einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch dieses Update wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000. Aktualisierungen
+Unterstützung für benutzerdefinierte Felder mit automatischer Textvervollständigung in den Workload Balancer-Filtern
 
-Wir unterstützen nun Filter, die auf der [!UICONTROL Typahead] Geben Sie benutzerdefinierte Felder in den Lastenausgleich ein. Vor diesem Patch war das Filtern nach diesem Typ von benutzerdefinierten Feldern im Arbeitslastausgleich nicht möglich.
+Wir unterstützen im Workload Balancer nun Filter, die auf benutzerdefinierten Feldern [!UICONTROL mit automatischer Textvervollständigung] basieren. Vor diesem Patch war das Filtern nach diesem Typ von benutzerdefinierten Feldern im Workload Balancer nicht möglich.
 
 **Berechtigungen für Benutzerrollen können nicht bearbeitet werden**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer versucht, den[!UICONTROL Kommentare auflösen und Aktionen anwenden]&quot; oder &quot;[!UICONTROL Testversand durch Tagging freigeben]&quot; -Berechtigungen für die Rolle eines Benutzers in [!DNL Workfront Proof], werden die Änderungen nicht gespeichert. Der Benutzer erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der Benutzer die Rollenberechtigungen jedoch erneut öffnet, kann er sehen, dass die Änderungen nicht gespeichert wurden.
+Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Kommentare auflösen und Aktionen anwenden]“ oder „[!UICONTROL Korrekturabzug durch Tagging freigeben]“ in [!DNL Workfront Proof] zu bearbeiten, werden die Änderungen nicht gespeichert. Der/die Benutzende erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der/die Benutzende die Rollenberechtigungen jedoch erneut öffnet, kann er/sie sehen, dass die Änderungen nicht gespeichert wurden.
 
 +++
 
 
-## Aktualisierungen im Mai 2022
+## Updates im Mai 2022
 
-+++**Wartungs-Update am 26. Mai 2022**
++++**Wartungs-Update vom 26. Mai 2022**
 
-Diese Probleme wurden nur in der neuen [!DNL Workfront] Erlebnis. [!DNL Adobe Workfront Classic] wird nicht mehr unterstützt.
+Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben. [!DNL Adobe Workfront Classic] wird nicht mehr unterstützt.
 
-Alle [!DNL Workfront Classic] -Funktion wird im Juli 2022 entfernt. Bitte wechseln Sie so bald wie möglich zum neuen Erlebnis.
+Alle Funktionen von [!DNL Workfront Classic] werden im Juli 2022 entfernt. Bitte wechseln Sie so bald wie möglich zur neuen Version.
 
 **Aktualisierte Breadcrumb-Trennzeichen**
 
@@ -1006,1138 +1007,1140 @@ HINWEIS: Dieses Update wurde am 24. Mai 2022 veröffentlicht.
 
 Wir haben die Breadcrumb-Trennzeichen in allen Bereichen aktualisiert, in denen Breadcrumbs verfügbar sind. Jetzt werden die Objekte in den Breadcrumbs durch senkrechte Striche (|) getrennt. Vor dieser Aktualisierung wurden sie durch Schrägstriche (/) getrennt.
 
-**Benutzerdefinierte Formulare mit Abschnittspausen können nicht bearbeitet werden**
+**Benutzerdefinierte Formulare mit Abschnittsumbrüchen können nicht bearbeitet werden**
 
 *Benutzerdefinierte Formulare*
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular mit einem Abschnittsumbruch zu bearbeiten, kann er das Formular nicht bearbeiten, und ihm wird die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular mit einem Abschnittsumbruch zu bearbeiten, kann er/sie das Formular nicht bearbeiten und die folgende Meldung erscheint:
 
 [!UICONTROL Der angegebene Schutz für den Abschnittsumbruch kann nicht auf alle Objekttypen angewendet werden]
 
-**Probleme beim Drucken von Dashboards unter PDF**
+**Probleme beim Drucken von Dashboards im PDF-Format**
 
 *Dashboards*
 
-Beim Drucken eines Dashboards auf einer PDF wurden die folgenden Probleme gemeldet: Die PDF druckt nicht jede Zeile im Bericht. Wenn Zeilen fehlen, wird nur leerer Leerraum angezeigt.
-Die PDF enthält leere Leerzeichen zwischen den Spaltenüberschriften und der ersten Zeile des Berichts.
+Beim Drucken eines Dashboards im PDF-Format wurden die folgenden Probleme gemeldet: Im PDF-Format wird nicht jede Zeile des Berichts ausgedruckt. Wenn Zeilen fehlen, wird nur Leerraum angezeigt.
+Die PDF-Datei enthält Leerzeichen zwischen den Spaltenüberschriften und der ersten Zeile des Berichts.
 
-**[!DNL Portfolio Optimizer]zeigt den Wert 0 bei Verwendung einer anderen Sprache als Englisch an**
+**[!DNL Portfolio Optimizer]zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
 
 *Portfolios*
 
-Wenn ein Benutzer [!DNL Workfront] in einer anderen Sprache als Englisch und zeigt die [!UICONTROL Portfolio Optimizer], wird der Wert als 0 angezeigt. Dies kann auch auftreten, wenn der Geschäftsfall nicht abgeschlossen ist.
+Wenn ein(e) Benutzende(r) [!DNL Workfront] in einer anderen Sprache als Englisch anzeigt und den [!UICONTROL Portfolio-Optimizer] öffnet, wird der Score als 0 dargestellt. Dies kann auch auftreten, wenn der Business-Case noch nicht abgeschlossen ist.
 
-**Einige benutzerdefinierte Formulare werden beim Bearbeiten einer Vorlage nicht angezeigt**
+**Beim Bearbeiten einer Vorlage werden einige benutzerdefinierte Formulare nicht angezeigt**
 
 *Vorlagen*
 
-Wenn ein Benutzer versucht, die benutzerdefinierten Formulare in einer Vorlage zu bearbeiten, indem er auf [!UICONTROL Bearbeiten] in der Kopfzeile der Vorlage die [!UICONTROL Vorlage bearbeiten] nur eines der benutzerdefinierten Formulare angezeigt, die an die Vorlage angehängt sind.
+Wenn ein(e) Benutzende(r) versucht, die an eine Vorlage angehängten benutzerdefinierten Formulare zu bearbeiten, indem er/sie in der Kopfzeile der Vorlage auf [!UICONTROL Bearbeiten] klickt, wird im Feld [!UICONTROL Vorlage bearbeiten] nur eines der benutzerdefinierten Formulare angezeigt, die an die Vorlage angehängt sind.
 
-**Freigegebener Link zum Arbeitslastausgleich zeigt zugewiesene Arbeit falsch an**
+**Freigegebener Link zum Workload Balancer zeigt zugewiesene Arbeit falsch an**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer die [!UICONTROL Lastenausgleich] über einen freigegebenen Link die [!DNL Workload Balancer] include [!UICONTROL Zugewiesene Arbeit] im [!UICONTROL Nicht zugewiesene Arbeit] Abschnitt. [!UICONTROL Zugewiesene Arbeit] hat keinen separaten Abschnitt. Wenn der Benutzer die [!UICONTROL Lastenausgleich] , ohne den freigegebenen Link zu verwenden, [!UICONTROL Zugewiesene Arbeit] angezeigt.
+Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] über einen freigegebenen Link öffnet, wird im [!DNL Workload Balancer] [!UICONTROL zugewiesene Arbeit] im Abschnitt [!UICONTROL Nicht zugewiesene Arbeit] angezeigt. [!UICONTROL Zugewiesene Arbeit] hat keinen separaten Abschnitt. Wenn der/die Benutzende den [!UICONTROL Workload Balancer] ohne den freigegebenen Link öffnet, wird die [!UICONTROL zugewiesene Arbeit] korrekt angezeigt.
 
 +++
 
-+++**Wartungs-Update am 19. Mai 2022**
++++**Wartungs-Update vom 19. Mai 2022**
 
-**Der Testversand kann nicht aus einer[!DNL PowerPoint]**
-
-*[!DNL Workfront Proof]*
-
-Wenn ein Benutzer versucht, einen Testversand aus einem [!DNL PowerPoint] , das ein Diagramm enthält, schlägt die Erstellung des Testversands fehl.
-
-**Der Testversand kann nicht aus einer [!UICONTROL Word] Dokument**
+**Aus einer[!DNL PowerPoint]**-Datei kann kein Korrekturabzug erstellt werden
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer versucht, einen Testversand aus einem [!DNL Word] -Dokument, das ein Diagramm enthält, schlägt die Erstellung des Testversands fehl.
+Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug aus einer [!DNL PowerPoint]-Datei zu erstellen, die ein Diagramm enthält, schlägt die Erstellung des Korrekturabzugs fehl.
 
-**Benutzerdefinierte Nachricht kann beim Freigeben eines Testversands nicht hinzugefügt werden**
-
-*[!DNL Workfront Proof]*
-
-Wenn ein Benutzer einen Testversand anzeigt, öffnet er die [!UICONTROL Testversand freigeben] und wählt den [!UICONTROL Benutzerdefinierte Nachricht hinzufügen] -Schaltfläche, kann der Benutzer nicht in das sich öffnende Textfeld eingeben. Wenn der Benutzer versucht, in dieses Feld einzugeben, wird das Feld sofort ausgeblendet.
-
-**Testversand kann nicht geschlossen werden**
+**Aus einem [!UICONTROL Word]-Dokument kann kein Korrekturabzug erstellt werden**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer einen Testversand anzeigt und versucht, ihn zu schließen, fehlt das X zum Schließen des Testversands in der oberen rechten Ecke des Testversands.
+Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug aus einem [!DNL Word]-Dokument zu erstellen, das ein Diagramm enthält, schlägt die Erstellung des Korrekturabzugs fehl.
 
-**Gruppenadministrator kann nicht hinzugefügt oder entfernt werden**
+**Benutzerdefinierte Nachricht kann nicht hinzugefügt werden, wenn ein Korrekturabzug freigegeben wird**
+
+*[!DNL Workfront Proof]*
+
+Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft, den Abschnitt [!UICONTROL Korrekturabzug freigeben] öffnet und die Schaltfläche [!UICONTROL Benutzerdefinierte Nachricht hinzufügen] wählt, kann der/die Benutzende nichts in das sich öffnende Textfeld eingeben. Wenn der/die Benutzende versucht, Text in dieses Feld einzugeben, wird das Feld sofort ausgeblendet.
+
+**Korrekturabzug kann nicht geschlossen werden**
+
+*[!DNL Workfront Proof]*
+
+Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft und versucht, ihn zu schließen, fehlt das X zum Schließen des Korrekturabzugs in der oberen rechten Ecke des Korrekturabzugs.
+
+**Gruppenadministrator bzw. -administratorin kann nicht hinzugefügt oder entfernt werden**
 
 *Gruppen*
 
-Wenn ein Benutzer eine [!UICONTROL Gruppe] und versucht, einen Gruppenadministrator mithilfe der [!UICONTROL Gruppenadministratoren] -Bereich in der Kopfzeile werden die Änderungen nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Gruppe] aufruft und versucht, einen Gruppenadministrator bzw. eine Gruppenadministratorin über den Abschnitt [!UICONTROL Gruppenadministratoren] in der Kopfzeile hinzuzufügen oder zu entfernen, werden die Änderungen nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Fehler-Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Horizontaler Bildlaufbalken blockiert Element am Ende der Liste**
 
 *Projekte*
 
-Wenn ein Benutzer eine Liste mit einer Ansicht anzeigt, die sich von der Bildschirmseite erstreckt, blockiert die horizontale Bildlaufleiste die Ansicht des Benutzers vom letzten Element auf der Liste.
+Wenn ein(e) Benutzende(r) eine Liste mithilfe einer Ansicht anzeigt, die sich über die Bildschirmseite hinaus erstreckt, blockiert die horizontale Bildlaufleiste die Anzeige des letzten Elements auf der Liste für den/die Benutzende(n).
 
-**&quot;[!UICONTROL Unerwarteter Fehler]&quot; beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
+**„[!UICONTROL Unerwarteter Fehler]“ beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
 
 *Listen*
 
-Wenn ein Benutzer versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, wird das Problem nicht konvertiert, und der Benutzer sieht die folgende Meldung:
+Wenn ein(e) Benutzende(r) versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, wird das Problem nicht konvertiert, und der/die Benutzende sieht die folgende Meldung:
 
 [!UICONTROL Unerwarteter Fehler]
 
-**Die [!UICONTROL Status] -Feld in einer Timesheet-Ansicht ist jetzt schreibgeschützt**
+**Das Feld [!UICONTROL Status] in einer Arbeitszeittabellen-Ansicht ist jetzt schreibgeschützt**
 
 *Arbeitszeit- tabellen*
 
-Wir haben die [!UICONTROL Status] in einer Timesheet-Ansicht schreibgeschützt sein. Vor dieser Änderung konnten Benutzer den Status eines Zeitblatts inline bearbeiten, wodurch sie die Entscheidung der Timesheet-Genehmiger überschreiben konnten.
+Wir haben das Feld [!UICONTROL Status] in der Arbeitszeittabellen-Ansicht geändert, sodass es jetzt schreibgeschützt ist. Vor dieser Änderung konnten Benutzende den Status einer Arbeitszeittabelle inline bearbeiten, wodurch sie die Entscheidung der Arbeitszeittabellen-Genehmiger überschreiben konnten.
 
 +++
 
-+++**Wartungs-Update am 12. Mai 2022**
++++**Wartungs-Update vom 12. Mai 2022**
 
-**[!UICONTROL Speichern] Schaltfläche wird beim Bearbeiten eines Projekts nicht geladen**
+**[!UICONTROL Speichern]-Schaltfläche lädt beim Bearbeiten eines Projekts unentwegt**
 
 *Projekte*
 
-Wenn ein Benutzer ein Projekt bearbeitet und versucht, zu speichern, erkennt er, dass die [!UICONTROL Speichern] -Schaltfläche zeigt das Wort &quot;[!UICONTROL Laden].&quot; Wenn der Benutzer auf diese Schaltfläche klickt, um die Änderungen am Projekt zu speichern, reagiert die Schaltfläche nicht und die Änderungen werden nicht gespeichert.
+Wenn ein(e) Benutzende(r) ein Projekt bearbeitet und versucht, es zu speichern, wird in der Schaltfläche [!UICONTROL Speichern] „[!UICONTROL Wird geladen]“ angezeigt. Wenn der/die Benutzende auf diese Schaltfläche klickt, um die Änderungen am Projekt zu speichern, reagiert die Schaltfläche nicht und die Änderungen werden nicht gespeichert.
 
-**Feldbeschriftungen werden beim Anzeigen eines Objekts in [!UICONTROL Startseite]**
+**Feldbeschriftungen werden beim Öffnen eines Objekts in der [!UICONTROL Startseite]** nicht angezeigt
 
 *Startseite*
 
-Wenn ein Benutzer ein Objekt aus seiner [!UICONTROL Homepage-Arbeitsliste], das Gebiet rechts von der [!UICONTROL Homepage-Arbeitsliste] zeigt an, dass das Objekt keine Feldbeschriftungen enthält. Die Feldwerte sind vorhanden.
+Wenn ein(e) Benutzende(r) ein Objekt in der [!UICONTROL Startseiten-Arbeitsliste] auswählt, sind in Bereich rechts neben der [!UICONTROL Startseiten-Arbeitsliste], wo sich das Objekt befindet, keine Feldtitel vorhanden. Die Feldwerte dagegen sind vorhanden.
 
-**Schnellfilter konzentriert sich nicht automatisch auf die Suchleiste**
+**Fokus des Schnellfilters wechselt nicht automatisch zur Suchleiste**
 
 *Listen*
 
-Wenn sich ein Benutzer in einer Liste befindet und auf die Lupe klickt, um schnell zu filtern, und dann mit der Eingabe beginnt, wird der Text nicht angezeigt. Der Grund dafür ist, dass der Fokus nicht auf die Suchleiste, sondern auf das Lupensymbol bleibt.
+Wenn sich ein(e) Benutzende(r) in einer Liste befindet und auf die Lupe klickt, um schnell zu filtern, und dann mit der Eingabe von Text beginnt, wird der Text nicht angezeigt. Der Grund dafür ist, dass der Fokus auf dem Lupensymbol bleibt anstatt zur Suchleiste zu wechseln.
 
-Durch Klicken auf die Suchleiste wird der Fokus übertragen und der Benutzer kann den Text seiner Suche eingeben.
+Durch Klicken auf die Suchleiste wird der Fokus übertragen und der/die Benutzende kann den Suchtext eingeben.
 
-**Benutzer können Felder in einem Bericht nicht inline bearbeiten**
+**Benutzende können Felder in einem Bericht nicht inline bearbeiten**
 
 *Berichte*
 
-Wenn ein Benutzer versucht, ein Feld in einem Bericht zu bearbeiten, und dieses Feld aus einem benutzerdefinierten Formular abgerufen wird, kann er das Feld nicht bearbeiten. Dies tritt auf, wenn das benutzerdefinierte Formular ursprünglich für einen anderen Objekttyp als das Objekt erstellt wurde, an das es angehängt ist.
+Wenn ein(e) Benutzende(r) versucht, ein Feld in einem Bericht zu bearbeiten und dieses Feld aus einem benutzerdefinierten Formular abgerufen wird, kann er/sie das Feld nicht bearbeiten. Dies tritt auf, wenn das benutzerdefinierte Formular ursprünglich für einen anderen Objekttyp als das Objekt erstellt wurde, an das es angehängt ist.
 
-**Titel und Schaltflächentext werden beim Erstellen eines Testversands nicht angezeigt**
+**Titel und Schaltflächentext werden beim Erstellen eines Korrekturabzugs nicht angezeigt**
 
 *[!DNL Workfront Proof]*
 
-HINWEIS: Dieses Problem tritt nur in der Vorschau -Umgebung auf.
+HINWEIS: Dieses Problem tritt nur in der Vorschau-Umgebung auf.
 
-Wenn ein Benutzer versucht, einen Testversand zu erstellen, ist der Text für Optionen oder Schaltflächen nicht sichtbar. Daher weiß der Benutzer nicht, was die einzelnen Optionen oder Schaltflächen darstellen, und kann den Testversand nicht konfigurieren.
+Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu erstellen, ist der Text für Optionen oder Schaltflächen nicht sichtbar. Daher weiß der/die Benutzende nicht, was die einzelnen Optionen oder Schaltflächen darstellen, und kann den Korrekturabzug nicht konfigurieren.
 
 +++
 
-+++**Wartungs-Update am 5. Mai 2022**
++++**Wartungs-Update vom 5. Mai 2022**
 
-**Neuen Rechnungsdatensatz kann nicht hinzugefügt werden**
+**Neuer Rechnungs-Datensatz kann nicht hinzugefügt werden**
 
 *Projekte*
 
-Wenn sich ein Benutzer im [!UICONTROL Rechnungsdatensätze] -Bereich eines Projekts und verwendet die [!UICONTROL Neuer Rechnungsdatensatz] Wenn der Benutzer versucht, einen neuen Rechnungsdatensatz hinzuzufügen, werden die Felder für einen neuen Rechnungsdatensatz nicht angezeigt und der Rechnungsdatensatz kann nicht erstellt werden.
+Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungs-Datensätze] eines Projekts befindet und die Ansicht [!UICONTROL Neuer Abrechnungs-Datensatz] geöffnet hat und versucht, einen neuen Abrechnungs-Datensatz hinzuzufügen, werden die Felder für den neuen Abrechnungs-Datensatz nicht angezeigt und der Abrechnungs-Datensatz kann nicht erstellt werden.
 
-**Fehler bei der Massenzuweisung in [!UICONTROL Lastenausgleich]**
-
-*[!UICONTROL Lastenausgleich]*
-
-Wenn ein Benutzer versucht, Zuweisungen in der [!DNL Workload Balancer] eines Projekts wird der Benutzer zu einer Seite mit der folgenden Meldung umgeleitet:
-
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]&quot;
-
-Der Benutzer kann von dieser Seite nicht weg navigieren, bis er die Seite aktualisiert hat.
-
-**Aktualisierte Navigation zum Öffnen der [!UICONTROL Zusammenfassung] Bereich für Aufgaben und Probleme in [!UICONTROL Lastenausgleich]**
+**Fehler bei der Massenzuweisung im [!UICONTROL Workload Balancer]**
 
 *[!UICONTROL Lastenausgleich]*
 
-Klicken Sie jetzt einfach auf eine Aufgabe oder eine Problemleiste im [!UICONTROL Lastenausgleich] öffnet das Bedienfeld &quot;Zusammenfassung&quot;. Vor dieser Aktualisierung mussten Sie auf die [!UICONTROL Zusammenfassung öffnen] in der Symbolleiste und klicken Sie dann auf die Aufgabe oder das Problem. Dies hatte sich als verwirrendes Erlebnis erwiesen, das nun korrigiert wird. Alternativ können Sie auf die [!UICONTROL Mehr] Menü neben dem Namen der Aufgabe oder des Problems und klicken Sie auf [!UICONTROL Zusammenfassung öffnen].
+Wenn ein(e) Benutzende(r) versucht, Zuweisungen im [!DNL Workload Balancer] eines Projekts durchzuführen, wird der/die Benutzende zu einer Seite mit der folgenden Meldung umgeleitet:
 
-**Gruppenadministrator kann Details zu Benutzern in der Gruppe nicht anzeigen**
+„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+
+Der/die Benutzende kann diese Seite nicht verlassen, bis er/sie die Seite aktualisiert.
+
+**Die Navigation zum Öffnen des Bedienfelds [!UICONTROL Zusammenfassung] für Aufgaben und Probleme im [!UICONTROL Workload Balancer]** wurde aktualisiert
+
+*[!UICONTROL Lastenausgleich]*
+
+Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im [!UICONTROL Workload Balancer] das Bedienfeld „Zusammenfassung“ geöffnet werden. Vor diesem Update mussten Sie auf das Symbol [!UICONTROL Zusammenfassung öffnen] in der Symbolleiste und dann auf die Aufgabe oder das Problem klicken. Dies war verwirrend und wurde nun korrigiert. Alternativ können Sie auf das Menü [!UICONTROL Mehr] neben dem Namen der Aufgabe oder des Problems und danach auf [!UICONTROL Zusammenfassung öffnen] klicken.
+
+**Gruppen-Administrator bzw. -Administratorin kann keine Details zu Benutzenden in der Gruppe sehen**
 
 *Benutzer*
 
-Wenn ein Benutzer, der einer Zugriffsstufe zugewiesen ist, die Folgendes enthält: [!UICONTROL Benutzerverwaltung (Gruppenbenutzer)] Die Zugriffseinstellung versucht, Details eines Benutzers in seiner Gruppe anzuzeigen. Er sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r), der/die einer Zugriffsebene zugewiesen ist, die die Zugriffseinstellung [!UICONTROL Benutzeradministration (Gruppenbenutzende)] enthält, versucht, Details eines/r Benutzenden in der Gruppe aufzurufen, erscheint der folgende Fehler:
 
-&quot;[!UICONTROL Versuchen Sie es erneut. Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]&quot;
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Benutzerdefinierter Gruppenstatus kann nicht gelöscht werden**
 
 *Gruppen*
 
-Wenn ein Benutzer versucht, einen benutzerspezifischen Gruppenstatus aus dem [!UICONTROL Gruppe] -Seite, wird die Seite leer gelassen und der Status wird nicht gelöscht.
+Wenn ein(e) Benutzende(r) versucht, einen benutzerspezifischen Gruppenstatus aus der Seite [!UICONTROL Gruppe] zu löschen, wird eine leere Seite angezeigt und der Status wird nicht gelöscht.
 
-**E-Mail-Warnhinweiseinstellungen sind zwischen dem Bereich &quot;Kontakte&quot;und den Benutzerdetails nicht konsistent**
-
-*[!DNL Workfront Proof]*
-
-Die Einstellungen für den E-Mail-Warnhinweis werden in der [!UICONTROL Kontakte] Gebiet von [!DNL Workfront Proof] für einen bestimmten Benutzer sich von der E-Mail-Warnhinweiseinstellung unterscheiden, die im [!UICONTROL Benutzerdetails].
-
-**Text-Tool kann nicht verwendet werden, wenn Sie einen Kommentar zu einem Testversand abgeben**
+**E-Mail-Warnhinweiseinstellungen im Bereich „Kontakte“ und in den Benutzerdetails stimmen nicht überein**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer einen Kommentar zu einem Testversand abgibt und versucht, den [!UICONTROL Text] -Tool nicht geöffnet ist, wird dem Benutzer die folgende Nachricht angezeigt:
+Die Einstellungen für den E-Mail-Warnhinweis im Bereich [!UICONTROL Kontakte] von [!DNL Workfront Proof] für einen Benutzer unterscheiden sich von der E-Mail-Warnhinweiseinstellung in den [!UICONTROL Benutzerdetails].
 
-&quot;[!UICONTROL Textdaten für diese Seite werden noch heruntergeladen. Bitte warten Sie.]&quot;
-
-**Testversand-E-Mails werden an die primäre E-Mail des Benutzers gesendet**
+**Text-Tool kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden**
 
 *[!DNL Workfront Proof]*
 
-Wir passen die Art und Weise an, wie Testversand-E-Mail-Benachrichtigungen gesendet werden. Jetzt werden Benachrichtigungen an die primäre E-Mail-Adresse des Benutzers gesendet und nicht an die vom System generierte Alias-E-Mail.
+Wenn ein(e) Benutzende(r) einen Kommentar zu einem Korrekturabzug hinzufügt und versucht, das [!UICONTROL Text]-Tool zu öffnen, kann das Tool nicht geöffnet werden und die folgende Nachricht wird angezeigt:
 
-Weitere Informationen dazu, warum das System Alias-E-Mails generiert, finden Sie unter Benutzersynchronisierung zwischen Adobe [!DNL Workfront] und [!DNL Workfront Proof].
+„[!UICONTROL Textdaten für diese Seite werden noch heruntergeladen. Bitte warten Sie.]“
+
+**Korrekturabzugs-E-Mails werden an die primäre E-Mail des Benutzenden gesendet**
+
+*[!DNL Workfront Proof]*
+
+Wir passen die Art und Weise an, wie Korrekturabzugs-E-Mail-Benachrichtigungen gesendet werden. Derzeit werden Benachrichtigungen an die primäre E-Mail-Adresse des/der Benutzenden gesendet und nicht an die vom System generierte Alias-E-Mail-Adresse.
+
+Weitere Informationen dazu, warum das System Alias-E-Mail-Adressen generiert, finden Sie unter Benutzersynchronisierung zwischen Adobe [!DNL Workfront] und [!DNL Workfront Proof].
 
 +++
 
-## Aktualisierungen im April 2022
+## Updates im April 2022
 
-+++**Wartungs-Update am 28. April 2022**
++++**Wartungs-Update vom 28. April 2022**
 
-**Es kann nicht zum [!UICONTROL Speichern] Schaltfläche beim Bearbeiten eines Zeitplans**
+**Scrollen zur Schaltfläche [!UICONTROL Speichern] beim Bearbeiten einer Arbeitszeittabelle nicht möglich**
 
 *Arbeitszeit- tabellen*
 
-Wenn ein Benutzer ein Timesheet bearbeitet, kann er nicht weit genug scrollen, um das Bearbeitungsfenster anzuzeigen [!UICONTROL Speichern] und kann daher das Timesheet nicht bearbeiten.
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle bearbeitet, kann er/sie nicht weit genug scrollen, um die Schaltfläche [!UICONTROL Speichern] anzuzeigen und kann daher die Arbeitszeittabelle nicht bearbeiten.
 
-**Elektronische Signatur überprüft jetzt die Föderations-ID**
+**Elektronische Signatur überprüft jetzt die Federation ID**
 
 *Korrekturabzüge*
 
-Beim elektronischen Signieren eines Testversands prüft das System jetzt die Föderations-ID, wenn Sie SSO in [!DNL Workfront Proof]zusätzlich zu Ihrer E-Mail in [!DNL Workfront].
+Beim elektronischen Signieren eines Korrekturabzugs prüft das System jetzt die Federation ID, wenn Sie SSO in [!DNL Workfront Proof] zusätzlich zu Ihrer E-Mail in [!DNL Workfront] eingerichtet haben.
 
 Zuvor hat das System nur Ihre E-Mail in Workfront überprüft.
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 25. April 2022**
++++**Wartungs-Update (Hotfix) vom 25. April 2022**
 
-**[!UICONTROL Lastenausgleich] lädt nicht**
+**[!UICONTROL Workload Balancer] wird nicht geladen**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Lastenausgleich], der Kopfzeile und der linken Navigationslast, aber der Inhalt des Workload-Balancers wird nicht geladen. Der Benutzer sieht blinkende graue Quadrate anstelle von Daten. Gelegentlich wird ein Teil des Inhalts geladen, aber der Benutzer sieht immer noch blinkende graue Quadrate, in denen die fehlenden Daten enthalten wären.
+Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload Balancer] zu öffnen, wird die Kopfzeile und die linke Navigation geladen, aber der Inhalt des Workload-Balancer wird nicht geladen. Der/die Benutzende sieht blinkende graue Quadrate anstelle von Daten. Gelegentlich wird ein Teil des Inhalts geladen, aber der/die Benutzende sieht immer noch blinkende graue Quadrate, wo die fehlenden Daten wären.
 
 +++
 
-+++**Wartungs-Update am 21. April 2022**
++++**Wartungs-Update vom 21. April 2022**
 
-**Das Hinzufügen einer Aufgabe bewirkt, dass die Seite nach unten springt**
+**Beim Hinzufügen einer Aufgabe springt die Seite nach unten**
 
 *Aufgaben*
 
-Wenn ein Benutzer eine Aufgabe unterhalb einer vorhandenen Aufgabe in einer Liste hinzufügt, wird die Seite in der Liste nach unten verschoben. Obwohl sich die neue Aufgabe an der richtigen Stelle befindet, muss der Benutzer nach oben scrollen, um sie zu finden.
+Wenn ein(e) Benutzende(r) eine Aufgabe unterhalb einer vorhandenen Aufgabe in einer Liste hinzufügt, wird die Seite in der Liste nach unten verschoben. Obwohl sich die neue Aufgabe an der richtigen Stelle befindet, muss der/die Benutzende nach oben scrollen, um sie zu finden.
 
-**Benutzer, die zu einem Testversand hinzugefügt wurden, können nicht auf das Arbeitselement des Testversands zugreifen in[!DNL Workfront]**
+**Benutzende, die zu einem Korrekturabzug hinzugefügt wurden, können nicht auf das Arbeitselement des Korrekturabzugs in[!DNL Workfront]** zugreifen
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer einer Phase im Workflow eines Testversands hinzugefügt wird, wird der Benutzer nicht zur Freigabe des Dokuments hinzugefügt und erhält keine Berechtigungen für das Arbeitselement des Testversands in [!DNL Workfront]. Wenn sich der Benutzer in [!DNL Workfront] und versucht, das Arbeitselement zu öffnen, an das der Testversand angehängt ist, sehen sie die folgende Meldung:
+Wenn ein(e) Benutzende(r) zu einem Schritt im Workflow eines Korrekturabzugs hinzugefügt wird, wird er/sie nicht zur Freigabe des Dokuments hinzugefügt und erhält keine Berechtigungen für das Arbeitselement des Korrekturabzugs in [!DNL Workfront]. Wenn der/die Benutzende in [!DNL Workfront] ist und versucht, das Arbeitselement zu öffnen, an das der Korrekturabzug angehängt ist, wird die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Sie haben nicht genügend Zugriff, um diese Ansicht anzuzeigen (Objekt)]&quot;
+„[!UICONTROL Sie verfügen nicht über die erforderliche Zugriffsberechtigung, um (dieses Objekt) anzuzeigen]“
 
-Dieses Problem betrifft nur Testsendungen, die bereits erstellt wurden und denen Benutzer hinzugefügt wurden, nachdem sie durchgeführt wurden. Das Hinzufügen von Benutzern zum Workflow vor der Erstellung eines Testversands funktioniert erwartungsgemäß.
+Dieses Problem betrifft nur Korrekturabzüge, die bereits erstellt wurden und denen danach Benutzer hinzugefügt wurden. Das Hinzufügen von Benutzern zum Workflow vor der Erstellung eines Korrekturabzugs funktioniert ordnungsgemäß.
 
-**Die E-Mail zum Zurücksetzen des Kennworts kann nicht gesendet werden von[!DNL Workfront]**
+**Die E-Mail zum Zurücksetzen des Passworts kann in[!DNL Workfront]** nicht gesendet werden
 
 *Benutzer*
 
-Wenn ein Benutzer versucht, eine E-Mail zum Zurücksetzen des Kennworts von einer Benutzerliste in [!DNL Workfront], ist die Option zum Senden der E-Mail nicht verfügbar.
+Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts über eine Benutzerliste in [!DNL Workfront] zu senden, ist die Option zum Senden der E-Mail nicht verfügbar.
 
-**Schaltfläche zeigt an[!UICONTROL Startproblem]&quot; anstelle von &quot;[!UICONTROL Anfrage starten]&quot;**
+**Die Schaltfläche „[!UICONTROL Problem starten]“ wird anstelle von „[!UICONTROL Anfrage starten]“ angezeigt**
 
 *Anforde- rungen*
 
-Wenn ein Benutzer eine seinem Team zugewiesene Anforderung anzeigt, wird ihm ein[!UICONTROL Startproblem]&quot;-Schaltfläche in der Kopfzeile anstatt eines &quot;[!UICONTROL Anfrage starten]&quot;.
+Wenn ein(e) Benutzende(r) eine seinem/ihrem Team zugewiesene Anfrage aufruft, wird in der Kopfzeile die Schaltfläche „[!UICONTROL Problem starten]“ statt „[!UICONTROL Anfrage starten]“ angezeigt.
 
-**&quot;[!UICONTROL Kommentar rückgängig machen]&quot; entfernt markierte Benutzer**
+**„[!UICONTROL Kommentar rückgängig machen]“ entfernt getaggte Benutzende**
 
 *Updates*
 
-Wenn ein Benutzer einen anderen Benutzer in einem Kommentar markiert, sendet er den Kommentar und wählt dann die[!UICONTROL Kommentar rückgängig machen]&quot;, wird der Kommentar wie gewohnt in einem Aktualisierungsfeld angezeigt, der getaggte Benutzer ist jedoch nicht in der [!UICONTROL Benutzer mit Tags] ankreuzen.
+Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) in einem Kommentar taggt, den Kommentar postet und dann die Option „[!UICONTROL Kommentar rückgängig machen]“ auswählt, wird der Kommentar wie üblich in einem Aktualisierungsfeld angezeigt, aber der/die getaggte Benutzende ist nicht im Fenster [!UICONTROL Getaggte Benutzende] zu sehen.
 
-**Bei Verwendung von [!UICONTROL Milestone] Ansicht in einem Bericht**
-
-*Berichte*
-
-Wenn ein Benutzer einen Bericht anzeigt und die [!UICONTROL Milestone] angezeigt, zeigt die Seite die Meilensteinansicht an, führt aber keinen Bildlauf mehr durch. Außerdem kann der Benutzer keine Meilensteine anzeigen, die weiter unten auf der Seite stehen würden.
-
-**Falsche Währung bei Anzeige des Berichts im Dashboard**
+**Bei Verwendung der [!UICONTROL Meilenstein]-Ansicht in einem Bericht kann nicht gescrollt werden**
 
 *Berichte*
 
-Wenn ein Benutzer einen Bericht in einem Dashboard anzeigt, ist die im Bericht verwendete Währung falsch. Wenn der Benutzer den Bericht außerhalb des Dashboards anzeigt, ist die Währung korrekt.
+Wenn ein(e) Benutzende(r) einen Bericht aufruft und die Ansicht [!UICONTROL Meilenstein] auswählt, wird auf der Seite die Meilensteinansicht angezeigt, der Bildlauf funktioniert aber nicht mehr. Außerdem kann der/die Benutzende keine Meilensteine anzeigen, die weiter unten auf der Seite stehen.
+
+**Falsche Währung bei Anzeige eines Berichts im Dashboard**
+
+*Berichte*
+
+Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard anzeigt, ist die im Bericht verwendete Währung falsch. Wenn der/die Benutzende den Bericht außerhalb des Dashboards anzeigt, ist die Währung korrekt.
 
 **Abgeschlossener Filter zeigt kein abgeschlossenes Arbeitselement an**&#x200B;
 
 *[!UICONTROL Startseite]*
 
-Wenn ein Benutzer seine [!UICONTROL Homepage-Arbeitsliste] mit dem [!UICONTROL Abgeschlossen] ausgewählte, abgeschlossene Arbeitselemente werden nicht in der Liste angezeigt. Wenn die [!UICONTROL Alle] ausgewählt ist, werden die abgeschlossenen Elemente in die Liste aufgenommen und zeigen an, dass die abgeschlossenen Elemente vorhanden sind.
+Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Homepage-Arbeitsliste] aufruft und der Filter [!UICONTROL Abgeschlossen] ausgewählt ist, werden abgeschlossene Arbeitselemente nicht in der Liste angezeigt. Wenn der Filter [!UICONTROL Alle] ausgewählt ist, werden die abgeschlossenen Elemente in die Liste aufgenommen, wodurch erkennbar wird, dass die abgeschlossenen Elemente vorhanden sind.
 
-**[!DNL Workfront]lädt nicht**
+**[!DNL Workfront]wird nicht geladen**
 
 *[!DNL Workfront]*
 
-Wenn ein Benutzer versucht, sich anzumelden [!DNL Workfront], scheint die Seite in einer Schleife von Umleitungen oder Aktualisierungen festzuhalten und wird nicht geladen.
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, scheint die Seite in einer Schleife aus Umleitungen oder Aktualisierungen festzustecken und wird nicht geladen.
 
 +++
 
-+++**Wartungs-Update am 14. April 2022**
++++**Wartungs-Update vom 14. April 2022**
 
-**Aufgabe kann nicht aus einem Bericht für einen benutzerdefinierten Abschnitt zu einer Aufgabe hinzugefügt werden**
+**Aufgabe kann nicht aus einem Bericht über einen benutzerdefinierten Abschnitt zu einer Aufgabe hinzugefügt werden**
 
 *Aufgaben*
 
-Wenn ein Benutzer einen benutzerdefinierten Abschnitt zu einer Aufgabe anzeigt und der Abschnitt einen Aufgabenbericht enthält, kann der Benutzer keine Aufgabe aus diesem Bericht hinzufügen. Die [!UICONTROL Aufgabe hinzufügen] -Schaltfläche markiert den Bericht, öffnet jedoch kein Fenster, in dem der Benutzer eine Aufgabe hinzufügen kann.
+Wenn ein(e) Benutzende(r) einen benutzerdefinierten Abschnitt in einer Aufgabe aufruft und der Abschnitt einen Aufgabenbericht enthält, kann der/die Benutzende in diesem Bericht keine Aufgabe hinzufügen. Die Schaltfläche [!UICONTROL Aufgabe hinzufügen] ist im Bericht zwar vorhanden, durch Anklicken kann der/die Benutzende jedoch kein Fenster öffnen, um eine Aufgabe hinzuzufügen.
 
-**Schaltfläche &quot;Fertig&quot;an der falschen Stelle beim Bearbeiten einer Ansicht**
+**Schaltfläche „Fertig“ ist beim Bearbeiten einer Ansicht an der falschen Stelle**
 
 *Ansichten*
 
-Wenn ein Benutzer eine Ansicht bearbeitet, wird die [!UICONTROL Fertig] oberhalb des Bildschirms angezeigt und kann den Text überlappen.
+Wenn ein(e) Benutzende(r) eine Ansicht bearbeitet, wird die Schaltfläche [!UICONTROL Fertig] etwas höher am Bildschirm angezeigt und sich mit Text überschneiden.
 
-Der Benutzer kann die Ansicht wie gewohnt bearbeiten. Die Funktionalität ist nicht betroffen.
+Der/die Benutzende kann die Ansicht wie gewohnt bearbeiten. Die Funktionalität ist nicht beeinträchtigt.
 
-**Bei Verwendung von [!UICONTROL Milestone] Ansicht in einem Bericht**
+**Bei Verwendung der [!UICONTROL Meilenstein]-Ansicht in einem Bericht kann nicht gescrollt werden**
 
 *Berichte*
 
-Wenn ein Benutzer einen Bericht anzeigt und die [!UICONTROL Milestone] angezeigt, zeigt die Seite die Meilensteinansicht an, führt aber keinen Bildlauf mehr durch. Außerdem kann der Benutzer keine Meilensteine anzeigen, die weiter unten auf der Seite stehen würden.
+Wenn ein(e) Benutzende(r) einen Bericht aufruft und die Ansicht [!UICONTROL Meilenstein] auswählt, wird auf der Seite die Meilensteinansicht angezeigt, der Bildlauf funktioniert aber nicht mehr. Außerdem kann der/die Benutzende keine Meilensteine anzeigen, die weiter unten auf der Seite stehen.
 
-**Leerer Bildschirm beim Anzeigen von Updates**
+**Leerer Bildschirm beim Anzeigen von Aktualisierungen**
 
 *Updates*
 
-Wenn ein Benutzer Aktualisierungen anzeigt und den Bildschirm scrollt, um Updates weiter unten anzuzeigen, wird der Bildschirm leer, und der Benutzer kann keine Updates sehen.
+Wenn ein(e) Benutzende(r) Aktualisierungen aufruft und scrollt, um Aktualisierungen weiter unten anzuzeigen, wird der Bildschirm leer, und der/die Benutzende kann keine Aktualisierungen sehen.
 
-**Fehler bei der Massenzuweisung von Benutzern zu Aufgaben, die nicht der Benutzerrolle zugewiesen sind**
+**Fehler bei der Massenzuweisung von Benutzenden zu Aufgaben, die nicht der Rolle des/der Benutzenden zugewiesen sind**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer in [!UICONTROL Lastenausgleich] versucht, einem Benutzer Aufgaben zuzuweisen, dessen Rolle &quot;Auftrag&quot;nicht mit der den Aufgaben zugewiesenen Rolle &quot;Auftrag&quot;übereinstimmt, wird ihm eine Meldung angezeigt, dass die Aufgabe mit der primären Rolle &quot;Auftrag&quot;des zugewiesenen Benutzers zugewiesen wird. Wenn der Benutzer jedoch auf &quot;[!UICONTROL Zuweisen],&quot;werden die Aufgaben nicht zugewiesen und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) in [!UICONTROL Workload Balancer] versucht, einem/r Benutzenden Aufgaben zuzuweisen, dessen/deren Aufgabengebiet nicht mit dem Aufgabengebiet übereinstimmt, das der Aufgabe zugewiesen wurde, wird eine Meldung angezeigt, in der steht, dass die Aufgabe anhand des primären Aufgabengebiets des/r jeweiligen Benutzenden zugewiesen wird. Wenn der/die Benutzende jedoch auf „[!UICONTROL Zuweisen]“ klickt, werden die Aufgaben nicht zugewiesen und der folgende Fehler erscheint:
 
-&quot;[!UICONTROL Fehler. Unbekannter Server-Fehler.]&quot;
+„[!UICONTROL Fehler. Unbekannter Server-Fehler.]“
 
 +++
 
-+++**Wartungs-Update am 7. April 2022**
++++**Wartungs-Update vom 7. April 2022**
 
-**Benutzer, die zu Testsendungen hinzugefügt wurden, haben falsche Rollen**
+**Benutzende, die zu Korrekturabzüge hinzugefügt wurden, haben falsche Rollen**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer einen anderen Benutzer zu einem Testversand hinzufügt, wird die Rolle dieses Benutzers im Testversand als &quot;&quot;festgelegt.[!UICONTROL Schreibgeschützt]&quot; trotz der tatsächlichen Testversandrolle des Benutzers.
+Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einem Korrekturabzug hinzufügt, wird die Rolle dieses/r Benutzenden im Korrekturabzug als „[!UICONTROL Schreibgeschützt]“ festgelegt trotz der tatsächlichen Korrekturabzugsrolle des/r Benutzenden.
 
-**E-Mail zum Zurücksetzen des Kennworts kann nicht an den Benutzer gesendet werden**
+**Die E-Mail zum Zurücksetzen des Passworts kann nicht an eine(n) Benutzende(n) gesendet werden**
 
 *Benutzer*
 
-Wenn ein Benutzer versucht, ein Kennwort an einen anderen Benutzer zurückzusetzen, sieht er, dass die [!UICONTROL E-Mail zum vergessenen Kennwort senden] -Option ist im [!UICONTROL Mehr] Menü.
+Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts an eine(n) andere(n) Benutzende(n) zu senden, ist die Option [!UICONTROL E-Mail für vergessenes Passwort senden] im Menü [!UICONTROL Mehr] nicht verfügbar.
 
-**[!UICONTROL Alle aktualisieren] sendet Aktualisierungen an Benutzerprofile anstelle des Projekts**
-
-*Updates*
-
-Wenn ein Benutzer die [!UICONTROL Personen] Bereich eines Projekts aus und wählt die [!UICONTROL Alle aktualisieren] und gibt eine Aktualisierung ein. Die Aktualisierung wird nicht im Projekt selbst veröffentlicht. Stattdessen wird sie an die einzelnen Benutzerprofile jedes Benutzers im Projekt gesendet.
-
-**Übermäßige Anzahl von Seiten beim Drucken von Aktualisierungen**
+**[!UICONTROL Alle aktualisieren] sendet Aktualisierungen an Benutzerprofile und nicht an das Projekt**
 
 *Updates*
 
-Wenn ein Benutzer einen Aktualisierungsstream anzeigt, der mehr als eine gedruckte Seite sein würde, und versucht, die Seite zu drucken, zeigt der Druckbildschirm, dass die Anzahl der Seiten weit über der tatsächlichen Anzahl der Seiten liegt, die zum Drucken der Aktualisierungen erforderlich sind. Wenn der Benutzer dann versucht, auf PDF zu drucken, schlägt die Erstellung der PDF fehl.
+Wenn ein(e) Benutzende(r) den Bereich [!UICONTROL Personen] eines Projekts aufruft, die Option [!UICONTROL Alle aktualisieren] auswählt und dann eine Aktualisierung eingibt, wird die Aktualisierung nicht im Projekt selbst veröffentlicht. Stattdessen wird sie an die einzelnen Profile jedes/r Benutzenden im Projekt gesendet.
 
-**Benutzer können nicht die gesamte Liste der für einen Bericht freigegebenen Entitäten anzeigen, wenn die[!UICONTROL Systemweit sichtbar]&quot; ist aktiviert**
+**Zu viele Seiten beim Drucken von Aktualisierungen**
+
+*Updates*
+
+Wenn ein(e) Benutzende(r) einen Aktualisierungsverlauf aufruft, der länger als eine gedruckte Seite ist, und versucht, die Seite zu drucken, wird auf dem Druckbildschirm eine Seitenzahl angezeigt, die weit über der tatsächlichen Anzahl der Seiten liegt, die zum Drucken der Aktualisierungen erforderlich ist. Wenn der/die Benutzende dann versucht, im PDF-Format zu drucken, schlägt die Erstellung der PDF-Datei fehl.
+
+**Benutzende können nicht die gesamte Liste der für einen Bericht freigegebenen Entitäten anzeigen, wenn die Einstellung „[!UICONTROL Systemweit sichtbar]“ aktiviert ist**
 
 *Berichte*
 
-Beim Freigeben von Berichten für mehrere Entitäten, die im [!UICONTROL Zugriff auf Berichte] -Feld können Benutzer nicht zum unteren Rand der Liste scrollen, um die gesamte Liste anzuzeigen, wenn die[!UICONTROL Systemweit sichtbar]&quot;.
+Beim Freigeben von Berichten für mehrere Entitäten, die im Fenster [!UICONTROL Zugriff auf Berichte] angezeigt werden, können Benutzende nicht zum unteren Rand der Liste scrollen, um die gesamte Liste anzuzeigen, wenn die Einstellung „[!UICONTROL Systemweit sichtbar]“ aktiviert ist.
 
 **Falsche Währung in Berichten**
 
 *Berichte*
 
-Wenn ein Benutzer festlegt, dass die Währung eines Projekts sich von der Standardwährung unterscheidet, und dann einen Bericht zu diesem Projekt anzeigt, wird die Währung anstelle der Währung des Projekts als Standardwährung angezeigt.
+Wenn ein(e) Benutzende(r) für ein Projekt eine andere Währung als die Standardwährung festlegt und dann einen Bericht zu diesem Projekt aufruft, wird die Standardwährung anstelle der Projektwährung angezeigt.
 
-**Zuletzt angezeigte Informationen werden nicht aktualisiert in [!UICONTROL Nutzung von Berichten] Berichte**
+**Information „Zuletzt angezeigt“ Berichten zur [!UICONTROL Nutzung von Berichten] wird nicht angezeigt**
 
 *Berichte*
 
-Wenn ein Benutzer einen Bericht anzeigt, der Informationen zum letzten Mal anzeigt, dass der Bericht angezeigt wurde, können diese Informationen leer sein oder alte Daten sein. Dieses Problem betrifft Felder, darunter die folgenden:
+Wenn ein(e) Benutzende(r) einen Bericht öffnet, der Informationen zum letzten Aufruf des Berichts enthält, können diese Informationen leer oder veraltet sein. Dieses Problem betrifft u. a. folgende Felder:
 
 * [!UICONTROL Zuletzt angezeigt von]
 * [!UICONTROL Zuletzt angezeigte Daten]
-* [!UICONTROL Letzte X Viewer]
-* [!UICONTROL Ansichten diesen Monat/Quartal/Jahr]
+* [!UICONTROL Letzte X Betrachter]
+* [!UICONTROL Anzeigen in diesem Monat/Quartal/Jahr]
 
-**Abgeschlossene Aufgaben, die in [!UICONTROL Homepage-Arbeitsliste]**
+**Abgeschlossene Aufgaben werden in der [!UICONTROL Startseiten-Arbeitsliste angezeigt]**
 
 *[!UICONTROL Startseite]*
 
-Wenn ein Benutzer seine [!UICONTROL Homepage-Arbeitsliste], sehen sie Aufgaben abschließen in der Liste, selbst wenn die Option zum Anzeigen abgeschlossener Aufgaben nicht ausgewählt ist.
+Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Startseiten-Arbeitsliste] aufruft, werden in der Liste abgeschlossene Aufgaben angezeigt, selbst wenn die Option zum Anzeigen abgeschlossener Aufgaben nicht ausgewählt ist.
 
-**Schaltfläche &quot;Zeitplan&quot;ist nicht sichtbar, um die Sandbox-Aktualisierung zu planen**
+**Schaltfläche „Zeitplan“ ist nicht sichtbar, um die Sandbox-Aktualisierung zu planen**
 
 *Sandbox-Umgebung*
 
-Die [!UICONTROL Zeitplan] -Schaltfläche zum Planen einer Sandbox-Aktualisierung wird nicht im oberen Banner der Sandbox-Umgebung angezeigt.
+Die Schaltfläche [!UICONTROL Zeitplan] zum Planen einer Sandbox-Aktualisierung wird nicht im oberen Banner der Sandbox-Umgebung angezeigt.
 
 **Änderungen an einem berechneten Feld wirken sich auf alle berechneten Felder in einem Formular aus**
 
 *Benutzerdefinierte Formulare*
 
-Wenn sich ein Benutzer im benutzerdefinierten Formular-Builder befindet und den Wert eines berechneten Formulars ändert, wird der neue Wert in allen berechneten Feldern des Formulars angezeigt. Dies kann sich auf neue oder vorhandene berechnete Felder auswirken.
+Wenn sich ein(e) Benutzende(r) im benutzerdefinierten Formular-Builder befindet und den Wert eines berechneten Formulars ändert, wird der neue Wert in allen berechneten Feldern des Formulars angezeigt. Dies kann sowohl neue als auch bereits vorhandene berechnete Felder betreffen.
 
-**Farben, die auf dem benutzerdefinierten Formular-Builder flackern**
+**Farben im benutzerdefinierten Formular-Builder flackern**
 
 *Benutzerdefinierte Formulare*
 
-Wenn ein Benutzer mit berechneten Feldern im benutzerdefinierten Formular-Builder arbeitet, flackern die Farben der Felder und Ausdrücke.
+Wenn ein(e) Benutzende(r) im benutzerdefinierten Formular-Builder berechnete Felder verwendet, flackern die Farben der Felder und Ausdrücke.
 
-**[!UICONTROL Validierungen können nicht abgelehnt werden]**
+**[!UICONTROL Genehmigungen können nicht abgelehnt werden]**
 
 *Genehmigungen*
 
-Wenn ein Benutzer versucht, eine Genehmigung abzulehnen, wird die [!UICONTROL Ablehnen] nicht reagiert und die Genehmigung nicht abgelehnt wird.
+Wenn ein(e) Benutzende(r) versucht, eine Genehmigung abzulehnen, reagiert die Schaltfläche [!UICONTROL Ablehnen] nicht und die Genehmigung wird nicht abgelehnt.
 
-**[!UICONTROL Projekte] Registerkarte standardmäßig auf den Bereich Alle Projekte trotz vorheriger Auswahl eingestellt**
+Bei der Auswahl der Registerkarte **[!UICONTROL Projekte] wird eine Seite im Bereich „Alle Projekte“ geöffnet**
 
 *Projekte*
 
-Wenn ein Benutzer über eine Registerkarte, die als Teil der Layoutvorlage eingefügt wurde, zu einer Seite &quot;Projekte&quot;wechselt, wird standardmäßig die Seite [!UICONTROL Alle Projekte] Bereich der linken Navigation. Dies tritt auch dann auf, wenn der Benutzer einen anderen Bereich der linken Navigation auswählt und dann von der Seite &quot;Projekte&quot;weg und zurück navigiert.
+Wenn ein(e) Benutzende(r) über eine Registerkarte, die als Teil der Layout-Vorlage angeheftet wurde, zur Seite „Projekte“ wechselt, wird die Seite im Bereich [!UICONTROL Alle Projekte] in der linken Navigation geöffnet. Dies tritt auch dann auf, wenn der/die Benutzende einen anderen Bereich der linken Navigation auswählt und dann die Seite „Projekte“ verlässt und wieder zu ihr zurückkehrt.
 
 +++
 
 
-## Aktualisierungen im März 2022
+## Updates im März 2022
 
-+++**Wartungs-Update am 31. März 2022**
++++**Wartungs-Update vom 31. März 2022**
 
-**Zeitzonen sind nicht konsistent zwischen [!DNL Workfront] und[!DNL Workfront Proof]**
+**Zeitzonen zwischen [!DNL Workfront] und[!DNL Workfront Proof]** stimmen nicht überein
 
 *[!DNL Workfront Proof]*
 
-Wenn das Profil eines Benutzers auf eine bestimmte Zeitzone in [!DNL Workfront], die Zeitzone des Benutzers in [!DNL Workfront Proof] auf eine andere Zeitzone eingestellt ist.
+Wenn das Profil eines/r Benutzenden auf eine bestimmte Zeitzone in [!DNL Workfront] festgelegt ist, weist seine/ihre Zeitzone in [!DNL Workfront Proof] eine andere Zeitzone auf.
 
-**Link zum Senden eines angeforderten Dokuments führt zu einer leeren Seite**
+**Der Link zum Senden eines angeforderten Dokuments führt zu einer leeren Seite**
 
 *Dokumente*
 
-Wenn ein Benutzer eine Anforderung zum Senden eines Dokuments erhält und auf den Link zu dem Objekt klickt, für das das Dokument angefordert wurde, führt der Link zu einer leeren Seite. Dies kann auftreten, wenn Sie in einer E-Mail oder in einer In-App-Benachrichtigung auf einen Link klicken.
+Wenn ein(e) Benutzende(r) eine Anfrage zum Senden eines Dokuments erhält und auf den Link zu dem Objekt klickt, wo das Dokument angefordert wurde, führt der Link zu einer leeren Seite. Dies kann passieren, wenn in einer E-Mail oder in einer In-App-Benachrichtigung auf einen Link geklickt wird.
 
 **Gruppe wird beim Konvertieren des Problems in ein Projekt falsch zugewiesen**
 
 Gruppen
 
-Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, lautet die Funktionalität:
+Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, passiert Folgendes:
 
-* Wenn der Vorlage eine Gruppe zugewiesen ist, wird diese Gruppe im Fenster zur Problemkonvertierung als Gruppe für das neue Projekt angezeigt.
-* Wenn der Vorlage keine Gruppe zugewiesen ist, wird die Standardgruppe des Benutzers, der das Problem konvertiert, im Fenster zur Problemkonvertierung als Gruppe für das neue Projekt angezeigt.
-* Wenn die Vorlage keine Gruppe enthält, sollte das neue Projekt die Gruppe vom Projekt des Problems übernehmen.
+* Wenn der Vorlage eine Gruppe zugewiesen ist, wird diese Gruppe im Problemkonvertierungs-Fenster als die Gruppe für das neue Projekt angezeigt.
+* Wenn der Vorlage keine Gruppe zugewiesen ist, wird die Standardgruppe des/r Benutzenden, der/die das Problem konvertiert, im Problemkonvertierungs-Fenster als Gruppe für das neue Projekt angezeigt.
+* Wenn die Vorlage keine Gruppe enthält, sollte das neue Projekt die Gruppe im Problemprojekt übernehmen.
 
-**Benutzerdefiniertes Objekt-übergreifendes Formular kann nicht an Anforderungswarteschlange angehängt werden**
+**Benutzerdefiniertes objektübergreifendes Formular kann nicht an Anfrage-Warteschlange angehängt werden**
 
 Anforde- rungen
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Objekt-übergreifendes Formular zur Detailseite einer Warteschlange hinzuzufügen, wird das objektübergreifende Formular nicht in der Dropdown-Liste der verfügbaren Formulare angezeigt und der Benutzer kann es nicht auswählen, um es zur Warteschlangendetails hinzuzufügen.
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifendes Formular zur Detailseite einer Warteschlange hinzuzufügen, wird das objektübergreifende Formular nicht in der Dropdown-Liste der verfügbaren Formulare angezeigt und der/die Benutzende kann es nicht auswählen, um es zu den Warteschlangendetails hinzuzufügen.
 
-**Benutzer können nicht mit der Rolle &quot;Sekundärer Auftrag&quot;für [!UICONTROL Lastenausgleich]**
+**Benutzenden kann im [!UICONTROL Workload Balancer kein „Sekundäres Aufgabengebiet“ zugewiesen werden]**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe für die [!UICONTROL Lastenausgleich]und die Aufgabe einer anderen Rolle als der Rolle des zugewiesenen Hauptauftrags zugewiesen ist, wird der Benutzer der Aufgabe durch die Rolle des Hauptauftrags zugewiesen und die folgende Meldung wird angezeigt:
+Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
-&quot;\&lt;name> entspricht nicht der Rolle von \&lt;task role=&quot;&quot; assignment=&quot;&quot;>. 1 Arbeitselement, das derzeit der Rolle &lt;\Task role assignment\> zugewiesen ist, wird \&lt;name> in der Rolle von \&lt;primary job=&quot;&quot; role=&quot;&quot;>.&quot;
+„\&lt;Name> entspricht nicht der Rolle von \&lt;Aufgabenrollenzuweisung\>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung\> zugewiesen ist, wird \&lt;Name> in der Rolle \&lt;Primäres Aufgabengebiet\> zugewiesen.“
 
-Dies tritt auch dann auf, wenn der Benutzer die Rolle &quot;Auftrag&quot;der Aufgabenrollenzuweisung als sekundäre Aufgabe hat.
+Dies tritt auch dann auf, wenn der/die Benutzende das Aufgabengebiet der Aufgabenrollenzuweisung als sekundäres Aufgabengebiet hat.
 
-**Problem mit der Trommelfläche &quot;Weitere Arbeitselemente anzeigen&quot;b**&#x200B;
+**Problem mit der Scrum-Board-Leiste „Weitere Arbeitselemente anzeigen“**&#x200B;
 
 *Agile*
 
-Wenn ein Benutzer auf die [!UICONTROL Anzeigen weiterer Arbeitselemente] Balken auf einem Scrum-Board, dann scrollen, um die neuen Elemente zu sehen, die [!UICONTROL Anzeigen weiterer Arbeitselemente] Der Balken bleibt am Scrum Board und bewegt sich mit ihm beim Scrollen. Dadurch können die Karten schwer lesbar werden.
+Wenn ein(e) Benutzende(r) auf einem Scrum-Board auf die Leiste [!UICONTROL Weitere Arbeitselemente anzeigen] klickt und dann scrollt, um die neuen Elemente anzuzeigen, bleibt die Leiste [!UICONTROL Weitere Arbeitselemente anzeigen] am Scrum-Board haften und bewegt sich beim Scrollen mit ihm. Dadurch ist es schwierig, die Karten zu lesen.
 
-**In benutzerdefinierten Formularen werden rote Punkte auf den erforderlichen Feldern angezeigt**
+**In Pflichtfeldern in benutzerdefinierten Formularen werden rote Punkte angezeigt**
 
 Benutzerdefinierte Formulare
 
-Wenn ein Benutzer ein erforderliches Feld in einem benutzerdefinierten Formular anzeigt, werden unter dem Sternchen zwei rote Punkte angezeigt, die darauf hinweisen, dass das Feld erforderlich ist.
+Wenn ein(e) Benutzende(r) ein Pflichtfeld in einem benutzerdefinierten Formular anzeigt, werden unter dem Sternchen zwei rote Punkte angezeigt, die darauf hinweisen, dass dies ein Pflichtfeld ist.
 
-**Zeitabbruch in Eingabeaufforderungen**
+**Zeitauswahl bei Informationseingabe für Bericht abgeschnitten**
 
 *Berichte*
 
-Wenn ein Benutzer die Aufforderung zur Eingabe eines Berichts ausfüllt und auf eine Datumsauswahl trifft, zeigt die Zeitauswahl am unteren Rand der Datumsauswahl keine Stunden nach 2 an und der Benutzer kann keinen Stundenwert neben 1 oder 2 auswählen.
+Wenn ein(e) Benutzende(r) Informationen für einen Bericht eingibt und eine Datumsauswahl vorhanden ist, zeigt die Zeitauswahl am unteren Rand der Datumsauswahl keine Stunden nach 2 an und der/die Benutzende kann keinen Stundenwert außer 1 oder 2 auswählen.
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 29. März 2022**
++++**Wartungs-Update (Hotfix) vom 29. März 2022**
 
-**Berechnungen können nicht im benutzerdefinierten Formular-Builder geändert oder gespeichert werden**
+**Im benutzerdefinierten Formular-Builder können keine Berechnungen geändert oder gespeichert werden**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer eine Berechnung manuell in ein Berechnungsfeld im benutzerdefinierten Formular-Builder eingibt und das Formular speichert, wird die Berechnung nicht gespeichert. Wenn der Benutzer das benutzerdefinierte Formular erneut öffnet, ist dieses Feld leer.
+Wenn ein(e) Benutzende(r) eine Berechnung manuell in ein Berechnungsfeld im benutzerdefinierten Formular-Builder eingibt und das Formular speichert, wird die Berechnung nicht gespeichert. Wenn der/die Benutzende das benutzerdefinierte Formular erneut öffnet, ist dieses Feld leer.
 
-Wenn ein Benutzer eine Berechnung in ein Berechnungsfeld im benutzerdefinierten Formular-Builder eingibt, indem er die Dropdown-Liste verwendet und das Formular speichert, wird dieser Wert gespeichert. Wenn der Benutzer das benutzerdefinierte Formular jedoch erneut öffnet, kann er dieses Feld weder manuell noch mit der Dropdown-Liste bearbeiten oder den Wert entfernen.
+Wenn ein(e) Benutzende(r) eine Berechnung in ein Berechnungsfeld im benutzerdefinierten Formular-Builder eingibt, indem er/sie die Dropdown-Listen verwendet und das Formular speichert, wird dieser Wert gespeichert. Wenn der/die Benutzende das benutzerdefinierte Formular jedoch erneut öffnet, kann er/sie dieses Feld weder manuell noch mit der Dropdown-Liste bearbeiten oder den Wert entfernen.
 
-HINWEIS: Diese Problembehebung umfasste zusätzliche Funktionen. Wenn Sie nun mit der Eingabe in ein berechnetes Feld beginnen, werden mögliche Ausdrücke oder Berechnungen in einer Dropdown-Liste unten wie im Berechnungs-Editor angezeigt. Klicken Sie auf ein Element in der Dropdown-Liste, um es dem berechneten Feld hinzuzufügen.
+HINWEIS: Diese Problembehebung umfasste zusätzliche Funktionen. Wenn Sie nun mit der Eingabe in ein berechnetes Feld beginnen, werden in einer Dropdown-Liste unten mögliche Ausdrücke oder Berechnungen wie im Berechnungs-Editor angezeigt. Klicken Sie auf ein Element in der Dropdown-Liste, um es zum berechneten Feld hinzuzufügen.
 
 +++
 
-+++**Wartungs-Update am 24. März 2022**
++++**Wartungs-Update vom 24. März 2022**
 
-**Zeitzonen sind nicht konsistent zwischen [!DNL Workfront] und[!DNL Workfront Proof]**
+**Zeitzonen zwischen [!DNL Workfront] und[!DNL Workfront Proof]** stimmen nicht überein
 
 *[!DNL Workfront Proof]*
 
-Wenn das Profil eines Benutzers auf eine bestimmte Zeitzone in [!DNL Workfront], die Zeitzone des Benutzers in [!DNL Workfront Proof] auf eine andere Zeitzone eingestellt ist.
+Wenn das Profil eines/r Benutzenden auf eine bestimmte Zeitzone in [!DNL Workfront] festgelegt ist, weist seine/ihre Zeitzone in [!DNL Workfront Proof] eine andere Zeitzone auf.
 
-**Erforderlicher Feldfehler für ausgefüllte benutzerdefinierte Felder beim Anhängen einer Vorlage**
+**Fehler bei Pflichtfeld für ausgefüllte benutzerdefinierte Felder beim Anhängen einer Vorlage**
 
 *Projekte*
 
-Beim Anhängen einer Vorlage mit erforderlichen benutzerdefinierten Feldern an ein Projekt, in dem das Feld bereits vorhanden und ausgefüllt ist, wird dem Benutzer folgender Fehler angezeigt: &quot;[!UICONTROL Es gibt unvollständige Felder. Geben Sie Werte für die erforderlichen Felder ein, bevor Sie fortfahren können.]&quot; Klicken auf &quot;[!UICONTROL Bring mich dorthin]&quot; gibt ihnen die Möglichkeit zu sehen, dass die Felder ausgefüllt sind und sie die Vorlage erfolgreich anhängen können.
+Beim Anhängen einer Vorlage mit benutzerdefinierten Pflichtfeldern an ein Projekt, in dem das Feld bereits vorhanden und ausgefüllt ist, wird dem/der Benutzenden folgender Fehler angezeigt: „[!UICONTROL Es gibt unausgefüllte Felder. Geben Sie Werte für die Pflichtfelder ein, damit Sie fortfahren können.]“
+Wenn der/die Benutzende auf „[!UICONTROL Anzeigen]“ klickt, kann er/sie sehen, dass die Felder ausgefüllt sind, und die Vorlage kann erfolgreich angehängt werden.
 
-**Die [!UICONTROL Lastenausgleich] blinkt, wenn Sie zwischen Daten wechseln**
+**Der [!UICONTROL Workload Balancer] blinkt, wenn Sie zwischen Datumsangaben wechseln**
 
 *[!UICONTROL Lastenausgleich]*
 
-Die Stunden des Benutzers, die zuerst in der Variablen [!UICONTROL Lastenausgleich] werden nicht angezeigt, wenn Sie die Timeline aktualisieren. Der Benutzer und seine Stunden werden mit allen grauen Kästchen angezeigt, die einfach blinken. Dies geschieht, wenn Sie in der Timeline vorwärts und rückwärts fahren.
+Die Stunden des/r Benutzenden, der/die im [!UICONTROL Workload Balancer] als Erste(r) aufgelistet ist, werden nicht angezeigt, wenn die Timeline aktualisiert wird. Der/die Benutzende und seine/ihre Stunden werden mit allen grauen Kästchen angezeigt, die blinken. Dies tritt auf, wenn Sie sich in der Timeline vorwärts und rückwärts bewegen.
 
-Durch die Aktualisierung des Filters wird die Anzeige offenbar zurückgesetzt. Wenn Sie die Timeline jedoch rückwärts und vorwärts bewegen, wird der Anzeigeblitz erneut angezeigt und die Benutzerzeiten werden nicht angezeigt.
+Durch die Aktualisierung des Filters wird die Anzeige zurückgesetzt. Doch wenn Sie sich erneut auf der Timeline vorwärts und rückwärts bewegen, blinkt die Anzeige wieder und die Stunden werden nicht angezeigt.
 
 **Benutzerdefinierte Terminologie ist inkonsistent**
 
 *Layoutvorlagen*
 
-Benutzer melden dies, wenn die [!DNL Workfront] Administrator passt die Terminologie für einige Objekte mithilfe einer Layout-Vorlage an. Der neue Objektname wird in der Benutzeroberfläche inkonsistent angezeigt.
+Benutzende melden, dass, wenn der [!DNL Workfront]-Administrator bzw. die Administratorin die Terminologie mancher Objekte mithilfe einer Layout-Vorlage anpasst, der neue Objektname in der Benutzeroberfläche inkonsistent angezeigt wird.
 
-Beispiel: auf der [!UICONTROL Projekte] Seite, können Sie weiterhin sehen, dass der Seitentitel als &quot;[!UICONTROL Projekte]&quot;, auch wenn die [!DNL Workfront] Administrator hat den Namen für &quot;[!UICONTROL Projekte]&quot;auf etwas Anderes.
+Beispiel: auf der Seite [!UICONTROL Projekte] wird der Seitentitel als „[!UICONTROL Projekte]“ angezeigt, auch wenn der [!DNL Workfront]-Administrator bzw. die Administratorin hat den Namen „[!UICONTROL Projekte]“ bereits geändert hat.
 
-Dies führt zu Verwirrung für Endbenutzer.
+Dies führt zu Verwirrung bei den Benutzenden.
 
 +++
 
-+++**Wartungs-Update am 17. März 2022**
++++**Wartungs-Update vom 17. März 2022**
 
-**Miniaturansichten und Hauptbilder sind beim Anzeigen mehrseitiger Dateien mit [!DNL Safari] browser**
+**Miniaturansicht und Hauptbilder sind beim Anzeigen mehrseitiger Dateien mit dem [!DNL Safari] -Browser leer**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer versucht, eine Datei mit mehreren Seiten im [!DNL Safari] -Browser verwenden, sind die Bilder der Miniaturansichten leer. Gelegentlich kann das Hauptbild auch leer sein.
+Wenn ein(e) Benutzende(r) versucht, eine Datei mit mehreren Seiten im [!DNL Safari]-Browser zu öffnen, sind die Bilder der Miniaturansicht leer. Manchmal ist auch das Hauptbild leer.
 
-**Falsche Benutzerliste bei Massenzuweisungen in der [!UICONTROL Lastenausgleich]**
+**Falsche Benutzerliste bei der Zuweisung umfangreicher Arbeitsaufträge im [!UICONTROL Workload Balancer]**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer eine Massenzuweisung in der [!UICONTROL Lastenausgleich] und ein Projekt und eine Rolle &quot;Auftrag&quot;auswählt, ist die Liste der verfügbaren Benutzer falsch. Es kann Benutzer ohne die Rolle &quot;Auftrag&quot;oder &quot;Projekt&quot;anzeigen, und Benutzer mit der Rolle &quot;Auftrag&quot;und den Projektberechtigungen werden nicht in der Liste angezeigt.
+Wenn ein(e) Benutzende(r) eine umfangreiche Zuweisung von Arbeitsaufträgen im [!UICONTROL Workload Balancer] vornimmt und ein Projekt und ein Aufgabengebiet auswählt, ist die Liste der verfügbaren Benutzenden falsch. Dabei können Benutzende ohne das erforderliche Aufgabengebiet oder die Projektberechtigung angezeigt werden, und Benutzende mit dem erforderlichen Aufgabengebiet und der Projektberechtigung werden nicht in der Liste angezeigt.
 
 **[!UICONTROL Die Sortierung funktioniert nicht in Berichten]**
 
 *Berichte*
 
-Wenn ein Benutzer auf eine Spalte klickt, um sie zu sortieren, scheint die Sortierung zu funktionieren, aber die Ergebnisse werden sofort in die ursprüngliche Sortierung zurückgesetzt, wie sie vor dem Klicken auf die Spalte angezeigt wird. Die Sortierung in einer Spalte wird nicht beibehalten.
+Wenn ein(e) Benutzende(r) auf eine Spalte klickt, um sie zu sortieren, scheint die Sortierung zu funktionieren, doch die Sortierung wird sofort wieder zurückgesetzt und die Elemente erscheinen wie vor dem Klicken auf die Spalte. Die Sortierung wird in keiner Spalte beibehalten.
 
-**Auswählen von &quot;[!UICONTROL Nichts]&quot; wird auf die [!UICONTROL Berichtsstandard] grouping**
+**Durch die Auswahl von „[!UICONTROL Keine]“ wird der Bericht auf die [!UICONTROL standardmäßige Gruppierung] zurückgesetzt**
 
 *Berichte*
 
-Wenn ein Bericht eine integrierte Gruppierung aufweist und der Benutzer versucht, &quot;[!UICONTROL Nichts]&quot; in der [!UICONTROL Gruppierung] Dropdown-Menü, wird der Bericht in Kürze ohne Gruppierung angezeigt und kehrt dann zur [!UICONTROL Berichtsstandard] Gruppierung.
+Wenn ein Bericht eine integrierte Gruppierung aufweist und der/die Benutzende versucht, im Dropdown-Menü [!UICONTROL Gruppierung] „[!UICONTROL Keine]“ auszuwählen, wird der Bericht kurz ohne Gruppierung angezeigt und dann auf die [!UICONTROL standardmäßige Gruppierung] zurückgesetzt.
 
-**Entfernt &quot;[!UICONTROL Blueprint-Zugriff]Registerkarte &quot;in Blueprint-Voreinstellungen**
+**Registerkarte „[!UICONTROL Blueprint-Zugriff]“ wurde aus den Blueprint-Voreinstellungen entfernt**
 
 *Blueprints*
 
-HINWEIS: Dieses Problem tritt nur in der Vorschau -Umgebung auf.
+HINWEIS: Dieses Problem tritt nur in der Vorschau-Umgebung auf.
 
-Die [!UICONTROL Blueprint-Zugriff] -Registerkarte aus dem Modal für Blueprints-Voreinstellungen entfernt. In den Blueprints-Voreinstellungen wurde keine Funktionalität entfernt.
+Die Registerkarte [!UICONTROL Blueprint-Zugriff] wurde aus den Blueprints-Voreinstellungen entfernt. Aus den Blueprints-Voreinstellungen wurde aber keine Funktionalität entfernt.
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 14. März 2022**
++++**Wartungs-Update (Hotfix) vom 14. März 2022**
 
-**Benutzerliste kann nicht nach unten gescrollt werden, wenn eine Zuweisung auf der Kanban-Pinnwand vorgenommen wird**
+**Benutzerliste kann nicht nach unten gescrollt werden, wenn eine Zuweisung auf dem Kanban-Board vorgenommen wird**
 
 *Agile*
 
-Wenn ein Benutzer eine [!DNL Kanban] Pinnwand und versucht, eine Zuweisung vorzunehmen, die Benutzerliste, die angezeigt wird, wenn sie tippen, springt beim Bildlauf nach unten wieder nach oben. Der Benutzer kann keinen Benutzer auswählen, der sich nicht oben in der Liste befindet, und kann die Änderung der Zuweisung nicht speichern.
+Wenn ein(e) Benutzende(r) ein [!DNL Kanban]-Board aufruft und versucht, eine Zuweisung vorzunehmen, springt die Benutzerliste, die beim Tippen angezeigt wird beim Bildlauf nach unten wieder nach oben. Der/die Benutzende kann keine(n) Benutzenden auswählen, der/die nicht oben in der Liste steht und kann die Zuweisung nicht speichern.
 
-**[!UICONTROL Milestone] Anzeigen im Projektbericht verursacht Fehler**
+**[!UICONTROL Meilenstein]-Ansicht im Projektbericht verursacht Fehler**
 
 *Berichte*
 
-Beim Anzeigen eines Projektberichts mit dem [!UICONTROL Milestone] Anzeigen: Benutzer erhalten eine[!UICONTROL APIModel INTERNAL unterstützt &quot;namedQuery TILE:milestone-view&quot;(UIVW) nicht]&quot;.
+Beim Anzeigen eines Projektberichts mit der [!UICONTROL Meilenstein]-Ansicht erscheint die Fehlermeldung „[!UICONTROL APIModel INTERNAL unterstützt nicht namedQuery TILE:milestone-Ansicht (UIVW)]“.
 
 **Benutzerdefinierte Terminologie ist inkonsistent**
 
 *Layoutvorlagen*
 
-Benutzer melden dies, wenn die [!DNL Workfront] Administrator passt die Terminologie für einige Objekte mithilfe einer Layout-Vorlage an. Der neue Objektname wird in der Benutzeroberfläche inkonsistent angezeigt.
+Benutzende melden, dass, wenn der [!DNL Workfront]-Administrator bzw. die Administratorin die Terminologie mancher Objekte mithilfe einer Layout-Vorlage anpasst, der neue Objektname in der Benutzeroberfläche inkonsistent angezeigt wird.
 
-Beispiel: auf der [!UICONTROL Projekte] Seite, können Sie weiterhin sehen, dass der Seitentitel als &quot;[!UICONTROL Projekte]&quot;, auch wenn die [!DNL Workfront] Administrator hat den Namen für &quot;[!UICONTROL Projekte]&quot;auf etwas Anderes.
+Beispiel: auf der Seite [!UICONTROL Projekte] wird der Seitentitel als „[!UICONTROL Projekte]“ angezeigt, auch wenn der [!DNL Workfront]-Administrator bzw. die Administratorin hat den Namen „[!UICONTROL Projekte]“ bereits geändert hat.
 
-Dies führt zu Verwirrung für Endbenutzer.
+Dies führt zu Verwirrung bei den Benutzenden.
 
 **Berechnungen für vorhandene berechnete Felder können nicht aktualisiert werden**
 
 *Benutzerdefinierte Formulare*
 
-Benutzer können die Berechnungen in berechneten Feldern nicht aktualisieren/ändern. Wenn das Feld ohne Berechnung erstellt und gespeichert wurde, wird der Builder jedes Mal, wenn Sie versuchen, einen Ausdruck hinzuzufügen und zu speichern/anzuwenden, wieder leer.
+Benutzende können die Berechnungen in berechneten Feldern nicht aktualisieren/ändern. Wenn das Feld ohne eine Berechnung erstellt und gespeichert wurde, erscheint der Builder jedes Mal, wenn Sie versuchen, einen Ausdruck hinzuzufügen und zu speichern/anzuwenden, wieder leer.
 
-Wenn Sie ein berechnetes Feld mit einem bestimmten Ausdruck erstellen und speichern, wird jedes Mal, wenn Sie versuchen, die Berechnung zu ändern, der vorherige Wert zurückgesetzt.
+Wenn Sie ein berechnetes Feld mit einem Ausdruck erstellen und speichern, wird jedes Mal, wenn Sie versuchen, die Berechnung zu ändern, das Feld auf den vorherigen Wert zurückgesetzt.
 
-**[!UICONTROL Ungültiger Parameter] Fehler beim Zurücksetzen von Kennwörtern**
+**[!UICONTROL Fehler mit ungültigem Parameter] beim Zurücksetzen von Passwörtern**
 
 *Anmeldung*
 
-Benutzer können ihre Kennwörter in keiner Umgebung zurücksetzen. Wenn er seine E-Mail-Adresse eingibt und versucht, fortzufahren, wird ein Fehler angezeigt.
+Benutzende können ihre Passwörter in keiner Umgebung zurücksetzen. Wenn er/sie seine/ihre E-Mail-Adresse eingibt und versucht fortzufahren, wird ein Fehler angezeigt.
 
-[!UICONTROL Fehler: Ungültiger Parameter: Suchparameterwert &quot;domain&quot;].
+[!UICONTROL Fehler: Ungültiger Parameter: Suchparameterwert „domain“].
 
 +++
 
-+++**Wartungs-Update am 10. März 2022**
++++**Wartungs-Update vom 10. März 2022**
 
-**Probleme bei der Anmeldung bei der Vorschau der Umgebung**
+**Probleme bei der Anmeldung bei der Vorschau-Umgebung**
 
 *Anmeldung*
 
-Die folgenden Probleme bei der Anmeldung in der Vorschau-Umgebung wurden berichtet.
+Es wurden die folgenden Probleme bei der Anmeldung in die Vorschau-Umgebung gemeldet.
 
-Wenn ein Benutzer versucht, sich bei der Vorschau-Umgebung anzumelden, wird eine Meldung angezeigt, die angibt, dass er die falsche ID oder das falsche Kennwort eingegeben hat.
+Wenn ein(e) Benutzende(r) versucht, sich bei der Vorschau-Umgebung anzumelden, wird eine Meldung angezeigt, die angibt, dass die falsche ID oder das falsche Passwort eingegeben wurde.
 
-Wenn ein Benutzer versucht, sein Kennwort zurückzusetzen, wird ihm der Fehler angezeigt:[!UICONTROL ?Mehrere Benutzer wurden mit der E-Mail-Adresse gefunden <example@example.com>?]&quot;
+Wenn ein(e) Benutzende(r) versucht, sein/ihr Passwort zurückzusetzen, wird ihm/ihr der Fehler „[!UICONTROL ?Mehrere Benutzer wurden mit dieser E-Mail-Adresse gefunden <example@example.com>?]“ angezeigt
 
-**Benutzerdefinierte Formulare werden langsam in [!UICONTROL Projektdetails] area**
+**Benutzerdefinierte Formulare werden im Bereich [!UICONTROL Projektdetails] nur langsam geladen**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Projektdetails] -Bereich, alle benutzerdefinierten Formulare, die mit dem Projekt verknüpft sind, werden erst nach einer Verzögerung von 15 Sekunden oder mehr geladen. Die [!UICONTROL Hinzufügen benutzerdefinierter Formulare] ebenfalls von dieser Verzögerung betroffen ist.
+Wenn ein(e) Benutzende(r) versucht, den Bereich [!UICONTROL Projektdetails] aufzurufen, werden benutzerdefinierte Formulare, die mit dem Projekt verknüpft sind, erst nach einer Verzögerung von 15 Sekunden oder mehr geladen. Die Option [!UICONTROL Benutzerdefinierte Formulare hinzufügen] ist von dieser Verzögerung ebenfalls betroffen.
 
-**Benutzerdefinierte Formularfeldwerte, die nicht im Bereich &quot;Dokumentzusammenfassung&quot;gespeichert werden**
+**Feldwerte von benutzerdefinierten Formularen werden nicht im Dokumentzusammenfassungs-Bedienfeld gespeichert**
 
 *Dokumente*
 
-Wenn ein Benutzer benutzerdefinierte Formularfelder im Bereich mit der Dokumentzusammenfassung aktualisiert und mindestens eines davon ein typeahead -Feld ist, speichert dann die Änderungen und navigiert weg vom Zusammenfassungsbereich, werden die Aktualisierungen nicht gespeichert. Dies geschieht nur, wenn ein typeahead -Feld bearbeitet wird, jedoch alle Felder betroffen sind.
+Wenn ein(e) Benutzende(r) im Dokumentzusammenfassungs-Bedienfeld in einem benutzerdefinierten Formular Felder aktualisiert, von denen mindestens eines ein Feld mit automatischer Textvervollständigung ist, die Änderungen speichert und das Zusammenfassungs-Bedienfeld verlässt, werden die Änderungen nicht gespeichert. Dies tritt nur auf, wenn ein Feld mit automatischer Textvervollständigung bearbeitet wird, es sind jedoch alle Felder betroffen.
 
-**Daten werden beim Konvertieren von Vorlagen aufgrund von Zugriffsstufen bei der Vorlagenfreigabe nicht beibehalten**
+**Daten bleiben beim Konvertieren von Vorlagen aufgrund der Zugriffsebenen bei freigegebenen Vorlagen nicht erhalten**
 
 *Projekte*
 
-Wenn ein Benutzer, der Zugriff auf eine freigegebene Vorlage hat, versucht, ein Problem in ein Projekt zu konvertieren, alle Daten in benutzerdefinierten Formularabschnitten, die [!UICONTROL Beitrag] oder ein höherer Zugriff auf die Ansicht nicht an das erstellte Projekt übertragen wird.
+Wenn ein(e) Benutzende(r), der/die Lesezugriff auf eine freigegebene Vorlage hat, versucht, ein Problem in ein Projekt zu konvertieren, werden keine Daten in den benutzerdefinierten Formularabschnitten in das erstellte Projekt konvertiert, die die Zugriffsebene [!UICONTROL Beitragen] oder eine höhere Zugriffsebene als „Anzeigen“ erfordern.
 
 **Fehler beim Hochladen der neuen Dokumentversion**
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, eine neue Version eines Dokuments aus der Dokumentliste hochzuladen, wird das Dokument nicht hochgeladen und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, eine neue Version eines Dokuments aus der Dokumentliste hochzuladen, wird das Dokument nicht hochgeladen und der/die Benutzende sieht den folgenden Fehler:
 
-[!UICONTROL Fehler Kann &quot;com.attask.boz.Document.getCurrentVersion()&quot;nicht aufrufen, da &quot;document&quot;null ist]
+[!UICONTROL „com.attask.boz.Document.getCurrentVersion()“ kann nicht aufgerufen werden, da „Dokument“ null ist]
 
-**Rechnungszinssätze können nicht bearbeitet werden**
+**Verrechnungssätze können nicht bearbeitet werden**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, eine Abrechnungsrate für die [!UICONTROL Abrechnungssätze] Registerkarte eines Projekts durch Klicken auf die [!UICONTROL Bearbeiten] -Schaltfläche öffnet die [!UICONTROL Bearbeiten] -Fenster kurz, es wird jedoch geschlossen, bevor der Benutzer die Abrechnungsrate bearbeiten kann. Durch erneutes Klicken auf die Schaltfläche wird das Bearbeitungsfenster nicht geöffnet.
+Wenn ein(e) Benutzende(r) versucht, auf der Registerkarte [!UICONTROL Verrechnungssätze] eines Projekts einen Verrechnungssatz zu bearbeiten, wird durch Klicken auf die Schaltfläche [!UICONTROL Bearbeiten] kurz das Fenster [!UICONTROL Bearbeiten] geöffnet, es wird jedoch wieder geschlossen, bevor der/die Benutzende den Verrechnungssatz bearbeiten kann. Durch erneutes Klicken auf die Schaltfläche wird das Bearbeitungsfenster auch nicht geöffnet.
 
-**Öffentlicher Link für Dokument führt zu leerer Seite**
+**Öffentlicher Link für ein Dokument führt zu leerer Seite**
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, ein Dokument mithilfe eines öffentlichen Links zu öffnen, führt der Link zu einer leeren Seite. Dies tritt auf, wenn der Link in einem Fenster geöffnet wird, in dem ein aktiver [!DNL Workfront] -Sitzung geöffnet ist.
+Wenn ein(e) Benutzende(r) versucht, ein Dokument mithilfe eines öffentlichen Links zu öffnen, führt der Link zu einer leeren Seite. Dies tritt auf, wenn der Link in einem Fenster geöffnet wird, in dem eine aktive [!DNL Workfront]-Sitzung geöffnet ist.
 
-**Hopfenfehler beim Hinzufügen von Aufgabe oder Problem zur Liste**
+**Hoppla-Fehler beim Hinzufügen von Aufgabe oder Problem zu einer Liste**
 
 *Aufgaben und Probleme*
 
-Wenn ein Benutzer, der kein Administrator ist, versucht, eine Aufgabe oder ein Problem zu einer Liste hinzuzufügen und benutzerdefinierte Felder auszufüllen, wird die Aufgabe bzw. das Problem nicht erstellt und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, eine Aufgabe oder ein Problem zu einer Liste hinzuzufügen und benutzerdefinierte Felder ausfüllt, wird die Aufgabe bzw. das Problem nicht erstellt und der folgende Fehler wird angezeigt:
 
-[!UICONTROL Fehler-Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
-**Wird eine Aktualisierung nach einer Statusänderung beibehalten, wird das Objekt wieder in den vorherigen Status versetzt**
+**Wird eine Aktualisierung unmittelbar nach einer Statusänderung vorgenommen, wird das Objekt in den vorherigen Status zurückgesetzt**
 
 Projekte, Aufgaben und Probleme
 
-Wenn Sie den Status eines Projekts, einer Aufgabe oder eines Problems ändern und dann sofort mit der Eingabe eines Updates beginnen, ohne die Seite zu aktualisieren, zeigt das Aktualisierungsfeld den vorherigen Status an. Wenn die Aktualisierung veröffentlicht wird, wird das Objekt wieder in den vorherigen Status versetzt.
+Wenn Sie den Status eines Projekts, einer Aufgabe oder eines Problems ändern und dann sofort mit der Eingabe einer Aktualisierung beginnen, ohne die Seite zu aktualisieren, wird im Aktualisierungsfeld der vorherige Status angezeigt. Wenn die Aktualisierung veröffentlicht wird, wird das Objekt wieder in den vorherigen Status zurückgesetzt.
 
-**Benutzer, die zu Testsendungen hinzugefügt wurden, haben falsche Rollen**
+**Benutzende, die zu Korrekturabzüge hinzugefügt wurden, haben falsche Rollen**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer einen anderen Benutzer zu einem Testversand hinzufügt, wird die Rolle dieses Benutzers im Testversand als &quot;&quot;festgelegt.[!UICONTROL Schreibgeschützt]&quot; trotz der tatsächlichen Testversandrolle des Benutzers.
+Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einem Korrekturabzug hinzufügt, wird die Rolle dieses/r Benutzenden im Korrekturabzug als „[!UICONTROL Schreibgeschützt]“ festgelegt trotz der tatsächlichen Korrekturabzugsrolle des/r Benutzenden.
 
-Problemumgehung: Setzen Sie die Rolle &quot;Testversand&quot;des Benutzers in seinem Profil auf etwas Anderes und setzen Sie dann die richtige Rolle zurück.
+Problemumgehung: Wählen Sie für die Korrekturabzugsrolle des/r Benutzenden in seinem/ihrem Profil einen anderen Wert und wählen Sie danach wieder die richtige Rolle aus.
 
-**Benutzerdefiniertes Formular wird beim Konvertieren des Problems in ein Projekt mit einer Vorlage nicht geladen**
+**Benutzerdefiniertes Formular wird beim Konvertieren eines Problems in ein Projekt mit einer Vorlage nicht geladen**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, werden möglicherweise mindestens eines der benutzerdefinierten Formulare, die an die Vorlage angehängt sind, nicht geladen. Wenn der Benutzer die Vorlage für das neue Projekt konfiguriert, wird anstelle der benutzerdefinierten Formulare die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, werden möglicherweise mindestens eines der benutzerdefinierten Formulare, die an die Vorlage angehängt sind, nicht geladen. Wenn der/die Benutzende die Vorlage für das neue Projekt konfiguriert, wird anstelle der benutzerdefinierten Formulare die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Irgendetwas ist schiefgelaufen, Formular konnte nicht geladen werden].&quot;
+„[!UICONTROL Ein Fehler ist aufgetreten, Formular konnte nicht geladen werden].“
 
-**Benutzer können Problem nicht inline mit benutzerdefiniertem Dropdown-Feld hinzufügen, das in der Ansicht angezeigt wird**
+**Benutzende können ein Problem nicht inline über ein benutzerdefiniertes Dropdown-Feld hinzufügen, das in der Ansicht angezeigt wird**
 
 *Listen*
 
-Wenn ein Benutzer ein Problem inline hinzufügt und eine benutzerdefinierte Ansicht mit benutzerdefinierten Dropdown-Feldern auf die Liste angewendet wird, tritt ein Fehler auf, wenn er nur das Dropdown-Feld ausfüllt. Der Benutzer hat Zugriff auf das Bearbeiten eines benutzerdefinierten Formulars und ist der Projekteigentümer mit Verwaltungsrechten für das Projekt.
+Wenn ein(e) Benutzende(r) ein Problem inline hinzufügt und eine benutzerdefinierte Ansicht mit benutzerdefinierten Dropdown-Feldern auf die Liste angewendet wird, tritt ein Fehler auf, wenn er/sie nur das Dropdown-Feld ausfüllt. Der/die Benutzende hat Zugriff auf das Bearbeiten eines benutzerdefinierten Formulars und ist der Projektbesitzer mit Verwaltungsrechten für das Projekt.
 
-[!UICONTROL Fehler: Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es reparieren können!]
+[!UICONTROL Fehler: Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Berechtigungen zum Hinzufügen von Aufgaben zu einem Projekt sind nicht erforderlich, um eine Aufgabe in das Projekt zu verschieben oder zu kopieren**
 
 *Aufgaben*
 
-Sie können jetzt eine Aufgabe in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor dieser Aktualisierung waren Sie berechtigt, dem Projekt Aufgaben hinzuzufügen, mit denen Sie eine Aufgabe in das Projekt oder eine seiner Aufgaben verschieben oder kopieren können.  Dieses Update ist jetzt in der Produktionsumgebung verfügbar. Sie ist ab dem 24. März 2022 Maintenance Update in der Vorschau-Umgebung verfügbar.
+Sie können jetzt eine Aufgabe in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor diesem Update mussten Sie Berechtigungen zum Hinzufügen von Aufgaben zu einem Projekt besitzen, um eine Aufgabe in das Projekt oder in eine seiner Aufgaben verschieben oder kopieren zu können. Dieses Update ist jetzt in der Produktionsumgebung verfügbar. Diese Funktionalität ist seit dem Wartungs-Update vom 24. März 2022 in der Vorschau-Umgebung verfügbar.
 
-HINWEIS: Dieses Update ist in der Produktionsumgebung verfügbar, wenn Probleme nach der Produktionsversion 2.2 kopiert oder verschoben werden. Weitere Informationen zur aktuellen Version finden Sie unter workfront.com/release.
+HINWEIS: Dieses Update wird in der Produktionsumgebung verfügbar sein, wenn Probleme nach der Veröffentlichung der Produktionsversion 22.2 kopiert oder verschoben werden. Weitere Informationen zur aktuellen Version finden Sie unter workfront.com/release.
 
-**Dropdown-Menü &quot;Eingabeaufforderung&quot;ist abgeschnitten.**
+**Dropdown-Menü in der Eingabeaufforderung ist abgeschnitten.**
 
 *Berichte*
 
-Bei der Verwendung einer Eingabeaufforderung in einem Bericht werden die Dropdownmenüs, die die Auswahl der Filterkriterien für den Bericht ermöglichen, abgeschnitten. Daher werden die Kriterien unten im Auswahl-Dropdown-Menü nicht angezeigt.
+Bei der Verwendung einer Eingabeaufforderung in einem Bericht sind die Dropdown-Menüs abgeschnitten, die die Auswahl der Filterkriterien für den Bericht ermöglichen. Daher werden die im Dropdown-Menü unten stehenden Kriterien nicht angezeigt.
 
-**Das Arbeitselement kehrt bei einer Aktualisierung zum vorherigen Status zurück**
+**Arbeitselement wird bei einer Aktualisierung auf den vorherigen Status zurückgesetzt**
 
 *Updates*
 
-Wenn ein Benutzer den Status eines Arbeitselements in der Kopfzeile ändert, wird der Status im [!UICONTROL Aktualisieren] Bereich. Wenn der Benutzer dann eine Aktualisierung vornimmt, zeigt das Dropdown-Menü weiterhin den vorherigen Status an. Wenn die Aktualisierung gespeichert wird, überschreibt dieser vorherige, falsche Status den in der Kopfzeile festgelegten Status.
+Wenn ein(e) Benutzende(r) den Status eines Arbeitselements in der Kopfzeile ändert, wird der Status im [!UICONTROL Aktualisierungsbereich] nicht aktualisiert. Wenn der/die Benutzende dann eine Aktualisierung vornimmt, wird im Dropdown-Menü weiterhin der vorherige Status angezeigt. Wenn die Aktualisierung gespeichert wird, überschreibt dieser vorherige, falsche Status den in der Kopfzeile festgelegten Status.
 
 +++
 
-+++**Wartungs-Update am 3. März 2022**
++++**Wartungs-Update vom 3. März 2022**
 
-**Dokument kann nicht hinzugefügt werden aus[!DNL Google Drive]**
+**Dokument kann nicht aus[!DNL Google Drive]** hinzugefügt werden
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, ein Dokument aus [!DNL Google Drive], reagiert die Auswahl nicht und der Benutzer kann keine Dokumente auswählen, die hinzugefügt werden sollen.
+Wenn ein(e) Benutzende(r) versucht, ein Dokument aus [!DNL Google Drive] hinzuzufügen, reagiert die Auswahl nicht und der/die Benutzende kann keine Dokumente auswählen, um sie hinzuzufügen.
 
-**Tagging-Benutzer werden nicht zum Aktualisieren von Threads hinzugefügt**
+**Getaggte Benutzende werden nicht zum Aktualisierungs-Thread hinzugefügt**
 
 *Updates*
 
-Wenn ein Benutzer in einer Aktualisierung mit Tags versehen ist, wird er nicht im[!UICONTROL nach]&quot;Bereich der Aktualisierung oder der Antworten.
+Wenn ein(e) Benutzende(r) in einer Aktualisierung getaggt ist, wird er/sie nicht im Bereich „[!UICONTROL An]“ der Aktualisierung oder der Antworten angezeigt.
 
-**Der Testversand-Benutzer verfügt über zwei separate Testversandkonten.**
+**Der Korrekturabzugsbenutzende hat zwei separate Korrekturabzugskonten**
 
 *[!DNL Workfront Proof]*
 
-Die E-Mail-Adresse eines Benutzers in [!DNL Workfront Proof] kann sich in zwei separaten Konten mit separaten IDs befinden, sodass der Benutzer zwei Konten erhält. Dadurch kann es schwierig werden, das richtige Konto zu finden.
+Die E-Mail-Adresse eines/r Benutzenden in [!DNL Workfront Proof] kann sich in zwei separaten Konten mit separaten IDs befinden, sodass der/die Benutzende zwei Konten hat. Dadurch kann es schwierig sein, das richtige Konto zu finden.
 
-**Hopfenfehler in Berichtkopfzeilen angezeigt**
+**Hoppla-Fehler in Berichtskopfzeilen angezeigt**
 
 *Berichte*
 
-Wenn ein Benutzer einen Bericht anzeigt, wird der folgende Fehler in der Kopfzeile des Berichts angezeigt:
+Wenn ein(e) Benutzende(r) einen Bericht aufruft, wird in der Kopfzeile des Berichts der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Versuchen Sie es erneut. Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]&quot;
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-Wenn der Benutzer ein Dashboard anzeigt, wird der Fehler möglicherweise in der Kopfzeile aller Berichte im Dashboard angezeigt.
+Wenn der/die Benutzende ein Dashboard öffnet, kann der Fehler in der Kopfzeile aller Berichte im Dashboard angezeigt werden.
 
-**Daten in Feldern, die nur in der Admin-Bearbeitung des benutzerdefinierten Formulars enthalten sind, werden beim Konvertieren von Problemen in Projekte nicht beibehalten**
+**Daten in Feldern in benutzerdefinierten Formularen, die nur von einem Administrator bzw. einer Administratorin bearbeitet werden können, werden beim Konvertieren von Problemen in Projekte nicht beibehalten**
 
 *Projekte*
 
-Wenn ein Benutzer ohne Administratorrechte versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, und das Problem Daten in Feldern enthält, die nur von einem Administrator bearbeitet werden können, werden die Daten in diesen Feldern nicht in das neue Projekt übertragen.
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren und das Problem Daten in Feldern enthält, die nur von einem Administrator bzw. einer Administratorin bearbeitet werden können, werden die Daten in diesen Feldern nicht in das neue Projekt übertragen.
 
-Wenn ein Administrator das Problem konvertiert, werden die Daten erwartungsgemäß in das neue Projekt übertragen.
+Wenn ein Administrator bzw. einer Administratorin das Problem konvertiert, werden die Daten erwartungsgemäß in das neue Projekt übertragen.
 
-**[!DNL XLS]und [!DNL XLSX] Die Dateigrößenbeschränkung wurde für Testsendungen vorübergehend auf 100 MB reduziert**
+Die Dateigrößenbeschränkung von **[!DNL XLS]- und [!DNL XLSX]-Dateien wurde für Korrekturabzüge vorübergehend auf 100 MB reduziert**
 
 *Proofing*
 
-Um ein Sicherheitsproblem zu beheben, haben wir die maximale Dateigröße für [!DNL XLS] und [!DNL XLSX] -Dateien bei der Erstellung eines Testversands auf 100 MB erhöht.
+Um ein Sicherheitsproblem zu beheben, haben wir die maximale Dateigröße für [!DNL XLS]- und [!DNL XLSX]-Dateien bei der Erstellung eines Korrekturabzugs auf 100 MB begrenzt.
 
-HINWEIS: Diese Aktualisierung fand am 24. Februar in der Vorschau-Umgebung statt und wird sich am 3. März in der Produktionsumgebung befinden.
+HINWEIS: Dieses Update fand am 24. Februar in der Vorschau-Umgebung statt und wird sich ab 3. März in der Produktionsumgebung befinden.
 
-**Aktualisierung der Workfront-Suche**
+**Update für die Workfront-Suche**
 
 Suchen
 
-Eine schrittweise Einführung begann diese Woche, um die Infrastruktur für die [!DNL Workfront] Suchfunktion. Die Aktualisierung wird zukünftige Verbesserungen der Suche einfacher und zuverlässiger machen. Mit diesen Änderungen werden Elemente zu [!DNL Workfront] schneller indiziert werden und daher früher in den Suchergebnissen zurückgegeben werden.
+Diese Woche begann ein schrittweiser Rollout zur Aktualisierung der Infrastruktur für die [!DNL Workfront]-Suchfunktion. Durch dieses Update werden zukünftige Verbesserungen der Suche einfacher und zuverlässiger. Mit diesen Änderungen werden Elemente, die zu [!DNL Workfront] hinzugefügt werden, schneller indiziert und daher früher in den Suchergebnissen zu finden sein.
 
-Die schrittweise Einführung wird 2 Wochen dauern.
+Der schrittweise Rollout wird 2 Wochen dauern.
 
-**Aktualisierte Symbolleisten für Berichte in Dashboards**
+**Symbolleisten für Berichte in Dashboards wurden aktualisiert**
 
 Berichte
 
-In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Aktualisierungen von Listen und Berichten, die in allen [!DNL Workfront].
+In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Updates von Listen und Berichten, die derzeit in allen Bereichen von [!DNL Workfront] vorgenommen werden.
 
 +++
 
 
-## Aktualisierungen im Februar 2022
+## Updates im Februar 2022
 
-+++**Wartungs-Update (Hotfix) am 24. Februar 2022**
++++**Wartungs-Update (Hotfix) vom 24. Februar 2022**
 
 **Daten werden beim Konvertieren von Problemen in Projekte nicht beibehalten, wenn das Feld in der Vorlage ausgeblendet ist**
 
 *Projekte*
 
-Wenn ein Benutzer ein Problem in eine Vorlage konvertiert und die Vorlage ein benutzerdefiniertes Formular enthält, das Felder basierend auf den Werten in anderen Feldern anzeigt oder ausblendet, werden Daten in Feldern, die zum Zeitpunkt der Konvertierung in der (datallosen) Vorlage verborgen sind, nicht in das neue Projekt übernommen.
+Wenn ein(e) Benutzende(r) ein Problem in eine Vorlage konvertiert und die Vorlage ein benutzerdefiniertes Formular enthält, in dem Felder basierend auf den Werten in anderen Feldern angezeigt oder ausgeblendet werden, werden die Daten in den Feldern, die zum Zeitpunkt der Konvertierung in der (datenlosen) Vorlage verborgen sind, nicht in das neue Projekt übernommen.
 
 **Ressourcenplaner kann nicht nach Rolle exportiert werden**
 
 *Ressourcenplaner*
 
-Wenn ein Benutzer versucht, die [!DNL Resource Planner] bei Verwendung der [!UICONTROL Ansicht nach Rolle] gesetzt ist, ist der Export nicht erfolgreich und der Benutzer erhält eine E-Mail mit der folgenden Nachricht:
+Wenn ein(e) Benutzende(r) versucht, den [!DNL Resource Planner] mit der Option [!UICONTROL Ansicht nach Rolle] zu exportieren, ist der Export nicht erfolgreich und der/die Benutzende erhält eine E-Mail mit der folgenden Nachricht:
 
-Beim Exportieren Ihrer [!DNL Resource Planner] Daten.
+Beim Exportieren Ihrer [!DNL Resource Planner]-Daten ist ein Fehler aufgetreten.
 
-**Schaltfläche &quot;Anforderung kopieren&quot;funktioniert nicht**
+**Schaltfläche „Anfrage kopieren“ funktioniert nicht**
 
 *Anforde- rungen*
 
-Wenn ein Benutzer versucht, eine Anforderung zu kopieren, wird die [!UICONTROL Anforderung kopieren] -Schaltfläche funktioniert nicht, wenn der Benutzer keinen Zugriff auf das Warteschlangenthema hat.
+Wenn ein(e) Benutzende(r) versucht, eine Anfrage zu kopieren, funktioniert die Schaltfläche [!UICONTROL Anfrage kopieren] nicht, wenn der/die Benutzende keinen Lesezugriff auf das Warteschlangen-Thema hat.
 
 +++
 
-+++**Wartungs-Update am 24. Februar 2022**
++++**Wartungs-Update vom 24. Februar 2022**
 
-**Benutzerdefinierte Formulardaten werden ausgeblendet, wenn andere Formularfelder ausgefüllt werden**
+**Daten in benutzerdefinierten Formularen werden ausgeblendet, wenn andere Formularfelder ausgefüllt werden**
 
 *Benutzerdefinierte Formulare in meiner Gruppe*
 
-Wenn ein Benutzer ein benutzerdefiniertes Formular ausfüllt, um ein Problem in ein Projekt zu konvertieren, kann das Ausfüllen eines benutzerdefinierten Felds dazu führen, dass Daten in einem anderen benutzerdefinierten Feld nicht mehr angezeigt werden. Wenn der Benutzer die fehlenden Daten erneut eingibt und versucht, das Projekt zu erstellen, wird ihm die folgende Fehlermeldung angezeigt:
+Wenn ein(e) Benutzende(r) ein benutzerdefinierten Formular ausfüllt, um ein Problem in ein Projekt zu konvertieren, kann das Ausfüllen eines benutzerdefinierten Felds dazu führen, dass Daten in einem anderen benutzerdefinierten Feld nicht mehr angezeigt werden. Wenn der/die Benutzende die fehlenden Daten erneut eingibt und versucht, das Projekt zu erstellen, wird die folgende Fehlermeldung angezeigt:
 
-&quot;[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]&quot;
+„[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]“
 
-**&quot;[!UICONTROL Dieser Validierungsprozess kann von ...]&quot; -Feld fehlt**
+**Feld „[!UICONTROL Dieser Genehmigungsprozess kann genutzt werden von...]“ fehlt**
 
 *Genehmigungen*
 
-Wenn ein Benutzer einen Genehmigungsprozess im [!UICONTROL Einrichtung] -Bereich[!UICONTROL Dieser Validierungsprozess kann von ...]&quot;-Feld fehlt. Dies kann beim Erstellen eines Validierungsprozesses oder beim Bearbeiten eines vorhandenen Validierungsprozesses auftreten.
+Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, fehlt das Feld „[!UICONTROL Dieser Genehmigungsprozess kann genutzt werden von...]“. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
 
-**Der Systemadministrator kann Benutzer beim Löschen einer Gruppe nicht neu zuweisen**
+**Der Systemadministrator bzw. die Systemadministratorin kann Benutzende beim Löschen einer Gruppe nicht neu zuweisen**
 
 *Gruppen*
 
-Wenn ein Systemadministrator eine Gruppe löscht, kann er die Benutzer dieser Gruppe nur Gruppen zuweisen, für die der Systemadministrator ein Gruppenadministrator ist. Andere Gruppen werden nicht im Dropdown-Menü angezeigt und der Administrator kann sie nicht auswählen.
+Wenn ein Systemadministrator bzw. eine Systemadministratorin eine Gruppe löscht, kann er/sie die Benutzenden dieser Gruppe nur Gruppen zuweisen, für die der Systemadministrator bzw. die Systemadministratorin ein Gruppenadministrator bzw. eine Gruppenadministratorin ist. Andere Gruppen werden nicht im Dropdown-Menü angezeigt und der Administrator bzw. die Administratorin kann sie nicht auswählen.
 
-**Hopfenfehler beim Konvertieren des Problems in ein Projekt**
+**Hoppla-Fehler beim Konvertieren eines Problems in ein Projekt**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren und benutzerdefinierte Formulare aus der Vorlage hinzufügt oder daraus entfernt, wird das Problem nicht konvertiert und der Benutzer wird über die folgende Meldung informiert:
+Wenn ein(e) Benutzende(r) versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren und benutzerdefinierte Formulare aus der Vorlage hinzufügt oder daraus entfernt, wird das Problem nicht konvertiert und die folgende Meldung wird angezeigt:
 
-[!UICONTROL Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
-**Testversand kann nicht geöffnet werden; Seitenaktualisierungen**
+**Korrekturabzug kann nicht geöffnet werden; Seite wird aktualisiert**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer versucht, einen Testversand zu öffnen, kann der Testversand nicht geöffnet werden. Schließlich wird die Seite aktualisiert.
+Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu öffnen, kann er nicht geöffnet werden. Schließlich wird die Seite aktualisiert.
 
-**[!DNL XLS]und [!DNL XLSX] Die Dateigrößenbeschränkung wurde für Testsendungen vorübergehend auf 100 MB reduziert**
+Die Dateigrößenbeschränkung von **[!DNL XLS]- und [!DNL XLSX]-Dateien wurde für Korrekturabzüge vorübergehend auf 100 MB reduziert**
 
 *Testversand*
 
-Um ein Sicherheitsproblem zu beheben, haben wir die maximale Dateigröße für [!DNL XLS] und [!DNL XLSX] -Dateien bei der Erstellung eines Testversands auf 100 MB erhöht.
+Um ein Sicherheitsproblem zu beheben, haben wir die maximale Dateigröße für [!DNL XLS]- und [!DNL XLSX]-Dateien bei der Erstellung eines Korrekturabzugs auf 100 MB begrenzt.
 
-HINWEIS: Diese Aktualisierung wird am 24. Februar in der Vorschau-Umgebung und am 3. März in der Produktionsumgebung vorgenommen.
+HINWEIS: Dieses Update findet am 24. Februar in der Vorschau-Umgebung statt und befindet sich ab 3. März in der Produktionsumgebung.
 
 **Berechtigungen zum Hinzufügen von Aufgaben oder Problemen zu einem Projekt sind nicht erforderlich, um eine Aufgabe oder ein Problem in das Projekt zu verschieben oder zu kopieren**
 
 *Projekte*
 
-Sie können jetzt eine Aufgabe oder ein Problem in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben oder Problemen zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben oder Problemen zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor dieser Aktualisierung waren Sie berechtigt, Aufgaben oder Probleme zum Verschieben oder Kopieren einer Aufgabe oder eines Problems in das Projekt oder in eine seiner Aufgaben hinzuzufügen. Diese Aktualisierung ist nur in der Vorschau -Umgebung verfügbar.
+Sie können jetzt eine Aufgabe oder ein Problem in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben oder Problemen zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben oder Problemen zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor diesem Update mussten Sie Berechtigungen zum Hinzufügen von Aufgaben oder Problemen zu einem Projekt besitzen, um eine Aufgabe oder ein Problem in das Projekt oder in eine seiner Aufgaben verschieben oder kopieren zu können. Dieses Update ist nur in der Vorschau-Umgebung verfügbar.
 
-HINWEIS: Dieses Update ist ab dem 10. März in der Produktionsumgebung verfügbar, wenn Aufgaben bearbeitet oder verschoben werden. Dieses Update ist in der Produktionsumgebung verfügbar, wenn Probleme mit der Produktionsversion 2.2 kopiert oder verschoben werden. Weitere Informationen zur aktuellen Version finden Sie unter workfront.com/release.
+HINWEIS: Dieses Update ist ab dem 10. März in der Produktionsumgebung verfügbar, wenn Aufgaben kopiert oder verschoben werden. Dieses Update wird in der Produktionsumgebung verfügbar sein, wenn Probleme nach der Veröffentlichung der Produktionsversion 22.2 kopiert oder verschoben werden. Weitere Informationen zur aktuellen Version finden Sie unter workfront.com/release.
 
-**Aktualisierung der Workfront-Suche**
+**Update für die Workfront-Suche**
 
 *Suchen*
 
-Eine schrittweise Einführung begann diese Woche, um die Infrastruktur für die [!DNL Workfront] Suchfunktion. Die Aktualisierung wird zukünftige Verbesserungen der Suche einfacher und zuverlässiger machen. Mit diesen Änderungen werden Elemente zu [!DNL Workfront] schneller indiziert werden und daher früher in den Suchergebnissen zurückgegeben werden.
+Diese Woche begann ein schrittweiser Rollout zur Aktualisierung der Infrastruktur für die [!DNL Workfront]-Suchfunktion. Durch dieses Update werden zukünftige Verbesserungen der Suche einfacher und zuverlässiger. Mit diesen Änderungen werden Elemente, die zu [!DNL Workfront] hinzugefügt werden, schneller indiziert und daher früher in den Suchergebnissen zu finden sein.
 
-Die schrittweise Einführung wird 2 Wochen dauern.
+Der schrittweise Rollout wird 2 Wochen dauern.
 
 +++
 
-+++**[!DNL Workfront Fusion]Wartungs-Update am 18. Februar 2022**
++++**[!DNL Workfront Fusion]Wartungs-Update vom 18. Februar 2022**
 
-**Validierung des Feldwerttyps hinzugefügt [!DNL Anaplan] Eigenschaften von Listenelementen**
+**Feldwerttyp-Validierung zu den [!DNL Anaplan]-Eigenschaften von Listenelementen hinzugefügt**
 
 *[!DNL Adobe Workfront Fusion]*
 
-Es wurde ein Problem behoben, durch das Benutzer den falschen Datentyp in Felder für Eigenschaften von Listenelementen einfügen konnten. Die Validierung des Eigenschaftstyps ermöglicht Folgendes: [!DNL Fusion] um sicherzustellen, dass der richtige Datentyp an Anaplan gesendet wird, sodass Fehler, die durch falsche Datentypen verursacht werden, vermieden werden.
+Es wurde ein Problem behoben, durch das es Benutzenden möglich war, in Felder für Eigenschaften von Listenelementen den falschen Datentyp einzufügen. Durch die Validierung des Eigenschaftstyps kann [!DNL Fusion] sicherstellen, dass der richtige Datentyp an Anaplan gesendet wird, sodass Fehler, die durch falsche Datentypen verursacht werden, vermieden werden.
 
 +++
 
-+++**Wartungs-Update am 17. Februar 2022**
++++**Wartungs-Update vom 17. Februar 2022**
 
-**Fehler beim Löschen des Vorgängers auf der Registerkarte &quot;Vorgänger&quot;**
+**Fehler beim Löschen des Vorgängers auf der Registerkarte „Vorgänger“**
 
 *Aufgaben*
 
-Wenn ein Benutzer versucht, einen Vorgänger aus der [!UICONTROL Vorgänger] -Tab einer Aufgabe wird die Aufgabe nicht gelöscht und dem Benutzer wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) versucht, einen Vorgänger aus der Registerkarte [!UICONTROL Vorgänger] einer Aufgabe zu löschen, wird die Aufgabe nicht gelöscht und dem/der Benutzenden wird der folgende Fehler angezeigt:
 
-[!UICONTROL Aufgabe mit dem/den Primärschlüsselwert(en) &quot;&quot;nicht gefunden]
+[!UICONTROL Aufgabe mit primärem/n Schlüsselwert(en) &quot;&quot; nicht gefunden]
 
-**Hopfenfehler beim Öffnen der Benutzerseite**
+**Hoppla-Fehler beim Öffnen der Benutzerseite**
 
 *Benutzer*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Benutzer] -Seite, wird die Seite nicht geöffnet und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, die Seite [!UICONTROL Benutzende] zu öffnen, wird die Seite nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Ups! Etwas ist schiefgelaufen. Bitte kontaktieren Sie uns [!DNL Workfront] damit wir herausfinden können, was schiefgelaufen ist, und es beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
-**Elemente in der Kopfzeile eines Berichts in einem Dashboard überschneiden**
+**Elemente in der Kopfzeile eines Berichts in einem Dashboard überschneiden sich**
 
 *Dashboards*
 
-Wenn ein Benutzer einen Bericht in einem Dashboard anzeigt, sieht er, dass das Gruppierungssymbol und die Bezeichnung die Links zu [!UICONTROL Details] und [!UICONTROL Zusammenfassung].
+Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft, überschneiden sich das Gruppierungssymbol und -bezeichnung und die Links zu den [!UICONTROL Details] und zur [!UICONTROL Zusammenfassung].
 
-**Probleme mit[!UICONTROL Mehr]&quot;Menü für Dokumente und Testsendungen**
+**Probleme mit dem Menü „[!UICONTROL Mehr]“ für Dokumente und Korrekturabzüge**
 
 *Dokumente*
 
-Wenn ein Benutzer ein Dokument oder einen Testversand für eine [!DNL Workfront Classic] Dokumentliste und klickt dann auf &quot;[!UICONTROL Mehr],&quot;kann eines der folgenden Probleme auftreten: Die Schaltfläche reagiert nicht Alle Optionen unter der Schaltfläche sind mit &quot;[!UICONTROL Objekt-Objekt]&quot; und kann nicht verwendet werden.
+Wenn ein(e) Benutzende(r) ein Dokument oder einen Korrekturabzug in einer [!DNL Workfront Classic]-Dokumentliste auswählt und auf „[!UICONTROL Mehr]“ klickt, kann eines der folgenden Probleme auftreten: Die Schaltfläche reagiert nicht
+Alle Optionen unter der Schaltfläche sind mit „[!UICONTROL Objekt Objekt]“ beschriftet und können nicht verwendet werden.
 
-**Fehler &quot;Sie müssen ein Systemadministrator sein&quot;beim Erstellen eines Projekts**
-
-*Projekte*
-
-Wenn ein Benutzer, der kein Administrator ist, versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, für das nur Administratoren einen Abschnitt zur Verfügung haben, kann er das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
-
-&quot;Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern&quot;
-
-**Daten im Abschnitt &quot;Nur Administrator&quot;des benutzerdefinierten Formulars werden beim Konvertieren von Problemen in Projekte nicht beibehalten**
+**Fehler „Sie müssen ein Systemadministrator sein“ beim Erstellen eines Projekts**
 
 *Projekte*
 
-Wenn ein Benutzer ein Problem mithilfe einer Vorlage mit einem benutzerdefinierten Formular mit einem reinen Administratorbereich in ein Projekt konvertiert, werden keine Daten im Abschnitt &quot;Nur Administrator&quot;in das neue Projekt übernommen. Dies tritt auch dann auf, wenn ein Administrator das Problem konvertiert.
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, in dem ein Bereich nur für Administratoren bzw. Administratorinnen zugänglich ist, kann er/sie das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
+
+„Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern“
+
+**Daten in einem benutzerdefinierten Formular, die im Administratoren bzw. Administratorinnen vorbehaltenen Bereich stehen, werden beim Konvertieren von Problemen in Projekte nicht beibehalten**
+
+*Projekte*
+
+Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konvertiert und die Vorlage ein benutzerdefiniertes Formular mit einem reinen Administratorbereich besitzt, werden die Daten im Administratorbereich nicht in das neue Projekt übernommen. Dies tritt auch dann auf, wenn ein Administrator bzw. eine Administratorin das Problem konvertiert.
 
 +++
 
-+++**Wartungs-Update am 10. Februar 2022**
++++**Wartungs-Update vom 10. Februar 2022**
 
-**&quot;[!UICONTROL Sie müssen Systemadministrator sein.]&quot;-Fehler beim Erstellen eines Projekts**
+**Beim Erstellen eines Projekts erscheint der Fehler „[!UICONTROL Sie müssen Systemadministrator sein]“**
 
 *Projekte*
 
-Wenn ein Benutzer, der kein Administrator ist, versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, für das nur Administratoren einen Abschnitt zur Verfügung haben, kann er das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, in dem ein Bereich nur für Administratoren bzw. Administratorinnen zugänglich ist, kann er/sie das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]&quot;
+„[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]“
 
-**Benutzer, die deaktiviert und reaktiviert wurden, werden nicht in [!UICONTROL Kontakte nachweisen]**
+**Benutzende, die deaktiviert und wieder aktiviert wurden, werden nicht in den [!UICONTROL Korrekturabzugskontakten angezeigt]**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer seine Kontaktliste in [!DNL Workfront Proof], werden Benutzer, die deaktiviert und reaktiviert wurden, nicht in der Liste angezeigt.
+Wenn ein(e) Benutzende(r) die Kontaktliste in [!DNL Workfront Proof] aufruft, werden Benutzende, die deaktiviert und wieder aktiviert wurden, nicht in der Liste angezeigt.
 
-**Meldung &quot;Irgendetwas ist schiefgelaufen&quot; beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
+**Meldung „Irgendetwas ist schiefgelaufen“ beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
 
 *Projekte*
 
-Wenn ein Benutzer, der kein Administrator ist, versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, wird in benutzerdefinierten Formularfeldern, die nur für Administratoren sichtbar sind, die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren, wird in benutzerdefinierten Formularfeldern, die nur für Administratoren bzw. Administratorinnen sichtbar sind, die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Irgendetwas ist schiefgelaufen, Formular konnte nicht geladen werden]&quot;
+„[!UICONTROL Irgendetwas ist schiefgelaufen, Formular konnte nicht geladen werden]“
 
-**Fehler &quot;Seiteninhalt kann nicht geladen werden&quot;bei der Anzeige von Projektanvoreinstellungen**
+**Fehler „Seiteninhalt kann nicht geladen werden“ bei der Anzeige von Projektvoreinstellungen**
 
 *Einrichtung*
 
-Wenn ein Administrator versucht, Projekte, Aufgaben oder Probleme unter anzuzeigen [!UICONTROL Projektvoreinstellungen] im [!UICONTROL Einrichtung] -Bereich, wird die Seite nicht geladen und der Benutzer sieht den folgenden Fehler:
+Wenn ein Administrator oder eine Administratorin versucht, Projekte, Aufgaben oder Probleme unter anzuzeigen [!UICONTROL Projektvoreinstellungen] im Bereich [!UICONTROL Setup] anzuzeigen, wird die Seite nicht geladen und der folgende Fehler wird angezeigt:
 
-&quot;[!UICONTROL Seiteninhalt kann nicht geladen werden. Bitte aktualisieren Sie die Seite.]&quot;
+„[!UICONTROL Seiteninhalt kann nicht geladen werden. Bitte aktualisieren Sie die Seite.]“
 
 +++
 
-+++**Wartungs-Update am 3. Februar 2022**
++++**Wartungs-Update vom 3. Februar 2022**
 
-**[!UICONTROL BizContext] Fehler beim Anmelden**
+**[!UICONTROL BizContext]-Fehler beim Anmelden**
 
 *Anmeldung*
 
-Wenn ein Benutzer versucht, sich bei [!DNL Workfront], ist die Anmeldung nicht erfolgreich und die folgende Meldung wird angezeigt:
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, schläft die Anmeldung fehl und die folgende Meldung wird angezeigt:
 
-&quot;[!UICONTROL Versuchen Sie es erneut. Datenbankfehler: BizContext commit failed!]&quot;
+„[!UICONTROL Versuchen Sie es erneut. Datenbankfehler: BizContext-Commit fehlgeschlagen!]“
 
-Dies wurde in der Vorschau -Umgebung gemeldet.
+Dies wurde in der Vorschau-Umgebung gemeldet.
 
-**Der Aktualisierungsstream für Probleme verschwindet, wenn das Problem noch nicht genehmigt wurde**
+**Der Aktualisierungsverlauf für Probleme verschwindet, wenn das Problem noch nicht genehmigt wurde**
 
 *Updates*
 
-Wenn ein Benutzer in die [!UICONTROL Neues Update] im Aktualisierungsstream eines Problems, das noch nicht genehmigt wurde, wird der gesamte Aktualisierungsstream ausgeblendet.
+Wenn ein(e) Benutzende(r) in das Feld [!UICONTROL Neue Aktualisierung] im Aktualisierungsverlauf eines Problems klickt, das noch nicht genehmigt wurde, verschwindet der gesamte Aktualisierungsverlauf.
 
 **Fehler beim Hochladen einer neuen Version eines Dokuments**
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, eine neue Version eines Dokuments hochzuladen, wird die neue Version nicht hochgeladen und der Benutzer sieht einen der folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, eine neue Version eines Dokuments hochzuladen, wird die neue Version nicht hochgeladen und eine der folgenden Fehlermeldungen wird angezeigt:
 
 * [!UICONTROL documentID darf nicht null sein]
-* [!UICONTROL Fehler: Ungültiger Parameter: documentID-Wert &quot;undefined&quot;]
+* [!UICONTROL Fehler: Ungültiger Parameter: documentID-Wert „undefined“]
 
-**Öffentlicher Link für Dokument führt zu leerer Seite**
+**Öffentlicher Link für ein Dokument führt zu leerer Seite**
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, ein Dokument mithilfe eines öffentlichen Links zu öffnen, führt der Link zu einer leeren Seite. Dies tritt auf, wenn der Link in einem Fenster geöffnet wird, in dem ein aktiver [!DNL Workfront] -Sitzung geöffnet ist.
+Wenn ein(e) Benutzende(r) versucht, ein Dokument mithilfe eines öffentlichen Links zu öffnen, führt der Link zu einer leeren Seite. Dies tritt auf, wenn der Link in einem Fenster geöffnet wird, in dem eine aktive [!DNL Workfront]-Sitzung geöffnet ist.
 
 **Listensteuerelemente funktionieren nicht in Berichten in Dashboards**
 
 *Dashboards*
 
-Wenn ein Benutzer einen Bericht in einem Dashboard anzeigt und versucht, den Filter, die Gruppierung oder die Ansicht des Berichts zu ändern, ändert sich der Filter, die Gruppierung oder die Ansicht nicht.
+Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft und versucht, den Filter, die Gruppierung oder die Ansicht des Berichts zu ändern, ändert sich der Filter, die Gruppierung oder die Ansicht nicht.
 
-**&quot;[!UICONTROL Sie müssen Systemadministrator sein.]&quot;-Fehler beim Erstellen eines Projekts**
-
-*Projekte*
-
-Wenn ein Benutzer, der kein Administrator ist, versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, für das nur Administratoren einen Abschnitt zur Verfügung haben, kann er das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
-
-&quot;[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]&quot;
-
-**Benutzerdefinierte Daten werden beim Konvertieren des Problems in das Projekt nicht beibehalten**
+**Beim Erstellen eines Projekts erscheint der Fehler „[!UICONTROL Sie müssen Systemadministrator sein]“**
 
 *Projekte*
 
-Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, werden die Daten aus einem benutzerdefinierten Formular zum Problem nicht in das vergleichbare benutzerdefinierte Formular im Projekt übertragen. Dies geschieht mit Daten in benutzerdefinierten Feldern, die basierend auf den Werten anderer benutzerdefinierter Felder ausgeblendet werden können.
+Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Projekt zu erstellen und ein benutzerdefiniertes Formular angehängt, in dem ein Bereich nur für Administratoren bzw. Administratorinnen zugänglich ist, kann er/sie das Projekt nicht erstellen und es wird der folgende Fehler angezeigt:
 
-**Fehler beim Konvertieren des Problems in ein Projekt**
+„[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]“
+
+**Benutzerdefinierte Daten werden beim Konvertieren eines Problems in ein Projekt nicht beibehalten**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Problem in ein Projekt zu konvertieren, wird das Problem nicht konvertiert und der folgende Fehler wird angezeigt:
+Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, werden die Daten aus einem benutzerdefinierten Formular für das Problem nicht in das entsprechende benutzerdefinierte Formular im Projekt übertragen. Dies geschieht bei Daten in benutzerdefinierten Feldern, die basierend auf den Werten in anderen benutzerdefinierten Feldern ausgeblendet sein könnten.
 
-&quot;[!UICONTROL Unerwarteter Fehler]&quot;
+**Fehler beim Konvertieren eines Problems in ein Projekt**
+
+*Projekte*
+
+Wenn ein(e) Benutzende(r) versucht, ein Problem in ein Projekt zu konvertieren, wird das Problem nicht konvertiert und der folgende Fehler wird angezeigt:
+
+„[!UICONTROL Unerwarteter Fehler]“
 
 +++
 
 
-## Aktualisierungen im Januar 2022
+## Updates im Januar 2022
 
-+++**Wartungs-Update am 27. Januar 2022**
++++**Wartungs-Update vom 27. Januar 2022**
 
-**Benutzerdefinierte Daten werden beim Konvertieren des Problems in das Projekt nicht beibehalten**
+**Benutzerdefinierte Daten werden beim Konvertieren eines Problems in ein Projekt nicht beibehalten**
 
 *Projekte*
 
-Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, werden die Daten aus einem benutzerdefinierten Formular zum Problem nicht in das vergleichbare benutzerdefinierte Formular im Projekt übertragen. Dies geschieht mit Daten in benutzerdefinierten Feldern, die basierend auf den Werten anderer benutzerdefinierter Felder ausgeblendet werden können.
+Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, werden die Daten aus einem benutzerdefinierten Formular für das Problem nicht in das entsprechende benutzerdefinierte Formular im Projekt übertragen. Dies geschieht bei Daten in benutzerdefinierten Feldern, die basierend auf den Werten in anderen benutzerdefinierten Feldern ausgeblendet sein könnten.
 
-**Die Benutzerliste auf der agilen Pinnwand ist nicht alphabetisch**
+**Die Benutzerliste auf dem Agile-Board ist nicht in alphabetischer Reihenfolge**
 
 *Agile*
 
-Wenn ein Benutzer die Benutzerliste auf einer agilen Pinnwand anzeigt, werden die Benutzer nicht in alphabetischer Reihenfolge angezeigt. Stattdessen werden die Benutzer mit den meisten Zuweisungen zuerst aufgelistet.
+Wenn ein(e) Benutzende(r) die Benutzerliste auf einem Agile-Board aufruft, werden die Benutzenden nicht in alphabetischer Reihenfolge angezeigt. Stattdessen werden die Benutzenden mit den meisten Arbeitsaufträgen zuerst aufgelistet.
 
-**Aktualisierte Links zum Kopieren und Verschieben von Problemen**
+**Links zum Kopieren und Verschieben von Problemen wurden aktualisiert**
 
 *Anfragen*
 
-In der Umgebung &quot;Vorschau&quot;wurden die Links zum Kopieren und Verschieben von Problemen auf &quot;[!UICONTROL Kopieren nach]&quot; und &quot;[!UICONTROL Verschieben nach]&quot;sowohl auf der Seite mit den Problemen als auch in der Liste der Probleme.
+In der Vorschau-Umgebung wurden die Links zum Kopieren und Verschieben von Problemen sowohl auf der Problem-Seite als auch in der Problem-Liste in „[!UICONTROL Kopieren nach]“ und „[!UICONTROL Verschieben nach]“ geändert.
 
-**Fügen Sie bis zu 45 IP-Adressen zu Ihren [!DNL Workfront] Zulassungsliste**
+**Hinzufügen von bis zu 45 IP-Adressen zur [!DNL Workfront] Zulassungsliste**
 
 *Einrichtung*
 
-Die Beschränkung für IP-Adressen, die zu Ihren [!DNL Workfront] Die Zulassungsliste von  ist von 30 auf 45 gestiegen.
+Das Limit für IP-Adressen, die zur [!DNL Workfront]-Zulassungsliste hinzugefügt werden können, wurde von 30 auf 45 erhöht.
 
 +++
 
-+++**Wartungs-Update am 20. Januar 2022**
++++**Wartungs-Update vom 20. Januar 2022**
 
-**&quot;[!UICONTROL Ungültiger Parameter]&quot;-Fehler beim Erstellen eines Projekts aus einer Vorlage**
+**Fehler „[!UICONTROL Ungültiger Parameter]“ beim Erstellen eines Projekts aus einer Vorlage**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Projekt aus einer Vorlage zu erstellen, und beim Erstellen des Projekts ein benutzerdefiniertes Formular aus der Vorlage entfernt, wird das Projekt nicht erstellt und dem Benutzer wird ein[!UICONTROL Ungültiger Parameter]&quot; Fehlermeldung, die ein erforderliches Feld im entfernten benutzerdefinierten Formular erwähnt.
+Wenn ein(e) Benutzende(r) versucht, ein Projekt aus einer Vorlage zu erstellen und beim Erstellen des Projekts ein benutzerdefiniertes Formular aus der Vorlage entfernt, wird das Projekt nicht erstellt und die Fehlermeldung „[!UICONTROL Ungültiger Parameter]“ wird angezeigt, in der auf ein Pflichtfeld im entfernten benutzerdefinierten Formular hingewiesen wird.
 
-**Benutzerliste wird nicht geladen in [!DNL Safari] browser**
+**Benutzerliste wird nicht in [!DNL Safari]-Browser geladen**
 
 *Benutzer*
 
-Wenn ein Benutzer zum [!UICONTROL Benutzer] -Bereich, wird die Kopfzeile angezeigt, die Liste der Benutzer wird jedoch nicht geladen.
+Wenn ein(e) Benutzende(r) zum Bereich [!UICONTROL Benutzende] wechselt, wird die Kopfzeile angezeigt, die Benutzerliste wird aber nicht geladen.
 
-**Wenn Sie Aufgaben in eine Liste ziehen, wird die Aufgabe beim Ziehen an die falsche Position verschoben**
+**Verzögerung beim Verschieben von Aufgaben in einer Liste führt dazu, dass Aufgaben an einer falschen Position abgelegt werden**
 
 *Listen*
 
-Wenn ein Benutzer versucht, eine Aufgabe durch Ziehen in eine Liste zu verschieben, wird die blaue Linie, die angibt, wohin die Aufgabe verschoben wird, viel langsamer verschoben als der Cursor. Wenn der Benutzer die Aufgabe freigibt, wird er an die blaue Linie verschoben, auch wenn der Cursor auf eine andere Position in der Liste zeigt.
+Wenn ein(e) Benutzende(r) versucht, eine Aufgabe durch Ziehen in einer Liste zu verschieben, bewegt sich die blaue Linie, die angibt, wohin die Aufgabe verschoben wird, viel langsamer als der Cursor. Wenn der/die Benutzende die Aufgabe ablegt, wird sie an die Position der blauen Linie verschoben, auch wenn der Cursor auf eine andere Position in der Liste zeigt.
 
 +++
 
-+++**[!DNL Workfront Fusion]Wartungs-Update am 14. Januar 2022**
++++**[!DNL Workfront Fusion]Wartungs-Update vom 14. Januar 2022**
 
-**Einige zugeordnete Felder werden bei Auswahl zurückgesetzt [!UICONTROL Neues Feld zur Zuordnung]**
+**Einige zugeordnete Felder werden bei Auswahl eines [!UICONTROL neuen zuzuordnenden Felds zurückgesetzt]**
 
 *[!DNL Workfront Fusion]*
 
-Wenn mindestens ein Feld im [!DNL Workfront] [!UICONTROL Erstellen] oder [!UICONTROL Aktualisieren] -Module sind für die Zuordnung aktiviert und ein Benutzer wählt ein neues Feld aus, das zugeordnet werden soll. Die zuvor zugeordneten Felder, für die die Zuordnung aktiviert ist, verlieren die Zuordnungswerte.
+Wenn für mindestens ein Feld im Modul [!UICONTROL Erstellen] oder [!UICONTROL Aktualisieren] von [!DNL Workfront] die Zuordnung aktiviert ist und ein(e) Benutzende(r) ein neues Feld zum Zuordnen auswählt, verschwinden in den zuvor zugeordneten Feldern, für die die Zuordnung aktiviert ist, die Zuordnungswerte.
 
 +++
 
-+++**Wartungs-Update am 13. Januar 2022**
++++**Wartungs-Update vom 13. Januar 2022**
 
-**Es ist nicht möglich, einen Hyperlink zu einem Kommentar im Bereich &quot;Zusammenfassung&quot;hinzuzufügen**
+**Es ist nicht möglich, zu einem Kommentar im Bedienfeld „Zusammenfassung“ einen Hyperlink hinzuzufügen**
 
 *Aufgaben*
 
-Wenn ein Benutzer im Zusammenfassungsfenster einer Aufgabe einen Kommentar abgibt und versucht, dem Kommentar einen Hyperlink hinzuzufügen, wird das Hyperlink-Fenster geöffnet. Sobald der Benutzer jedoch in das Fenster klickt, wird es geschlossen und der Benutzer kann keinen Hyperlink hinzufügen. Wenn ein Benutzer mit der Tabulatortaste in das Fenster springt, kann er einen Link in das Feld eingeben oder einfügen, der Hyperlink wird jedoch nicht gespeichert. In beiden Fällen wird die Aufgabe deaktiviert.
+Wenn ein(e) Benutzende(r) im Zusammenfassungsfenster einer Aufgabe einen Kommentar abgibt und versucht, dem Kommentar einen Hyperlink hinzuzufügen, wird das Hyperlink-Fenster geöffnet. Doch wenn der/die Benutzende in das Fenster klickt, wird es geschlossen und er/sie kann keinen Hyperlink hinzufügen. Wenn ein(e) Benutzende(r) das Fenster auswählt, kann er/sie einen Link in das Feld eintippen oder einkopieren, doch der Hyperlink wird nicht gespeichert. In beiden Fällen wird die Aufgabe deaktiviert.
 
-**Seite &quot;Team bearbeiten&quot;wird nicht geschlossen**
+**Seite „Team bearbeiten“ wird nicht geschlossen**
 
 *Teams*
 
-Wenn ein Benutzer versucht, ein Team zu bearbeiten, wird die [!DNL Edit team] Seite wird nicht geschlossen. Der Benutzer kann die Seite nicht schließen, indem er auf eine der Schaltflächen klickt, auf das X klickt oder von der Seite weg navigiert.
+Wenn ein(e) Benutzende(r) versucht, ein Team zu bearbeiten, wird die Seite [!DNL Edit team] nicht geschlossen. Der/die Benutzende kann die Seite nicht schließen, indem er auf eine der Schaltflächen klickt, auf das X klickt oder die Seite verlässt.
 
 **E-Mail- und In-App-Benachrichtigungen werden nicht gesendet**
 
 *Benachrichtigungen*
 
-Wenn ein Ereignis auftritt, das eine Benachrichtigung Trigger, wird die Benachrichtigung nicht gesendet. Dies kann bei E-Mail- oder In-App-Benachrichtigungen auftreten, auch wenn andere Benachrichtigungen gesendet werden.
+Wenn ein Ereignis eintritt, das den Versand einer Benachrichtigung auslösen sollte, wird die Benachrichtigung nicht gesendet. Dies kann auch dann bei E-Mail- oder In-App-Benachrichtigungen auftreten, wenn andere Benachrichtigungen gesendet werden.
 
-**[!UICONTROL Meine Arbeit] Liste erscheint leer**
+**[!UICONTROL Liste „Meine Arbeit“] erscheint leer**
 
 *[!UICONTROL Meine Arbeit]*
 
-Wenn ein Benutzer seine [!UICONTROL Meine Arbeit] und die Layout-Vorlage für [!UICONTROL Meine Arbeit] enthält einen numerischen Wert, z. B. [!UICONTROL Prozent abgeschlossen], die [!UICONTROL Meine Arbeit] Liste wird nicht angezeigt.
+Wenn ein(e) Benutzende(r) seine/ihre Liste [!UICONTROL Meine Arbeit] aufruft und die Layout-Vorlage für die Liste [!UICONTROL Meine Arbeit] einen numerischen Wert enthält, z. B. [!UICONTROL Prozent abgeschlossen], wird die Liste [!UICONTROL Meine Arbeit] nicht angezeigt.
 
-**[!UICONTROL Prozent abgeschlossen] und [!UICONTROL Stunden abgeschlossen] kann nicht auf der Agile Board geändert werden**
+**[!UICONTROL Prozent abgeschlossen] und [!UICONTROL Stunden abgeschlossen] können im Agile-Board nicht geändert werden**
 
 *Agile*
 
-Wenn ein Benutzer &quot;[!UICONTROL Anzeigen weiterer Arbeitselemente]&quot; auf der Agile-Pinnwand, versucht dann, die [!UICONTROL Prozent abgeschlossen] oder [!UICONTROL Stunden abgeschlossen] für eines der neu geladenen Arbeitselemente, können sie die &quot;Percent Complete&quot;oder &quot;Hours Complete&quot;nicht ändern. Die [!UICONTROL Prozent abgeschlossen] -Schaltfläche ist auch grau und zeigt an, dass sie inaktiv ist.
+Wenn ein(e) Benutzende(r) auf einem Agile-Board „[!UICONTROL Weiterer Arbeitselemente anzeigen]“ auswählt und dann versucht, [!UICONTROL Prozent abgeschlossen] oder [!UICONTROL Stunden abgeschlossen] für eines der neu geladenen Arbeitselemente zu ändern, können diese Werte nicht geändert werden. Die Schaltfläche [!UICONTROL Prozent abgeschlossen] ist außerdem grau, was bedeutet, dass sie inaktiv ist.
 
 +++
 
-+++**Wartungs-Update am 6. Januar 2022**
++++**Wartungs-Update vom 6. Januar 2022**
 
-**&quot;[!UICONTROL Ungültiger Parameter]&quot;-Fehler beim Anhängen von Vorlagen oder benutzerdefinierten Formularen an Projekte**
+**Fehler „[!UICONTROL Ungültiger Parameter]“ beim Anhängen von Vorlagen oder benutzerdefinierten Formularen an Projekte**
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular oder eine Vorlage an ein vorhandenes Projekt anzuhängen, dann die erforderlichen Felder im benutzerdefinierten Formular oder in der benutzerdefinierten Vorlage ausfüllt und die Änderungen am Projekt speichert, werden die Änderungen nicht gespeichert und der Benutzer sieht ein &quot;[!UICONTROL Ungültiger Parameter]&quot; oben auf der Seite mit den Projektdetails angezeigt.
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular oder eine Vorlage an ein vorhandenes Projekt anzuhängen, dann die Pflichtfelder im benutzerdefinierten Formular oder in der benutzerdefinierten Vorlage ausfüllt und die Änderungen am Projekt speichert, werden die Änderungen nicht gespeichert und die Fehlermeldung „[!UICONTROL Ungültiger Parameter]“ wird oben auf der Projektdetailseite angezeigt.
 
-**Testkommentare werden in Dokumentaktualisierungen nicht angezeigt**
+**Kommentare zu Korrekturabzügen werden in Dokumentaktualisierungen nicht angezeigt**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer einen Testversand in der [!UICONTROL Dokumente] -Bereich, alle Kommentare zum Testversand selbst werden nicht im [!UICONTROL Updates] Bereich des Dokuments.
+Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug aufruft, werden im Bereich [!UICONTROL Aktualisierungen] des Dokuments keine Kommentare zum Korrekturabzug selbst angezeigt.
 
-**[!UICONTROL Workload Balancer]: &quot;[!UICONTROL ?[Objekt-Objekt]?]&quot; wird in Überzuordnungs-Informationen angezeigt**
+**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[Objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn ein Benutzer in der Variablen [!UICONTROL Lastenausgleich] aufgrund einer Aufgabe, die die Zeitüberschreitung des Benutzers überschneidet, und einem anderen Benutzer die Überzuweisung anzeigt,[!UICONTROL Kapazität]&quot; Der Bereich der Überzuordnungs-Informationen zeigt &quot;[!UICONTROL ?[Objekt-Objekt]?]&quot; anstelle der tatsächlichen Kapazität des Benutzers.
+Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[Objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
 
 +++
 
-## Vorherige Wartungsupdates
+## Frühere Wartungs-Updates
 
-Informationen zu vorherigen Wartungsupdates finden Sie hier:
+Informationen zu früheren Wartungs-Updates finden Sie hier:
 
-* [[!DNL Workfront] Archiv für Wartungsaktualisierungen - 2021](2021-updates.md)
+* [Archiv mit Wartungs-Updates für [!DNL Workfront] – 2021](2021-updates.md)

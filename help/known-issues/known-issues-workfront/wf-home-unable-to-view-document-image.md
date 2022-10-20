@@ -1,25 +1,25 @@
 ---
-title: '"Home": Das Dokumentbild kann nicht in der Arbeitsliste angezeigt werden."'
-description: Wenn ein Benutzer auf eine DOCX-Miniaturansicht klickt, um eine Vorschau des Dokuments anzuzeigen, wird ein Videoplayer geöffnet, der das Dokument nicht anzeigen kann.
+title: '„Startseite: Das Dokumentbild wird nicht in der Arbeitsliste angezeigt.“'
+description: Wenn ein(e) Benutzende(r) auf eine DOCX-Miniaturansicht klickt, um eine Vorschau eines Dokuments anzuzeigen, wird ein Videoplayer geöffnet, und das Dokument wird nicht angezeigt.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Startseite]: Das Dokumentbild kann nicht im [!UICONTROL Arbeitsliste]
+# [!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste] angezeigt
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung. Wenn dieses Problem behoben ist, wird es in den Produktankündigungen und nicht mit den Wartungsupdates kommuniziert.
+>Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
 
-Wenn ein Benutzer auf eine [!UICONTROL .docx] Miniaturansicht, um eine Vorschau des Dokuments anzuzeigen, öffnet sich ein Videoplayer und er kann das Dokument nicht sehen.
+Wenn ein(e) Benutzende(r) auf eine [!UICONTROL DOCX]-Miniaturansicht klickt, um eine Vorschau eines Dokuments anzuzeigen, wird ein Videoplayer geöffnet, und das Dokument wird nicht angezeigt.
 
 **Problemumgehung**
 
-Klicken Sie auf den Link Dokumentname , um direkt zum [!UICONTROL Dokumentdetails] Seite, auf der Sie eine Vorschau des Dokuments anzeigen können.
+Klicken Sie auf den Link des Dokumentnamens, um die Seite [!UICONTROL Dokumentdetails] direkt aufzurufen, wo Sie eine Vorschau des Dokuments anzeigen können.
 
 _Erste Meldung am 26. Oktober 2020._

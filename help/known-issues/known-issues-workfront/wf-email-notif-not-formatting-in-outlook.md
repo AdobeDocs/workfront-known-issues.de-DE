@@ -1,22 +1,22 @@
 ---
-title: '"E-Mail-Benachrichtigungen: E-Mails werden in Outlook nicht korrekt formatiert.'
-description: Wenn die E-Mail-Adresse eines Benutzers mit einer Outlook-E-Mail-Adresse so eingestellt ist, dass ein automatisches Herunterladen eines Bildes nicht möglich ist, und er eine E-Mail-Benachrichtigung von erhält [!DNL Workfront], wird das Profilbild des Benutzers in der Benachrichtigung nicht ordnungsgemäß angezeigt, wobei der Name des Bildes manchmal vertikal dargestellt wird. Durch das manuelle Herunterladen dieser Bilder wird das Formatierungsproblem nicht behoben.
+title: '„E-Mail-Benachrichtigungen: E-Mails werden in Outlook nicht korrekt formatiert.“'
+description: Wenn die Outlook-E-Mail-Adresse eines/r Benutzenden so eingestellt ist, dass ein automatisches Herunterladen eines Bildes nicht möglich ist, und er/sie eine E-Mail-Benachrichtigung von  [!DNL Workfront] erhält, wird das Profilbild des/r Benutzenden in der Benachrichtigung nicht ordnungsgemäß angezeigt, wobei der Name des Bildes manchmal vertikal dargestellt wird. Durch das manuelle Herunterladen dieser Bilder wird das Formatierungsproblem nicht behoben.
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook]
+# E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook] nicht korrekt formatiert
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung, die möglicherweise Produktverbesserungen erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungsupdates kommuniziert.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Wenn ein Benutzer mit einer [!DNL Outlook] Die E-Mail-Adresse ist so eingestellt, dass ein automatisches Herunterladen eines Bildes nicht zulässig ist und dass sie eine E-Mail-Benachrichtigung von erhält [!DNL Workfront], wird das Profilbild des Benutzers in der Benachrichtigung nicht ordnungsgemäß angezeigt, wobei der Name des Bildes manchmal vertikal dargestellt wird. Durch das manuelle Herunterladen dieser Bilder wird das Formatierungsproblem nicht behoben.
+Wenn die [!DNL Outlook]-E-Mail-Adresse eines/r Benutzenden so eingestellt ist, dass ein automatisches Herunterladen eines Bildes nicht möglich ist, und er/sie eine E-Mail-Benachrichtigung von [!DNL Workfront] erhält, wird das Profilbild des/r Benutzenden in der Benachrichtigung nicht ordnungsgemäß angezeigt, wobei der Name des Bildes manchmal vertikal dargestellt wird. Durch das manuelle Herunterladen dieser Bilder wird das Formatierungsproblem nicht behoben.
 
 
 _Erste Meldung am 13. November 2020._

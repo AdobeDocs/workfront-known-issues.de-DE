@@ -1,21 +1,21 @@
 ---
-title: "Testsendungen: Kommentare, die im Testversand-Viewer erstellt wurden, sind nicht in Echtzeit sichtbar."
-description: Wenn ein Benutzer einen Testversand in [!DNL Proof Viewer]und ein anderer Benutzer einen Kommentar abgibt, wird der Kommentar nicht sofort für den angesehenen Benutzer angezeigt.
+title: '„Korrekturabzüge: Kommentare, die in der Korrekturabzugsansicht eingegeben werden, sind nicht in Echtzeit sichtbar“'
+description: Wenn ein(e) Benutzende(r) einen Korrekturabzug im  [!DNL Proof Viewer] öffnet und ein(e) andere(r) Benutzende(r) einen Kommentar eingibt, wird der Kommentar nicht sofort dem/der Betrachtende(n) angezeigt.
 exl-id: 3ad46ebb-cc2f-490e-b30c-611cb205b7d4
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Testsendungen: Bemerkungen in [!UICONTROL Proof Viewer] nicht in Echtzeit sichtbar
+# Korrekturabzüge: Kommentare, die in der [!UICONTROL Korrekturabzugsansicht] eingegeben werden, sind nicht in Echtzeit sichtbar
 
 >[!NOTE]
 >
 >Dieses Problem wurde mit Version 22.3 behoben.
 
-Wenn ein Benutzer einen Testversand in [!UICONTROL Proof Viewer]und ein anderer Benutzer einen Kommentar abgibt, wird der Kommentar nicht sofort für den angesehenen Benutzer angezeigt. Der Benutzer, der die Anzeige anzeigt, muss die [!UICONTROL Proof Viewer] manuell, um den Kommentar anzuzeigen.
+Wenn ein(e) Benutzende(r) einen Korrekturabzug in der [!UICONTROL Korrekturabzugsansicht] öffnet und ein(e) andere(r) Benutzende(r) einen Kommentar eingibt, wird der Kommentar nicht sofort dem/der Betrachtende(n) angezeigt. Der/die Betrachtende muss die [!UICONTROL Korrekturabzugsansicht] manuell aktualisieren, um den Kommentar sehen zu können.
 
 Erste Meldung am 3. Dezember 2021.

@@ -1,24 +1,24 @@
 ---
-title: "Timesheets: Jemand anders hat versucht, diesen Projektfehler beim Eingeben der Stunden zu speichern."
-description: "Wenn ein Benutzer versucht, Stunden für eine Aufgabe auf seinem Zeitblatt zu protokollieren, werden die Stunden nicht automatisch gespeichert und der Benutzer sieht einen Fehler."
+title: '„Arbeitszeittabellen: Beim Eingeben von Stunden erscheint der Fehler ‚Jemand anders hat versucht, dieses Projekt zu speichern‘“'
+description: „Wenn ein(e) Benutzende(r) versucht, einer Aufgabe auf seiner/ihrer Arbeitszeittabelle Stunden hinzuzufügen, werden die Stunden nicht automatisch gespeichert und eine Fehlermeldung erscheint.“
 hidefromtoc: true
 source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 
-# Timesheets: &quot;[!UICONTROL Jemand anders hat versucht, dieses Projekt zu speichern]&quot;-Fehler bei Eingabe der Stunden
+# Arbeitszeittabellen: Beim Eingeben von Stunden erscheint der Fehler „[!UICONTROL Jemand anders hat versucht, dieses Projekt zu speichern]“
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 15. September 2022 behoben.
 
-Wenn ein Benutzer versucht, sich zu melden [!UICONTROL Stunden] zu einer Aufgabe auf ihrem Zeitblatt hinzufügen, werden die Stunden nicht automatisch gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, einer Aufgabe auf seiner/ihrer Arbeitszeittabelle [!UICONTROL Stunden] hinzuzufügen, werden die Stunden nicht automatisch gespeichert und die folgende Fehlermeldung erscheint:
 
-&quot;[!UICONTROL Hinweis: Das Speichern ist fehlgeschlagen, da ein anderer Benutzer gleichzeitig versucht hat, dieses Projekt zu speichern. Versuchen Sie erneut, das Projekt zu speichern.]&quot;
+„[!UICONTROL Hinweis: Das Speichern ist fehlgeschlagen, da ein anderer Benutzer gleichzeitig versucht hat, dieses Projekt zu speichern. Versuchen Sie erneut, das Projekt zu speichern.]“
 
 _Erste Meldung am 8. August 2022._
 

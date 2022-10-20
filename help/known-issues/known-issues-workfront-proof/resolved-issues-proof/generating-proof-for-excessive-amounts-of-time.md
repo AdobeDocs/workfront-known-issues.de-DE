@@ -1,25 +1,25 @@
 ---
-title: Die Testsendungen werden als "Testversand erzeugen"für übermäßige Zeiträume angezeigt.
-description: Wenn ein Benutzer einen Testversand generiert, wird der Testversand als "Testversand generieren"angezeigt. Dies kann mehrere Stunden dauern. Wenn der Benutzer versucht, den Testversand zu öffnen, während die Meldung "Testversand erzeugen"angezeigt wird, kann er den Testversand nicht öffnen. Der Testversand wurde erstellt, kann jedoch nicht aufgerufen werden.
+title: In den Korrekturabzügen wird „Korrekturabzug wird erstellt“ zu lange angezeigt
+description: Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt, wird „Korrekturabzug wird erstellt“ angezeigt. Diese Meldung kann mehrere Stunden zu sehen sein. Wenn der/die Benutzende versucht, den Korrekturabzug zu öffnen, während die Meldung „Korrekturabzug wird erstellt“ noch zu sehen ist, lässt sich der Korrekturabzug nicht öffnen. Der Korrekturabzug wurde zwar erstellt, kann aber nicht aufgerufen werden.
 keywords: neue Datei, Datei hinzufügen
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Testsendungen: Testsendungen werden als[!UICONTROL Testversand erzeugen]&quot; für übermäßige Zeitbeträge
+# Korrekturabzüge: In den Korrekturabzügen wird [!UICONTROL Korrekturabzug wird erstellt] zu lange angezeigt
 
 >[!NOTE]
 >
->* Dieses Problem wurde behoben, da es kein Problem darstellt.
+>* Dieses Problem wurde geschlossen, da es sich hierbei um kein Problem handelt.
 >
 >* Dieses Problem tritt nur in der Vorschau-Sandbox-Umgebung auf.
 
 
-Wenn ein Benutzer einen Testversand generiert, wird der Testversand als[!UICONTROL Testversand erzeugen].&quot; Dies kann mehrere Stunden dauern. Wenn der Benutzer versucht, den Testversand zu öffnen, während[!UICONTROL Testversand erzeugen]&quot; weiterhin angezeigt wird, kann der Benutzer den Testversand nicht öffnen. Der Testversand wurde erstellt, kann jedoch nicht aufgerufen werden.
+Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt, wird „[!UICONTROL Korrekturabzug wird erstellt]“ angezeigt. Diese Meldung kann mehrere Stunden zu sehen sein. Wenn der/die Benutzende versucht, den Korrekturabzug zu öffnen, während die Meldung „[!UICONTROL Korrekturabzug wird erstellt]“ noch zu sehen ist, lässt sich der Korrekturabzug nicht öffnen. Der Korrekturabzug wurde zwar erstellt, kann aber nicht aufgerufen werden.
 
 *Erste Meldung am 10. Mai 2022.*

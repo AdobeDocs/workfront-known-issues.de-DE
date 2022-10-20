@@ -1,18 +1,18 @@
 ---
 user-guide-title: Wartungsversionen
-user-guide-description: Maintenance Releases für [!DNL Adobe Workfront]
+user-guide-description: Wartungsversionen für  [!DNL Adobe Workfront]
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 
-# Maintenance Release {#releases}
+# Wartungsversion {#releases}
 
 + [Aktuelle Updates](current-updates.md)
-+ [Aktualisierungen 2021](2021-updates.md)
++ [Updates 2021](2021-updates.md)
 
 <!--
 

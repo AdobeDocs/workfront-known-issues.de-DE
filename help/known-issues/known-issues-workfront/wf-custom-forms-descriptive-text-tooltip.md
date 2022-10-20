@@ -1,22 +1,22 @@
 ---
-title: "Benutzerdefinierte Formulare: Beschreibende Textfelder zeigen QuickInfo an."
-description: "Wenn ein Benutzer ein benutzerdefiniertes Formular anzeigt, das beschreibende Textfelder enthält, wird in den beschreibenden Textfeldern eine QuickInfo angezeigt. Wenn der Benutzer den Mauszeiger über die QuickInfo bewegt, zeigt die QuickInfo denselben Text wie das beschreibende Textfeld an."
+title: '„Benutzerdefinierte Formulare: In beschreibenden Textfeldern wird eine QuickInfo angezeigt“'
+description: „Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular aufruft, das beschreibende Textfelder enthält, wird in den beschreibenden Textfeldern eine QuickInfo angezeigt. Wenn der/die Benutzende den Mauszeiger über die QuickInfo bewegt, wird in der QuickInfo derselbe Text wie im beschreibenden Textfeld angezeigt.“
 hidefromtoc: true
 source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Benutzerdefinierte Formulare: Anzeige von QuickInfos in beschreibenden Textfeldern
+# Benutzerdefinierte Formulare: In beschreibenden Textfeldern wird eine QuickInfo angezeigt
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 13. September 2022 behoben.
 
-Wenn ein Benutzer ein benutzerdefiniertes Formular anzeigt, das beschreibende Textfelder enthält, wird in den beschreibenden Textfeldern eine QuickInfo angezeigt. Wenn der Benutzer den Mauszeiger über die QuickInfo bewegt, zeigt die QuickInfo denselben Text wie das beschreibende Textfeld an.
+Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular aufruft, das beschreibende Textfelder enthält, wird in den beschreibenden Textfeldern eine QuickInfo angezeigt. Wenn der/die Benutzende den Mauszeiger über die QuickInfo bewegt, wird in der QuickInfo derselbe Text wie im beschreibenden Textfeld angezeigt.
 
 _Erste Meldung am 17. August 2022._
 

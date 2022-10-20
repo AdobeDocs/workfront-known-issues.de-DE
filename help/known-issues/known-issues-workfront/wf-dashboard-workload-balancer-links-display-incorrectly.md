@@ -1,21 +1,21 @@
 ---
-title: '"Dashboards: Links zum Arbeitslastausgleich werden in Dashboards falsch angezeigt'
-description: Die Links für den Lastenausgleich für die gemeinsame Nutzung werden beim Hinzufügen zu einem Dashboard als externe Seite falsch angezeigt. Anstatt die eindeutige Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die neueste Ansicht/Filter, die auf den Lastenausgleich angewendet wurden.
+title: '„Dashboards: Workload Balancer-Links werden in Dashboards falsch angezeigt“'
+description: Workload Balancer-Links zur gemeinsamen Nutzung werden falsch angezeigt, wenn sie als externe Seite zu einem Dashboard hinzugefügt werden. Anstatt die Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die jüngste Ansicht/die jüngsten Filter, die auf den Work Balancer angewendet wurden.
 hidefromtoc: true
 exl-id: e15f4bdc-0f5f-4bf5-9700-1cdaaabf951f
 source-git-commit: 9cf8430f9e5075f196b2feaa5ad4d5d618f25936
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Dashboards: Links zum Arbeitslastausgleich werden in Dashboards falsch angezeigt
+# Dashboards: Workload Balancer-Links werden in Dashboards falsch angezeigt
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 25. August 2022 behoben.
 
-Die Links für den Lastenausgleich für die gemeinsame Nutzung werden beim Hinzufügen zu einem Dashboard als externe Seite falsch angezeigt. Anstatt die eindeutige(n) Ansicht(en)/Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die zuletzt angewendete Ansicht(en) für den Arbeitslastausgleich.
+Workload Balancer-Links zur gemeinsamen Nutzung werden falsch angezeigt, wenn sie als externe Seite zu einem Dashboard hinzugefügt werden. Anstatt die Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die jüngste Ansicht/die jüngsten Filter, die auf den Work Balancer angewendet wurden.
 
 _Erste Meldung am 10. August 2022._

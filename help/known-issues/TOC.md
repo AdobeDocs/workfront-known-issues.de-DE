@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug{#proof-resolved}
       + [[!DNL Workfront Proof]: Manche Bereiche von  [!DNL Workfront Proof]  werden nicht aktualisiert, wenn ein Korrekturabzug erstellt, verschoben oder archiviert wird](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Korrekturabzüge: In den Korrekturabzügen wird [!UICONTROL Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [Benutzende(r) kann sich nicht selbst in einen anderen Korrekturabzugsschritt verschieben](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]: 502-Fehler, wenn das Szenario ein Modul beinhaltet, das Korrekturabzugsentscheidungen in Workfront prüft](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Gelöste Probleme in [!DNL Workfront Fusion] {#fusion-resolved}
-      + [401-Fehler bei  [!DNL Workfront] -Modulen](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [Daten von benutzerdefinierten Formularen sind nicht in  [!DNL Workfront Fusion] [!DNL Workfront]-Modulen verfügbar](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}

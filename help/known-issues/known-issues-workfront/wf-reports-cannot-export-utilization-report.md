@@ -1,21 +1,21 @@
 ---
-title: '"Berichte: Bericht zur Exportauslastung kann nicht exportiert werden.'
-description: Wenn ein Benutzer versucht, einen Nutzungsbericht zu exportieren, wird er auf eine leere Seite geleitet und der Bericht exportiert diesen Bericht nie, wenn er versucht, den Bericht aus der [!UICONTROL resources] und beim Export in Projekte.
+title: '„Berichte: Bericht zur Auslastung kann nicht exportiert werden.“'
+description: Wenn ein(e) Benutzende(r) versucht, einen Auslastungsbericht zu exportieren, wird er/sie auf eine leere Seite geleitet und der Bericht wird nicht exportiert. Dies wurde gemeldet, wenn versucht wurde, den Bericht über die Seite [!UICONTROL Ressourcen] und innerhalb von Projekten zu exportieren.
 hidefromtoc: true
 exl-id: 303c54fb-7305-4c89-9dd3-d49e30101ee5
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Berichte: Bericht zur Exportauslastung nicht exportieren
+# Berichte: Auslastungsbericht kann nicht exportiert werden
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 4. August 2022 behoben.
 
-Wenn ein Benutzer versucht, einen Nutzungsbericht zu exportieren, wird er auf eine leere Seite geleitet und der Bericht wird nie exportiert. Dies wurde beim Versuch berichtet, den Bericht aus der [!UICONTROL Ressourcen] und beim Export in Projekte.
+Wenn ein(e) Benutzende(r) versucht, einen Auslastungsbericht zu exportieren, wird er/sie auf eine leere Seite geleitet und der Bericht wird nicht exportiert. Dies wurde gemeldet, wenn versucht wurde, den Bericht über die Seite [!UICONTROL Ressourcen] und innerhalb von Projekten zu exportieren.
 
 _Erste Meldung am 26. Juli 2022._

@@ -1,21 +1,21 @@
 ---
-title: "Agile: Probleme beim Verschieben von Karten auf der Agile-Pinnwand"
-description: Beim Verschieben von Karten auf der Agile-Pinnwand wurden verschiedene Probleme gemeldet.
+title: '„Agile: Probleme beim Verschieben von Karten auf dem Agile-Board“'
+description: Beim Verschieben von Karten auf dem Agile-Board wurden verschiedene Probleme gemeldet.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Agile: Probleme beim Verschieben von Karten auf der Agile-Pinnwand
+# Agile: Probleme beim Verschieben von Karten auf dem Agile-Board
 
-Beim Verschieben von Karten auf der Agile-Pinnwand wurden die folgenden Probleme gemeldet:
+Beim Verschieben von Karten auf dem Agile-Board wurden die folgenden Probleme gemeldet:
 
-* Ziehen einer Animation verzögert
-* Karte wird vor dem Verschieben wieder in die ursprüngliche Spalte einrastet
+* Die Animation beim Ziehen ist verzögert
+* Karte rastet wieder in der ursprünglichen Spalte ein, bevor sie verschoben wird
 * Die Karte wird an eine unvorhersehbare Position in der neuen Spalte verschoben
 
-_Erster Bericht am 1. Juni 2022._
+_Erste Meldung am 1. Juni 2022._

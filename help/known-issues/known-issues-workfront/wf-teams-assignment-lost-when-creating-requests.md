@@ -1,26 +1,26 @@
 ---
-title: "Anforderungen: Teamzuweisung beim Erstellen einer Anforderung wird nicht in der neuen Anforderung angezeigt."
-description: "Wenn ein Benutzer eine Anforderung erstellt und der Anforderung ein Team zuweist und dann die Anforderung sendet, wird das Team der erstellten Anforderung nicht zugewiesen. Dies wirkt sich nur auf die Teamzuweisung aus. Benutzerzuweisungen funktionieren erwartungsgemäß."
+title: '„Anfragen: Team-Arbeitsauftrag erscheint beim Erstellen einer Anfrage nicht in der neuen Anfrage.“'
+description: „Wenn ein(e) Benutzende(r) eine Anfrage erstellt und ihr ein Team zuweist und dann die Anfrage absendet, wird das Team der erstellten Anfrage nicht zugewiesen. Dies betrifft nur Arbeitsaufträge an Teams. Arbeitsaufträge an Benutzende funktionieren erwartungsgemäß.“
 hidefromtoc: true
 source-git-commit: 354016dba85b7cf8dfb908f87bb4fabedee3e4c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Anforderungen: Teamzuweisung beim Erstellen einer Anforderung wird nicht in der neuen Anforderung angezeigt
+# Anfragen: Team-Arbeitsauftrag erscheint beim Erstellen einer Anfrage nicht in der neuen Anfrage.
 
 >[!NOTE]
 >
 > Dieses Problem wurde am 11. August 2022 behoben.
 
-Wenn ein Benutzer eine Anforderung erstellt und der Anforderung ein Team zuweist und dann die Anforderung sendet, wird das Team der erstellten Anforderung nicht zugewiesen. Dies wirkt sich nur auf die Teamzuweisung aus. Benutzerzuweisungen funktionieren erwartungsgemäß.
+Wenn ein(e) Benutzende(r) eine Anfrage erstellt und ihr ein Team zuweist und dann die Anfrage absendet, wird das Team der erstellten Anfrage nicht zugewiesen. Dies betrifft nur Arbeitsaufträge an Teams. Arbeitsaufträge an Benutzende funktionieren erwartungsgemäß.
 
 **Problemumgehung**
 
-Erstellen Sie die Anforderung, gehen Sie zur Anforderung und weisen Sie das Team zu.
+Erstellen Sie eine Anfrage, öffnen Sie dann die Anfrage und weisen Sie von dort ein Team zu.
 
 _Erste Meldung am 29. Juli 2022._
 

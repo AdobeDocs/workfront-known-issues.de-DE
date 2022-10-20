@@ -1,26 +1,26 @@
 ---
-title: "Kalender: Probleme mit der Zeitüberschreitung im Kalender"
-description: Es wurden Probleme im Zusammenhang mit dem Kalender für die Zeitüberschreitung gemeldet.
+title: '„Kalender: Probleme mit dem Urlaubskalender“'
+description: Es wurden Probleme mit dem Urlaubskalender gemeldet.
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Kalender: Probleme mit dem Ausschaltzeitkalender
+# Kalender: Probleme mit dem Urlaubskalender
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung, die möglicherweise Produktverbesserungen erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungsupdates kommuniziert.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Die folgenden Probleme werden in Bezug auf die [!UICONTROL Zeitlimit] calendar:
+Die folgenden Probleme werden mit dem [!UICONTROL Urlaubskalender] gemeldet:
 
-* Der Kalender zeigt ungenaue Datumsangaben für die Zeitdauer des Benutzers an. Der Kalender kann zu viele oder zu wenige Tage freistellen.
-* Der Kalender zeigt Tage frei als[!UICONTROL Teilweise]&quot;, auch wenn der Benutzer den vollständigen Tag freigegeben hat.
+* Der Kalender zeigt falsche Datumsangaben für die Urlaubszeiten der Benutzenden an. Der Kalender kann zu viele oder zu wenige Urlaubstage anzeigen.
+* Der Kalender zeigt Urlaubstage als [!UICONTROL teilweise] frei an, obwohl sich der/die Benutzende den ganzen Tag frei genommen hat.
 
-Der Benutzer ist selbst [!UICONTROL Zeitlimit] -Seite korrekt ist. Die Änderung der Wartezeit korrigiert den Kalender nicht.
+Die eigene [!UICONTROL Urlaubsseite] des/der Benutzenden ist korrekt. Durch die Bearbeitung der Urlaubszeiten wird der Kalender nicht korrigiert.
 
-_Erster Bericht am 11. Juni 2021._
+_Erste Meldung am 11. Juni 2021._

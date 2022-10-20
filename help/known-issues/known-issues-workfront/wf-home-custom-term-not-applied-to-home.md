@@ -1,24 +1,24 @@
 ---
-title: '"Home": Benutzerdefinierte Terminologie wird nicht auf den Bereich "Home"angewendet.'
-description: Im Bereich "Startseite"werden die Standardnamen für Objekte anstelle der von der Organisation festgelegten Terminologie angezeigt. Dies wurde in verschiedenen Bereichen gemeldet.
+title: '„Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet“'
+description: Im Bereich „Startseite“ werden die Standardnamen für Objekte anstelle der von der Organisation festgelegten Terminologie angezeigt. Dies wurde in verschiedenen Bereichen gemeldet.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Startbereich angewendet
+# [!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung, die möglicherweise Produktverbesserungen erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungsupdates kommuniziert.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Die [!UICONTROL Startseite] -Bereich zeigt Standardnamen für Objekte an, anstatt der von der Organisation festgelegten Terminologie. Dies wurde in den folgenden Bereichen gemeldet:
+Im Bereich [!UICONTROL Startseite] werden die Standardnamen für Objekte anstelle der von der Organisation festgelegten Terminologie angezeigt. Dies wurde in den folgenden Bereichen gemeldet:
 
-* Die [!UICONTROL Arbeitsliste] filter
-* Die &quot;[!UICONTROL Starten] (Objekt)&quot;-Schaltfläche im [!UICONTROL Arbeitsliste]
+* Im Filter [!UICONTROL Arbeitsliste]
+* Bei der Schaltfläche „[!UICONTROL Starten] (Objekt)“ in der [!UICONTROL Arbeitsliste]
 
 _Erste Meldung am 8. April 2022._

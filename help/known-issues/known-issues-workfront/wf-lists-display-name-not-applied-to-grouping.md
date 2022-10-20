@@ -1,21 +1,21 @@
 ---
-title: '"Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierungen angewendet.'
-description: Wenn ein Benutzer eine Liste anhand eines benutzerdefinierten Felds gruppiert und den Anzeigenamen im Textmodus ändert, wird stattdessen der ursprüngliche Name des Felds angezeigt.
+title: '„Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet“'
+description: Wenn ein(e) Benutzende(r) eine Liste anhand eines benutzerdefinierten Felds gruppiert und den Anzeigenamen im Textmodus ändert, wird stattdessen der ursprüngliche Name des Felds angezeigt.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierungen angewendet
+# Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung. Wenn dieses Problem behoben ist, wird es in den Produktankündigungen und nicht mit den Wartungsupdates kommuniziert.
+>Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
 
-Wenn ein Benutzer eine Liste anhand eines benutzerdefinierten Felds gruppiert und den Anzeigenamen in [!UICONTROL Textmodus], wird stattdessen der ursprüngliche Name des Felds angezeigt.
+Wenn ein(e) Benutzende(r) eine Liste anhand eines benutzerdefinierten Felds gruppiert und den Anzeigenamen im [!UICONTROL Textmodus] ändert, wird stattdessen der ursprüngliche Name des Felds angezeigt.
 
 _Erste Meldung am 13. August 2020._

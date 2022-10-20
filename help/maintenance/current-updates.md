@@ -2,7 +2,7 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '14458'
 ht-degree: 94%
@@ -41,7 +41,7 @@ Wenn ein Benutzer Aufgaben oder Probleme bei der Massenbearbeitung hat und ein T
 
 &quot;[!UICONTROL Versuchen wir es erneut - der folgende Fehler ist aufgetreten: teamAssignments muss entweder eine Liste von Objekten oder eine Liste von IDs sein]&quot;
 
-**[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error**
+**&quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error**
 
 *Dokumente*
 

@@ -1,21 +1,21 @@
 ---
-title: "E-Mail-Benachrichtigungen: Ich bin einer Fehlereinstellung zugewiesen, die angezeigt wird."
-description: Im [!UICONTROL Einrichtung] angezeigt, wird die Einstellung "Ich bin einem Problem zugewiesen"für E-Mail-Benachrichtigungen für Benutzer mit Review- und Anforderungslizenzen angezeigt. Diese Einstellung ist für diese Lizenztypen nicht verfügbar und durch Aktivierung dieser Einstellung werden keine E-Mail-Benachrichtigungen für dieses Ereignis Trigger.
+title: '„E-Mail-Benachrichtigungen: Die Einstellung ‚Ich bin einem Problem zugewiesen‘ wird angezeigt“'
+description: Im Bereich [!UICONTROL Setup] wird für Benutzende mit Prüfungs- und Anfragelizenzen die E-Mail-Benachrichtigungseinstellung „Ich bin einem Problem zugewiesen“ angezeigt. Diese Einstellung ist für diese Lizenztypen nicht verfügbar und durch Aktivierung dieser Einstellung werden keine E-Mail-Benachrichtigungen für dieses Ereignis ausgelöst.
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# E-Mail-Benachrichtigungen: &quot;[!UICONTROL Ich habe ein Problem.]&quot; wird angezeigt
+# E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung, die möglicherweise Produktverbesserungen erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungsupdates kommuniziert.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Im [!UICONTROL Einrichtung] -Bereich, [!UICONTROL E-Mail-Benachrichtigungen] Einstellung &quot;[!UICONTROL Ich habe ein Problem.]&quot; wird für Benutzer mit Review- und Anforderungslizenzen angezeigt. Diese Einstellung ist für diese Lizenztypen nicht verfügbar und durch Aktivierung dieser Einstellung werden keine E-Mail-Benachrichtigungen für dieses Ereignis Trigger.
+Im Bereich [!UICONTROL Setup] wird für Benutzende mit Prüfungs- und Anfragelizenzen die [!UICONTROL E-Mail-Benachrichtigungseinstellung] „[!UICONTROL Ich bin einem Problem zugewiesen]“ angezeigt. Diese Einstellung ist für diese Lizenztypen nicht verfügbar und durch Aktivierung dieser Einstellung werden keine E-Mail-Benachrichtigungen für dieses Ereignis ausgelöst.
 
 _Erste Meldung am 15. April 2021._

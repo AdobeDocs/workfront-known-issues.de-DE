@@ -1,12 +1,12 @@
 ---
-title: "Kalender: Aufgaben werden nicht angezeigt"
-description: Wenn ein Benutzer über einen Listenbericht und einen Kalenderbericht mit denselben Filtern verfügt, werden einige Aufgaben im Listenbericht angezeigt, jedoch nicht im Kalenderbericht.
+title: '„Kalender: Aufgaben werden nicht angezeigt“'
+description: Wenn ein(e) Benutzende(r) einen Listenbericht und einen Kalenderbericht mit denselben Filtern hat, kann er/sie feststellen, dass einige Aufgaben im Listenbericht, aber nicht im Kalenderbericht angezeigt werden.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Das Produktteam bewertet derzeit diese Problemlösung. Wenn dieses Problem behoben ist, wird es in den Produktankündigungen und nicht mit den Wartungsupdates kommuniziert.
+>Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
 
-Wenn ein Benutzer über einen Listenbericht und einen Kalenderbericht mit denselben Filtern verfügt, werden einige Aufgaben im Listenbericht angezeigt, jedoch nicht im Kalenderbericht.
+Wenn ein(e) Benutzende(r) einen Listenbericht und einen Kalenderbericht mit denselben Filtern hat, kann er/sie feststellen, dass einige Aufgaben im Listenbericht, aber nicht im Kalenderbericht angezeigt werden.
 
 _Erste Meldung am 31. Oktober 2019._

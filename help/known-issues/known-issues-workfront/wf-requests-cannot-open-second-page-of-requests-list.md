@@ -1,22 +1,22 @@
 ---
-title: "Anforderungen: Seiten mit Anforderungsliste können nicht über die erste Seite hinaus geöffnet werden."
-description: '""Wenn ein Benutzer eine Anforderungsliste mit mehr als 2000 Anforderungen (und damit mehr als einer Seite) anzeigt und versucht, eine andere Seite der Liste anzuzeigen, wird die [!UICONTROL Seite X] nicht reagiert und der Benutzer keine zusätzlichen Seiten der Liste anzeigen kann."'
+title: '„Anfragen: Seiten der Anfrageliste können nicht über die erste Seite hinaus geöffnet werden“'
+description: „Wenn ein(e) Benutzende(r) eine Anfrageliste mit mehr als 2.000 Anfragen (und damit mehr als einer Seite) anzeigt und versucht, eine andere Seite der Liste zu öffnen, reagiert die Schaltfläche [!UICONTROL Seite X] nicht und der Benutzer kann keine zusätzlichen Seiten der Liste anzeigen.“
 hidefromtoc: true
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Anforderungen: Seiten der Anforderungsliste können nicht über die erste Seite hinaus geöffnet werden
+# Anfragen: Seiten der Anfragenliste können nicht über die erste Seite hinaus geöffnet werden
 
 >[!NOTE]
 >
-> Dieses Problem wurde behoben, da es wie vorgesehen funktioniert.
+> Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
-Wenn ein Benutzer eine Anforderungsliste mit mehr als 2000 Anforderungen (und damit mehr als einer Seite) anzeigt und versucht, eine andere Seite der Liste anzuzeigen, wird der[!UICONTROL Seite]&quot;-Schaltfläche reagiert nicht und der Benutzer kann keine zusätzlichen Seiten der Liste anzeigen.
+Wenn ein(e) Benutzende(r) eine Anfrageliste mit mehr als 2.000 Anfragen (und damit mehr als einer Seite) anzeigt und versucht, eine andere Seite der Liste zu öffnen, reagiert die Schaltfläche [!UICONTROL Seite] nicht und der Benutzer kann keine zusätzlichen Seiten der Liste anzeigen.
 
 _Erste Meldung am 28. Juli 2022._
 

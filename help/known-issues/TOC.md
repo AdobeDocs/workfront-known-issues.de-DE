@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzerdefinierte Formulare: [!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Agile: Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Berichte: Berichtverwendungsinformationen werden nicht aktualisiert](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigation: Objekte können nicht fixiert werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md)

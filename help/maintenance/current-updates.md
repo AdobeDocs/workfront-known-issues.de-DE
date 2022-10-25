@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
-ht-degree: 94%
+source-wordcount: '14607'
+ht-degree: 93%
 
 ---
 
@@ -30,6 +30,28 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Oktober 2022
+
++++**(Geplant) Aktualisierung der Wartung am 27. Oktober 2022**
+
+**[!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC**
+
+*Benutzerdefinierte Formulare in meiner Gruppe*
+
+Wenn ein berechnetes Feld [!UICONTROL STUNDE] -Funktion gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem HOUR-Wert basieren, falsch.
+
+**[!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus**
+
+*Listen*
+
+Wenn ein Benutzer versucht, die [!UICONTROL Schnellfilter] in einer Liste, um nach einem Team zu suchen, gibt die Eingabe des Teamnamens keine Ergebnisse zurück, selbst wenn das Team in der Liste sichtbar ist (z. B. in der [!UICONTROL Zugeordnet zu] -Feld). Suchen nach dem Wort &quot;[!UICONTROL Team]&quot; gibt auch keine Ergebnisse zurück.
+
+**Alle in [!UICONTROL Lastenausgleich] bei Verwendung eines freigebbaren Links in [!DNL Safari] browser**
+
+*[!UICONTROL Workload Balancer]*
+
+Wenn ein Benutzer auf einen freigebbaren Link zum [!UICONTROL Lastenausgleich] bei Verwendung von [!DNL Safari] -Browser, sehen sie alle Benutzer und nicht nur die aufgelisteten Mitglieder des Teams.
+
++++
 
 +++**Wartungs-Update vom 20. Oktober 2022**
 
@@ -237,7 +259,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 **Das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ wurde in „[!UICONTROL Rollenzuweisung]“ umbenannt, um zum Ausdruck zu bringen, dass gleichzeitig mehrere Arbeitsaufgaben über den [!UICONTROL Workload Balancer]** zugewiesen werden können
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Lastenausgleich]*
 
 Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größere Anzahl von sowohl Aufgaben als auch Problemen im Bereich [!UICONTROL Nicht zugewiesene Arbeit] zugewiesen werden können, wurde im [!UICONTROL Workload Balancer] das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ in „[!UICONTROL Rollenzuweisung]“ umbenannt. Das Feld bezieht sich auf Aufgabengebiete, die entweder Aufgaben oder Problemen zugewiesen wurden, und es wird angezeigt, wenn im Feld [!UICONTROL Massenzuweisungen] Benutzende Elementen zugewiesen werden.
 

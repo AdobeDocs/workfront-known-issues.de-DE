@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 ## Updates im Oktober 2022
 
 +++**(Geplant) Aktualisierung der Wartung am 27. Oktober 2022**
+
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+
+*Navigation*
+
+>[!NOTE]
+>
+>Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+
+Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+
+Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
 
 **[!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC**
 

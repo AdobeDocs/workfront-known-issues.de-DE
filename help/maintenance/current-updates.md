@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ Wenn ein Benutzer versucht, die [!UICONTROL Schnellfilter] in einer Liste, um na
 
 >[!NOTE]
 >
->Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+>Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
 
 Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
 

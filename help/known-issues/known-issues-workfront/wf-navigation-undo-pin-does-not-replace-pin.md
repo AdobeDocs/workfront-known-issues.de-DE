@@ -2,9 +2,9 @@
 title: "Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Stift entfernt wurde."
 description: "Wenn ein Benutzer die Option Pin entfernen auf einem Pin auswählt, eine Meldung über die Entfernung erhält und versucht, den Pin durch Klicken auf Rückgängig in der Nachricht zu ersetzen, wird der Pin nicht in der oberen Navigation ersetzt und auch nicht in die Liste der Pins unter dem Bereich Mehr Pinsliste (das Drei-Punkte-Menü im Pins) eingefügt. Wenn ein Benutzer versucht, die Seite durch Wechseln zur Seite und Einlegen neu zu veröffentlichen, wird der Pin der Pin der Pin der Pin Pin der Pin Pin der Pin Pin Pin der Pin Pin Pin Pin Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin-Liste der Benutzer kann die Seite nicht veröffentlichen."
 hidefromtoc: true
-source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dieses Problem wurde in der Vorschau am 11. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+>Dieses Problem wurde in der Vorschau am 11. Oktober 2022 behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
 
 Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
 

@@ -4,9 +4,9 @@ description: Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle so zu b
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

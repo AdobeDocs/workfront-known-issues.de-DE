@@ -3,7 +3,7 @@ title: '„Workfront Fusion: Das Modul wird beim Erstellen oder Bearbeiten eines
 description: „Wenn ein(e) Benutzende(r) ein Szenario erstellt oder bearbeitet und versucht, ein Modul zu öffnen, wird das Modul nicht geöffnet. Der/die Benutzende sieht stattdessen einen rotierenden Kreis, was bedeutet, dass das Modul geladen wird, der Ladevorgang wird aber nie abgeschlossen.“
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 

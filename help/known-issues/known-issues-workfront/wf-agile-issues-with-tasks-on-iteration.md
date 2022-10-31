@@ -1,23 +1,23 @@
 ---
-title: "Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden"
-description: "Mehrere Berichte zu Problemen, die zu einer Iteration hinzugefügt wurden"
+title: '„Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden“'
+description: „Mehrere Meldungen zu Problemen beim Hinzufügen von Aufgaben zu einer Iteration“
 hidefromtoc: true
 source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden
 
-Die folgenden Probleme wurden in Bezug auf Probleme gemeldet, die zu einer Iteration hinzugefügt wurden:
+Die folgenden Probleme wurden beim Hinzufügen von Aufgaben zu einer Iteration gemeldet:
 
-* Einige Unteraufgaben einer Aufgabe, die einer Iteration hinzugefügt wurde, werden nicht auf der Seite [!UICONTROL Iteration] Seite.
-* Wenn ein Benutzer versucht, der Iteration eine fehlende Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und der Benutzer sieht die folgende Meldung:
+* Manche Unteraufgaben einer Aufgabe, die einer Iteration hinzugefügt wurden, werden nicht auf der Seite [!UICONTROL Iteration] angezeigt.
+* Wenn ein(e) Benutzende(r) versucht, der Iteration eine fehlende Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und die folgende Meldung wird angezeigt:
 
-   &quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Keines der ausgewählten Elemente kann verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]&quot;
+   „[!UICONTROL Folgender Fehler ist aufgetreten: Keines der ausgewählten Objekte konnte verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]“
 
 _Erste Meldung am 23. September 2022._
 

@@ -1,28 +1,28 @@
 ---
-title: "Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben."
-description: "Wenn ein Testversand eine Stufe in einem Workflow erreicht, zu der ein Benutzer bei der Erstellung des Testversands hinzugefügt wurde, wird der Testversand nicht für den Benutzer freigegeben, und der Benutzer kann nicht auf den Testversand zugreifen."
+title: '„Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben“'
+description: „Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem ein(e) Benutzende(r) während der Erstellung des Korrekturabzugs hinzugefügt wurde, wird der Korrekturabzug nicht für den/die Benutzende(n) freigegeben, und er/sie kann nicht auf den Korrekturabzug zugreifen.“
 hidefromtoc: true
 source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.
+# Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.
 
 <!--This issue is on the WF and WFP TOCs-->
 
 >[!NOTE]
 >
->Dieses Problem wurde behoben, da es nicht reproduziert werden konnte.
+>Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
-Wenn ein Testversand eine Stufe in einem Workflow erreicht, zu der ein Benutzer bei der Erstellung des Testversands hinzugefügt wurde, wird der Testversand nicht für den Benutzer freigegeben, sodass der Benutzer nicht auf den Testversand zugreifen kann.
+Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem ein(e) Benutzende(r) während der Erstellung des Korrekturabzugs hinzugefügt wurde, wird der Korrekturabzug nicht für den/die Benutzende(n) freigegeben, und er/sie kann nicht auf den Korrekturabzug zugreifen.
 
 **Problemumgehung**
 
-Geben Sie das Dokument manuell für den Benutzer frei.
+Geben Sie das Dokument für den/die Benutzende(n) manuell frei.
 
 _Erste Meldung am 1. September 2022._
 

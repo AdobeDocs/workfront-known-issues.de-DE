@@ -1,22 +1,22 @@
 ---
-title: '"Aufgaben: Die vergangene Zeit kann bei der Inline-Bearbeitung der Aufgabendauer nicht ausgewählt werden.'
-description: Wenn ein Benutzer eine Aufgabenliste anzeigt und versucht, die Aufgabendauer zu bearbeiten, sind keine Einheiten für die verstrichene Dauer verfügbar.
+title: '„Aufgaben: Verstrichene Zeit kann nicht ausgewählt werden, wenn die Aufgabendauer inline bearbeitet wird.“'
+description: Wenn ein(e) Benutzende(r) eine Aufgabenliste öffnet und versucht, die Aufgabendauer zu bearbeiten, sind keine Einheiten für die verstrichene Zeit verfügbar.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# Aufgaben: Auswahl nicht möglich [!UICONTROL Verstrichene Zeit] bei der Inline-Bearbeitung der Aufgabendauer
+# Aufgaben: [!UICONTROL Verstrichene Zeit] kann nicht ausgewählt werden, wenn die Aufgabendauer inline bearbeitet wird.
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 21. Juli 2022 behoben.
 
-Wenn ein Benutzer eine Aufgabenliste anzeigt und versucht, die [!UICONTROL Aufgabendauer], sind folgende Zeiteinheiten nicht verfügbar:
+Wenn ein(e) Benutzende(r) eine Aufgabenliste öffnet und versucht, die [!UICONTROL Aufgabendauer] zu bearbeiten, sind die folgenden Einheiten nicht verfügbar:
 
 * [!UICONTROL Verstrichene Minuten]
 * [!UICONTROL Verstrichene Stunden]

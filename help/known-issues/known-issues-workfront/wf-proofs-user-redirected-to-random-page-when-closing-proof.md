@@ -1,16 +1,16 @@
 ---
-title: "Testsendungen: Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück."
-description: "Wenn ein Benutzer einen Testversand in [!DNL Workfront] den Testversand schließt, gibt er nicht die Seite zurück, auf der er sich vor dem Öffnen des Testversands befand. Stattdessen werden sie zu einer anderen Seite in [!DNL Workfront]. "
+title: '„Korrekturabzüge: Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück“'
+description: „Wenn ein(e) Benutzende(r) in  [!DNL Workfront]  einen Korrekturabzug betrachtet und dann schließt, kehrt er/sie nicht zur Seite zurück, auf der er/sie sich vor dem Öffnen des Korrekturabzugs befand. Stattdessen gelangt er/sie auf eine andere Seite in  [!DNL Workfront].“
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück
+# Korrekturabzüge: Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück
 
 >[!NOTE]
 >
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 <!--This is on the WF page as well as the WFP page-->
 
-Wenn ein Benutzer einen Testversand in [!DNL Workfront] den Testversand schließt, gibt er nicht die Seite zurück, auf der er sich vor dem Öffnen des Testversands befand. Stattdessen werden sie zu einer anderen Seite in [!DNL Workfront].
+Wenn ein(e) Benutzende(r) in [!DNL Workfront] einen Korrekturabzug betrachtet und dann schließt, kehrt er/sie nicht zur Seite zurück, auf der er/sie sich vor dem Öffnen des Korrekturabzugs befand. Stattdessen gelangt er/sie auf eine andere Seite in [!DNL Workfront].
 
 _Erste Meldung am 15. September 2022._
 

@@ -1,24 +1,24 @@
 ---
-title: "Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layoutvorlage"
-description: '"Wenn ein Benutzer eine Layoutvorlage bearbeitet und versucht, Listen anzupassen, und "Benutzer"als Listentyp auswählt, der angepasst werden soll, kann der Benutzer die Liste nicht anpassen. Stattdessen sehen sie den Fehler Ein Fehler ist aufgetreten und wir arbeiten daran, das Problem zu beheben. Um mit Ihrer Arbeit fortzufahren, versuchen Sie, diese Browser-Seite zu aktualisieren."'
+title: '„Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layout-Vorlage“'
+description: '„Wenn ein(e) Benutzende(r) eine Layout-Vorlage bearbeitet und versucht, Listen anzupassen, und ‚Benutzer‘ als den Listentyp auswählt, der angepasst werden soll, kann der/die Benutzende die Liste nicht anpassen. Stattdessen wird die folgende Fehlermeldung angezeigt: Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“'
 hidefromtoc: true
 source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layoutvorlage
+# Layout-Vorlagen: Fehler beim Anpassen von Listen in einer Layout-Vorlage
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 13. Oktober 2022 behoben.
 
-Wenn ein Benutzer eine Layoutvorlage bearbeitet und versucht, Listen anzupassen, und &quot;[!UICONTROL Benutzer]&quot; als Typ der Liste, die angepasst werden soll, kann der Benutzer die Liste nicht anpassen. Stattdessen wird der folgende Fehler angezeigt:
+„Wenn ein(e) Benutzende(r) eine Layout-Vorlage bearbeitet und versucht, Listen anzupassen, und „[!UICONTROL Benutzer]“ als den Listentyp auswählt, der angepasst werden soll, kann der/die Benutzende die Liste nicht anpassen. Stattdessen wird die folgende Fehlermeldung angezeigt:
 
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]&quot;
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 _Erste Meldung am 6. Oktober 2022._
 

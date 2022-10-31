@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 56%
+ht-degree: 97%
 
 ---
 
@@ -22,31 +22,31 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
-| [Testsendungen: Die Druckzusammenfassung zeigt nicht alle Seiten des Testversands an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
+| [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## In Arbeit
 
-Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
+Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
-| [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18. Oktober 2022 |
+| [Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
+| [Korrekturabzüge: Das Textfeld „Neue Korrekturabzugsempfänger“ ist zu klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## Keine Fehlerbehebung
 
-Korrekturen für diese Probleme befinden sich derzeit nicht im Fahrplan. In einigen Fällen werden diese Probleme durch neue Funktionen oder Funktionsaktualisierungen behoben.
+Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden durch neue Funktionen oder Funktions-Updates behoben werden.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
+| [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [[!DNL Workfront Proof]: Benutzende(r) kann nicht zum Korrekturabzug hinzugefügt werden, indem er/sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23. März 2022 |
 | [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |

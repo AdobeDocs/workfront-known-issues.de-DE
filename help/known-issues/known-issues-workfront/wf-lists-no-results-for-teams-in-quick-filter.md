@@ -1,11 +1,11 @@
 ---
-title: "Listen: Schnellfilter gibt bei der Suche nach Teams keine Ergebnisse zurück."
-description: '"Wenn ein Benutzer versucht, mithilfe des Schnellfilters in einer Liste nach einem Team zu suchen, gibt die Eingabe des Teamnamens keine Ergebnisse zurück, selbst wenn das Team in der Liste sichtbar ist (z. B. im Feld Zugeordneter Benutzer ). Die Suche nach dem Wort "team"liefert auch keine Ergebnisse."'
+title: '„Listen: Schnellfilter gibt bei der Suche nach Teams keine Ergebnisse aus“'
+description: „Wenn ein(e) Benutzende(r) versucht, mithilfe des Schnellfilters in einer Liste nach einem Team zu suchen, werden durch die Eingabe des Team-Namens keine Ergebnisse zurückgegeben, selbst wenn das gesuchte Team in der Liste sichtbar ist (z. B. im Feld ‚Zugewiesen an‘). Auch die Suche nach dem Wort ‚Team‘ liefert keine Ergebnisse.“
 hidefromtoc: true
 source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 >
 >Dieses Problem wurde am 27. Oktober 2022 behoben.
 
-Wenn ein Benutzer versucht, die [!UICONTROL Schnellfilter] in einer Liste, um nach einem Team zu suchen, gibt die Eingabe des Teamnamens keine Ergebnisse zurück, selbst wenn das Team in der Liste sichtbar ist (z. B. in der [!UICONTROL Zugeordnet zu] -Feld). Suchen nach dem Wort &quot;[!UICONTROL Team]&quot; gibt auch keine Ergebnisse zurück.
+Wenn ein(e) Benutzende(r) versucht, mithilfe des [!UICONTROL Schnellfilters] in einer Liste nach einem Team zu suchen, werden durch die Eingabe des Team-Namens keine Ergebnisse zurückgegeben, selbst wenn das gesuchte Team in der Liste sichtbar ist (z. B. im Feld [!UICONTROL Zugewiesen an]). Auch die Suche nach dem Wort „[!UICONTROL Team]“ liefert keine Ergebnisse.
 
 _Erste Meldung am 6. Oktober 2022._
 

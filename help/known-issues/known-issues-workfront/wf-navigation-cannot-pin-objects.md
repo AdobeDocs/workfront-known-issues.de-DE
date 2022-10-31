@@ -1,22 +1,22 @@
 ---
-title: "Navigation: Objekte können nicht angeheftet werden"
-description: "Wenn ein Benutzer versucht, ein Objekt in Workfront zu veröffentlichen, wird das Objekt nicht fixiert und der Benutzer sieht die folgende Meldung: Etwas ist beim Pinning schiefgelaufen. Kontaktieren Sie Workfront, damit wir das beheben können."
+title: '„Navigation: Objekte können nicht angeheftet werden“'
+description: '„Wenn ein(e) Benutzende(r) versucht, ein Objekt in Workfront anzuheften, wird das Objekt nicht angeheftet und die folgende Meldung wird angezeigt: Beim Anheften ist ein Fehler aufgetreten. Kontaktieren Sie Workfront, damit wir diesen Fehler beheben können.“'
 hidefromtoc: true
 source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
 
-# Navigation: Objekte können nicht fixiert werden
+# Navigation: Objekte können nicht angeheftet werden
 
-Wenn ein Benutzer versucht, ein Objekt in [!DNL Workfront], wird das Objekt nicht fixiert und der Benutzer sieht die folgende Meldung:
+Wenn ein(e) Benutzende(r) versucht, ein Objekt in [!DNL Workfront] anzuheften, wird das Objekt nicht angeheftet und die folgende Meldung wird angezeigt: Beim Anheften ist etwas schiefgelaufen.
 
 „[!UICONTROL Beim Anheften ist ein Fehler aufgetreten. Kontaktieren Sie [!DNL Workfront], damit wir diesen Fehler beheben können.]“
 
-Dies kann beim Einfügen eines Objekts auftreten, selbst wenn der Benutzer Listen erfolgreich veröffentlichen kann.
+Dies kann beim Anheften eines Objekts auftreten, selbst wenn Listen erfolgreich angeheftet werden können.
 
 _Erste Meldung am 28. September 2022._
 

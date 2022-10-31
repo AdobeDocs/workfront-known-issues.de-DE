@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 56%
+ht-degree: 86%
 
 ---
 
@@ -22,7 +22,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Anforderungen: Es können nicht mehr als 100 Warteschlangenthemen auf einer Seite angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 27. Oktober 2022 |
@@ -30,8 +30,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Anforderungen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27. Oktober 2022 |
 | [[!UICONTROL Pinnwände]: [!UICONTROL Aufnahme] Spaltensuche ist ineffektiv](known-issues-workfront/wf-boards-search-returns-no-results.md) | 26. Oktober 2022 |
 | [Agile: Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20. Oktober 2022 |
-| [Testsendungen: Die Druckzusammenfassung zeigt nicht alle Seiten des Testversands an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
-| [Benachrichtigungen: Benutzer, die nicht benachrichtigt wurden, wenn sie erwähnt wurden oder in einem Kommentar enthalten sind](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
+| [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
+| [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
 | [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15. September 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -39,22 +39,22 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 ## In Arbeit
 
-Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
+Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Benutzerdefinierte Formulare: [!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 28. Oktober 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |
-| [Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
-| [[!UICONTROL Pinnwände]: [!UICONTROL Pinnwände] Seite wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20. Oktober 2022 |
+| [Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
+| [[!UICONTROL Pinnwände]: Die Seite [!UICONTROL Pinnwände] wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md) | 20. Oktober 2022 |
 | [Berichte: Berichtverwendungsinformationen werden nicht aktualisiert](known-issues-workfront/wf-reports-usage-not-updating.md) | 19. Oktober 2022 |
-| [Navigation: Objekte können nicht fixiert werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19. Oktober 2022 |
-| [Testsendungen: Das Textfeld &quot;Neue Testversand-Empfänger&quot;ist zu klein.](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18. Oktober 2022 |
-| [Programme: Probleme beim Zuweisen einer [!UICONTROL Programmeigentümer]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17. Oktober 2022 |
-| [Berichte: Option &quot;Verschieben nach&quot;nicht für Problemberichte verfügbar](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13. Oktober 2022 |
+| [Navigation: Objekte können nicht angeheftet werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19. Oktober 2022 |
+| [Korrekturabzüge: Das Textfeld „Neue Korrekturabzugsempfänger“ ist zu klein](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18. Oktober 2022 |
+| [Programme: Probleme beim Zuweisen eines [!UICONTROL Programm-Inhabers]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17. Oktober 2022 |
+| [Berichte: Option „Verschieben nach“ für Problemberichte nicht verfügbar](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13. Oktober 2022 |
 | [Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 13. Oktober 2022 |
-| [Benutzerdefinierte Formulare: Fehler &quot;Hopfen&quot; beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13. Oktober 2022 |
-| [Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30. September 2022 |
+| [Benutzerdefinierte Formulare: Fehler „Hoppla“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13. Oktober 2022 |
+| [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert | 30. September 2022 |
 | [Integrationen: Fehler beim Senden einer Anfrage über  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
@@ -62,13 +62,13 @@ Korrekturen für diese Probleme werden derzeit durchgeführt oder sind für die 
 
 ## Keine Fehlerbehebung
 
-Korrekturen für diese Probleme befinden sich derzeit nicht im Fahrplan. In einigen Fällen werden diese Probleme durch neue Funktionen oder Funktionsaktualisierungen behoben.
+Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden durch neue Funktionen oder Funktions-Updates behoben werden.
 
-| **Anfrage** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [API: Kann nicht nach dynamischen Feldern sortiert werden](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31. Oktober 2022 |
 | [[!UICONTROL Einrichtung]: Listen werden langsam in geladen [!UICONTROL Einrichtung]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28. Oktober 2022 |
-| [Testsendungen: Der Testversand wird für Benutzer im Testversand-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
+| [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
 | [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |

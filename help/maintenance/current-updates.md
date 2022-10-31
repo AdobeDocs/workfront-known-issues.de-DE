@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
 source-wordcount: '14718'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -35,7 +35,7 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 **[!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC**
 
-*Benutzerdefinierte Formulare in meiner Gruppe*
+*Benutzerdefinierte Formulare*
 
 Wenn ein berechnetes Feld [!UICONTROL STUNDE] -Funktion gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem HOUR-Wert basieren, falsch.
 
@@ -43,19 +43,19 @@ Wenn ein berechnetes Feld [!UICONTROL STUNDE] -Funktion gibt die Funktion Werte 
 
 *Listen*
 
-Wenn ein Benutzer versucht, die [!UICONTROL Schnellfilter] in einer Liste, um nach einem Team zu suchen, gibt die Eingabe des Teamnamens keine Ergebnisse zurück, selbst wenn das Team in der Liste sichtbar ist (z. B. in der [!UICONTROL Zugeordnet zu] -Feld). Suchen nach dem Wort &quot;[!UICONTROL Team]&quot; gibt auch keine Ergebnisse zurück.
+Wenn ein(e) Benutzende(r) versucht, mithilfe des [!UICONTROL Schnellfilters] in einer Liste nach einem Team zu suchen, werden durch die Eingabe des Team-Namens keine Ergebnisse zurückgegeben, selbst wenn das gesuchte Team in der Liste sichtbar ist (z. B. im Feld [!UICONTROL Zugewiesen an]). Auch die Suche nach dem Wort „[!UICONTROL Team]“ liefert keine Ergebnisse.
 
-**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde**
 
 *Navigation*
 
 >[!NOTE]
 >
->Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
+>Dieses Problem wurde am 13. Oktober 2022 in der Vorschau-Umgebung behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
 
-Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfernen]“ auswählt, eine Meldung über die Entfernung erhält und versucht, die Nadel durch Klicken auf „[!UICONTROL Rückgängig]“ in der Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in [!UICONTROL Weitere Nadeln] hinzugefügt (das Dreipunkt-Menü im Bereich [!UICONTROL Nadeln]).
 
-Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 
 **Alle in [!UICONTROL Lastenausgleich] bei Verwendung eines freigebbaren Links in [!DNL Safari] browser**
 
@@ -69,60 +69,60 @@ Wenn ein Benutzer auf einen freigebbaren Link zum [!UICONTROL Lastenausgleich] b
 
 **Fehler bei der Massenzuweisung eines Teams**
 
-*Zuweisungen*
+*Arbeitsaufträge*
 
-Wenn ein Benutzer Aufgaben oder Probleme bei der Massenbearbeitung hat und ein Team zuweist, nachdem er eine Person zugewiesen hat, werden die Zuweisungen nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) mehrere Aufgaben oder Probleme gleichzeitig bearbeitet und ein Team zuweist, nachdem eine einzelne Person zugewiesen wurde, werden die Arbeitsaufträge nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-&quot;[!UICONTROL Versuchen wir es erneut - der folgende Fehler ist aufgetreten: teamAssignments muss entweder eine Liste von Objekten oder eine Liste von IDs sein]&quot;
+„[!UICONTROL Versuchen Sie es erneut. Der folgende Fehler ist aufgetreten: Team-Arbeitsaufträge müssen entweder eine Liste von Objekten oder eine Liste von IDs sein]“
 
 **&quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error**
 
 *Dokumente*
 
-Wenn ein Benutzer versucht, eine Datei in die [!UICONTROL Dokumente] -Bereich, die Datei wird nicht hochgeladen und der Benutzer sieht den Fehler &quot;[!UICONTROL Datei konnte nicht hochgeladen werden].&quot;
+Wenn ein(e) Benutzende(r) versucht, eine Datei in den Bereich [!UICONTROL Dokumente] hochzuladen, wird die Datei nicht hochgeladen und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Fehler beim Hochladen der Datei]“.
 
-Dies wurde beim Versuch berichtet, MP4-Dateien hochzuladen.
+Dieser Fehler wurde beim Versuch gemeldet, MP4-Dateien hochzuladen.
 
-**Die Anzahl der Probleme in der linken Navigation der Aufgabe ist falsch**
+**Falsche Anzahl von Problemen im linken Navigationsbereich bei Aufgaben**
 
-*Anfragen*
+*Probleme*
 
-Wenn ein Benutzer eine Aufgabe anzeigt, wird die Zahl auf der [!UICONTROL Probleme] im linken Navigationsbereich nicht genau die tatsächliche Anzahl der mit der Aufgabe verbundenen Probleme darstellt.
+Wenn ein(e) Benutzende(r) eine Aufgabe aufruft, stellt die Zahl der [!UICONTROL Probleme] im linken Navigationsbereich nicht die korrekte Anzahl der mit der Aufgabe verbundenen Probleme dar.
 
 
-**[!UICONTROL Vorgänger] Symbol fehlt in der Aufgabenkopfzeile**
+Symbol **[!UICONTROL Vorgänger] fehlt in der Aufgabenkopfzeile**
 
 *Aufgaben*
 
-Wenn ein Benutzer eine Aufgabe anzeigt, fehlt das Symbol des Vorgängers der Aufgabe in der Kopfzeile.
+Wenn ein(e) Benutzende(r) eine Aufgabe betrachtet, fehlt das Vorgänger-Symbol der Aufgabe in der Kopfzeile.
 
 +++
 
 +++**Wartungs-Update vom 13. Oktober 2022**
 
-**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde**
 
 *Navigation*
 
 >[!NOTE]
 >
->Dieses Problem wird in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+>Dieses Problem wird am 13. Oktober 2022 in der Vorschau-Umgebung behoben. Am 27. Oktober 2022 wird es in der Produktionsumgebung behoben.
 
-Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfernen]“ auswählt, eine Meldung über die Entfernung erhält und versucht, die Nadel durch Klicken auf „[!UICONTROL Rückgängig]“ in der Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in [!UICONTROL Weitere Nadeln] hinzugefügt (das Dreipunkt-Menü im Bereich [!UICONTROL Nadeln]).
 
-Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 
 **Neu erstellte Filter können nicht benannt oder gespeichert werden**
 
 *[!UICONTROL Ressourcenplaner]*
 
-Wenn ein Benutzer versucht, einen neuen Filter im [!UICONTROL Ressourcenplaner], bleibt das Namensfeld leer. Wenn der Benutzer die Leertaste gedrückt hat, wird die [!UICONTROL Speichern] Schaltfläche deaktiviert.
+Wenn ein(e) Benutzende(r) versucht, einen neuen Filter im [!UICONTROL Ressourcenplaner] zu benennen, bleibt das Namensfeld leer. Wenn der/die Benutzende die Leertaste gedrückt hat, wird die Schaltfläche [!UICONTROL Speichern] deaktiviert.
 
-**Name oder Prozentsatz des Abschlusses einer Aufgabe oder eines Problems kann nicht bearbeitet werden**
+**Name oder „Prozent abgeschlossen“ einer Aufgabe oder eines Problems kann nicht bearbeitet werden**
 
 *Aufgaben und Probleme*
 
-Benutzer mit [!UICONTROL Beitragen] Der Zugriff auf eine Aufgabe oder ein Problem kann den Namen der Aufgabe oder des Problems in der Kopfzeile nicht bearbeiten. Darüber hinaus können Benutzer mit [!UICONTROL Beitragen] Der Zugriff kann den Prozentsatz der Fertigstellung einer Aufgabe oder eines Problems nicht bearbeiten.
+Benutzende mit der Zugriffsberechtigung [!UICONTROL Beitragen] für eine Aufgabe oder ein Problem können den Namen der Aufgabe oder des Problems in der Kopfzeile nicht bearbeiten. Darüber hinaus können Benutzende mit der Zugriffsberechtigung [!UICONTROL Beitragen] den Bereich „Prozent abgeschlossen“ einer Aufgabe oder eines Problems nicht bearbeiten.
 
 **Anfordernde und Prüfende werden bei der Lizenzanzahl eines Unternehmens mitgezählt**
 
@@ -132,19 +132,19 @@ Wenn ein(e) Benutzende(r) einem Korrekturabzug als Prüfende(r) oder Anfragende(
 
 +++
 
-+++**Wartungsupdate am 11. Oktober 2022**
++++**Wartungs-Update vom 11. Oktober 2022**
 
-**Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde**
+**Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde**
 
 *Navigation*
 
 >[!NOTE]
 >
->Dieses Problem wurde in der Vorschau am 13. Oktober 2022 behoben. Es wird am 27. Oktober 2022 in der Produktion behoben.
+>Dieses Problem wurde am 13. Oktober 2022 in der Vorschau-Umgebung behoben. Am 27. Oktober 2022 wird es in der Produktionsumgebung behoben.
 
-Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfernen]“ auswählt, eine Meldung über die Entfernung erhält und versucht, die Nadel durch Klicken auf „[!UICONTROL Rückgängig]“ in der Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in [!UICONTROL Weitere Nadeln] hinzugefügt (das Dreipunkt-Menü im Bereich [!UICONTROL Nadeln]).
 
-Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 
 +++
 
@@ -154,21 +154,21 @@ Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröff
 
 *Blueprints*
 
-Der Blueprint-Typ &quot;Dashboard&quot; wurde dem Blueprint-Katalog hinzugefügt. Zuvor waren nur Projektvorlagen und Blueprints für die Organisationsstruktur verfügbar.
+Dem Blueprint-Katalog wurde der Blueprint-Typ „Dashboard“ hinzugefügt. Zuvor waren nur Blueprints zu Projektvorlagen und zur Organisationsstruktur verfügbar.
 
-**Elemente, die sich im linken Bereich überschneiden**
+**Elemente überschneiden sich im linken Bedienfeld**
 
-*Benutzerdefinierte Formulare in meiner Gruppe*
+*Benutzerdefinierte Formulare*
 
 Wenn ein(e) Benutzende(r) im Formular-Builder arbeitet und das Formular mehr als 100 Felder enthält, führt die Meldung, die den/die Benutzende(n) über die Feldbegrenzung informiert, zu einer Überschneidung der Elemente im linken Bereich.
 
-**Die Datumsauswahl wird nicht mehr automatisch beim Eingabefokus oder Klick geöffnet**
+**Die Datumsauswahl wird nicht mehr automatisch beim Eingabefokus oder Klicken geöffnet**
 
 *Navigation*
 
-Wenn ein Benutzer über die Tastatur navigiert, werden die Datumsauswahl bei der Datumseingabe, die den Tastaturfokus erhält, nicht mehr automatisch geöffnet. Stattdessen sollten Tastaturbenutzer die Registerkarte zum Datumsauswahlsymbol öffnen und die Eingabetaste drücken, um die Datumsauswahl zu öffnen. Wenn ein Benutzer mit der Maus navigiert, werden die Datumsauswahl bei angeklickter Datumseingabe nicht mehr automatisch geöffnet. Stattdessen sollten Mausbenutzer auf das Datumsauswahlsymbol klicken, um die Datumsauswahl zu öffnen.
+Wenn ein(e) Benutzende(r) die Tastatur zur Navigation verwendet, wird die Datumsauswahl bei der Datumseingabe, bei der der Eingabefokus ist, nicht mehr automatisch geöffnet. Stattdessen sollten Tastaturbenutzende das Symbol zur Datumsauswahl verwenden und die Eingabetaste drücken, um die Datumsauswahl zu öffnen. Wenn ein(e) Benutzende(r) mit der Maus navigiert, wird die Datumsauswahl beim Anklicken der Datumseingabe nicht mehr automatisch geöffnet. Stattdessen sollten Mausbenutzende auf das Symbol zur Datumsauswahl klicken, um die Datumsauswahl zu öffnen.
 
-Diese Änderung wurde vorgenommen, um besser mit den Standard-UX-Mustern für die Datumsauswahl übereinzustimmen und ein barrierefreies Erlebnis für Benutzer von Tastatur und Bildschirmlesehilfe zu schaffen.
+Diese Änderung wurde vorgenommen, um eine konsistente Nutzung analog der Standard-Datumsauswahl zu ermöglichen und Benutzenden von Tastatur- und Bildschirmlesehilfen einen barrierefreien Zugriff bereitzustellen.
 
 **Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist**
 
@@ -178,15 +178,15 @@ Diese Änderung wurde vorgenommen, um besser mit den Standard-UX-Mustern für di
 >
 >Dieses Problem tritt nur in der Vorschau-Umgebung auf.
 
-Wenn ein Benutzer einer Aufgabe oder einem Problem mehrere Teams zuweist, wird nur ein Team in der Zuweisungsliste angezeigt. Dieses Problem betrifft auch die Berichterstellung. Berichte mit Teamzuweisungen sind ungenau, da nur ein Team als der Aufgabe oder dem Problem zugewiesen angezeigt wird.
+Wenn ein(e) Benutzende(r) einer Aufgabe oder einem Problem mehrere Teams zuweist, wird in der Arbeitsauftragsliste nur ein Team angezeigt. Dieses Problem betrifft auch das Reporting. Berichte, die Team-Arbeitsaufträge enthalten, sind nicht korrekt, da nur ein Team als der Aufgabe oder dem Problem zugewiesen angezeigt wird.
 
-**&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert.]&quot;-Fehler beim automatischen Speichern von Änderungen in einem Timesheet**
+**Bei der automatischen Speicherung von Änderungen in einer Arbeitszeittabelle tritt der Fehler „[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert]“ auf**
 
-*Arbeitszeit- tabellen*
+*Arbeitszeittabellen*
 
 Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle so zu bearbeiten, dass die automatische Speicherung der Änderungen ausgelöst wird, werden die Änderungen nicht gespeichert und der/die Benutzende sieht die folgende Meldung:
 
-&quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die anzuzeigende Seite.]&quot;
+„[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die Änderungen anzuzeigen]“.
 
 Dies wurde beim Bearbeiten der folgenden Elemente gemeldet:
 
@@ -203,11 +203,11 @@ Wenn ein Ereignis in [!DNL Workfront Proof] stattfindet, durch das eine E-Mail-B
 
 +++**Wartungs-Update vom 3. Oktober 2022**
 
-**Speichern Sie Ihr Timesheet manuell, wenn sich die vorherigen Vorgangsrollen geändert haben.**
+**Speichern Sie Ihre Arbeitszeittabelle manuell, wenn sich die vorherigen Aufgabengebiete geändert haben.**
 
-*Arbeitszeit- tabellen*
+*Arbeitszeittabellen*
 
-Wenn sich die Rolle des Auftrags, für den Sie die Zeit protokolliert haben, geändert hat und die [!UICONTROL Manuelles Zuweisen von Auftragsrollen zu Stundeneinträgen] -Einstellung deaktiviert wurde, müssen Sie Ihre Zeiteinträge manuell speichern, bis Stunden nicht mehr für die geänderte Vorgangsrolle protokolliert werden.
+Wenn sich ein Aufgabengebiet, für das Sie die Zeit erfasst haben, geändert hat und die Einstellung [!UICONTROL Aufgabengebiet zu Stundeneinträgen manuell hinzufügen] deaktiviert wurde, müssen Sie Ihre Zeiteinträge manuell speichern, bis für das geänderte Aufgabengebiet keine Stunden mehr erfasst werden.
 
 +++
 
@@ -215,29 +215,29 @@ Wenn sich die Rolle des Auftrags, für den Sie die Zeit protokolliert haben, ge�
 
 +++**Wartungs-Update vom 29. September 2022**
 
-**Benutzer kehrt beim Schließen des Testversands nicht zur vorherigen Seite zurück**
+**Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück**
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer einen Testversand in [!DNL Workfront] den Testversand schließt, gibt er nicht die Seite zurück, auf der er sich vor dem Öffnen des Testversands befand. Stattdessen werden sie zu einer anderen Seite in [!DNL Workfront].
+Wenn ein(e) Benutzende(r) in [!DNL Workfront] einen Korrekturabzug betrachtet und dann schließt, kehrt er/sie nicht zur Seite zurück, auf der er/sie sich vor dem Öffnen des Korrekturabzugs befand. Stattdessen gelangt er/sie auf eine andere Seite in [!DNL Workfront].
 
-**Der Testversand kann nicht geöffnet werden in[!DNL Workfront]**
+**Der Korrekturabzug kann in[!DNL Workfront]** nicht geöffnet werden
 
 *Korrekturabzüge*
 
-Wenn ein Benutzer ein Dokument in [!DNL Workfront] und versucht, den Testversand zu öffnen, wird der Testversand nicht geöffnet und der Benutzer wird an die [!UICONTROL Dokumentdetails] Seite.
+Wenn ein(e) Benutzende(r) ein Dokument in [!DNL Workfront] betrachtet und versucht, den Korrekturabzug zu öffnen, wird er nicht geöffnet und der/die Benutzende gelangt wieder auf die Seite [!UICONTROL Dokumentdetails].
 
-**Bei Verwendung von [!UICONTROL Registerkarte] key**
+**Bei Verwendung der [!UICONTROL Tabulatortaste] werden die Stunden nicht gespeichert**
 
-*Arbeitszeit- tabellen*
+*Arbeitszeittabellen*
 
 Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle ausfüllt und mit der [!UICONTROL Tabulatortaste] zwischen Zellen navigiert, werden die Stunden nicht gespeichert. Die Benachrichtigung zum [!UICONTROL automatischen Speichern] wird nicht unten am Bildschirm angezeigt. Wenn der/die Benutzende die Seite aktualisiert, kann er/sie sehen, das die Stunden nicht gespeichert wurden.
 
-**Leere Seiten bei der Anzeige eines Testversands mit mehreren Seiten**
+**Leere Seiten, wenn ein Korrekturabzug mit mehreren Seiten aufgerufen wird**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein Benutzer einen Testversand mit mehreren Seiten anzeigt, kann er Miniaturansichten der Seiten sehen, die Seiten werden jedoch nicht im Hauptansichtsfenster geöffnet.
+Wenn ein(e) Benutzende(r) einen Korrekturabzug mit mehreren Seiten aufruft, kann er/sie zwar die Miniaturansichten der Seiten sehen, die Seiten werden jedoch nicht im Hauptansichtsfenster geöffnet.
 
 
 
@@ -1488,7 +1488,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifende
 
 Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
-„\&lt;Name> entspricht nicht der Rolle von \&lt;Aufgabenrollenzuweisung\>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung\> zugewiesen ist, wird \&lt;Name> in der Rolle \&lt;Primäres Aufgabengebiet\> zugewiesen.“
+„\&lt;Name\> entspricht nicht der Rolle von \&lt;Aufgabenrollenzuweisung\>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung\> zugewiesen ist, wird \&lt;Name> in der Rolle \&lt;Primäres Aufgabengebiet\> zugewiesen.“
 
 Dies tritt auch dann auf, wenn der/die Benutzende das Aufgabengebiet der Aufgabenrollenzuweisung als sekundäres Aufgabengebiet hat.
 
@@ -1649,7 +1649,7 @@ Es wurden die folgenden Probleme bei der Anmeldung in die Vorschau-Umgebung geme
 
 Wenn ein(e) Benutzende(r) versucht, sich bei der Vorschau-Umgebung anzumelden, wird eine Meldung angezeigt, die angibt, dass die falsche ID oder das falsche Passwort eingegeben wurde.
 
-Wenn ein(e) Benutzende(r) versucht, sein/ihr Passwort zurückzusetzen, wird ihm/ihr der Fehler „[!UICONTROL ?Mehrere Benutzer wurden mit dieser E-Mail-Adresse gefunden <example@example.com>?]“ angezeigt
+Wenn ein(e) Benutzende(r) versucht, sein/ihr Passwort zurückzusetzen, wird ihm/ihr der Fehler „[!UICONTROL Mehrere Benutzer wurden mit dieser E-Mail-Adresse gefunden <example@example.com>?]“ angezeigt
 
 **Benutzerdefinierte Formulare werden im Bereich [!UICONTROL Projektdetails] nur langsam geladen**
 
@@ -1939,7 +1939,7 @@ Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft, überschneid
 *Dokumente*
 
 Wenn ein(e) Benutzende(r) ein Dokument oder einen Korrekturabzug in einer [!DNL Workfront Classic]-Dokumentliste auswählt und auf „[!UICONTROL Mehr]“ klickt, kann eines der folgenden Probleme auftreten: Die Schaltfläche reagiert nicht
-Alle Optionen unter der Schaltfläche sind mit „[!UICONTROL Objekt Objekt]“ beschriftet und können nicht verwendet werden.
+Alle Optionen unter der Schaltfläche sind mit „[!UICONTROL objekt Objekt]“ beschriftet und können nicht verwendet werden.
 
 **Fehler „Sie müssen ein Systemadministrator sein“ beim Erstellen eines Projekts**
 
@@ -2165,11 +2165,11 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular oder eine V
 
 Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug aufruft, werden im Bereich [!UICONTROL Aktualisierungen] des Dokuments keine Kommentare zum Korrekturabzug selbst angezeigt.
 
-**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[Objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
+**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
 
 *[!UICONTROL Lastenausgleich]*
 
-Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[Objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
+Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
 
 +++
 

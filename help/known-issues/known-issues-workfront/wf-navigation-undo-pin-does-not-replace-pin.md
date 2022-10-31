@@ -1,22 +1,22 @@
 ---
-title: "Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Stift entfernt wurde."
-description: "Wenn ein Benutzer die Option Pin entfernen auf einem Pin auswählt, eine Meldung über die Entfernung erhält und versucht, den Pin durch Klicken auf Rückgängig in der Nachricht zu ersetzen, wird der Pin nicht in der oberen Navigation ersetzt und auch nicht in die Liste der Pins unter dem Bereich Mehr Pinsliste (das Drei-Punkte-Menü im Pins) eingefügt. Wenn ein Benutzer versucht, die Seite durch Wechseln zur Seite und Einlegen neu zu veröffentlichen, wird der Pin der Pin der Pin der Pin Pin der Pin Pin der Pin Pin Pin der Pin Pin Pin Pin Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin der Pin-Liste der Benutzer kann die Seite nicht veröffentlichen."
+title: '„Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde“'
+description: „Wenn ein(e) Benutzende(r) auf einer Nadel die Option ‚Nadel entfernen‘ auswählt und versucht, die Nadel durch Klicken auf ‚Rückgängig‘ in der sich öffnenden Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in ‚Weitere Nadeln“ hinzugefügt (das Dreipunkt-Menü im Bereich ‚Nadeln‘). Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.“
 hidefromtoc: true
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 96%
 
 ---
 
 
-# Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihr Pin entfernt wurde
+# Navigation: Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde
 
 >[!NOTE]
 >
->Dieses Problem wurde in der Vorschau am 11. Oktober 2022 behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
+>Dieses Problem wurde am 11. Oktober 2022 in der Vorschau-Umgebung behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
 
-Wenn ein Benutzer &quot;[!UICONTROL Stecknadel entfernen]&quot;, erhält eine Meldung über die Entfernung und versucht, die Nadel durch Klicken auf &quot;[!UICONTROL Rückgängig]&quot;in der Nachricht wird der Pin nicht in der oberen Navigationsleiste ersetzt und auch nicht in die Liste der Pins unter der [!UICONTROL Weitere Stifte] list (das Menü mit drei Punkten im [!UICONTROL Pins] Bereich).
+Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfernen]“ auswählt, eine Meldung über die Entfernung erhält und versucht, die Nadel durch Klicken auf „[!UICONTROL Rückgängig]“ in der Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in [!UICONTROL Weitere Nadeln] hinzugefügt (das Dreipunkt-Menü im Bereich [!UICONTROL Nadeln]).
 
-Wenn ein Benutzer versucht, die Seite durch Aufrufen der Seite erneut zu veröffentlichen und sie zu fixieren, wird der Pin nicht erstellt und der Benutzer kann die Seite nicht veröffentlichen.
+Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 

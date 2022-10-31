@@ -1,20 +1,20 @@
 ---
-title: "Dokumente: Der Link zur externen Dokumentanforderung führt zur Anmeldeseite."
-description: "Wenn ein externer Benutzer eine E-Mail mit einer Dokumentanfrage erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die Option Mit Personen ohne Workfront-Konten zusammenarbeiten unter Verwendung der Systemvoreinstellung für E-Mail-Adressen aktiviert ist."
+title: '„Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite“'
+description: „Wenn ein(e) externe(r) Benutzende(r) eine E-Mail mit einer Dokumentanfrage erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die Systemeinstellung „Mit Personen ohne Workfront-Konten über deren E-Mail-Adresse zusammenarbeiten“ aktiviert ist.
 hidefromtoc: true
 source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Dokumente: Link zur externen Dokumentanforderung führt zur Anmeldeseite
+# Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite
 
 <!--This article is on the WF and WFP TOCs-->
 
-Wenn ein externer Benutzer eine Dokumentanfrage-E-Mail erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die[!UICONTROL Zusammenarbeit mit Personen ohne Workfront-Konten mithilfe ihrer E-Mail-Adresse]Die Systemvoreinstellung ist aktiviert.
+Wenn ein(e) externe(r) Benutzende(r) eine E-Mail mit einer Dokumentanfrage erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die Systemeinstellung [!UICONTROL Mit Personen ohne Workfront-Konten über deren E-Mail-Adresse zusammenarbeiten] aktiviert ist.
 
 _Erste Meldung am 29. September 2022._
 

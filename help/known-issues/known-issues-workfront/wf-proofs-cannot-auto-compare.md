@@ -1,16 +1,16 @@
 ---
-title: "Testsendungen: Testsendungen können nicht automatisch verglichen werden"
-description: "Wenn ein Benutzer einen Testversand anzeigt und versucht, Testsendungen mit dem Tool zum automatischen Vergleich zu vergleichen, ist die Seite leer."
+title: '„Korrekturabzüge: Korrekturabzüge können nicht automatisch verglichen werden“'
+description: „Wenn ein(e) Benutzende(r) einen Korrekturabzug öffnet und versucht, Korrekturabzüge mit dem Tool zum automatischen Vergleichen zu vergleichen, ist die Seite leer.“
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Testsendungen können nicht automatisch verglichen werden
+# Korrekturabzüge: Korrekturabzüge können nicht automatisch verglichen werden
 
 <!--This issue is on both the WF and WFP TOCs-->
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Dieses Problem wurde am 10. Oktober 2022 behoben.
 
-Wenn ein Benutzer einen Testversand anzeigt und versucht, Testsendungen mithilfe der [!UICONTROL Autovergleich] -Tool verwenden, ist die Seite leer.
+Wenn ein(e) Benutzende(r) einen Korrekturabzug öffnet und versucht, Korrekturabzüge mit dem [!UICONTROL Tool zum automatischen Vergleichen] zu vergleichen, ist die Seite leer.
 
 _Erste Meldung am 5. Oktober 2022._
 

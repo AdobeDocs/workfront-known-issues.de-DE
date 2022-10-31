@@ -1,21 +1,21 @@
 ---
-title: "Aktualisierungen: Benutzerkarte kann nicht im Aktualisierungsstream geschlossen werden"
-description: "Wenn ein Benutzer Aktualisierungen anzeigt und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum Benutzer, dessen Name geöffnet wird und nicht automatisch geschlossen wird, angezeigt. Die Seite reagiert nicht, bis die Karte manuell geschlossen wird, indem Sie auf das X in der oberen rechten Ecke klicken."
+title: '„Aktualisierungen: Benutzerkarte in Aktualisierungen wird nicht geschlossen“'
+description: „Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.“
 hidefromtoc: true
 source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Benutzerkarte kann nicht im Aktualisierungsstream geschlossen werden
+# Aktualisierungen: Benutzerkarte in Aktualisierungen wird nicht geschlossen
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 22. September 2022 behoben.
 
-Wenn ein Benutzer Aktualisierungen anzeigt und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum Benutzer, dessen Name geöffnet wird und nicht automatisch geschlossen wird, angezeigt. Die Seite reagiert erst, wenn die Karte manuell geschlossen wird, indem Sie auf das X in der oberen rechten Ecke klicken.
+Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht mehr, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.
 
-_Erster Bericht: 14. Juni 2022._
+_Erste Meldung: 14. Juni 2022._

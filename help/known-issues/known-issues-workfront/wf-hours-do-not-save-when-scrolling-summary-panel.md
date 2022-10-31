@@ -1,22 +1,22 @@
 ---
-title: "Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]"
-description: '"Wenn ein Benutzer versucht, Stunden für eine Aufgabe in das Bedienfeld "Zusammenfassung"dieser Aufgabe einzugeben, werden die Stunden nicht gespeichert. Dies tritt auf, wenn der Benutzer den Cursor auf dem Quadrat verlässt, auf dem er Stunden eingegeben hat, und den [!UICONTROL Zusammenfassungsbereich]. "'
+title: '„Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert“'
+description: „Wenn ein(e) Benutzende(r) versucht, Stunden für eine Aufgabe in das Bedienfeld ‚Zusammenfassung‘ dieser Aufgabe einzugeben, werden die Stunden nicht gespeichert. Dies tritt auf, wenn der/die Benutzende den Cursor im Feld lässt, in dem er/sie die Stunden eingegeben hat, und das Bedienfeld [!UICONTROL Zusammenfassung] scrollt“
 hidefromtoc: true
 source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
 
-# Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich].
+# Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert.
 
-Wenn ein Benutzer versucht, Stunden für eine Aufgabe im Bereich &quot;Zusammenfassung&quot;dieser Aufgabe einzugeben, werden die Stunden nicht gespeichert. Dies tritt auf, wenn der Benutzer den Cursor auf dem Quadrat verlässt, auf dem er Stunden eingegeben hat, und den [!UICONTROL Zusammenfassungsbereich].
+Wenn ein(e) Benutzende(r) versucht, Stunden für eine Aufgabe in das Bedienfeld „Zusammenfassung“ dieser Aufgabe einzugeben, werden die Stunden nicht gespeichert. Dies tritt auf, wenn der/die Benutzende den Cursor im Feld lässt, in dem er/sie die Stunden eingegeben hat, und das Bedienfeld [!UICONTROL Zusammenfassung] scrollt.
 
 **Problemumgehung**
 
-Klicken Sie außerhalb des Quadrats, in dem Stunden eingegeben werden, bevor Sie den [!UICONTROL Zusammenfassungsbereich].
+Klicken Sie auf eine Stelle außerhalb des Felds, in dem die Stunden eingegeben wurden, bevor Sie das Bedienfeld [!UICONTROL Zusammenfassung] scrollen.
 
-_Erster Bericht am 1. Juni 2022._
+_Erste Meldung am 1. Juni 2022._
 

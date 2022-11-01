@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1528'
-ht-degree: 94%
+source-wordcount: '1537'
+ht-degree: 93%
 
 ---
 
@@ -180,6 +180,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Array-Elemente in [!UICONTROL Iterator] Modulanzeige als[!UICONTROL Objekt-Objekt]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-Fehler in  [!DNL Fusion] -Szenario](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Daten konnten nicht geladen werden]“](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

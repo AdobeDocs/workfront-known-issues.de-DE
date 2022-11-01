@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
+source-wordcount: '14801'
 ht-degree: 99%
 
 ---
@@ -28,6 +28,32 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 -->
 
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Oktober 2022
+
++++**Wartungs-Update vom 3. November 2022**
+
+**Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen**
+
+*Benachrichtigungen*
+
+>[!NOTE]
+>
+>Dieses Problem tritt sowohl in der Produktions- als auch in der Vorschau-Umgebung auf.
+
+Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird möglicherweise einer der folgenden Fehler angezeigt:
+
+* „[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+* „[!UICONTROL E-Mail-Benachrichtigung konnte nicht abgerufen werden]“
+
+Dies wurde in den folgenden Bereichen gemeldet:
+
+* [!UICONTROL Setup] > [!UICONTROL E-Mail-Benachrichtigungen]
+* [!UICONTROL Benutzer] > [!UICONTROL Benutzer bearbeiten]
+* [!UICONTROL Gruppen]
+
++++
 
 ## Updates im Oktober 2022
 

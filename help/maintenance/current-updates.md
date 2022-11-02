@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 ## Updates im Oktober 2022
 
 +++**Wartungs-Update vom 3. November 2022**
+
+**Benennen Sie die Abschnitte &quot;Zeitplan&quot;und &quot;Planung&quot;für Teams und Projekte in der Layoutvorlage um.**
+
+*Layout-Vorlagen*
+
+Die Registerkarten &quot;Planung&quot;und &quot;Planung&quot;, die in einer Layoutvorlage zum linken Bereich eines Teams oder Projekts hinzugefügt werden können, wurden in &quot;Arbeitslastausgleich&quot;umbenannt.
 
 **Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen**
 

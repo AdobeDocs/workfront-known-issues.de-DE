@@ -3,9 +3,9 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '633'
 ht-degree: 82%
 
 ---
@@ -35,7 +35,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Agile: Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 | [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
-| [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 15. September 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

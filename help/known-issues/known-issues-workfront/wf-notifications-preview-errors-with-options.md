@@ -2,10 +2,10 @@
 title: '„Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen“'
 description: „Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird ihm möglicherweise ein Fehler angezeigt.“
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem tritt sowohl in der Produktions- als auch in der Vorschau-Umgebung auf.
+>Dieses Problem wurde am 3. November 2022 behoben.
 
 Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird möglicherweise einer der folgenden Fehler angezeigt:
 

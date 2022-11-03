@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
-source-wordcount: '1560'
-ht-degree: 92%
+source-wordcount: '1583'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Kann nicht geändert werden [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: 500-Fehler beim Ändern eines Workfront-Objekts](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Suchen: Die Suche ist extrem langsam](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in  [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Interaktiver Testversand kann nicht geöffnet werden](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Leere Seiten, wenn ein Korrekturabzug mit mehreren Seiten aufgerufen wird](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)

@@ -2,15 +2,19 @@
 title: "Aufgaben: Geplantes Abschlussdatum einer Aufgabe kann nicht geändert werden."
 description: '"Wenn ein Benutzer versucht, das geplante Abschlussdatum einer Aufgabe zu ändern, reagiert das Feld nicht. „'
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # Aufgaben: Kann nicht geändert werden [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe
+
+>[!NOTE]
+>
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
 Wenn ein Benutzer versucht, die [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe ist das Feld nicht responsiv.
 

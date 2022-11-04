@@ -2,15 +2,19 @@
 title: "Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam."
 description: "Wenn ein Benutzer mithilfe eines automatisierten Workflows versucht, mithilfe der Option Neu hinzufügen > Testversand zu einem Workfront-Arbeitselement hinzuzufügen, dauert die Erstellung des Testversands mehrere Minuten."
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 31. Oktober 2022 behoben.
 
 <!--This article is on the WF and WFP TOCs-->
 

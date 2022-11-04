@@ -2,9 +2,9 @@
 title: '„Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an“'
 description: „Wenn ein Benutzer einen Korrekturabzug betrachtet und versucht, ihn zu drucken, zeigt die Druckzusammenfassung keine Seiten des Korrekturabzugs an, denen keine Kommentare beigefügt sind. Dies tritt auch dann auf, wenn in der oberen Navigation die Option ‚Alle Seiten‘ ausgewählt ist.“
 hidefromtoc: true
-source-git-commit: 62e78c3cffeb0e48da9cbdd917ddf717e8cb8cf1
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 100%
 # Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an
 
 <!--This article is on both WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
 Wenn ein Benutzer einen Korrekturabzug betrachtet und versucht, ihn zu drucken, zeigt die Druckzusammenfassung keine Seiten des Korrekturabzugs an, denen keine Kommentare beigefügt sind. Dies tritt auch dann auf, wenn in der oberen Navigation die Option [!UICONTROL Alle Seiten] ausgewählt ist.
 

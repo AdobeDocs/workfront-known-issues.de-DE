@@ -2,15 +2,19 @@
 title: "Suche: Die Suche ist extrem langsam."
 description: "Wenn ein Benutzer mit einfacher Suche (dem Suchsymbol) sucht, werden Suchergebnisse extrem langsam zurückgegeben."
 hidefromtoc: true
-source-git-commit: 2716a6fe76366e7225ca8c199e8e53ba5805c856
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '76'
+ht-degree: 10%
 
 ---
 
 
 # Suchen: [!UICONTROL Suche] ist extrem langsam
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 3. November 2022 behoben.
 
 Wenn ein Benutzer mithilfe der einfachen Suche (die [!UICONTROL Suche] ), werden Suchergebnisse extrem langsam zurückgegeben.
 

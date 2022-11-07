@@ -2,15 +2,19 @@
 title: '„Berichte: Berichtverwendungsinformationen werden nicht aktualisiert“'
 description: „Wenn ein(e) Benutzende(r) einen Bericht öffnet, werden Informationen zur letzten Ansicht des Berichts, wie etwa ‚Zuletzt angezeigt am‘ und ‚Zuletzt angezeigt von‘, nicht aktualisiert. Dies bedeutet, dass alle Nutzungsinformationen falsch sein können.“
 hidefromtoc: true
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '115'
+ht-degree: 94%
 
 ---
 
 
 # Berichte: Berichtverwendungsinformationen werden nicht aktualisiert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 4. November 2022 behoben.
 
 Wenn ein(e) Benutzende(r) einen Bericht öffnet, werden Informationen zur letzten Ansicht des Berichts, wie etwa ‚Zuletzt angezeigt am‘ und ‚Zuletzt angezeigt von‘, nicht aktualisiert. Dies bedeutet, dass alle Nutzungsinformationen falsch sein können.
 

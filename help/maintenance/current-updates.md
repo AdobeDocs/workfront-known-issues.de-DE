@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '14844'
+source-wordcount: '15198'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,77 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2022
+
++++**Wartungs-Update (Hotfix) am 4. November 2022**
+
+**Probleme mit Aufgaben, die einer Iteration hinzugefügt werden**
+
+*Agile*
+
+Die folgenden Probleme wurden beim Hinzufügen von Aufgaben zu einer Iteration gemeldet:
+
+* Manche Unteraufgaben einer Aufgabe, die einer Iteration hinzugefügt wurden, werden nicht auf der Seite [!UICONTROL Iteration] angezeigt.
+* Wenn ein(e) Benutzende(r) versucht, der Iteration eine fehlende Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und die folgende Meldung wird angezeigt:
+
+   „[!UICONTROL Folgender Fehler ist aufgetreten: Keines der ausgewählten Objekte konnte verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]“
+
+**Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt**
+
+*Agile*
+
+Wenn ein Benutzer einem Scrum-Team Aufgaben mithilfe der Massenbearbeitung zuweist, werden diese Aufgaben nicht im Backlog des Teams angezeigt.
+
+Kanban-Teams sind von diesem Problem nicht betroffen.
+
+**&quot;[!UICONTROL Neue Testversand-Empfänger]&quot; Textfeld zu klein**
+
+*Korrekturabzüge*
+
+Wenn ein(e) Benutzende(r) einen Korrekturabzug betrachtet und versucht, ihn über die Registerkarte [!UICONTROL Freigabe] freizugeben, ist das Textfeld „[!UICONTROL Neue Testversand-Empfänger]“ sehr klein. Der/die Benutzende kann zwar einen Namen eingeben, doch das Feld ist so klein, dass der Text so umgebrochen wird, dass er schwer lesbar ist.
+
+**Berichtverwendungsinformationen werden nicht aktualisiert**
+
+*Berichte*
+
+Wenn ein(e) Benutzende(r) einen Bericht öffnet, werden Informationen zur letzten Ansicht des Berichts, wie etwa ‚Zuletzt angezeigt am‘ und ‚Zuletzt angezeigt von‘, nicht aktualisiert. Dies bedeutet, dass alle Nutzungsinformationen falsch sein können.
+
+Dieses Verhalten wurde gemeldet, wenn über folgende Tools auf einen Bericht zugegriffen wird:
+
+* Suchen
+* Nadeln
+* Favoriten
+* Letzte
+
+Beim Zugriff auf Berichte über ein Dashboard werden die Informationen zur letzten Anzeige eines Berichts aktualisiert.
+
+**[!DNL Workfront]: 500-Fehler bei Änderungen an einem [!DNL Workfront] Objekt**
+
+*[!DNL Workfront]*
+
+Wenn ein Benutzer versucht, Änderungen an einer [!DNL Workfront] -Objekt, werden die Änderungen nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+
+&quot;[!UICONTROL 500: Datenbankfehler aufgrund einer ungültigen SQL-Anweisung.]&quot;
+
+Dies wurde in folgenden Situationen gemeldet:
+
+* Ändern des Status eines Objekts
+* Neuberechnung der Zeitpläne
+* Vorlagen anhängen
+* Protokollierungszeit
+
++++
+
++++**[!DNL Workfront Fusion]Wartungs-Update vom 3. November 2022**
+
+**Fehler bezüglich [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] Modul**
+
+*[!DNL Workfront Fusion]*
+
+Wenn ein Benutzer versucht, einen Webhook zum [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] -Modul, erhalten sie den folgenden Fehler:
+
+&quot;[!UICONTROL Der bereitgestellte apiKey war leer oder wurde als ungültig betrachtet.]&quot;
+
++++
 
 +++**Wartungs-Update vom 3. November 2022**
 

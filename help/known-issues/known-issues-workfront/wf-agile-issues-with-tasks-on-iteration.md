@@ -2,15 +2,19 @@
 title: '„Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden“'
 description: „Mehrere Meldungen zu Problemen beim Hinzufügen von Aufgaben zu einer Iteration“
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
 
 # Agile: Probleme mit Aufgaben, die einer Iteration hinzugefügt werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 4. November 2022 behoben.
 
 Die folgenden Probleme wurden beim Hinzufügen von Aufgaben zu einer Iteration gemeldet:
 

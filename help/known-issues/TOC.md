@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '1591'
+source-wordcount: '1598'
 ht-degree: 90%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Massenbearbeitung ändert Aufgabenzuweisungen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: Aufgabe hat einen Kanban-Rückstau von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Aufgaben: Kann nicht geändert werden [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: 500-Fehler beim Ändern eines Workfront-Objekts](known-issues-workfront/wf-500-error-when-making-changes.md)

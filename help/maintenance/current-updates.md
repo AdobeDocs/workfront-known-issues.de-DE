@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
-ht-degree: 98%
+source-wordcount: '15236'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,18 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2022
+
++++**(Geplant) Aktualisierung der Wartung am 10. November 2022**
+
+**Interaktiver Testversand kann nicht geöffnet werden**
+
+*Workfront-Korrekturabzug*
+
+Wenn ein Benutzer versucht, einen interaktiven Testversand zu öffnen, wird der Testversand nicht geöffnet und der Benutzer sieht die folgende Nachricht:
+
+&quot;[!UICONTROL Testversand nicht geladen (501) Erneuter Versuch]&quot;
+
++++
 
 +++**Wartungs-Update (Hotfix) am 4. November 2022**
 

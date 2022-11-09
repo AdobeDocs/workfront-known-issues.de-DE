@@ -3,7 +3,7 @@ title: '„Dokumente: Fehler ‚Datei konnte nicht hochgeladen werden‘“'
 description: '„Wenn ein(e) Benutzende(r) versucht, eine Datei in den Bereich Dokumente hochzuladen, wird die Datei nicht hochgeladen und die folgende Fehlermeldung wird angezeigt: ‚Fehler beim Hochladen der Datei‘.“'
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 

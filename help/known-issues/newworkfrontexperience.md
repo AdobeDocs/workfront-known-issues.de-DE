@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 85%
+ht-degree: 93%
 
 ---
 
@@ -26,8 +26,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Agile: Aufgabe hat einen Kanban-Rückstau von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7. November 2022 |
 | [Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2. November 2022 |
-| [Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
-| [Anforderungen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27. Oktober 2022 |
+| [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
+| [Anfragen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 | [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29. September 2022 |
 
@@ -42,7 +42,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | -----------------------------------------------------------------| ----------------- |
 | [Aufgaben: Massenbearbeitung ändert Aufgabenzuweisungen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7. November 2022 |
 | [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
-| [Anforderungen: Es können nicht mehr als 100 Warteschlangenthemen auf einer Seite angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
+| [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |
 | [Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
 | [Navigation: Objekte können nicht angeheftet werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19. Oktober 2022 |
@@ -61,8 +61,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: Kann nicht nach dynamischen Feldern sortiert werden](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31. Oktober 2022 |
-| [[!UICONTROL Einrichtung]: Listen werden langsam in geladen [!UICONTROL Einrichtung]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28. Oktober 2022 |
+| [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31. Oktober 2022 |
+| [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup]](known-issues-workfront/wf-setup-lists-load-slowly.md) nur langsam geladen | 28. Oktober 2022 |
 | [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |

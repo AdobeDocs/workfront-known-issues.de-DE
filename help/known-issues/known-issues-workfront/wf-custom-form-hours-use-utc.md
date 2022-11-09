@@ -1,22 +1,21 @@
 ---
-title: "Benutzerdefinierte Formulare: HOUR-Funktion in berechneten Feldern verwendet UTC"
-description: "Wenn ein berechnetes Feld die HOUR-Funktion enthält, gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem HOUR-Wert basieren, falsch."
+title: 'Benutzerdefinierte Formulare: STUNDE-Funktion in berechneten Feldern verwendet UTC'
+description: Wenn ein berechnetes Feld die Funktion STUNDE enthält, gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem Wert STUNDE basieren, falsch.
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: f4f9fb6e-6226-4603-9518-4c935a644039
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 4%
+ht-degree: 93%
 
 ---
 
-
-# Benutzerdefinierte Formulare: [!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC
+# Benutzerdefinierte Formulare: [!UICONTROL STUNDE]-Funktion in berechneten Feldern verwendet UTC
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 3. November 2022 behoben.
 
-Wenn ein berechnetes Feld [!UICONTROL STUNDE] -Funktion gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem HOUR-Wert basieren, falsch.
+Wenn ein berechnetes Feld die Funktion [!UICONTROL STUNDE] enthält, gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem Wert STUNDE basieren, falsch.
 
 _Erste Meldung am 17. Oktober 2022._
-

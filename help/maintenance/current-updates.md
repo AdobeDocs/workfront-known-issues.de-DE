@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '15236'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -56,11 +56,11 @@ Die folgenden Probleme wurden beim Hinzufügen von Aufgaben zu einer Iteration g
 
    „[!UICONTROL Folgender Fehler ist aufgetreten: Keines der ausgewählten Objekte konnte verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]“
 
-**Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt**
+**Aufgaben, die durch Massenbearbeitung zugewiesen werden, werden nicht in der Rückstandsanzeige des Teams angezeigt**
 
 *Agile*
 
-Wenn ein Benutzer einem Scrum-Team Aufgaben mithilfe der Massenbearbeitung zuweist, werden diese Aufgaben nicht im Backlog des Teams angezeigt.
+Wenn ein(e) Benutzende(r) einem Scrum-Team Aufgaben mithilfe der Massenbearbeitung zuweist, werden diese Aufgaben nicht in der Rückstandsanzeige des Teams angezeigt.
 
 Kanban-Teams sind von diesem Problem nicht betroffen.
 
@@ -148,11 +148,11 @@ Dies wurde in den folgenden Bereichen gemeldet:
 
 +++**Wartungs-Update vom 27. Oktober 2022**
 
-**[!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC**
+**[!UICONTROL STUNDE]-Funktion in berechneten Feldern verwendet UTC**
 
 *Benutzerdefinierte Formulare*
 
-Wenn ein berechnetes Feld [!UICONTROL STUNDE] -Funktion gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem HOUR-Wert basieren, falsch.
+Wenn ein berechnetes Feld die Funktion [!UICONTROL STUNDE] enthält, gibt die Funktion Werte basierend auf UTC und nicht auf der erwarteten Zeitzone zurück. Daher sind alle Berechnungen, die auf dem Wert STUNDE basieren, falsch.
 
 **[!UICONTROL Schnellfilter] gibt bei der Suche nach Teams keine Ergebnisse aus**
 
@@ -166,17 +166,17 @@ Wenn ein(e) Benutzende(r) versucht, mithilfe des [!UICONTROL Schnellfilters] in 
 
 >[!NOTE]
 >
->Dieses Problem wurde am 13. Oktober 2022 in der Vorschau-Umgebung behoben. Es wurde in der Produktion am 27. Oktober 2022 behoben.
+>Dieses Problem wurde am 13. Oktober 2022 in der Vorschau-Umgebung behoben. Am 27. Oktober 2022 wurde es in der Produktionsumgebung behoben.
 
 Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfernen]“ auswählt, eine Meldung über die Entfernung erhält und versucht, die Nadel durch Klicken auf „[!UICONTROL Rückgängig]“ in der Nachricht wiederherzustellen, wird die Nadel in der oberen Navigationsleiste nicht wiederhergestellt und auch nicht zur Liste der Nadeln in [!UICONTROL Weitere Nadeln] hinzugefügt (das Dreipunkt-Menü im Bereich [!UICONTROL Nadeln]).
 
 Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 
-**Alle in [!UICONTROL Lastenausgleich] bei Verwendung eines freigebbaren Links in [!DNL Safari] browser**
+**Im [!UICONTROL Workload Balancer] werden alle Benutzenden aufgelistet, wenn im [!DNL Safari]-Browser ein Freigabe-Link verwendet wird**
 
 *[!UICONTROL Workload Balancer]*
 
-Wenn ein Benutzer auf einen freigebbaren Link zum [!UICONTROL Lastenausgleich] bei Verwendung von [!DNL Safari] -Browser, sehen sie alle Benutzer und nicht nur die aufgelisteten Mitglieder des Teams.
+Wenn ein(e) Benutzende(r) im [!DNL Safari]-Browser auf einen Freigabe-Link zum [!UICONTROL Workload Balancer] klickt, werden alle Benutzenden und nicht nur die aufgelisteten Team-Mitglieder angezeigt.
 
 +++
 
@@ -190,7 +190,7 @@ Wenn ein(e) Benutzende(r) mehrere Aufgaben oder Probleme gleichzeitig bearbeitet
 
 „[!UICONTROL Versuchen Sie es erneut. Der folgende Fehler ist aufgetreten: Team-Arbeitsaufträge müssen entweder eine Liste von Objekten oder eine Liste von IDs sein]“
 
-**&quot;[!UICONTROL Datei konnte nicht hochgeladen werden]&quot; error**
+**Fehlermeldung „[!UICONTROL Fehler beim Hochladen der Datei]“**
 
 *Dokumente*
 
@@ -1074,7 +1074,7 @@ Wenn ein(e) Benutzende(r) mit Planerzugriff, der/die auch Administratorrechte f�
 
 +++**[!DNL Workfront Scenario Planner]Wartungs-Update vom 9. Juni 2022**
 
-**Anpassbares linkes Bedienfeld im[!DNL Scenario Planner]**
+**Anpassbares linkes Bedienfeld im [!DNL Scenario Planner]**
 
 *[!DNL Workfront Scenario Planner]*
 
@@ -1100,7 +1100,7 @@ Wenn ein(e) Benutzende(r) den Ausführungsverlauf eines Szenarios anzeigt und ve
 
 +++**Wartungs-Update vom 2. Juni 2022**
 
-**[!UICONTROL Portfolio-Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
+**[!UICONTROL Portfolio-Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
 
 *Portfolios*
 
@@ -1171,7 +1171,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular mit einem A
 Beim Drucken eines Dashboards im PDF-Format wurden die folgenden Probleme gemeldet: Im PDF-Format wird nicht jede Zeile des Berichts ausgedruckt. Wenn Zeilen fehlen, wird nur Leerraum angezeigt.
 Die PDF-Datei enthält Leerzeichen zwischen den Spaltenüberschriften und der ersten Zeile des Berichts.
 
-**[!DNL Portfolio Optimizer]zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
+**[!DNL Portfolio Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
 
 *Portfolios*
 
@@ -1193,13 +1193,13 @@ Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] über einen freigeg
 
 +++**Wartungs-Update vom 19. Mai 2022**
 
-**Aus einer[!DNL PowerPoint]**-Datei kann kein Korrekturabzug erstellt werden
+**Aus einer [!DNL PowerPoint]**-Datei kann kein Korrekturabzug erstellt werden
 
 *[!DNL Workfront Proof]*
 
 Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug aus einer [!DNL PowerPoint]-Datei zu erstellen, die ein Diagramm enthält, schlägt die Erstellung des Korrekturabzugs fehl.
 
-**Aus einem [!UICONTROL Word]-Dokument kann kein Korrekturabzug erstellt werden**
+**Aus einem [!UICONTROL Word]-Dokument kann kein Korrekturabzug erstellt werden**
 
 *[!DNL Workfront Proof]*
 
@@ -1385,7 +1385,7 @@ Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload Balancer] zu öffne
 
 Wenn ein(e) Benutzende(r) eine Aufgabe unterhalb einer vorhandenen Aufgabe in einer Liste hinzufügt, wird die Seite in der Liste nach unten verschoben. Obwohl sich die neue Aufgabe an der richtigen Stelle befindet, muss der/die Benutzende nach oben scrollen, um sie zu finden.
 
-**Benutzende, die zu einem Korrekturabzug hinzugefügt wurden, können nicht auf das Arbeitselement des Korrekturabzugs in[!DNL Workfront]** zugreifen
+**Benutzende, die zu einem Korrekturabzug hinzugefügt wurden, können nicht auf das Arbeitselement des Korrekturabzugs in [!DNL Workfront]** zugreifen
 
 *Korrekturabzüge*
 
@@ -1395,7 +1395,7 @@ Wenn ein(e) Benutzende(r) zu einem Schritt im Workflow eines Korrekturabzugs hin
 
 Dieses Problem betrifft nur Korrekturabzüge, die bereits erstellt wurden und denen danach Benutzer hinzugefügt wurden. Das Hinzufügen von Benutzern zum Workflow vor der Erstellung eines Korrekturabzugs funktioniert ordnungsgemäß.
 
-**Die E-Mail zum Zurücksetzen des Passworts kann in[!DNL Workfront]** nicht gesendet werden
+**Die E-Mail zum Zurücksetzen des Passworts kann in [!DNL Workfront]** nicht gesendet werden
 
 *Benutzer*
 
@@ -1569,7 +1569,7 @@ Wenn ein(e) Benutzende(r) über eine Registerkarte, die als Teil der Layout-Vorl
 
 +++**Wartungs-Update vom 31. März 2022**
 
-**Zeitzonen zwischen [!DNL Workfront] und[!DNL Workfront Proof]** stimmen nicht überein
+**Zeitzonen zwischen [!DNL Workfront] und [!DNL Workfront Proof]** stimmen nicht überein
 
 *[!DNL Workfront Proof]*
 
@@ -1603,7 +1603,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifende
 
 Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
-„\&lt;Name\> entspricht nicht der Rolle von \&lt;Aufgabenrollenzuweisung\>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung\> zugewiesen ist, wird \&lt;Name> in der Rolle \&lt;Primäres Aufgabengebiet\> zugewiesen.“
+„&lt;Name> entspricht nicht der Rolle von &lt;Aufgabenrollenzuweisung>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung> zugewiesen ist, wird &lt;Name> in der Rolle &lt;Primäres Aufgabengebiet> zugewiesen.“
 
 Dies tritt auch dann auf, wenn der/die Benutzende das Aufgabengebiet der Aufgabenrollenzuweisung als sekundäres Aufgabengebiet hat.
 
@@ -1643,7 +1643,7 @@ HINWEIS: Diese Problembehebung umfasste zusätzliche Funktionen. Wenn Sie nun mi
 
 +++**Wartungs-Update vom 24. März 2022**
 
-**Zeitzonen zwischen [!DNL Workfront] und[!DNL Workfront Proof]** stimmen nicht überein
+**Zeitzonen zwischen [!DNL Workfront] und [!DNL Workfront Proof]** stimmen nicht überein
 
 *[!DNL Workfront Proof]*
 
@@ -1866,7 +1866,7 @@ Wenn ein(e) Benutzende(r) den Status eines Arbeitselements in der Kopfzeile änd
 
 +++**Wartungs-Update vom 3. März 2022**
 
-**Dokument kann nicht aus[!DNL Google Drive]** hinzugefügt werden
+**Dokument kann nicht aus [!DNL Google Drive]** hinzugefügt werden
 
 *Dokumente*
 
@@ -2280,7 +2280,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular oder eine V
 
 Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug aufruft, werden im Bereich [!UICONTROL Aktualisierungen] des Dokuments keine Kommentare zum Korrekturabzug selbst angezeigt.
 
-**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
+**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
 
 *[!UICONTROL Lastenausgleich]*
 

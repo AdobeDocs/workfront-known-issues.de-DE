@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '1598'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -24,16 +24,16 @@ ht-degree: 90%
       + [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Suchen: Die Suche ist extrem langsam](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]: 404 Fehler bei [!DNL Workfront] Module](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API: Kann nicht nach dynamischen Feldern sortiert werden](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [Testsendungen: Die Erzeugung von Testsendungen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Anforderungen: Es können nicht mehr als 100 Warteschlangenthemen auf einer Seite angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [Probleme: In der linken Navigation werden Probleme mit &quot;(0)&quot;angezeigt, wenn Probleme auftreten.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [Anforderungen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
-      + [[!UICONTROL Pinnwände]: [!UICONTROL Aufnahme] Spaltensuche ist ineffektiv](known-issues-workfront/wf-boards-search-returns-no-results.md)
-      + [[!UICONTROL Einrichtung]: Listen werden langsam in geladen [!UICONTROL Einrichtung]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Benutzerdefinierte Formulare: [!UICONTROL STUNDE] Funktion in berechneten Feldern verwendet UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [Agile: Aufgaben, die durch die Massenbearbeitung zugewiesen werden, werden nicht im Backlog des Teams angezeigt](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [Probleme: In der linken Navigation werden „(0)“ Probleme angezeigt, obwohl Probleme vorhanden sind.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Anfragen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [[!UICONTROL Pinnwände]: [!UICONTROL Aufnahme]-Spaltensuche funktioniert nicht ordnungsgemäß](known-issues-workfront/wf-boards-search-returns-no-results.md)
+      + [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup] nur langsam geladen](known-issues-workfront/wf-setup-lists-load-slowly.md)
+      + [Benutzerdefinierte Formulare: [!UICONTROL STUNDE]-Funktion in berechneten Feldern verwendet UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
+      + [Agile: Aufgaben, die durch Massenbearbeitung zugewiesen werden, werden nicht in der Rückstandsanzeige des Teams angezeigt](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Berichte: Berichtverwendungsinformationen werden nicht aktualisiert](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigation: Objekte können nicht angeheftet werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Pinnwände]: Die Seite [!UICONTROL Pinnwände] wird nicht geladen](known-issues-workfront/wf-boards-boards-do-not-load.md)

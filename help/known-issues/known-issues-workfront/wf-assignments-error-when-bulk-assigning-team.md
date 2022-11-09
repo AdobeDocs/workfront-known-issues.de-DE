@@ -3,7 +3,7 @@ title: '„Arbeitsaufträge: Fehler bei der Massenzuweisung eines Teams“'
 description: „Wenn ein(e) Benutzende(r) mehrere Aufgaben oder Probleme gleichzeitig bearbeitet und ein Team zuweist, nachdem eine einzelne Person zugewiesen wurde, werden die Arbeitsaufträge nicht gespeichert und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 

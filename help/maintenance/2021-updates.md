@@ -3,7 +3,7 @@ title: Wartungs-Updates 2021 für Workfront
 description: Verlauf der Wartungs-Updates 2021 für  [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -75,7 +75,7 @@ In der Nachricht werden Dokumente erwähnt, auch wenn sich der/die Benutzende in
 
 **[!UICONTROL Nicht zugewiesene Arbeit] wird nicht geladen**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) im [!UICONTROL Workload Balancer] über das Feld [!UICONTROL Arbeitsauftrag: Rollen-ID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
@@ -110,7 +110,7 @@ Wenn ein(e) Benutzende(r) das linken Navigationsfenster reduziert hat und dann e
 
 **[!UICONTROL Workload Balancer] zeigt 0 zugeordnete Stunden** an
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] öffnet und die Einstellung „[!UICONTROL Prognostiziertes Datum anzeigen]“ aktiviert ist, werden bei allen Datumsangaben, die in der Zukunft liegen, 0 zugewiesene Stunden angezeigt.
 
@@ -149,7 +149,7 @@ Wenn ein(e) Benutzende(r) versucht, einen benutzerdefinierten Abschnitt aus dem 
 
 **Nicht zugewiesene Arbeit wird nicht geladen**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) im [!UICONTROL Workload Balancer] über das Feld [!UICONTROL Arbeitsauftrag: Rollen-ID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
@@ -234,7 +234,7 @@ Wenn ein(e) Benutzende(r) versucht, ein neues Dokument von [!DNL Google Drive] m
 
 **Verwendung von mehr als einem Filter im Workload Balancer nicht möglich**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, mehr als einen Filter im [!UICONTROL Workload Balancer] zu verwenden, treten folgende Probleme auf:
 
@@ -283,7 +283,7 @@ Wenn ein(e) Benutzende(r) eine Karte in eine neue Spalte auf dem Storyboard zieh
 
 **Werte für benutzerdefinierte Felder in Filtern nicht verfügbar**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, einen Filter mithilfe eines benutzerdefinierten Felds zu erstellen, wird der Wert für dieses benutzerdefinierte Feld nicht angezeigt und kann nicht in den Filter eingegeben werden.
 
@@ -327,13 +327,13 @@ Wir haben links neben den Anfragenamen in der [!UICONTROL Liste „Gesendet“] 
 
 **Benutzerdefinierte Quartale werden jetzt in Workload-Balancer-Filtern unterstützt**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Die Filter im [!UICONTROL Workload Balancer] unterstützen jetzt benutzerdefinierte Quartale.
 
 **Filteroperatoren für das Feld „Dauer“ in den Workload-Balancer-Filtern wurde aktualisiert**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Die Filteroperatoren zum Filtern der Bereiche im [!UICONTROL Workload Balancer] nach der [!UICONTROL Dauer] wurden aktualisiert.
 
@@ -368,7 +368,7 @@ Wenn ein(e) Benutzende(r) eine Anfrage mit einem obligatorischen Optionsschaltfl
 
 **In [!UICONTROL Workload Balancer]** kann kein Filter hinzugefügt werden
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] einen Filter hinzuzufügen, wird das Bedienfeld [!UICONTROL Filter hinzufügen] geöffnet, doch der Inhalt des Bedienfelds wird nicht geladen und der/die Benutzende kann den Filter nicht hinzufügen.
 
@@ -412,7 +412,7 @@ Wenn ein(e) Benutzende(r) zur [!UICONTROL Startseite] oder zu [!UICONTROL Meine 
 
 **[!UICONTROL Workload Balancer] als standardmäßige Zeitplan-Option festgelegt**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r), dessen/deren [!UICONTROL Zeitplan] als Standard festgelegt ist, diesen verwenden möchte, stellt er/sie fest, dass der [!UICONTROL Workload Balancer] als Standard festgelegt wurde.
 
@@ -489,7 +489,7 @@ Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Alle Ankündigungen] im Bereich 
 
 **Fehler beim Zuweisen eines Arbeitsauftrags im [!UICONTROL Workload Balancer]**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, einen Arbeitsauftrag im [!UICONTROL Workload Balancer] zuzuweisen, wird die Arbeit nicht zugewiesen und die folgende Fehlermeldung wird angezeigt:
 
@@ -532,7 +532,7 @@ Wenn ein(e) Benutzende(r) das Zusammenfassungs-Bedienfeld eines [!UICONTROL Busi
 
 **Spaltenüberschriften entsprechen nicht den Spalten in den Listen**
 
-_Einrichtung_
+_Setup_
 
 Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Setup] befindet und eine Liste öffnet, z. B. [!UICONTROL Benutzerdefinierte Formulare] oder [!UICONTROL Zugriffsebenen], entsprechen die Spaltenüberschriften dieser Liste nicht den Spalten in der Liste.
 
@@ -638,7 +638,7 @@ Das Symbol „[!UICONTROL Alle reduzieren oder erweitern]“ wird nicht in der K
 
 Beim Ändern der Aufgabenzuordnung sind die Optionen **[!UICONTROL Überprüfen] und [!UICONTROL Abbrechen] nicht sichtbar**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, die Aufgabenzuordnung für eine Aufgabe zu ändern, und sich der Zeitrahmen dieser Aufgabe bis zum Rand der sichtbaren Seite oder darüber hinaus erstreckt, sind die Schaltflächen [!UICONTROL Überprüfen] und [!UICONTROL Abbrechen] nicht sichtbar und der/die Benutzende kann die Zuordnungsänderungen nicht speichern oder abbrechen.
 
@@ -810,7 +810,7 @@ Wenn ein(e) Benutzende(r) mit einem benutzerdefinierten Profil für Korrekturabz
 
 **Fehlermeldung bei Verwendung der Option [!UICONTROL Prozentsatz] für [!UICONTROL Zugeordnete Stunden]**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) die Option [!UICONTROL Prozentsatz] für [!UICONTROL Zugeordnete Stunden] auswählt, und im Abschnitt [!UICONTROL Nicht zugeordnete Arbeit] Arbeit vorhanden ist, wird der folgende Fehler angezeigt:
 
@@ -1039,7 +1039,7 @@ _[!DNL Workfront Proof]_
 
 Wenn ein(e) Benutzende(r) in [!DNL Workfront Proof] zur Erstellungsseite [!UICONTROL eines neuen Korrekturabzugs] navigiert und der Inhalt in eine andere Sprache als Englisch übersetzt wird, werden einige Ausdrücke weiterhin auf Englisch angezeigt.
 
-**Deaktivierte und gelöschte Kennzeichnungen wurden zu Benutzenden hinzugefügt[!DNL Workfront Proof]**
+**Deaktivierte und gelöschte Kennzeichnungen wurden zu Benutzenden hinzugefügt [!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
@@ -1153,7 +1153,7 @@ Zuvor wurde der Datenspeicherwert 0 als leer angezeigt. &lt;...>
 
 **Dropdown-Kalender wird hinter der Überschrift [!UICONTROL Nicht zugeordnete Arbeit] angezeigt**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) zum [!UICONTROL Workload Balancer] in [!DNL Workfront Classic] navigiert, wird der obere Rand der Datumsauswahl durch die Überschrift [!UICONTROL Nicht zugeordnete Arbeit] verdeckt, was verhindert, dass der/die Benutzende zu den einzelnen Monaten navigieren kann.
 
@@ -1202,7 +1202,7 @@ Feld **[!UICONTROL Währung] funktioniert nicht erwartungsgemäß**
 
 _Listen_
 
-Wenn ein(e) Benutzende(r) versucht, das Währungsfeld in einer Liste inline zu bearbeiten, kann er/sie die Änderungen aus folgenden Gründen nicht speichern:
+Wenn ein(e) Benutzende(r) versucht, das Währungsfeld  in einer Liste inline zu bearbeiten, kann er/sie die Änderungen aus folgenden Gründen nicht speichern:
 
 * Aufgaben- und Problemlisten lassen nicht die Eingabe von Währungssymbolen zu
 * Listen erlauben nicht die Eingabe von Währungskürzeln bei der Verwendung eines anderen Gebietsschemas als Englisch
@@ -1257,7 +1257,7 @@ _Workfront-Integrationen_
 
 Wenn ein(e) Benutzende(r) versucht, Dateien mithilfe der [!DNL Workfront for Adobe Creative Cloud]-Integration hochzuladen oder zu exportieren, wird die Fehlermeldung „[!UICONTROL Die Eigenschaft ‚Schritte‘ der nicht definierten Eigenschaft kann nicht gelesen werden]“ angezeigt und die Dateien können nicht hochgeladen oder exportiert werden.
 
-**Dateien sind in[!DNL Internet Explorer]** nicht sichtbar
+**Dateien sind in[!DNL Internet Explorer]** nicht sichtbar
 
 _Dokumente_
 
@@ -1294,11 +1294,11 @@ Wenn ein(e) Benutzende(r) versucht, ein Szenario auszuführen, wird das Szenario
 
 **[!UICONTROL Workload Balancer] zeigt falsche geplante Stunden an**
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) die geplanten Stunden einer Aufgabe im [!UICONTROL Workload Balancer] aufruft, stimmt der Wert der geplanten Stunden nicht mit den der Aufgabe zugewiesenen geplanten Stunden überein.
 
-**Die Navigationsleiste am oberen Rand ist in[!DNL Workfront Proof]** nicht sichtbar
+**Die Navigationsleiste am oberen Rand ist in [!DNL Workfront Proof]** nicht sichtbar
 
 _[!DNL Workfront Proof]_
 
@@ -1324,7 +1324,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug direkt über [!DNL Adob
 
 +++**Wartungs-Update vom 1. April 2021**
 
-**Probleme beim Anzeigen des Übersichtsbereichs in[!DNL Chrome]**
+**Probleme beim Anzeigen des Übersichtsbereichs in [!DNL Chrome]**
 
 _[!UICONTROL Zusammenfassung]_
 
@@ -1332,7 +1332,7 @@ Wenn ein(e) Benutzende(r) das Bedienfeld [!UICONTROL Zusammenfassung] öffnet, w
 
 Im Bereich **[!UICONTROL Teams] in [!UICONTROL Setup] werden nicht alle Teams angezeigt**
 
-_[!UICONTROL Einrichtung]_
+_[!UICONTROL Setup]_
 
 Wenn ein(e) Administrator(in) zum Bereich [!UICONTROL Teams] unter [!UICONTROL Setup] navigiert, kann er/sie nur selbst erstellte Teams sehen. Von anderen Administratoren bzw. Administratorinnen erstellte Teams sind nicht sichtbar.
 
@@ -1393,7 +1393,7 @@ Wenn ein(e) Benutzende(r) einen Begriff aus der [!DNL Workfront]-API zur Auswahl
 
 **Die Einstellungen einer Projektvorlage gelten jetzt für Projekte, die mit [!DNL Workfront Fusion] 2.0 erstellt werden**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
 Beim Erstellen eines Projekts über eine Vorlage mit [!DNL Workfront Fusion] 2.0 werden die Vorlageneinstellungen auf das neue Projekt angewendet. Dies entspricht nun dem Verhalten, wenn ein Projekt über eine Vorlage in der [!DNL Workfront]-Anwendung erstellt wird.
 
@@ -1496,7 +1496,7 @@ Wenn ein(e) Benutzende(r), der/die in der neuen [!DNL Workfront]-Version angemel
 
 **Filter im [!UICONTROL Workload Balancer]** können nicht bearbeitet werden
 
-_[!UICONTROL Lastenausgleich]_
+_[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, einen Filter im [!UICONTROL Workload Balancer] zu bearbeiten, öffnet sich der Filtergenerator nicht.
 
@@ -1608,7 +1608,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version auf Dokument-Lin
 
 +++**Wartungs-Update von Workfront Fusion vom 16. Februar 2021**
 
-**[!DNL Workfront Fusion]2.0 zeigt falsche Zeitzonen an**
+**[!DNL Workfront Fusion] 2.0 zeigt falsche Zeitzonen an**
 
 _Szenarios_
 
@@ -1675,7 +1675,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version [!UICONTROL Star
 
 _Projekte_
 
-Bei Verwendung eines einmaligen Genehmigungsprozesses für ein Projekt wird nun in der neuen [!DNL Workfront]-Version im Feld [!UICONTROL Projekt bearbeiten] „[!UICONTROL Einmaliges Genehmigungsverfahren]“ anstelle von „\&lt;Custom>“angezeigt. Dies ist noch nicht für Aufgaben und Probleme verfügbar.
+Bei Verwendung eines einmaligen Genehmigungsprozesses für ein Projekt wird nun in der neuen [!DNL Workfront]-Version im Feld [!UICONTROL Projekt bearbeiten] „[!UICONTROL Einmaliges Genehmigungsverfahren]“ anstelle von „&lt;Custom>“angezeigt. Dies ist noch nicht für Aufgaben und Probleme verfügbar.
 
 **Verbessertes Erscheinungsbild für benutzerdefinierte Formulare**
 
@@ -1723,7 +1723,7 @@ Wenn ein(e) Benutzende(r) versucht, Text in bestimmte Felder in der Korrekturabz
 
 **E-Mail-Benachrichtigungseinstellungen können nicht aktualisiert werden**
 
-_Einrichtung_
+_Setup_
 
 Wenn ein(e) Benutzende(r) versucht, Einstellungen für E-Mail-Benachrichtigungen zu aktualisieren, kann er/sie nicht auf den Bereich [!UICONTROL E-Mail-Benachrichtigungen] zugreifen und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Versuchen wir es noch einmal! Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 

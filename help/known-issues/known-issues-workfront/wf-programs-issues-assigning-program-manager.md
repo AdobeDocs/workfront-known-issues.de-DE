@@ -2,15 +2,19 @@
 title: '„Programme: Probleme beim Zuweisen eines Programm-Inhabers“'
 description: „Wenn ein(e) Benutzende(r) ein Programm erstellt und einen Programm-Inhaber bzw. eine Programm-Inhaberin zuweist, treten die in diesem Artikel beschriebenen Probleme auf.“
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 94%
 
 ---
 
 
 # Programme: Probleme beim Zuweisen eines [!UICONTROL Programm-Inhabers]
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 7. November 2022 behoben.
 
 Wenn ein(e) Benutzende(r) ein Programm erstellt und einen [!UICONTROL Programm-Inhaber bzw. eine Programm-Inhaberin] zuweist, treten die folgenden Probleme auf:
 

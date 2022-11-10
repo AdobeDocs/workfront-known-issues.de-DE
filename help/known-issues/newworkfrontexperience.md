@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 93%
+source-wordcount: '554'
+ht-degree: 94%
 
 ---
 
@@ -40,13 +40,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aufgaben: Massenbearbeitung ändert Aufgabenzuweisungen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7. November 2022 |
 | [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
 | [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |
 | [Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |
 | [Navigation: Objekte können nicht angeheftet werden](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19. Oktober 2022 |
-| [Programme: Probleme beim Zuweisen eines [!UICONTROL Programm-Inhabers]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17. Oktober 2022 |
 | [Berichte: Option „Verschieben nach“ für Problemberichte nicht verfügbar](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13. Oktober 2022 |
 | [Benutzerdefinierte Formulare: Fehler „Hoppla“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13. Oktober 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert | 30. September 2022 |

@@ -2,15 +2,20 @@
 title: "Aufgaben: Massenbearbeitung von Aufgaben ändert Aufgabenzuweisungen"
 description: "Wenn ein Benutzer eine Gruppe von Aufgaben gleichzeitig bearbeitet, werden die Zuweisungen der ersten Aufgabe auf alle Aufgaben angewendet. Dadurch werden frühere Zuweisungen gelöscht."
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
 
 
 # Aufgaben: Massenbearbeitung ändert Aufgabenzuweisungen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 10. November 2022 behoben.
+
 
 Wenn ein Benutzer eine Gruppe von Aufgaben gleichzeitig bearbeitet, werden die Zuweisungen der ersten Aufgabe auf alle Aufgaben angewendet. Dadurch werden frühere Zuweisungen gelöscht.
 

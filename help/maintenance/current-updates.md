@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 ## Updates im November 2022
 
-+++**(Geplant) Aktualisierung der Wartung am 10. November 2022**
++++**Wartungs-Update vom 10. November 2022**
+
+**Massenbearbeitung ändert Aufgabenzuweisungen**
+
+*Aufgaben*
+
+Wenn ein Benutzer eine Gruppe von Aufgaben gleichzeitig bearbeitet, werden die Zuweisungen der ersten Aufgabe auf alle Aufgaben angewendet. Dadurch werden frühere Zuweisungen gelöscht.
 
 **Interaktiver Testversand kann nicht geöffnet werden**
 

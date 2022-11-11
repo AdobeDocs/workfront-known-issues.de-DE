@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
+source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 92%
+source-wordcount: '574'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |
 | [Agile: Aufgabe hat einen Kanban-Rückstau von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7. November 2022 |
 | [Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |

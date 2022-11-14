@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 93%
+source-wordcount: '1653'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Fehler &quot;Upper&quot; beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [Testsendungen: Die Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Layout-Vorlagen: Ausblenden eines Elements blendet das falsche Element aus](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)

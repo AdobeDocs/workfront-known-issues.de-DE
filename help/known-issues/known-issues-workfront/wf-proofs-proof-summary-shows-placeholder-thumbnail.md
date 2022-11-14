@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an."
+description: "Wenn ein Benutzer die [!UICONTROL Druckzusammenfassung] Seite eines Testversands in [!DNL Workfront], wird die Miniaturansicht des Testversands nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt."
 hidefromtoc: true
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 10%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 

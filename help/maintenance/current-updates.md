@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,17 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2022
+
++++**(Geplant) Aktualisierung der Wartung am 17. November 2022**
+
+**Ausblenden eines Elements blendet das falsche Element aus**
+
+*Layout-Vorlagen*
+
+Wenn ein Benutzer ändert, ob ein Element ausgeblendet oder angezeigt wird, werden diese Änderungen auf einem anderen Element in der Layoutvorlage übernommen.
+
+
++++
 
 +++**Wartungs-Update vom 10. November 2022**
 

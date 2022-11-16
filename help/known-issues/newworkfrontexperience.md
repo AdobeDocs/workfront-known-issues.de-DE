@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 83%
+ht-degree: 89%
 
 ---
 
@@ -26,8 +26,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14. November 2022 |
 | [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |
-| [Agile: Aufgabe hat einen Kanban-Rückstau von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7. November 2022 |
-| [Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2. November 2022 |
+| [Agile: Aufgabe hat einen Kanban-Rückstand von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7. November 2022 |
+| [Anfragen: Hoppla-Nachricht beim Bearbeiten der Anfragewarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Anfragen: [!UICONTROL E-Mail-Warteschlangeneinstellungen] nicht verfügbar](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
@@ -46,7 +46,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14. November 2022 |
 | [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
 | [Layout-Vorlagen: Ausblenden eines Elements blendet das falsche Element aus](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10. November 2022 |
-| [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
+| [Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
 | [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |
 | [Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20. Oktober 2022 |

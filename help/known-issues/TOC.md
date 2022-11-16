@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '1666'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 91%
       + [Testsendungen: Die Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Layout-Vorlagen: Ausblenden eines Elements blendet das falsche Element aus](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [Aufgaben: Massenbearbeitung ändert Aufgabenzuweisungen](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [Agile: Aufgabe hat einen Kanban-Rückstau von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [Aufgaben: Kann nicht geändert werden [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Aufgaben: durch Massenbearbeitung werden Aufgabenzuweisungen geändert](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Agile: Aufgabe hat einen Kanban-Rückstand von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [Aufgaben: [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe kann nicht geändert werden](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront: 500-Fehler beim Ändern eines Workfront-Objekts](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [Listen: Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [Suchen: Die Suche ist extrem langsam](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: 404 Fehler bei [!DNL Workfront] Module](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [Anfragen: Hoppla-Nachricht beim Bearbeiten der Anfragewarteschlange](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [Suche: Die Suche ist extrem langsam](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]: 404-Fehler bei  [!DNL Workfront] -Modulen](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -160,7 +160,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in  [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Interaktiver Testversand kann nicht geöffnet werden](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]: Interaktiver Korrekturabzug kann nicht geöffnet werden](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Leere Seiten, wenn ein Korrekturabzug mit mehreren Seiten aufgerufen wird](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -187,7 +187,7 @@ ht-degree: 91%
       + [Für den Bericht zu [!UICONTROL Korrekturabzugs-Genehmigungen] können keine korrekten Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug{#proof-resolved}
+   + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
       + [[!DNL Workfront Proof]: Manche Bereiche von  [!DNL Workfront Proof]  werden nicht aktualisiert, wenn ein Korrekturabzug erstellt, verschoben oder archiviert wird](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Korrekturabzüge: In den Korrekturabzügen wird [!UICONTROL Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
@@ -195,7 +195,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Array-Elemente in [!UICONTROL Iterator] Modulanzeige als[!UICONTROL Objekt-Objekt]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-Fehler in  [!DNL Fusion] -Szenario](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Daten konnten nicht geladen werden]“](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

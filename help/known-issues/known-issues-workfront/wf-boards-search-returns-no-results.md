@@ -1,12 +1,12 @@
 ---
-title: 'Pinnwände: Aufnahme-Spaltensuche funktioniert nicht ordnungsgemäß '
-description: 'Wenn ein(e) Benutzende(r) versucht, die Spalte Aufnahme einer Pinnwand zu durchsuchen, ändern sich die in dieser Spalte angezeigten Elemente nicht. '
+title: '„Pinnwände: Aufnahme-Spaltensuche funktioniert nicht ordnungsgemäß“'
+description: ‚“enn ein(e) Benutzende(r) versucht, die Spalte ‚Aufnahme‘ einer Pinnwand zu durchsuchen, ändern sich die in dieser Spalte angezeigten Elemente nicht.“ „
 hidefromtoc: true
 exl-id: d5c6470d-59ed-4fb6-9cc8-a8445abb2e67
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

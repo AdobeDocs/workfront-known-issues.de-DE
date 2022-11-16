@@ -3,7 +3,7 @@ title: '„Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem lan
 description: „Wenn ein(e) Benutzende(r) mithilfe eines automatisierten Workflows versucht, einen Korrekturabzug über die Option ‚Neu hinzufügen‘ > ‚Korrekturabzug‘ zu einem Workfront-Arbeitselement hinzuzufügen, dauert die Erstellung des Korrekturabzugs mehrere Minuten.‘“
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 

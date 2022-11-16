@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] Module](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31. Oktober 2022 |
+| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] -Module](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] Modulanzeige als[!UICONTROL Objekt-Objekt]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1. November 2022 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] -Modul wird als [!UICONTROL Objekt „Objekt“] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1. November 2022 |
 | In-App-Hilfe-Links in [[!DNL Workfront Fusion]: [!DNL Fusion]  führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2. August 2022 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -3,9 +3,9 @@ title: '„Probleme: In der linken Navigation werden (0) Probleme angezeigt, obw
 description: „Wenn ein(e) Benutzende(r) eine Aufgabe anzeigt, in der Probleme vorhanden sind, wird im linken Navigationsbereich der Aufgabe (0) angezeigt, was darauf hinweist, dass es keine Probleme gibt. Wenn der/die Benutzende den Bereich ‚Probleme‘ der Aufgabe aufruft, sind die Probleme zu sehen.“
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert. Die Zahl im Bereich Probleme bezieht sich auf die Anzahl offener Probleme, nicht auf die Gesamtzahl der Probleme.
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert. Die Zahl im Bereich „Probleme“ bezieht sich auf die Anzahl der offenen Probleme, nicht auf die Gesamtzahl der Probleme.
 
 Wenn ein(e) Benutzende(r) eine Aufgabe anzeigt, in der Probleme vorhanden sind, wird im linken Navigationsbereich der Aufgabe (0) angezeigt, was darauf hinweist, dass es keine Probleme gibt. Wenn der/die Benutzende den Bereich „Probleme“ der Aufgabe aufruft, sind die Probleme zu sehen.
 

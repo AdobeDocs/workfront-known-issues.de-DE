@@ -1,22 +1,21 @@
 ---
-title: "Workfront Fusion: 404-Fehler bei Workfront-Modulen"
-description: "Wenn ein Szenario ausgeführt wird, gibt ein Workfront-Modul einen 404-Fehler zurück."
+title: '„Workfront Fusion: 404-Fehler bei Workfront-Modulen“'
+description: Beim Ausführen eines Szenarios, wird von einem Workfront-Modul ein 404-Fehler zurückgegeben.
 hidefromtoc: true
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
-workflow-type: tm+mt
+exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]: 404 Fehler bei [!DNL Workfront]-Modulen
 
-# [!DNL Workfront Fusion]: 404 Fehler bei [!DNL Workfront] Module
-
-Wenn ein Szenario ausgeführt wird, wird ein [!DNL Workfront] -Modul gibt einen 404-Fehler zurück.
+Beim Ausführen eines Szenarios, wird von einem [!DNL Workfront]-Modul ein 404-Fehler zurückgegeben.
 
 Dies wurde in den folgenden Modulen gemeldet:
 
 * [!UICONTROL Datensatz lesen]
 
 _Erste Meldung am 27. Oktober 2022._
-

@@ -1,18 +1,17 @@
 ---
-title: "Agile: Aufgabe hat einen Kanban-Rückstand von 0"
-description: "Wenn ein Benutzer den Rückstand eines Kanban-Teams anzeigt, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0."
+title: '„Agile: Aufgabe hat einen Kanban-Rückstand von 0“'
+description: Wenn ein(e) Benutzende(r) den Rückstand eines Kanban-Teams aufruft, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0 an.
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 5bc183e2-15c1-4ff4-9f88-05df873a7926
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
+# Agile: Aufgabe hat einen Kanban-Rückstand von 0
 
-# Agile: Aufgabe hat einen Kanban-Rückstau von 0
-
-Wenn ein Benutzer den Rückstand eines Kanban-Teams anzeigt, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0 an.
+Wenn ein(e) Benutzende(r) den Rückstand eines Kanban-Teams aufruft, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0 an.
 
 _Erste Meldung am 7. Oktober 2022._
-

@@ -1,18 +1,17 @@
 ---
-title: "Workfront Fusion: Array-Elemente im Iterator-Modul werden als Objekt angezeigt"
-description: "Wenn ein Benutzer ein Iterator-Modul anzeigt, werden Elemente des Arrays als Objektobjekt angezeigt. Dies kann auch auftreten, wenn die Array-Elemente bei der vorherigen Anzeige korrekt angezeigt wurden."
+title: '„Workfront Fusion: Array-Elemente im Iterator-Modul werden als Objekt ‚Objekt‘ angezeigt.“'
+description: Wenn ein(e) Benutzende(r) ein Iterator-Modul aufruft, werden Elemente des Arrays als Objekt ‚Objekt‘ angezeigt. Dies kann auch dann vorkommen, wenn die Array-Elemente bei einem früheren Aufruf korrekt angezeigt wurden.
 hidefromtoc: true
-source-git-commit: e7bfb61054250c1eaf92c15f07316b37cc50a01a
-workflow-type: tm+mt
+exl-id: 94cab740-6e04-41a6-85c7-d7755b6bae7e
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt
 
-# [!DNL Workfront Fusion]: Array-Elemente in [!UICONTROL Iterator] Modulanzeige als[!UICONTROL Objekt-Objekt]&quot;
-
-Wenn ein Benutzer eine [!UICONTROL Iterator] -Modul, werden Elemente des Arrays als[!UICONTROL Objekt-Objekt].&quot; Dies kann auch dann vorkommen, wenn die Array-Elemente bei der vorherigen Anzeige korrekt angezeigt wurden.
+Wenn ein(e) Benutzende(r) ein [!UICONTROL Iterator]-Modul aufruft, werden Elemente des Arrays als [!UICONTROL Objekt „Objekt“] angezeigt. Dies kann auch dann vorkommen, wenn die Array-Elemente bei einem früheren Aufruf korrekt angezeigt wurden.
 
 _Erste Meldung am 13. Oktober 2022._
-

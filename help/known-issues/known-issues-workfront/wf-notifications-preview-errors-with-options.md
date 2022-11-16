@@ -3,9 +3,9 @@ title: '„Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungse
 description: „Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird ihm möglicherweise ein Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

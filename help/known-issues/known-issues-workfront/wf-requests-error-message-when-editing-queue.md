@@ -1,26 +1,26 @@
 ---
-title: "Anforderungen: Nachricht beim Bearbeiten der Anforderungswarteschlange aufrufen"
-description: "Wenn ein Benutzer eine Anforderungswarteschlange bearbeitet und versucht, Änderungen zu speichern, wird ein Fehler angezeigt."
+title: '„Anfragen: Hoppla-Nachricht beim Bearbeiten der Anfragewarteschlange“'
+description: „Wenn ein(e) Benutzende(r) eine Anfrage-Warteschlange bearbeitet und versucht, Änderungen zu speichern, wird ein Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# Anforderungen: Nachricht &quot;Hopplen&quot; beim Bearbeiten der Anforderungswarteschlange
+# Anfragen: Hoppla-Nachricht beim Bearbeiten der Anfragewarteschlange
 
-Wenn ein Benutzer eine Anforderungswarteschlange bearbeitet und versucht, Änderungen zu speichern, wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) eine Anfrage-Warteschlange bearbeitet und versucht, Änderungen zu speichern, wird die folgende Fehlermeldung angezeigt:
 
-&quot;Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.“
+„Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.“
 
-Darüber hinaus wird dem Benutzer unten auf der Seite neben der Schaltfläche Speichern folgende Meldung angezeigt:
+Darüber hinaus wird erscheint unten auf der Seite neben der Schaltfläche „Speichern“ folgende Meldung:
 
-&quot;Auf E-Mail-Service für Anforderungswarteschlange kann nicht zugegriffen werden. Bitte wenden Sie sich an Workfront.&quot;
+„Auf den E-Mail-Service für die Anfrage-Warteschlange kann nicht zugegriffen werden. Bitte wenden Sie sich an Workfront.“
 
-Die Änderungen an der Anforderungswarteschlange werden trotz der Fehlermeldung gespeichert.
+Die Änderungen an der Anfrage-Warteschlange werden trotz der Fehlermeldung gespeichert.
 
 _Erste Meldung am 12. Oktober 2022._
 

@@ -3,7 +3,7 @@ title: '„Benachrichtigungen: Benutzende erhalten keine E-Mail- oder In-App-Ben
 description: „Wenn ein(e) Benutzende(r) in einem Kommentar oder einer Aktualisierung in einem Aktualisierungsverlauf eines Objekts erwähnt oder einbezogen wird, erhält er/sie möglicherweise nicht die erwartete E-Mail- oder In-App-Benachrichtigung zum Kommentar.“
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 

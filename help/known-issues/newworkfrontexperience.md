@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 87%
+source-wordcount: '633'
+ht-degree: 88%
 
 ---
 
@@ -46,7 +46,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Berichte: Fehler &quot;Upper&quot; beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
 | [Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14. November 2022 |
 | [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
-| [Layout-Vorlagen: Ausblenden eines Elements blendet das falsche Element aus](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10. November 2022 |
 | [Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
 | [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |

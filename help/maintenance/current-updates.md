@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '15307'
-ht-degree: 98%
+source-wordcount: '15306'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 ## Updates im November 2022
 
-+++**(Geplant) Aktualisierung der Wartung am 17. November 2022**
++++**Wartungs-Update vom 17. November 2022**
 
 **Ausblenden eines Elements blendet das falsche Element aus**
 
@@ -48,19 +48,19 @@ Wenn ein Benutzer ändert, ob ein Element ausgeblendet oder angezeigt wird, werd
 
 *Aufgaben*
 
-Wenn ein Benutzer eine Gruppe von Aufgaben gleichzeitig bearbeitet, werden die Zuweisungen der ersten Aufgabe auf alle Aufgaben angewendet. Dadurch werden frühere Zuweisungen gelöscht.
+Wenn ein(e) Benutzende(r) ein Feld für mehrere Aufgaben gleichzeitig bearbeitet, werden die Arbeitsaufträge der ersten Aufgabe auf alle Aufgaben angewendet. Dadurch werden frühere Arbeitsaufträge gelöscht.
 
-**Interaktiver Testversand kann nicht geöffnet werden**
+**Interaktiver Korrekturabzug kann nicht geöffnet werden**
 
 *Workfront-Korrekturabzug*
 
-Wenn ein Benutzer versucht, einen interaktiven Testversand zu öffnen, wird der Testversand nicht geöffnet und der Benutzer sieht die folgende Nachricht:
+Wenn ein(e) Benutzende(r) versucht, einen interaktiven Korrekturabzug zu öffnen, wird er nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-&quot;[!UICONTROL Testversand nicht geladen (501) Erneuter Versuch]&quot;
+„[!UICONTROL Korrekturabzug nicht geladen (501); versuchen Sie es erneut]“
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 4. November 2022**
++++**Wartungs-Update (Hot Fix) vom 4. November 2022**
 
 **Probleme mit Aufgaben, die einer Iteration hinzugefügt werden**
 
@@ -81,7 +81,7 @@ Wenn ein(e) Benutzende(r) einem Scrum-Team Aufgaben mithilfe der Massenbearbeitu
 
 Kanban-Teams sind von diesem Problem nicht betroffen.
 
-**&quot;[!UICONTROL Neue Testversand-Empfänger]&quot; Textfeld zu klein**
+**Das Textfeld „[!UICONTROL Neue Korrekturabzugsempfänger]“ ist zu klein**
 
 *Korrekturabzüge*
 
@@ -102,42 +102,42 @@ Dieses Verhalten wurde gemeldet, wenn über folgende Tools auf einen Bericht zug
 
 Beim Zugriff auf Berichte über ein Dashboard werden die Informationen zur letzten Anzeige eines Berichts aktualisiert.
 
-**[!DNL Workfront]: 500-Fehler bei Änderungen an einem [!DNL Workfront] Objekt**
+**[!DNL Workfront]: 500-Fehler bei Änderungen an einem [!DNL Workfront]-Objekt**
 
 *[!DNL Workfront]*
 
-Wenn ein Benutzer versucht, Änderungen an einer [!DNL Workfront] -Objekt, werden die Änderungen nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, Änderungen an einem [!DNL Workfront]-Objekt vorzunehmen, werden die Änderungen nicht gespeichert und der folgende Fehler wird angezeigt:
 
-&quot;[!UICONTROL 500: Datenbankfehler aufgrund einer ungültigen SQL-Anweisung.]&quot;
+„[!UICONTROL 500: Datenbankfehler aufgrund von ungültigem SQL-Befehl.]“
 
-Dies wurde in folgenden Situationen gemeldet:
+Dies wurde in den folgenden Situationen gemeldet:
 
-* Ändern des Status eines Objekts
-* Neuberechnung der Zeitpläne
-* Vorlagen anhängen
-* Protokollierungszeit
+* Änderung des Status eines Objekts
+* Neuberechnung der Timeline
+* Anhängen einer Vorlage
+* Erfassen der Zeit
 
 +++
 
 +++**[!DNL Workfront Fusion]Wartungs-Update vom 3. November 2022**
 
-**Fehler bezüglich [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] Modul**
+**Fehler bezüglich [!UICONTROL apiKey] in [!DNL Workfront] > Modul [!UICONTROL Ereignisse beobachten]**
 
 *[!DNL Workfront Fusion]*
 
-Wenn ein Benutzer versucht, einen Webhook zum [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] -Modul, erhalten sie den folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, einen Webhook zum Modul [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] hinzuzufügen, wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Der bereitgestellte apiKey war leer oder wurde als ungültig betrachtet.]&quot;
+„[!UICONTROL Der bereitgestellte apiKey war leer oder ungültig.]“
 
 +++
 
 +++**Wartungs-Update vom 3. November 2022**
 
-**Benennen Sie die Abschnitte &quot;Zeitplan&quot;und &quot;Planung&quot;für Teams und Projekte in der Layoutvorlage um.**
+**Umbenennung der Abschnitte „Zeitplan“ und „Planung“ für Teams und Projekte in der Layout-Vorlage**
 
 *Layout-Vorlagen*
 
-Die Registerkarten &quot;Planung&quot;und &quot;Planung&quot;, die in einer Layoutvorlage zum linken Bereich eines Teams oder Projekts hinzugefügt werden können, wurden in &quot;Arbeitslastausgleich&quot;umbenannt.
+Die Registerkarten „Zeitplan“ und „Planung“, die in einer Layout-Vorlage zum linken Bedienfeld eines Teams oder Projekts hinzugefügt werden können, wurden in „Workload Balancer“ umbenannt.
 
 **Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen**
 
@@ -1620,7 +1620,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifende
 
 Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
-„&lt;Name> entspricht nicht der Rolle von &lt;Aufgabenrollenzuweisung>. 1 Arbeitselement, das derzeit der Rolle &lt;\Aufgabenrollenzuweisung> zugewiesen ist, wird &lt;Name> in der Rolle &lt;Primäres Aufgabengebiet> zugewiesen.“
+„&lt;Name> entspricht nicht der Rolle von &lt;Aufgabenrollenzuweisung>. 1 Arbeitselement, das derzeit der Rolle &lt;Aufgabenrollenzuweisung> zugewiesen ist, wird &lt;Name> in der Rolle &lt;Primäres Aufgabengebiet> zugewiesen.“
 
 Dies tritt auch dann auf, wenn der/die Benutzende das Aufgabengebiet der Aufgabenrollenzuweisung als sekundäres Aufgabengebiet hat.
 
@@ -1863,7 +1863,7 @@ Wenn ein(e) Benutzende(r) ein Problem inline hinzufügt und eine benutzerdefinie
 
 *Aufgaben*
 
-Sie können jetzt eine Aufgabe in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor diesem Update mussten Sie Berechtigungen zum Hinzufügen von Aufgaben zu einem Projekt besitzen, um eine Aufgabe in das Projekt oder in eine seiner Aufgaben verschieben oder kopieren zu können. Dieses Update ist jetzt in der Produktionsumgebung verfügbar. Diese Funktionalität ist seit dem Wartungs-Update vom 24. März 2022 in der Vorschau-Umgebung verfügbar.
+Sie können jetzt eine Aufgabe in eine andere Aufgabe in einem Projekt verschieben oder kopieren, ohne über die Berechtigungen zum Hinzufügen von Aufgaben zum Zielprojekt verfügen zu müssen. Sie müssen über die Berechtigung zum Hinzufügen von Aufgaben zu mindestens einer der Aufgaben des Zielprojekts verfügen. Vor diesem Update mussten Sie Berechtigungen zum Hinzufügen von Aufgaben zu einem Projekt besitzen, um eine Aufgabe in das Projekt oder in eine seiner Aufgaben verschieben oder kopieren zu können.  Dieses Update ist jetzt in der Produktionsumgebung verfügbar. Diese Funktionalität ist seit dem Wartungs-Update vom 24. März 2022 in der Vorschau-Umgebung verfügbar.
 
 HINWEIS: Dieses Update wird in der Produktionsumgebung verfügbar sein, wenn Probleme nach der Veröffentlichung der Produktionsversion 22.2 kopiert oder verschoben werden. Weitere Informationen zur aktuellen Version finden Sie unter workfront.com/release.
 

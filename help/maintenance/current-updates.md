@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 ## Updates im November 2022
 
 +++**Wartungs-Update vom 17. November 2022**
+
+**Dokumente, die in der [!UICONTROL Papierkorb] wenn beim Verschieben einer Aufgabe oder eines Problems nicht ausgewählt**
+
+*Dokumente*
+
+Wenn Sie jetzt die Option [!UICONTROL Dokumente] -Option beim Verschieben einer Aufgabe oder eines Problems, der Dokumente, die an die Aufgabe angehängt sind, oder des Problems wird in der [!UICONTROL Papierkorb] für 30 Tage. Ein Administrator kann sie bei Bedarf wiederherstellen. Der Benutzer, der die Auswahl von Dokumenten im verschiebenden Prozess aufhebt, erhält eine Warnung zu diesem Verhalten in der [!UICONTROL Aufgabe verschieben] oder [!UICONTROL Problem verschieben] ankreuzen. Vor dieser Verbesserung wurden die Dokumente dauerhaft gelöscht.
 
 **Ausblenden eines Elements blendet das falsche Element aus**
 

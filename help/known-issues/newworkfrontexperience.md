@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 88%
+source-wordcount: '646'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 | [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16. November 2022 |
 | [Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14. November 2022 |
 | [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |

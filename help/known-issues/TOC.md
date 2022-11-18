@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '1679'
-ht-degree: 95%
+source-wordcount: '1691'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Berichte: Fehler &quot;Upper&quot; beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)

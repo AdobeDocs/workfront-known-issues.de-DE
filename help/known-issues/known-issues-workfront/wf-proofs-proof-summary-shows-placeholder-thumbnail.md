@@ -2,10 +2,10 @@
 title: "Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an."
 description: "Wenn ein Benutzer die [!UICONTROL Druckzusammenfassung] Seite eines Testversands in [!DNL Workfront], wird die Miniaturansicht des Testversands nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt."
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '83'
+ht-degree: 18%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 5%
 # Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
 Wenn ein Benutzer die [!UICONTROL Druckzusammenfassung] Seite eines Testversands in [!DNL Workfront], wird die Miniaturansicht des Testversands nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt.
 

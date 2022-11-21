@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 94%
+source-wordcount: '1704'
+ht-degree: 93%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] Zugriff auf Bearbeitungsfelder](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)

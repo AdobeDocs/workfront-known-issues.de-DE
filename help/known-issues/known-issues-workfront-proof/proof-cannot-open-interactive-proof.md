@@ -3,7 +3,7 @@ title: '„Workfront-Korrekturabzug: Interaktiver Korrekturabzug kann nicht geö
 description: „Wenn ein(e) Benutzende(r) versucht, einen interaktiven Korrekturabzug zu öffnen, wird er nicht geöffnet und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 

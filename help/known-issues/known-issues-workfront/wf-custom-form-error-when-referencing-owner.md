@@ -1,22 +1,21 @@
 ---
-title: "Benutzerdefinierte Formulare: Ungültige Meldung eines benutzerdefinierten Ausdrucks bei Verweis auf den Eigentümer in einem berechneten Feld"
-description: '"Wenn ein Benutzer ein berechnetes Feld zu einem benutzerdefinierten Formular auf Ausgabestufe hinzufügt und versucht, einem Eigentümer einen Verweis hinzuzufügen (z. B. "ownerID"), wird das Feld nicht gespeichert und der Benutzer sieht die folgende Meldung: Dies ist ein ungültiger Kundenausdruck. Versuchen Sie es erneut."'
+title: 'Benutzerdefinierte Formulare: Meldung „Ungültiger benutzerdefinierter Ausdruck“ beim Referenzieren von „Inhaber“ in einem berechneten Feld'
+description: '„Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen Inhaber hinzuzufügen (z. B. „ownerID“), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt: Dies ist ein ungültiger Ausdruck. Versuchen Sie es erneut.“'
 hidefromtoc: true
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
-workflow-type: tm+mt
+exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
+source-git-commit: d006691bff71466284c27b8c64ae4886e7c4c27d
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld
 
-# Benutzerdefinierte Formulare: &quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld
+Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen „[!UICONTROL Inhaber]“ hinzuzufügen (z. B. `ownerID`), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt:
 
-Wenn ein Benutzer ein berechnetes Feld zu einem benutzerdefinierten Formular auf Problemebene hinzufügt und versucht, einen Verweis zu einem[!UICONTROL owner]&quot; (z. B. `ownerID`), speichert das Feld nicht und der Benutzer sieht die folgende Nachricht:
-
-&quot;[!UICONTROL Dies ist ein ungültiger Kundenausdruck. Versuchen Sie es erneut.]&quot;
+„[!UICONTROL Dieser benutzerdefinierte Ausdruck ist ungültig. Versuchen Sie es erneut.]“
 
 Dies tritt auch dann auf, wenn der Ausdruck gültig ist.
 
 _Erste Meldung am 8. November 2022._
-

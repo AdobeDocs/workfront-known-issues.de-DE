@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '640'
-ht-degree: 83%
+ht-degree: 91%
 
 ---
 
@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Agile: Fehler beim Verschieben von Arbeitselementen in eine Iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23. November 2022 |
 | [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
-| [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |
+| [Integrationen: [!UICONTROL Startseiten-Kalender] zeigt Ereignisse eine Stunde später als  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 
@@ -42,10 +42,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Timesheets: Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23. November 2022 |
 | [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21. November 2022 |
 | [Agile: Aufgabe hat einen Kanban-Rückstand von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21. November 2022 |
-| [Benutzerdefinierte Formulare: &quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15. November 2022 |
-| [Berichte: Fehler &quot;Upper&quot; beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
+| [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15. November 2022 |
+| [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
 | [Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14. November 2022 |
-| [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
+| [Korrekturabzüge: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem in der Korrekturabzugsansicht](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
 | [Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4. November 2022 |
 | [Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4. November 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27. Oktober 2022 |

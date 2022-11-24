@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -34,7 +34,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
+| [Korrekturabzüge: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem in der Korrekturabzugsansicht](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

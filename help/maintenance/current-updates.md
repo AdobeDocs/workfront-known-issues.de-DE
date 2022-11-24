@@ -39,18 +39,18 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 Wenn Sie jetzt die Option [!UICONTROL Dokumente] -Option beim Verschieben einer Aufgabe oder eines Problems, der Dokumente, die an die Aufgabe angehängt sind, oder des Problems wird in der [!UICONTROL Papierkorb] für 30 Tage. Ein Administrator kann sie bei Bedarf wiederherstellen. Der Benutzer, der die Auswahl von Dokumenten im verschiebenden Prozess aufhebt, erhält eine Warnung zu diesem Verhalten in der [!UICONTROL Aufgabe verschieben] oder [!UICONTROL Problem verschieben] ankreuzen. Vor dieser Verbesserung wurden die Dokumente dauerhaft gelöscht.
 
-**Ausblenden eines Elements blendet das falsche Element aus**
+**Beim Ausblenden eines Elements wird das falsche Element ausgeblendet**
 
 *Layout-Vorlagen*
 
-Wenn ein Benutzer ändert, ob ein Element ausgeblendet oder angezeigt wird, werden diese Änderungen auf einem anderen Element in der Layoutvorlage übernommen.
+Wenn ein(e) Benutzende(r) verändert, ob ein Element ausgeblendet oder angezeigt werden soll, werden diese Änderungen in der Layout-Vorlage von einem anderen Element übernommen.
 
 
 +++
 
 +++**Wartungs-Update vom 10. November 2022**
 
-**Massenbearbeitung ändert Aufgabenzuweisungen**
+**Durch Massenbearbeitung werden Aufgabenzuweisungen geändert**
 
 *Aufgaben*
 

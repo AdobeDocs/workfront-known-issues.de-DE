@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '1721'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 92%
       + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] Zugriff auf Bearbeitungsfelder](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [Benutzerdefinierte Formulare: &quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [Berichte: Fehler &quot;Upper&quot; beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [Testsendungen: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [Testsendungen: Die Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [Integrationen: [!UICONTROL Home Calendar] zeigt Ereignisse eine Stunde später als [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [Layout-Vorlagen: Ausblenden eines Elements blendet das falsche Element aus](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [Korrekturabzüge: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem in der Korrekturabzugsansicht](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [Korrekturabzüge: Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [Integrationen: [!UICONTROL Startseiten-Kalender] zeigt Ereignisse eine Stunde später als  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [Layout-Vorlagen: Beim Ausblenden eines Elements wird das falsche Element ausgeblendet](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Aufgaben: durch Massenbearbeitung werden Aufgabenzuweisungen geändert](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: Aufgabe hat einen Kanban-Rückstand von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [Aufgaben: [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe kann nicht geändert werden](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)

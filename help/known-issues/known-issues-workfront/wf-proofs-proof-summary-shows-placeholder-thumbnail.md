@@ -1,16 +1,16 @@
 ---
-title: "Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an."
-description: "Wenn ein Benutzer die [!UICONTROL Druckzusammenfassung] Seite eines Testversands in [!DNL Workfront], wird die Miniaturansicht des Testversands nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt."
+title: '„Korrekturabzüge: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an.“'
+description: „Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Druckzusammenfassung] eines Korrekturabzugs in  [!DNL Workfront] aufruft, wird die Miniaturansicht des Korrekturabzugs nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt.“
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an
+# Korrekturabzüge: [!UICONTROL Druckzusammenfassung] zeigt keine Miniaturansicht an
 
 <!--This is on both the WF and WFP TOCs-->
 
@@ -18,7 +18,7 @@ ht-degree: 18%
 >
 >Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
-Wenn ein Benutzer die [!UICONTROL Druckzusammenfassung] Seite eines Testversands in [!DNL Workfront], wird die Miniaturansicht des Testversands nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt.
+Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Druckzusammenfassung] eines Korrekturabzugs in [!DNL Workfront] aufruft, wird die Miniaturansicht des Korrekturabzugs nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt.
 
 _Erste Meldung am 1. November 2022._
 

@@ -3,9 +3,9 @@ title: '„Programme: Probleme beim Zuweisen eines Programm-Inhabers“'
 description: „Wenn ein(e) Benutzende(r) ein Programm erstellt und einen Programm-Inhaber bzw. eine Programm-Inhaberin zuweist, treten die in diesem Artikel beschriebenen Probleme auf.“
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

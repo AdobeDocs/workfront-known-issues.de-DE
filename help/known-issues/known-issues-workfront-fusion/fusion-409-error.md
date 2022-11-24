@@ -1,12 +1,12 @@
 ---
-title: "Workfront Fusion: 409-Fehler im Fusion-Szenario"
-description: 'Bei einem Workfront Fusion-Szenario wird der folgende Fehler 409: Doppelter Schlüsselwert verstößt gegen eindeutige Beschränkung.'
+title: 'Workfront Fusion: 409-Fehler in Fusion-Szenario'
+description: Ein Workfront Fusion-Szenario gibt den folgenden 409-Fehler zurück. Doppelte Schlüsselwerte verletzen die Eindeutigkeitsbeschränkung.
 hidefromtoc: true
 exl-id: 8571d3f8-58c7-455f-b5a4-a91d1d1195a9
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 

@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,6 +39,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationen: Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 28. November 2022 |
+| [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28. November 2022 |
 | [Timesheets: Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 23. November 2022 |
 | [Benutzerdefinierte Formulare: &quot;[!UICONTROL Sie haben nicht ausreichend Zugriff]&quot;-Fehler beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21. November 2022 |
 | [Agile: Aufgabe hat einen Kanban-Rückstand von 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 21. November 2022 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 96%
+source-wordcount: '1746'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationen: Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Fehler beim Verschieben von Arbeitselementen in eine Iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Timesheets: Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] Zugriff auf Bearbeitungsfelder](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Verbindung kann nicht hergestellt werden [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-Fehler in  [!DNL Fusion] -Szenario](known-issues-workfront-fusion/fusion-409-error.md)

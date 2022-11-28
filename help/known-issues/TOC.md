@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1751'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Timesheets: Das Datenblatt wird nicht generiert](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrationen: Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Fehler beim Verschieben von Arbeitselementen in eine Iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)

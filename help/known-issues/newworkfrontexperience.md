@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '669'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Timesheets: Das Datenblatt wird nicht generiert](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 28. November 2022 |
 | [Agile: Fehler beim Verschieben von Arbeitselementen in eine Iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 23. November 2022 |
 | [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 | [Integrationen: [!UICONTROL Startseiten-Kalender] zeigt Ereignisse eine Stunde später als  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11. November 2022 |

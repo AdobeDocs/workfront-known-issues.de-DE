@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '15397'
-ht-degree: 99%
+source-wordcount: '15666'
+ht-degree: 98%
 
 ---
 
@@ -28,6 +28,56 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 -->
 
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Dezember 2022
+
++++**(Geplant) Aktualisierung der Wartung am 1. Dezember 2022**
+
+**Aufgabe hat einen Kanban-Rückstand von 0**
+
+*Agile*
+
+Wenn ein(e) Benutzende(r) den Rückstand eines Kanban-Teams aufruft, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0 an.
+
+**&quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld**
+
+*Benutzerdefinierte Formulare*
+
+Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen „[!UICONTROL Inhaber]“ hinzuzufügen (z. B. `ownerID`), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt:
+
+„[!UICONTROL Dieser benutzerdefinierte Ausdruck ist ungültig. Versuchen Sie es erneut.]“
+
+Dies tritt auch dann auf, wenn der Ausdruck gültig ist.
+
+**Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration**
+
+*Integrationen*
+
+Auf die folgenden Elemente kann derzeit nicht im [!DNL Workfront for Jira] Integration für [!DNL Jira Cloud]:
+
+* Die [!UICONTROL Konfiguration] page
+* Die &quot;[!UICONTROL Workfront öffnen]&quot;-Schaltfläche auf [!DNL Jira] Problem
+
+**Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer**
+
+*Korrekturabzüge*
+
+Wenn ein(e) Benutzende(r) einen Korrekturabzug freigibt und versucht, eine benutzerdefinierte Nachricht hinzuzufügen, passiert Folgendes:
+
+* Die Korrekturabzugsansicht zoomt in den Korrekturabzug.
+* Die Bereiche im linken Navigationsbereich reagieren nicht mehr.
+
+**Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind**
+
+*Arbeitszeittabellen*
+
+Wenn ein Benutzer ein Timesheet erstellt und versucht, einen Genehmiger zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzer. Wenn ein deaktivierter Benutzer ausgewählt wird, wird das Timesheet nicht gespeichert und der Benutzer sieht die folgende Nachricht:
+
+„[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planungslizenz können Timesheets genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]&quot;
+
+Da der deaktivierte Benutzer nicht zugewiesen werden kann, muss der Benutzer einen aktivierten Benutzer auswählen. Das Timesheet funktioniert daher wie erwartet, aber die deaktivierten Benutzer in der Liste können für den Benutzer Verwirrung oder Unannehmlichkeiten verursachen.
+
++++
 
 ## Updates im November 2022
 

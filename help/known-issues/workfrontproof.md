@@ -3,10 +3,10 @@ title: Bekannte Probleme in  [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 94%
+source-wordcount: '199'
+ht-degree: 93%
 
 ---
 
@@ -34,7 +34,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem in der Korrekturabzugsansicht](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14. November 2022 |
+| Keine |  |
 
 {style=&quot;table-layout:auto&quot;}
 

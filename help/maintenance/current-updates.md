@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,7 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 ## Updates im Dezember 2022
 
-+++**(Geplant) Aktualisierung der Wartung am 1. Dezember 2022**
++++**Wartungs-Update vom 1. Dezember 2022**
 
 **Aufgabe hat einen Kanban-Rückstand von 0**
 
@@ -76,6 +76,12 @@ Wenn ein Benutzer ein Timesheet erstellt und versucht, einen Genehmiger zuzuweis
 „[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planungslizenz können Timesheets genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]&quot;
 
 Da der deaktivierte Benutzer nicht zugewiesen werden kann, muss der Benutzer einen aktivierten Benutzer auswählen. Das Timesheet funktioniert daher wie erwartet, aber die deaktivierten Benutzer in der Liste können für den Benutzer Verwirrung oder Unannehmlichkeiten verursachen.
+
+**Das Datenblatt wird nicht generiert**
+
+*Arbeitszeittabellen*
+
+Timesheets werden trotz der Profileinstellungen des Zeitblatts nicht erstellt. Da das Timesheet nie erstellt wird, steht es dem Benutzer nicht zur Eingabe der Uhrzeit zur Verfügung und ist nicht in Listen sichtbar.
 
 +++
 

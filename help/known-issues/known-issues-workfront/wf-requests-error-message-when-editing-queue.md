@@ -3,7 +3,7 @@ title: '„Anfragen: Hoppla-Nachricht beim Bearbeiten der Anfragewarteschlange�
 description: „Wenn ein(e) Benutzende(r) eine Anfrage-Warteschlange bearbeitet und versucht, Änderungen zu speichern, wird ein Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Wenn ein(e) Benutzende(r) eine Anfrage-Warteschlange bearbeitet und versucht, Änderungen zu speichern, wird die folgende Fehlermeldung angezeigt:
 
-„Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.&quot;
+„Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.“
 
 Darüber hinaus wird erscheint unten auf der Seite neben der Schaltfläche „Speichern“ folgende Meldung:
 

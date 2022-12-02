@@ -3,7 +3,7 @@ title: '„Korrekturabzüge: [!UICONTROL Druckzusammenfassung] zeigt keine Minia
 description: „Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Druckzusammenfassung] eines Korrekturabzugs in  [!DNL Workfront] aufruft, wird die Miniaturansicht des Korrekturabzugs nicht angezeigt. Stattdessen wird ein einfaches Platzhalterbild angezeigt.“
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 

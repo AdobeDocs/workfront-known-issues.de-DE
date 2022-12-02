@@ -1,11 +1,11 @@
 ---
 title: '„Dokumente: Link zur Anforderung externer Dokumente führt zur Anmeldeseite“'
-description: „Wenn ein(e) externe(r) Benutzende(r) eine E-Mail mit einer Dokumentanfrage erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die Systemeinstellung „Mit Personen ohne Workfront-Konten über deren E-Mail-Adresse zusammenarbeiten“ aktiviert ist.
+description: „Wenn ein(e) externe(r) Benutzende(r) eine E-Mail mit einer Dokumentanfrage erhält und auf den Link klickt, um das Dokument zu senden, wird er zur Workfront-Anmeldeseite des Unternehmens weitergeleitet, das das Dokument angefordert hat. Dies kann auch auftreten, wenn die Systemeinstellung „Mit Personen ohne Workfront-Konten über deren E-Mail-Adresse zusammenarbeiten“ aktiviert ist.“
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

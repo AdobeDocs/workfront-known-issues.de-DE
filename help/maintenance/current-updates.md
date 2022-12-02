@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '15702'
-ht-degree: 98%
+source-wordcount: '15901'
+ht-degree: 99%
 
 ---
 
@@ -30,6 +30,35 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Dezember 2022
+
++++**Wartungs-Update (Hotfix) vom 1. Dezember 2022**
+
+**Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen**
+
+*Listen*
+
+Wenn ein(e) Benutzende(r) ein Objekt inline bearbeitet und einen Fehler macht, durch den eine Fehlermeldung ausgelöst werden sollte, wird keine Fehlermeldung angezeigt. Der Fehler selbst wird nicht in Workfront gespeichert, sodass die Daten nicht betroffen sind. Das Fehlen einer Fehlermeldung kann jedoch verwirrend sein.
+
+Dies wurde in den folgenden Situationen gemeldet:
+
+* Vorgänger: Es wird eine Vorgängerschleife erstellt, z. B. das Zuweisen einer Aufgabe zu sich selbst
+* Datumsangaben: Es wird ein unmögliches Datum eingegeben, z. B. ein Fertigstellungsdatum, das vor dem Startdatum liegt oder das über das Fertigstellungsdatum des Projekts hinausgeht
+
+**Option &quot;Verschieben nach&quot;nicht für Problemberichte verfügbar**
+
+*Berichte*
+
+Wenn ein(e) Benutzende(r) einen Problembericht öffnet und versucht, ein Problem zu verschieben, ist die Option „Verschieben nach“ nicht im Menü „Mehr“ (Dreipunkt-Menü) verfügbar.
+
+
+**Benutzerkarte wird in Aktualisierungen nicht geschlossen**
+
+*Updates*
+
+Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht mehr, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.
+
+
++++
 
 +++**Wartungs-Update vom 1. Dezember 2022**
 
@@ -71,11 +100,11 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug freigibt und versucht, eine benut
 
 *Arbeitszeittabellen*
 
-Wenn ein Benutzer ein Timesheet erstellt und versucht, einen Genehmiger zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzer. Wenn ein deaktivierter Benutzer ausgewählt wird, wird das Timesheet nicht gespeichert und der Benutzer sieht die folgende Nachricht:
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planungslizenz können Timesheets genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]&quot;
+„[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
 
-Da der deaktivierte Benutzer nicht zugewiesen werden kann, muss der Benutzer einen aktivierten Benutzer auswählen. Das Timesheet funktioniert daher wie erwartet, aber die deaktivierten Benutzer in der Liste können für den Benutzer Verwirrung oder Unannehmlichkeiten verursachen.
+Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
 
 **Das Datenblatt wird nicht generiert**
 
@@ -89,11 +118,11 @@ Timesheets werden trotz der Profileinstellungen des Zeitblatts nicht erstellt. D
 
 +++**Wartungs-Update vom 17. November 2022**
 
-**Dokumente, die in der [!UICONTROL Papierkorb] wenn beim Verschieben einer Aufgabe oder eines Problems nicht ausgewählt**
+**Dokumente werden in den [!UICONTROL Papierkorb] verschoben, wenn sie beim Verschieben einer Aufgabe oder eines Problems nicht ausgewählt sind**
 
 *Dokumente*
 
-Wenn Sie jetzt die Option [!UICONTROL Dokumente] -Option beim Verschieben einer Aufgabe oder eines Problems, der Dokumente, die an die Aufgabe angehängt sind, oder des Problems wird in der [!UICONTROL Papierkorb] für 30 Tage. Ein Administrator kann sie bei Bedarf wiederherstellen. Der Benutzer, der die Auswahl von Dokumenten im verschiebenden Prozess aufhebt, erhält eine Warnung zu diesem Verhalten in der [!UICONTROL Aufgabe verschieben] oder [!UICONTROL Problem verschieben] ankreuzen. Vor dieser Verbesserung wurden die Dokumente dauerhaft gelöscht.
+Wenn Sie die Auswahl der Option [!UICONTROL Dokumente] beim Verschieben einer Aufgabe oder eines Problems jetzt aufheben, werden die an die Aufgabe angehängten Dokumente oder Probleme in den [!UICONTROL Papierkorb] verschoben, wo sie 30 Tage lang bleiben. Nötigenfalls kann sie ein Administrator bzw. eine Administratorin wiederherstellen. Der/die Benutzende, der/die die Auswahl der Dokumente beim Verschieben aufhebt, erhält im Fenster [!UICONTROL Aufgabe verschieben] bzw. [!UICONTROL Problem verschieben] einen Warnhinweis. Vor dieser Verbesserung wurden die Dokumente dauerhaft gelöscht.
 
 **Beim Ausblenden eines Elements wird das falsche Element ausgeblendet**
 
@@ -620,7 +649,7 @@ Wenn ein(e) Benutzende(r) ein Problem in ein leeres Projekt konvertiert (ohne Vo
 
 Wenn ein(e) Benutzende(r) versucht, ein Datum in einem Projekt zu ändern, in dem der [!UICONTROL Planungsmodus] auf [!UICONTROL Manuelles Speichern] > [!UICONTROL Timeline-Planung] festgelegt ist, ändert sich das Datum nicht und ein Fehler wird angezeigt.
 
-[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Konsistenz beim Öffnen des Workload Balancer mithilfe der Monatsansicht**
 

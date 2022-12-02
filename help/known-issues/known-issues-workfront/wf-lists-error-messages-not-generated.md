@@ -2,15 +2,19 @@
 title: '„Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen“'
 description: „Wenn ein(e) Benutzende(r) ein Objekt inline bearbeitet und einen Fehler macht, durch den eine Fehlermeldung ausgelöst werden sollte, wird keine Fehlermeldung angezeigt. Der Fehler selbst wird nicht in Workfront gespeichert, sodass die Daten nicht betroffen sind. Das Fehlen einer Fehlermeldung kann jedoch verwirrend sein.“
 hidefromtoc: true
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 96%
 
 ---
 
 
 # Listen: Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 1. Dezember 2022 behoben.
 
 Wenn ein(e) Benutzende(r) ein Objekt inline bearbeitet und einen Fehler macht, durch den eine Fehlermeldung ausgelöst werden sollte, wird keine Fehlermeldung angezeigt. Der Fehler selbst wird nicht in Workfront gespeichert, sodass die Daten nicht betroffen sind. Das Fehlen einer Fehlermeldung kann jedoch verwirrend sein.
 

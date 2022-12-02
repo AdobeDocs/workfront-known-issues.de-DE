@@ -2,15 +2,19 @@
 title: '„Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden“'
 description: „Wenn ein(e) Benutzende(r) eine Liste mit Warteschlangen-Themen mit mehr als 100 Elementen anzeigt und versucht, die Liste zu ändern, um mehr Warteschlangen-Themen pro Seite oder alle Warteschlangen-Themen anzuzeigen, ändert sich die Liste nicht und eine Fehlermeldung erscheint.“
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: ht
-source-wordcount: '180'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 96%
 
 ---
 
 
 # Anfragen: Auf einer Seite können nicht mehr als 100 Warteschlangen-Themen angezeigt werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 2. Dezember 2022 behoben.
 
 Wenn ein(e) Benutzende(r) eine Liste mit Warteschlangen-Themen mit mehr als 100 Elementen anzeigt und versucht, die Liste zu ändern, um mehr Warteschlangen-Themen pro Seite oder alle Warteschlangen-Themen anzuzeigen, ändert sich die Liste nicht und die folgende Fehlermeldung erscheint:
 

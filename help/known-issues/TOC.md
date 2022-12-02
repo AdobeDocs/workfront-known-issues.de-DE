@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Projekte: Fehler &quot;Bounces&quot;beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Startseite]: Problemzuweisung kann nicht entfernt werden in [!UICONTROL Startseite]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Timesheets: Das Datenblatt wird nicht generiert](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrationen: Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)

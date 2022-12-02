@@ -1,26 +1,28 @@
 ---
-title: "Timesheets: Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind"
-description: "Wenn ein Benutzer ein Timesheet erstellt und versucht, einen Genehmiger zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzer. Wenn ein deaktivierter Benutzer ausgewählt ist, wird das Timesheet nicht gespeichert und der Benutzer wird eine Fehlermeldung angezeigt."
+title: '„Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird“'
+description: „Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 3%
+source-wordcount: '146'
+ht-degree: 100%
 
 ---
 
 
-# Timesheets: Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind
+# Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird
 
+<!--
 >[!NOTE]
 >
->Dieses Problem wurde am 1. Dezember 2022 behoben.
+>This issue was fixed on December 1, 2022.
+-->
 
-Wenn ein Benutzer ein Timesheet erstellt und versucht, einen Genehmiger zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzer. Wenn ein deaktivierter Benutzer ausgewählt wird, wird das Timesheet nicht gespeichert und der Benutzer sieht die folgende Nachricht:
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planungslizenz können Timesheets genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]&quot;
+„[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
 
-Da der deaktivierte Benutzer nicht zugewiesen werden kann, muss der Benutzer einen aktivierten Benutzer auswählen. Das Timesheet funktioniert daher wie erwartet, aber die deaktivierten Benutzer in der Liste können für den Benutzer Verwirrung oder Unannehmlichkeiten verursachen.
+Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
 
 _Erste Meldung am 18. November 2022._
 

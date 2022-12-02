@@ -1,29 +1,28 @@
 ---
-title: "Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern Zugriff auf Verwalten oder Bearbeiten, um Felder zu bearbeiten."
-description: '"Wenn ein Benutzer ein Formular mit mehreren Objekten erstellt, die nur den Zugriff auf "Verwalten"oder "Bearbeiten"erlauben, und diesen Objekttyp dann entfernt, erfordert das benutzerdefinierte Formular weiterhin Zugriff auf "Verwalten"oder "Bearbeiten", um die Felder zu bearbeiten. Es gibt keinen visuellen Hinweis darauf, dass die Felder Zugriff auf Verwalten oder Bearbeiten erfordern, und es gibt keine Möglichkeit, das Formular zurückzusetzen."'
+title: '„Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung ‚Verwalten‘ oder ‚Bearbeiten‘“'
+description: Wenn ein/e Benutzende(r) ein objektübergreifendes Formular erstellt, in dem die Berechtigungen „Verwalten“ oder „Bearbeiten“ erforderlich sind, und diesen Objekttyp dann entfernt, erfordert das benutzerdefinierte Formular weiterhin die Berechtigung „Verwalten“ oder „Bearbeiten“, um die Felder zu bearbeiten. Es gibt keinen visuellen Hinweis darauf, dass die Felder die Berechtigung „Verwalten“ oder „Bearbeiten“ erfordern, und es gibt auch keine Möglichkeit, das Formular zurückzusetzen.
 hidefromtoc: true
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
-workflow-type: tm+mt
+exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
+source-git-commit: d8285b98fc4cabf099994de64c466e829061611c
+workflow-type: ht
 source-wordcount: '184'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-
-# Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] Zugriff auf Bearbeitungsfelder
+# Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]
 
 >[!NOTE]
 >
 >Dieses Problem wurde behoben
 
-Wenn ein Benutzer ein Formular mit Kreuzobjekten erstellt, die nur [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] auf diesen Objekttyp zugreifen und ihn dann entfernen, erfordert das benutzerdefinierte Formular weiterhin [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] Zugriff zur Bearbeitung der Felder. Es gibt keinen visuellen Hinweis darauf, dass die Felder Zugriff auf Verwalten oder Bearbeiten erfordern, und es gibt keine Möglichkeit, das Formular zurückzusetzen.
+Wenn ein/e Benutzende(r) ein objektübergreifendes Formular erstellt, in dem die Berechtigungen [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] erforderlich sind, und diesen Objekttyp dann entfernt, erfordert das benutzerdefinierte Formular weiterhin die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten], um die Felder zu bearbeiten. Es gibt keinen visuellen Hinweis darauf, dass die Felder die Berechtigung „Verwalten“ oder „Bearbeiten“ erfordern, und es gibt auch keine Möglichkeit, das Formular zurückzusetzen.
 
 **Problemumgehung**
 
-1. Fügen Sie dem Formular einen Abschnittsumbruch mit Standardwerten hinzu, wenn diese ausgefüllt sind.
+1. Fügen Sie dem Formular einen Abschnittsumbruch mit Standardwerten hinzu, mit denen es ausgefüllt wird.
 2. Verschieben Sie den Abschnittsumbruch an den Anfang des Formulars.
 3. Speichern Sie das Formular.
-4. Entfernen Sie die soeben hinzugefügte Abschnittspause und speichern Sie das Formular erneut.
+4. Entfernen Sie den soeben hinzugefügten Abschnittsumbruch und speichern Sie das Formular erneut.
 
 _Erste Meldung am 9. November 2022._
-

@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Testsendungen werden im Testversand-Viewer als weniger klar als Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
+| [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

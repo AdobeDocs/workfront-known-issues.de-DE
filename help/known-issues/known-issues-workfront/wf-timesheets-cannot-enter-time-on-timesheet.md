@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Timesheets: Uhrzeit kann nicht auf einem Zeitblatt eingegeben werden"
+description: '"Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen, sehen er, dass die Stundenfelder in den Zeilen "Projekt"oder "Aufgaben"ausgegraut sind und keine Zeit in diese Felder eingegeben werden kann. Sie können die Zeit nur im Bereich "Allgemeine Zeit"eingeben."'
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 4%
 
 ---
 

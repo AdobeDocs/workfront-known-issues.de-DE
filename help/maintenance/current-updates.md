@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '15901'
+source-wordcount: '15954'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,18 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Dezember 2022
+
++++**(Geplant) Aktualisierung der Wartung am 8. Dezember 2022**
+
++++
+
+**Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.**
+
+*Projekte*
+
+Wenn ein Benutzer ein Projekt aus einer Vorlage erstellt, nimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status an. Wenn ein Projekt ohne Vorlage erstellt wird, spiegelt der Status erwartungsgemäß die Voreinstellungen für Gruppenprojekte wider.
+
++++
 
 +++**Wartungs-Update (Hotfix) vom 1. Dezember 2022**
 

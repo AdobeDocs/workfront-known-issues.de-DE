@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 89%
+source-wordcount: '636'
+ht-degree: 88%
 
 ---
 
@@ -38,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aufgaben: Unteraufgabe kann nicht hinzugefügt werden](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7. Dezember 2022 |
 | [Timesheets: Uhrzeit kann nicht auf dem Zeitblatt eingegeben werden](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5. Dezember 2022 |
 | [Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2. Dezember 2022 |

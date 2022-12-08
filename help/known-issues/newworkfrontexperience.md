@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 88%
+source-wordcount: '646'
+ht-degree: 87%
 
 ---
 
@@ -39,6 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: MP4-Datei kann nicht hochgeladen werden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8. Dezember 2022 |
 | [Aufgaben: Unteraufgabe kann nicht hinzugefügt werden](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7. Dezember 2022 |
 | [Timesheets: Uhrzeit kann nicht auf dem Zeitblatt eingegeben werden](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5. Dezember 2022 |
 | [Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2. Dezember 2022 |

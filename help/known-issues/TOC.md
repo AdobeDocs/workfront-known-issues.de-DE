@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1805'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: MP4-Datei kann nicht hochgeladen werden](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integrationen: Nicht öffnen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Aufgaben: Unteraufgabe kann nicht hinzugefügt werden](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [Timesheets: Uhrzeit kann nicht auf dem Zeitblatt eingegeben werden](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)

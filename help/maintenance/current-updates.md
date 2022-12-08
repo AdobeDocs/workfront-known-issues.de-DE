@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
-ht-degree: 99%
+source-wordcount: '16044'
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,30 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 ## Updates im Dezember 2022
 
-+++**(Geplant) Aktualisierung der Wartung am 8. Dezember 2022**
-
-+++
++++**Wartungsupdate am 8. Dezember 2022**
 
 **Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.**
 
 *Projekte*
 
 Wenn ein Benutzer ein Projekt aus einer Vorlage erstellt, nimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status an. Wenn ein Projekt ohne Vorlage erstellt wird, spiegelt der Status erwartungsgemäß die Voreinstellungen für Gruppenprojekte wider.
+
+**Unteraufgabe kann nicht hinzugefügt werden**
+
+*Aufgaben*
+
+Wenn ein Benutzer versucht, eine Unteraufgabe mit dem[!UICONTROL +Neu]&quot;, werden keine Optionen in der [!UICONTROL Neue Aufgabe] angezeigt und dem Benutzer wird die folgende Meldung angezeigt:
+
+&quot;[!UICONTROL Eigenschaften von nicht definiert können nicht gelesen werden (Lesen von &#39;validations&#39;).]&quot;
+
+**Fehler beim Schließen oder Speichern von Timesheets**
+
+*Arbeitszeittabellen*
+
+Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen oder es zu schließen, wird das Timesheet nicht gespeichert und der Benutzer sieht die folgenden Fehler:
+
+* Datenbankfehler aufgrund von ungültigem SQL-Befehl.
+* Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die zuletzt gespeicherten Änderungen anzuzeigen.
 
 +++
 

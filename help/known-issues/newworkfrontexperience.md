@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 87%
+source-wordcount: '636'
+ht-degree: 88%
 
 ---
 
@@ -44,7 +44,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Timesheets: Uhrzeit kann nicht auf dem Zeitblatt eingegeben werden](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5. Dezember 2022 |
 | [Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2. Dezember 2022 |
-| [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2. Dezember 2022 |
 | [Projekte: Fehler &quot;Bounces&quot;beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28. November 2022 |
 | [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Sie verfügen nicht über die erforderliche Zugriffsberechtigung]“ beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21. November 2022 |

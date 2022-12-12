@@ -3,9 +3,9 @@ title: '„Korrekturabzüge: Das Hinzufügen benutzerdefinierter Nachrichten ver
 description: „Wenn ein(e) Benutzende(r) einen Korrekturabzug freigibt und versucht, eine benutzerdefinierte Nachricht hinzuzufügen, treten Probleme auf.“
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

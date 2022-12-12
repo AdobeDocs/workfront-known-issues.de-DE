@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ Dies wurde in den folgenden Bereichen gemeldet:
 * [!UICONTROL Setup] > [!UICONTROL E-Mail-Benachrichtigungen]
 * [!UICONTROL Benutzer] > [!UICONTROL Benutzer bearbeiten]
 * [!UICONTROL Gruppen]
+
+**Neue Informationssymbole für Timesheets, Timesheet-Profile und Timesheet-Voreinstellungen**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Diese Aktualisierung wurde nur in der Vorschau -Umgebung veröffentlicht. Es wird mit Version 23.1 für die Produktion freigegeben.
+
+Wir haben den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
+
+* Das Kontrollkästchen &quot;Kann die Zeit bearbeiten&quot;bei der Erstellung oder Bearbeitung eines Timesheets oder eines Timesheet-Profils gibt an, dass Genehmiger bei Aktivierung auch das Timesheet senden, erneut öffnen oder bearbeiten können, es sei denn, Ihr Administrator beschränkt diese Aktionen im Bereich &quot;Timesheet-Voreinstellungen&quot;des Setups.
+* &quot;Beschränken Sie die Bearbeitung von Zeitblättern auf Inhaber und Administratoren&quot;im Bereich &quot;Zeitblatt und Stunde - Voreinstellungen&quot;unter &quot;Einstellungen&quot;, um anzugeben, dass die folgenden Benutzer bei Deaktivierung auch die Timesheets bearbeiten können: Benutzer mit administrativem Zugriff auf Timesheets und Stunden, Timesheet-Genehmiger zur Bearbeitung der Zeit und Timesheet-Manager.
+
+Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen klarer zu gestalten.
 
 +++
 

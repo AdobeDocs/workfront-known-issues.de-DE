@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
 source-wordcount: '16044'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -95,7 +95,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 Wenn ein(e) Benutzende(r) den Rückstand eines Kanban-Teams aufruft, zeigt eine oder mehrere der Aufgaben einen Rückstand von 0 an.
 
-**&quot;[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]&quot;-Meldung beim Referenzieren von &quot;[!UICONTROL owner]&quot; in einem berechneten Feld**
+**„[!UICONTROL Meldung „Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld**
 
 *Benutzerdefinierte Formulare*
 
@@ -105,16 +105,16 @@ Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Form
 
 Dies tritt auch dann auf, wenn der Ausdruck gültig ist.
 
-**Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration**
+**Kein Zugriff auf Elemente von [!DNL Workfront for Jira]-Integration**
 
 *Integrationen*
 
-Auf die folgenden Elemente kann derzeit nicht im [!DNL Workfront for Jira] Integration für [!DNL Jira Cloud]:
+Auf die folgenden Elemente kann derzeit nicht in der [!DNL Workfront for Jira]-Integration für [!DNL Jira Cloud] zugegriffen werden:
 
-* Die [!UICONTROL Konfiguration] page
-* Die &quot;[!UICONTROL Workfront öffnen]&quot;-Schaltfläche auf [!DNL Jira] Problem
+* Die Seite [!UICONTROL Konfiguration]
+* Die Schaltfläche „[!UICONTROL Workfront öffnen]“ in einem [!DNL Jira]-Problem
 
-**Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem im Testversand-Viewer**
+**Das Hinzufügen benutzerdefinierter Nachrichten verursacht ein Problem in der Korrekturabzugsansicht**
 
 *Korrekturabzüge*
 
@@ -123,7 +123,7 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug freigibt und versucht, eine benut
 * Die Korrekturabzugsansicht zoomt in den Korrekturabzug.
 * Die Bereiche im linken Navigationsbereich reagieren nicht mehr.
 
-**Deaktivierte Benutzer, die bei der Auswahl des Timesheet-Genehmigers verfügbar sind**
+**Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird**
 
 *Arbeitszeittabellen*
 
@@ -133,11 +133,11 @@ Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine ge
 
 Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
 
-**Das Datenblatt wird nicht generiert**
+**Die Arbeitszeittabelle wird nicht generiert**
 
 *Arbeitszeittabellen*
 
-Timesheets werden trotz der Profileinstellungen des Zeitblatts nicht erstellt. Da das Timesheet nie erstellt wird, steht es dem Benutzer nicht zur Eingabe der Uhrzeit zur Verfügung und ist nicht in Listen sichtbar.
+Arbeitszeittabellen werden trotz der Einstellungen im Arbeitszeittabellenprofil nicht erstellt. Da die Arbeitszeittabelle nicht erstellt wird, kann der/die Benutzende keine Zeit eintragen. Außerdem ist sie nicht in Listen sichtbar.
 
 +++
 
@@ -1185,7 +1185,7 @@ Wenn ein(e) Benutzende(r) den Abschnitt [!UICONTROL Arbeitsanfragen] auf einer T
 
 +++
 
-+++**Wartungs-Update vom 9. Juni 2022**
++++** Wartungs-Update vom 9. Juni 2022**
 
 **Objekte, die in den Voreinstellungen von [!UICONTROL Portfolio-Optimizer] gefiltert werden sollen, können nicht ausgewählt werden**
 
@@ -1207,7 +1207,7 @@ Wenn ein(e) Benutzende(r) mit Planerzugriff, der/die auch Administratorrechte f�
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]Wartungs-Update vom 9. Juni 2022**
++++**[!DNL Workfront Scenario Planner] Wartungs-Update vom 9. Juni 2022**
 
 **Anpassbares linkes Bedienfeld im [!DNL Scenario Planner]**
 

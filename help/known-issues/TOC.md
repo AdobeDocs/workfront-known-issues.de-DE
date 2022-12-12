@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
 source-wordcount: '1805'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Testsendungen: Der Teststatus wird in nicht aktualisiert. [!UICONTROL Dokument] Listen](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Projekte: Fehler &quot;Bounces&quot;beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL Startseite]: Problemzuweisung kann nicht entfernt werden in [!UICONTROL Startseite]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [Timesheets: Das Datenblatt wird nicht generiert](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [Integrationen: Kein Zugriff auf Elemente von [!DNL Workfront for Jira] Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [[!UICONTROL Startseite]: Problemzuweisung kann auf der [!UICONTROL Startseite] nicht entfernt werden](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [Arbeitszeittabellen: Die Arbeitszeittabelle wird nicht generiert](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [Integrationen: Kein Zugriff auf Elemente der  [!DNL Workfront for Jira] -Integration](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn der Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Fehler beim Verschieben von Arbeitselementen in eine Iteration](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -80,7 +80,7 @@ ht-degree: 95%
       + [Teams: Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Arbeitszeittabellen: Fehler beim Hinzufügen von Kommentaren zu einer Arbeitszeittabelle](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Korrekturabzüge: Korrekturabzug kann nicht in  [!DNL Workfront] geöffnet werden](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Korrekturabzüge: Korrekturabzug kann nicht in  [!DNL Workfront] geöffnet werden](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Korrekturabzüge: Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -211,7 +211,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Verbindung kann nicht hergestellt werden [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu  [!DNL Google] hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-Fehler in  [!DNL Fusion] -Szenario](known-issues-workfront-fusion/fusion-409-error.md)

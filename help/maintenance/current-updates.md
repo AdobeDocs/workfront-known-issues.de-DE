@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,14 @@ Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Be
 +++
 
 +++**Wartungsupdate am 8. Dezember 2022**
+
+**Smart-Benutzerauswahl beim Hinzufügen von Genehmigern zu einem Genehmigungspfad**
+
+*Genehmigungen*
+
+Wir haben die Anzeige der Benutzer beim Hinzufügen zum [!UICONTROL Genehmiger] Feld einer neuen Validierung.
+
+Wenn Sie jetzt einen Benutzer zum [!UICONTROL Genehmiger] -Feld einer Validierung auf Systemebene oder einer einmaligen Verwendung neben ihrem Namen und Avatar, ihrer Primären Rolle und ihrer E-Mail-Adresse auch angezeigt. Dies hilft bei der Unterscheidung zwischen mehreren Benutzern mit ähnlichen oder identischen Namen.
 
 **Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.**
 

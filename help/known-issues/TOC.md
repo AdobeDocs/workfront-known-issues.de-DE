@@ -1,7 +1,7 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
 workflow-type: tm+mt
 source-wordcount: '1814'
 ht-degree: 96%
@@ -16,7 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Berichte: Berichte verwenden den Ersteller von Berichten anstelle des Platzhalters &quot;$$&quot;[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters &quot;$$&quot;[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Dokumente: MP4-Datei kann nicht hochgeladen werden](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integrationen: Nicht öffnen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Aufgaben: Unteraufgabe kann nicht hinzugefügt werden](known-issues-workfront/wf-tasks-cannot-add-subtask.md)

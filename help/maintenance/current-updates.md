@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '16198'
-ht-degree: 98%
+source-wordcount: '16388'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,34 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Dezember 2022
+
++++**Aktualisierung der Wartung am 15. Dezember 2022**
+
+**&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Erstellen eines Projekts aus einer Vorlage**
+
+*Projekte*
+
+Wenn ein Benutzer versucht, ein Projekt aus einer Vorlage zu erstellen, wird das Projekt nicht erstellt und der Benutzer sieht den folgenden Fehler:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+**Das Kombinationsdiagramm zeigt dieselben Daten zweimal an**
+
+*Berichte*
+
+Wenn ein(e) Benutzende(r) ein Kombinationsdiagramm erstellt, zeigt das Diagramm einen Wertesatz doppelt an, anstatt zwei Wertesätze miteinander zu vergleichen. Die korrekten Wertesätze befinden sich in den Berichtsdetails.
+
+**Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird**
+
+*Arbeitszeittabellen*
+
+Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
+
+„[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
+
+Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
+
++++
 
 +++**Wartungsupdate am 8. Dezember 2022**
 
@@ -220,7 +248,7 @@ Dieses Verhalten wurde gemeldet, wenn über folgende Tools auf einen Bericht zug
 
 Beim Zugriff auf Berichte über ein Dashboard werden die Informationen zur letzten Anzeige eines Berichts aktualisiert.
 
-**[!DNL Workfront]: 500-Fehler bei Änderungen an einem [!DNL Workfront]-Objekt**
+**[!DNL Workfront]: 500-Fehler bei Änderungen an einem [!DNL Workfront]-Objekt**+
 
 *[!DNL Workfront]*
 

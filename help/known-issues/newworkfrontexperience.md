@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 92%
+source-wordcount: '637'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Berichte verwenden den Ersteller von Berichten anstelle des Platzhalters &quot;$$&quot;[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13. Dezember 2022 |
 | [Integrationen: Nicht öffnen [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7. Dezember 2022 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |

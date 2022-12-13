@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 91%
+source-wordcount: '628'
+ht-degree: 90%
 
 ---
 
@@ -85,7 +85,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [E-Mail-Benachrichtigungen: Der/die Benutzende wird nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23. April 2021 |
 | [Kalender: [!DNL OR] -Filteranweisung führt zum Ausschluss der Filterregel](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23. April 2021 |
 | [[!UICONTROL Workfront-Korrekturabzug]: Für den Bericht zu [!UICONTROL Korrekturabzugsgenehmigungen] können keine Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
-| [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) hängen | 14. Juni 2021 |
 | [Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30. März 2021 |
 | [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) als GUID angezeigt | 11. Februar 2021 |
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25. Januar 2021 |

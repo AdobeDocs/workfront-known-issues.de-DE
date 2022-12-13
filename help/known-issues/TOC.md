@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
 workflow-type: tm+mt
-source-wordcount: '1814'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -90,53 +90,20 @@ ht-degree: 96%
       + [Benutzerdefinierte Formulare: Elemente im linken Bedienfeld überschneiden sich](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
       + [Listen: Neuer Status wird bei der Inline-Bearbeitung des Status nicht angezeigt](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
       + [Berichte: Probleme beim Erstellen und Bearbeiten von Berichten in [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md)
-      + [Dokumente: Dokumentgenehmigungen auf der Seite [!UICONTROL Dokumentdetails] nicht verfügbar](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
-      + [Berichte: Probleme mit Problemberichten in  [!DNL Workfront]](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
-      + [Arbeitsauftragsfelder: Vorübergehende Namensänderung für die Arbeitsauftragsfelder für Benutzende und Rollen](known-issues-workfront/wf-assignments-temp-updated-names.md)
       + [Benutzerdefinierte Formulare: In beschreibenden Textfeldern wird eine QuickInfo angezeigt](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integrationen: 404-Fehler beim Hinzufügen eines Dokuments über die  [!DNL SharePoint] [!UICONTROL (Graph-API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrationen:  [!DNL SharePoint] -Ordner wird für Ordnerinhaber nicht angezeigt](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Integrationen: Fehler beim Senden einer Anfrage über  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
-      + [Arbeitszeittabellen: [!UICONTROL Hoppla!] Fehler beim Öffnen einer Arbeitszeittabelle](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)
-      + [Integrationen: Fehler beim Öffnen von  [!DNL Workfront for Jira]  in  [!DNL Jira]](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
       + [Arbeitszeittabellen: Beim Eingeben von Stunden erscheint der Fehler „[!UICONTROL Jemand anders hat versucht, dieses Projekt zu speichern]“](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Dashboards: Zugriff auf das Dashboard über den linke Navigationsbereich eines Objekts ist nicht möglich](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
-      + [Projekte, Aufgaben und Probleme: Das größenangepasste [!UICONTROL Beschreibungsfeld] nimmt wieder die ursprüngliche Größe an](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
-      + [Projekte: Fehler beim Entfernen des/r [!UICONTROL Projektbesitzer(in)] aus der Kopfzeile](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
       + [Aufgaben und Probleme: Beim Erstellen von Aufgaben oder Problemen wird der Vorgang unbeabsichtigt beendet](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
-      + [Probleme: Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird, wird eine falsche Fehlermeldung angezeigt](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
-      + [Dashboards: [!UICONTROL Workload Balancer]-Links werden in Dashboards falsch angezeigt](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)
       + [Aktualisierungen: Benutzerkarte in Aktualisierungen wird nicht geschlossen](known-issues-workfront/wf-updates-cant-close-user-card.md)
-      + [Berichte: Die Optionen „[!UICONTROL Zu Iteration hinzufügen]“ und „[!UICONTROL Zu Kanban-Board hinzufügen]“ sind nicht verfügbar, wenn Aufgaben in einem Bericht inline bearbeitet werden](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
       + [Anfragen: Seiten der Anfragenliste können nicht über die erste Seite hinaus geöffnet werden](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [Benutzerdefinierte Formulare: Daten in Feldern, die durch einen Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren einer Anfrage in ein Projekt nicht erhalten](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md)
-      + [Projekte: Fehler „[!UICONTROL Timeline-Planungsmodus]“ beim Ändern eines Datums in einem Projekt](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md)
-      + [Anfragen: Team-Arbeitsauftrag erscheint beim Erstellen einer Anfrage nicht in der neuen Anfrage.](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md)
       + [[!DNL Workfront]: Probleme beim Senden einer  [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-      + [Benutzerdefiniertes Formular: Anweisungen können nicht aus einem benutzerdefinierten Feld im Formular-Builder entfernt werden](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
       + [Benachrichtigungen: Benutzende erhalten keine E-Mail-Benachrichtigung, wenn sie in einem Kommentar erwähnt werden](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
-      + [Arbeitszeittabellen: Kommentare werden nicht gespeichert](known-issues-workfront/resolved-issues-wf/wf-timesheets-comments-not-save.md)
-      + [Arbeitszeittabellen: Beim Hinzufügen von Stunden zu einer Arbeitszeittabelle tritt der Fehler „[!UICONTROL Fakturierte Stunden sind bereits vorhanden]“ auf](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
-      + [Aufgaben und Probleme: Fehler beim Ändern des [!UICONTROL geplanten Abschlussdatums] in der Kopfzeile einer Aufgabe oder eines Problems](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
-      + [Arbeitszeittabellen: Probleme beim Hinzufügen von Stunden zu Projekten im Status [!UICONTROL Abgeschlossen] oder [!UICONTROL Inaktiv]](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
-      + [Layout-Vorlagen: Layout-Vorlagen für die Zuweisung an Benutzende nicht verfügbar](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
-      + [Berichte: Auslastungsbericht kann nicht exportiert werden](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
       + [Arbeitszeittabellen: Bei der automatischen Speicherung von Änderungen in einer Arbeitszeittabelle tritt der Fehler „Ihre letzten Änderungen wurden nicht gespeichert“ auf](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
-      + [Arbeitszeittabellen: Stunden werden nicht automatisch gespeichert](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
-      + [Benutzerdefinierte Formulare: Daten in Feldern, die durch einen Abschnittsumbruch ausgeblendet werden, bleiben beim Konvertieren eines Problems in ein Projekt nicht erhalten](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
-      + [Pinnwände: Probleme mit [!UICONTROL Statusänderungen] bei verknüpften Elementen in Pinnwand-Karten](known-issues-workfront/resolved-issues-wf/wf-boards-issues-status-change.md)
       + [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
-      + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können aufgrund einer falschen Zeichenbeschränkung für [!UICONTROL beschreibende Textfelder] nicht bearbeitet werden.](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
-      + [Setup: Neuer Status kann nicht erstellt werden](known-issues-workfront/resolved-issues-wf/wf-cannot-create-new-status.md)
-      + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können aufgrund eines [!UICONTROL beschreibenden Textfelds] nicht bearbeitet werden.](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-      + [[!DNL Search]: Fehler bei Verwendung der [!UICONTROL Suche] in  [!DNL Workfront]](known-issues-workfront/wf-search-error-using-search.md)
-      + [Probleme: Stunden in Verbindung mit einem Problem können nicht genehmigt oder abgelehnt werden](known-issues-workfront/wf-issues-cannot-approve-hours.md)
-      + [Berichte: Berichte werden nicht wie geplant gesendet](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
-      + [Berichte: Matrix-Berichte werden beim Scrollen falsch angezeigt.](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
       + [Agile: Probleme beim Verschieben von Karten auf dem Agile-Board](known-issues-workfront/wf-agile-issues-moving-cards.md)
-      + [Terminologie (deutsche Sprache): Die Terminologie ist in einigen Bereichen falsch, wenn die Browser-Sprache auf Deutsch eingestellt ist.](known-issues-workfront/wf-terminology-in-german.md)
-      + [Aktualisierungen: Wenn Sie Benutzende taggen und dann die Seite verlassen, werden die getaggten Benutzenden entfernt.](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
-      + [Suche: Projekte können nicht nach Referenznummer gesucht werden](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Layout-Vorlagen: Beim Erstellen einer Layout-Vorlage kann keine Gruppe ausgewählt werden](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
@@ -157,19 +124,6 @@ ht-degree: 96%
       + [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL Startseite]: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung und zwei E-Mails werden versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
       + [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
-   + Gelöste Probleme in [!DNL Adobe Workfront] {#wf-resolved}
-      + [Berichte: [!UICONTROL Neue Reporting-Arbeitsfläche] wird nicht geladen](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
-      + [Kalender: Beim Hinzufügen von Elementen zum Kalender wird die Schaltfläche falsch angezeigt](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
-      + [Arbeitszeittabellen: Probleme beim Erstellen von Arbeitszeittabellen](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
-      + [Vorlagen: Die Auswahl von Aufgaben kann nicht aufgehoben werden, wenn eine Vorlage angehängt wird](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
-      + [Berichte: Terminierte Berichte werden nicht an alle Empfangenden gesendet.](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
-      + [[!UICONTROL Startseite]: Fehler beim Öffnen eines Elements in der [!UICONTROL Startseiten-Arbeitsliste]](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
-      + [Arbeitszeittabellen: Die auf der Arbeitszeittabelle angezeigten Stunden unterscheiden sich von der Arbeitszeittabellenliste](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
-      + [Anfragen: Wenn eine Anfrage mithilfe einer Vorlage in ein Projekt konvertiert wird, wird die in der Anfragewarteschlange befindliche Gruppe anstelle der Gruppe in der Vorlage angezeigt](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
-      + [Arbeitszeittabelle: Stunden in Arbeitszeittabellen werden nicht korrekt gespeichert](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
-      + [Aufgaben: [!UICONTROL Verstrichene] Zeit kann nicht ausgewählt werden, wenn die Aufgabendauer inline bearbeitet wird.](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
-      + [Aktualisierungen: Seite [!UICONTROL Meine Aktualisierungen] ist leer](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
-      + [Benutzende: Einstellung „[!UICONTROL Nur SAML 2.0-Authentifizierung zulassen]“ fehlt, wenn ein(e) Benutzende(r) kopiert wird](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
 
 
 
@@ -182,21 +136,10 @@ ht-degree: 96%
       + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Leere Seiten, wenn ein Korrekturabzug mit mehreren Seiten aufgerufen wird](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Korrekturabzüge: Fehler beim Hinzufügen eines Korrekturabzugs zu  [!DNL Workfront]  von  [!DNL Workfront] -Korrekturabzug](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
-      + [[!DNL Workfront Proof]: Fehler beim Hochladen einer Datei zu einem Kommentar](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
-      + [[!DNL Workfront Proof]: In den Ordneransichten werden keine Korrekturabzüge angezeigt](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
-      + [[!DNL Workfront Proof]: Korrekturabzug für Dateien mit mehr als 1,5 GB kann nicht erstellt werden](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
-      + [[!DNL Workfront Proof]: Auf der Seite [!UICONTROL Neuer Korrekturabzug] fehlen Textfelder](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
       + [[!DNL Workfront Proof]: E-Mail-Benachrichtigungen sind verzögert](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: Anfragende und Prüfende werden bei der Lizenzanzahl eines Unternehmens mitgezählt](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: E-Mails mit täglicher Korrekturabzugs-Zusammenfassung enthalten keine Schaltfläche „Details anzeigen“](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
-      + [[!DNL Workfront Proof]: Benutzende, die zu einem Korrekturabzug hinzugefügt werden, haben nur [!UICONTROL Lesezugriff]](known-issues-workfront-proof/proof-added-users-have-only-view.md)
       + [[!DNL Workfront Proof]: Korrekturabzugs-Administrator bzw. -Administratorin hat eingeschränkte Berechtigungen für einen Korrekturabzug](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [Im Dashboard werden 0 Korrekturabzüge in [!UICONTROL Zu verwaltende Testsendungen] angezeigt](known-issues-workfront-proof/zero-proofs-to-manage.md)
-      + [[!DNL Workfront Proof]: Hyperlinks in einem interaktiven Korrekturabzug sind nicht aktiv](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
-      + [Benutzeroptionen können nach der ersten Konfiguration in Workflow-Vorlagen nicht mehr geändert werden](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
-      + [Benutzende erhalten keine Benachrichtigungen, wenn sie in einem Korrekturabzug getaggt werden](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
-      + [Kommentare, die in der [!UICONTROL Korrekturabzugsansicht] eingegeben werden, sind nicht in Echtzeit sichtbar](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
-      + [Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann](known-issues-workfront-proof/new-stage-created.md)
       + [In der Arbeitsliste auf der Startseite wird die falsche Frist für die Genehmigung von Korrekturabzügen angezeigt](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Benutzende(r) kann nicht zum Korrekturabzug hinzugefügt werden, indem er/sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
@@ -205,7 +148,6 @@ ht-degree: 96%
       + [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
-      + [[!DNL Workfront Proof]: Manche Bereiche von  [!DNL Workfront Proof]  werden nicht aktualisiert, wenn ein Korrekturabzug erstellt, verschoben oder archiviert wird](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Korrekturabzüge: In den Korrekturabzügen wird [!UICONTROL Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -223,10 +165,7 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: Das Modul wird beim Erstellen oder Bearbeiten eines Szenarios nicht geladen](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: Verbindung zum MS Dynamics-Modul in Fusion nicht möglich](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [[!DNL Workfront Fusion]: 502-Fehler, wenn das Szenario ein Modul beinhaltet, das Korrekturabzugsentscheidungen in Workfront prüft](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
-   + Gelöste Probleme in [!DNL Workfront Fusion] {#fusion-resolved}
-      + [Daten von benutzerdefinierten Formularen sind nicht in  [!DNL Workfront Fusion] [!DNL Workfront]-Modulen verfügbar](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
    + [Bekannte Probleme in  [!DNL Workfront Goals]](workfrontgoals.md)

@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '16460'
+source-wordcount: '16506'
 ht-degree: 97%
 
 ---
@@ -46,6 +46,12 @@ Wenn ein Benutzer versucht, ein Projekt aus einer Vorlage zu erstellen, wird das
 *Berichte*
 
 Wenn ein(e) Benutzende(r) ein Kombinationsdiagramm erstellt, zeigt das Diagramm einen Wertesatz doppelt an, anstatt zwei Wertesätze miteinander zu vergleichen. Die korrekten Wertesätze befinden sich in den Berichtsdetails.
+
+**QuickInfos für abgeblendete Stundenzellen in Timesheets hinzugefügt**
+
+*Arbeitszeittabellen*
+
+Wir haben Tooltipps hinzugefügt, um zu erklären, warum eine Stundenzelle in einem Timesheet abgeblendet sein kann. Einige der Gründe können beispielsweise darin liegen, dass das Timesheet geschlossen ist oder das Projekt abgeschlossen ist.
 
 **Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird**
 

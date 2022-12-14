@@ -3,9 +3,9 @@ title: Bekannte Probleme in  [!DNL Adobe Workfront Fusion]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
+workflow-type: tm+mt
+source-wordcount: '156'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] -Modul wird als [!UICONTROL Objekt „Objekt“] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1. November 2022 |
 | In-App-Hilfe-Links in [[!DNL Workfront Fusion]: [!DNL Fusion]  führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2. August 2022 |
 
 {style=&quot;table-layout:auto&quot;}

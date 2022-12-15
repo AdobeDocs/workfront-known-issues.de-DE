@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '16506'
-ht-degree: 97%
+source-wordcount: '16687'
+ht-degree: 96%
 
 ---
 
@@ -32,6 +32,17 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 ## Updates im Dezember 2022
 
 +++**Aktualisierung der Wartung am 15. Dezember 2022**
+
+**Aktualisierungen der Barrierefreiheit in Listen**
+
+*Listen*
+
+Die folgenden Funktionen zur Barrierefreiheit sind jetzt in Listen verfügbar:
+
+* Kontrollkästchen in Listen verfügen jetzt über einen sichtbaren Fokusindikator, wenn Sie zu ihnen wechseln. Dies erleichtert die Tastaturnavigation von Elementen in einer Liste.
+* Alle Schaltflächen in Listen-Symbolleisten verfügen jetzt über einen konsistenten Hover- und Fokusstatus, wobei beim Bewegen des Mauszeigers ein grauer Hintergrund und ein grauer Hintergrund sowie eine blaue Kontur im Fokus angezeigt werden.
+* Zuvor wurde beim Öffnen eines Dropdown-Menüs in einer Liste mit der Leertaste das Menü geöffnet und die Seite wurde auch ein wenig nach unten gescrollt, was nicht beabsichtigt war. Die Seite scrollt jetzt nicht mehr, wenn Sie die Leertaste auf einer Dropdown-Liste drücken, was das richtige beabsichtigte Verhalten ist.
+* Wenn Sie eine Liste mit dem ausgewählten Zeilenkontrollkästchen anzeigen, können Sie nun jedes bearbeitbare Element durch die Registerkarte blättern und dann die Leertaste drücken, um in den Bearbeitungsmodus zu wechseln und die Zelle in der Zeile zu bearbeiten. Zuvor waren diese Elemente nicht über die Tastatur navigierbar und erforderten die Verwendung einer Maus. Der Wechsel zum Bearbeitungsmodus ist sowohl Maus- als auch Tastaturfreundlich.
 
 **&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Erstellen eines Projekts aus einer Vorlage**
 

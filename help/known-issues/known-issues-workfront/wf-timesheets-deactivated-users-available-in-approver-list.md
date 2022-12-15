@@ -2,9 +2,9 @@
 title: '„Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird“'
 description: „Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
-source-wordcount: '146'
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+workflow-type: tm+mt
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
@@ -12,11 +12,9 @@ ht-degree: 100%
 
 # Arbeitszeittabellen: Deaktivierte Benutzende sind verfügbar, wenn eine genehmigende Person für Arbeitszeittabellen ausgewählt wird
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>Dieses Problem wurde am 15. Dezember 2022 behoben.
 
 Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 

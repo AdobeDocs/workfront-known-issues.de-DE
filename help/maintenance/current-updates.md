@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
-ht-degree: 96%
+source-wordcount: '16738'
+ht-degree: 95%
 
 ---
 
@@ -73,6 +73,12 @@ Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine ge
 „[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
 
 Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
+
+**Uhrzeit kann nicht auf dem Zeitblatt eingegeben werden**
+
+*Arbeitszeittabellen*
+
+Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen, werden die Stundenfelder in den Zeilen &quot;Projekt&quot;oder &quot;Aufgabenzeit&quot;ausgegraut und sie können keine Zeit in diese Felder eingeben. Sie können die Zeit nur im Bereich &quot;Allgemeine Zeit&quot;eingeben.
 
 +++
 
@@ -589,7 +595,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 **Das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ wurde in „[!UICONTROL Rollenzuweisung]“ umbenannt, um zum Ausdruck zu bringen, dass gleichzeitig mehrere Arbeitsaufgaben über den [!UICONTROL Workload Balancer]** zugewiesen werden können
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größere Anzahl von sowohl Aufgaben als auch Problemen im Bereich [!UICONTROL Nicht zugewiesene Arbeit] zugewiesen werden können, wurde im [!UICONTROL Workload Balancer] das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ in „[!UICONTROL Rollenzuweisung]“ umbenannt. Das Feld bezieht sich auf Aufgabengebiete, die entweder Aufgaben oder Problemen zugewiesen wurden, und es wird angezeigt, wenn im Feld [!UICONTROL Massenzuweisungen] Benutzende Elementen zugewiesen werden.
 
@@ -748,7 +754,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Datum in einem Projekt zu ändern, in de
 
 **Konsistenz beim Öffnen des Workload Balancer mithilfe der Monatsansicht**
 
-*Lastenausgleich*
+*Workload Balancer*
 
 Jetzt zeigt der Workload Balancer in der Ansicht [!UICONTROL Tag], [!UICONTROL Woche] oder [!UICONTROL Monat] die den Benutzenden zugewiesenen Elemente maximiert an. Vor diesem Update wurden die zugewiesenen Elemente für die [!UICONTROL Tag]- und [!UICONTROL Wochen]-Ansicht maximiert, aber für die [!UICONTROL Monats]-Ansicht reduziert angezeigt.
 
@@ -1091,7 +1097,7 @@ Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einer Workflow-Vorl
 
 Der Filter **„[!UICONTROL Die Arbeitselemente dieses Projekts]“ wurde im Projekt-[!UICONTROL Workload Balancer]** wiederhergestellt
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Der Filter „Arbeitselemente dieses Projekts“ ist wieder im Bereich [!UICONTROL Zugeordnet] verfügbar, wenn Sie über ein Projekt auf den [!UICONTROL Workload Balancer] zugreifen.
 
@@ -1105,13 +1111,13 @@ Dieser Filter befindet sich jetzt im [!UICONTROL Workload Balancer] eines Projek
 
 **Anzeigen des [!UICONTROL Workload Balancer] für eine Woche**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Aufgrund des Feedbacks, das wir von vielen Kunden erhalten haben, haben wir nun eine Option hinzugefügt, durch die der [!UICONTROL Workload Balancer] eine Woche lang angezeigt werden kann. Vor diesem Update konnten Sie den [!UICONTROL Workload Balancer] 4, 6 und 12 Wochen lang anzeigen. Mit diesem Update haben wir auch die 12-Wochen-Option in 3 Monate geändert.
 
 **Das Bedienfeld „Delegieren“ ist jetzt über den Workload Balancer verfügbar.**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 HINWEIS: Dieses Update ist nur in der Vorschau-Umgebung verfügbar. Die mit diesem Update verknüpfte Funktionalität wird ab Version 22.3 in der Produktionsumgebung verfügbar sein.
 
@@ -1188,7 +1194,7 @@ Wenn ein(e) Benutzende(r) Aufgaben von Projekt A zu Projekt B verschiebt und dan
 
 **Einige Schaltflächen/Symbole funktionieren nicht beim Zugriff auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder ein freigegebenes Dashboard**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder einen Link in einem Dashboard zugreift und versucht, die Elemente oben im Bildschirm zu verwenden, funktionieren sie nicht. Dies wurde für die folgenden Elemente gemeldet:
 
@@ -1317,13 +1323,13 @@ Wenn ein(e) Benutzende(r) ein Projekt aus einer Vorlage erstellt, die berechnete
 
 **[!UICONTROL Bedingungen] im Abschnitt [!UICONTROL Projektvoreinstellungen] von [!UICONTROL Setup]** können nicht bearbeitet werden
 
-*[!UICONTROL Einrichtung]*
+*[!UICONTROL Setup]*
 
 Wenn ein(e) Benutzende(r) versucht, [!UICONTROL Bedingungen] im Abschnitt [!UICONTROL Projektvoreinstellungen] von [!UICONTROL Setup] zu bearbeiten, ist die Seite leer.
 
 **Neue Begrenzung der Zeichenanzahl in einer Aktualisierung in der Vorschau**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 >[!NOTE]
 >
@@ -1388,7 +1394,7 @@ Wenn ein(e) Benutzende(r) versucht, die an eine Vorlage angehängten benutzerdef
 
 **Freigegebener Link zum Workload Balancer zeigt zugewiesene Arbeit falsch an**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] über einen freigegebenen Link öffnet, wird im [!DNL Workload Balancer] [!UICONTROL zugewiesene Arbeit] im Abschnitt [!UICONTROL Nicht zugewiesene Arbeit] angezeigt. [!UICONTROL Zugewiesene Arbeit] hat keinen separaten Abschnitt. Wenn der/die Benutzende den [!UICONTROL Workload Balancer] ohne den freigegebenen Link öffnet, wird die [!UICONTROL zugewiesene Arbeit] korrekt angezeigt.
 
@@ -1498,7 +1504,7 @@ Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungs-Datensätze] e
 
 **Fehler bei der Massenzuweisung im [!UICONTROL Workload Balancer]**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) versucht, Zuweisungen im [!DNL Workload Balancer] eines Projekts durchzuführen, wird der/die Benutzende zu einer Seite mit der folgenden Meldung umgeleitet:
 
@@ -1508,7 +1514,7 @@ Der/die Benutzende kann diese Seite nicht verlassen, bis er/sie die Seite aktual
 
 **Die Navigation zum Öffnen des Bedienfelds [!UICONTROL Zusammenfassung] für Aufgaben und Probleme im [!UICONTROL Workload Balancer]** wurde aktualisiert
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im [!UICONTROL Workload Balancer] das Bedienfeld „Zusammenfassung“ geöffnet werden. Vor diesem Update mussten Sie auf das Symbol [!UICONTROL Zusammenfassung öffnen] in der Symbolleiste und dann auf die Aufgabe oder das Problem klicken. Dies war verwirrend und wurde nun korrigiert. Alternativ können Sie auf das Menü [!UICONTROL Mehr] neben dem Namen der Aufgabe oder des Problems und danach auf [!UICONTROL Zusammenfassung öffnen] klicken.
 
@@ -1574,7 +1580,7 @@ Zuvor hat das System nur Ihre E-Mail in Workfront überprüft.
 
 **[!UICONTROL Workload Balancer] wird nicht geladen**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload Balancer] zu öffnen, wird die Kopfzeile und die linke Navigation geladen, aber der Inhalt des Workload-Balancer wird nicht geladen. Der/die Benutzende sieht blinkende graue Quadrate anstelle von Daten. Gelegentlich wird ein Teil des Inhalts geladen, aber der/die Benutzende sieht immer noch blinkende graue Quadrate, wo die fehlenden Daten wären.
 
@@ -1672,7 +1678,7 @@ Wenn ein(e) Benutzende(r) Aktualisierungen aufruft und scrollt, um Aktualisierun
 
 **Fehler bei der Massenzuweisung von Benutzenden zu Aufgaben, die nicht der Rolle des/der Benutzenden zugewiesen sind**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) in [!UICONTROL Workload Balancer] versucht, einem/r Benutzenden Aufgaben zuzuweisen, dessen/deren Aufgabengebiet nicht mit dem Aufgabengebiet übereinstimmt, das der Aufgabe zugewiesen wurde, wird eine Meldung angezeigt, in der steht, dass die Aufgabe anhand des primären Aufgabengebiets des/r jeweiligen Benutzenden zugewiesen wird. Wenn der/die Benutzende jedoch auf „[!UICONTROL Zuweisen]“ klickt, werden die Aufgaben nicht zugewiesen und der folgende Fehler erscheint:
 
@@ -1802,7 +1808,7 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifende
 
 **Benutzenden kann im [!UICONTROL Workload Balancer kein „Sekundäres Aufgabengebiet“ zugewiesen werden]**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
@@ -1861,7 +1867,7 @@ Wenn der/die Benutzende auf „[!UICONTROL Anzeigen]“ klickt, kann er/sie sehe
 
 **Der [!UICONTROL Workload Balancer] blinkt, wenn Sie zwischen Datumsangaben wechseln**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Die Stunden des/r Benutzenden, der/die im [!UICONTROL Workload Balancer] als Erste(r) aufgelistet ist, werden nicht angezeigt, wenn die Timeline aktualisiert wird. Der/die Benutzende und seine/ihre Stunden werden mit allen grauen Kästchen angezeigt, die blinken. Dies tritt auf, wenn Sie sich in der Timeline vorwärts und rückwärts bewegen.
 
@@ -1889,7 +1895,7 @@ Wenn ein(e) Benutzende(r) versucht, eine Datei mit mehreren Seiten im [!DNL Safa
 
 **Falsche Benutzerliste bei der Zuweisung umfangreicher Arbeitsaufträge im [!UICONTROL Workload Balancer]**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn ein(e) Benutzende(r) eine umfangreiche Zuweisung von Arbeitsaufträgen im [!UICONTROL Workload Balancer] vornimmt und ein Projekt und ein Aufgabengebiet auswählt, ist die Liste der verfügbaren Benutzenden falsch. Dabei können Benutzende ohne das erforderliche Aufgabengebiet oder die Projektberechtigung angezeigt werden, und Benutzende mit dem erforderlichen Aufgabengebiet und der Projektberechtigung werden nicht in der Liste angezeigt.
 
@@ -2194,7 +2200,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu öffnen, kann er nic
 
 Die Dateigrößenbeschränkung von **[!DNL XLS]- und [!DNL XLSX]-Dateien wurde für Korrekturabzüge vorübergehend auf 100 MB reduziert**
 
-*Testversand*
+*Proofing*
 
 Um ein Sicherheitsproblem zu beheben, haben wir die maximale Dateigröße für [!DNL XLS]- und [!DNL XLSX]-Dateien bei der Erstellung eines Korrekturabzugs auf 100 MB begrenzt.
 
@@ -2301,7 +2307,7 @@ Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Problem mithilf
 
 **Fehler „Seiteninhalt kann nicht geladen werden“ bei der Anzeige von Projektvoreinstellungen**
 
-*Einrichtung*
+*Setup*
 
 Wenn ein Administrator oder eine Administratorin versucht, Projekte, Aufgaben oder Probleme unter anzuzeigen [!UICONTROL Projektvoreinstellungen] im Bereich [!UICONTROL Setup] anzuzeigen, wird die Seite nicht geladen und der folgende Fehler wird angezeigt:
 
@@ -2397,7 +2403,7 @@ In der Vorschau-Umgebung wurden die Links zum Kopieren und Verschieben von Probl
 
 **Hinzufügen von bis zu 45 IP-Adressen zur [!DNL Workfront] Zulassungsliste**
 
-*Einrichtung*
+*Setup*
 
 Das Limit für IP-Adressen, die zur [!DNL Workfront]-Zulassungsliste hinzugefügt werden können, wurde von 30 auf 45 erhöht.
 
@@ -2485,7 +2491,7 @@ Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug
 
 **[!UICONTROL Workload Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
 
-*[!UICONTROL Lastenausgleich]*
+*[!UICONTROL Workload Balancer]*
 
 Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
 

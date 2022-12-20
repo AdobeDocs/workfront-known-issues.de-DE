@@ -1,12 +1,12 @@
 ---
-title: Bekannte Probleme in  [!DNL Adobe Workfront Proof]
+title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 87%
+ht-degree: 93%
 
 ---
 
@@ -45,7 +45,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Der Teststatus wird in nicht aktualisiert. [!UICONTROL Dokument] Listen](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5. Dezember 2022 |
+| [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5. Dezember 2022 |
 | [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [[!DNL Workfront Proof]: Benutzende(r) kann nicht zum Korrekturabzug hinzugefügt werden, indem er/sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23. März 2022 |

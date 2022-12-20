@@ -1,11 +1,11 @@
 ---
 title: Wartungs-Updates für Workfront
-description: Wartungs-Updates für  [!DNL Adobe Workfront]
+description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
 source-wordcount: '16738'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,7 @@ Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie
 
 ## Updates im Dezember 2022
 
-+++**Aktualisierung der Wartung am 15. Dezember 2022**
++++**Wartungs-Update vom 15. Dezember 2022**
 
 **Aktualisierungen der Barrierefreiheit in Listen**
 
@@ -48,9 +48,9 @@ Die folgenden Funktionen zur Barrierefreiheit sind jetzt in Listen verfügbar:
 
 *Projekte*
 
-Wenn ein Benutzer versucht, ein Projekt aus einer Vorlage zu erstellen, wird das Projekt nicht erstellt und der Benutzer sieht den folgenden Fehler:
+„Wenn ein(e) Benutzende(r) versucht, ein Projekt über eine Vorlage zu erstellen, wird das Projekt nicht erstellt und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Das Kombinationsdiagramm zeigt dieselben Daten zweimal an**
 
@@ -78,11 +78,11 @@ Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Be
 
 *Arbeitszeittabellen*
 
-Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen, werden die Stundenfelder in den Zeilen &quot;Projekt&quot;oder &quot;Aufgabenzeit&quot;ausgegraut und sie können keine Zeit in diese Felder eingeben. Sie können die Zeit nur im Bereich &quot;Allgemeine Zeit&quot;eingeben.
+Wenn ein(e) Benutzende(r) versucht, zu einer Arbeitszeittabelle die Zeit hinzuzufügen, werden die Stundenfelder in den Projektzeit- oder Aufgabenzeit-Zeilen ausgegraut dargestellt und die Eingabe der Zeit in diese Felder ist nicht möglich. Nur im allgemeine Zeitbereich kann die Zeit eingegeben werden.
 
 +++
 
-+++**Wartungsupdate am 8. Dezember 2022**
++++**Wartungs-Update vom 8. Dezember 2022**
 
 **Smart-Benutzerauswahl beim Hinzufügen von Genehmigern zu einem Genehmigungspfad**
 
@@ -92,25 +92,25 @@ Wir haben die Anzeige der Benutzer beim Hinzufügen zum [!UICONTROL Genehmiger] 
 
 Wenn Sie jetzt einen Benutzer zum [!UICONTROL Genehmiger] -Feld einer Validierung auf Systemebene oder einer einmaligen Verwendung neben ihrem Namen und Avatar, ihrer Primären Rolle und ihrer E-Mail-Adresse auch angezeigt. Dies hilft bei der Unterscheidung zwischen mehreren Benutzern mit ähnlichen oder identischen Namen.
 
-**Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.**
+**Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte**
 
 *Projekte*
 
-Wenn ein Benutzer ein Projekt aus einer Vorlage erstellt, nimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status an. Wenn ein Projekt ohne Vorlage erstellt wird, spiegelt der Status erwartungsgemäß die Voreinstellungen für Gruppenprojekte wider.
+Wenn ein(e) Benutzende(r) ein Projekt über eine Vorlage erstellt, übernimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status. Wenn ein Projekt ohne Vorlage erstellt wird, wird der Status wie erwartet von den Gruppenprojekteinstellungen übernommen.
 
 **Unteraufgabe kann nicht hinzugefügt werden**
 
 *Aufgaben*
 
-Wenn ein Benutzer versucht, eine Unteraufgabe mit dem[!UICONTROL +Neu]&quot;, werden keine Optionen in der [!UICONTROL Neue Aufgabe] angezeigt und dem Benutzer wird die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, mit der Schaltfläche „[!UICONTROL +Neu]“ eine Unteraufgabe hinzuzufügen, werden im Fenster [!UICONTROL Neue Aufgabe] keine Optionen angezeigt und die folgende Meldung erscheint:
 
-&quot;[!UICONTROL Eigenschaften von nicht definiert können nicht gelesen werden (Lesen von &#39;validations&#39;).]&quot;
+„[!UICONTROL Eigenschaften von nicht definierten Inhalten können nicht gelesen werden (Validierungen werden gelesen).]“
 
-**Fehler beim Schließen oder Speichern von Timesheets**
+**Fehler beim Schließen oder Speichern von Arbeitszeittabellen**
 
 *Arbeitszeittabellen*
 
-Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen oder es zu schließen, wird das Timesheet nicht gespeichert und der Benutzer sieht die folgenden Fehler:
+Wenn ein(e) Benutzende(r) versucht, einer Arbeitszeittabelle Zeit hinzuzufügen oder sie zu schließen, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
 * Datenbankfehler aufgrund von ungültigem SQL-Befehl.
 * Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die zuletzt gespeicherten Änderungen anzuzeigen.
@@ -119,7 +119,7 @@ Wenn ein Benutzer versucht, einem Timesheet Zeit hinzuzufügen oder es zu schlie
 
 +++**Wartungs-Update (Hotfix) vom 1. Dezember 2022**
 
-**Fehler bei der Inline-Bearbeitung durch den Benutzer verursachen keine Fehlermeldungen**
+**Fehler bei der Inline-Bearbeitung durch den/die Benutzende(n) verursachen keine Fehlermeldungen**
 
 *Listen*
 
@@ -130,7 +130,7 @@ Dies wurde in den folgenden Situationen gemeldet:
 * Vorgänger: Es wird eine Vorgängerschleife erstellt, z. B. das Zuweisen einer Aufgabe zu sich selbst
 * Datumsangaben: Es wird ein unmögliches Datum eingegeben, z. B. ein Fertigstellungsdatum, das vor dem Startdatum liegt oder das über das Fertigstellungsdatum des Projekts hinausgeht
 
-**Option &quot;Verschieben nach&quot;nicht für Problemberichte verfügbar**
+**Option „Verschieben nach“ für Problemberichte nicht verfügbar**
 
 *Berichte*
 
@@ -314,7 +314,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Webhook zum Modul [!DNL Workfront] > [
 
 *Layout-Vorlagen*
 
-Die Registerkarten „Zeitplan“ und „Planung“, die in einer Layout-Vorlage zum linken Bedienfeld eines Teams oder Projekts hinzugefügt werden können, wurden in „Workload Balancer“ umbenannt.
+Die Registerkarten „Zeitplan“ und „Planung“, die in einer Layout-Vorlage zum linken Bedienfeld eines Teams oder Projekts hinzugefügt werden können, wurden in „Workload-Balancer“ umbenannt.
 
 **Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen**
 
@@ -326,7 +326,7 @@ Die Registerkarten „Zeitplan“ und „Planung“, die in einer Layout-Vorlage
 
 Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird möglicherweise einer der folgenden Fehler angezeigt:
 
-* „[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+* „[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 * „[!UICONTROL E-Mail-Benachrichtigung konnte nicht abgerufen werden]“
 
@@ -381,11 +381,11 @@ Wenn ein(e) Benutzende(r) auf einer Nadel die Option „[!UICONTROL Nadel entfer
 
 Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie die Seite aufruft und anheftet, wird die Nadel nicht erstellt und der/die Benutzende kann die Seite nicht anheften.
 
-**Im [!UICONTROL Workload Balancer] werden alle Benutzenden aufgelistet, wenn im [!DNL Safari]-Browser ein Freigabe-Link verwendet wird**
+**Im [!UICONTROL Workload-Balancer] werden alle Benutzenden aufgelistet, wenn im [!DNL Safari]-Browser ein Freigabe-Link verwendet wird**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) im [!DNL Safari]-Browser auf einen Freigabe-Link zum [!UICONTROL Workload Balancer] klickt, werden alle Benutzenden und nicht nur die aufgelisteten Team-Mitglieder angezeigt.
+Wenn ein(e) Benutzende(r) im [!DNL Safari]-Browser auf einen Freigabe-Link zum [!UICONTROL Workload-Balancer] klickt, werden alle Benutzenden und nicht nur die aufgelisteten Team-Mitglieder angezeigt.
 
 +++
 
@@ -593,11 +593,11 @@ Wenn ein(e) Benutzende(r) versucht, einer Aufgabe auf seiner/ihrer Arbeitszeitta
 
 Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über einen Namen bewegt, wird eine Karte mit Details zum/r entsprechenden Benutzenden geöffnet und nicht automatisch wieder geschlossen. Die Seite reagiert nicht mehr, bis die Karte manuell geschlossen wird, indem auf das X in der oberen rechten Ecke geklickt wird.
 
-**Das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ wurde in „[!UICONTROL Rollenzuweisung]“ umbenannt, um zum Ausdruck zu bringen, dass gleichzeitig mehrere Arbeitsaufgaben über den [!UICONTROL Workload Balancer]** zugewiesen werden können
+**Das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ wurde in „[!UICONTROL Rollenzuweisung]“ umbenannt, um zum Ausdruck zu bringen, dass gleichzeitig mehrere Arbeitsaufgaben über den [!UICONTROL Workload-Balancer]** zugewiesen werden können
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größere Anzahl von sowohl Aufgaben als auch Problemen im Bereich [!UICONTROL Nicht zugewiesene Arbeit] zugewiesen werden können, wurde im [!UICONTROL Workload Balancer] das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ in „[!UICONTROL Rollenzuweisung]“ umbenannt. Das Feld bezieht sich auf Aufgabengebiete, die entweder Aufgaben oder Problemen zugewiesen wurden, und es wird angezeigt, wenn im Feld [!UICONTROL Massenzuweisungen] Benutzende Elementen zugewiesen werden.
+Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größere Anzahl von sowohl Aufgaben als auch Problemen im Bereich [!UICONTROL Nicht zugewiesene Arbeit] zugewiesen werden können, wurde im [!UICONTROL Workload-Balancer] das Feld „[!UICONTROL Aufgabenrollenzuweisung]“ in „[!UICONTROL Rollenzuweisung]“ umbenannt. Das Feld bezieht sich auf Aufgabengebiete, die entweder Aufgaben oder Problemen zugewiesen wurden, und es wird angezeigt, wenn im Feld [!UICONTROL Massenzuweisungen] Benutzende Elementen zugewiesen werden.
 
 +++
 
@@ -607,7 +607,7 @@ Um die neue Funktionalität besser zum Ausdruck zu bringen, mit der eine größe
 
 *[!DNL Workfront Scenario Planner]*
 
-Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen freigeben, ist der Filter für alle Gruppen- und Untergruppenmitglieder sichtbar, die Projekte im Feld [!UICONTROL Projekte importieren] eines Plans im [!DNL Scenario Planner] betrachten.
+Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen freigeben, ist der Filter für alle Gruppen- und Untergruppenmitglieder sichtbar, die Projekte im Feld [!UICONTROL Projekte importieren] eines Plans im [!DNL Scenario Planner]betrachten.
 
 +++
 
@@ -722,11 +722,11 @@ Wenn ein(e) Benutzende(r) beim Erstellen eines neuen Korrekturabzugs eine Datei 
 
 +++**Wartungs-Update vom 25. August 2022**
 
-**Links zum Workload Balancer werden in Dashboards falsch angezeigt**
+**Links zum Workload-Balancer werden in Dashboards falsch angezeigt**
 
 *Dashboards*
 
-Workload Balancer-Links zur gemeinsamen Nutzung werden falsch angezeigt, wenn sie als externe Seite zu einem Dashboard hinzugefügt werden. Anstatt die Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die jüngste Ansicht/die jüngsten Filter, die auf den Work Balancer angewendet wurden.
+Workload-Balancer-Links zur gemeinsamen Nutzung werden falsch angezeigt, wenn sie als externe Seite zu einem Dashboard hinzugefügt werden. Anstatt die Ansicht/die Filter zu verwenden, die mit dem Link verknüpft sind, verwendet das Dashboard die jüngste Ansicht/die jüngsten Filter, die auf den Work Balancer angewendet wurden.
 
 **Feld [!UICONTROL Integrationen] zur benutzerdefinierten Kopfzeile des Projekts kann hinzugefügt werden**
 
@@ -750,13 +750,13 @@ Wenn ein(e) Benutzende(r) ein Problem in ein leeres Projekt konvertiert (ohne Vo
 
 Wenn ein(e) Benutzende(r) versucht, ein Datum in einem Projekt zu ändern, in dem der [!UICONTROL Planungsmodus] auf [!UICONTROL Manuelles Speichern] > [!UICONTROL Timeline-Planung] festgelegt ist, ändert sich das Datum nicht und ein Fehler wird angezeigt.
 
-„[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-**Konsistenz beim Öffnen des Workload Balancer mithilfe der Monatsansicht**
+**Konsistenz beim Öffnen des Workload-Balancer mithilfe der Monatsansicht**
 
-*Workload Balancer*
+*Workload-Balancer*
 
-Jetzt zeigt der Workload Balancer in der Ansicht [!UICONTROL Tag], [!UICONTROL Woche] oder [!UICONTROL Monat] die den Benutzenden zugewiesenen Elemente maximiert an. Vor diesem Update wurden die zugewiesenen Elemente für die [!UICONTROL Tag]- und [!UICONTROL Wochen]-Ansicht maximiert, aber für die [!UICONTROL Monats]-Ansicht reduziert angezeigt.
+Jetzt zeigt der Workload-Balancer in der Ansicht [!UICONTROL Tag], [!UICONTROL Woche] oder [!UICONTROL Monat] die den Benutzenden zugewiesenen Elemente maximiert an. Vor diesem Update wurden die zugewiesenen Elemente für die [!UICONTROL Tag]- und [!UICONTROL Wochen]-Ansicht maximiert, aber für die [!UICONTROL Monats]-Ansicht reduziert angezeigt.
 
 
 +++
@@ -979,7 +979,7 @@ Vor diesem Update umging das Objekt den Genehmigungsprozess für den Ablehnungss
 
 *[!UICONTROL Hauptmenü]*
 
-Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie im [!UICONTROL Hauptmenü] das [!UICONTROL Hilfe]-Symbol so konfigurieren, dass es auf diese Seite verweist. Dies ist nützlich, wenn die Hilfeseite Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront] nutzt.
+Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie im [!UICONTROL Hauptmenü] das [!UICONTROL Hilfe]-Symbol so konfigurieren, dass es auf diese Seite verweist. Dies ist nützlich, wenn die Hilfeseite Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront]nutzt.
 Diese benutzerdefinierte URL hat keine Auswirkungen auf den Haupt-Hilfe-Link im oberen Bereich von [!DNL Workfront] noch auf die kontextsensitiven Hilfelinks in [!DNL Workfront], über die Benutzende zur [!DNL Workfront]-Hilfeseite gelangen.
 
 **Verstrichene Zeit kann nicht ausgewählt werden, wenn die [!UICONTROL Aufgabendauer]** inline bearbeitet wird
@@ -1095,13 +1095,13 @@ Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einer Workflow-Vorl
 * Die Funktion zum „[!UICONTROL Freigeben des Korrekturabzugs durch Taggen]“
 * Korrekturabzugs-Rolle ([!UICONTROL Prüfende Person], [!UICONTROL genehmigende Person] usw.)
 
-Der Filter **„[!UICONTROL Die Arbeitselemente dieses Projekts]“ wurde im Projekt-[!UICONTROL Workload Balancer]** wiederhergestellt
+Der Filter **„[!UICONTROL Die Arbeitselemente dieses Projekts]“ wurde im Projekt-[!UICONTROL Workload-Balancer]** wiederhergestellt
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Der Filter „Arbeitselemente dieses Projekts“ ist wieder im Bereich [!UICONTROL Zugeordnet] verfügbar, wenn Sie über ein Projekt auf den [!UICONTROL Workload Balancer] zugreifen.
+Der Filter „Arbeitselemente dieses Projekts“ ist wieder im Bereich [!UICONTROL Zugeordnet] verfügbar, wenn Sie über ein Projekt auf den [!UICONTROL Workload-Balancer] zugreifen.
 
-Dieser Filter befindet sich jetzt im [!UICONTROL Workload Balancer] eines Projekts in den Filtern für den Bereich [!UICONTROL Zugewiesene Arbeit] unter dem Abschnitt „[!UICONTROL Vorgeschlagen]“.
+Dieser Filter befindet sich jetzt im [!UICONTROL Workload-Balancer] eines Projekts in den Filtern für den Bereich [!UICONTROL Zugewiesene Arbeit] unter dem Abschnitt „[!UICONTROL Vorgeschlagen]“.
 
 +++
 
@@ -1109,19 +1109,19 @@ Dieser Filter befindet sich jetzt im [!UICONTROL Workload Balancer] eines Projek
 
 +++**Wartungs-Update vom 30. Juni 2022**
 
-**Anzeigen des [!UICONTROL Workload Balancer] für eine Woche**
+**Anzeigen des [!UICONTROL Workload-Balancer] für eine Woche**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Aufgrund des Feedbacks, das wir von vielen Kunden erhalten haben, haben wir nun eine Option hinzugefügt, durch die der [!UICONTROL Workload Balancer] eine Woche lang angezeigt werden kann. Vor diesem Update konnten Sie den [!UICONTROL Workload Balancer] 4, 6 und 12 Wochen lang anzeigen. Mit diesem Update haben wir auch die 12-Wochen-Option in 3 Monate geändert.
+Aufgrund des Feedbacks, das wir von vielen Kunden erhalten haben, haben wir nun eine Option hinzugefügt, durch die der [!UICONTROL Workload-Balancer] eine Woche lang angezeigt werden kann. Vor diesem Update konnten Sie den [!UICONTROL Workload-Balancer] 4, 6 und 12 Wochen lang anzeigen. Mit diesem Update haben wir auch die 12-Wochen-Option in 3 Monate geändert.
 
-**Das Bedienfeld „Delegieren“ ist jetzt über den Workload Balancer verfügbar.**
+**Das Bedienfeld „Delegieren“ ist jetzt über den Workload-Balancer verfügbar.**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
 HINWEIS: Dieses Update ist nur in der Vorschau-Umgebung verfügbar. Die mit diesem Update verknüpfte Funktionalität wird ab Version 22.3 in der Produktionsumgebung verfügbar sein.
 
-Sie können jetzt die Beauftragten einer Aufgabe oder eines Problems über den Workload Balancer aufrufen. Beim Zuweisen einer Aufgabe oder eines Problems über den Workload Balancer können Sie eine Liste der Zuweisungen sowie eine Liste der Beauftragten für die Aufgabe oder das Problem aufrufen, sofern diese gerade zugewiesen sind.
+Sie können jetzt die Beauftragten einer Aufgabe oder eines Problems über den Workload-Balancer aufrufen. Beim Zuweisen einer Aufgabe oder eines Problems über den Workload-Balancer können Sie eine Liste der Zuweisungen sowie eine Liste der Beauftragten für die Aufgabe oder das Problem aufrufen, sofern diese gerade zugewiesen sind.
 
 **Endpunktinformationen in API Explorer können nicht geöffnet werden**
 
@@ -1192,11 +1192,11 @@ Wenn ein(e) Benutzende(r) einen [!UICONTROL benutzerdefinierten] Abschnitt eines
 
 Wenn ein(e) Benutzende(r) Aufgaben von Projekt A zu Projekt B verschiebt und dann weitere Aufgaben von Projekt A zu Projekt C verschiebt, werden die ursprünglich in Projekt B verschoben Aufgaben in Projekt C angezeigt.
 
-**Einige Schaltflächen/Symbole funktionieren nicht beim Zugriff auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder ein freigegebenes Dashboard**
+**Einige Schaltflächen/Symbole funktionieren nicht beim Zugriff auf den [!UICONTROL Workload-Balancer] über einen freigegebenen Link oder ein freigegebenes Dashboard**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) auf den [!UICONTROL Workload Balancer] über einen freigegebenen Link oder einen Link in einem Dashboard zugreift und versucht, die Elemente oben im Bildschirm zu verwenden, funktionieren sie nicht. Dies wurde für die folgenden Elemente gemeldet:
+Wenn ein(e) Benutzende(r) auf den [!UICONTROL Workload-Balancer] über einen freigegebenen Link oder einen Link in einem Dashboard zugreift und versucht, die Elemente oben im Bildschirm zu verwenden, funktionieren sie nicht. Dies wurde für die folgenden Elemente gemeldet:
 
 * [!UICONTROL Heute]
 * Vorwärts- und Rückwärtspfeile
@@ -1209,7 +1209,7 @@ Wenn ein(e) Benutzende(r) auf den [!UICONTROL Workload Balancer] über einen fre
 
 **Benutzende mit der Berechtigung [!UICONTROL Verwalten] für einen Plan können ihn für andere freigeben**
 
-Benutzende mit der Genehmigung [!UICONTROL Verwalten] für einen Plan im [!DNL Scenario Planner] können den Plan jetzt für andere Benutzende freigeben. Vor diesem Update konnte nur der/die Erstellende des Plans diesen für andere freigeben.
+Benutzende mit der Genehmigung [!UICONTROL Verwalten] für einen Plan im [!DNL Scenario Planner]können den Plan jetzt für andere Benutzende freigeben. Vor diesem Update konnte nur der/die Erstellende des Plans diesen für andere freigeben.
 
 +++
 
@@ -1233,7 +1233,7 @@ Wenn ein(e) Benutzende(r) einen Filter erstellt und eine Filterung nach einem Da
 
 Wenn ein(e) Benutzende(r) versucht, ein Problem über eine Vorlage in ein Projekt zu konvertieren, und das Problem ein benutzerdefiniertes Formular hat, das einen Abschnitt nur für Administratoren bzw. Administratorinnen enthält, wird das Problem nicht konvertiert und der folgende Fehler erscheint:
 
-„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Anfragen werden gesendet, ohne dass die erforderlichen Felder ausgefüllt sind**
 
@@ -1287,7 +1287,7 @@ Wenn ein(e) Benutzende(r) mit Planerzugriff, der/die auch Administratorrechte f�
 
 *[!DNL Workfront Scenario Planner]*
 
-Sie können jetzt im [!DNL Scenario Planner] die Größe des linken Bedienfelds in einem Plan ändern. Dadurch können längere Namen vollständig angezeigt werden. Vor diesem Update wurden längere Namen abgeschnitten.
+Sie können jetzt im [!DNL Scenario Planner]die Größe des linken Bedienfelds in einem Plan ändern. Dadurch können längere Namen vollständig angezeigt werden. Vor diesem Update wurden längere Namen abgeschnitten.
 
 +++
 
@@ -1297,7 +1297,7 @@ Sie können jetzt im [!DNL Scenario Planner] die Größe des linken Bedienfelds 
 
 *[!DNL Workfront Fusion]*
 
-Wenn ein(e) Benutzende(r) ein [!DNL Workfront]-Modul in [!DNL Workfront Fusion] konfiguriert und versucht, Ausgaben für das Modul auszuwählen, sind die Felder von benutzerdefinierten Formularen nicht sichtbar. Dies tritt auf, wenn ein benutzerdefiniertes Formular für einen Typ eines [!DNL Workfront]-Objekts erstellt wurde und anschließend ein anderer Typ hinzugefügt wurde. In [!DNL Workfront Fusion] werden nur Felder von benutzerdefinierten Formularen angezeigt, die ursprünglich für den ausgewählten Objekttyp erstellt wurden.
+Wenn ein(e) Benutzende(r) ein [!DNL Workfront]-Modul in [!DNL Workfront Fusion] konfiguriert und versucht, Ausgaben für das Modul auszuwählen, sind die Felder von benutzerdefinierten Formularen nicht sichtbar. Dies tritt auf, wenn ein benutzerdefiniertes Formular für einen Typ eines [!DNL Workfront]-Objekts erstellt wurde und anschließend ein anderer Typ hinzugefügt wurde. In [!DNL Workfront Fusion]werden nur Felder von benutzerdefinierten Formularen angezeigt, die ursprünglich für den ausgewählten Objekttyp erstellt wurden.
 
 **Es kann nicht gescrollt werden, um alle Szenario-Ausführungen anzuzeigen**
 
@@ -1329,22 +1329,22 @@ Wenn ein(e) Benutzende(r) versucht, [!UICONTROL Bedingungen] im Abschnitt [!UICO
 
 **Neue Begrenzung der Zeichenanzahl in einer Aktualisierung in der Vorschau**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
 >[!NOTE]
 >
 >Dieses Update gilt nur für die Vorschau-Umgebung.
 
 Um die Leistung des Bereichs „Aktualisierungen“ zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie bei einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch dieses Update wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000. Aktualisierungen
-Unterstützung für benutzerdefinierte Felder mit automatischer Textvervollständigung in den Workload Balancer-Filtern
+Unterstützung für benutzerdefinierte Felder mit automatischer Textvervollständigung in den Workload-Balancer-Filtern
 
-Wir unterstützen im Workload Balancer nun Filter, die auf benutzerdefinierten Feldern [!UICONTROL mit automatischer Textvervollständigung] basieren. Vor diesem Patch war das Filtern nach diesem Typ von benutzerdefinierten Feldern im Workload Balancer nicht möglich.
+Wir unterstützen im Workload-Balancer nun Filter, die auf benutzerdefinierten Feldern [!UICONTROL mit automatischer Textvervollständigung] basieren. Vor diesem Patch war das Filtern nach diesem Typ von benutzerdefinierten Feldern im Workload-Balancer nicht möglich.
 
 **Berechtigungen für Benutzerrollen können nicht bearbeitet werden**
 
 *[!DNL Workfront Proof]*
 
-Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Kommentare auflösen und Aktionen anwenden]“ oder „[!UICONTROL Korrekturabzug durch Tagging freigeben]“ in [!DNL Workfront Proof] zu bearbeiten, werden die Änderungen nicht gespeichert. Der/die Benutzende erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der/die Benutzende die Rollenberechtigungen jedoch erneut öffnet, kann er/sie sehen, dass die Änderungen nicht gespeichert wurden.
+Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Kommentare auflösen und Aktionen anwenden]“ oder „[!UICONTROL Korrekturabzug durch Tagging freigeben]“ in [!DNL Workfront Proof]zu bearbeiten, werden die Änderungen nicht gespeichert. Der/die Benutzende erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der/die Benutzende die Rollenberechtigungen jedoch erneut öffnet, kann er/sie sehen, dass die Änderungen nicht gespeichert wurden.
 
 +++
 
@@ -1392,11 +1392,11 @@ Wenn ein(e) Benutzende(r) [!DNL Workfront] in einer anderen Sprache als Englisch
 
 Wenn ein(e) Benutzende(r) versucht, die an eine Vorlage angehängten benutzerdefinierten Formulare zu bearbeiten, indem er/sie in der Kopfzeile der Vorlage auf [!UICONTROL Bearbeiten] klickt, wird im Feld [!UICONTROL Vorlage bearbeiten] nur eines der benutzerdefinierten Formulare angezeigt, die an die Vorlage angehängt sind.
 
-**Freigegebener Link zum Workload Balancer zeigt zugewiesene Arbeit falsch an**
+**Freigegebener Link zum Workload-Balancer zeigt zugewiesene Arbeit falsch an**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] über einen freigegebenen Link öffnet, wird im [!DNL Workload Balancer] [!UICONTROL zugewiesene Arbeit] im Abschnitt [!UICONTROL Nicht zugewiesene Arbeit] angezeigt. [!UICONTROL Zugewiesene Arbeit] hat keinen separaten Abschnitt. Wenn der/die Benutzende den [!UICONTROL Workload Balancer] ohne den freigegebenen Link öffnet, wird die [!UICONTROL zugewiesene Arbeit] korrekt angezeigt.
+Wenn ein(e) Benutzende(r) den [!UICONTROL Workload-Balancer] über einen freigegebenen Link öffnet, wird im [!DNL Workload Balancer] [!UICONTROL zugewiesene Arbeit] im Abschnitt [!UICONTROL Nicht zugewiesene Arbeit] angezeigt. [!UICONTROL Zugewiesene Arbeit] hat keinen separaten Abschnitt. Wenn der/die Benutzende den [!UICONTROL Workload-Balancer] ohne den freigegebenen Link öffnet, wird die [!UICONTROL zugewiesene Arbeit] korrekt angezeigt.
 
 +++
 
@@ -1432,7 +1432,7 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft und versucht, ihn zu schl
 
 Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Gruppe] aufruft und versucht, einen Gruppenadministrator bzw. eine Gruppenadministratorin über den Abschnitt [!UICONTROL Gruppenadministratoren] in der Kopfzeile hinzuzufügen oder zu entfernen, werden die Änderungen nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Horizontaler Bildlaufbalken blockiert Element am Ende der Liste**
 
@@ -1502,9 +1502,9 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu erstellen, ist der T
 
 Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungs-Datensätze] eines Projekts befindet und die Ansicht [!UICONTROL Neuer Abrechnungs-Datensatz] geöffnet hat und versucht, einen neuen Abrechnungs-Datensatz hinzuzufügen, werden die Felder für den neuen Abrechnungs-Datensatz nicht angezeigt und der Abrechnungs-Datensatz kann nicht erstellt werden.
 
-**Fehler bei der Massenzuweisung im [!UICONTROL Workload Balancer]**
+**Fehler bei der Massenzuweisung im [!UICONTROL Workload-Balancer]**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
 Wenn ein(e) Benutzende(r) versucht, Zuweisungen im [!DNL Workload Balancer] eines Projekts durchzuführen, wird der/die Benutzende zu einer Seite mit der folgenden Meldung umgeleitet:
 
@@ -1512,11 +1512,11 @@ Wenn ein(e) Benutzende(r) versucht, Zuweisungen im [!DNL Workload Balancer] eine
 
 Der/die Benutzende kann diese Seite nicht verlassen, bis er/sie die Seite aktualisiert.
 
-**Die Navigation zum Öffnen des Bedienfelds [!UICONTROL Zusammenfassung] für Aufgaben und Probleme im [!UICONTROL Workload Balancer]** wurde aktualisiert
+**Die Navigation zum Öffnen des Bedienfelds [!UICONTROL Zusammenfassung] für Aufgaben und Probleme im [!UICONTROL Workload-Balancer]** wurde aktualisiert
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im [!UICONTROL Workload Balancer] das Bedienfeld „Zusammenfassung“ geöffnet werden. Vor diesem Update mussten Sie auf das Symbol [!UICONTROL Zusammenfassung öffnen] in der Symbolleiste und dann auf die Aufgabe oder das Problem klicken. Dies war verwirrend und wurde nun korrigiert. Alternativ können Sie auf das Menü [!UICONTROL Mehr] neben dem Namen der Aufgabe oder des Problems und danach auf [!UICONTROL Zusammenfassung öffnen] klicken.
+Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im [!UICONTROL Workload-Balancer] das Bedienfeld „Zusammenfassung“ geöffnet werden. Vor diesem Update mussten Sie auf das Symbol [!UICONTROL Zusammenfassung öffnen] in der Symbolleiste und dann auf die Aufgabe oder das Problem klicken. Dies war verwirrend und wurde nun korrigiert. Alternativ können Sie auf das Menü [!UICONTROL Mehr] neben dem Namen der Aufgabe oder des Problems und danach auf [!UICONTROL Zusammenfassung öffnen] klicken.
 
 **Gruppen-Administrator bzw. -Administratorin kann keine Details zu Benutzenden in der Gruppe sehen**
 
@@ -1524,7 +1524,7 @@ Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im
 
 Wenn ein(e) Benutzende(r), der/die einer Zugriffsebene zugewiesen ist, die die Zugriffseinstellung [!UICONTROL Benutzeradministration (Gruppenbenutzende)] enthält, versucht, Details eines/r Benutzenden in der Gruppe aufzurufen, erscheint der folgende Fehler:
 
-„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Benutzerdefinierter Gruppenstatus kann nicht gelöscht werden**
 
@@ -1570,7 +1570,7 @@ Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle bearbeitet, kann er/sie nicht 
 
 *Korrekturabzüge*
 
-Beim elektronischen Signieren eines Korrekturabzugs prüft das System jetzt die Federation ID, wenn Sie SSO in [!DNL Workfront Proof] zusätzlich zu Ihrer E-Mail in [!DNL Workfront] eingerichtet haben.
+Beim elektronischen Signieren eines Korrekturabzugs prüft das System jetzt die Federation ID, wenn Sie SSO in [!DNL Workfront Proof]zusätzlich zu Ihrer E-Mail in [!DNL Workfront]eingerichtet haben.
 
 Zuvor hat das System nur Ihre E-Mail in Workfront überprüft.
 
@@ -1578,11 +1578,11 @@ Zuvor hat das System nur Ihre E-Mail in Workfront überprüft.
 
 +++**Wartungs-Update (Hotfix) vom 25. April 2022**
 
-**[!UICONTROL Workload Balancer] wird nicht geladen**
+**[!UICONTROL Workload-Balancer] wird nicht geladen**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload Balancer] zu öffnen, wird die Kopfzeile und die linke Navigation geladen, aber der Inhalt des Workload-Balancer wird nicht geladen. Der/die Benutzende sieht blinkende graue Quadrate anstelle von Daten. Gelegentlich wird ein Teil des Inhalts geladen, aber der/die Benutzende sieht immer noch blinkende graue Quadrate, wo die fehlenden Daten wären.
+Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload-Balancer] zu öffnen, wird die Kopfzeile und die linke Navigation geladen, aber der Inhalt des Workload-Balancer wird nicht geladen. Der/die Benutzende sieht blinkende graue Quadrate anstelle von Daten. Gelegentlich wird ein Teil des Inhalts geladen, aber der/die Benutzende sieht immer noch blinkende graue Quadrate, wo die fehlenden Daten wären.
 
 +++
 
@@ -1594,7 +1594,7 @@ Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload Balancer] zu öffne
 
 Wenn ein(e) Benutzende(r) eine Aufgabe unterhalb einer vorhandenen Aufgabe in einer Liste hinzufügt, wird die Seite in der Liste nach unten verschoben. Obwohl sich die neue Aufgabe an der richtigen Stelle befindet, muss der/die Benutzende nach oben scrollen, um sie zu finden.
 
-**Benutzende, die zu einem Korrekturabzug hinzugefügt wurden, können nicht auf das Arbeitselement des Korrekturabzugs in [!DNL Workfront]** zugreifen
+**Benutzende, die zu einem Korrekturabzug hinzugefügt wurden, können nicht auf das Arbeitselement des Korrekturabzugs in[!DNL Workfront]** zugreifen
 
 *Korrekturabzüge*
 
@@ -1604,11 +1604,11 @@ Wenn ein(e) Benutzende(r) zu einem Schritt im Workflow eines Korrekturabzugs hin
 
 Dieses Problem betrifft nur Korrekturabzüge, die bereits erstellt wurden und denen danach Benutzer hinzugefügt wurden. Das Hinzufügen von Benutzern zum Workflow vor der Erstellung eines Korrekturabzugs funktioniert ordnungsgemäß.
 
-**Die E-Mail zum Zurücksetzen des Passworts kann in [!DNL Workfront]** nicht gesendet werden
+**Die E-Mail zum Zurücksetzen des Passworts kann in[!DNL Workfront]** nicht gesendet werden
 
 *Benutzer*
 
-Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts über eine Benutzerliste in [!DNL Workfront] zu senden, ist die Option zum Senden der E-Mail nicht verfügbar.
+Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts über eine Benutzerliste in [!DNL Workfront]zu senden, ist die Option zum Senden der E-Mail nicht verfügbar.
 
 **Die Schaltfläche „[!UICONTROL Problem starten]“ wird anstelle von „[!UICONTROL Anfrage starten]“ angezeigt**
 
@@ -1644,7 +1644,7 @@ Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Homepage-Arbeitsliste] aufruft 
 
 *[!DNL Workfront]*
 
-Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, scheint die Seite in einer Schleife aus Umleitungen oder Aktualisierungen festzustecken und wird nicht geladen.
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront]anzumelden, scheint die Seite in einer Schleife aus Umleitungen oder Aktualisierungen festzustecken und wird nicht geladen.
 
 +++
 
@@ -1678,9 +1678,9 @@ Wenn ein(e) Benutzende(r) Aktualisierungen aufruft und scrollt, um Aktualisierun
 
 **Fehler bei der Massenzuweisung von Benutzenden zu Aufgaben, die nicht der Rolle des/der Benutzenden zugewiesen sind**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) in [!UICONTROL Workload Balancer] versucht, einem/r Benutzenden Aufgaben zuzuweisen, dessen/deren Aufgabengebiet nicht mit dem Aufgabengebiet übereinstimmt, das der Aufgabe zugewiesen wurde, wird eine Meldung angezeigt, in der steht, dass die Aufgabe anhand des primären Aufgabengebiets des/r jeweiligen Benutzenden zugewiesen wird. Wenn der/die Benutzende jedoch auf „[!UICONTROL Zuweisen]“ klickt, werden die Aufgaben nicht zugewiesen und der folgende Fehler erscheint:
+Wenn ein(e) Benutzende(r) in [!UICONTROL Workload-Balancer] versucht, einem/r Benutzenden Aufgaben zuzuweisen, dessen/deren Aufgabengebiet nicht mit dem Aufgabengebiet übereinstimmt, das der Aufgabe zugewiesen wurde, wird eine Meldung angezeigt, in der steht, dass die Aufgabe anhand des primären Aufgabengebiets des/r jeweiligen Benutzenden zugewiesen wird. Wenn der/die Benutzende jedoch auf „[!UICONTROL Zuweisen]“ klickt, werden die Aufgaben nicht zugewiesen und der folgende Fehler erscheint:
 
 „[!UICONTROL Fehler. Unbekannter Server-Fehler.]“
 
@@ -1806,11 +1806,11 @@ Anforde- rungen
 
 Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifendes Formular zur Detailseite einer Warteschlange hinzuzufügen, wird das objektübergreifende Formular nicht in der Dropdown-Liste der verfügbaren Formulare angezeigt und der/die Benutzende kann es nicht auswählen, um es zu den Warteschlangendetails hinzuzufügen.
 
-**Benutzenden kann im [!UICONTROL Workload Balancer kein „Sekundäres Aufgabengebiet“ zugewiesen werden]**
+**Benutzenden kann im [!UICONTROL Workload-Balancer kein „Sekundäres Aufgabengebiet“ zugewiesen werden]**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
+Wenn ein(e) Benutzende(r) versucht, im [!UICONTROL Workload-Balancer] eine(n) andere(n) Benutzende(n) einer Aufgabe zuzuweisen und die Aufgabe einem Aufgabengebiet zugewiesen wird, das nicht dem primären Aufgabengebiet des/r Benutzenden entspricht, wird der/die Benutzende über das primäre Aufgabengebiet der Aufgabe zugewiesen und die folgende Meldung wird angezeigt:
 
 „&lt;Name> entspricht nicht der Rolle von &lt;Aufgabenrollenzuweisung>. 1 Arbeitselement, das derzeit der Rolle &lt;Aufgabenrollenzuweisung> zugewiesen ist, wird &lt;Name> in der Rolle &lt;Primäres Aufgabengebiet> zugewiesen.“
 
@@ -1865,11 +1865,11 @@ Wenn das Profil eines/r Benutzenden auf eine bestimmte Zeitzone in [!DNL Workfro
 Beim Anhängen einer Vorlage mit benutzerdefinierten Pflichtfeldern an ein Projekt, in dem das Feld bereits vorhanden und ausgefüllt ist, wird dem/der Benutzenden folgender Fehler angezeigt: „[!UICONTROL Es gibt unausgefüllte Felder. Geben Sie Werte für die Pflichtfelder ein, damit Sie fortfahren können.]“
 Wenn der/die Benutzende auf „[!UICONTROL Anzeigen]“ klickt, kann er/sie sehen, dass die Felder ausgefüllt sind, und die Vorlage kann erfolgreich angehängt werden.
 
-**Der [!UICONTROL Workload Balancer] blinkt, wenn Sie zwischen Datumsangaben wechseln**
+**Der [!UICONTROL Workload-Balancer] blinkt, wenn Sie zwischen Datumsangaben wechseln**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Die Stunden des/r Benutzenden, der/die im [!UICONTROL Workload Balancer] als Erste(r) aufgelistet ist, werden nicht angezeigt, wenn die Timeline aktualisiert wird. Der/die Benutzende und seine/ihre Stunden werden mit allen grauen Kästchen angezeigt, die blinken. Dies tritt auf, wenn Sie sich in der Timeline vorwärts und rückwärts bewegen.
+Die Stunden des/r Benutzenden, der/die im [!UICONTROL Workload-Balancer] als Erste(r) aufgelistet ist, werden nicht angezeigt, wenn die Timeline aktualisiert wird. Der/die Benutzende und seine/ihre Stunden werden mit allen grauen Kästchen angezeigt, die blinken. Dies tritt auf, wenn Sie sich in der Timeline vorwärts und rückwärts bewegen.
 
 Durch die Aktualisierung des Filters wird die Anzeige zurückgesetzt. Doch wenn Sie sich erneut auf der Timeline vorwärts und rückwärts bewegen, blinkt die Anzeige wieder und die Stunden werden nicht angezeigt.
 
@@ -1893,11 +1893,11 @@ Dies führt zu Verwirrung bei den Benutzenden.
 
 Wenn ein(e) Benutzende(r) versucht, eine Datei mit mehreren Seiten im [!DNL Safari]-Browser zu öffnen, sind die Bilder der Miniaturansicht leer. Manchmal ist auch das Hauptbild leer.
 
-**Falsche Benutzerliste bei der Zuweisung umfangreicher Arbeitsaufträge im [!UICONTROL Workload Balancer]**
+**Falsche Benutzerliste bei der Zuweisung umfangreicher Arbeitsaufträge im [!UICONTROL Workload-Balancer]**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn ein(e) Benutzende(r) eine umfangreiche Zuweisung von Arbeitsaufträgen im [!UICONTROL Workload Balancer] vornimmt und ein Projekt und ein Aufgabengebiet auswählt, ist die Liste der verfügbaren Benutzenden falsch. Dabei können Benutzende ohne das erforderliche Aufgabengebiet oder die Projektberechtigung angezeigt werden, und Benutzende mit dem erforderlichen Aufgabengebiet und der Projektberechtigung werden nicht in der Liste angezeigt.
+Wenn ein(e) Benutzende(r) eine umfangreiche Zuweisung von Arbeitsaufträgen im [!UICONTROL Workload-Balancer] vornimmt und ein Projekt und ein Aufgabengebiet auswählt, ist die Liste der verfügbaren Benutzenden falsch. Dabei können Benutzende ohne das erforderliche Aufgabengebiet oder die Projektberechtigung angezeigt werden, und Benutzende mit dem erforderlichen Aufgabengebiet und der Projektberechtigung werden nicht in der Liste angezeigt.
 
 **[!UICONTROL Die Sortierung funktioniert nicht in Berichten]**
 
@@ -2019,7 +2019,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Dokument mithilfe eines öffentlichen Li
 
 Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, eine Aufgabe oder ein Problem zu einer Liste hinzuzufügen und benutzerdefinierte Felder ausfüllt, wird die Aufgabe bzw. das Problem nicht erstellt und der folgende Fehler wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Wird eine Aktualisierung unmittelbar nach einer Statusänderung vorgenommen, wird das Objekt in den vorherigen Status zurückgesetzt**
 
@@ -2075,11 +2075,11 @@ Wenn ein(e) Benutzende(r) den Status eines Arbeitselements in der Kopfzeile änd
 
 +++**Wartungs-Update vom 3. März 2022**
 
-**Dokument kann nicht aus [!DNL Google Drive]** hinzugefügt werden
+**Dokument kann nicht aus[!DNL Google Drive]** hinzugefügt werden
 
 *Dokumente*
 
-Wenn ein(e) Benutzende(r) versucht, ein Dokument aus [!DNL Google Drive] hinzuzufügen, reagiert die Auswahl nicht und der/die Benutzende kann keine Dokumente auswählen, um sie hinzuzufügen.
+Wenn ein(e) Benutzende(r) versucht, ein Dokument aus [!DNL Google Drive]hinzuzufügen, reagiert die Auswahl nicht und der/die Benutzende kann keine Dokumente auswählen, um sie hinzuzufügen.
 
 **Getaggte Benutzende werden nicht zum Aktualisierungs-Thread hinzugefügt**
 
@@ -2131,7 +2131,7 @@ Der schrittweise Rollout wird 2 Wochen dauern.
 
 Berichte
 
-In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Updates von Listen und Berichten, die derzeit in allen Bereichen von [!DNL Workfront] vorgenommen werden.
+In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Updates von Listen und Berichten, die derzeit in allen Bereichen von [!DNL Workfront]vorgenommen werden.
 
 +++
 
@@ -2190,7 +2190,7 @@ Wenn ein Systemadministrator bzw. eine Systemadministratorin eine Gruppe löscht
 
 Wenn ein(e) Benutzende(r) versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren und benutzerdefinierte Formulare aus der Vorlage hinzufügt oder daraus entfernt, wird das Problem nicht konvertiert und die folgende Meldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Korrekturabzug kann nicht geöffnet werden; Seite wird aktualisiert**
 
@@ -2250,7 +2250,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Vorgänger aus der Registerkarte [!UIC
 
 Wenn ein(e) Benutzende(r) versucht, die Seite [!UICONTROL Benutzende] zu öffnen, wird die Seite nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Elemente in der Kopfzeile eines Berichts in einem Dashboard überschneiden sich**
 
@@ -2295,7 +2295,7 @@ Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Projekt zu erst
 
 *[!DNL Workfront Proof]*
 
-Wenn ein(e) Benutzende(r) die Kontaktliste in [!DNL Workfront Proof] aufruft, werden Benutzende, die deaktiviert und wieder aktiviert wurden, nicht in der Liste angezeigt.
+Wenn ein(e) Benutzende(r) die Kontaktliste in [!DNL Workfront Proof]aufruft, werden Benutzende, die deaktiviert und wieder aktiviert wurden, nicht in der Liste angezeigt.
 
 **Meldung „Irgendetwas ist schiefgelaufen“ beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
 
@@ -2321,7 +2321,7 @@ Wenn ein Administrator oder eine Administratorin versucht, Projekte, Aufgaben od
 
 *Anmeldung*
 
-Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, schläft die Anmeldung fehl und die folgende Meldung wird angezeigt:
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront]anzumelden, schläft die Anmeldung fehl und die folgende Meldung wird angezeigt:
 
 „[!UICONTROL Versuchen Sie es erneut. Datenbankfehler: BizContext-Commit fehlgeschlagen!]“
 
@@ -2489,11 +2489,11 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular oder eine V
 
 Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug aufruft, werden im Bereich [!UICONTROL Aktualisierungen] des Dokuments keine Kommentare zum Korrekturabzug selbst angezeigt.
 
-**[!UICONTROL Workload Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
+**[!UICONTROL Workload-Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
 
-*[!UICONTROL Workload Balancer]*
+*[!UICONTROL Workload-Balancer]*
 
-Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
+Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload-Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
 
 +++
 
@@ -2501,4 +2501,4 @@ Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload Balancer] eine übermä�
 
 Informationen zu früheren Wartungs-Updates finden Sie hier:
 
-* [Archiv mit Wartungs-Updates für [!DNL Workfront] – 2021](2021-updates.md)
+* [Archiv mit Wartungs-Updates für [!DNL Workfront]– 2021](2021-updates.md)

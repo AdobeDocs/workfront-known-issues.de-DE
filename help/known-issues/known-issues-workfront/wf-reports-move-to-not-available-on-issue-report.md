@@ -3,9 +3,9 @@ title: '„Berichte: Option ‚Verschieben nach‘ für Problemberichte nicht ve
 description: „Wenn ein(e) Benutzende(r) einen Problembericht öffnet und versucht, ein Problem zu verschieben, ist die Option ‚Verschieben nach‘ nicht im Menü ‚Mehr‘ (Dreipunkt-Menü) verfügbar.“
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

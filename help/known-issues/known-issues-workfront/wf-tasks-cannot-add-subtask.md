@@ -1,11 +1,11 @@
 ---
-title: "Aufgaben: Unteraufgabe kann nicht hinzugefügt werden"
-description: "Wenn ein Benutzer versucht, eine Unteraufgabe mithilfe der Schaltfläche +Neu hinzuzufügen, werden im Fenster Neue Aufgabe keine Optionen angezeigt und der Benutzer wird über eine Fehlermeldung informiert."
+title: '„Aufgaben: Unteraufgabe kann nicht hinzugefügt werden“'
+description: „Wenn ein(e) Benutzende(r) versucht, mit der Schaltfläche ‚+Neu‘ eine Unteraufgabe hinzuzufügen, werden im Fenster ‚Neue Aufgabe‘ keine Optionen angezeigt und die folgende Meldung erscheint:“
 hidefromtoc: true
 source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 8%
 >
 >Dieses Problem wurde am 8. Dezember 2022 behoben.
 
-Wenn ein Benutzer versucht, eine Unteraufgabe mit dem[!UICONTROL +Neu]&quot;, werden keine Optionen in der [!UICONTROL Neue Aufgabe] angezeigt und dem Benutzer wird die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, mit der Schaltfläche „[!UICONTROL +Neu]“ eine Unteraufgabe hinzuzufügen, werden im Fenster [!UICONTROL Neue Aufgabe] keine Optionen angezeigt und die folgende Meldung erscheint:
 
-&quot;[!UICONTROL Eigenschaften von nicht definiert können nicht gelesen werden (Lesen von &#39;validations&#39;).]&quot;
+„[!UICONTROL Eigenschaften von nicht definierten Inhalten können nicht gelesen werden (Validierungen werden gelesen).]“
 
 **Problemumgehung**
 
 Führen Sie einen der folgenden Schritte aus:
 
-* Klicken Sie auf &quot;[!UICONTROL Weitere Optionen]&quot;-Schaltfläche unter der Fehlermeldung im [!UICONTROL Neue Aufgabe] Fenster.
-* Fügen Sie die neue Unteraufgabe inline zur Liste der Unteraufgaben in der [!UICONTROL Unteraufgaben] -Bereich der Aufgabe.
+* Klicken Sie unter der Fehlermeldung im Fenster [!UICONTROL Neue Aufgabe] auf die Schaltfläche „[!UICONTROL Weitere Optionen]“.
+* Fügen Sie die neue Unteraufgabe inline zur Liste der Unteraufgaben im Bereich [!UICONTROL Unteraufgaben] der Aufgabe hinzu.
 
 _Erste Meldung am 6. Dezember 2022._
 

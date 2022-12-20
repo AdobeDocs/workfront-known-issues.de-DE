@@ -1,10 +1,10 @@
 ---
-title: Bekannte Probleme in  [!DNL Adobe Workfront Fusion]
+title: Bekannte Probleme in [!DNL Adobe Workfront Fusion]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
 ht-degree: 100%
 

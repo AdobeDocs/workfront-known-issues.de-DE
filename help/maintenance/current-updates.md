@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,15 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**(Geplant) Aktualisierung der Wartung am 5. Januar 2023**
 
-Dieses Update enthält nur kleinere oder weniger wichtige Fehlerbehebungen.
+**In verfügbare PIN-Funktion [!UICONTROL Mehr] Menü**
+
+_Navigation_
+
+Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins, nur in der Vorschau-Umgebung:
+
+* Umbenennen von Stiften
+* Pins innerhalb der [!UICONTROL Mehr] Menü
+* Verschieben einer Nadel aus dem [!UICONTROL Mehr] Menü (dabei wird der letzte Pin in der oberen Navigationsleiste in den [!UICONTROL Mehr] Menü)
 
 +++
 

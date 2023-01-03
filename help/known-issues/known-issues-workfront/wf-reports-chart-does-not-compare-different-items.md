@@ -3,7 +3,7 @@ title: '„Berichte: Das Kombinationsdiagramm zeigt dieselben Daten zweimal an�
 description: „Wenn ein(e) Benutzende(r) ein Kombinationsdiagramm erstellt, zeigt das Diagramm einen Wertesatz doppelt an, anstatt zwei Wertesätze miteinander zu vergleichen. Die korrekten Wertesätze befinden sich in den Berichtsdetails.“
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 

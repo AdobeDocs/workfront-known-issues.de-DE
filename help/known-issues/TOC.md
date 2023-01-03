@@ -86,7 +86,7 @@ ht-degree: 98%
       + [Teams: Das Zuweisen mehrerer Teams führt dazu, dass nur ein Team zugewiesen ist](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Arbeitszeittabellen: Fehler beim Hinzufügen von Kommentaren zu einer Arbeitszeittabelle](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Korrekturabzüge: Korrekturabzug kann nicht in  [!DNL Workfront] geöffnet werden](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Korrekturabzüge: Korrekturabzug kann nicht in  [!DNL Workfront] geöffnet werden](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Korrekturabzüge: Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Benachrichtigungen: Fehler beim Zugriff auf E-Mail-Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-preview-errors-with-options.md)

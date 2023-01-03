@@ -1,18 +1,18 @@
 ---
-title: "Berichte: Berichte verwenden den Ersteller von Berichten anstelle des Platzhalters $$USERID"
-description: "Wenn ein Bericht ein wiederkehrender Versand ist und den Platzhalter $$USERID enthält, wird der Bericht mit dem Ersteller des Berichts und nicht mit dem Platzhalter ausgeführt. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder Sofort senden verwendet wird."
+title: '„Berichte: Berichte verwenden den Ersteller von Berichten anstelle des Platzhalters $$USERID“'
+description: „Wenn es sich bei einem Bericht um einen wiederkehrenden Versand handelt und er den Platzhalter $$USERID enthält, wird bei der Ausführung des Berichts der Ersteller des Berichts und nicht der Platzhalter verwendet. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder die Option zum sofortigen Versand verwendet wird.“
 hidefromtoc: true
 source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters &quot;$$&quot;[!UICONTROL USERID]&quot;
+# Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“
 
-Wenn ein Bericht ein wiederkehrender Versand ist und den Platzhalter &quot;$$&quot;enthält[!UICONTROL USERID]&quot;, wird der Bericht mit dem Ersteller des Berichts anstelle des Platzhalters ausgeführt. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder [!UICONTROL Sofort senden].
+Wenn es sich bei einem Bericht um einen wiederkehrenden Versand handelt und er den Platzhalter „$$[!UICONTROL USERID]“ enthält, wird bei der Ausführung des Berichts der Ersteller des Berichts und nicht der Platzhalter verwendet. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder die Option zum [!UICONTROL sofortigen Versand] verwendet wird.
 
 _Erste Meldung am 21. November 2022._
 

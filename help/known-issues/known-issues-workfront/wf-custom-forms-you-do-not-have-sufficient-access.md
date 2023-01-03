@@ -3,7 +3,7 @@ title: '„Benutzerdefinierte Formulare: Fehler ‚Sie verfügen nicht über die
 description: '„Wenn ein(e) Benutzende(r) versucht, Änderungen an einem benutzerdefinierten Formular vorzunehmen, wird die Änderung nicht gespeichert und diese Fehlermeldung wird angezeigt: Sie verfügen nicht über die erforderliche Zugriffsberechtigung, um diesen Parameter zu bearbeiten.“'
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 

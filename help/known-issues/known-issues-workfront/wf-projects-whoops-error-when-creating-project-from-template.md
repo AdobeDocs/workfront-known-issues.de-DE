@@ -3,14 +3,14 @@ title: '„Projekte: Hoppla-Fehler beim Erstellen eines Projekts über eine Vorl
 description: '„Wenn ein(e) Benutzende(r) versucht, ein Projekt über eine Vorlage zu erstellen, wird das Projekt nicht erstellt und die folgende Fehlermeldung wird angezeigt: Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.“'
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
-# Projekte: [!UICONTROL Hoppla]-Fehler beim Erstellen eines Projekts über eine Vorlage
+# Projekte: „[!UICONTROL Hoppla]“-Fehler beim Erstellen eines Projekts über eine Vorlage
 
 >[!NOTE]
 >

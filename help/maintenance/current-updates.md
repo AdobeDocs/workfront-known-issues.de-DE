@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins, nur in
 * Umbenennen von Stiften
 * Pins innerhalb der [!UICONTROL Mehr] Menü
 * Verschieben einer Nadel aus dem [!UICONTROL Mehr] Menü (dabei wird der letzte Pin in der oberen Navigationsleiste in den [!UICONTROL Mehr] Menü)
+
+**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzer zum Projektteam hinzugefügt werden können.**
+
+_Teams_
+
+Wir haben die Einschränkung entfernt, die erforderlich machte, dass die Benutzer, die einem Projektteam hinzugefügt werden müssen, in der mit dem Projekt verknüpften Gruppe sein müssen. Jetzt können Sie einem Projektteam jeden aktiven Benutzer hinzufügen, unabhängig davon, zu welchen Gruppen er gehört.
 
 +++
 

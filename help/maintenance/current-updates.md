@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
+source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 38%
+source-wordcount: '341'
+ht-degree: 60%
 
 ---
 
@@ -38,6 +38,21 @@ Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins, nur in
 _Teams_
 
 Wir haben die Einschränkung entfernt, die erforderlich machte, dass die Benutzer, die einem Projektteam hinzugefügt werden müssen, in der mit dem Projekt verknüpften Gruppe sein müssen. Jetzt können Sie einem Projektteam jeden aktiven Benutzer hinzufügen, unabhängig davon, zu welchen Gruppen er gehört.
+
+**Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
+
+>[!NOTE]
+>
+>Diese Aktualisierung wurde am 3. November 2022 in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktion verfügbar.
+
+_Workfront_
+
+Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
+
+* Wenn das Kontrollkästchen „Kann die Zeit bearbeiten“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, der Administrierende beschränkt diese Aktionen im Bereich „Arbeitszeittabellen-Voreinstellungen“ im Setup.
+* Wenn die Option „Bearbeitung von Arbeitszeittabellen auf Inhaber und Administrierende beschränken“ im Bereich „Setup“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, Arbeitszeittabellen-Genehmiger, die die Zeit bearbeiten dürfen, und Arbeitszeittabellen-Besitzer mit Verwaltungsrechten.
+
+Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
 
 +++
 

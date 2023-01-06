@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1ebc908cb8b1b78155b66418caeea4bca2402e52
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Beiträge
@@ -18,7 +18,7 @@ Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. D
 
 ## Dokumentation zum Handbuch für Mitwirkende
 
-Siehe das [Handbuch für Mitwirkende](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
+Siehe das [Handbuch für Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Haben Sie eine Frage?
 

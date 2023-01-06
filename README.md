@@ -1,8 +1,8 @@
 ---
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
-source-wordcount: '427'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '421'
+ht-degree: 95%
 
 ---
 # Artikel beitragen
@@ -15,13 +15,13 @@ Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.
 
 ## Über Ihre Beiträge zu Adobe-Inhalten
 
-Siehe das [Adobe-Handbuch für Mitwirkende an Dokumenten](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
+Siehe das [Adobe-Handbuch für Mitwirkende an Dokumenten](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 Wie Sie Beiträge einbringen können, hängt davon ab, wer Sie sind und welche Art von Änderungen Sie anregen möchten:
 
 ### Geringfügige Änderungen
 
-Wenn Sie aus reiner Freundlichkeit kleinere Änderungen beitragen möchten, besuchen Sie den entsprechenden Artikel und klicken Sie im Artikel auf den Link **Bearbeiten**. Dadurch gelangen Sie zum GitHub-Quelltext für den Artikel. Geben Sie die Änderungen dann einfach über die GitHub-Benutzeroberfläche ein. Weitere Informationen finden Sie im [Adobe-Handbuch für Mitwirkende an Dokumenten](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
+Wenn Sie aus reiner Freundlichkeit kleinere Änderungen beitragen möchten, besuchen Sie den entsprechenden Artikel und klicken Sie im Artikel auf den Link **Bearbeiten**. Dadurch gelangen Sie zum GitHub-Quelltext für den Artikel. Geben Sie die Änderungen dann einfach über die GitHub-Benutzeroberfläche ein. Weitere Informationen finden Sie im [Adobe-Handbuch für Mitwirkende an Dokumenten](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 Kleinere Korrekturen oder Erläuterungen, die Sie zur Dokumentationen und zu Code-Beispielen in diesem Repository eingeben, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -43,7 +43,7 @@ Wenn Sie technischer Redakteur/technische Redakteurin, Programm-Manager oder Ent
 
 Community-Mitwirkende können für eine einfache Bearbeitung die GitHub-Benutzeroberfläche oder für neue Beiträge das Repository nutzen.
 
-Weitere Informationen finden Sie im [Adobe-Handbuch für Mitwirkende an Dokumenten](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Adobe-Handbuch für Mitwirkende an Dokumenten](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Verwenden von Markdown zum Formatieren Ihres Artikels
 

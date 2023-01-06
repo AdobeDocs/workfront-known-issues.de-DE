@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 95%
+source-wordcount: '624'
+ht-degree: 93%
 
 ---
 
@@ -24,10 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Dokumente können nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20. Dezember 2022 |
-| [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
-| [Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13. Dezember 2022 |
-| [Integrationen: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 7. Dezember 2022 |
+| [Aktualisierungen: Der Bildschirm wird beim Senden der Antwort vorübergehend leer angezeigt](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6. Januar 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
@@ -41,15 +38,15 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationen: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 6. Januar 2023 |
+| [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
+| [Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6. Januar 2023 |
 | [Benutzerdefinierte Forms: Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3. Januar 2023 |
 | [Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
 | [Berichte: Berichtbearbeitungsbildschirm ist leer](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20. Dezember 2022 |
-| [Dokumente: MP4-Datei kann nicht hochgeladen werden](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8. Dezember 2022 |
 | [Aufgaben: Unteraufgabe kann nicht hinzugefügt werden](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2. Dezember 2022 |
-| [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn der Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28. November 2022 |
 | [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
-| [Benutzerdefinierte Formulare: Fehler „Hoppla“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13. Oktober 2022 |
 | [Integrationen: Fehler beim Senden einer Anfrage über [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30. August 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
@@ -61,6 +58,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn der Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6. Januar 2023 |
+| [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6. Januar 2023 |
 | [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5. Dezember 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert | 2. Dezember 2022 |
 | [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2. Dezember 2022 |

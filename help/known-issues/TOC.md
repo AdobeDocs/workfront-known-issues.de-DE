@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 98%
+source-wordcount: '1284'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Aktualisierungen: Der Bildschirm wird beim Senden der Antwort vorübergehend leer angezeigt](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Benutzerdefinierte Forms: Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Dokumente: Dokumente können nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -41,8 +41,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Integrationen: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 6. Januar 2023 |
 | [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
 | [Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 6. Januar 2023 |
-| [Benutzerdefinierte Forms: Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3. Januar 2023 |
-| [Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
+| [Benutzerdefinierte Formulare: Strg+F bzw. Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3. Januar 2023 |
+| [Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
 | [Berichte: Berichtbearbeitungsbildschirm ist leer](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2. Dezember 2022 |
 | [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |

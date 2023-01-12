@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
 source-wordcount: '1292'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 96%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Aktualisierungen: Der Bildschirm wird beim Senden der Antwort vorübergehend leer angezeigt](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [Benutzerdefinierte Forms: Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md)
-      + [Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [Dokumente: Dokumente können nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Benutzerdefinierte Formulare: Strg+F bzw. Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Dokumente: Dokumente können nicht von [!DNL Google Drive] hinzugefügt werden](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Berichte: Berichtbearbeitungsbildschirm ist leer](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
@@ -162,7 +162,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu  [!DNL Google]hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu [!DNL Google] hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: 409-Fehler in  [!DNL Fusion] -Szenario](known-issues-workfront-fusion/fusion-409-error.md)

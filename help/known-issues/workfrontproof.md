@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: &quot;[!UICONTROL Text ist kein gültiges XML]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10. Januar 2023 |
-| [Dokumente: Dokumente können nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20. Dezember 2022 |
+| [Dokumente: Dokumente können nicht von [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) hinzugefügt werden | 20. Dezember 2022 |
 | [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 
@@ -37,7 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
+| [Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 

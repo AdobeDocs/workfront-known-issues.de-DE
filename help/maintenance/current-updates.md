@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 49%
+ht-degree: 63%
 
 ---
 
@@ -21,13 +21,13 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Januar 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 12. Januar 2023**
++++**(Geplantes) Wartungs-Update vom 12. Januar 2023**
 
 **Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet**
 
 _Benutzerdefinierte Formulare_
 
-Wenn ein Benutzer ein benutzerdefiniertes Formular ausfüllt und mithilfe von Strg+F oder Befehl+F eine Dropdown-Liste durchsucht und dann versucht, zur nächsten Instanz dieser Suche zu springen, kehrt die Dropdown-Liste zum Anfang der Liste zurück, anstatt zur nächsten Instanz der Suche zu springen. Dies tritt auf, wenn ein Dropdown-Menü so eingerichtet ist, dass mehrere Auswahlen zulässig sind.
+Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt und mithilfe von Strg+F oder Befehl+F eine Dropdown-Liste durchsucht und dann versucht, zur nächsten Instanz dieser Suche zu springen, kehrt die Dropdown-Liste zum Anfang der Liste zurück, anstatt zur nächsten Instanz der Suche zu springen. Dies tritt auf, wenn ein Dropdown-Menü so eingerichtet ist, dass mehrere Auswahlmöglichkeiten zulässig sind.
 
 **[!UICONTROL Bericht bearbeiten] Bildschirm ist leer**
 

@@ -1,10 +1,10 @@
 ---
-title: Wartungs-Updates für Workfront 2022
-description: Aktualisierungen der Wartung für 2022 [!DNL Adobe Workfront]
+title: Wartungs-Updates für Workfront  2022
+description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ Die folgenden Barrierefreiheitsfunktionen sind jetzt in Listen verfügbar:
 
 „Wenn ein(e) Benutzende(r) versucht, ein Projekt über eine Vorlage zu erstellen, wird das Projekt nicht erstellt und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Das Kombinationsdiagramm zeigt dieselben Daten zweimal an**
 
@@ -325,7 +325,7 @@ Die Registerkarten „Zeitplan“ und „Planung“, die in einer Layout-Vorlage
 
 Wenn Ein(e) Benutzende(r) versucht, die Einstellungen für E-Mail-Benachrichtigungen zu ändern, wird möglicherweise einer der folgenden Fehler angezeigt:
 
-* „[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+* „[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 * „[!UICONTROL E-Mail-Benachrichtigung konnte nicht abgerufen werden]“
 
@@ -749,7 +749,7 @@ Wenn ein(e) Benutzende(r) ein Problem in ein leeres Projekt konvertiert (ohne Vo
 
 Wenn ein(e) Benutzende(r) versucht, ein Datum in einem Projekt zu ändern, in dem der [!UICONTROL Planungsmodus] auf [!UICONTROL Manuelles Speichern] > [!UICONTROL Timeline-Planung] festgelegt ist, ändert sich das Datum nicht und ein Fehler wird angezeigt.
 
-„[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Der Timeline-Planungsmodus ist nur verfügbar, wenn „timelineDate“ geladen wird. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Konsistenz beim Öffnen des Workload-Balancer mithilfe der Monatsansicht**
 
@@ -927,7 +927,7 @@ Die folgenden Probleme wurden bei der Erstellung von Arbeitszeittabellen gemelde
 
 **Manche Bereiche von [!DNL Workfront Proof] werden nicht aktualisiert, wenn ein Korrekturabzug erstellt, verschoben oder archiviert wird**
 
-*[!DNL Workfront]Korrekturabzug*
+*[!DNL Workfront] Korrekturabzug*
 
 Beim Korrekturabzug treten derzeit Indexierungsverzögerungen auf. Dies kann sich auf das Benutzererlebnis auswirken, beispielsweise:
 
@@ -1069,7 +1069,7 @@ Wenn ein(e) Benutzende(r) versucht, eine Anlage über die [!DNL Workfront for Ou
 
 **Update für die E-Mail-Benachrichtigung für den Korrekturabzug**
 
-*[!DNL Workfront]Korrekturabzug*
+*[!DNL Workfront] Korrekturabzug*
 
 Anfang dieses Monats haben wir im Zuge eines Patches für die [!DNL Workfront]-Produktionsumgebung einige Fehlerbehebungen im Benachrichtigungssystem für Korrekturabzug-E-Mails durchgeführt. Diese Änderung wurde nicht im Wartungs-Update zum Zeitpunkt seiner Veröffentlichung mitgeteilt. Wir haben die folgenden Informationen zum [Wartungs-Update vom 2. Juni 2022](#maintenance-update-on-june-2-2022) hinzugefügt:
 
@@ -1232,7 +1232,7 @@ Wenn ein(e) Benutzende(r) einen Filter erstellt und eine Filterung nach einem Da
 
 Wenn ein(e) Benutzende(r) versucht, ein Problem über eine Vorlage in ein Projekt zu konvertieren, und das Problem ein benutzerdefiniertes Formular hat, das einen Abschnitt nur für Administratoren bzw. Administratorinnen enthält, wird das Problem nicht konvertiert und der folgende Fehler erscheint:
 
-„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Anfragen werden gesendet, ohne dass die erforderlichen Felder ausgefüllt sind**
 
@@ -1343,7 +1343,7 @@ Wir unterstützen im Workload-Balancer nun Filter, die auf benutzerdefinierten F
 
 *[!DNL Workfront Proof]*
 
-Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Kommentare auflösen und Aktionen anwenden]“ oder „[!UICONTROL Korrekturabzug durch Tagging freigeben]“ in [!DNL Workfront Proof]zu bearbeiten, werden die Änderungen nicht gespeichert. Der/die Benutzende erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der/die Benutzende die Rollenberechtigungen jedoch erneut öffnet, kann er/sie sehen, dass die Änderungen nicht gespeichert wurden.
+Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Kommentare auflösen und Aktionen anwenden]“ oder „[!UICONTROL Korrekturabzug durch Tagging freigeben]“ in [!DNL Workfront Proof] zu bearbeiten, werden die Änderungen nicht gespeichert. Der/die Benutzende erhält eine Benachrichtigung, dass die Vorlage aktualisiert wurde. Wenn der/die Benutzende die Rollenberechtigungen jedoch erneut öffnet, kann er/sie sehen, dass die Änderungen nicht gespeichert wurden.
 
 +++
 
@@ -1431,7 +1431,7 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft und versucht, ihn zu schl
 
 Wenn ein(e) Benutzende(r) die Seite [!UICONTROL Gruppe] aufruft und versucht, einen Gruppenadministrator bzw. eine Gruppenadministratorin über den Abschnitt [!UICONTROL Gruppenadministratoren] in der Kopfzeile hinzuzufügen oder zu entfernen, werden die Änderungen nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Horizontaler Bildlaufbalken blockiert Element am Ende der Liste**
 
@@ -1523,7 +1523,7 @@ Klicken kann einfach durch Klicken auf eine Aufgaben- oder eine Problemleiste im
 
 Wenn ein(e) Benutzende(r), der/die einer Zugriffsebene zugewiesen ist, die die Zugriffseinstellung [!UICONTROL Benutzeradministration (Gruppenbenutzende)] enthält, versucht, Details eines/r Benutzenden in der Gruppe aufzurufen, erscheint der folgende Fehler:
 
-„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+„[!UICONTROL Versuchen Sie es erneut. Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 **Benutzerdefinierter Gruppenstatus kann nicht gelöscht werden**
 
@@ -1569,7 +1569,7 @@ Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle bearbeitet, kann er/sie nicht 
 
 *Korrekturabzüge*
 
-Beim elektronischen Signieren eines Korrekturabzugs prüft das System jetzt die Federation ID, wenn Sie SSO in [!DNL Workfront Proof]zusätzlich zu Ihrer E-Mail in [!DNL Workfront]eingerichtet haben.
+Beim elektronischen Signieren eines Korrekturabzugs prüft das System jetzt die Federation ID, wenn Sie SSO in [!DNL Workfront Proof] zusätzlich zu Ihrer E-Mail in [!DNL Workfront] eingerichtet haben.
 
 Zuvor hat das System nur Ihre E-Mail in Workfront überprüft.
 
@@ -1607,7 +1607,7 @@ Dieses Problem betrifft nur Korrekturabzüge, die bereits erstellt wurden und de
 
 *Benutzer*
 
-Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts über eine Benutzerliste in [!DNL Workfront]zu senden, ist die Option zum Senden der E-Mail nicht verfügbar.
+Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts über eine Benutzerliste in [!DNL Workfront] zu senden, ist die Option zum Senden der E-Mail nicht verfügbar.
 
 **Die Schaltfläche „[!UICONTROL Problem starten]“ wird anstelle von „[!UICONTROL Anfrage starten]“ angezeigt**
 
@@ -1643,7 +1643,7 @@ Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Homepage-Arbeitsliste] aufruft 
 
 *[!DNL Workfront]*
 
-Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront]anzumelden, scheint die Seite in einer Schleife aus Umleitungen oder Aktualisierungen festzustecken und wird nicht geladen.
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, scheint die Seite in einer Schleife aus Umleitungen oder Aktualisierungen festzustecken und wird nicht geladen.
 
 +++
 
@@ -2018,7 +2018,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Dokument mithilfe eines öffentlichen Li
 
 Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, eine Aufgabe oder ein Problem zu einer Liste hinzuzufügen und benutzerdefinierte Felder ausfüllt, wird die Aufgabe bzw. das Problem nicht erstellt und der folgende Fehler wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Wird eine Aktualisierung unmittelbar nach einer Statusänderung vorgenommen, wird das Objekt in den vorherigen Status zurückgesetzt**
 
@@ -2078,7 +2078,7 @@ Wenn ein(e) Benutzende(r) den Status eines Arbeitselements in der Kopfzeile änd
 
 *Dokumente*
 
-Wenn ein(e) Benutzende(r) versucht, ein Dokument aus [!DNL Google Drive]hinzuzufügen, reagiert die Auswahl nicht und der/die Benutzende kann keine Dokumente auswählen, um sie hinzuzufügen.
+Wenn ein(e) Benutzende(r) versucht, ein Dokument aus [!DNL Google Drive] hinzuzufügen, reagiert die Auswahl nicht und der/die Benutzende kann keine Dokumente auswählen, um sie hinzuzufügen.
 
 **Getaggte Benutzende werden nicht zum Aktualisierungs-Thread hinzugefügt**
 
@@ -2130,7 +2130,7 @@ Der schrittweise Rollout wird 2 Wochen dauern.
 
 Berichte
 
-In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Updates von Listen und Berichten, die derzeit in allen Bereichen von [!DNL Workfront]vorgenommen werden.
+In Berichten in Dashboards wird jetzt eine neue Symbolleiste angezeigt. Diese Symbolleiste ist Teil der Updates von Listen und Berichten, die derzeit in allen Bereichen von [!DNL Workfront] vorgenommen werden.
 
 +++
 
@@ -2189,7 +2189,7 @@ Wenn ein Systemadministrator bzw. eine Systemadministratorin eine Gruppe löscht
 
 Wenn ein(e) Benutzende(r) versucht, ein Problem mithilfe einer Vorlage in ein Projekt zu konvertieren und benutzerdefinierte Formulare aus der Vorlage hinzufügt oder daraus entfernt, wird das Problem nicht konvertiert und die folgende Meldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Korrekturabzug kann nicht geöffnet werden; Seite wird aktualisiert**
 
@@ -2249,7 +2249,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Vorgänger aus der Registerkarte [!UIC
 
 Wenn ein(e) Benutzende(r) versucht, die Seite [!UICONTROL Benutzende] zu öffnen, wird die Seite nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie[!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
+[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie [!DNL Workfront], damit wir die Fehlerursache feststellen und den Fehler beheben können.]
 
 **Elemente in der Kopfzeile eines Berichts in einem Dashboard überschneiden sich**
 
@@ -2294,7 +2294,7 @@ Wenn ein(e) Benutzende(r) ohne Administratorrechte versucht, ein Projekt zu erst
 
 *[!DNL Workfront Proof]*
 
-Wenn ein(e) Benutzende(r) die Kontaktliste in [!DNL Workfront Proof]aufruft, werden Benutzende, die deaktiviert und wieder aktiviert wurden, nicht in der Liste angezeigt.
+Wenn ein(e) Benutzende(r) die Kontaktliste in [!DNL Workfront Proof] aufruft, werden Benutzende, die deaktiviert und wieder aktiviert wurden, nicht in der Liste angezeigt.
 
 **Meldung „Irgendetwas ist schiefgelaufen“ beim Konvertieren eines Problems in ein Projekt mithilfe einer Vorlage**
 
@@ -2320,7 +2320,7 @@ Wenn ein Administrator oder eine Administratorin versucht, Projekte, Aufgaben od
 
 *Anmeldung*
 
-Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront]anzumelden, schläft die Anmeldung fehl und die folgende Meldung wird angezeigt:
+Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, schläft die Anmeldung fehl und die folgende Meldung wird angezeigt:
 
 „[!UICONTROL Versuchen Sie es erneut. Datenbankfehler: BizContext-Commit fehlgeschlagen!]“
 

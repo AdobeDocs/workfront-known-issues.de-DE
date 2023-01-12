@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '482'
 ht-degree: 63%
 
 ---
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Januar 2023
 
-+++**(Geplantes) Wartungs-Update vom 12. Januar 2023**
++++**Wartungs-Update vom 12. Januar 2023**
 
 **Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet**
 

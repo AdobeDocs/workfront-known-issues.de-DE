@@ -2,15 +2,19 @@
 title: "Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt"
 description: "Wenn ein Benutzer eine Aufgabenliste anzeigt und eine Aufgabe einzieht, kehrt die Aufgabe sofort zum ursprünglichen (ausgehenden) Status zurück."
 hidefromtoc: true
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
 
 
 # Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 12. Januar 2023 behoben.
 
 Wenn ein Benutzer eine Aufgabenliste anzeigt und eine Aufgabe einzieht, kehrt die Aufgabe sofort zum ursprünglichen (ausgehenden) Status zurück.
 

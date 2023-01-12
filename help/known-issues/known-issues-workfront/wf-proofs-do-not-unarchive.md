@@ -1,18 +1,18 @@
 ---
-title: "Testsendungen: Die Archivierung wird bei Testsendungen nicht aufgehoben."
-description: "Wenn ein Benutzer versucht, die Archivierung eines Testversands aufzuheben, wird die Archivierung des Testversands nicht aufgehoben."
+title: '„Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden“'
+description: „Wenn ein(e) Benutzende(r) versucht, die Archivierung eines Korrekturabzugs rückgängig zu machen, ist das nicht möglich.“
 hidefromtoc: true
 source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Die Archivierung von Testsendungen wird nicht rückgängig gemacht
+# Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden
 
-Wenn ein Benutzer versucht, die Archivierung eines Testversands aufzuheben, wird die Archivierung des Testversands nicht aufgehoben.
+Wenn ein(e) Benutzende(r) versucht, die Archivierung eines Korrekturabzugs rückgängig zu machen, ist das nicht möglich.
 
 _Erste Meldung am 19. Oktober 2022._
 

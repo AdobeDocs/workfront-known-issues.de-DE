@@ -3,7 +3,7 @@ title: '„Projekte: Der Projektstatus entspricht nicht den Voreinstellungen fü
 description: „Wenn ein(e) Benutzende(r) ein Projekt über eine Vorlage erstellt, übernimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status. Wenn ein Projekt ohne Vorlage erstellt wird, wird der Status wie erwartet von den Gruppenprojekteinstellungen übernommen.“
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 

@@ -1,16 +1,20 @@
 ---
-title: '„Benutzerdefinierte Formulare: Fehler „Hoppla“ beim Einrichten eines berechneten Felds“'
-description: „Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche ‚Speichern‘ ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld eine Fehlermeldung angezeigt.“
+title: "Benutzerdefinierte Formulare: Fehler bei der Einrichtung eines berechneten Felds"
+description: Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche ‚Speichern‘ ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Darüber hinaus wird dem Benutzer unter dem Feld eine Nachricht vom Typ "An" angezeigt.
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+workflow-type: tm+mt
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 
-
 # Benutzerdefinierte Formulare: Fehler [!UICONTROL Hoppla] beim Einrichten eines berechneten Felds
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 12. Januar 2023 behoben.
 
 Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche [!UICONTROL Speichern] ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld folgende angezeigt:
 
@@ -19,4 +23,3 @@ Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Form
 Wenn Sie das benutzerdefinierte Feld aus dem Ausdruck entfernen, können Sie das Feld speichern und verlassen.
 
 _Erste Meldung am 11. Oktober 2022._
-

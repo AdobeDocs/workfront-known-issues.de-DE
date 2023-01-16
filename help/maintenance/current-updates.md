@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '662'
 ht-degree: 63%
 
 ---
@@ -20,6 +20,40 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Januar 2023
+
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update (Hotfix) am 12. Januar 2023**
+
+**404-Fehler bei [!DNL Workfront]-Modulen**
+
+_Workfront Fusion_
+
+Beim Ausführen eines Szenarios, wird von einem [!DNL Workfront]-Modul ein 404-Fehler zurückgegeben.
+
+Dies wurde in den folgenden Modulen gemeldet:
+
+* [!UICONTROL Datensatz lesen]
+
++++
+
++++**Wartungs-Update (Hotfix) am 12. Januar 2023**
+
+**&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Einrichten eines berechneten Felds**
+
+_Benutzerdefinierte Formulare_
+
+Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche [!UICONTROL Speichern] ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld folgende angezeigt:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+Wenn Sie das benutzerdefinierte Feld aus dem Ausdruck entfernen, können Sie das Feld speichern und verlassen.
+
+**Zugriffsebenen können nicht festgelegt werden**
+
+_Benutzer_
+
+Wenn ein Benutzer versucht, die Zugriffsebene eines anderen Benutzers zu ändern, sind die Zugriffsebenen grau ausgeblendet und der Benutzer kann sie nicht ändern. Dies tritt auch dann auf, wenn der Benutzer, der die Änderung durchführt, ein Systemadministrator ist.
+
++++
 
 +++**Wartungs-Update vom 12. Januar 2023**
 

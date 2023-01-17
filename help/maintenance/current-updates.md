@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 63%
+source-wordcount: '771'
+ht-degree: 55%
 
 ---
 
@@ -20,6 +20,22 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Januar 2023
+
++++**(Geplantes) Wartungs-Update vom 19. Januar 2023**
+
+**Ausdrücke mit Platzhaltern sind in benutzerdefinierten Feldern nicht gültig**
+
+_Benutzerdefinierte Formulare_
+
+Wenn ein Benutzer einen Platzhalter wie $$TODAY oder $$NOW zusammen mit einem Modifikator (z. B. &quot;-30d&quot;) in einem benutzerdefinierten Feld verwendet, akzeptiert der Validator den Platzhalter nicht als gültig. Platzhalter ohne Modifikatoren werden als gültig betrachtet.
+
+**[!UICONTROL Lastenausgleich] zeigt Stunden an, die nicht mit einem Projekt/einer Aufgabe/einem Problem verknüpft sind**
+
+_[!UICONTROL Workload-Balancer]_
+
+Wenn ein Benutzer die [!UICONTROL Lastenausgleich], sehen sie Stunden, die für einen Benutzer protokolliert wurden, der keinem Projekt, keiner Aufgabe oder einem Problem zugeordnet ist, und werden auch nicht als [!UICONTROL Allgemein] Stunden. Diese Stunden werden möglicherweise nur in der Ansicht 4 Wochen oder 6 Wochen angezeigt.
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]Wartungs-Update (Hotfix) am 12. Januar 2023**
 

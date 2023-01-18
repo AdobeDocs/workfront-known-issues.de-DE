@@ -3,9 +3,9 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '600'
 ht-degree: 98%
 
 ---
@@ -24,7 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aktualisierungen: Der Bildschirm wird beim Senden der Antwort vorübergehend leer angezeigt](known-issues-workfront/wf-updates-reply-goes-blank.md) | 6. Januar 2023 |
+| [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18. Januar 2023 |
+| [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18. Januar 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 | [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |

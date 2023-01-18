@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Aufgaben: Eingezogene Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Aktualisierungen: Der Bildschirm wird beim Senden der Antwort vorübergehend leer angezeigt](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Benutzerdefinierte Formulare: Strg+F bzw. Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet](known-issues-workfront/wf-custom-forms-dropdown-search.md)

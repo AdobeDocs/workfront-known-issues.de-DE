@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md) | 18. Januar 2023 |
 | [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18. Januar 2023 |
 | [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18. Januar 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
@@ -39,6 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benutzer: Benutzer können keine eigene Benutzereinstellung bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18. Januar 2023 |
 | [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
 | [Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2. Dezember 2022 |

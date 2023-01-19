@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 55%
+source-wordcount: '879'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,26 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Januar 2023
+
++++**Wartungs-Update vom 19. Januar 2023**
+
+**Spaltenfilter für Aufnahme können jetzt freigegeben werden.**
+
+_Pinnwände_
+
+Wenn die Aufnahmespaltenfunktion in Pinnwänden veröffentlicht wurde, konnten die Filter zur Einrichtung der Ansauspalte nur von der Person gesehen werden, die diese Filter erstellt hat. Jetzt kann der Ersteller die Filter für andere Benutzer oder Teams freigeben.
+
+**In verfügbare PIN-Funktion [!UICONTROL Mehr] Menü**
+
+_Navigation_
+
+Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins in der Produktionsumgebung:
+
+* Umbenennen von Stiften
+* Pins innerhalb der [!UICONTROL Mehr] Menü
+* Verschieben einer Nadel aus dem [!UICONTROL Mehr] Menü (dabei wird der letzte Pin in der oberen Navigationsleiste in den [!UICONTROL Mehr] Menü)
+
++++
 
 +++**Wartungs-Update vom 18. Januar 2023**
 

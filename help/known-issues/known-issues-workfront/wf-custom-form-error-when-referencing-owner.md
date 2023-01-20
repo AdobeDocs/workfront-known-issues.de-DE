@@ -3,14 +3,18 @@ title: 'Benutzerdefinierte Formulare: Meldung „Ungültiger benutzerdefinierter
 description: '„Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen Inhaber hinzuzufügen (z. B. „ownerID“), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt: Dies ist ein ungültiger Ausdruck. Versuchen Sie es erneut.“'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
 
 # Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld
+
+>[!NOTE]
+>
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 <!--
 >[!NOTE]

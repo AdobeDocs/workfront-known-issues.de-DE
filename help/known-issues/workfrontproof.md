@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 92%
+source-wordcount: '222'
+ht-degree: 94%
 
 ---
 
@@ -24,12 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18. Januar 2023 |
-| [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18. Januar 2023 |
-| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Text ist kein gültiges XML]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10. Januar 2023 |
 | [Dokumente: Dokumente können nicht von [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) hinzugefügt werden | 20. Dezember 2022 |
-| [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16. Dezember 2022 |
-| [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md) | 18. November 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,6 +34,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Text ist kein gültiges XML]&quot; error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20. Januar 2023 |
+| [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20. Januar 2023 |
 | [Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20. Dezember 2022 |
 
 {style=&quot;table-layout:auto&quot;}

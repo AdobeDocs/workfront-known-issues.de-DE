@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 49%
+source-wordcount: '951'
+ht-degree: 75%
 
 ---
 
@@ -21,6 +21,20 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Januar 2023
 
++++**(Geplantes) Wartungs-Update vom 26. Januar 2023**
+
+**Fehler beim Senden der Anforderung von[!DNL Outlook]**
+
+_Integrationen_
+
+Wenn ein(e) Benutzende(r) versucht, eine Anfrage mit Anhängen über eine [!DNL Outlook]-E-Mail-Adresse zu senden, werden ein oder mehrere Anhänge nicht hochgeladen und der folgende Fehler wird angezeigt.
+
+„[!UICONTROL Der folgende Fehler ist aufgetreten: Datei mit Handle xxxx ist nicht vorhanden.]“
+
+Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Warteschlange oder beim manuellen Erstellen der Anfrage ein Arbeitsauftrag erteilt wird.
+
++++
+
 +++**Wartungs-Update vom 19. Januar 2023**
 
 **Spaltenfilter für Aufnahme können jetzt freigegeben werden.**
@@ -29,15 +43,15 @@ _Pinnwände_
 
 Wenn die Aufnahmespaltenfunktion in Pinnwänden veröffentlicht wurde, konnten die Filter zur Einrichtung der Ansauspalte nur von der Person gesehen werden, die diese Filter erstellt hat. Jetzt kann der Ersteller die Filter für andere Benutzer oder Teams freigeben.
 
-**In verfügbare PIN-Funktion [!UICONTROL Mehr] Menü**
+**PIN-Funktion verfügbar im Menü [!UICONTROL Mehr]**
 
 _Navigation_
 
 Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins in der Produktionsumgebung:
 
-* Umbenennen von Stiften
-* Pins innerhalb der [!UICONTROL Mehr] Menü
-* Verschieben einer Nadel aus dem [!UICONTROL Mehr] Menü (dabei wird der letzte Pin in der oberen Navigationsleiste in den [!UICONTROL Mehr] Menü)
+* Pins umbenennen
+* Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
+* Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
 
 +++
 
@@ -93,49 +107,49 @@ Wenn ein Benutzer versucht, die Zugriffsebene eines anderen Benutzers zu ändern
 
 +++**Wartungs-Update vom 12. Januar 2023**
 
-**Strg+F oder Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet**
+**Strg+F bzw. Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet**
 
 _Benutzerdefinierte Formulare_
 
 Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt und mithilfe von Strg+F oder Befehl+F eine Dropdown-Liste durchsucht und dann versucht, zur nächsten Instanz dieser Suche zu springen, kehrt die Dropdown-Liste zum Anfang der Liste zurück, anstatt zur nächsten Instanz der Suche zu springen. Dies tritt auf, wenn ein Dropdown-Menü so eingerichtet ist, dass mehrere Auswahlmöglichkeiten zulässig sind.
 
-**[!UICONTROL Bericht bearbeiten] Bildschirm ist leer**
+**[!UICONTROL Berichtbearbeitungsbildschirm] ist leer**
 
 _Berichte_
 
 Wenn ein(e) Benutzende(r) einen Bericht betrachtet und versucht, den Bericht zu bearbeiten, wird er/sie auf einen leeren Bildschirm weitergeleitet und kann den Bericht nicht bearbeiten.
 
-**Eingezogene Aufgaben bleiben nicht eingerückt**
+**Eingerückte Aufgaben bleiben nicht eingerückt**
 
 _Aufgaben_
 
-Wenn ein Benutzer eine Aufgabenliste anzeigt und eine Aufgabe einzieht, kehrt die Aufgabe sofort zum ursprünglichen (ausgehenden) Status zurück.
+Wenn ein(e) Benutzende(r) eine Aufgabenliste anzeigt und eine Aufgabe einrückt, kehrt die Aufgabe sofort an die ursprüngliche (ausgerückten) Position zurück.
 
 +++
 
 +++**Wartungs-Update vom 5. Januar 2023**
 
-**In verfügbare PIN-Funktion [!UICONTROL Mehr] Menü**
+**PIN-Funktion verfügbar im Menü [!UICONTROL Mehr]**
 
 _Navigation_
 
-Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins, nur in der Vorschau-Umgebung:
+Die folgenden Funktionen sind jetzt für Pins im Menü [!UICONTROL Mehr] verfügbar; nur in der Vorschau-Umgebung:
 
-* Umbenennen von Stiften
-* Pins innerhalb der [!UICONTROL Mehr] Menü
-* Verschieben einer Nadel aus dem [!UICONTROL Mehr] Menü (dabei wird der letzte Pin in der oberen Navigationsleiste in den [!UICONTROL Mehr] Menü)
+* Pins umbenennen
+* Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
+* Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
 
-**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzer zum Projektteam hinzugefügt werden können.**
+**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzende zum Projektteam hinzugefügt werden können.**
 
 _Teams_
 
-Wir haben die Einschränkung entfernt, die erforderlich machte, dass die Benutzer, die einem Projektteam hinzugefügt werden müssen, in der mit dem Projekt verknüpften Gruppe sein müssen. Jetzt können Sie einem Projektteam jeden aktiven Benutzer hinzufügen, unabhängig davon, zu welchen Gruppen er gehört.
+Wir haben die Einschränkung entfernt, die erforderlich machte, dass die einem Projektteam hinzuzufügenden Benutzenden in der mit dem Projekt verknüpften Gruppe sein müssen. Jetzt können Sie einem Projektteam jeden aktiven Benutzenden hinzufügen, unabhängig davon, zu welchen Gruppen er gehört.
 
 **Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
 
 >[!NOTE]
 >
->Diese Aktualisierung wurde am 3. November 2022 in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktion verfügbar.
+>Dieses Update wurde am 3. November 2022 in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktionsumgebung verfügbar.
 
 _Workfront_
 

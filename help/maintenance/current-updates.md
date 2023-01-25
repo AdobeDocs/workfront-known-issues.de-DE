@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 75%
+source-wordcount: '1000'
+ht-degree: 72%
 
 ---
 
@@ -32,6 +32,12 @@ Wenn ein(e) Benutzende(r) versucht, eine Anfrage mit Anhängen über eine [!DNL 
 „[!UICONTROL Der folgende Fehler ist aufgetreten: Datei mit Handle xxxx ist nicht vorhanden.]“
 
 Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Warteschlange oder beim manuellen Erstellen der Anfrage ein Arbeitsauftrag erteilt wird.
+
+**Benutzer können keine eigene Benutzereinstellung bearbeiten**
+
+_Benutzer_
+
+Wenn ein Benutzer mit einer Arbeits-, Überprüfungs- oder Anforderungslizenz versucht, seine eigenen Benutzereinstellungen zu bearbeiten, ist das Popup, das geöffnet wird, leer und der Benutzer kann keine Änderungen vornehmen. Um das Popup zu beenden, muss der Benutzer die Seite aktualisieren.
 
 +++
 

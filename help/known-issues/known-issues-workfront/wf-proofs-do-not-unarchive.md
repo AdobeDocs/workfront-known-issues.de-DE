@@ -2,15 +2,19 @@
 title: '„Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden“'
 description: „Wenn ein(e) Benutzende(r) versucht, die Archivierung eines Korrekturabzugs rückgängig zu machen, ist das nicht möglich.“
 hidefromtoc: true
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: ht
-source-wordcount: '40'
-ht-degree: 100%
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+workflow-type: tm+mt
+source-wordcount: '46'
+ht-degree: 86%
 
 ---
 
 
 # Korrekturabzüge: Die Archivierung von Korrekturabzügen kann nicht rückgängig gemacht werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 23. Januar 2023 behoben.
 
 Wenn ein(e) Benutzende(r) versucht, die Archivierung eines Korrekturabzugs rückgängig zu machen, ist das nicht möglich.
 

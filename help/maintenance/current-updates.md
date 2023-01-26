@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 72%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ Wenn ein(e) Benutzende(r) versucht, eine Anfrage mit Anhängen über eine [!DNL 
 „[!UICONTROL Der folgende Fehler ist aufgetreten: Datei mit Handle xxxx ist nicht vorhanden.]“
 
 Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Warteschlange oder beim manuellen Erstellen der Anfrage ein Arbeitsauftrag erteilt wird.
+
+**Neue Desktop Proofing Viewer-Version**
+
+_Proofing_
+
+Um ein Problem mit dem Einfrieren im Desktop-Proofing-Viewer zu beheben, haben wir eine neue Version des Desktop-Proofing-Viewers bereitgestellt. Benutzer, die bereits den Desktop Proofing Viewer installiert haben, erhalten dieses Update automatisch.
+
+Benutzer können auch die neueste Version manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Proofing Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Frühere Version: 2,1,19
+* Neue Version: 2.1.20
 
 **Benutzer können keine eigene Benutzereinstellung bearbeiten**
 

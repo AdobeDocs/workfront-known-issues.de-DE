@@ -3,7 +3,7 @@ title: '„Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übe
 description: „Wenn Dokumente an ein Problem angehängt werden und ein(e) Benutzende(r) das Problem in ein Projekt konvertiert, verfügen die Dokumente im neuen Projekt nicht über die geerbten Berechtigungen, die sie haben sollten.“
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 

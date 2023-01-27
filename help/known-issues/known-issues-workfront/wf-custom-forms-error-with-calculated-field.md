@@ -1,16 +1,16 @@
 ---
-title: "Benutzerdefinierte Formulare: Fehler bei der Einrichtung eines berechneten Felds"
-description: Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche ‚Speichern‘ ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Darüber hinaus wird dem Benutzer unter dem Feld eine Nachricht vom Typ "An" angezeigt.
+title: '„Benutzerdefinierte Formulare: Hoppla-Fehler beim Einrichten eines berechneten Felds“'
+description: Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche „Speichern“ ist deaktiviert, und die Benutzenden können das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld eine Hoppla-Fehlermeldung angezeigt.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Benutzerdefinierte Formulare: Fehler [!UICONTROL Hoppla] beim Einrichten eines berechneten Felds
+# Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds
 
 >[!NOTE]
 >

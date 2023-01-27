@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
 source-wordcount: '1323'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 97%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Benutzer: Die geplante Deaktivierung deaktiviert den Benutzer nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [Benutzer: Benutzer können keine eigene Benutzereinstellung bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [Benutzende: Benutzende können keine eigenen Benutzereinstellungen bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Aufgaben: Eingerückte Aufgaben bleiben nicht eingerückt](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)

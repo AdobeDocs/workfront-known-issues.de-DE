@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
 source-wordcount: '1071'
-ht-degree: 67%
+ht-degree: 92%
 
 ---
 
@@ -48,23 +48,23 @@ Benutzer können auch die neueste Version manuell herunterladen. Weitere Informa
 
 _Benutzer_
 
-Wenn ein Benutzer mit einer Arbeits-, Überprüfungs- oder Anforderungslizenz versucht, seine eigenen Benutzereinstellungen zu bearbeiten, ist das Popup, das geöffnet wird, leer und der Benutzer kann keine Änderungen vornehmen. Um das Popup zu beenden, muss der Benutzer die Seite aktualisieren.
+Wenn Benutzende mit einer Lizenz für Arbeit, Überprüfung oder Anfrage versuchen, ihre eigenen Benutzereinstellungen zu bearbeiten, ist das geöffnete Popup leer, und die Benutzenden können keine Änderungen vornehmen. Um das Popup zu schließen, muss die Seite aktualisiert werden.
 
 +++
 
 +++**Wartungs-Update vom 19. Januar 2023**
 
-**Spaltenfilter für Aufnahme können jetzt freigegeben werden.**
+**Spaltenfilter für die Aufnahme können jetzt geteilt werden**
 
 _Pinnwände_
 
-Wenn die Aufnahmespaltenfunktion in Pinnwänden veröffentlicht wurde, konnten die Filter zur Einrichtung der Ansauspalte nur von der Person gesehen werden, die diese Filter erstellt hat. Jetzt kann der Ersteller die Filter für andere Benutzer oder Teams freigeben.
+Als die Aufnahmespaltenfunktion in Pinnwänden veröffentlicht wurde, konnten die Filter zur Einrichtung der Aufnahmespalte nur von der Person gesehen werden, die diese Filter erstellt hatte. Jetzt kann die erstellende Person die Filter mit anderen Benutzenden oder Teams teilen.
 
 **PIN-Funktion verfügbar im Menü [!UICONTROL Mehr]**
 
 _Navigation_
 
-Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins in der Produktionsumgebung:
+Die folgenden Funktionen sind jetzt im Menü [!UICONTROL Mehr] für Pins in der Produktionsumgebung verfügbar:
 
 * Pins umbenennen
 * Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
@@ -78,17 +78,17 @@ Die folgenden Funktionen sind jetzt im [!UICONTROL Mehr] Menü für Pins in der 
 
 _Benutzerdefinierte Formulare_
 
-Wenn ein Benutzer einen Platzhalter wie \$$TODAY oder $$NOW zusammen mit einem Modifikator (z. B. &quot;-30d&quot;) in einem benutzerdefinierten Feld verwendet, akzeptiert der Validator den Platzhalter nicht als gültig. Platzhalter ohne Modifikatoren werden als gültig betrachtet.
+Wenn Benutzende einen Platzhalter wie \$$TODAY oder $$NOW zusammen mit einem Modifikator (z. B. „-30d“) in einem benutzerdefinierten Feld verwenden, akzeptiert der Validator den Platzhalter nicht als gültig. Platzhalter ohne Modifikatoren werden als gültig betrachtet.
 
-**[!UICONTROL Lastenausgleich] zeigt Stunden an, die nicht mit einem Projekt/einer Aufgabe/einem Problem verknüpft sind**
+**[!UICONTROL Lastenausgleich] zeigt Stunden an, die mit keinem Projekt/keiner Aufgabe/keinem Problem verknüpft sind**
 
 _[!UICONTROL Workload-Balancer]_
 
-Wenn ein Benutzer die [!UICONTROL Lastenausgleich], sehen sie Stunden, die für einen Benutzer protokolliert wurden, der keinem Projekt, keiner Aufgabe oder einem Problem zugeordnet ist, und werden auch nicht als [!UICONTROL Allgemein] Stunden. Diese Stunden werden möglicherweise nur in der Ansicht 4 Wochen oder 6 Wochen angezeigt.
+Wenn Benutzende den [!UICONTROL Lastenausgleich] betrachten, sehen sie Stunden, die für Benutzende protokolliert wurden und keinem Projekt, keiner Aufgabe sowie keinem Problem zugeordnet sind und auch nicht als [!UICONTROL Allgemeine] Stunden eingetragen sind. Diese Stunden werden möglicherweise nur in der 4- oder 6-Wochen-Ansicht angezeigt.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Wartungs-Update (Hotfix) am 12. Januar 2023**
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update (Hotfix) vom 12. Januar 2023**
 
 **404-Fehler bei [!DNL Workfront]-Modulen**
 
@@ -102,9 +102,9 @@ Dies wurde in den folgenden Modulen gemeldet:
 
 +++
 
-+++**Wartungs-Update (Hotfix) am 12. Januar 2023**
++++**Wartungs-Update (Hotfix) vom 12. Januar 2023**
 
-**&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Einrichten eines berechneten Felds**
+**„[!UICONTROL Hoppla]“-Fehler beim Einrichten eines berechneten Felds**
 
 _Benutzerdefinierte Formulare_
 
@@ -118,7 +118,7 @@ Wenn Sie das benutzerdefinierte Feld aus dem Ausdruck entfernen, können Sie das
 
 _Benutzer_
 
-Wenn ein Benutzer versucht, die Zugriffsebene eines anderen Benutzers zu ändern, sind die Zugriffsebenen grau ausgeblendet und der Benutzer kann sie nicht ändern. Dies tritt auch dann auf, wenn der Benutzer, der die Änderung durchführt, ein Systemadministrator ist.
+Wenn Benutzende versuchen, die Zugriffsebene anderer Benutzender zu ändern, sind die Zugriffsebenen grau ausgeblendet, und die Benutzenden können sie nicht ändern. Dies ist auch dann der Fall, wenn die Person, die die Änderung durchführt, eine Systemadministratorin oder ein Systemadministrator ist.
 
 +++
 

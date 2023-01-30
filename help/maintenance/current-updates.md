@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 78%
 
 ---
 
@@ -20,6 +20,41 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Januar 2023
+
++++**Wartungs-Update vom 30. Januar 2023**
+
+**Tastaturbefehle für gängige Zeitblatt-Aktionen hinzugefügt**
+
+_Arbeitszeittabellen_
+
+Wir haben die folgenden Tastaturbefehle für die folgenden häufig durchgeführten Aktionen in einem Timesheet eingeführt:
+
+* Zeile hinzufügen (Befehl+Option++/Strg+Option+++)
+* Löschen Sie die Zeile (Befehl+Option+-/Strg+Option+-)
+* Ein Arbeitselement fixieren oder aufheben (Option+P/Option+P)
+* Kommentar öffnen (Umschalt+F2/Umschalt+F2)
+* Kommentar speichern (Befehl+Eingabetaste/Strg+Eingabetaste)
+* Erweitern (Umschalt+Option+Nach-oben-Taste/Umschalt+Alt+Nach-oben-Taste)
+* Reduzieren (Umschalt+Option+Abwärtspfeil/Umschalt+Alt+Abwärtspfeil)
+
+Der Bereich, in dem diese Aktionen ausgeführt werden, muss hervorgehoben werden, damit sie angewendet werden können.
+
+**Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
+
+_Arbeitszeittabellen_
+
+>[!NOTE]
+>
+>Dieses Update wurde nur am 3. November 2022 in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktion verfügbar.
+
+Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
+
+* &quot;[!UICONTROL Kann die Zeit bearbeiten]&quot;bei der Erstellung oder Bearbeitung eines Timesheets oder eines Timesheet-Profils das Kontrollkästchen aktivieren, um anzugeben, dass Genehmiger bei Aktivierung auch das Timesheet senden, erneut öffnen oder bearbeiten können, es sei denn, Ihr Administrator beschränkt diese Aktionen im [!UICONTROL Voreinstellungen für das Datenblatt] Gebiet von [!UICONTROL Einrichtung].
+* &quot;[!UICONTROL Beschränken der Bearbeitung von Zeitblättern auf Eigentümer und Administratoren]&quot; in der [!UICONTROL Zeitblatt- und Stundeneinstellungen] Gebiet von [!UICONTROL Einrichtung] um anzugeben, dass die folgenden Benutzer bei Deaktivierung auch die Timesheets bearbeiten können: Benutzer mit administrativem Zugriff auf Timesheets und Stunden, Timesheet-Genehmiger zur Bearbeitung der Zeit und Timesheet-Manager.
+
+Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
+
++++
 
 +++**Wartungs-Update vom 26. Januar 2023**
 

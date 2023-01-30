@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 99%
+source-wordcount: '1361'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen aus einem Portfolio oder Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Einrichtung]: Auditprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Zusammenfassung]: Bildlauf nicht möglich [!UICONTROL Zusammenfassung] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Dokumente: Fehler &quot;Ungültige Antwort&quot;beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Benutzer: Die geplante Deaktivierung deaktiviert den Benutzer nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Benutzende: Benutzende können keine eigenen Benutzereinstellungen bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: 404-Fehler in Workfront-Modulen](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu [!DNL Google] hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)

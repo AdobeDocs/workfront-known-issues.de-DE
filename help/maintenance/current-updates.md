@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 78%
+source-wordcount: '1351'
+ht-degree: 79%
 
 ---
 
@@ -19,7 +19,17 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
-## Updates im Januar 2023
+## Updates im Februar 2023
+
++++**Wartungs-Update vom 2. Februar 2023**
+
+**E-Mail-Vorlagen können nicht gespeichert werden**
+
+_Setup_
+
+Wenn Benutzende versuchen, eine E-Mail-Vorlage zu erstellen oder zu bearbeiten, reagiert die Schaltfläche [!UICONTROL Speichern] nicht, und sie können die Vorlage nicht speichern.
+
++++
 
 +++**Wartungs-Update vom 30. Januar 2023**
 

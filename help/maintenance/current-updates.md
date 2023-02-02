@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom 2. Februar 2023**
 
-**E-Mail-Vorlagen können nicht gespeichert werden**
+**Das Symbol &quot;Pinnwände&quot;wird standardmäßig im Hauptmenü angezeigt**
+
+_Pinnwände_
+
+Für Benutzer ohne Layoutvorlage wird nun im Hauptmenü das Symbol Pinnwände angezeigt. Pinnwände sind standardmäßig auch im Hauptmenü für alle neuen Layoutvorlagen enthalten, die erstellt werden. Bestehende Layoutvorlagen wurden nicht geändert.**E-Mail-Vorlagen können nicht gespeichert werden**
 
 _Setup_
 

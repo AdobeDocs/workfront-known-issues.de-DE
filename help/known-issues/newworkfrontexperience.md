@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 90%
+source-wordcount: '627'
+ht-degree: 89%
 
 ---
 
@@ -43,7 +43,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [[!UICONTROL Einrichtung]: Auditprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30. Januar 2023 |
 | [[!UICONTROL Zusammenfassung]: Bildlauf nicht möglich [!UICONTROL Zusammenfassung] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30. Januar 2023 |
 | [Benutzer: Die geplante Deaktivierung deaktiviert den Benutzer nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26. Januar 2023 |
-| [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20. Januar 2023 |
 | [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20. Januar 2023 |
 | [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

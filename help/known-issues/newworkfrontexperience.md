@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 87%
+source-wordcount: '649'
+ht-degree: 85%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3. Februar 2023 |
 | [Lastenausgleich: Ungenaue Ergebnisse bei Verwendung mehrerer Filter gleichzeitig](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 3. Februar 2023 |
 | [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31. Januar 2023 |
 | [Dokumente: Fehler &quot;Diese Seite ist nicht vorhanden&quot;beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31. Januar 2023 |

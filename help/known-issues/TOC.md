@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1436'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Lastenausgleich: Ungenaue Ergebnisse bei Verwendung mehrerer Filter gleichzeitig](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Gruppen: Untergruppen erhalten keine Benachrichtigungen basierend auf den Einstellungen für Gruppenereignis-Benachrichtigungen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)

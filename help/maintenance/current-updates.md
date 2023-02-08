@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 75%
+source-wordcount: '1482'
+ht-degree: 73%
 
 ---
 
@@ -24,6 +24,16 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 +++**(Geplant) Aktualisierung der Wartung am 9. Februar 2023**
 
 Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
++++
+
++++**Wartungs-Update vom 8. Februar 2023**
+
+**Filterschaltfläche in Ansauspalte**
+
+_Pinnwände_
+
+Die Aufnahmespalte auf einer Pinnwand enthält jetzt eine **Filter hinzufügen** -Schaltfläche, wenn die Spalte leer ist und keine Filter erstellt wurden. Die Schaltfläche öffnet den Konfigurationsbereich, in dem Sie Filter hinzufügen können, um Aufgaben und Probleme in die Aufnahmespalte zu übernehmen.
 
 +++
 

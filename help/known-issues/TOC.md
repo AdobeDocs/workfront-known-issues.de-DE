@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
 workflow-type: tm+mt
-source-wordcount: '1436'
-ht-degree: 92%
+source-wordcount: '1444'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Lastenausgleich: Ungenaue Ergebnisse bei Verwendung mehrerer Filter gleichzeitig](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [Gruppen: Untergruppen erhalten keine Benachrichtigungen basierend auf den Einstellungen für Gruppenereignis-Benachrichtigungen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1462'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Benutzer: Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)

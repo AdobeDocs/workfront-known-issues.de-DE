@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 88%
+source-wordcount: '635'
+ht-degree: 87%
 
 ---
 
@@ -39,6 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13. Februar 2023 |
 | [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10. Februar 2023 |
 | [[!UICONTROL Einrichtung]: Auditprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30. Januar 2023 |
 | [Benutzer: Die geplante Deaktivierung deaktiviert den Benutzer nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26. Januar 2023 |

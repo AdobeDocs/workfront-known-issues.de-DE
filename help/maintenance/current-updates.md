@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1506'
-ht-degree: 71%
+source-wordcount: '1538'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,16 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Februar 2023
+
++++**(Geplant) Aktualisierung der Wartung am 16. Februar 2023**
+
+**Die geplante Deaktivierung deaktiviert den Benutzer nicht**
+
+_Benutzende_
+
+Wenn die Deaktivierung von Benutzenden geplant ist und das geplante Datum und die geplante Uhrzeit vergehen, werden Benutzende nicht deaktiviert.
+
++++
 
 +++**Wartungs-Update vom 9. Februar 2023**
 
@@ -94,7 +104,7 @@ Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert
 
 +++**Wartungs-Update vom 26. Januar 2023**
 
-**Fehler beim Senden der Anforderung von[!DNL Outlook]**
+**Fehler beim Senden einer Anfrage über [!DNL Outlook]**
 
 _Integrationen_
 
@@ -108,18 +118,18 @@ Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Wartes
 
 _Proofing_
 
-Um ein Problem mit dem Einfrieren im Desktop-Proofing-Viewer zu beheben, haben wir eine neue Version des Desktop-Proofing-Viewers bereitgestellt. Benutzer, die bereits den Desktop Proofing Viewer installiert haben, erhalten dieses Update automatisch.
+Um ein Einfrieren im Desktop Proofing Viewer zu beheben, haben wir eine neue Version des Desktop Proofing Viewers bereitgestellt. Benutzende, die bereits den Desktop Proofing Viewer installiert haben, erhalten dieses Update automatisch.
 
-Benutzer können auch die neueste Version manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Proofing Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Proofing Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
-* Frühere Version: 2,1,19
+* Frühere Version: 2.1.19
 * Neue Version: 2.1.20
 
-**Benutzer können keine eigene Benutzereinstellung bearbeiten**
+**Benutzende können ihre eigenen Benutzereinstellungen nicht bearbeiten**
 
-_Benutzer_
+_Benutzende_
 
-Wenn Benutzende mit einer Lizenz für Arbeit, Überprüfung oder Anfrage versuchen, ihre eigenen Benutzereinstellungen zu bearbeiten, ist das geöffnete Popup leer, und die Benutzenden können keine Änderungen vornehmen. Um das Popup zu schließen, muss die Seite aktualisiert werden.
+Wenn Benutzende mit einer Lizenz für Arbeit, Überprüfung oder Anfrage versuchen, ihre eigenen Benutzereinstellungen zu bearbeiten, ist das Popup leer und die Benutzenden können keine Änderungen vornehmen. Um das Popup zu schließen, muss die Seite aktualisiert werden.
 
 +++
 
@@ -159,7 +169,7 @@ Wenn Benutzende den [!UICONTROL Lastenausgleich] betrachten, sehen sie Stunden, 
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Wartungs-Update (Hotfix) vom 12. Januar 2023**
++++Wartungs-Update für **[!DNL Adobe Workfront Fusion] (Hotfix) vom 12. Januar 2023**
 
 **404-Fehler bei [!DNL Workfront]-Modulen**
 

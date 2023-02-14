@@ -3,7 +3,7 @@ title: '„Benutzende: Benutzende können ihre eigenen Benutzereinstellungen nic
 description: „Wenn Benutzende mit einer Lizenz für [!UICONTROL Arbeit], [!UICONTROL Überprüfung] oder [!UICONTROL Anfrage] versuchen, ihre eigenen Benutzereinstellungen zu bearbeiten, ist das geöffnete Popup leer, und die Benutzenden können keine Änderungen vornehmen. Um das Popup zu schließen, muss die Seite aktualisiert werden.“
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 

@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
 source-wordcount: '1462'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
       + [[!UICONTROL Einrichtung]: Auditprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL Zusammenfassung]: Bildlauf nicht möglich [!UICONTROL Zusammenfassung] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Dokumente: Fehler &quot;Ungültige Antwort&quot;beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [Benutzer: Die geplante Deaktivierung deaktiviert den Benutzer nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [Benutzende: Die geplante Deaktivierung deaktiviert Benutzende nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Benutzende: Benutzende können keine eigenen Benutzereinstellungen bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md)
@@ -117,7 +117,7 @@ ht-degree: 90%
       + [Benutzerdefinierte Formulare: In beschreibenden Textfeldern wird eine QuickInfo angezeigt](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integrationen: 404-Fehler beim Hinzufügen eines Dokuments über die  [!DNL SharePoint] [!UICONTROL (Graph-API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrationen:  [!DNL SharePoint] -Ordner wird für Ordnerinhaber nicht angezeigt](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Integrationen: Fehler beim Senden einer Anfrage über [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Integrationen: Fehler beim Senden einer Anfrage über  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Arbeitszeittabellen: Beim Eingeben von Stunden erscheint der Fehler „[!UICONTROL Jemand anders hat versucht, dieses Projekt zu speichern]“](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Dashboards: Zugriff auf das Dashboard über den linke Navigationsbereich eines Objekts ist nicht möglich](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Aufgaben und Probleme: Beim Erstellen von Aufgaben oder Problemen wird der Vorgang unbeabsichtigt beendet](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)

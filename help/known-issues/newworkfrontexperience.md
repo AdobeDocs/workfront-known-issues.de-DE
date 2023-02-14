@@ -3,9 +3,9 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
+source-git-commit: b164121c0d7aa1c57fa23160ba37796fef2fa151
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '628'
 ht-degree: 88%
 
 ---
@@ -28,7 +28,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3. Februar 2023 |
 | [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31. Januar 2023 |
 | [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen aus einem Portfolio oder Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30. Januar 2023 |
-| [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27. Oktober 2022 |
 | [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}

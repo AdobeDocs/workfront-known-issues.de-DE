@@ -3,9 +3,9 @@ title: '„Integrationen: Fehler beim Senden einer Anfrage über Outlook“'
 description: „Wenn ein(e) Benutzende(r) versucht, eine Anfrage mit Anhängen über eine  [!DNL Outlook] -E-Mail-Adresse zu senden, werden ein oder mehrere Anhänge nicht hochgeladen und ein Fehler wird angezeigt.“
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

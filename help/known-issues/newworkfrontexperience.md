@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b164121c0d7aa1c57fa23160ba37796fef2fa151
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '637'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16. Februar 2023 |
 | [Benutzer: Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 10. Februar 2023 |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3. Februar 2023 |
 | [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31. Januar 2023 |

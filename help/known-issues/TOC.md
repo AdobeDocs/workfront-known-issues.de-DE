@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 88%
+source-wordcount: '1083'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Benutzer: Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)

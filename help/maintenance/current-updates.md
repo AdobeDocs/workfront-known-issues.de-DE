@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 76%
+source-wordcount: '1582'
+ht-degree: 75%
 
 ---
 
@@ -21,7 +21,19 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Februar 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 16. Februar 2023**
++++**Wartungs-Update vom 16. Februar 2023**
+
+**Mehrere Teamzuweisungen auf Pinnwänden**
+
+_Pinnwände_
+
+Sie können jetzt mehrere Teams einer Aufgabe oder einem Problem in einer Pinnwand und der Pinnwand selbst zuweisen.
+
+**Erhöhung der Kartenabsturzgrenze**
+
+_Pinnwände_
+
+Die Falloff-Zeitlimits für die Karte wurden auf 8 Wochen/60 Tage statt auf 4 Wochen/30 Tage erhöht.
 
 **Die geplante Deaktivierung deaktiviert den Benutzer nicht**
 

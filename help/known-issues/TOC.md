@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1088'
 ht-degree: 87%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: 504-Fehler in der Projektheader](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)

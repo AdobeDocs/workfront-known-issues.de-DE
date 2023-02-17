@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 89%
+source-wordcount: '238'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3. Februar 2023 |
-| [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31. Januar 2023 |
 | [Dokumente: Dokumente können nicht von [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) hinzugefügt werden | 20. Dezember 2022 |
 
 {style=&quot;table-layout:auto&quot;}

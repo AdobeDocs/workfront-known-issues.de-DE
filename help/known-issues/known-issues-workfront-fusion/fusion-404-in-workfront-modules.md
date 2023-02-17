@@ -2,15 +2,19 @@
 title: "Adobe Workfront Fusion: 404-Fehler in Workfront-Modulen"
 description: "Workfront-Module geben gelegentlich 404-Fehler zurück. Ein 404-Fehler in einem Modul führt dazu, dass die Ausführung des Szenarios fehlschlägt."
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # [!DNL Adobe Workfront Fusion]: 404-Fehler in Workfront-Modulen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 2. Februar 2023 behoben.
 
 [!DNL Workfront] -Module geben gelegentlich 404-Fehler zurück. Ein 404-Fehler in einem Modul führt dazu, dass die Ausführung des Szenarios fehlschlägt.
 

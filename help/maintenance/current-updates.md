@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 75%
+source-wordcount: '1693'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,24 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Februar 2023
+
++++**(Geplant) Aktualisierung der Wartung am 23. Februar 2023**
+
+**Link zu einem Kommentar, der zu [!UICONTROL Details] page**
+
+_Updates_
+
+Wenn ein Benutzer einer Verknüpfung zu einem Kommentar zu einem Objekt in Workfront folgt, wird der Aktualisierungsstream kurz geladen und der Benutzer wird dann zum Objekt [!UICONTROL Details] Bereich. Dies kann vorkommen, wenn der Benutzer in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
+
+Dies betrifft derzeit nur Dokumentobjekte.
+
+**Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten**
+
+_Benutzende_
+
+Wenn ein Benutzer mit [!UICONTROL Worker] -Lizenz versucht, ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, die [!UICONTROL Benachrichtigungen] -Optionen in der [!UICONTROL Bearbeiten] und der Benutzer die Einstellungen nicht bearbeiten kann.
+
++++
 
 +++**Wartungs-Update vom 16. Februar 2023**
 
@@ -78,6 +96,8 @@ _Setup_
 Wenn Benutzende versuchen, eine E-Mail-Vorlage zu erstellen oder zu bearbeiten, reagiert die Schaltfläche [!UICONTROL Speichern] nicht, und sie können die Vorlage nicht speichern.
 
 +++
+
+## Aktualisierungen im Januar 2023
 
 +++**Wartungs-Update vom 30. Januar 2023**
 

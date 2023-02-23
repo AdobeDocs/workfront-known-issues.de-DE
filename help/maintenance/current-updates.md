@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '1693'
+source-wordcount: '1692'
 ht-degree: 70%
 
 ---
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Februar 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 23. Februar 2023**
++++**Wartungs-Update vom 23. Februar 2023**
 
 **Link zu einem Kommentar, der zu [!UICONTROL Details] page**
 

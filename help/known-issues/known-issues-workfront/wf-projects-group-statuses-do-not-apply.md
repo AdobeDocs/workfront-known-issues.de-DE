@@ -2,10 +2,10 @@
 title: '„Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.“'
 description: „Wenn ein(e) Benutzende(r) ein Projekt über eine Vorlage erstellt, übernimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status. Wenn ein Projekt ohne Vorlage erstellt wird, wird der Status wie erwartet von den Gruppenprojekteinstellungen übernommen.“
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde am 23. Februar 2023 behoben.
 
 Wenn ein(e) Benutzende(r) ein Projekt über eine Vorlage erstellt, übernimmt das neue Projekt nicht den in den Gruppenprojekteinstellungen festgelegten Status. Wenn ein Projekt ohne Vorlage erstellt wird, wird der Status wie erwartet von den Gruppenprojekteinstellungen übernommen.
 

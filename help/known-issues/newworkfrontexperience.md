@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 87%
+source-wordcount: '556'
+ht-degree: 86%
 
 ---
 
@@ -27,7 +27,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Projekte: 504-Fehler in der Projektheader](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17. Februar 2023 |
 | [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16. Februar 2023 |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3. Februar 2023 |
-| [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19. Oktober 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,10 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | -----------------------------------------------------------------| ----------------- |
 | [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24. Februar 2023 |
 | [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen aus einem Portfolio oder Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
-| [Integrationen:  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 14. Februar 2023 |
 | [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13. Februar 2023 |
-| [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20. Januar 2023 |
-| [Berichte: Hoppla-Fehler beim Hinzufügen eines neuen Problems zu einem Problembericht](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14. November 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -53,14 +49,13 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationen: [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 24. Februar 2023 |
 | [Testsendungen: Der Benutzer erhält keine E-Mail, wenn er in einem Testkommentar getaggt wurde](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23. Februar 2023 |
 | [Benutzerdefinierte Formulare: Meldung „[!UICONTROL Ungültiger benutzerdefinierter Ausdruck]“ beim Referenzieren von „[!UICONTROL Inhaber]“ in einem berechneten Feld](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20. Januar 2023 |
 | [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) hängen | 10. Januar 2023 |
 | [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn der Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6. Januar 2023 |
-| [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6. Januar 2023 |
 | [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5. Dezember 2022 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert | 2. Dezember 2022 |
-| [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2. Dezember 2022 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21. November 2022 |
 | [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11. November 2022 |
 | [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31. Oktober 2022 |
@@ -70,7 +65,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
 | [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |
 | [Agile: Felder auf Karten können nicht über benutzerdefinierte Formulare bearbeitet werden](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11. Mai 2022 |
-| [Layout-Vorlagen: Beim Erstellen einer Layout-Vorlage kann keine Gruppe ausgewählt werden](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4. Mai 2022 |
 | [Agile: Probleme beim Verschieben von Karten auf dem [!UICONTROL Agile]-Board](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27. April 2022 |
 | [Genehmigungen: Für die Delegierung von Genehmigungen wird die falsche Anzahl von Tagen festgelegt](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20. April 2022 |
 | [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1. Oktober 2021 |

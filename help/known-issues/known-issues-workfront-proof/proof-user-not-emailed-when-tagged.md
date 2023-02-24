@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Testsendungen: Der Benutzer erhält keine E-Mail, wenn er in einem Testversand-Kommentar getaggt wurde."
+description: "Wenn ein Benutzer mit dem Format @name für einen Testkommentar getaggt wird, erhält er keine E-Mail-Benachrichtigung über den Kommentar."
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 29%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 

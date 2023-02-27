@@ -3,7 +3,7 @@ title: '„Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabz
 description: „Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem ein(e) Benutzende(r) während der Erstellung des Korrekturabzugs hinzugefügt wurde, wird der Korrekturabzug nicht für den/die Benutzende(n) freigegeben, und er/sie kann nicht auf den Korrekturabzug zugreifen.“
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 

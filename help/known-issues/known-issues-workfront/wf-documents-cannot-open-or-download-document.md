@@ -1,16 +1,16 @@
 ---
-title: "Dokumente: Diese Seite ist beim Öffnen oder Herunterladen eines Dokuments nicht fehlerhaft."
-description: "Wenn ein Benutzer versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, kann er es weder öffnen noch herunterladen, und ihm wird ein Fehler angezeigt."
+title: '„Dokumente: Fehler ‚Diese Seite existiert nicht‘ beim Öffnen oder Herunterladen eines Dokuments“'
+description: „Wenn ein(e) Benutzende(r) versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, ist dies nicht möglich und und ein Fehler wird angezeigt“
 hidefromtoc: true
 source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 
-# Dokumente: Fehler &quot;Diese Seite ist nicht vorhanden&quot;beim Öffnen oder Herunterladen eines Dokuments
+# Dokumente: Fehler „Diese Seite existiert nicht“ beim Öffnen oder Herunterladen eines Dokuments
 
 <!--This article is on the WF and WFP TOC-->
 
@@ -18,8 +18,8 @@ ht-degree: 14%
 >
 >Dieses Problem wurde am 2. Februar 2023 behoben.
 
-Wenn ein Benutzer versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, kann er es nicht öffnen oder herunterladen. Es wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, ist dies nicht möglich und und der folgende Fehler wird angezeigt:
 
-&quot;[!UICONTROL Diese Seite ist nicht vorhanden. Bitte überprüfen und erneut versuchen.]&quot;
+„[!UICONTROL Diese Seite existiert nicht. Bitte überprüfen und erneut versuchen.]“
 
 _Erste Meldung am 25. Januar 2023._

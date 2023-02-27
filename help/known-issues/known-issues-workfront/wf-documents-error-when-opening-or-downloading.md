@@ -1,16 +1,16 @@
 ---
-title: "Dokumente: Ungültiger Antwortfehler beim Öffnen oder Herunterladen eines Dokuments"
-description: "Wenn ein Benutzer versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, kann er es weder öffnen noch herunterladen, und ihm wird ein Fehler angezeigt."
+title: '„Dokumente: Fehler ‚Ungültige Antwort‘ beim Öffnen oder Herunterladen eines Dokuments“'
+description: „Wenn ein(e) Benutzende(r) versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, ist dies nicht möglich und und ein Fehler wird angezeigt“
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
 
-# Dokumente: Fehler &quot;Ungültige Antwort&quot;beim Öffnen oder Herunterladen eines Dokuments
+# Dokumente: Fehler „Ungültige Antwort“ beim Öffnen oder Herunterladen eines Dokuments
 
 <!--This article is on the WF and WFP TOC-->
 
@@ -18,13 +18,13 @@ ht-degree: 0%
 >
 >Dieses Problem wurde am 2. Februar 2023 behoben.
 
-Wenn ein Benutzer versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, kann er es nicht öffnen oder herunterladen. Es wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) versucht, ein Dokument in Workfront zu öffnen oder herunterzuladen, ist dies nicht möglich und und der folgende Fehler wird angezeigt:
 
-&quot;[!UICONTROL Eine ungültige Antwort wurde vom Upstream-Server empfangen]&quot;
+„[!UICONTROL Eine ungültige Antwort wurde vom vorgelagerten Server empfangen]“
 
 **Problemumgehung**
 
-Ein anderer Benutzer kann das Dokument herunterladen und weiterleiten.
+Ein(e) andere(r) Benutzende(r) kann das Dokument möglicherweise herunterladen und weiterleiten.
 
 _Erste Meldung am 23. Januar 2023._
 

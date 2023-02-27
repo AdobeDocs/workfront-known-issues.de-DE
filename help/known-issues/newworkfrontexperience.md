@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 85%
+source-wordcount: '573'
+ht-degree: 83%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Die Rollen für Testsendungen werden in [!UICONTROL Schreibgeschützt]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27. Februar 2023 |
 | [Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24. Februar 2023 |
 | [Projekte: 504-Fehler in der Projektheader](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17. Februar 2023 |
 | [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16. Februar 2023 |

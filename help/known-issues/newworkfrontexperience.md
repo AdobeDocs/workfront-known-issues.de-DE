@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '573'
-ht-degree: 83%
+ht-degree: 93%
 
 ---
 
@@ -38,9 +38,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24. Februar 2023 |
-| [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen aus einem Portfolio oder Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
-| [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13. Februar 2023 |
+| [Aktualisierungen: Link zu einem Kommentar leitet zur Seite [!UICONTROL Details] weiter](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24. Februar 2023 |
+| [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
+| [Benutzende: Bei der erneuten Aktivierung eines/einer Benutzenden wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13. Februar 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 82%
+ht-degree: 92%
 
 ---
 
@@ -36,8 +36,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24. Februar 2023 |
-| [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“ error](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20. Januar 2023 |
+| [Aktualisierungen: Link zu einem Kommentar leitet zur Seite [!UICONTROL Details] weiter](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24. Februar 2023 |
+| [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20. Januar 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 

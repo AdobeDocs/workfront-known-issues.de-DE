@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
 source-wordcount: '1692'
-ht-degree: 70%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 _Updates_
 
-Wenn ein Benutzer einer Verknüpfung zu einem Kommentar zu einem Objekt in Workfront folgt, wird der Aktualisierungsstream kurz geladen und der Benutzer wird dann zum Objekt [!UICONTROL Details] Bereich. Dies kann vorkommen, wenn der Benutzer in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
+Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und der/die Benutzende wird dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn der/die Benutzende in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
 
 Dies betrifft derzeit nur Dokumentobjekte.
 
@@ -35,7 +35,7 @@ Dies betrifft derzeit nur Dokumentobjekte.
 
 _Benutzende_
 
-Wenn ein Benutzer mit [!UICONTROL Worker] -Lizenz versucht, ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, die [!UICONTROL Benachrichtigungen] -Optionen in der [!UICONTROL Bearbeiten] und der Benutzer die Einstellungen nicht bearbeiten kann.
+Wenn ein(e) Benutzende(r) mit der Lizenz [!UICONTROL Arbeitende(r)] versucht, seine/ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt und der/die Benutzende kann die Einstellungen nicht bearbeiten.
 
 +++
 
@@ -53,7 +53,7 @@ _Pinnwände_
 
 Die Falloff-Zeitlimits für die Karte wurden auf 8 Wochen/60 Tage statt auf 4 Wochen/30 Tage erhöht.
 
-**Die geplante Deaktivierung deaktiviert den Benutzer nicht**
+**Die geplante Deaktivierung deaktiviert Benutzende nicht**
 
 _Benutzende_
 
@@ -63,31 +63,31 @@ Wenn die Deaktivierung von Benutzenden geplant ist und das geplante Datum und di
 
 +++**Wartungs-Update vom 9. Februar 2023**
 
-**[!UICONTROL Story Points] Feld zu Aufgaben- und Problemlisten und Berichten hinzugefügt**
+Das Feld **[!UICONTROL Story-Punkte] wurde zu Aufgaben- und Problemlisten und Berichten hinzugefügt**
 
 _Berichte_
 
-Die [!UICONTROL Story Points] ist jetzt verfügbar, um Listen und Berichten für Aufgaben oder Probleme hinzuzufügen. Es handelt sich dabei um ein editierbares, freies Formularfeld, das nicht an geplante Stunden oder Teamzuweisungen gebunden ist.
+Das Feld [!UICONTROL Story-Punkte] kann jetzt zu Listen und Berichten für Aufgaben oder Probleme hinzugefügt werden. Es handelt sich dabei um ein editierbares, Freiform-Feld, das nicht an geplante Stunden oder Team-Arbeitsaufträge gebunden ist.
 
 +++
 
 +++**Wartungs-Update vom 8. Februar 2023**
 
-**Filterschaltfläche in Ansauspalte**
+**Filterschaltfläche in Aufnahmespalte**
 
 _Pinnwände_
 
-Die Aufnahmespalte auf einer Pinnwand enthält jetzt eine **[!UICONTROL Filter hinzufügen]** -Schaltfläche, wenn die Spalte leer ist und keine Filter erstellt wurden. Die Schaltfläche öffnet den Konfigurationsbereich, in dem Sie Filter hinzufügen können, um Aufgaben und Probleme in die Aufnahmespalte zu übernehmen.
+Wenn die Aufnahmespalte leer ist und keine Filter erstellt wurden, enthält die Aufnahmespalte auf einer Pinnwand jetzt die Schaltfläche **[!UICONTROL Filter hinzufügen]**. Die Schaltfläche öffnet den Konfigurationsbereich, in dem Sie Filter hinzufügen können, um Aufgaben und Probleme in die Aufnahmespalte zu übernehmen.
 
 +++
 
 +++**Wartungs-Update vom 2. Februar 2023**
 
-**[!UICONTROL Pinnwände] wird angezeigt in [!UICONTROL Hauptmenü] standardmäßig**
+Das Symbol **[!UICONTROL Pinnwände] wird standardmäßig im [!UICONTROL Hauptmenü] angezeigt**
 
 _Pinnwände_
 
-Die [!UICONTROL Pinnwände] wird nun im [!UICONTROL Hauptmenü] für Benutzer ohne Layoutvorlage. Pinnwände sind standardmäßig auch im Hauptmenü für alle neuen Layoutvorlagen enthalten, die erstellt werden. Bestehende Layoutvorlagen wurden nicht geändert.
+Für Benutzende, die keine Layout-Vorlage haben, wird das Symbol [!UICONTROL Pinnwände] jetzt im [!UICONTROL Hauptmenü] angezeigt. Pinnwände sind auch im Hauptmenü für alle neu erstellten Layout-Vorlagen standardmäßig enthalten. Bestehende Layout-Vorlagen wurden nicht geändert.
 
 **E-Mail-Vorlagen können nicht gespeichert werden**
 
@@ -101,21 +101,21 @@ Wenn Benutzende versuchen, eine E-Mail-Vorlage zu erstellen oder zu bearbeiten, 
 
 +++**Wartungs-Update vom 30. Januar 2023**
 
-**Tastaturbefehle für gängige Zeitblatt-Aktionen hinzugefügt**
+**Tastaturbefehle für häufige Aktionen in der Arbeitszeittabelle hinzugefügt**
 
 _Arbeitszeittabellen_
 
-Wir haben die folgenden Tastaturbefehle für die folgenden häufig durchgeführten Aktionen in einem Timesheet eingeführt:
+Wir haben für die folgenden häufig durchgeführten Aktionen in einer Arbeitszeittabelle die unten stehenden Tastaturbefehle eingeführt:
 
-* Zeile hinzufügen (Befehl+Option++/Strg+Option+++)
-* Löschen Sie die Zeile (Befehl+Option+-/Strg+Option+-)
-* Ein Arbeitselement fixieren oder aufheben (Option+P/Option+P)
+* Zeile hinzufügen (Befehl+Option++/Strg+Option++)
+* Zeile löschen (Befehl+Option+-/Strg+Option+-)
+* Ein Arbeitselement anheften oder loslösen (Option+P/Option+P)
 * Kommentar öffnen (Umschalt+F2/Umschalt+F2)
 * Kommentar speichern (Befehl+Eingabetaste/Strg+Eingabetaste)
 * Erweitern (Umschalt+Option+Nach-oben-Taste/Umschalt+Alt+Nach-oben-Taste)
-* Reduzieren (Umschalt+Option+Abwärtspfeil/Umschalt+Alt+Abwärtspfeil)
+* Reduzieren (Umschalt+Option+Nach-unten-Taste/Umschalt+Alt+Nach-unten-Taste)
 
-Der Bereich, in dem diese Aktionen ausgeführt werden, muss hervorgehoben werden, damit sie angewendet werden können.
+Der Bereich, an dem diese Aktionen ausgeführt werden, muss hervorgehoben werden, damit sie angewendet werden können.
 
 **Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
 
@@ -123,12 +123,12 @@ _Arbeitszeittabellen_
 
 >[!NOTE]
 >
->Dieses Update wurde nur am 3. November 2022 in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktion verfügbar.
+>Dieses Update wurde am 3. November 2022 nur in der Vorschau-Umgebung veröffentlicht und ist jetzt in der Produktionsumgebung verfügbar.
 
 Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
 
-* &quot;[!UICONTROL Kann die Zeit bearbeiten]&quot;bei der Erstellung oder Bearbeitung eines Timesheets oder eines Timesheet-Profils das Kontrollkästchen aktivieren, um anzugeben, dass Genehmiger bei Aktivierung auch das Timesheet senden, erneut öffnen oder bearbeiten können, es sei denn, Ihr Administrator beschränkt diese Aktionen im [!UICONTROL Voreinstellungen für das Datenblatt] Gebiet von [!UICONTROL Einrichtung].
-* &quot;[!UICONTROL Beschränken der Bearbeitung von Zeitblättern auf Eigentümer und Administratoren]&quot; in der [!UICONTROL Zeitblatt- und Stundeneinstellungen] Gebiet von [!UICONTROL Einrichtung] um anzugeben, dass die folgenden Benutzer bei Deaktivierung auch die Timesheets bearbeiten können: Benutzer mit administrativem Zugriff auf Timesheets und Stunden, Timesheet-Genehmiger zur Bearbeitung der Zeit und Timesheet-Manager.
+* Wenn das Kontrollkästchen „[!UICONTROL Kann die Zeit bearbeiten]“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, der Administrierende beschränkt diese Aktionen im Bereich „[!UICONTROL Arbeitszeittabellen-Voreinstellungen]“ im [!UICONTROL Setup].
+* Wenn die Option „[!UICONTROL Bearbeitung von Arbeitszeittabellen auf Inhaber und Administrierende beschränken]“ im Bereich [!UICONTROL Arbeitszeittabellen- und Stunden-Voreinstellungen] von „[!UICONTROL Setup]“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, Arbeitszeittabellen-Genehmiger, die die Zeit bearbeiten dürfen, und Arbeitszeittabellen-Besitzer und -Besitzerinnen mit Verwaltungsrechten.
 
 Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
 

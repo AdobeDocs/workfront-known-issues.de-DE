@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '1115'
-ht-degree: 85%
+ht-degree: 96%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 85%
       + [Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projekte: 504-Fehler in der Projektheader](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
-      + [Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [Aktualisierungen: Link zu einem Kommentar, der zu [!UICONTROL Details] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [Benutzer: Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [Benutzende: Bei der erneuten Aktivierung eines/einer Benutzenden wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [Aktualisierungen: Link zu einem Kommentar leitet zur Seite [!UICONTROL Details] weiter](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [Benutzende: Benutzende können nicht ihre eigenen Benachrichtigungseinstellungen bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [Lastenausgleich: Ungenaue Ergebnisse bei Verwendung mehrerer Filter gleichzeitig](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Gruppen: Untergruppen erhalten keine Benachrichtigungen basierend auf den Einstellungen für Gruppenereignis-Benachrichtigungen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
-      + [Dokumente: Das Zusammenfassungsfenster kehrt beim Klicken auf das Menü mit drei Punkten nach oben zurück](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [Dokumente: Fehler &quot;Diese Seite ist nicht vorhanden&quot;beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [Projekte: Aus einem Problem konvertiertes Projekt erbt keine Berechtigungen aus einem Portfolio oder Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL Einrichtung]: Auditprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL Zusammenfassung]: Bildlauf nicht möglich [!UICONTROL Zusammenfassung] panel](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [Dokumente: Fehler &quot;Ungültige Antwort&quot;beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [Lastenausgleich: falsche Ergebnisse bei der gleichzeitigen Verwendung mehrerer Filter](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [Gruppen: Untergruppen erhalten keine Benachrichtigungen entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen.](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Dokumente: Das Zusammenfassungsfenster bewegt sich beim Klicken auf das Dreipunkt-Menü wieder nach oben](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [Dokumente: Fehler „Diese Seite existiert nicht“ beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Setup]: Administratorprotokolle werden nicht exportiert](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Zusammenfassung]: Bedienfeld [!UICONTROL Zusammenfassung] kann nicht gescrollt werden](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Dokumente: Fehler „Ungültige Antwort“ beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Benutzende: Die geplante Deaktivierung deaktiviert Benutzende nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Benutzende: Benutzende können keine eigenen Benutzereinstellungen bearbeiten](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)

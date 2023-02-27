@@ -3,9 +3,9 @@ title: '„Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden�
 description: „Wenn Benutzende versuchen, ein zuvor gelöschtes Dokument wiederherzustellen, können sie das Dokument nicht wiederherstellen und sehen den Hoppla-Fehler.“
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 

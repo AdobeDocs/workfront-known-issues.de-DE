@@ -1,22 +1,22 @@
 ---
-title: "Benutzer: Die Zugriffsebene wird beim erneuten Aktivieren des Benutzers nicht zugewiesen."
-description: '"Wenn ein Benutzer einen deaktivierten Benutzer reaktiviert und versucht, ihm im Fenster "Benutzer reaktivieren"eine Zugriffsebene zuzuweisen, wird das Dropdown-Menü für die Zugriffsebene nicht so angezeigt, wie der Benutzer es eingibt, und der Benutzer kann keine Zugriffsebene auswählen. Wenn der Benutzer die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem reaktivierten Benutzer nicht zugewiesen."'
+title: '„Benutzende: Bei der erneuten Aktivierung eines/einer Benutzenden wird keine Zugriffsebene zugewiesen“'
+description: „Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert und versucht, ihm/ihr im Fenster ‚Benutzer erneut aktivieren‘ eine Zugriffsebene zuzuweisen, wird das Zugriffsebenen-Dropdown-Menü nicht entsprechend der Eingabe der/des Benutzenden angezeigt und der/die Benutzende kann keine Zugriffsebene auswählen. Wenn der/die Benutzende die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem/der erneut aktivierten Benutzenden nicht zugewiesen.“
 hidefromtoc: true
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Benutzer: Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen
+# Benutzende: Bei der erneuten Aktivierung eines/einer Benutzenden wird keine Zugriffsebene zugewiesen
 
-Wenn ein Benutzer einen deaktivierten Benutzer reaktiviert und versucht, ihm eine Zugriffsstufe in der [!UICONTROL Benutzer erneut aktivieren] -Fenster angezeigt wird, wird das Dropdown-Menü für die Zugriffsebene nicht so angezeigt, wie der Benutzer es eingibt, und der Benutzer kann keine Zugriffsebene auswählen. Wenn der Benutzer die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem reaktivierten Benutzer nicht zugewiesen.
+Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert und versucht, ihm/ihr im Fenster [!UICONTROL Benutzer erneut aktivieren] eine Zugriffsebene zuzuweisen, wird das Zugriffsebenen-Dropdown-Menü nicht entsprechend der Eingabe der/des Benutzenden angezeigt und der/die Benutzende kann keine Zugriffsebene auswählen. Wenn der/die Benutzende die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem/der erneut aktivierten Benutzenden nicht zugewiesen.
 
 **Problemumgehung**
 
-Reaktivieren Sie den Benutzer und weisen Sie dann die Zugriffsebene im [!UICONTROL Person bearbeiten] Fenster.
+Aktivieren Sie den Benutzer erneut und weisen Sie dann die Zugriffsebene im Fenster [!UICONTROL Person bearbeiten] zu.
 
 _Erste Meldung am 9. Februar 2023._
 

@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1692'
-ht-degree: 96%
+source-wordcount: '1870'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,34 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im März 2023
+
++++**(Geplant) Aktualisierung der Wartung am 2. März 2023**
+
+**Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden**
+
+_Pinnwände_
+
+Wenn ein Benutzer eine Pinnwand anzeigt, für die eine Gruppierung gilt, und versucht, eine Karte hinzuzufügen, kann der Benutzer nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der [!UICONTROL Speichern] Schaltfläche.
+
+Wenn der Benutzer die Gruppierung in [!UICONTROL Keines], bleibt das Problem bestehen. Der Benutzer muss die Gruppierung in [!UICONTROL Keines] und aktualisieren Sie dann die Seite, um die Möglichkeit wiederherzustellen, eine Karte hinzuzufügen.
+
+**Link zu einem Kommentar, der zu [!UICONTROL Details] page**
+
+_Updates_
+
+Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und der/die Benutzende wird dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn der/die Benutzende in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
+
+Dies betrifft derzeit nur Dokumentobjekte.
+
+**Druckzusammenfassung wird nicht geladen**
+
+_[!UICONTROL Workfront-Korrekturabzug]_
+
+Wenn ein Benutzer versucht, die Seite &quot;Druckzusammenfassung&quot;zu laden, scheint die Seite zu laden, wird sie jedoch nie geladen.
+
++++
 
 ## Updates im Februar 2023
 

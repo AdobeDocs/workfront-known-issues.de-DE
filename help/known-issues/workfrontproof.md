@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 89%
+source-wordcount: '285'
+ht-degree: 87%
 
 ---
 
@@ -49,6 +49,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports] -Bereich wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1. März 2023 |
 | [Testsendungen: Der Benutzer erhält keine E-Mail, wenn er in einem Testkommentar getaggt wurde](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23. Februar 2023 |
 | [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann.](known-issues-workfront-proof/proof-new-stage-created.md) | 2. Februar 2023 |
 | [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) hängen | 10. Januar 2023 |

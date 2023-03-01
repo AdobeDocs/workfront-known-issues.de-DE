@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 95%
+source-wordcount: '1135'
+ht-degree: 94%
 
 ---
 
@@ -122,6 +122,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: [!UICONTROL Berichte] -Bereich wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] lädt nicht](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Testsendungen: Der Benutzer erhält keine E-Mail, wenn er in einem Testkommentar getaggt wurde](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann.](known-issues-workfront-proof/proof-new-stage-created.md)

@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 2. März 2023**
++++**Wartungs-Update vom 2. März 2023**
 
 **Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden**
 
@@ -30,6 +30,13 @@ _Pinnwände_
 Wenn ein Benutzer eine Pinnwand anzeigt, für die eine Gruppierung gilt, und versucht, eine Karte hinzuzufügen, kann der Benutzer nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der [!UICONTROL Speichern] Schaltfläche.
 
 Wenn der Benutzer die Gruppierung in [!UICONTROL Keines], bleibt das Problem bestehen. Der Benutzer muss die Gruppierung in [!UICONTROL Keines] und aktualisieren Sie dann die Seite, um die Möglichkeit wiederherzustellen, eine Karte hinzuzufügen.
+
+**Verbundene Karten werden nicht zu Spalten basierend auf dem Status hinzugefügt**
+
+_Pinnwände_
+
+Obwohl Spaltenrichtlinien auf den Status angewendet werden, werden neue verbundene Karten in der Spalte ganz links und nicht in der Spalte angezeigt, die ihrem Status entspricht.
+
 
 **Link zu einem Kommentar, der zu [!UICONTROL Details] page**
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Testsendungen: Benutzer oder Gruppe kann nicht zum Testversand-Workflow hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Testsendungen: Die Rollen für Testsendungen werden in [!UICONTROL Schreibgeschützt]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
@@ -145,6 +146,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Der Ausführungsverlauf des Szenarios zeigt nicht den gesamten Verlauf an](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Zeitüberschreitungsfehler in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: 404-Fehler in Workfront-Modulen](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu [!DNL Google] hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)

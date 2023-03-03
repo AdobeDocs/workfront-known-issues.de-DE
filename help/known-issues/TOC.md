@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 91%
+source-wordcount: '1192'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Timesheets: [!UICONTROL Stündentyp] Dropdown-Liste wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Dokumente: [!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Testsendungen: Benutzer oder Gruppe kann nicht zum Testversand-Workflow hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Testsendungen: Die Rollen für Testsendungen werden in [!UICONTROL Schreibgeschützt]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)

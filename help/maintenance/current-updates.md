@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1979'
+ht-degree: 88%
 
 ---
 
@@ -20,6 +20,16 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im März 2023
+
++++**(Geplant) Aktualisierung der Wartung am 9. März 2023**
+
+**Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen**
+
+_Benutzende_
+
+Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert und versucht, ihm/ihr im Fenster [!UICONTROL Benutzer erneut aktivieren] eine Zugriffsebene zuzuweisen, wird das Zugriffsebenen-Dropdown-Menü nicht entsprechend der Eingabe der/des Benutzenden angezeigt und der/die Benutzende kann keine Zugriffsebene auswählen. Wenn der/die Benutzende die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem/der erneut aktivierten Benutzenden nicht zugewiesen.
+
++++
 
 +++**Wartungs-Update vom 2. März 2023**
 

@@ -2,10 +2,10 @@
 title: '„Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird“'
 description: „Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. “
 hidefromtoc: true
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 05592905aecebd7c6f99f4ffa7513630baae5692
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 57%
 
 ---
 
@@ -23,6 +23,8 @@ Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt d
 1. Entfernen Sie geerbte Berechtigungen aus der Freigabeliste des übergeordneten Objekts, indem Sie auf das &quot;x&quot;neben den geerbten Berechtigungen klicken, und klicken Sie dann auf **[!UICONTROL Speichern]**.
 
 1. Ererbte Berechtigungen erneut hinzufügen, indem Sie zurück zur Freigabeliste des übergeordneten Objekts navigieren und auf **[!UICONTROL Rückgängig]** neben den geerbten Berechtigungen klicken Sie dann auf **[!UICONTROL Speichern]**.
+
+Alternativ können Sie sich die ID des Dokuments (in der URL der Dokumentdetailseite) notieren und sich an den Workfront-Support wenden.
 
 _Erste Meldung am 6. Januar 2023._
 

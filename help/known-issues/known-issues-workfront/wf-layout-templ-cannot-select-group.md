@@ -4,9 +4,9 @@ description: Wenn ein(e) Benutzende(r), der/die gleichzeitig ein(e) Gruppenadmin
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '169'
+ht-degree: 100%
 
 ---
 

@@ -4,9 +4,9 @@ description: Wenn ein(e) Benutzende(r) einen Ausführungsverlauf eines Szenarios
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 

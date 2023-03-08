@@ -1,22 +1,26 @@
 ---
-title: "Integrationen: Fehler bei der Anmeldung bei Workfront von Jira"
-description: "Wenn ein Benutzer mithilfe der Workfront for Jira-Integration versucht, sich von Jira aus bei Workfront anzumelden, wird die Seite nicht geladen, und der Benutzer sieht einen Fehler."
+title: '„Integrationen: Fehler bei der Anmeldung bei Workfront von Jira“'
+description: „Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, sich von Jira aus bei Workfront anzumelden, wird die Seite nicht geladen und sie sehen einen Fehler.“
 hidefromtoc: true
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 94%
 
 ---
 
 
 # Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]
 
-Wenn ein Benutzer versucht, sich bei [!DNL Workfront] von [!DNL Jira] Bei Verwendung der Workfront for Jira-Integration wird die Seite nicht geladen und der Benutzer sieht den folgenden Fehler:
+>[!NOTE]
+>
+>Dieses Problem wurde am 8. März behoben. 2023.
 
-[!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Bad Request&quot;,&quot;message&quot;:&quot;Kann kein klassisches JWT validieren.&quot;]
+Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, sich von [!DNL Jira] aus bei [!DNL Workfront] anzumelden, wird die Seite nicht geladen und sie sehen den folgenden Fehler:
 
-Der Benutzer kann sich nicht bei [!DNL Workfront].
+[!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Fehlerhafte Anfrage&quot;,&quot;message&quot;:&quot;Kann kein Atlassian JWT validieren.&quot;]
+
+Benutzende können sich nicht bei [!DNL Workfront] anmelden.
 
 _Erste Meldung am 24. Februar 2023._
 

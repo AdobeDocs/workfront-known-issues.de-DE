@@ -3,7 +3,7 @@ title: '„Benutzende: Benutzende können nicht ihre eigenen Benachrichtigungsei
 description: „Wenn ein(e) Benutzende(r) mit der Lizenz [!UICONTROL Arbeitende(r)] versucht, seine/ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt und der/die Benutzende kann die Einstellungen nicht bearbeiten.“
 hidefromtoc: true
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 

@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 90%
       + [Dokumente: [!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Testsendungen: Benutzer oder Gruppe kann nicht zum Testversand-Workflow hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [Testsendungen: Die Rollen für Testsendungen werden in [!UICONTROL Schreibgeschützt]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
-      + [Projekte: 504-Fehler in der Projektheader](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Pinnwände]: Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [Korrekturabzüge: Korrekturabzug-Rollen werden in [!UICONTROL Schreibgeschützt] geändert](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [Integrationen: Fehler bei der Anmeldung bei  [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Projekte: 504-Fehler im Projekt-Header](known-issues-workfront/wf-projects-504-error-in-project-header.md)
+      + [[!UICONTROL Pinnwände]: Bei angewendeter Gruppierung können keine Karten hinzugefügt werden](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Benutzende: Bei der erneuten Aktivierung eines/einer Benutzenden wird keine Zugriffsebene zugewiesen](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aktualisierungen: Link zu einem Kommentar leitet zur Seite [!UICONTROL Details] weiter](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Benutzende: Benutzende können nicht ihre eigenen Benachrichtigungseinstellungen bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -88,8 +88,8 @@ ht-degree: 90%
       + [Benutzerdefinierte Formulare: Fehler „Hoppla“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Korrekturabzüge: Durch Hinzufügen einer Gruppe zu einem Korrekturabzug werden nicht alle Mitglieder der Gruppe hinzugefügt](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
-      + [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
-      + [„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer“](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
+      + [Aufgaben: Stunden werden beim Eingeben von Stunden im [!UICONTROL Zusammenfassungsfeld] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Integrationen: 404-Fehler beim Hinzufügen eines Dokuments über die  [!DNL SharePoint] [!UICONTROL (Graph-API)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrationen:  [!DNL SharePoint] -Ordner wird für Ordnerinhaber nicht angezeigt](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Integrationen: Fehler beim Senden einer Anfrage über  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
@@ -129,15 +129,15 @@ ht-degree: 90%
       + [[!DNL Workfront Proof]: Der Testversand wird bei Verwendung von nicht geladen.[!UICONTROL Testversand durchführen]&quot;-Schaltfläche in E-Mail-Benachrichtigung](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Berichte] -Bereich wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] lädt nicht](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Testsendungen: Der Benutzer erhält keine E-Mail, wenn er in einem Testkommentar getaggt wurde](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [Korrekturabzüge: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Korrekturabzüge: Die Druckzusammenfassung zeigt nicht alle Seiten des Korrekturabzugs an](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [Korrekturabzüge: Fehler beim Hinzufügen eines Korrekturabzugs zu  [!DNL Workfront] von  [!DNL Workfront] -Korrekturabzug](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Korrekturabzüge: Fehler beim Hinzufügen eines Korrekturabzugs zu  [!DNL Workfront] aus einem [!DNL Workfront] -Korrekturabzug](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: E-Mails mit täglicher Korrekturabzugs-Zusammenfassung enthalten keine Schaltfläche „Details anzeigen“](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof]: Korrekturabzugs-Administrator bzw. -Administratorin hat eingeschränkte Berechtigungen für einen Korrekturabzug](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [Benutzende(r) kann nicht zum Korrekturabzug hinzugefügt werden, indem er/sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md)
+      + [Benutzende können nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt werden](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Der automatische Zugriff auf Korrekturabzüge wird verzögert](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [Für den Bericht zu [!UICONTROL Korrekturabzugs-Genehmigungen] können keine korrekten Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -156,7 +156,7 @@ ht-degree: 90%
       + [[!DNL Workfront Fusion]: Es kann keine Verbindung zu [!DNL Google] hergestellt werden](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: Array-Elemente im [!UICONTROL Iterator]-Modul werden als [!UICONTROL Objekt ‚Objekt‘] angezeigt](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]:  [!DNL Workfront] >[!UICONTROL Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

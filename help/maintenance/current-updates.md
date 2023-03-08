@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '1979'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -37,9 +37,9 @@ Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert
 
 _Pinnwände_
 
-Wenn ein Benutzer eine Pinnwand anzeigt, für die eine Gruppierung gilt, und versucht, eine Karte hinzuzufügen, kann der Benutzer nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der [!UICONTROL Speichern] Schaltfläche.
+Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuchen, eine Karte hinzuzufügen, können sie nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche [!UICONTROL Speichern].
 
-Wenn der Benutzer die Gruppierung in [!UICONTROL Keines], bleibt das Problem bestehen. Der Benutzer muss die Gruppierung in [!UICONTROL Keines] und aktualisieren Sie dann die Seite, um die Möglichkeit wiederherzustellen, eine Karte hinzuzufügen.
+Wenn Benutzende die Gruppierung in [!UICONTROL Keine] ändern, bleibt das Problem bestehen. Benutzende müssen die Gruppierung in [!UICONTROL Keine] ändern und die Seite aktualisieren, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
 
 **Verbundene Karten werden nicht zu Spalten basierend auf dem Status hinzugefügt**
 
@@ -48,7 +48,7 @@ _Pinnwände_
 Obwohl Spaltenrichtlinien auf den Status angewendet werden, werden neue verbundene Karten in der Spalte ganz links und nicht in der Spalte angezeigt, die ihrem Status entspricht.
 
 
-**Link zu einem Kommentar, der zu [!UICONTROL Details] page**
+**Link zu einem Kommentar leitet auf die Seite [!UICONTROL Details] um**
 
 _Updates_
 
@@ -68,7 +68,7 @@ Wenn ein Benutzer versucht, die Seite &quot;Druckzusammenfassung&quot;zu laden, 
 
 +++**Wartungs-Update vom 23. Februar 2023**
 
-**Link zu einem Kommentar, der zu [!UICONTROL Details] page**
+**Link zu einem Kommentar leitet auf die Seite [!UICONTROL Details] um**
 
 _Updates_
 
@@ -76,27 +76,27 @@ Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein 
 
 Dies betrifft derzeit nur Dokumentobjekte.
 
-**Benutzer können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten**
+**Benutzende können ihre eigenen Benachrichtigungseinstellungen nicht bearbeiten**
 
 _Benutzende_
 
-Wenn ein(e) Benutzende(r) mit der Lizenz [!UICONTROL Arbeitende(r)] versucht, seine/ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt und der/die Benutzende kann die Einstellungen nicht bearbeiten.
+Wenn Benutzende mit der Lizenz [!UICONTROL Arbeitskraft] versuchten, ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt und die Benutzenden können die Einstellungen nicht bearbeiten.
 
 +++
 
 +++**Wartungs-Update vom 16. Februar 2023**
 
-**Mehrere Teamzuweisungen auf Pinnwänden**
+**Mehrere Team-Zuweisungen auf Pinnwänden**
 
 _Pinnwände_
 
-Sie können jetzt mehrere Teams einer Aufgabe oder einem Problem in einer Pinnwand und der Pinnwand selbst zuweisen.
+Sie können jetzt mehrere Teams einer Aufgabe oder einem Problem auf einer Pinnwand und der Pinnwand selbst zuweisen.
 
-**Erhöhung der Kartenabsturzgrenze**
+**Erhöhung des Limits für die Verringerung von Karten**
 
 _Pinnwände_
 
-Die Falloff-Zeitlimits für die Karte wurden auf 8 Wochen/60 Tage statt auf 4 Wochen/30 Tage erhöht.
+Die Limits für die Verringerung von Karten wurden von 4 Wochen/30 Tage auf 8 Wochen/60 Tage erhöht.
 
 **Die geplante Deaktivierung deaktiviert Benutzende nicht**
 
@@ -142,7 +142,7 @@ Wenn Benutzende versuchen, eine E-Mail-Vorlage zu erstellen oder zu bearbeiten, 
 
 +++
 
-## Aktualisierungen im Januar 2023
+## Updates im Januar 2023
 
 +++**Wartungs-Update vom 30. Januar 2023**
 

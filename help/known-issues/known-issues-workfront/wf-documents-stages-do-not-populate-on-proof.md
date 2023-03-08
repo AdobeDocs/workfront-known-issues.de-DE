@@ -3,7 +3,7 @@ title: '„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugsschritte
 description: Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt und diesen dann in einem Bericht anzeigt, wie z. B. in einem Bericht zur [!UICONTROL Dokumentversion] oder zur [!UICONTROL Korrekturabzugsgenehmigung], ist das Feld [!UICONTROL Aktive Korrekturabzugsschritte] leer. Dies tritt auf, wenn der Korrekturabzug nach dem Hochladen des Dokuments erstellt wird, und zwar entweder als [!UICONTROL einfacher Korrekturabzug] oder [!UICONTROL erweiterter Korrekturabzug] mit einem [!UICONTROL einfachen Workflow].
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 

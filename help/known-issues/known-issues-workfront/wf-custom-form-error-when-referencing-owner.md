@@ -3,9 +3,9 @@ title: 'Benutzerdefinierte Formulare: Meldung „Ungültiger benutzerdefinierter
 description: '„Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen Inhaber hinzuzufügen (z. B. „ownerID“), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt: Dies ist ein ungültiger Ausdruck. Versuchen Sie es erneut.“'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
-source-wordcount: '157'
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+workflow-type: tm+mt
+source-wordcount: '135'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde am 9. März 2023 behoben.
 
 <!--
 >[!NOTE]

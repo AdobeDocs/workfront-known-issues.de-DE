@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
+source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
 workflow-type: tm+mt
-source-wordcount: '2193'
-ht-degree: 87%
+source-wordcount: '2194'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2023
 
-+++**Wartungs-Update vom 16. März 2023**
++++**(Geplant) Aktualisierung der Wartung am 16. März 2023**
 
 **[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
 

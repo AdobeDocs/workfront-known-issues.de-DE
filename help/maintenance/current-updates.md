@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 86%
+source-wordcount: '2223'
+ht-degree: 85%
 
 ---
 
@@ -22,6 +22,12 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 ## Updates im März 2023
 
 +++**(Geplant) Aktualisierung der Wartung am 16. März 2023**
+
+**Beim Kopieren einer Karte nicht kopierte Checklisten-Elemente**
+
+_Pinnwände_
+
+Beim Kopieren einer Ad-hoc-Karte (verbundene Karten können nicht kopiert werden) werden die Elemente der Checkliste nicht in die neue Karte kopiert.
 
 **[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
 

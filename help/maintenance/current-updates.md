@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '2025'
-ht-degree: 94%
+source-wordcount: '2193'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,28 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im März 2023
+
++++**Wartungs-Update vom 16. März 2023**
+
+**[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
+
+_Dokumente_
+
+Wenn ein Benutzer die [!UICONTROL Zusammenfassung] -Bedienfeld für ein Dokument verwenden, sind die Inhalte zu breit, um sie im Bedienfeld sehen zu können. Der Bereich verfügt jetzt über eine horizontale Bildlaufleiste und der Benutzer muss horizontal scrollen, um die [!UICONTROL Zusammenfassung] Bedienfeldinhalte. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Datei beschränkt, in der der Dateiname eine HTML-Dateierweiterung aufweist.
+
+**Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird**
+
+_Projekte_
+
+Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, wird ein benutzerdefiniertes Feld, das sich auf das Problem bezog, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Administratoren.
+
+**Benutzerdefinierte Nachrichten werden nicht in E-Mail-Benachrichtigungen angezeigt**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer einen Testversand teilt und eine benutzerdefinierte Nachricht hinzufügt, wird diese benutzerdefinierte Nachricht nicht in der Benachrichtigungs-E-Mail an den Empfänger angezeigt. Betreff ist der Testversand-Name und die Nachricht wird nicht in der E-Mail angezeigt.
+
++++
 
 +++**Wartungs-Update vom 9. März 2023**
 

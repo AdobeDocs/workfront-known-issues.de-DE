@@ -2,15 +2,19 @@
 title: "Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird."
 description: "Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, wird ein benutzerdefiniertes Feld, das sich auf das Problem bezog, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Administratoren."
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
 
 # Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 16. März 2023 behoben.
 
 Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, wird ein benutzerdefiniertes Feld, das sich auf das Problem bezog, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Administratoren.
 

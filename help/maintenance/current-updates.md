@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '2148'
+ht-degree: 88%
 
 ---
 
@@ -28,12 +28,6 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 _Pinnwände_
 
 Beim Kopieren einer Ad-hoc-Karte (verbundene Karten können nicht kopiert werden) werden die Elemente der Checkliste nicht in die neue Karte kopiert.
-
-**[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
-
-_Dokumente_
-
-Wenn ein Benutzer die [!UICONTROL Zusammenfassung] -Bedienfeld für ein Dokument verwenden, sind die Inhalte zu breit, um sie im Bedienfeld sehen zu können. Der Bereich verfügt jetzt über eine horizontale Bildlaufleiste und der Benutzer muss horizontal scrollen, um die [!UICONTROL Zusammenfassung] Bedienfeldinhalte. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Datei beschränkt, in der der Dateiname eine HTML-Dateierweiterung aufweist.
 
 **Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird**
 

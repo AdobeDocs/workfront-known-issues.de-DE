@@ -1,15 +1,19 @@
 ---
 title: '„Projekte: 504-Fehler im Projekt-Header“'
 description: „Wenn Benutzende ein Projekt anzeigen, enthält der Projekt-Header weder Namen noch Daten. Stattdessen wird den Benutzenden ein Fehler angezeigt.“
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 
 # Projekte: 504-Fehler im Projekt-Header
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 Wenn Benutzende ein Projekt anzeigen, enthält der Projekt-Header weder Namen noch Daten. Stattdessen wird den Benutzenden ein Fehler ähnlich dem folgenden angezeigt:
 

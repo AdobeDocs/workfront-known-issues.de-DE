@@ -3,7 +3,7 @@ title: '„Aktualisierungen: Link zu einem Kommentar leitet zur Seite Details we
 description: „Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und der/die Benutzende wird dann zum Bereich ‚Details‘ des Objekts weitergeleitet. Dies kann vorkommen, wenn der/die Benutzende in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.“
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 

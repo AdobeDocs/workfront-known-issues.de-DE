@@ -3,7 +3,7 @@ title: '„Pinnwände: Bei angewendeter Gruppierung können keine Karten hinzuge
 description: „Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuchen, eine Karte hinzuzufügen, können sie nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche „Speichern“.“
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 

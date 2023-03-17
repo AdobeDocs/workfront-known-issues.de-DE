@@ -3,9 +3,9 @@ title: '„Integrationen: Fehler bei der Anmeldung bei Workfront von Jira“'
 description: „Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, sich von Jira aus bei Workfront anzumelden, wird die Seite nicht geladen und sie sehen einen Fehler.“
 hidefromtoc: true
 source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

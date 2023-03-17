@@ -3,7 +3,7 @@ title: '„Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwe
 description: '„Wenn ein(e) Benutzende(r) einen berechneten Feldausdruck erstellt und versucht, ein Feld mit automatischer Textvervollständigung einzubeziehen, das einen Namen mit einem Apostroph oder Anführungszeichen enthält, wird die Berechnung nicht akzeptiert und folgende Fehlermeldung wird angezeigt: Dies ist ein ungültiger benutzerdefinierter Ausdruck. Versuchen Sie es erneut.“'
 hidefromtoc: true
 source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 

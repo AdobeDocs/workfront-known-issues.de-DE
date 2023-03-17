@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 86%
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Timesheets: [!UICONTROL Stündentyp] Dropdown-Liste wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16. März 2023 |
+| [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16. März 2023 |
 | [[!UICONTROL Lastenausgleich]: Stunden werden nicht an die Benutzerzeit angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13. März 2023 |
 | [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10. März 2023 |
 
@@ -38,7 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | -----------------------------------------------------------------| ----------------- |
 | [Berichte: Bei der Sortierung nach Spaltenüberschrift wird die vorherige Sortierung zurückgesetzt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16. März 2023 |
 | [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16. März 2023 |
-| [Dokumente: [!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3. März 2023 |
+| [Dokumente: Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3. März 2023 |
 | [Projekte: Aus einem Problem konvertiertes Projekt übernimmt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
@@ -50,7 +50,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Timesheets: [!UICONTROL Stündentyp] Dropdown-Liste wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9. März 2023 |
+| [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 9. März 2023 |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7. März 2023 |
 | [Integrationen:  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) kann nicht geöffnet werden | 24. Februar 2023 |
 | [Korrekturabzug: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23. Februar 2023 |

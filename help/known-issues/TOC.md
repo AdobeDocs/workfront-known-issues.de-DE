@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
 source-wordcount: '1239'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 89%
       + [[!UICONTROL Lastenausgleich]: Stunden werden nicht an die Benutzerzeit angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird die vorherige Sortierung zurückgesetzt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Timesheets: [!UICONTROL Stündentyp] Dropdown-Liste wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [Dokumente: [!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Dokumente: Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [Testsendungen: Benutzer oder Gruppe kann nicht zum Testversand-Workflow hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Korrekturabzüge: Benutzerin bzw. Benutzer oder Gruppe kann nicht zum Arbeitsablauf für Korrekturabzüge hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Korrekturabzüge: Korrekturabzug-Rollen werden in [!UICONTROL Schreibgeschützt] geändert](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrationen: Fehler bei der Anmeldung bei  [!DNL Workfront] von [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Projekte: 504-Fehler im Projekt-Header](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -130,10 +130,10 @@ ht-degree: 89%
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
-      + [Testsendungen: Benutzerdefinierte Nachrichten werden nicht in E-Mail-Benachrichtigungen angezeigt](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: Der Testversand wird bei Verwendung von nicht geladen.[!UICONTROL Testversand durchführen]&quot;-Schaltfläche in E-Mail-Benachrichtigung](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Berichte] -Bereich wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] lädt nicht](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [Korrekturabzüge: Benutzerdefinierte Nachrichten werden in E-Mail-Benachrichtigungen nicht angezeigt](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [[!DNL Workfront Proof]: Korrekturabzug wird nicht geladen, wenn die Schaltfläche [!UICONTROL Zum Korrekturabzug gehen] in der E-Mail-Benachrichtigung verwendet wird](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]: Der Bereich [!UICONTROL Berichte] wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] wird nicht geladen](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Korrekturabzüge: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann.](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)

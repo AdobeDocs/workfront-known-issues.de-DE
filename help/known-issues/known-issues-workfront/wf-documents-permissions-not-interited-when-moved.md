@@ -4,8 +4,8 @@ description: „Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt ve
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 87%
 
 ---
 
@@ -22,9 +22,9 @@ Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt d
 
 1. Navigieren Sie zum übergeordneten Objekt des Dokuments, z. B. Projekt, Aufgabe oder Problem.
 
-1. Entfernen Sie geerbte Berechtigungen aus der Freigabeliste des übergeordneten Objekts, indem Sie auf das &quot;x&quot;neben den geerbten Berechtigungen klicken, und klicken Sie dann auf **[!UICONTROL Speichern]**.
+1. Entfernen Sie geerbte Berechtigungen aus der Freigabeliste des übergeordneten Objekts, indem Sie auf das „x“ neben den geerbten Berechtigungen und dann auf **[!UICONTROL Speichern]** klicken.
 
-1. Ererbte Berechtigungen erneut hinzufügen, indem Sie zurück zur Freigabeliste des übergeordneten Objekts navigieren und auf **[!UICONTROL Rückgängig]** neben den geerbten Berechtigungen klicken Sie dann auf **[!UICONTROL Speichern]**.
+1. Fügen Sie geerbte Berechtigungen erneut hinzu, indem Sie zurück zur Freigabeliste des übergeordneten Objekts navigieren, auf **[!UICONTROL Rückgängig]** neben den geerbten Berechtigungen und dann auf **[!UICONTROL Speichern]** klicken.
 
 Alternativ können Sie die Kennung des Dokuments (in der URL des [!UICONTROL Dokumentdetails] Seite) und Kontakt [!DNL Workfront] Kundensupport.
 

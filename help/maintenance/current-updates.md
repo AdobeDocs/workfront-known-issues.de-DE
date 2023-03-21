@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 88%
+source-wordcount: '2227'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,17 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 16. März 2023**
++++**(Geplantes) Wartungs-Update vom 23. März 2023**
+
+**[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
+
+_Dokumente_
+
+Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Der Bereich verfügt jetzt über eine horizontale Bildlaufleiste und der Benutzer muss horizontal scrollen, um die [!UICONTROL Zusammenfassung] Bedienfeldinhalte. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
+
++++
+
++++**Wartungs-Update vom 16. März 2023**
 
 **Beim Kopieren einer Karte nicht kopierte Checklisten-Elemente**
 
@@ -33,19 +43,19 @@ Beim Kopieren einer Ad-hoc-Karte (verbundene Karten können nicht kopiert werden
 
 _Projekte_
 
-Wenn ein Benutzer ein Problem mithilfe einer Vorlage in ein Projekt konvertiert, wird ein benutzerdefiniertes Feld, das sich auf das Problem bezog, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Administratoren.
+Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird, wird ein benutzerdefiniertes Feld, das zum Problem gehörte, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Admins.
 
 **Benutzerdefinierte Nachrichten werden nicht in E-Mail-Benachrichtigungen angezeigt**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer einen Testversand teilt und eine benutzerdefinierte Nachricht hinzufügt, wird diese benutzerdefinierte Nachricht nicht in der Benachrichtigungs-E-Mail an den Empfänger angezeigt. Betreff ist der Testversand-Name und die Nachricht wird nicht in der E-Mail angezeigt.
+Wenn ein Korrekturabzug freigegeben und ihm eine benutzerdefinierte Nachricht hinzufügt wird, wird diese benutzerdefinierte Nachricht nicht in der Benachrichtigungs-E-Mail an die Empfängerin bzw. den Empfänger angezeigt. Der Betreff ist der Name des Korrekturabzugs, und die Nachricht wird nicht in der E-Mail angezeigt.
 
 +++
 
 +++**Wartungs-Update vom 9. März 2023**
 
-**Bei der erneuten Aktivierung des Benutzers wird keine Zugriffsebene zugewiesen**
+**Zugriffsebene wird beim Reaktivieren der bzw. des Benutzenden nicht zugewiesen**
 
 _Benutzende_
 
@@ -61,7 +71,7 @@ Wenn Sie jetzt von der [!UICONTROL Updates] -Seite eines Ziels während der Erst
 
 +++**Wartungs-Update vom 2. März 2023**
 
-**Bei Anwendung der Gruppierung können keine Karten hinzugefügt werden**
+**Bei angewendeter Gruppierung können keine Karten hinzugefügt werden**
 
 _Pinnwände_
 
@@ -69,11 +79,11 @@ Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuche
 
 Wenn Benutzende die Gruppierung in [!UICONTROL Keine] ändern, bleibt das Problem bestehen. Benutzende müssen die Gruppierung in [!UICONTROL Keine] ändern und die Seite aktualisieren, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
 
-**Verbundene Karten werden nicht zu Spalten basierend auf dem Status hinzugefügt**
+**Verbundene Karten werden nicht nach Status zu Spalten hinzugefügt**
 
 _Pinnwände_
 
-Obwohl Spaltenrichtlinien auf den Status angewendet werden, werden neue verbundene Karten in der Spalte ganz links und nicht in der Spalte angezeigt, die ihrem Status entspricht.
+Obwohl Spaltenrichtlinien auf den Status angewendet werden, erscheinen neue verbundene Karten in der Spalte ganz links und nicht in der Spalte, die ihrem Status entspricht.
 
 
 **Link zu einem Kommentar leitet auf die Seite [!UICONTROL Details] um**
@@ -88,7 +98,7 @@ Dies betrifft derzeit nur Dokumentobjekte.
 
 _[!UICONTROL Workfront-Korrekturabzug]_
 
-Wenn ein Benutzer versucht, die Seite &quot;Druckzusammenfassung&quot;zu laden, scheint die Seite zu laden, wird sie jedoch nie geladen.
+Wenn eine Benutzerin bzw. ein Benutzer versucht, die Seite „Druckzusammenfassung“ zu laden, scheint die Seite zu laden, sie wird jedoch nie geladen.
 
 +++
 

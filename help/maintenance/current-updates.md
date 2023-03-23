@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '2297'
+ht-degree: 92%
 
 ---
 
@@ -21,13 +21,26 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2023
 
-+++**(Geplantes) Wartungs-Update vom 23. März 2023**
++++**Wartungs-Update vom 23. März 2023**
 
 **[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
 
 _Dokumente_
 
 Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Der Bereich verfügt jetzt über eine horizontale Bildlaufleiste und der Benutzer muss horizontal scrollen, um die [!UICONTROL Zusammenfassung] Bedienfeldinhalte. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
+
+**Neue Desktop Proofing Viewer-Version**
+
+_Proofing_
+
+So beheben Sie ein Kommentarproblem im [!UICONTROL Desktop-Testversandansicht]r haben wir eine neue Version des Desktop-Testversand-Viewers bereitgestellt.
+
+Benutzer, die bereits über [!UICONTROL Desktop Proofing Viewer] installiert wird, erhält dieses Update automatisch.
+
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Proofing Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Frühere Version: 2.1.22
+* Neue Version: 2.1.23
 
 +++
 

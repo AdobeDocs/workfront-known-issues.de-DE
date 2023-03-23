@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '1297'
-ht-degree: 91%
+source-wordcount: '1312'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Der Benutzer wird aus dem Testversand-Workflow deaktiviert und erhält die Fehlermeldung[!UICONTROL Zugriff nicht erlaubt]&quot; beim Zugriff auf den Testversand](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Benutzer: Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung](known-issues-workfront/wf-users-access-level-is-changed.md)

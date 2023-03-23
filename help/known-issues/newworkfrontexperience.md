@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 83%
+source-wordcount: '624'
+ht-degree: 81%
 
 ---
 
@@ -42,9 +42,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Der Benutzer wird aus dem Testversand-Workflow deaktiviert und erhält die Fehlermeldung[!UICONTROL Zugriff nicht erlaubt]&quot; beim Zugriff auf den Testversand](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23. März 2023 |
 | [Berichte: Bei der Sortierung nach Spaltenüberschrift wird die vorherige Sortierung zurückgesetzt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16. März 2023 |
 | [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16. März 2023 |
-| [Dokumente: Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3. März 2023 |
 | [Projekte: Aus einem Problem konvertiertes Projekt übernimmt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 

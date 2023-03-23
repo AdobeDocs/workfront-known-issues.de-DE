@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 87%
+source-wordcount: '284'
+ht-degree: 86%
 
 ---
 
@@ -24,11 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/wf-documents-list-missing-elements.md) | 22. März 2023 |
-| [Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 21. März 2023 |
-| [Dokumente: 404-Fehler beim Zugriff auf ein verknüpftes Dokument aus [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17. März 2023 |
 | [Dokumente: [!UICONTROL Testing-Aktivitäten] Optionen führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17. März 2023 |
-| [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 15. März 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +34,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3. März 2023 |
+| [Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23. März 2023 |
 | [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20. Januar 2023 |
 
 {style="table-layout:auto"}
@@ -49,6 +45,9 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: 404-Fehler beim Zugriff auf ein verknüpftes Dokument aus [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23. März 2023 |
+| [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/wf-documents-list-missing-elements.md) | 23. März 2023 |
+| [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23. März 2023 |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7. März 2023 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] -Bereich wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1. März 2023 |
 | [Korrekturabzug: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23. Februar 2023 |

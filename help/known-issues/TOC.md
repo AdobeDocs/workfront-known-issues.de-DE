@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
 workflow-type: tm+mt
-source-wordcount: '1337'
-ht-degree: 89%
+source-wordcount: '1345'
+ht-degree: 88%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Das Messwerkzeug akzeptiert keine Dezimalstellen](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Suchen: [!DNL Workfront] Zeitüberschreitung der Suche](known-issues-workfront/wf-search-search-times-out.md)
       + [Testsendungen: Testversandversion kann nicht geändert werden](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Testsendungen: Dropdown-Listen werden nicht geöffnet, wenn einem Benutzer ein Testversand hinzugefügt wird](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)

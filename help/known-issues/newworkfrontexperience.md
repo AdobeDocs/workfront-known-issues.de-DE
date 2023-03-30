@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 78%
+source-wordcount: '665'
+ht-degree: 77%
 
 ---
 
@@ -38,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekte: [!UICONTROL Startseite] benutzerdefinierter Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |
 | [Suchen: [!DNL Workfront] Zeitüberschreitung der Suche](known-issues-workfront/wf-search-search-times-out.md) | 27. März 2023 |
 | [Testsendungen: Dropdown-Listen werden nicht geöffnet, wenn einem Benutzer ein Testversand hinzugefügt wird](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27. März 2023 |
 | [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23. März 2023 |

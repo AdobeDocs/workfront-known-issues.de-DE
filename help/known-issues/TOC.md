@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 87%
+source-wordcount: '1371'
+ht-degree: 86%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: [!UICONTROL Startseite] benutzerdefinierter Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Testsendungen: Das Messwerkzeug akzeptiert keine Dezimalstellen](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Suchen: [!DNL Workfront] Zeitüberschreitung der Suche](known-issues-workfront/wf-search-search-times-out.md)

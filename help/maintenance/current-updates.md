@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '2379'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,19 +21,25 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2023
 
-+++**(Geplantes) Wartungs-Update vom 23. März 2023**
++++**Wartungs-Update vom 23. März 2023**
 
 **Testversandversion kann nicht geändert werden**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer einen Testversand im [!UICONTROL Testversand-Viewer]und zu einer anderen Version wechselt, wird das Dropdown-Menü &quot;Version&quot;deaktiviert und der Benutzer kann nicht zur Originalversion, die er angezeigt hat, oder zu einer anderen Version des Testversands zurückkehren.
+Wenn ein Benutzer einen Testversand im [!UICONTROL Testversand-Viewer]und zu einer anderen Version wechselt, wird das Dropdown-Menü Version deaktiviert und der Benutzer kann nicht zur Originalversion, die er angezeigt hat, oder zu einer anderen Version des Testversands zurückkehren.
 
 **504-Fehler beim Exportieren von Berichten**
 
 _Berichte_
 
 Wenn ein Benutzer versucht, einen Bericht mit einer hohen Anzahl von Elementen zu exportieren, wird ein 504-Fehler angezeigt und der Bericht kann nicht exportiert werden.
+
+**Im Auftrag eines Benutzers vorgenommene Aktualisierungen werden direkt vom Benutzer angezeigt.**
+
+_Updates_
+
+Wenn ein Administrator als Benutzer angemeldet ist und einen Kommentar abgibt, wird dieser Kommentar direkt vom Benutzer und nicht vom Administrator im Namen des Benutzers angezeigt.
 
 +++
 

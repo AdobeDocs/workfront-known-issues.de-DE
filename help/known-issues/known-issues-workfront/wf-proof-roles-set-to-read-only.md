@@ -3,7 +3,7 @@ title: '„Korrekturabzüge: Korrekturabzug-Rollen werden in „Schreibgeschütz
 description: „Benutzende mit anderen Korrekturabzug-Rollen als „Schreibgeschützt“ werden automatisch in „Schreibgeschützt“ geändert. Es gibt keine Benachrichtigung oder kein Protokoll, die bzw. das diese Änderung anzeigt.“
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 

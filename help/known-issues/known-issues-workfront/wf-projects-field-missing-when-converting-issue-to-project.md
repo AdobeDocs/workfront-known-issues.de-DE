@@ -3,7 +3,7 @@ title: '„Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Pro
 description: „Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird, wird ein benutzerdefiniertes Feld, das zum Problem gehörte, nicht im Projekt angezeigt. Dieses Problem betrifft nur Nicht-Admins.“
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 

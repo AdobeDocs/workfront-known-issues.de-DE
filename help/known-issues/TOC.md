@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '1371'
+source-wordcount: '1377'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [Testsendungen: Textfeld-Optionen zeigt &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Korrekturabzüge: Benutzerdefinierte Nachrichten werden in E-Mail-Benachrichtigungen nicht angezeigt](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: Korrekturabzug wird nicht geladen, wenn die Schaltfläche [!UICONTROL Zum Korrekturabzug gehen] in der E-Mail-Benachrichtigung verwendet wird](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)

@@ -3,9 +3,9 @@ title: '„Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in 
 description: „Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. “
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt d
 
 1. Fügen Sie geerbte Berechtigungen erneut hinzu, indem Sie zurück zur Freigabeliste des übergeordneten Objekts navigieren, auf **[!UICONTROL Rückgängig]** neben den geerbten Berechtigungen und dann auf **[!UICONTROL Speichern]** klicken.
 
-Alternativ können Sie die Kennung des Dokuments (in der URL des [!UICONTROL Dokumentdetails] Seite) und Kontakt [!DNL Workfront] Kundensupport.
+Alternativ können Sie die ID des Dokuments (aus der URL der [!UICONTROL Dokumentdetailseite]) notieren und sich an den [!DNL Workfront]-Support wenden.
 
 _Erste Meldung am 6. Januar 2023._
 

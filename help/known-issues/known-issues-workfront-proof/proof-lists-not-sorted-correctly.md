@@ -1,18 +1,18 @@
 ---
-title: "Workfront-Testversand: Listen werden nicht korrekt sortiert"
-description: "Wenn ein Benutzer eine Liste im Workfront-Testversand anzeigt, auf die eine Sortierung angewendet wurde (z. B. Name), ist die Sortierung nicht präzise."
+title: '„Workfront-Korrekturabzug: Listen werden nicht korrekt sortiert“'
+description: „Wenn Benutzende eine Liste im Workfront-Korrekturabzug anzeigen, auf die eine Sortierung angewendet wurde (z. B. nach dem Namen), ist die Sortierung nicht korrekt.“
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 90%
 
 ---
 
 
 # [!DNL Workfront Proof]: Listen werden nicht korrekt sortiert
 
-Wenn ein Benutzer eine Liste in [!DNL Workfront Proof] , auf die eine Sortierung angewendet wurde (z. B. [!UICONTROL Name]), ist die Sortierung nicht korrekt. Wenn eine Sortierung angewendet wird, ist die Liste alternativ leer.
+Wenn Benutzende eine Liste in [!DNL Workfront Proof] anzeigen, auf die eine Sortierung angewendet wurde (z. B. nach dem [!UICONTROL Namen]), ist die Sortierung nicht korrekt. Alternativ ist die Liste leer, wenn eine Sortierung angewendet wird.
 
 **Problemumgehung**
 

@@ -4,8 +4,8 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2423'
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ Wenn ein Administrator als Benutzer angemeldet ist und einen Kommentar abgibt, w
 
 _Dokumente_
 
-Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Der Bereich verfügt jetzt über eine horizontale Bildlaufleiste und der Benutzer muss horizontal scrollen, um die [!UICONTROL Zusammenfassung] Bedienfeldinhalte. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
+Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Das Bedienfeld verfügt nun über eine horizontale Bildlaufleiste und Benutzende müssen horizontal scrollen, um die Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] zu sehen. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
 
 **Neue Desktop Proofing Viewer-Version**
 
@@ -68,13 +68,13 @@ Benutzende können die neueste Version auch manuell herunterladen. Weitere Infor
 
 +++**Wartungs-Update vom 16. März 2023**
 
-**Beim Kopieren einer Karte nicht kopierte Checklisten-Elemente**
+**Beim Kopieren einer Karte werden Checklisten-Elemente nicht kopiert**
 
 _Pinnwände_
 
-Beim Kopieren einer Ad-hoc-Karte (verbundene Karten können nicht kopiert werden) werden die Elemente der Checkliste nicht in die neue Karte kopiert.
+Beim Kopieren einer Ad-hoc-Karte (verbundene Karten können nicht kopiert werden) werden Checklisten-Elemente nicht auf die neue Karte kopiert.
 
-**Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird**
+**Benutzerdefiniertes Feld fehlt, wenn Problem in ein Projekt konvertiert wird**
 
 _Projekte_
 
@@ -96,11 +96,11 @@ _Benutzende_
 
 Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert und versucht, ihm/ihr im Fenster [!UICONTROL Benutzer erneut aktivieren] eine Zugriffsebene zuzuweisen, wird das Zugriffsebenen-Dropdown-Menü nicht entsprechend der Eingabe der/des Benutzenden angezeigt und der/die Benutzende kann keine Zugriffsebene auswählen. Wenn der/die Benutzende die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem/der erneut aktivierten Benutzenden nicht zugewiesen.
 
-**Speichern Sie den Entwurf eines Kommentars im [!DNL Goals] area**
+**Speichern eines Kommentarentwurfs im Bereich [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Wenn Sie jetzt von der [!UICONTROL Updates] -Seite eines Ziels während der Erstellung einer Nachricht beibehalten, wird die Nachricht beim Zurücknavigieren beibehalten. Vor dieser Aktualisierung wäre der nicht übermittelte Kommentar gelöscht worden.
+Wenn Sie jetzt von der Seite [!UICONTROL Updates] eines Ziels während der Erstellung einer Nachricht wegnavigieren, wird die Nachricht beim Zurücknavigieren beibehalten. Vor dieser Aktualisierung wäre der nicht übermittelte Kommentar gelöscht worden.
 
 +++
 
@@ -414,5 +414,5 @@ Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert
 
 Informationen zu früheren Wartungs-Updates finden Sie hier:
 
-* [Archiv mit Wartungs-Updates für [!DNL Workfront]– 2022](2022-updates.md)
-* [Archiv mit Wartungs-Updates für [!DNL Workfront]– 2021](2021-updates.md)
+* [Archiv mit Wartungs-Updates für [!DNL Workfront] – 2022](2022-updates.md)
+* [Archiv mit Wartungs-Updates für [!DNL Workfront] – 2021](2021-updates.md)

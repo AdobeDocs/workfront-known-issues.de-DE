@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
 source-wordcount: '1377'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 86%
       + [Dokumente: [!UICONTROL Testing-Aktivitäten] Optionen führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [Aktualisierungen: Im Auftrag eines Benutzers vorgenommene Aktualisierungen werden direkt vom Benutzer angezeigt.](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
-      + [[!UICONTROL Lastenausgleich]: Stunden werden nicht an die Benutzerzeit angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird die vorherige Sortierung zurückgesetzt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend der Auszeit der Benutzenden angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Dokumente: Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Projekte: Benutzerdefiniertes Feld fehlt, wenn das Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
@@ -130,7 +130,7 @@ ht-degree: 86%
       + [Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
       + [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste] als GUID angezeigt](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
       + [Berichte: Der Kalender zeigt standardmäßig alte Datumswerte an](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
-      + [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook]nicht korrekt formatiert](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
+      + [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook] nicht korrekt formatiert](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste] angezeigt](known-issues-workfront/wf-home-unable-to-view-document-image.md)
       + [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL Startseite]: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung und zwei E-Mails werden versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)

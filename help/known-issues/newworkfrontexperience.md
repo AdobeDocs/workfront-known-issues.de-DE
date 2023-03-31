@@ -5,8 +5,8 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,8 +28,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28. März 2023 |
 | [Benutzer: Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung](known-issues-workfront/wf-users-access-level-is-changed.md) | 20. März 2023 |
 | [Dokumente: [!UICONTROL Testing-Aktivitäten] Optionen führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17. März 2023 |
-| [[!UICONTROL Lastenausgleich]: Stunden werden nicht an die Benutzerzeit angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13. März 2023 |
-| [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im [!UICONTROL Updates] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10. März 2023 |
+| [[!UICONTROL Lastenausgleich]: Stunden werden nicht den Auszeiten der Benutzenden entsprechend angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13. März 2023 |
+| [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10. März 2023 |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Arbeitszeittabellen: Die Dropdown-Liste [!UICONTROL Stundentyp] wird nicht geöffnet](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23. März 2023 |
 | [Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23. März 2023 |
 | [Testsendungen: Der Benutzer wird aus dem Testversand-Workflow deaktiviert und erhält die Fehlermeldung[!UICONTROL Zugriff nicht erlaubt]&quot; beim Zugriff auf den Testversand](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23. März 2023 |
-| [Berichte: Bei der Sortierung nach Spaltenüberschrift wird die vorherige Sortierung zurückgesetzt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16. März 2023 |
+| [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16. März 2023 |
 | [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16. März 2023 |
 | [Projekte: Aus einem Problem konvertiertes Projekt übernimmt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23. Februar 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
@@ -92,7 +92,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) als GUID angezeigt | 11. Februar 2021 |
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25. Januar 2021 |
 | [Berichte: Im Kalender werden wieder alte Datumswerte angezeigt](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 5. Februar 2021 |
-| [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)nicht korrekt formatiert | 30. März 2021 |
+| [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) nicht korrekt formatiert | 30. März 2021 |
 | [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-unable-to-view-document-image.md) angezeigt | 9. November 2020 |
 | [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 9. November 2020 |
 | [Startseite: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung und zwei E-Mails werden versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 9. November 2020 |

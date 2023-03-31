@@ -3,7 +3,7 @@ title: '„Workfront Fusion: Der Ausführungsverlauf des Szenarios zeigt nicht d
 description: „Wenn eine Benutzerin bzw. ein Benutzer den Ausführungsverlauf eines Szenarios ansieht, wird nicht die gesamte Ausführung in den Verlauf aufgenommen. Das Szenario wurde erfolgreich ausgeführt, aber der Ausführungsverlauf enthält keine Informationen über alle Module, die während der Ausführung ausgeführt wurden.“
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 

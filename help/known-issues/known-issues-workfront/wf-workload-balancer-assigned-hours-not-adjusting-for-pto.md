@@ -1,18 +1,18 @@
 ---
-title: "Lastenausgleich: Stunden werden nicht an die Benutzerzeit angepasst."
-description: '"Wenn ein Benutzer eine Zeitüberschreitung einplant und ihm Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht, um die Zeitdauer zu berücksichtigen. Stattdessen zeigt der Lastenausgleich an, dass der Benutzer für die Tage, die er geplant hat, überverteilt ist. Um die Stunden anzupassen, muss der Administrator in das Projekt gehen und die Timeline neu berechnen.'
+title: '„Lastenausgleich: Stunden werden nicht entsprechend den Ausfallzeiten der Benutzenden angepasst.“'
+description: „Wenn Benutzende eine Ausfallzeit einplanen und ihnen Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht entsprechend der Ausfallzeit. Stattdessen zeigt der Lastenausgleich an, dass die Benutzenden für die als Ausfallzeit eingeplanten Tage überlastet sind. Um die Stunden anzupassen, müssen die Administrierenden auf das Projekt zugreifen und die Timeline neu berechnen.
 hidefromtoc: true
 source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Lastenausgleich]: Stunden werden nicht an die Benutzerzeit angepasst
+# [!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend den Ausfallzeiten von Benutzenden angepasst
 
-Wenn ein Benutzer eine Zeitüberschreitung einplant und ihm Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht, um die Zeitdauer zu berücksichtigen. Stattdessen wird die [!UICONTROL Lastenausgleich] zeigt an, dass der Benutzer für die Tage, die er geplant hat, überverteilt ist. Um die Stunden anzupassen, muss der Administrator in das Projekt gehen und die Timeline neu berechnen.
+Wenn Benutzende eine Ausfallzeit einplanen und ihnen Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht entsprechend der Ausfallzeit. Stattdessen zeigt der [!UICONTROL Lastenausgleich] an, dass die Benutzenden für die als Ausfallzeit eingeplanten Tage die überlastet sind. Um die Stunden anzupassen, müssen die Administrierenden auf das Projekt zugreifen und die Timeline neu berechnen.
 
 _Erste Meldung am 6. März 2023._
 

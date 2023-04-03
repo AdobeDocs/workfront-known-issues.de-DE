@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1387'
 ht-degree: 89%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projekte: [!UICONTROL Startseite] benutzerdefinierter Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Testsendungen: Das Messwerkzeug akzeptiert keine Dezimalstellen](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)

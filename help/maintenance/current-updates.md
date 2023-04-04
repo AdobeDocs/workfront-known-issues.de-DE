@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 92%
+source-wordcount: '2493'
+ht-degree: 90%
 
 ---
 
@@ -19,9 +19,21 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
+## Updates im April 2023
+
++++**Wartungs-Update vom 4. April 2023**
+
+**Dropdowns werden nicht geöffnet, wenn ein Benutzer einem Testversand hinzugefügt wird**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer einen anderen Benutzer zu einem Testversand im [!UICONTROL Testversand-Viewer], wird[!UICONTROL Proof role]&quot; und &quot;[!UICONTROL E-Mail-Warnungen]&quot;Dropdown-Listen können nicht geöffnet werden. Der Benutzer kann keine Testversand- oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn ein Benutzer über einen Kommentar hinzugefügt oder der Testversand für den Benutzer freigegeben wird.
+
++++
+
 ## Updates im März 2023
 
-+++**Wartungs-Update vom 23. März 2023**
++++**Wartungs-Update vom 30. März 2023**
 
 **Testversandversion kann nicht geändert werden**
 

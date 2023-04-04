@@ -1,8 +1,8 @@
 ---
-title: "Testsendungen: Dropdown-Listen werden nicht geöffnet, wenn einem Benutzer ein Testversand hinzugefügt wird."
+title: "Testsendungen: Dropdowns werden nicht geöffnet, wenn ein Benutzer einem Testversand hinzugefügt wird."
 description: "Wenn ein Benutzer einen anderen Benutzer im Testversand-Viewer zu einem Testversand hinzufügt, können die Dropdown-Listen Testprofil-Rolle und E-Mail-Warnhinweise nicht geöffnet werden. Der Benutzer kann keine Testversand- oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn ein Benutzer über einen Kommentar hinzugefügt oder der Testversand für den Benutzer freigegeben wird."
 hidefromtoc: true
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 3%

@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '660'
+ht-degree: 80%
 
 ---
 
@@ -24,13 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Benutzer: Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 3. April 2023 |
-| [Testsendungen: Textfeld-Optionen zeigt &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31. März 2023 |
-| [Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 28. März 2023 |
 | [Benutzer: Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung](known-issues-workfront/wf-users-access-level-is-changed.md) | 20. März 2023 |
 | [Dokumente: [!UICONTROL Testing-Aktivitäten] Optionen führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17. März 2023 |
-| [[!UICONTROL Lastenausgleich]: Stunden werden nicht den Auszeiten der Benutzenden entsprechend angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13. März 2023 |
-| [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10. März 2023 |
 
 {style="table-layout:auto"}
 
@@ -40,6 +35,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benutzer: Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6. April 2023 |
+| [Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6. April 2023 |
+| [Testsendungen: Textfeld-Optionen zeigt &quot;textAnnotations&quot;](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6. April 2023 |
 | [Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5. April 2023 |
 | [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31. März 2023 |
 | [Projekte: [!UICONTROL Startseite] benutzerdefinierter Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |

@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31. März 2023 |
-| [Testsendungen: Dropdown-Listen werden nicht geöffnet, wenn einem Benutzer ein Testversand hinzugefügt wird](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27. März 2023 |
 | [Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23. März 2023 |
 | [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20. Januar 2023 |
 

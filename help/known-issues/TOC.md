@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 88%
+source-wordcount: '1413'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Startseite]: Klicken Sie neben der Miniaturansicht in [!UICONTROL Arbeitsliste] führt zu einer leeren Seite](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [Benutzer: Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]](known-issues-workfront/wf-user-cannot-select-hour-type.md)

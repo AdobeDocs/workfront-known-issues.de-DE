@@ -2,7 +2,7 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 88%
@@ -34,6 +34,7 @@ Wenn ein Benutzer eine Liste von Anforderungen anzeigt, für die ein Filter ange
 _Benutzende_
 
 Wenn ein Administrator einen Benutzer bearbeitet und versucht, eine [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbarer Stündentyp], sehen sie, dass die Dropdown-Listen für diese Felder deaktiviert sind und dass sie keine Stundentypen auswählen können.
+
 +++
 
 +++**Wartungs-Update vom 6. April 2023**

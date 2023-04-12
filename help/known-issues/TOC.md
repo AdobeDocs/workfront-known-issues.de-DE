@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '1413'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Vorlagen: Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filter: Filter aus einem Bericht in einem Dashboard nicht freigeben](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Startseite]: Klicken Sie neben der Miniaturansicht in [!UICONTROL Arbeitsliste] führt zu einer leeren Seite](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)

@@ -1,24 +1,24 @@
 ---
-title: "Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird."
-description: '"Wenn ein Benutzer einen Testversand im Testversand-Viewer anzeigt und versucht, mit dem Polyline-Tool einen Kommentar abzugeben, markiert das Werkzeug den Testversand nicht. “'
+title: '„Korrekturabzüge: Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden“'
+description: „Wenn Benutzende einen Korrekturabzug im Proofing Viewer anzeigen und versuchen, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht. “
 hidefromtoc: true
 source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird
+# Korrekturabzüge: Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden
 
 <!--This article is on the WF and WFP TOCs-->
 
-Wenn ein Benutzer einen Testversand im Testversand-Viewer anzeigt und versucht, mit dem Polyline-Tool einen Kommentar abzugeben, markiert das Werkzeug den Testversand nicht.
+Wenn Benutzende einen Korrekturabzug im Proofing Viewer anzeigen und versuchen, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht.
 
 **Problemumgehung**
 
-Andere Tools sind bei der Abgabe eines Kommentars effektiv.
+Andere Werkzeuge funktionieren bei der Abgabe eines Kommentars.
 
 _Erste Meldung am 24. März 2023._
 

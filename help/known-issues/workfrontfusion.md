@@ -46,7 +46,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Suchen: [!DNL Workfront] Zeitüberschreitung der Suche](known-issues-workfront/wf-search-search-times-out.md) | 13. April 2023 |
+| [Suche: Zeitüberschreitung der  [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md) | 13. April 2023 |
 | [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29. September 2022 |
 | Das [[!DNL Workfront Fusion]: [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9. September 2022 |
 

@@ -1,16 +1,16 @@
 ---
-title: "Testsendungen: Die Testversion kann beim Anzeigen des Testversands nicht geändert werden."
-description: '"Wenn ein Benutzer einen Testversand im [!UICONTROL Testversand-Viewer]und zu einer anderen Version wechseln, wird das Dropdown-Menü "Version"deaktiviert und der Benutzer kann nicht zur Originalversion, die er angezeigt hat, oder zu einer anderen Version des Testversands zurückkehren."'
+title: '„Korrekturabzüge: Die Korrekturabzugsversion kann beim Anzeigen des Korrekturabzugs nicht gewechselt werden.“'
+description: „Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] ansehen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angesehen haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.“
 hidefromtoc: true
 source-git-commit: 7b22b27cddb7a7cd21d3570a057a33753b2e0be3
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Testsendungen: Testversandversion kann nicht geändert werden
+# Korrekturabzüge: Die Korrekturabzugsversion kann beim Anzeigen des Korrekturabzugs nicht gewechselt werden
 
 
 <!--
@@ -19,7 +19,7 @@ ht-degree: 10%
 >This issue was fixed on March 30, 2023.
 -->
 
-Wenn ein Benutzer einen Testversand im [!UICONTROL Testversand-Viewer]und zu einer anderen Version wechselt, wird das Dropdown-Menü Version deaktiviert und der Benutzer kann nicht zur Originalversion, die er angezeigt hat, oder zu einer anderen Version des Testversands zurückkehren.
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
 **Problemumgehung:**
 

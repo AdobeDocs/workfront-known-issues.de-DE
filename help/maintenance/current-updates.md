@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Wenn ein Administrator einen Benutzer bearbeitet und versucht, eine [!UICONTROL 
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer einen anderen Benutzer zu einem Testversand im [!UICONTROL Testversand-Viewer], wird[!UICONTROL Proof role]&quot; und &quot;[!UICONTROL E-Mail-Warnungen]&quot;Dropdown-Listen können nicht geöffnet werden. Der Benutzer kann keine Testversand- oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn ein Benutzer über einen Kommentar hinzugefügt oder der Testversand für den Benutzer freigegeben wird.
+Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Proofing Viewer] hinzufügen, können die Dropdown-Listen „[!UICONTROL Rolle des Korrekturabzugs]“ und „[!UICONTROL E-Mail-Warnungen]“ nicht geöffnet werden. Die Benutzenden können keine Korrekturabzugsrolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt werden oder der Korrekturabzug für die Benutzenden freigegeben wird.
 
 +++
 
@@ -51,43 +51,43 @@ Wenn ein Benutzer einen anderen Benutzer zu einem Testversand im [!UICONTROL Tes
 
 +++**Wartungs-Update vom 30. März 2023**
 
-**Testversandversion kann nicht geändert werden**
+**Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer einen Testversand im [!UICONTROL Testversand-Viewer]und zu einer anderen Version wechselt, wird das Dropdown-Menü Version deaktiviert und der Benutzer kann nicht zur Originalversion, die er angezeigt hat, oder zu einer anderen Version des Testversands zurückkehren.
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
 **504-Fehler beim Exportieren von Berichten**
 
 _Berichte_
 
-Wenn ein Benutzer versucht, einen Bericht mit einer hohen Anzahl von Elementen zu exportieren, wird ein 504-Fehler angezeigt und der Bericht kann nicht exportiert werden.
+Wenn Benutzende versuchen, einen Bericht mit einer hohen Anzahl von Elementen zu exportieren, wird ein 504-Fehler angezeigt und der Bericht kann nicht exportiert werden.
 
-**Im Auftrag eines Benutzers vorgenommene Aktualisierungen werden direkt vom Benutzer angezeigt.**
+**Im Auftrag von Benutzenden vorgenommene Aktualisierungen werden als direkt von den Benutzenden angezeigt**
 
 _Updates_
 
-Wenn ein Administrator als Benutzer angemeldet ist und einen Kommentar abgibt, wird dieser Kommentar direkt vom Benutzer und nicht vom Administrator im Namen des Benutzers angezeigt.
+Wenn Administrierende als Benutzende angemeldet sind und einen Kommentar abgeben, wird dieser Kommentar als direkt von Benutzenden und nicht als von Administrierenden im Namen der Benutzenden angezeigt.
 
 +++
 
 +++**Wartungs-Update vom 23. März 2023**
 
-**[!UICONTROL Zusammenfassung] Bedienfeldinhalte sind zu breit für das Bedienfeld**
+Inhalte des Bedienfelds **[!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld**
 
 _Dokumente_
 
 Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Das Bedienfeld verfügt nun über eine horizontale Bildlaufleiste und Benutzende müssen horizontal scrollen, um die Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] zu sehen. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
 
-**Neue Desktop Proofing Viewer-Version**
+**Neue [!UICONTROL Desktop Proofing Viewer]-Version**
 
 _Proofing_
 
-So beheben Sie ein Kommentarproblem im [!UICONTROL Desktop-Testversandansicht]r haben wir eine neue Version des Desktop-Testversand-Viewers bereitgestellt.
+Um ein Kommentierproblem im [!UICONTROL Desktop Proofing Viewer] zu beheben, haben wir eine neue Version des Desktop Proofing Viewers bereitgestellt.
 
-Benutzer, die bereits über [!UICONTROL Desktop Proofing Viewer] installiert wird, erhält dieses Update automatisch.
+Benutzende, die den [!UICONTROL Desktop Proofing Viewer] bereits installiert haben, erhalten dieses Update automatisch.
 
-Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Proofing Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Proofing Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
 * Frühere Version: 2.1.22
 * Neue Version: 2.1.23

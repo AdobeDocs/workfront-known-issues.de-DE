@@ -3,9 +3,9 @@ title: '„Workfront-Korrekturabzug: Listen werden nicht korrekt sortiert“'
 description: „Wenn Benutzende eine Liste im Workfront-Korrekturabzug anzeigen, auf die eine Sortierung angewendet wurde (z. B. nach dem Namen), ist die Sortierung nicht korrekt.“
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

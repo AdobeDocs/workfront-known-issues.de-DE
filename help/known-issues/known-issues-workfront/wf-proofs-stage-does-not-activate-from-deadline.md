@@ -1,20 +1,20 @@
 ---
-title: "Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht."
-description: '"Wenn ein Testversand mehrere Phasen umfasst und die Einstellung "Phase aktivieren"in einer späteren Phase auf "Wenn der Termin der vorherigen Phase vergeht"gesetzt ist, wird diese spätere Phase nicht aktiviert, wenn der Termin verstreicht."'
+title: '„Korrekturabzüge: Die Korrekturphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht“'
+description: „Wenn ein Korrekturabzug mehrere Phasen umfasst und die Einstellung ‚Phase aktivieren‘ in einer späteren Phase auf ‚Wenn die Frist für die vorherige Phase vergeht‘ gesetzt ist, wird diese spätere Phase nicht aktiviert, wenn die Frist verstreicht.“
 hidefromtoc: true
 source-git-commit: 6ba26f7b8bd836e5a63214137c06116dcdb1d58d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Die Testphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht
+# Korrekturabzüge: Die Korrekturphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht
 
 <!--This article is on the WF and WFP TOC-->
 
-Wenn ein Testversand mehrere Phasen umfasst und die Einstellung &quot;Phase aktivieren&quot;einer späteren Phase auf &quot;Wenn der Termin der vorherigen Phase vergeht&quot;gesetzt ist, wird diese spätere Phase nicht aktiviert, wenn der Termin verstreicht.
+Wenn ein Korrekturabzug mehrere Phasen umfasst und die Einstellung ‚Phase aktivieren‘ einer späteren Phase auf ‚Wenn die Frist für die vorherige Phase vergeht‘ gesetzt ist, wird diese spätere Phase nicht aktiviert, wenn die Frist verstreicht.
 
 _Erste Meldung am 14. März 2023._
 

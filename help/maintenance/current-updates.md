@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 93%
+source-wordcount: '2757'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,25 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im April 2023
+
++++**(Geplant) Aktualisierung der Wartung am 20. April 2023**
+
+**Probleme in benutzerdefinierten Dropdown-Feldern**
+
+_Benutzerdefinierte Formulare_
+
+Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die folgenden Probleme anzeigen:
+
+* Das &quot;+[!UICONTROL Hinzufügen]Die Schaltfläche &quot;&quot;ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
+* Felder ohne Werte zeigen ein &quot;—&quot;[!UICONTROL keine Beschriftung]—&quot;.
+
+**Textfeld-Optionen zeigt &quot;textAnnotations&quot;**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das Textwerkzeug öffnen, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
+
++++
 
 +++**Wartungs-Update vom 17. April 2023**
 

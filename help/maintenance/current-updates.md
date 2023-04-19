@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 92%
+source-wordcount: '2859'
+ht-degree: 88%
 
 ---
 
@@ -37,6 +37,14 @@ Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind
 _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das Textwerkzeug öffnen, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
+
+## Bilder als Entwurf beibehalten, wenn Sie von einer Aktualisierung für Ziele und Probleme in der Kommentar-Beta-Erlebnis abrücken
+
+>[!NOTE]
+>
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht. Es wird am 20. April 2023 zur Produktion freigegeben.
+
+Wenn Sie nun von der Seite Updates weg navigieren, während Sie eine Nachricht erstellen, an der Sie ein Bild angehängt haben, bleiben die Nachricht und das Bild erhalten, wenn Sie zurück navigieren. Vor dieser Aktualisierung wurde der nicht übermittelte Kommentar beibehalten, aber das Bild wurde gelöscht. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
 
 +++
 

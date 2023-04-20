@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2945'
-ht-degree: 88%
+source-wordcount: '3021'
+ht-degree: 86%
 
 ---
 
@@ -44,15 +44,25 @@ _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das Textwerkzeug öffnen, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
 
-## Bilder als Entwurf beibehalten, wenn Sie von einer Aktualisierung für Ziele und Probleme in der Kommentar-Beta-Erlebnis abrücken
+**Bilder als Entwurf beibehalten, wenn Sie von einer Aktualisierung für Ziele und Probleme in der Kommentar-Beta-Erlebnis abrücken**
 
 >[!NOTE]
 >
->Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht. Es wird in naher Zukunft zur Produktion freigegeben.
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 zur Produktion freigegeben.
 
 _Updates_
 
 Wenn Sie nun von der Seite Updates weg navigieren, während Sie eine Nachricht erstellen, an der Sie ein Bild angehängt haben, bleiben die Nachricht und das Bild erhalten, wenn Sie zurück navigieren. Vor dieser Aktualisierung wurde der nicht übermittelte Kommentar beibehalten, aber das Bild wurde gelöscht. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
+
+**Echtzeitaktualisierungen und gelöschte Kommentare im Abschnitt Updates**
+
+>[!NOTE]
+>
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 zur Produktion freigegeben.
+
+_Updates_
+
+Wenn jetzt jemand einen Kommentar oder eine Antwort hinzufügt oder einen Kommentar aus dem Bereich Updates löscht, können Sie den neuen Kommentar oder einen Hinweis sehen, dass der Kommentar in Echtzeit ohne Verzögerung entfernt wurde. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
 
 **Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung**
 

@@ -2,15 +2,19 @@
 title: "Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern"
 description: "Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die Probleme anzeigen."
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 10%
 
 ---
 
 
 # Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 20. April 2023 behoben.
 
 Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die folgenden Probleme anzeigen:
 

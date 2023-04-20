@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2859'
+source-wordcount: '2945'
 ht-degree: 88%
 
 ---
@@ -32,6 +32,12 @@ Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind
 * Das &quot;+[!UICONTROL Hinzufügen]Die Schaltfläche &quot;&quot;ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
 * Felder ohne Werte zeigen ein &quot;—&quot;[!UICONTROL keine Beschriftung]—&quot;.
 
+**Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Korrekturabzug im Proofing Viewer anzeigen und versuchen, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht.
+
 **Textfeld-Optionen zeigt &quot;textAnnotations&quot;**
 
 _Korrekturabzüge_
@@ -42,9 +48,17 @@ Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das
 
 >[!NOTE]
 >
->Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht. Es wird am 20. April 2023 zur Produktion freigegeben.
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht. Es wird in naher Zukunft zur Produktion freigegeben.
+
+_Updates_
 
 Wenn Sie nun von der Seite Updates weg navigieren, während Sie eine Nachricht erstellen, an der Sie ein Bild angehängt haben, bleiben die Nachricht und das Bild erhalten, wenn Sie zurück navigieren. Vor dieser Aktualisierung wurde der nicht übermittelte Kommentar beibehalten, aber das Bild wurde gelöscht. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
+
+**Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung**
+
+_Benutzende_
+
+Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werden. In diesem Fall gibt es keine sichtbare Aktualisierung, und die Änderung wird nicht im Administratorprotokoll angezeigt.
 
 +++
 

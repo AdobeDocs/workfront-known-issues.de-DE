@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
+source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
 workflow-type: tm+mt
-source-wordcount: '3021'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im April 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 20. April 2023**
++++**Wartungs-Update vom 20. April 2023**
 
 **Probleme in benutzerdefinierten Dropdown-Feldern**
 

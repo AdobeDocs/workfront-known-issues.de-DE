@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 92%
+source-wordcount: '631'
+ht-degree: 94%
 
 ---
 
@@ -35,11 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: [!UICONTROL Testaktivität] Registerkartenfenster [!UICONTROL Testversanddetails]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17. April 2023 |
-| [Benutzende: Zugriffsebene durch System ohne Aufzeichnung der Änderung geändert](known-issues-workfront/wf-users-access-level-is-changed.md) | 13. April 2023 |
 | [Vorlagen: Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12. April 2023 |
-| [Korrekturabzüge: Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6. April 2023 |
-| [Korrekturabzüge: Feld mit Textoptionen zeigt „textAnnotations“](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6. April 2023 |
-| [Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5. April 2023 |
 | [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31. März 2023 |
 | [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |
 | [Suche: Zeitüberschreitung der  [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md) | 27. März 2023 |

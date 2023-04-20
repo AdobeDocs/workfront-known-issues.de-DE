@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1445'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Ressourcenplaner]: Nach dem Hinzufügen von Zeit kann nicht gespeichert werden](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Testsendungen: [!UICONTROL Testaktivität] Registerkartenfenster [!UICONTROL Testversanddetails]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Vorlagen: Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filter: Filter aus einem Bericht in einem Dashboard nicht freigeben](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)

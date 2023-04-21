@@ -1,8 +1,8 @@
 ---
 title: '„Benutzende: Zugriffsebene durch System ohne Aufzeichnung der Änderung geändert“'
-description: „Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werden. In diesem Fall gibt es keine sichtbare Aktualisierung, und die Änderung wird nicht im Administratorprotokoll angezeigt.
+description: „Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werden. In diesem Fall gibt es keine sichtbare Aktualisierung, und die Änderung wird nicht im Administratorprotokoll angezeigt.“
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 93%

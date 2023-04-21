@@ -1,8 +1,8 @@
 ---
 title: '„Lastenausgleich: Stunden werden nicht entsprechend den Ausfallzeiten der Benutzenden angepasst.“'
-description: „Wenn Benutzende eine Ausfallzeit einplanen und ihnen Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht entsprechend der Ausfallzeit. Stattdessen zeigt der Lastenausgleich an, dass die Benutzenden für die als Ausfallzeit eingeplanten Tage überlastet sind. Um die Stunden anzupassen, müssen die Administrierenden auf das Projekt zugreifen und die Timeline neu berechnen.
+description: „Wenn Benutzende eine Ausfallzeit einplanen und ihnen Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht entsprechend der Ausfallzeit. Stattdessen zeigt der Lastenausgleich an, dass die Benutzenden für die als Ausfallzeit eingeplanten Tage überlastet sind. Um die Stunden anzupassen, müssen die Administrierenden auf das Projekt zugreifen und die Timeline neu berechnen.“
 hidefromtoc: true
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%

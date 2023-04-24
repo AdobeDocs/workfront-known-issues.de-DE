@@ -3,9 +3,9 @@ title: '„Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorher
 description: „Wenn Benutzende versuchen, einen Bericht durch Klicken auf eine Spaltenüberschrift zu sortieren, wird der Bericht nach der Spalte sortiert, anschließend wird jedoch schnell die vorherige Sortierung übernommen.“
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 

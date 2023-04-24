@@ -3,7 +3,7 @@ title: '„Aktualisierungen: Die Protokollzeit für den aktuellen Tag kann nicht
 description: „Wenn Benutzende versuchen, die Zeit für den aktuellen Tag im Bereich „Updates“ zu protokollieren, wird der aktuelle Tag ausgegraut und die Benutzenden können keine Stunden eingeben.“
 hidefromtoc: true
 source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 

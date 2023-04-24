@@ -1,26 +1,25 @@
 ---
-title: "Startseite: Wenn Sie in der Arbeitsliste neben der Miniaturansicht klicken, wird eine leere Seite angezeigt."
-description: "Wenn ein Benutzer versucht, ein Dokument oder einen Testversand durch Klicken auf die Miniaturansicht in der Arbeitsliste der Startseite anzuzeigen, wird er zu einer leeren Seite geleitet. Dies liegt daran, dass eine unsichtbare URL direkt unter dem Miniaturbild liegt und der Benutzer, der auf diese URL klickt, zu einer leeren Seite gelangt."
+title: 'Startseite: Wenn Sie in der Arbeitsliste neben der Miniaturansicht klicken, wird eine leere Seite angezeigt'
+description: Wenn versucht wird, ein Dokument oder einen Korrekturabzug durch Klicken auf die Miniaturansicht in der Arbeitsliste der Startseite anzuzeigen, erfolgt eine Weiterleitung zu einer leeren Seite. Dies liegt daran, dass sich eine unsichtbare URL direkt unter dem Miniaturbild befindet. Durch Klicken auf diese URL erfolgt eine Weiterleitung zu einer leeren Seite.
 hidefromtoc: true
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
+exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Startseite]: Klicken Sie neben der Miniaturansicht in [!UICONTROL Arbeitsliste] führt zu einer leeren Seite
+# [!UICONTROL Startseite]: Wenn Sie in der [!UICONTROL Arbeitsliste] neben der Miniaturansicht klicken, wird eine leere Seite angezeigt
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 12. April 2023 behoben.
 
-Wenn ein Benutzer versucht, ein Dokument oder einen Testversand anzuzeigen, indem er auf die Miniaturansicht im [!UICONTROL Homepage-Arbeitsliste], werden sie zu einer leeren Seite weitergeleitet. Dies liegt daran, dass eine unsichtbare URL direkt unter dem Miniaturbild liegt und der Benutzer, der auf diese URL klickt, zu einer leeren Seite gelangt.
+Wenn versucht wird, ein Dokument oder einen Korrekturabzug durch Klicken auf die Miniaturansicht in der [!UICONTROL Arbeitsliste der Startseite] anzuzeigen, erfolgt eine Weiterleitung zu einer leeren Seite. Dies liegt daran, dass sich eine unsichtbare URL direkt unter dem Miniaturbild befindet. Durch Klicken auf diese URL erfolgt eine Weiterleitung zu einer leeren Seite.
 
 **Problemumgehung**
 
 Klicken Sie direkt auf das Miniaturbild.
 
 _Erste Meldung am 17. Februar 2023._
-

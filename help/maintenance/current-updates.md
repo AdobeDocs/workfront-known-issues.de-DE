@@ -4,8 +4,8 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3020'
+ht-degree: 90%
 
 ---
 
@@ -29,8 +29,8 @@ _Benutzerdefinierte Formulare_
 
 Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die folgenden Probleme anzeigen:
 
-* Das &quot;+[!UICONTROL Hinzufügen]Die Schaltfläche &quot;&quot;ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
-* Felder ohne Werte zeigen ein &quot;—&quot;[!UICONTROL keine Beschriftung]—&quot;.
+* Die Schaltfläche „+[!UICONTROL Hinzufügen]“ ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
+* Felder ohne Werte zeigen eine Option „--[!UICONTROL keine Beschriftung]--“ an.
 
 **Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird**
 
@@ -84,23 +84,23 @@ Wir haben ein Benachrichtigungsbanner für die [!UICONTROL Updates] -Abschnitt, 
 
 +++**Wartungs-Update vom 13. April 2023**
 
-**Filter werden nicht auf die Anforderungsliste angewendet**
+**Filter werden nicht auf die Anfragenliste angewendet**
 
-_Anforde- rungen_
+_Anfragen_
 
-Wenn ein Benutzer eine Liste von Anforderungen anzeigt, für die ein Filter angewendet wurde, enthält die Liste Anforderungen, die vom Filter ausgeschlossen werden sollen.
+Wenn eine Liste von Anfragen angezeigt wird, auf die ein Filter angewendet wurde, enthält die Liste Anfragen, die vom Filter ausgeschlossen werden sollten.
 
-**Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]**
+**Auswahl von [!UICONTROL Standardstundentyp] oder [!UICONTROL Verfügbare Stundentypen]** ist nicht möglich
 
 _Benutzende_
 
-Wenn ein Administrator einen Benutzer bearbeitet und versucht, eine [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbarer Stündentyp], sehen sie, dass die Dropdown-Listen für diese Felder deaktiviert sind und dass sie keine Stundentypen auswählen können.
+Wenn Admins eine Benutzerin oder einen Benutzer bearbeiten und versuchen, einen Wert für [!UICONTROL Standardstundentyp] oder [!UICONTROL Verfügbarer Stundentyp] auszuwählen, sind die Dropdown-Listen für diese Felder deaktiviert, sodass keine Stundentypen ausgewählt werden können.
 
 +++
 
 +++**Wartungs-Update vom 6. April 2023**
 
-**Dropdowns werden nicht geöffnet, wenn ein Benutzer einem Testversand hinzugefügt wird**
+**Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden**
 
 _Korrekturabzüge_
 

@@ -1,14 +1,14 @@
 ---
-title: "Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern"
-description: "Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die Probleme anzeigen."
+title: 'Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern'
+description: Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die Probleme anzeigen.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern
 
@@ -18,15 +18,14 @@ ht-degree: 10%
 
 Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind, können die folgenden Probleme anzeigen:
 
-* Das &quot;+[!UICONTROL Hinzufügen]Die Schaltfläche &quot;&quot;ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
-* Felder ohne Werte zeigen ein &quot;—&quot;[!UICONTROL keine Beschriftung]—&quot;.
+* Die Schaltfläche „+[!UICONTROL Hinzufügen]“ ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
+* Felder ohne Werte zeigen eine Option „--[!UICONTROL keine Beschriftung]--“ an.
 
 **Problemumgehung**
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
-* Entfernen Sie die Option, damit das Feld mehrmals ausgewählt werden kann.
+* Entfernen Sie die Option, mit der das Feld mehrmals ausgewählt werden kann.
 * Legen Sie einen Standardwert fest.
 
 _Erste Meldung am 30. März 2023._
-

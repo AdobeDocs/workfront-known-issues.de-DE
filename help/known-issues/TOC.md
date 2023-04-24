@@ -3,8 +3,8 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 94%
       + [Testsendungen: Gesperrte Testversandgenehmigungen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Ressourcenplaner]: Nach dem Hinzufügen von Zeit kann nicht gespeichert werden](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Testsendungen: [!UICONTROL Testaktivität] Registerkartenfenster [!UICONTROL Testversanddetails]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Vorlagen: Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [Filter: Filter aus einem Bericht in einem Dashboard nicht freigeben](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL Startseite]: Klicken Sie neben der Miniaturansicht in [!UICONTROL Arbeitsliste] führt zu einer leeren Seite](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [Vorlagen: Die Vorlage kann nicht aus [!UICONTROL Favoritenvorlagen] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [[!UICONTROL Startseite]: Wenn Sie in der [!UICONTROL Arbeitsliste] neben der Miniaturansicht klicken, wird eine leere Seite angezeigt](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Benutzerdefinierte Formulare: Probleme in benutzerdefinierten Dropdown-Feldern](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
-      + [Testsendungen: Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
-      + [Benutzer: Auswahl nicht möglich [!UICONTROL Standardstündentyp] oder [!UICONTROL Verfügbare Stundentypen]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [Korrekturabzüge: Kann im [!UICONTROL Korrekturabzüge-Viewer] nicht zwischen Korrekturabzügen wechseln](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [Benutzende: Auswahl von [!UICONTROL Standardstundentyp] oder [!UICONTROL Verfügbare Stundentypen] ist nicht möglich](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrekturabzüge: Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)

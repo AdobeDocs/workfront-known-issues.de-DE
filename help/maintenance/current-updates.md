@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3020'
+source-wordcount: '3123'
 ht-degree: 90%
 
 ---
@@ -20,6 +20,26 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im April 2023
+
++++**(Geplant) Aktualisierung der Wartung am 27. April 2023**
+
+**Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 25. April 2023**
+
+ In-App-Hilfe-Links in **[!DNL Fusion]führen nicht zu den jeweiligen Hilfeseiten**
+
+_[!DNL Workfront Fusion]_
+
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
+
++++
 
 +++**Wartungs-Update vom 20. April 2023**
 

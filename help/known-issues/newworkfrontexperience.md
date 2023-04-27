@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 95%
+source-wordcount: '634'
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Timesheets: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 25. April 2023 |
 | [Testsendungen: Gesperrte Testversandgenehmigungen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21. April 2023 |
-| [[!UICONTROL Ressourcenplaner]: Nach dem Hinzufügen von Zeit kann nicht gespeichert werden](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20. April 2023 |
 
 {style="table-layout:auto"}
 

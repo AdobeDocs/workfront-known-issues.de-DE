@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 90%
+source-wordcount: '3167'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,19 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im April 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 27. April 2023**
++++**Wartungs-Update vom 27. April 2023**
 
 **Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]**
 
 _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
+
+**Bearbeiten angehängter Bilder beim Bearbeiten eines Kommentars**
+
+_Updates_
+
+Sie können jetzt das Bild bearbeiten, das an einen Kommentar angehängt ist, wenn Sie einen Kommentar bearbeiten. Dies ist im Abschnitt Updates für Workfront-Ziele und im Abschnitt zu Problemen bei der Aktivierung der Beta-Version für Kommentare verfügbar.
 
 +++
 

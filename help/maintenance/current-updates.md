@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3167'
-ht-degree: 89%
+source-wordcount: '3246'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,18 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Mai 2023
+
++++**(Geplant) Aktualisierung der Wartung am 4. Mai 2023**
+
+**Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]**
+
+_Vorlagen_
+
+Wenn Benutzende versuchen, eine Vorlage aus dem Menü „Aktionen“ (drei Punkte) auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden. Dies liegt daran, dass sich die Bildlaufleiste zwischen dem Menü und der Liste der Vorlagen befindet und der Fokus der Maus auf die Bildlaufleiste gelegt wird, wenn sie zur Liste der Vorlagen bewegt wird.
+
++++
 
 ## Updates im April 2023
 
@@ -58,39 +70,39 @@ Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind
 * Die Schaltfläche „+[!UICONTROL Hinzufügen]“ ist nicht vorhanden, wenn sich das Formular nicht im Bearbeitungsmodus befindet.
 * Felder ohne Werte zeigen eine Option „--[!UICONTROL keine Beschriftung]--“ an.
 
-**Polyline-Tool kann nicht verwendet werden, wenn ein Kommentar zu einem Testversand abgegeben wird**
+**Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden**
 
 _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug im Proofing Viewer anzeigen und versuchen, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht.
 
-**Textfeld-Optionen zeigt &quot;textAnnotations&quot;**
+**Feld mit Textoptionen zeigt „textAnnotations“**
 
 _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das Textwerkzeug öffnen, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
 
-**Bilder als Entwurf beibehalten, wenn Sie von einer Aktualisierung für Ziele und Probleme in der Kommentar-Beta-Erlebnis abrücken**
+**Bilder werden als Entwurf beibehalten, wenn Sie mit der Beta-Kommentar-Funktion von einer Aktualisierung wegnavigieren**
 
 >[!NOTE]
 >
->Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 zur Produktion freigegeben.
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 für die Produktion freigegeben.
 
 _Updates_
 
-Wenn Sie nun von der Seite Updates weg navigieren, während Sie eine Nachricht erstellen, an der Sie ein Bild angehängt haben, bleiben die Nachricht und das Bild erhalten, wenn Sie zurück navigieren. Vor dieser Aktualisierung wurde der nicht übermittelte Kommentar beibehalten, aber das Bild wurde gelöscht. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
+Wenn Sie jetzt von der Seite „Updates“ wegnavigieren, während Sie eine Nachricht erstellen, an die Sie ein Bild angefügt haben, bleiben die Nachricht und das Bild erhalten, bis Sie wieder zu der Seite zurückkehren. Vor diesem Update wurde der nicht übermittelte Kommentar beibehalten, aber das Bild wurde gelöscht. Dies ist im Abschnitt „Aktualisierungen“ für Ziele und für Probleme bei der Aktivierung der Beta-Kommentar-Funktion verfügbar.
 
-**Echtzeitaktualisierungen und gelöschte Kommentare im Abschnitt Updates**
+**Echtzeit-Updates und gelöschte Kommentare im Abschnitt „Aktualisierungen“**
 
 >[!NOTE]
 >
->Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 zur Produktion freigegeben.
+>Diese Funktion wurde am 19. April 2023 in der Vorschau veröffentlicht und am 20. April 2023 für die Produktion freigegeben.
 
-_Updates_
+_Aktualisierungen_
 
-Wenn jetzt jemand einen Kommentar oder eine Antwort hinzufügt oder einen Kommentar aus dem Bereich Updates löscht, können Sie den neuen Kommentar oder einen Hinweis sehen, dass der Kommentar in Echtzeit ohne Verzögerung entfernt wurde. Dies ist im Abschnitt Updates für Ziele und in der Liste der Probleme bei der Aktivierung der Kommentar-Beta-Erfahrung verfügbar.
+Wenn jetzt jemand einen Kommentar oder eine Antwort hinzufügt oder einen Kommentar aus dem Bereich „Aktualisierungen“ löscht, können Sie den neuen Kommentar oder einen Hinweis sehen, dass der Kommentar verzögerungsfrei (in Echtzeit) entfernt wurde. Dies ist im Abschnitt „Aktualisierungen“ für Ziele und für Probleme bei der Aktivierung der Beta-Kommentar-Funktion verfügbar.
 
-**Zugriffsstufe geändert durch System ohne Aufzeichnung der Änderung**
+**Zugriffsebene wird durch das System ohne Aufzeichnung einer solchen Änderung geändert**
 
 _Benutzende_
 
@@ -100,11 +112,11 @@ Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werde
 
 +++**Wartungs-Update vom 17. April 2023**
 
-**Zeigen Sie neue Kommentare außerhalb des sichtbaren Bildschirmbereichs im [!UICONTROL Updates] Abschnitt mit Problemen (neues Kommentierungserlebnis für Beta) und [!UICONTROL Ziele]**
+**Anzeige neuer Kommentare außerhalb des sichtbaren Bildschirmbereichs im Abschnitt [!UICONTROL Aktualisierungen] von Problemen (neue Beta-Kommentar-Funktion) und im Abschnitt [!UICONTROL Ziele]**
 
-_Updates_
+_Aktualisierungen_
 
-Wir haben ein Benachrichtigungsbanner für die [!UICONTROL Updates] -Abschnitt, um Benutzer darüber zu informieren, wenn neuere Kommentare zu einem Element vorhanden sind, das sich außerhalb des sichtbaren Bereichs auf dem Bildschirm befinden könnte. Diese Aktualisierung ist derzeit im Abschnitt [!UICONTROL Updates] -Abschnitt zu Zielen und Problemen, wenn das neue Kommentar-Beta-Erlebnis für Probleme aktiviert wurde.
+Wir haben ein Benachrichtigungs-Banner für den Abschnitt [!UICONTROL Aktualisierungen] hinzugefügt, um Benutzende darüber zu informieren, wenn neue Kommentare zu einem Element vorhanden sind, das sich außerhalb des sichtbaren Bereichs des Bildschirms befindet. Dieses Update ist derzeit im Abschnitt [!UICONTROL Aktualisierung] von Zielen und Problemen verfügbar, nachdem die neue Beta-Kommentar-Funktion für Probleme aktiviert wurde.
 
 +++
 

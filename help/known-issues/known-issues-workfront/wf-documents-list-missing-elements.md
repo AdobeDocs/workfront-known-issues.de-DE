@@ -1,18 +1,18 @@
 ---
-title: '„Dokumente: Probleme mit der Dokumentliste“'
-description: „In diesem Artikel werden aktuelle Probleme beschrieben, die in Bezug auf die Dokumentliste gemeldet wurden.“
+title: 'Dokumente: Probleme mit der Dokumentliste '
+description: In diesem Artikel werden die aktuellen Probleme beschrieben, die bezüglich der Dokumentliste gemeldet wurden.
 hidefromtoc: true
-source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
-workflow-type: ht
+exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
-
 # Dokumente: Probleme mit der Dokumentliste
 
-<!--This article is on the WF and WFP TOCs-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
 
 Die folgenden Probleme wurden bezüglich der Dokumentliste gemeldet:
 
@@ -24,4 +24,3 @@ Die folgenden Probleme wurden bezüglich der Dokumentliste gemeldet:
 Um die Filter-, Ansicht- und Gruppierungsoptionen wiederherzustellen, wechseln Sie zur Standardansicht und dann zurück zur Listenansicht.
 
 _Erste Meldung am 1. Juni 2023._
-

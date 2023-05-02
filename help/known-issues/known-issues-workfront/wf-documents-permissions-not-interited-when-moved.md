@@ -1,20 +1,20 @@
 ---
-title: '„Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird“'
-description: „Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. “
+title: 'Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird'
+description: '''Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. „'
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: ht
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
 ---
 
-
 # Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist.
 
@@ -29,4 +29,3 @@ Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt d
 Alternativ können Sie die ID des Dokuments (aus der URL der [!UICONTROL Dokumentdetailseite]) notieren und sich an den [!DNL Workfront]-Support wenden.
 
 _Erste Meldung am 6. Januar 2023._
-

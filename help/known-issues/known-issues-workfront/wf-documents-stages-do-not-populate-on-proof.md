@@ -1,14 +1,14 @@
 ---
 title: '„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer“'
-description: Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt und diesen dann in einem Bericht anzeigt, wie z. B. in einem Bericht zur [!UICONTROL Dokumentversion] oder zur [!UICONTROL Korrekturabzugsgenehmigung], ist das Feld [!UICONTROL Aktive Korrekturabzugsschritte] leer. Dies tritt auf, wenn der Korrekturabzug nach dem Hochladen des Dokuments erstellt wird, und zwar entweder als [!UICONTROL einfacher Korrekturabzug] oder [!UICONTROL erweiterter Korrekturabzug] mit einem [!UICONTROL einfachen Workflow].“
+description: Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt und diesen dann in einem Bericht anzeigt, wie z. B. in einem Bericht zur [!UICONTROL Dokumentversion] oder zur [!UICONTROL Korrekturabzugsgenehmigung], ist das Feld [!UICONTROL Aktive Korrekturabzugsschritte] leer. Dies tritt auf, wenn der Korrekturabzug nach dem Hochladen des Dokuments erstellt wird, und zwar entweder als [!UICONTROL einfacher Korrekturabzug] oder [!UICONTROL erweiterter Korrekturabzug] mit einem [!UICONTROL einfachen Workflow].
 hidefromtoc: true
-source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
-workflow-type: tm+mt
+exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
 ---
-
 
 # „Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer“
 
@@ -28,4 +28,3 @@ Führen Sie einen der folgenden Schritte aus:
 * Wenn Sie einen Korrekturabzug von einem vorhandenen Dokument generieren, erstellen Sie ihn als [!UICONTROL erweiterten Korrekturabzug] mit einem [!UICONTROL automatisierten Workflow].
 
 _Erste Meldung am 31. August 2022._
-

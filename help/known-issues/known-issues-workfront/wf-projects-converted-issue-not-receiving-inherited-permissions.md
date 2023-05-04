@@ -1,18 +1,21 @@
 ---
-title: '„Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm'
-description: „Wenn ein Problem in ein Projekt konvertiert wird, erbt das neue Projekt keine Berechtigungen vom Portfolio oder vom Programm, unter dem das Projekt erstellt wird.“
+title: 'Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm'
+description: Wenn ein Problem in ein Projekt konvertiert wird, erbt das neue Projekt keine Berechtigungen vom Portfolio oder vom Programm, unter dem das Projekt erstellt wird.
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+exl-id: 39bb4231-2a31-4443-9af1-bf27d83437ae
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
-
 # Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 4. Mai 2023 behoben.
 
 Wenn ein Problem in ein Projekt konvertiert wird, erbt das neue Projekt keine Berechtigungen vom Portfolio oder vom Programm, unter dem das Projekt erstellt wird.
 
 _Erste Meldung am 12. Oktober 2022._
-

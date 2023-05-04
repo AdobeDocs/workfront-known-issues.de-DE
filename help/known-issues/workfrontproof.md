@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Proof]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 98%
+source-wordcount: '282'
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: Suche gibt keine Ergebnisse zurück](known-issues-workfront-proof/proof-search-returns-no-results.md) | 27. April 2023 |
-| [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21. April 2023 |
+| Keine |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +34,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17. April 2023 |
+| [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4. Mai 2023 |
 | [Korrekturabzüge: Die Korrekturphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23. März 2023 |
 
 {style="table-layout:auto"}

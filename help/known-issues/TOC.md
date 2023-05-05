@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1142'
 ht-degree: 97%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Timesheets: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)

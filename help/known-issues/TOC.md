@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 97%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Timesheets: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [Arbeitszeittabellen: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Ressourcenplaner]: Nach dem Hinzufügen von Zeit kann nicht gespeichert werden](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -66,7 +66,7 @@ ht-degree: 97%
       + [[!UICONTROL Zusammenfassung]: Bedienfeld [!UICONTROL Zusammenfassung] kann nicht gescrollt werden](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Dokumente: Fehler „Ungültige Antwort“ beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Benutzende: Die geplante Deaktivierung deaktiviert Benutzende nicht](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [Einrichtung: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Setup: E-Mail-Vorlagen können nicht gespeichert werden](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Dokumente: Gelöschtes Dokument kann nicht wiederhergestellt werden](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Dokumente: Dokumente können nicht von [!DNL Google Drive] hinzugefügt werden](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
@@ -89,7 +89,7 @@ ht-degree: 97%
       + [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup] nur langsam geladen](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Aufgaben: Stunden werden beim Eingeben von Stunden im [!UICONTROL Zusammenfassungsfeld] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: Probleme beim Senden einer  [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile: Probleme beim Verschieben von Karten auf dem Agile-Board](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -147,7 +147,7 @@ ht-degree: 97%
       + [[!DNL Adobe Workfront Fusion]: Zeitüberschreitungsfehler in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: 404-Fehler in Workfront-Modulen](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: Fehler bei der Anzeige eines Fehlers im Ausführungsverlauf eines Szenarios](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]:  [!DNL Workfront] >[!UICONTROL Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

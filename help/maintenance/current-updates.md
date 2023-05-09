@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
 source-wordcount: '3245'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -35,23 +35,23 @@ Wenn Benutzende versuchen, eine Vorlage aus dem Menü „Aktionen“ (drei Punkt
 
 +++**Wartungs-Update vom 27. April 2023**
 
-**Kann nicht zwischen Testsendungen wechseln in [!UICONTROL Proof Viewer]**
+**Kann im [!UICONTROL Korrekturabzüge-Viewer]** nicht zwischen Korrekturabzügen wechseln
 
 _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
 
-**Bearbeiten angehängter Bilder beim Bearbeiten eines Kommentars**
+**Bearbeiten von angehängten Bildern beim Bearbeiten eines Kommentars**
 
 _Updates_
 
-Sie können jetzt das Bild bearbeiten, das an einen Kommentar angehängt ist, wenn Sie einen Kommentar bearbeiten. Dies ist im Abschnitt Updates für Workfront-Ziele und im Abschnitt zu Problemen bei der Aktivierung der Beta-Version für Kommentare verfügbar.
+Sie können jetzt das Bild bearbeiten, das an einen Kommentar angehängt ist, wenn Sie einen Kommentar bearbeiten. Dies ist im Abschnitt „Aktualisierungen“ für Workfront-Ziele und im Abschnitt „Probleme“ bei der Aktivierung des Beta-Kommentierungserlebnisses verfügbar.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 25. April 2023**
 
- In-App-Hilfe-Links in **[!DNL Fusion]führen nicht zu den jeweiligen Hilfeseiten**
+In-App-Hilfe-Links in **[!DNL Fusion]führen nicht zu den jeweiligen Hilfeseiten**
 
 _[!DNL Workfront Fusion]_
 

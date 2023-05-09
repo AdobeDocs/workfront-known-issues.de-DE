@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1151'
 ht-degree: 98%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Arbeitszeittabellen: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)

@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 99%
+source-wordcount: '3456'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,52 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2023
+
++++**(Geplant) Aktualisierung der Wartung am 11. Mai 2023**
+
+**[!DNL Workfront]Zeitüberschreitung der Suche**
+
+_Suchen_
+
+[!DNL Workfront]-Suche überschreitet gleich die Zeit. Die Suche gibt möglicherweise wenige oder gar keine Ergebnisse zurück.
+
+Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Suche].
+
+**Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
+
++++
+
++++**(Geplant) [!DNL Adobe Workfront Fusion] Wartungs-Update am 11. Mai 2023**
+
+**Timeout-Fehler in[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Wenn ein Szenario ausgeführt wird, kann ein Zeitüberschreitungsfehler angezeigt werden. Die vom Modul mit dem Fehler stammenden Informationen erreichen ihr Ziel nicht.
+
+**[!DNL Workfront]Zeitüberschreitung der Suche**
+
+_Suchen_
+
+[!DNL Workfront]-Suche überschreitet gleich die Zeit. Die Suche gibt möglicherweise wenige oder gar keine Ergebnisse zurück.
+
+Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Suche].
+
++++
+
++++**Wartungs-Update vom 9. Mai 2023**
+
+**Gespeicherte Filter, die in der Aufnahmespalte für Pinnwände verfügbar sind**
+
+_Pinnwände_
+
+Sie können jetzt vorhandene Workfront-Aufgaben- und -Problemfilter beim Konfigurieren der Ansaugsspalte für eine Pinnwand verwenden. Vorhandene Aufnahmespaltenfilter sind jetzt jedoch schreibgeschützt im Konfigurationsbereich. Die vorhandenen Filter werden weiterhin auf die Aufnahmespalte angewendet, Sie müssen die Filter jedoch neu erstellen, wenn Sie sie bearbeiten möchten.
+
++++
 
 +++**Wartungs-Update vom 4. Mai 2023**
 

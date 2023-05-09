@@ -1,12 +1,12 @@
 ---
-title: 'Workfront-Proof-API: Textkörper ist kein gültiger XML-Fehler.'
-description: Bei einem Aufruf der Workfront Testversand-API wird ein Fehler zurückgegeben.
+title: '„Workfront-Korrekturabzug-API: Fehler – Text ist keine gültige XML“'
+description: Ein Aufruf der Workfront-Korrekturabzug-API gibt einen Fehler zurück.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

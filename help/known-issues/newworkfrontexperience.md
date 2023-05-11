@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 96%
+source-wordcount: '592'
+ht-degree: 95%
 
 ---
 
@@ -34,11 +34,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Lastenausgleich: Unerwartete Verteilung der Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11. Mai 2023 |
 | [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5. Mai 2023 |
 | [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4. Mai 2023 |
 | [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3. Mai 2023 |
 | [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |
-| [Suche: Zeitüberschreitung der  [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md) | 27. März 2023 |
 | [Korrekturabzüge: Die Korrekturphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23. März 2023 |
 | [Korrekturabzüge: Benutzende werden im Korrekturabzugs-Workflow deaktiviert und erhalten die Fehlermeldung „[!UICONTROL Zugriff nicht erlaubt]“ beim Zugriff auf den Korrekturabzug](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23. März 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

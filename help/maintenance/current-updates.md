@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3456'
+source-wordcount: '3454'
 ht-degree: 97%
 
 ---
@@ -21,7 +21,13 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Mai 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 11. Mai 2023**
++++**Wartungs-Update vom 11. Mai 2023**
+
+**Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
 **[!DNL Workfront]Zeitüberschreitung der Suche**
 
@@ -31,15 +37,9 @@ _Suchen_
 
 Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Suche].
 
-**Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
-
-_Korrekturabzüge_
-
-Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
-
 +++
 
-+++**(Geplant) [!DNL Adobe Workfront Fusion] Wartungs-Update am 11. Mai 2023**
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 11. Mai 2023**
 
 **Timeout-Fehler in[!DNL Workfront Fusion]**
 

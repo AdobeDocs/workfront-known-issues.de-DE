@@ -1,9 +1,9 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1166'
 ht-degree: 98%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Lastenausgleich: Unerwartete Verteilung der Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)

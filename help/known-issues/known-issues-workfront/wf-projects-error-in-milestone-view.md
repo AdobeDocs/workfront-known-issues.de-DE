@@ -2,15 +2,19 @@
 title: "Projekte: Fehler bei Verwendung der Milestone-Ansicht"
 description: "Wenn ein Benutzer eine Projektliste anzeigt und versucht, die Meilensteinansicht zu verwenden, wird die Ansicht nicht geladen und der Benutzer sieht einen Fehler."
 hidefromtoc: true
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 28%
+source-wordcount: '97'
+ht-degree: 26%
 
 ---
 
 
 # Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 4. Mai 2023 behoben.
 
 Wenn ein Benutzer eine Projektliste anzeigt und versucht, die [!UICONTROL Milestone] -Ansicht, wird die Ansicht nicht geladen und der Benutzer sieht den folgenden Fehler:
 

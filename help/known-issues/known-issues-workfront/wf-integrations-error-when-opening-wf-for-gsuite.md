@@ -1,16 +1,18 @@
 ---
-title: '„Integrationen: Workfront for G Suite kann nicht geöffnet werden“'
-description: „Wenn sich ein(e) Benutzende(r) in einer G Suite-App befindet und versucht, das Workfront for G Suite-Add-on zu öffnen, wird das Add-on nicht geöffnet und die Meldung ‚Irgendetwas ist schiefgegangen, versuchen Sie es erneut.‘ erscheint. Der erneute Versuch ist nicht erfolgreich. “
+title: 'Integrationen: Workfront for G Suite kann nicht geöffnet werden'
+description: '"Wenn sich ein Benutzer in einer G Suite-App befindet und versucht, das Workfront for G Suite-Add-on zu öffnen, wird das Add-on nicht geöffnet und der Benutzer sieht die Meldung "Irgendetwas ist schief gegangen", versuchen Sie es erneut. Der erneute Versuch ist nicht erfolgreich. „'
 hidefromtoc: true
-source-git-commit: ca6c34c2ebb14b2eee1ac46e0edf2eb77218c0c0
-workflow-type: ht
+exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
-
 # Integrationen: Workfront for G Suite kann nicht geöffnet werden
+
+<!--Converted to Story-->
 
 >[!NOTE]
 >
@@ -19,4 +21,3 @@ ht-degree: 100%
 Wenn sich ein(e) Benutzende(r) in einer G Suite-App befindet und versucht, das Workfront for G Suite-Add-on zu öffnen, wird das Add-on nicht geöffnet und die Meldung „Irgendetwas ist schiefgegangen, versuchen Sie es erneut.“ erscheint. Der erneute Versuch ist nicht erfolgreich.
 
 _Erste Meldung am 1. Dezember 2022._
-

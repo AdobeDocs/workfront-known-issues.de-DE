@@ -3,9 +3,9 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '553'
 ht-degree: 96%
 
 ---
@@ -51,7 +51,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | -----------------------------------------------------------------| ----------------- |
 | [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5. Mai 2023 |
 | [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
-| [Suche: Zeitüberschreitung der  [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md) | 13. April 2023 |
 | [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11. April 2023 |
 | [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
 | [Dokumente: 404-Fehler beim Zugriff auf ein über  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) verknüpftes Dokument | 23. März 2023 |

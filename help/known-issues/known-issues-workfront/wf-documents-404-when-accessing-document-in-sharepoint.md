@@ -3,7 +3,7 @@ title: '"Dokumente: 404-Fehler beim Zugriff auf von SharePoint verknüpfte Dokum
 description: Wenn ein Benutzer versucht, auf ein über SharePoint verknüpftes Dokument zuzugreifen, wird er zu einer Seite mit dem Fehler 404 weitergeleitet.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 73%
@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint] verknüpftes Dokument
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 Wenn Benutzende versuchen, auf ein Dokument zuzugreifen, das über [!DNL SharePoint] verknüpft ist, werden sie zu einer Seite mit folgendem Fehler weitergeleitet:
 

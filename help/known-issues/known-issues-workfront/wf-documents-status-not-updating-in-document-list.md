@@ -1,20 +1,21 @@
 ---
-title: '„Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in Dokumentlisten aktualisiert“'
-description: „Wenn sich der Status eines Korrekturabzugs ändert, wird in einer Dokumentliste, in der dieser Korrekturabzug enthalten ist, nicht der richtige neuen Status angezeigt.“
+title: 'Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in Dokumentlisten aktualisiert'
+description: Wenn sich der Status eines Korrekturabzugs ändert, wird in einer Dokumentliste, in der dieser Korrekturabzug enthalten ist, nicht der richtige neuen Status angezeigt.
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: ht
+exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
-
 # Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert
+
+<!--Won't fix tab, article live by request-->
 
 Wenn sich der Status eines Korrekturabzugs ändert, wird in einer [!UICONTROL Dokumentliste], in der dieser Korrekturabzug enthalten ist, nicht der richtige neuen Status angezeigt.
 
 Auf der Seite [!UICONTROL Korrekturabzug-Workflow] in [!DNL Workfront] wird der korrekte Status des Korrekturabzugs angezeigt.
 
 _Erste Meldung am 3. August 2022._
-

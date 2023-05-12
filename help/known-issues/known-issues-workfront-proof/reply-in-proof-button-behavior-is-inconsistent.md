@@ -3,14 +3,16 @@ title: '„Startseite: Die Schaltfläche ‚Im Korrekturabzug antworten‘ funkt
 description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Version im Bereich [!UICONTROL Startseite] im rechten Bedienfeld einen Korrekturabzug öffnet und bei einem Kommentar auf [!UICONTROL Im Korrekturabzug antworten] klickt, wird ein Textfeld angezeigt, in dem er/sie im Bereich [!UICONTROL Dokumentaktualisierungen] eine Aktualisierung hinterlassen kann, anstatt wie vorgesehen zur Korrekturabzugsanzeige weitergeleitet zu werden.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

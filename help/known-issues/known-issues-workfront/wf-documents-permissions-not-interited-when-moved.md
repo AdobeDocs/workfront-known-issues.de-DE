@@ -3,7 +3,7 @@ title: 'Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein
 description: '''Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. „'
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist.
 

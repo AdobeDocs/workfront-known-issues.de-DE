@@ -3,14 +3,16 @@ title: '„Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifend
 description: Wenn ein/e Benutzende(r) ein objektübergreifendes Formular erstellt, in dem die Berechtigungen „Verwalten“ oder „Bearbeiten“ erforderlich sind, und diesen Objekttyp dann entfernt, erfordert das benutzerdefinierte Formular weiterhin die Berechtigung „Verwalten“ oder „Bearbeiten“, um die Felder zu bearbeiten. Es gibt keinen visuellen Hinweis darauf, dass die Felder die Berechtigung „Verwalten“ oder „Bearbeiten“ erfordern, und es gibt auch keine Möglichkeit, das Formular zurückzusetzen.
 hidefromtoc: true
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: d8285b98fc4cabf099994de64c466e829061611c
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
 ---
 
 # Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]
+
+<!--Won't fix, live for workaround-->
 
 >[!NOTE]
 >

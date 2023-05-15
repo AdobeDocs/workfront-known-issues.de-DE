@@ -1,10 +1,10 @@
 ---
-title: 'Filter: Filter wird beim Aktualisieren der Seite nicht angewendet'
+title: '„Filter: Filter wird beim Aktualisieren der Seite nicht angewendet“'
 description: Wenn Benutzende eine Liste mit angewendetem Filter anzeigen und die Seite aktualisieren, zeigt die aktualisierte Seite die Ergebnisse so an, als ob der Filter nicht angewendet worden wäre.
 hidefromtoc: true
 exl-id: 8a57b310-d23e-4751-a2e2-703ba7d94c0e
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 

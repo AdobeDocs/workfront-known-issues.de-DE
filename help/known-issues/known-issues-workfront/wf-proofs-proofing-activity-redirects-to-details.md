@@ -4,9 +4,9 @@ description: Wenn Sie einen Korrekturabzug anzeigen und auf die Registerkarte �
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dieses Problem wurde behoben.
+>Dieses Problem wurde geschlossen.
 
 Wenn Sie einen Korrekturabzug anzeigen und auf die Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] klicken, wird stattdessen die Registerkarte [!UICONTROL Details von Korrekturabzügen] geöffnet. Dies tritt auf, wenn dem Workflow manuell eine Phase für Korrekturabzüge hinzugefügt wurde.
 

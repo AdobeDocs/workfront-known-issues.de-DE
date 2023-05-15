@@ -1,10 +1,10 @@
 ---
-title: 'Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden'
-description: Wenn Benutzende einen Bericht in einem Dashboard anzeigen und versuchen, einen Filter aus diesem Bericht freizugeben, können sie den Filter nicht freigeben. Wenn auf die drei Punkte geklickt wird, wechselt das Dashboard zum nächsten Bericht. Beim Zurückkehren zum gewünschten Bericht wird angezeigt, dass die Option Freigeben nicht geöffnet wurde.
+title: '„Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden“'
+description: Wenn Benutzende einen Bericht in einem Dashboard anzeigen und versuchen, einen Filter aus diesem Bericht freizugeben, können sie den Filter nicht freigeben. Wenn auf die drei Punkte geklickt wird, wechselt das Dashboard zum nächsten Bericht. Beim Zurückkehren zum gewünschten Bericht wird angezeigt, dass die Option „Freigeben“ nicht geöffnet wurde.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
 ht-degree: 100%
 

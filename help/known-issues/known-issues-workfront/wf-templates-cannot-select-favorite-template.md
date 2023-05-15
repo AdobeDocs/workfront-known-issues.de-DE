@@ -1,16 +1,16 @@
 ---
-title: 'Vorlagen: Die Vorlage kann nicht aus Favoritenvorlagen ausgewählt werden'
+title: '„Vorlagen: Die Vorlage kann nicht aus den Favoritenvorlagen ausgewählt werden“'
 description: Wenn Benutzende versuchen, eine Vorlage aus dem Menü „Aktionen“ (drei Punkte) auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden. Dies liegt daran, dass sich die Bildlaufleiste zwischen dem Menü und der Liste der Vorlagen befindet und der Fokus der Maus auf die Bildlaufleiste gelegt wird, wenn sie zur Liste der Vorlagen bewegt wird.
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Vorlagen: Die Vorlage kann nicht aus [!UICONTROL Favoritenvorlagen] ausgewählt werden
+# Vorlagen: Die Vorlage kann nicht aus den [!UICONTROL Favoritenvorlagen] ausgewählt werden
 
 >[!NOTE]
 >

@@ -69,7 +69,7 @@ Sie können jetzt vorhandene Workfront-Aufgaben- und -Problemfilter beim Konfigu
 
 +++**Wartungs-Update vom 4. Mai 2023**
 
-**Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoritenvorlagen]**
+**Vorlage kann nicht aus den [!UICONTROL Favoritenvorlagen]** ausgewählt werden
 
 _Vorlagen_
 

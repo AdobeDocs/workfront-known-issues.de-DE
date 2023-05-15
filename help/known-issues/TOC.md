@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '1176'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [Lastenausgleich: Unerwartete Verteilung der Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projekte: Fehler bei Verwendung von [!UICONTROL Milestone] Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [Projekte: Fehler bei Verwendung der [!UICONTROL Meilenstein]-Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [Aufgaben: Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Arbeitszeittabellen: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Ressourcenplaner]: Nach dem Hinzufügen von Zeit kann nicht gespeichert werden](known-issues-workfront/wf-resource-planner-cannot-save-time.md)

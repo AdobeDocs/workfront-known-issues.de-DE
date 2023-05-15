@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '565'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Berichte: Bericht wird beim Sortieren nach benutzerdefinierten Feldern nicht korrekt sortiert](known-issues-workfront/wf-reports-sorting-not-applied.md) | 11. Mai 2023 |
-| [Aufgaben: Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11. Mai 2023 |
+| [Aufgaben: Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11. Mai 2023 |
 | [Lastenausgleich: Unerwartete Verteilung der Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11. Mai 2023 |
 | [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4. Mai 2023 |
 | [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |

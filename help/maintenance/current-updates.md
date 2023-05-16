@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 97%
+source-wordcount: '3533'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2023
+
++++**(Geplant) Aktualisierung der Wartung am 18. Mai 2023**
+
+
+**Bericht wird beim Sortieren nach benutzerdefinierten Feldern nicht korrekt sortiert**
+
+_Berichte_
+Wenn ein Benutzer einen Aufgabenbericht ausführt, scheint der Bericht beim Laden korrekt zu sortieren, doch nach Abschluss des Ladevorgangs wird dem Benutzer angezeigt, dass der Bericht nicht korrekt sortiert wurde.
+
+Dies scheint vorzunehmen, wenn alle folgenden Umstände erfüllt sind:
+
+* Der Bericht ist ein Aufgabenbericht
+* Der Bericht wird nach einem benutzerdefinierten Feld sortiert
+* Auf den Bericht wird eine Gruppierung angewendet
+
++++
 
 +++**Wartungs-Update vom 11. Mai 2023**
 

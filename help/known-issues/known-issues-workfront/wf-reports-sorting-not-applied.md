@@ -2,15 +2,19 @@
 title: '"Berichte: Bericht wird beim Sortieren nach benutzerdefinierten Feldern nicht korrekt sortiert'
 description: '"Wenn ein Benutzer einen Aufgabenbericht ausführt, scheint der Bericht beim Laden korrekt zu sortieren, doch nach Abschluss des Ladevorgangs wird dem Benutzer angezeigt, dass der Bericht nicht korrekt sortiert wurde. '
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 3%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 
 
 # Berichte: Bericht wird beim Sortieren nach benutzerdefinierten Feldern nicht korrekt sortiert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 18. Mai 2023 behoben.
 
 Wenn ein Benutzer einen Aufgabenbericht ausführt, scheint der Bericht beim Laden korrekt zu sortieren, doch nach Abschluss des Ladevorgangs wird dem Benutzer angezeigt, dass der Bericht nicht korrekt sortiert wurde.
 

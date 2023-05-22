@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3532'
-ht-degree: 95%
+source-wordcount: '3581'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,16 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2023
+
++++**Wartungs-Update vom 22. Mai 2023**
+
+**Die Größe des beschreibenden Texts kann nicht angepasst werden**
+
+_Benutzerdefinierte Formulare_
+
+Wenn der benutzerdefinierte Formularentwickler in der Beta-Version veröffentlicht wurde, war die Funktion zum Anpassen der Größe von beschreibendem Text nicht verfügbar. Dieses Problem wurde behoben und Benutzer können jetzt die Größe des beschreibenden Texts anpassen.
+
++++
 
 +++**Wartungs-Update vom 18. Mai 2023**
 

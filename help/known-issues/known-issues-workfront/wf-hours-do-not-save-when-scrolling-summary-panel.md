@@ -1,12 +1,12 @@
 ---
-title: '"Aufgaben: Stunden werden beim Eingeben von Stunden in der Aufgabe nicht gespeichert [!UICONTROL Zusammenfassungsbereich]'''
+title: '„Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert“'
 description: „Wenn ein(e) Benutzende(r) versucht, Stunden für eine Aufgabe in das Bedienfeld ‚Zusammenfassung‘ dieser Aufgabe einzugeben, werden die Stunden nicht gespeichert. Dies tritt auf, wenn der/die Benutzende den Cursor im Feld lässt, in dem er/sie die Stunden eingegeben hat, und das Bedienfeld [!UICONTROL Zusammenfassung] scrollt“
 hidefromtoc: true
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

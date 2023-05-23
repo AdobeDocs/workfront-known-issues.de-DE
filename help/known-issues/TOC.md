@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Agile: [!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
-      + [Berichte: Fehler beim Sortieren nach Feldern](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [Lastenausgleich: Unerwartete Verteilung der Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [Berichte: Bericht wird beim Sortieren nach einem beliebigen Feld nicht richtig sortiert](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
+      + [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
+      + [Berichte: Beim Sortieren nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Projekte: Fehler bei Verwendung der [!UICONTROL Meilenstein]-Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Aufgaben: Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Arbeitszeittabellen: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
@@ -129,7 +129,7 @@ ht-degree: 97%
       + [Korrekturabzüge: Das Feld mit den Textoptionen zeigt „textAnnotations“](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Korrekturabzüge: Benutzerdefinierte Nachrichten werden in E-Mail-Benachrichtigungen nicht angezeigt](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: Korrekturabzug wird nicht geladen, wenn die Schaltfläche [!UICONTROL Zum Korrekturabzug gehen] in der E-Mail-Benachrichtigung verwendet wird](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]: Korrekturabzug wird nicht geladen, wenn die Schaltfläche „[!UICONTROL Zum Korrekturabzug gehen]“ in der E-Mail-Benachrichtigung verwendet wird](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: Der Bereich [!UICONTROL Berichte] wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] wird nicht geladen](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Korrekturabzüge: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -143,7 +143,7 @@ ht-degree: 97%
       + [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
-      + [Korrekturabzüge: In den Korrekturabzügen wird [!UICONTROL Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
+      + [Korrekturabzüge: In den Korrekturabzügen wird „[!UICONTROL Korrekturabzug wird erstellt]“ zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}

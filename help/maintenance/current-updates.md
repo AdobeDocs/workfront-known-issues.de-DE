@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
 source-wordcount: '3581'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Wenn der benutzerdefinierte Formularentwickler in der Beta-Version veröffentlic
 _Berichte_
 Wenn ein Benutzer einen Aufgabenbericht ausführt, scheint der Bericht beim Laden korrekt zu sortieren, doch nach Abschluss des Ladevorgangs wird dem Benutzer angezeigt, dass der Bericht nicht korrekt sortiert wurde.
 
-Dies scheint vorzunehmen, wenn alle folgenden Umstände erfüllt sind:
+Dies scheint der Fall zu sein, wenn alle folgenden Bedingungen erfüllt sind:
 
 * Der Bericht ist ein Aufgabenbericht
 * Der Bericht wird nach einem benutzerdefinierten Feld sortiert
@@ -46,7 +46,7 @@ Dies scheint vorzunehmen, wenn alle folgenden Umstände erfüllt sind:
 
 +++
 
-+++**Wartungs-Update vom 11. Mai 2023**
++++**Wartungs-Update am 11. Mai 2023**
 
 **Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
 
@@ -54,9 +54,9 @@ _Korrekturabzüge_
 
 Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
-**[!DNL Workfront]Zeitüberschreitung der Suche**
+Zeitüberschreitung bei **[!DNL Workfront]-Suche**
 
-_Suchen_
+_Suche_
 
 [!DNL Workfront]-Suche überschreitet gleich die Zeit. Die Suche gibt möglicherweise wenige oder gar keine Ergebnisse zurück.
 
@@ -64,17 +64,17 @@ Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusi
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 11. Mai 2023**
++++**[!DNL Adobe Workfront Fusion]-Wartungs-Update vom 11. Mai 2023**
 
-**Timeout-Fehler in[!DNL Workfront Fusion]**
+**Zeitüberschreitungsfehler in[!DNL Workfront Fusion]**
 
 _Adobe Workfront Fusion_
 
 Wenn ein Szenario ausgeführt wird, kann ein Zeitüberschreitungsfehler angezeigt werden. Die vom Modul mit dem Fehler stammenden Informationen erreichen ihr Ziel nicht.
 
-**[!DNL Workfront]Zeitüberschreitung der Suche**
+Zeitüberschreitung bei **[!DNL Workfront]-Suche**
 
-_Suchen_
+_Suche_
 
 [!DNL Workfront]-Suche überschreitet gleich die Zeit. Die Suche gibt möglicherweise wenige oder gar keine Ergebnisse zurück.
 
@@ -84,11 +84,11 @@ Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusi
 
 +++**Wartungs-Update vom 9. Mai 2023**
 
-**Gespeicherte Filter, die in der Aufnahmespalte für Pinnwände verfügbar sind**
+**Gespeicherte Filter, die in der Aufnahmespalte der Pinnwand verfügbar sind**
 
 _Pinnwände_
 
-Sie können jetzt vorhandene Workfront-Aufgaben- und -Problemfilter beim Konfigurieren der Ansaugsspalte für eine Pinnwand verwenden. Vorhandene Aufnahmespaltenfilter sind jetzt jedoch schreibgeschützt im Konfigurationsbereich. Die vorhandenen Filter werden weiterhin auf die Aufnahmespalte angewendet, Sie müssen die Filter jedoch neu erstellen, wenn Sie sie bearbeiten möchten.
+Sie können jetzt in Workfront vorhandene Aufgaben- und Problemfilter beim Konfigurieren der Aufnahmspalte für eine Pinnwand verwenden. Vorhandene Aufnahmespaltenfilter sind jetzt jedoch im Konfigurationsbereich schreibgeschützt. Die vorhandenen Filter werden weiterhin auf die Aufnahmespalte angewendet, doch müssen die Filter neu erstellt werden, um sie bearbeiten zu können.
 
 +++
 

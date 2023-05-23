@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 97%
+source-wordcount: '3646'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2023
+
++++**(Geplant) Aktualisierung der Wartung am 25. Mai 2023**
+
+**[!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer**
+
+_Agile_
+
+Wenn ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban] Pinnwand, [!UICONTROL Kanban] Pinnwand wird leer, anstatt mit der Änderung aktualisiert zu werden. Wenn der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban] -Pinnwand zurückgegeben, die die korrekte Änderung anzeigt.
+
+Dies wurde unter folgenden Umständen gemeldet:
+
+* Bearbeiten einer Karte
+* Karte verschieben
+
+
++++
 
 +++**Wartungs-Update vom 22. Mai 2023**
 

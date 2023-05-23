@@ -3,7 +3,7 @@ title: '„Projekte: Fehler bei Verwendung der Meilenstein-Ansicht“'
 description: „Wenn eine Benutzerin oder ein Benutzer eine Projektliste anzeigt und versucht, die Meilenstein-Ansicht zu verwenden, wird die Ansicht nicht geladen und ein Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 

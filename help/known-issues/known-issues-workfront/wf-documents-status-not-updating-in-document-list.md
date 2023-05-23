@@ -1,10 +1,10 @@
 ---
-title: 'Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in Dokumentlisten aktualisiert'
+title: '„Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in Dokumentlisten aktualisiert“'
 description: Wenn sich der Status eines Korrekturabzugs ändert, wird in einer Dokumentliste, in der dieser Korrekturabzug enthalten ist, nicht der richtige neuen Status angezeigt.
 hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 

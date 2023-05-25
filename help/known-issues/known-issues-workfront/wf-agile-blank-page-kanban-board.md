@@ -2,15 +2,19 @@
 title: "Agile: Kanban-Pinnwand beim Bearbeiten von Karten leer"
 description: "Wenn ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban] Pinnwand, [!UICONTROL Kanban] Pinnwand wird leer, anstatt mit der Änderung aktualisiert zu werden. Wenn der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban] -Pinnwand zurückgegeben, die die korrekte Änderung anzeigt."
 hidefromtoc: true
-source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
 
 # Agile: [!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 25. Mai 2023 behoben.
 
 Wenn ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban] Pinnwand, [!UICONTROL Kanban] Pinnwand wird leer, anstatt mit der Änderung aktualisiert zu werden. Wenn der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban] -Pinnwand zurückgegeben, die die korrekte Änderung anzeigt.
 

@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular in einem neuen Formularentwickler (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24. Mai 2023 |
-| [Agile: [!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 18. Mai 2023 |
 | [Aufgaben: Keine Fehlermeldung bei der Neuanordnung einer Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11. Mai 2023 |
 | [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11. Mai 2023 |
 | [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4. Mai 2023 |

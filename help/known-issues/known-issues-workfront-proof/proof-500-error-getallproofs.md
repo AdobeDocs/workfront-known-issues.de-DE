@@ -1,16 +1,16 @@
 ---
-title: "Workfront-Testversand: 500-Fehler beim Zugriff auf Workfront Testversand über API oder Workfront Fusion"
-description: '"Wenn ein Benutzer auf die Aktion "Proof API getAllProofs"zugreift, gibt der Workfront Testserver die folgende Meldung zurück: 500 Interner Server-Fehler"'
+title: '„Workfront-Korrekturabzug: 500-Fehler beim Zugriff auf Workfront-Korrekturabzug über API oder Workfront Fusion“'
+description: '„Wenn eine Benutzerin oder ein Benutzer auf die Aktion ‚getAllProofs‘ der Korrekturabzug-API zugreift, gibt der Workfront-Korrekturabzug-Server die folgende Meldung zurück: 500 Interner Server-Fehler“'
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: 500-Fehler beim Zugriff [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]
+# [!DNL Workfront Proof]: 500-Fehler beim Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 31%
 
 <!--This article is on Proof and Fusion TOCs-->
 
-Wenn ein Benutzer auf die [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] -Aktion verwenden, gibt der Server die folgende Meldung zurück:
+Wenn eine Benutzerin oder ein Benutzer auf die [!DNL Workfront Proof]API[!UICONTROL `getAllProofs`]-Aktion zugreift, gibt der Server die folgende Nachricht zurück:
 
 [!UICONTROL 500 Interner Server-Fehler]
 
-weil [!DNL Workfront Fusion] verwendet die [!DNL Workfront Proof] API für [!DNL Workfront Proof] -Modulen, kann dieser Fehler an ein Modul zurückgegeben werden, wodurch ein Szenario angehalten wird.
+Da [!DNL Workfront Fusion] die [!DNL Workfront Proof]-API für [!DNL Workfront Proof]-Module verwendet, kann dieser Fehler an ein Modul zurückgegeben werden, wodurch ein Szenario angehalten wird.
 
 _Erste Meldung am 28. April 2023._
 

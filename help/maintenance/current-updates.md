@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3646'
-ht-degree: 99%
+source-wordcount: '3821'
+ht-degree: 98%
 
 ---
 
@@ -19,9 +19,27 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
+## Updates im Juni 2023
+
++++**(Geplant) Aktualisierung der Wartung am 1. Juni 2023**
+
+**Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status**
+
+_Aufgaben_
+
+Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da es sich im Status [!UICONTROL Ausstehende Genehmigung] befindet, doch es gibt keine Meldung, die darauf hinweist, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
+
+**Keine Fehlermeldung beim Verschieben einer Vorgängeraufgabe in eine abhängige Aufgabe**
+
+_Aufgaben_
+
+Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da eine Vorgängeraufgabe nicht unter eine Aufgabe verschoben werden kann, für die es bereits der Vorgänger ist. Es gibt jedoch keine Meldung, die dem Benutzer mitteilt, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
+
++++
+
 ## Updates im Mai 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 25. Mai 2023**
++++**Wartungs-Update vom 25. Mai 2023**
 
 **[!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer**
 

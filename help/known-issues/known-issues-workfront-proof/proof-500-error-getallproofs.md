@@ -3,7 +3,7 @@ title: '„Workfront-Korrekturabzug: 500-Fehler beim Zugriff auf Workfront-Korre
 description: '„Wenn eine Benutzerin oder ein Benutzer auf die Aktion ‚getAllProofs‘ der Korrekturabzug-API zugreift, gibt der Workfront-Korrekturabzug-Server die folgende Meldung zurück: 500 Interner Server-Fehler“'
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

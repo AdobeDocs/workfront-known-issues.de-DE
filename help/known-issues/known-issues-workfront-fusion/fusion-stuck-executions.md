@@ -1,18 +1,18 @@
 ---
-title: "Workfront Fusion: Hinrichtungen hängen oder sind verzögert"
-description: "Die Ausführung kann blockiert werden und läuft weiter, auch wenn keine Daten verarbeitet werden. Da das Szenario blockiert ist, können spätere Ausführungen dieses Szenarios verzögert werden."
+title: '„Workfront Fusion: Ausführungen hängen oder sind verzögert“'
+description: „Eine Ausführung kann hängen bleiben und läuft dann weiter, ohne dass Daten verarbeitet werden. Da das Szenario hängt, können spätere Ausführungen dieses Szenarios verzögert sein.“
 hidefromtoc: true
 source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Hinrichtungen hängen oder sind verzögert
+# [!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert
 
-Die Ausführung kann blockiert werden und die Ausführung kann fortgesetzt werden, auch wenn keine Daten verarbeitet werden. Da das Szenario blockiert ist, können spätere Ausführungen dieses Szenarios verzögert werden.
+Die Ausführung kann hängen bleiben und läuft dann weiter, ohne dass Daten verarbeitet werden. Da das Szenario hängt, können spätere Ausführungen dieses Szenarios verzögert sein.
 
 _Erste Meldung am 17. Mai 2023._
 

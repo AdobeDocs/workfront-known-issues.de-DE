@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Hinrichtungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md) | 25. Mai 2023 |
+| [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md) | 25. Mai 2023 |
 
 {style="table-layout:auto"}
 

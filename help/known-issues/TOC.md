@@ -4,7 +4,7 @@ user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular in einem neuen Formularentwickler (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile: [!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Agile: [!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Berichte: Bericht wird beim Sortieren nach einem beliebigen Feld nicht richtig sortiert](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -46,7 +46,7 @@ ht-degree: 96%
       + [Benutzende: Zugriffsebene durch System ohne Aufzeichnung der Änderung geändert](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [Dokumente: 404-Fehler beim Zugriff auf ein über  [!DNL SharePoint] verknüpftes Dokument](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Aktualisierungen: Im Auftrag von Benutzenden vorgenommene Aktualisierungen werden als direkt von den Benutzenden angezeigt.](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [Aktualisierungen: Im Auftrag von Benutzenden vorgenommene Aktualisierungen werden als direkt von den Benutzenden angezeigt](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend der Auszeit der Benutzenden angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Berichte: Bei der Sortierung nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
@@ -64,7 +64,7 @@ ht-degree: 96%
       + [Benutzende: Benutzende können nicht ihre eigenen Benachrichtigungseinstellungen bearbeiten](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Lastenausgleich: falsche Ergebnisse bei der gleichzeitigen Verwendung mehrerer Filter](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Gruppen: Untergruppen erhalten keine Benachrichtigungen entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen.](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Gruppen: Untergruppen erhalten keine Benachrichtigungen entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Dokumente: Das Zusammenfassungsfenster bewegt sich beim Klicken auf das Dreipunkt-Menü wieder nach oben](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [Dokumente: Fehler „Diese Seite existiert nicht“ beim Öffnen oder Herunterladen eines Dokuments](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
@@ -80,7 +80,7 @@ ht-degree: 96%
       + [Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Integrationen: [!DNL Workfront for G Suite] kann nicht geöffnet werden](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte.](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Projekte: Der Projektstatus entspricht nicht den Voreinstellungen für Gruppenprojekte](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Benutzerdefinierte Formulare: Feld kann nicht in der Berechnung verwendet werden, wenn der Feldname Apostrophe oder Anführungszeichen enthält](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md)
@@ -91,7 +91,7 @@ ht-degree: 96%
       + [Aufgaben: [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe kann nicht geändert werden](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Projekte: Leistungsprobleme und Fehlermeldungen beim Erstellen eines Projekts aus einer Vorlage](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Probleme: In der linken Navigation werden „(0)“ Probleme angezeigt, obwohl Probleme vorhanden sind.](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Probleme: In der linken Navigation werden „(0)“ Probleme angezeigt, obwohl Probleme vorhanden sind](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup] nur langsam geladen](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Aufgaben: Stunden werden beim Eingeben von Stunden im [!UICONTROL Zusammenfassungsfeld] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [„Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
@@ -125,7 +125,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: 500-Fehler beim Zugriff [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: 500-Fehler bei Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: Suche gibt keine Ergebnisse zurück](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Korrekturabzüge: Das Feld mit den Textoptionen zeigt „textAnnotations“](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -134,9 +134,9 @@ ht-degree: 96%
       + [[!DNL Workfront Proof]: Der Bereich [!UICONTROL Berichte] wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Druckzusammenfassung] wird nicht geladen](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Korrekturabzüge: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
-      + [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann.](known-issues-workfront-proof/proof-new-stage-created.md)
+      + [Korrekturabzüge: Neuer Schritt erstellt, weil Frist nicht mit der Frist des bestehenden Schritts abgestimmt werden kann](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API-Fehler: „[!UICONTROL Text ist keine gültige XML]“](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [Benutzende können nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt werden](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [Der automatische Zugriff auf Korrekturabzüge wird verzögert](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
@@ -151,7 +151,7 @@ ht-degree: 96%
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: Hinrichtungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: Der Ausführungsverlauf des Szenarios zeigt nicht den gesamten Verlauf an](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: Zeitüberschreitungsfehler in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: 404-Fehler in Workfront-Modulen](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)

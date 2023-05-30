@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -23,16 +23,16 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**(Geplant) Aktualisierung der Wartung am 25. Mai 2023**
 
-**[!UICONTROL Kanban] Pinnwand beim Bearbeiten von Karten leer**
+**[!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer**
 
 _Agile_
 
-Wenn ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban] Pinnwand, [!UICONTROL Kanban] Pinnwand wird leer, anstatt mit der Änderung aktualisiert zu werden. Wenn der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban] -Pinnwand zurückgegeben, die die korrekte Änderung anzeigt.
+Wenn eine Benutzerin oder ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban]-Pinnwand ändert, dann wird die [!UICONTROL Kanban]-Pinnwand leer, anstatt mit der Änderung aktualisiert zu werden. Wenn die Benutzerin oder der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban]-Pinnwand wieder angezeigt, mit der korrekten Änderung.
 
-Dies wurde unter folgenden Umständen gemeldet:
+Dies wurde unter den folgenden Umständen gemeldet:
 
 * Bearbeiten einer Karte
-* Karte verschieben
+* Verschieben einer Karte
 
 
 +++
@@ -43,16 +43,16 @@ Dies wurde unter folgenden Umständen gemeldet:
 
 _Benutzerdefinierte Formulare_
 
-Wenn der benutzerdefinierte Formularentwickler in der Beta-Version veröffentlicht wurde, war die Funktion zum Anpassen der Größe von beschreibendem Text nicht verfügbar. Dieses Problem wurde behoben und Benutzer können jetzt die Größe des beschreibenden Texts anpassen.
+Als der Designer für benutzerdefinierte Formulare in der Beta-Version veröffentlicht wurde, war die Funktion zum Anpassen der Größe von beschreibendem Text nicht verfügbar. Dieses Problem wurde behoben, und Benutzerinnen und Benutzer können jetzt die Größe des beschreibenden Texts anpassen.
 
 +++
 
 +++**Wartungs-Update vom 18. Mai 2023**
 
-**Bericht wird beim Sortieren nach benutzerdefinierten Feldern nicht korrekt sortiert**
+**Bericht wird beim Sortieren nach benutzerdefiniertem Feld nicht korrekt sortiert**
 
 _Berichte_
-Wenn ein Benutzer einen Aufgabenbericht ausführt, scheint der Bericht beim Laden korrekt zu sortieren, doch nach Abschluss des Ladevorgangs wird dem Benutzer angezeigt, dass der Bericht nicht korrekt sortiert wurde.
+Wenn eine Benutzerin oder ein Benutzer einen Aufgabenbericht ausführt, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
 
 Dies scheint der Fall zu sein, wenn alle folgenden Bedingungen erfüllt sind:
 
@@ -601,7 +601,7 @@ Die folgenden Funktionen sind jetzt für Pins im Menü [!UICONTROL Mehr] verfüg
 * Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
 * Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
 
-**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzende zum Projektteam hinzugefügt werden können.**
+**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzende zum Projektteam hinzugefügt werden können**
 
 _Teams_
 

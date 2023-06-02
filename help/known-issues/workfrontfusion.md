@@ -3,10 +3,10 @@ title: Bekannte Probleme in [!DNL Adobe Workfront Fusion]
 description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
+source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md) | 25. Mai 2023 |
+| Keine |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | 24. Mai 2023 |
+| Keine |  |
 
 {style="table-layout:auto"}
 

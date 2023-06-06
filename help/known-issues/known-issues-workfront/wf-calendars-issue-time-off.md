@@ -3,9 +3,9 @@ title: '„Kalender: Probleme mit dem Urlaubskalender“'
 description: Es wurden Probleme mit dem Urlaubskalender gemeldet.
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
-source-wordcount: '116'
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde am 6. Juni 2023 behoben.
 
 Die folgenden Probleme werden mit dem [!UICONTROL Urlaubskalender] gemeldet:
 

@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 98%
+source-wordcount: '3889'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,14 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 +++** Wartungs-Update vom 8. Juni 2023**
 
 Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
++++
+
++++**[!DNL Adobe Workfront Fusion] Wartungs-Update vom 8. Juni 2023**
+
+[!DNL Fusion] hat eine Korrektur bereitgestellt, die verhindert, dass die Verbindungen eines Benutzers entfernt werden, wenn der Benutzer in der [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] Team-Administratoren können weiterhin nicht benötigte Verbindungen aus dem [!UICONTROL Verbindungen] Seite in Fus[!DNL]Ion.
 
 +++
 

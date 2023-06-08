@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
+source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 100%
+source-wordcount: '1221'
+ht-degree: 99%
 
 ---
 
@@ -150,6 +150,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL kann UPDATE nicht ausführen]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: E-Mail-Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: Der Ausführungsverlauf des Szenarios zeigt nicht den gesamten Verlauf an](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)

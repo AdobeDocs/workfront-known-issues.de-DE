@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 100%
+source-wordcount: '551'
+ht-degree: 98%
 
 ---
 
@@ -48,6 +48,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Testsendungen werden langsam in der Vorschau-Umgebung erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
 | [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5. Mai 2023 |
 | [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
 | [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11. April 2023 |

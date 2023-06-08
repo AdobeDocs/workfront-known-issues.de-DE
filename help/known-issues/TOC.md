@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1221'
-ht-degree: 99%
+source-wordcount: '1230'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Testsendungen werden langsam in der Vorschau-Umgebung erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [„Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: [!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Berichte: Bericht wird beim Sortieren nach einem beliebigen Feld nicht richtig sortiert](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)

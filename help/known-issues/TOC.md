@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 98%
+source-wordcount: '1246'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: &quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [Testsendungen: Testsendungen werden langsam in der Vorschau-Umgebung erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Testsendungen: Testsendungen werden langsam in der Vorschau-Umgebung erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [„Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: [!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)

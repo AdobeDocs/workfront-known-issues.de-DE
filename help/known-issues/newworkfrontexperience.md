@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 98%
+source-wordcount: '568'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| Keine |  |
+| [Berichte: &quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts](known-issues-workfront/wf-reports-error-matrix-report.md) | 9. Juni 2023 |
+| [Testsendungen: Testsendungen werden langsam in der Vorschau-Umgebung erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9. Juni 2023 |
 
 {style="table-layout:auto"}
 

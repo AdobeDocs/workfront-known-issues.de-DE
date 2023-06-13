@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
+source-git-commit: 813f3a32184d73ff63e10fba8e8b207e42f31483
 workflow-type: tm+mt
-source-wordcount: '3889'
-ht-degree: 97%
+source-wordcount: '3915'
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,19 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Juni 2023
 
-+++** Wartungs-Update vom 8. Juni 2023**
++++**(Geplant) Aktualisierung der Wartung am 15. Juni 2023**
 
 Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion] Wartungs-Update vom 8. Juni 2023**
++++**Wartungs-Update vom 8. Juni 2023**
+
+Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 8. Juni 2023**
 
 [!DNL Fusion] hat eine Korrektur bereitgestellt, die verhindert, dass die Verbindungen eines Benutzers entfernt werden, wenn der Benutzer in der [!UICONTROL Adobe Admin Console].
 
@@ -35,19 +41,19 @@ Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. De
 
 +++
 
-+++** Wartungs-Update vom 1. Juni 2023**
++++**Wartungs-Update vom 1. Juni 2023**
 
-**Keine Fehlermeldung bei der Neuanordnung der Aufgabe in [!UICONTROL Ausstehende Genehmigung] status**
+**Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]**
 
 _Aufgaben_
 
 Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da es sich im Status [!UICONTROL Ausstehende Genehmigung] befindet, doch es gibt keine Meldung, die darauf hinweist, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
 
-**Keine Fehlermeldung beim Verschieben einer Vorgängeraufgabe in eine abhängige Aufgabe**
+**Keine Fehlermeldung beim Verschieben einer Vorgängeraufgabe unter eine abhängige Aufgabe**
 
 _Aufgaben_
 
-Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da eine Vorgängeraufgabe nicht unter eine Aufgabe verschoben werden kann, für die es bereits der Vorgänger ist. Es gibt jedoch keine Meldung, die dem Benutzer mitteilt, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
+Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da eine Vorgängeraufgabe nicht unter eine Aufgabe verschoben werden kann, deren Vorgänger sie ist. Es gibt jedoch keine Meldung, die der Benutzerin oder dem Benutzer mitteilt, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
 
 +++
 

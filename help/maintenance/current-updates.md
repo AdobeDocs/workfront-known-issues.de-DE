@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3914'
+source-wordcount: '3912'
 ht-degree: 98%
 
 ---
@@ -37,7 +37,7 @@ Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. De
 
 [!DNL Fusion] hat eine Korrektur bereitgestellt, die verhindert, dass die Verbindungen eines Benutzers entfernt werden, wenn der Benutzer in der [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] Team-Administratoren können weiterhin nicht benötigte Verbindungen aus dem [!UICONTROL Verbindungen] Seite in Fus[!DNL]Ion.
+[!DNL Fusion] Team-Administratoren können weiterhin nicht benötigte Verbindungen aus dem [!UICONTROL Verbindungen] Seite in [!DNL Fusion].
 
 +++
 

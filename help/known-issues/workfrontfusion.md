@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: &quot;[!UICONTROL kann UPDATE nicht ausführen]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | 8. Juni 2023 |
+| [[!DNL Workfront Fusion]: Fehler „[!UICONTROL UPDATE kann nicht ausgeführt werden]“](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | 8. Juni 2023 |
 
 {style="table-layout:auto"}
 

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -23,19 +23,19 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom 15. Juni 2023**
 
-Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
 +++**Wartungs-Update vom 8. Juni 2023**
 
-Dieses Update umfasst nur kleinere oder weniger auffällige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 8. Juni 2023**
 
-[!DNL Fusion] hat eine Korrektur bereitgestellt, die verhindert, dass die Verbindungen eines Benutzers entfernt werden, wenn der Benutzer in der [!UICONTROL Adobe Admin Console].
+[!DNL Fusion] hat eine Fehlerbehebung implementiert, die verhindert, dass die Verbindungen einer Benutzerin oder eines Benutzers entfernt werden, wenn sie oder er in der [!UICONTROL Adobe Admin Console] deaktiviert ist.
 
 [!DNL Fusion] Team-Administratoren können weiterhin nicht benötigte Verbindungen aus dem [!UICONTROL Verbindungen] Seite in [!DNL Fusion].
 

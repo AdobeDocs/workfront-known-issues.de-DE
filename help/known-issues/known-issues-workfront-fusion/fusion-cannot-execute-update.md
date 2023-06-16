@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion: UPDATE-Fehler kann nicht ausgeführt werden"
-description: "Die Ausführung eines Szenarios schlägt fehl und der Fehler kann UPDATE nicht in einer schreibgeschützten Transaktion ausführen."
+title: '„Workfront Fusion: Fehler – UPDATE kann nicht ausgeführt werden“'
+description: „Eine Szenarioausführung schlägt mit diesem Fehler fehl. UPDATE kann nicht in einer schreibgeschützten Transaktion ausgeführt werden.“
 hidefromtoc: true
 source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: &quot;[!UICONTROL kann UPDATE nicht ausführen]&quot; error
+# [!DNL Workfront Fusion]: Fehler „[!UICONTROL UPDATE kann nicht ausgeführt werden]“
 
-Die Ausführung eines Szenarios schlägt mit dem folgenden Fehler fehl:
+Eine Szenarioausführung schlägt mit dem folgenden Fehler fehl:
 
-&quot;[!UICONTROL kann UPDATE nicht in einer schreibgeschützten Transaktion ausführen]&quot; [sic]
+„[!UICONTROL UPDATE kann nicht in einer schreibgeschützten Transaktion ausgeführt werden]“ [sic]
 
-Dieser Fehler wurde im Abschnitt [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] -Modul.
+Dieser Fehler wurde im Modul [!DNL Workfront] > [!UICONTROL Ereignisse ansehen] gemeldet.
 
 _Erste Meldung am 7. Juni 2023._
 

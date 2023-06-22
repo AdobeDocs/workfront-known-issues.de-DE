@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '578'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Startseite]: Elemente werden nicht in [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12. Juni 2023 |
-| [Berichte: &quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts](known-issues-workfront/wf-reports-error-matrix-report.md) | 9. Juni 2023 |
+| [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12. Juni 2023 |
+| [Berichte: „[!UICONTROL Hoppla]“-Fehler beim Anzeigen des Matrixberichts](known-issues-workfront/wf-reports-error-matrix-report.md) | 9. Juni 2023 |
 | [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9. Juni 2023 |
 
 {style="table-layout:auto"}

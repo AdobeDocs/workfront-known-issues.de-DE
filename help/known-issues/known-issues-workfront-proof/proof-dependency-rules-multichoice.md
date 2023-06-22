@@ -1,15 +1,15 @@
 ---
-title: "WF-Testversand integrierter Konten - Testversandabhängigkeitsregeln, die die Auswahl von Mehrfachauswahlfeldern nicht zulassen"
-description: "Für Abhängigkeitsregeln können in [!DNL Workfront] und [!DNL Workfront Proof] integrierte Instanzen. Dies ist eine eingeschränkte Funktionalität im Vergleich zu alten Testadressen-Konten."
+title: „Konten mit integriertem WF-Korrekturabzug – Korrekturabzug-Abhängigkeitsregeln lassen keine Auswahl von Feldern mit Mehrfachauswahl zu“
+description: „Es können in integrierten Instanzen von  [!DNL Workfront] und  [!DNL Workfront Proof]  nur benutzerdefinierte Feldtypen wie Listen und Auswahlschaltflächen für Abhängigkeitsregeln ausgewählt werden. Dies ist eine eingeschränkte Funktionalität im Vergleich zu alten ProofHQ-Konten.“
 hidefromtoc: true
 source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Integrierte Konten - Nachweise für Abhängigkeitsregeln, die die Auswahl von Mehrfachauswahl-Feldern nicht zulassen
+# [!DNL Workfront Proof]: Integrierte Konten – Korrekturabzug-Abhängigkeitsregeln lassen keine Auswahl von Feldern mit Mehrfachauswahl zu
 
-Benutzerdefinierte Feldtypen für Listen und Optionsfelder können für Abhängigkeitsregeln in [!DNL Workfront] und [!DNL Workfront Proof] integrierte Instanzen. Dies ist eine eingeschränkte Funktionalität im Vergleich zu alten Testadressen-Konten.
+Für Abhängigkeitsregeln in integrierten Instanzen von [!DNL Workfront] und [!DNL Workfront Proof] können nur benutzerdefinierte Feldtypen wie Listen und Auswahlschaltflächen ausgewählt werden. Dies ist eine eingeschränkte Funktionalität im Vergleich zu alten ProofHQ-Konten.

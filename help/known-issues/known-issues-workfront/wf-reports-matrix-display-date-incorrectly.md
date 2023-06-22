@@ -1,20 +1,20 @@
 ---
-title: "Berichte: Datumsangaben werden in Matrix-Berichten falsch angezeigt."
-description: "Wenn ein Diagramm- oder Matrixbericht nach Datum gruppiert wird, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, in der vorherigen/nächsten Gruppierung oder in beidem erscheinen."
+title: '„Berichte: Datumsangaben werden in Matrixberichten falsch angezeigt“'
+description: „Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.“
 hidefromtoc: true
 source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Berichte: Datumsangaben werden in Matrix-Berichten falsch angezeigt
+# Berichte: Datumsangaben werden in Matrixberichten falsch angezeigt
 
-Wenn ein Diagramm- oder Matrixbericht nach Datum gruppiert wird, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, in der vorherigen/nächsten Gruppierung oder beidem erscheinen.
+Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.
 
-Die [!UICONTROL Details] zeigt die Datumgruppierungen korrekt an.
+Die Registerkarte [!UICONTROL Details] zeigt die Datumsgruppierungen korrekt an.
 
 _Erste Meldung am 7. Juni 2023._
 

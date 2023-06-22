@@ -1,26 +1,26 @@
 ---
-title: "Berichte: Bowlingfehler beim Anzeigen des Matrix-Berichts"
-description: "Wenn ein Benutzer einen Matrix-Bericht anzeigt, wird ihm der UUPS-Fehler angezeigt."
+title: '„Berichte: Hoppla-Fehler beim Anzeigen des Matrixberichts“'
+description: „Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der Hoppla-Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 
-# Berichte: &quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts
+# Berichte: „[!UICONTROL Hoppla]“-Fehler beim Anzeigen des Matrixberichts
 
-Wenn ein Benutzer einen Matrix-Bericht anzeigt, wird der folgende Fehler angezeigt:
+Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der folgende Fehler angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-Dies wurde gemeldet, wenn der Bericht nach Datum und dem[!UICONTROL Wochen ohne Ergebnisse anzeigen]&quot; aktiviert ist.
+Dies wurde gemeldet, wenn der Bericht nach Datum sortiert wird und die Option „[!UICONTROL Wochen ohne Ergebnisse anzeigen]“ aktiviert ist.
 
 **Problemumgehung**
 
-Deaktivieren Sie den[!UICONTROL Wochen ohne Ergebnisse anzeigen]&quot;.
+Deaktivieren Sie die Option „[!UICONTROL Wochen ohne Ergebnisse anzeigen]“.
 
 _Erste Meldung am 8. Juni 2023._
 

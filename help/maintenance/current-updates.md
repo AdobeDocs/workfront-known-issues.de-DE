@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
-workflow-type: ht
-source-wordcount: '3912'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Juni 2023
+
++++**Wartungs-Update vom 22. Juni 2023**
+
+**&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts**
+
+_Berichte_
+
+Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der folgende Fehler angezeigt:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+Dies wurde gemeldet, wenn der Bericht nach Datum sortiert wird und die Option „[!UICONTROL Wochen ohne Ergebnisse anzeigen]“ aktiviert ist.
+
+**Datumsangaben werden in Matrix-Berichten falsch angezeigt**
+
+_Berichte_
+
+Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.
+
++++
 
 +++**Wartungs-Update vom 15. Juni 2023**
 

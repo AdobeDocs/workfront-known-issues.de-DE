@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
-source-wordcount: '1264'
-ht-degree: 100%
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+workflow-type: tm+mt
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Der Nutzungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Testsendungen: Die Genehmigungsoptionen werden nicht in [!UICONTROL Testversand-Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Berichte: „[!UICONTROL Hoppla]“-Fehler beim Anzeigen des Matrixberichts](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)

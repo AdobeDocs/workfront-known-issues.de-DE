@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 100%
+source-wordcount: '586'
+ht-degree: 96%
 
 ---
 
@@ -34,6 +34,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Der Nutzungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26. Juni 2023 |
+| [Testsendungen: Die Genehmigungsoptionen werden nicht in [!UICONTROL Testversand-Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26. Juni 2023 |
+| [Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26. Juni 2023 |
 | [Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24. Mai 2023 |
 | [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11. Mai 2023 |
 | [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4. Mai 2023 |

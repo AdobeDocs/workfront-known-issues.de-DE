@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekte/Aufgaben/Probleme: Zeitleiste wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27. Juni 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12. Juni 2023 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filter: &quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen](known-issues-workfront/wf-filters-enable-system-wide.md) | 27. Juni 2023 |
 | [Berichte: Der Nutzungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26. Juni 2023 |
 | [Testsendungen: Die Genehmigungsoptionen werden nicht in [!UICONTROL Testversand-Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26. Juni 2023 |
 | [Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 26. Juni 2023 |

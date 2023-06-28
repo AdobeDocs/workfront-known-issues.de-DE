@@ -1,10 +1,10 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
+source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '1309'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projekte/Aufgaben/Probleme: Zeitleiste wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filter: &quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Berichte: Der Nutzungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)

@@ -3,10 +3,10 @@ title: 'Integrationen: Workfront for G Suite kann nicht geöffnet werden'
 description: „Wenn sich Benutzende in einer G Suite-App befinden und versuchen, das Add-on ‚Workfront for G Suite‘ zu öffnen, wird das Add-on nicht geöffnet, und die Meldung ‚Es ist ein Fehler aufgetreten. Bitte erneut versuchen‘ wird angezeigt. Auch ein erneuter Versuch ist nicht erfolgreich. „
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 78%
 
 ---
 
@@ -16,8 +16,12 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team arbeitet derzeit an einer neuen Version der G Suite-Integration. Nach Abschluss des Vorgangs müssen Sie die neue Version installieren.
+>Am 26. Juni 2023 wurde im Google Marketplace eine neue Version von Adobe Workfront für Google verfügbar gemacht.
 
 Wenn sich ein(e) Benutzende(r) in einer G Suite-App befindet und versucht, das Workfront for G Suite-Add-on zu öffnen, wird das Add-on nicht geöffnet und die Meldung „Irgendetwas ist schiefgegangen, versuchen Sie es erneut.“ erscheint. Der erneute Versuch ist nicht erfolgreich.
+
+**Problemumgehung**
+
+Laden Sie das neue Adobe Workfront-Plug-in vom Google Marketplace herunter.
 
 _Erste Meldung am 1. Dezember 2022._

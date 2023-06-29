@@ -29,7 +29,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++**Wartungs-Update vom 22. Juni 2023**
 
-**&quot;[!UICONTROL Hopfen]&quot;-Fehler beim Anzeigen des Matrix-Berichts**
+**Fehler beim Anzeigen des Matrixberichts**
 
 _Berichte_
 
@@ -39,11 +39,11 @@ Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der fol
 
 Dies wurde gemeldet, wenn der Bericht nach Datum sortiert wird und die Option „[!UICONTROL Wochen ohne Ergebnisse anzeigen]“ aktiviert ist.
 
-**Datumsangaben werden in Matrix-Berichten falsch angezeigt**
+**Datumsangaben werden in Matrixberichten falsch angezeigt**
 
 _Berichte_
 
-Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Ränder der Gruppierung in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.
+Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Gruppierungsränder in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.
 
 +++
 

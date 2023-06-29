@@ -2,15 +2,19 @@
 title: '„Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird“'
 description: „“
 hidefromtoc: true
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 
 # „Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 14. Juni 2023 behoben.
 
 Derzeit ist im neuen Formular-Designer (Beta) keine Anzeigelogik verfügbar. Wenn ein vorhandenes Formular im neuen Formular-Designer (Beta) bearbeitet wird, geht daher die vorhandene Anzeigelogik im Formular verloren.
 

@@ -3,9 +3,9 @@ title: '„Berichte: Hoppla-Fehler beim Anzeigen des Matrixberichts“'
 description: „Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der Hoppla-Fehler angezeigt.“
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> Dieser Artikel wurde am 22. Juni 2023 behoben
+> Dieses Problem wurde am 22. Juni 2023 behoben
 
 Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der folgende Fehler angezeigt:
 

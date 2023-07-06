@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 96%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [Projekte/Aufgaben/Probleme: Zeitleiste wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [Filter: &quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [Berichte: Der Nutzungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Testsendungen: Die Genehmigungsoptionen werden nicht in [!UICONTROL Testversand-Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [Projekte/Aufgaben/Probleme: Timeline wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [Berichte: Auslastungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [Korrekturabzüge: Genehmigungsoptionen werden nicht in der [!UICONTROL Korrekturabzugsanzeige] angezeigt](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Arbeitszeittabellen: Fehler bei der Protokollierung von Arbeitszeit in einer Arbeitszeittabelle](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Berichte: „[!UICONTROL Hoppla]“-Fehler beim Anzeigen des Matrixberichts](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
@@ -47,7 +47,7 @@ ht-degree: 96%
       + [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrekturabzüge: Mehrzeilenwerkzeug kann nicht für einen Kommentar zu einem Korrekturabzug verwendet werden](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Suche: Zeitüberschreitung der  [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md)
+      + [Suche: Zeitüberschreitung der [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md)
       + [Korrekturabzüge: Die Korrekturabzugsversion kann beim Anzeigen des Korrekturabzugs nicht gewechselt werden](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Korrekturabzüge: Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Korrekturabzüge: Benutzende werden im Korrekturabzugs-Workflow deaktiviert und erhalten die Fehlermeldung „[!UICONTROL Zugriff nicht erlaubt]“ beim Zugriff auf den Korrekturabzug](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
@@ -123,7 +123,7 @@ ht-degree: 96%
       + [Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
       + [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste] als GUID angezeigt](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
       + [Berichte: Der Kalender zeigt standardmäßig alte Datumswerte an](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
-      + [E-Mail-Benachrichtigungen: E-Mails werden in  [!DNL Outlook] nicht korrekt formatiert](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
+      + [E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook] nicht korrekt formatiert](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste] angezeigt](known-issues-workfront/wf-home-unable-to-view-document-image.md)
       + [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL Startseite]: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung und zwei E-Mails werden versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)

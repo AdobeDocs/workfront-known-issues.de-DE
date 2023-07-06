@@ -1,21 +1,21 @@
 ---
-title: "Filter: Systemweit aktivieren und Systemübergreifend anzeigen verschiedene Funktionen anzeigen"
-description: "Wenn ein Benutzer einen Filter teilt und die [!UICONTROL Systemweit anzeigen] -Option, wird der Filter für jeden Benutzer im System freigegeben. Wenn ein Administrator diesen Filter jedoch in [!UICONTROL Einrichtung]angezeigt, sehen sie, dass dieser Filter [!UICONTROL false] im [!UICONTROL Systemweit sichtbar] Spalte. Damit dieser Filter zum Standard des Systems wird, muss der Administrator die Variable [!UICONTROL Systemweit aktivieren] -Option unter Einrichtung. Dies kann aufgrund der Ähnlichkeit der Formulierungen zu Verwirrung führen."
+title: '„Filter: ‚Systemweit aktivieren‘ und ‚Systemweit anzeigen‘ stellen verschiedene Funktionen dar“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer einen Filter freigibt und die Option [!UICONTROL Systemweit anzeigen] aktiviert, wird der Filter für jede Benutzerin bzw. jeden Benutzer im System freigegeben. Wenn eine Administratorin bzw. ein Administrator diesen Filter jedoch im [!UICONTROL Setup] anzeigt, sieht sie bzw. er, dass dieser Filter [!UICONTROL false] in der Spalte [!UICONTROL Systemweit sichtbar] anzeigt. Damit dieser Filter zu einer Standardeinstellung des Systems wird, muss die Administratorin bzw. der Administrator die Option [!UICONTROL Systemweit aktivieren] im Setup aktivieren. Dies kann aufgrund der Ähnlichkeit der Formulierungen zu Verwirrung führen.“
 hidefromtoc: true
 source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Filter: &quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen
+# Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar
 
-Wenn ein Benutzer einen Filter teilt und die &quot;[!UICONTROL Systemweit anzeigen]&quot;, wird der Filter für jeden Benutzer im System freigegeben. Wenn ein Administrator diesen Filter jedoch in [!UICONTROL Einrichtung], sehen sie, dass dieser Filter &quot;[!UICONTROL false]&quot; in der &quot;[!UICONTROL Systemweit sichtbar]&quot;. Damit dieser Filter zum Standard des Systems wird, muss der Administrator die Variable[!UICONTROL Systemweit aktivieren]&quot;in [!UICONTROL Einrichtung]. Dies kann aufgrund der Ähnlichkeit des Wortlauts zu Verwirrung führen.
+Wenn eine Benutzerin bzw. ein Benutzer einen Filter freigibt und die Option „[!UICONTROL Systemweit anzeigen]“ aktiviert, wird der Filter für jede Benutzerin bzw. jeden Benutzer im System freigegeben. Wenn eine Administratorin bzw. ein Administrator diesen Filter jedoch im [!UICONTROL Setup] anzeigt, sieht sie bzw. er, dass dieser Filter „[!UICONTROL false]“ in der Spalte „[!UICONTROL Systemweit sichtbar]“ anzeigt. Damit dieser Filter zu einer Standardeinstellung des Systems wird, muss die Administratorin bzw. der Administrator die Option „[!UICONTROL Systemweit aktivieren]“ im [!UICONTROL Setup] aktivieren. Dies kann aufgrund der Ähnlichkeit der Formulierung zu Verwirrung führen.
 
-* [!UICONTROL Filter] > [!UICONTROL Freigeben] > [!UICONTROL Systemweit anzeigen] **Aktien** der Filter alle Benutzer im System enthält.
-* [!UICONTROL Einrichtung] > [!UICONTROL Filter] > [!UICONTROL Systemweit aktivieren] macht den Filter zu einem **Systemstandard** Filter.
+* [!UICONTROL Filter] > [!UICONTROL Freigeben] > [!UICONTROL Systemweit anzeigen] führt dazu, dass der Filter für alle Benutzerinnen und Benutzer im System **freigegeben** wird.
+* [!UICONTROL Setup] > [!UICONTROL Filter] > [!UICONTROL Systemweit aktivieren] macht den Filter zu einem **Systemstandard**-Filter.
 
 _Erste Meldung am 24. Mai 2023._
 

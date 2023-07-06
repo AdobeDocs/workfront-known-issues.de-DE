@@ -4,9 +4,9 @@ description: „Wenn sich Benutzende in einer G Suite-App befinden und versuchen
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
 source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 

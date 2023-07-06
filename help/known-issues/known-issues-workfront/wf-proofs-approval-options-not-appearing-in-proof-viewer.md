@@ -1,22 +1,22 @@
 ---
-title: "Testsendungen: Die Genehmigungsoptionen werden im Proofing-Viewer nicht angezeigt."
-description: "Wenn ein Benutzer versucht, einen Testversand im Desktop Proofing Viewer zu genehmigen, sind kurz nach der Validierung die Validierungsoptionen nicht sichtbar und der Benutzer kann den Testversand nicht genehmigen. Die Validierungsoptionen werden mehrere Stunden nach der Validierung angezeigt."
+title: '„Korrekturabzüge: Genehmigungsoptionen werden in der Korrekturabzugsanzeige nicht angezeigt“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der Desktop-Korrekturabzugsanzeige zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 hidefromtoc: true
 source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Die Genehmigungsoptionen werden nicht in [!UICONTROL Testversand-Viewer]
+# Korrekturabzüge: Genehmigungsoptionen werden nicht in der [!UICONTROL Korrekturabzugsanzeige] angezeigt
 
-Wenn ein Benutzer versucht, einen Testversand im [!UICONTROL Desktop Proofing Viewer]nicht angezeigt werden, sind die Validierungsoptionen nicht mehr sichtbar und der Benutzer kann den Testversand nicht genehmigen. Die Validierungsoptionen werden mehrere Stunden nach der Validierung angezeigt.
+Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der [!UICONTROL Desktop-Korrekturabzugsanzeige] zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 
 **Problemumgehung**
 
-Genehmigen Sie das Dokument aus dem [!UICONTROL Dokumentdetails] Seite in [!DNL Workfront].
+Genehmigen Sie das Dokument auf der Seite [!UICONTROL Dokumentdetails] in [!DNL Workfront].
 
 _Erste Meldung am 12. Juni 2023._
 

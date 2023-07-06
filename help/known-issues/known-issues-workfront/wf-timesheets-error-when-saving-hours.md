@@ -1,25 +1,25 @@
 ---
-title: "Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet"
-description: "Wenn ein Benutzer versucht, Stunden für eine Aufgabe in seinem Arbeitsblatt zu protokollieren, werden die Stunden nicht gespeichert und der Benutzer erhält Fehlermeldungen."
+title: '„Arbeitszeittabellen: Fehler bei der Protokollierung von Arbeitszeit in einer Arbeitszeittabelle“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer versucht, einer Aufgabe in der Arbeitszeittabelle Arbeitszeit hinzuzufügen, wird die Arbeitszeit nicht automatisch gespeichert und Fehlermeldungen erscheinen.“
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Timesheets: Fehler bei der Protokollierung von Stunden auf einem Timesheet
+# Arbeitszeittabellen: Fehler bei der Protokollierung von Arbeitszeit in einer Arbeitszeittabelle
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 29. Juni 2023 behoben.
 
-Wenn ein Benutzer versucht, Stunden für eine Aufgabe in seinem Zeitblatt zu protokollieren, werden die Stunden nicht gespeichert und der Benutzer sieht die folgenden Nachrichten:
+Wenn eine Benutzerin bzw. ein Benutzer versucht, einer Aufgabe in der Arbeitszeittabelle Arbeitszeit hinzuzufügen, wird die Arbeitszeit nicht automatisch gespeichert und die folgenden Nachrichten erscheinen:
 
-* Meldung am unteren Bildschirmrand: &quot;[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die zuletzt gespeicherten Änderungen anzuzeigen.]&quot;
-* Popup-Nachricht in der oberen rechten Ecke: &quot;[!UICONTROL &quot;java.util.List.stream()&quot;kann nicht aufgerufen werden, da &quot;hourList&quot;null ist]&quot;
+* Nachricht am unteren Bildschirmrand: „[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die zuletzt gespeicherten Änderungen anzuzeigen.]“
+* Pop-up-Nachricht in der rechten oberen Ecke: „[!UICONTROL ‚java.util.List.stream()‘ kann nicht aufgerufen werden, da ‚hourList‘ null ist]“
 
 _Erste Meldung am 23. Juni 2023._
 

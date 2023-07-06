@@ -4,8 +4,8 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '581'
 ht-degree: 100%
 
 ---

@@ -3,7 +3,7 @@ title: '„Workfront Fusion: Fehler – UPDATE kann nicht ausgeführt werden“'
 description: „Eine Szenarioausführung schlägt mit diesem Fehler fehl. UPDATE kann nicht in einer schreibgeschützten Transaktion ausgeführt werden.“
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 

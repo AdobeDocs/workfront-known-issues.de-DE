@@ -2,10 +2,10 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '4035'
-ht-degree: 100%
+source-wordcount: '4193'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,38 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Juli 2023
+
++++**Wartungs-Update vom 13. Juli 2023**
+
+**Zeitleiste wird nicht neu berechnet**
+
+_Projekte/Aufgaben/Probleme_
+
+Wenn ein Ereignis auftritt, das eine Timeline-Berechnung auslösen sollte, wird die Timeline nicht neu berechnet. Dies wirkt sich auf Neuberechnungen bei Änderungen sowie auf geplante Neuberechnungen aus. Dies kann die Genauigkeit des Workload Balancers beeinträchtigen.
+
+**Gesperrte Testversandgenehmigungen werden weiterhin in der Arbeitsliste angezeigt**
+
+_Korrekturabzüge_
+
+Genehmigungen von Korrekturabzügen, deren Termin überschritten ist und die gesperrt sind, werden weiterhin in der Arbeitsliste der Startseite der genehmigenden Person angezeigt, anstatt nach Ablauf des Termins aus der Liste gelöscht zu werden.
+
+**Der Nutzungsbericht wird nicht geladen**
+
+_Berichte_
+
+Wenn eine Kundin bzw. ein Kunde versucht, einen Auslastungsbericht anzuzeigen, wird ein rotierendes Ladesymbol angezeigt, doch der Bericht wird nicht geladen. Der Bericht gibt einen 500-Fehler zurück, doch es ist nicht zu erkennen, dass der Bericht fehlgeschlagen ist.
+
+**Seite &quot;Benutzer bearbeiten&quot;ist leer**
+
+<!--no article-->
+
+_Benutzende_
+
+Wenn ein Benutzer versucht, einen anderen Benutzer zu bearbeiten, ist die Seite &quot;Benutzer bearbeiten&quot;leer und der Benutzer kann den anderen Benutzer nicht bearbeiten.
+
++++
 
 ## Updates im Juni 2023
 

@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ Wenn eine Kundin bzw. ein Kunde versucht, einen Auslastungsbericht anzuzeigen, w
 _Benutzende_
 
 Wenn ein Benutzer versucht, einen anderen Benutzer zu bearbeiten, ist die Seite &quot;Benutzer bearbeiten&quot;leer und der Benutzer kann den anderen Benutzer nicht bearbeiten.
+
+**Unerwartete Verteilung der Stunden**
+
+_Workload-Balancer_
+
+Wenn für bestimmte Aufgaben Stundenzuweisungen vorgenommen werden, können diese Stunden unerwartet neu berechnet und verteilt werden. Dies kann nach dem Wechseln zwischen Daten oder Seiten sowie nach dem Aktualisieren der Seite auftreten.
 
 +++
 

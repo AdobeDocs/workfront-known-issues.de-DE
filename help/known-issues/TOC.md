@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1319'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Einrichtung: Die Kosten/Stunde der Auftragsrolle oder die Abrechnung/Stunde können nicht bearbeitet werden.](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
+      + [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projekte/Aufgaben/Probleme: Timeline wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar](known-issues-workfront/wf-filters-enable-system-wide.md)

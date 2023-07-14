@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
 source-wordcount: '4193'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,25 +29,25 @@ _Projekte/Aufgaben/Probleme_
 
 Wenn ein Ereignis auftritt, das eine Timeline-Berechnung auslösen sollte, wird die Timeline nicht neu berechnet. Dies wirkt sich auf Neuberechnungen bei Änderungen sowie auf geplante Neuberechnungen aus. Dies kann die Genauigkeit des Workload Balancers beeinträchtigen.
 
-**Gesperrte Testversandgenehmigungen werden weiterhin in der Arbeitsliste angezeigt**
+**Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt**
 
 _Korrekturabzüge_
 
 Genehmigungen von Korrekturabzügen, deren Termin überschritten ist und die gesperrt sind, werden weiterhin in der Arbeitsliste der Startseite der genehmigenden Person angezeigt, anstatt nach Ablauf des Termins aus der Liste gelöscht zu werden.
 
-**Der Nutzungsbericht wird nicht geladen**
+**Auslastungsbericht wird nicht geladen**
 
 _Berichte_
 
 Wenn eine Kundin bzw. ein Kunde versucht, einen Auslastungsbericht anzuzeigen, wird ein rotierendes Ladesymbol angezeigt, doch der Bericht wird nicht geladen. Der Bericht gibt einen 500-Fehler zurück, doch es ist nicht zu erkennen, dass der Bericht fehlgeschlagen ist.
 
-**Seite &quot;Benutzer bearbeiten&quot;ist leer**
+**Seite „Benutzer bearbeiten“ ist leer**
 
 <!--no article-->
 
 _Benutzende_
 
-Wenn ein Benutzer versucht, einen anderen Benutzer zu bearbeiten, ist die Seite &quot;Benutzer bearbeiten&quot;leer und der Benutzer kann den anderen Benutzer nicht bearbeiten.
+Wenn eine Benutzerin oder ein Benutzer versucht, andere Benutzende zu bearbeiten, ist die Seite „Benutzer bearbeiten“ leer und er oder sie kann andere Benutzende nicht bearbeiten.
 
 +++
 

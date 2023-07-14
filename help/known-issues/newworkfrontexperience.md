@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Einrichtung: Die Kosten/Stunde der Auftragsrolle oder die Abrechnung/Stunde können nicht bearbeitet werden.](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10. Juli 2023 |
+| [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10. Juli 2023 |
 | [Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar](known-issues-workfront/wf-filters-enable-system-wide.md) | 27. Juni 2023 |
 | [Korrekturabzüge: Genehmigungsoptionen werden nicht in der [!UICONTROL Korrekturabzugsanzeige]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) angezeigt | 26. Juni 2023 |
 | [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11. Mai 2023 |

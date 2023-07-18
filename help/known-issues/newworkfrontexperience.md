@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '577'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Startseite]: [!UICONTROL Homepage-Arbeitsliste] leer/langsam geladen](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18. Juli 2023 |
 | [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md) | 28. Juni 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12. Juni 2023 |
 

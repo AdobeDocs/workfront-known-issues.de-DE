@@ -1,10 +1,11 @@
 ---
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1335'
-ht-degree: 98%
+source-wordcount: '1352'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Dokumentenintegrationen: Es werden nicht alle Ordner in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Startseite]: [!UICONTROL Homepage-Arbeitsliste] leer/langsam geladen](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

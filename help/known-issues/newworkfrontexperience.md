@@ -3,10 +3,10 @@ title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 97%
+source-wordcount: '604'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20. Juli 2023 |
+| [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20. Juli 2023 |
 | [[!UICONTROL Startseite]: [!UICONTROL Homepage-Arbeitsliste] leer/langsam geladen](known-issues-workfront/wf-home-blank-slow-to-load.md) | 18. Juli 2023 |
 | [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md) | 28. Juni 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12. Juni 2023 |

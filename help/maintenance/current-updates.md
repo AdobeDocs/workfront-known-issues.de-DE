@@ -2,9 +2,9 @@
 title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '4259'
+source-wordcount: '4258'
 ht-degree: 98%
 
 ---
@@ -21,7 +21,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Juli 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 20. Juli 2023**
++++**Wartungs-Update vom 20. Juli 2023**
 
 **Legen Sie geplante Stunden für wiederkehrende Aufgaben von untergeordneten Elementen mit fest. [!UICONTROL Einfach] Dauertyp ohne Zuweisungen**
 

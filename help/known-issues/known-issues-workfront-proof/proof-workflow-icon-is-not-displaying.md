@@ -3,8 +3,9 @@ title: '„Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht an
 description: Wenn ein Benutzer in der neuen  [!DNL Workfront] -Version einen Korrekturabzug erstellt, wird das Korrekturabzugstatus-Symbol „SOCD“ manchmal nicht in der Liste „Dokumente“ angezeigt, bis die Seite aktualisiert wird.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

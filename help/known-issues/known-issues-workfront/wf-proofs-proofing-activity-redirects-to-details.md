@@ -3,8 +3,9 @@ title: '„Korrekturabzüge: Registerkarte ‚Aktivität von Korrekturabzügen�
 description: Wenn Sie einen Korrekturabzug anzeigen und auf die Registerkarte „Aktivität von Korrekturabzügen“ klicken, wird stattdessen die Registerkarte „Details von Korrekturabzügen“ geöffnet. Dies tritt auf, wenn dem Workflow manuell eine Phase für Korrekturabzüge hinzugefügt wurde.
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

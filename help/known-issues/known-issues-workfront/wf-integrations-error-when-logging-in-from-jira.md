@@ -1,14 +1,15 @@
 ---
-title: '„Integrationen: Fehler bei der Anmeldung bei Workfront von Jira“'
-description: „Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, sich von Jira aus bei Workfront anzumelden, wird die Seite nicht geladen und sie sehen einen Fehler.“
+title: '"Integrationen: Fehler bei der Anmeldung bei Workfront von Jira'''
+description: Wenn ein Benutzer mithilfe der Workfront for Jira-Integration versucht, sich von Jira aus bei Workfront anzumelden, wird die Seite nicht geladen, und der Benutzer sieht einen Fehler.
 hidefromtoc: true
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: ht
+feature: Workfront Integrations and Apps
+exl-id: 8d3b2563-8ab8-4136-9ba1-fe7a0c4654f5
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # Integrationen: Fehler bei der Anmeldung bei [!DNL Workfront] von [!DNL Jira]
 
@@ -23,4 +24,3 @@ Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, sich von 
 Benutzende können sich nicht bei [!DNL Workfront] anmelden.
 
 _Erste Meldung am 24. Februar 2023._
-

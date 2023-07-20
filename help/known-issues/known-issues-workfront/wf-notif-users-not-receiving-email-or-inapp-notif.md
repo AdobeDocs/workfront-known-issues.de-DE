@@ -1,14 +1,15 @@
 ---
-title: '„Benachrichtigungen: Benutzende erhalten keine E-Mail- oder In-App-Benachrichtigungen, wenn sie in einem Kommentar erwähnt oder einbezogen werden“'
-description: „Wenn ein(e) Benutzende(r) in einem Kommentar oder einer Aktualisierung in einem Aktualisierungsverlauf eines Objekts erwähnt oder einbezogen wird, erhält er/sie möglicherweise nicht die erwartete E-Mail- oder In-App-Benachrichtigung zum Kommentar.“
+title: '''Benachrichtigungen: Benutzer, die keine E-Mail- oder In-App-Benachrichtigungen erhalten, wenn diese erwähnt oder in einem Kommentar enthalten sind"'
+description: Wenn ein(e) Benutzende(r) in einem Kommentar oder einer Aktualisierung in einem Aktualisierungsverlauf eines Objekts erwähnt oder einbezogen wird, erhält er/sie möglicherweise nicht die erwartete E-Mail- oder In-App-Benachrichtigung zum Kommentar.
 hidefromtoc: true
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: ht
+feature: Updates and Notifications
+exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Benachrichtigungen: Benutzende, die in einem Kommentar erwähnt oder einbezogen wurden, werden nicht benachrichtigt
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 Wenn ein(e) Benutzende(r) in einem Kommentar oder einer Aktualisierung in einem Aktualisierungsverlauf eines Objekts erwähnt oder einbezogen wird, erhält er/sie möglicherweise nicht die erwartete E-Mail- oder In-App-Benachrichtigung zum Kommentar.
 
 _Erste Meldung am 20. September 2022._
-

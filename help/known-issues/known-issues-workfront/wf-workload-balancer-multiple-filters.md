@@ -3,8 +3,9 @@ title: 'Lastenausgleich: falsche Ergebnisse bei der gleichzeitigen Verwendung me
 description: Wenn ein(e) Benutzende(r) den Lastenausgleich betrachtet und mehrere Filter gleichzeitig verwendet, sind die Ergebnisse falsch. Beispielsweise wird ein Ergebnis, das jeweils bei der Verwendung von Filter A und Filter B angezeigt wird, nicht angezeigt, wenn Filter A und B gleichzeitig verwendet werden.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: '„Berichte: Der Bericht kann nicht horizontal gescrollt werden, währen
 description: Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft und versucht, in ihm einen horizontalen Bildlauf durchzuführen, wird der Bericht überhaupt nicht gescrollt oder die Spaltenüberschriften laufen den entsprechenden Spalten hinterher. Wenn der Bericht eine große Anzahl von Spalten aufweist, kann beim horizontalen Bildlauf die Seite einfrieren.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

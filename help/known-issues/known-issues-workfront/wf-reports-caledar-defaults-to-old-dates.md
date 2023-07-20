@@ -3,8 +3,9 @@ title: '„Berichte: Der Kalender zeigt standardmäßig alte Datumswerte an“'
 description: Wenn ein(e) Benutzende(r) einen Kalender öffnet, lädt der Kalender einen zufälligen vergangenen Datumsbereich (z. B. eine Woche aus dem Jahr 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

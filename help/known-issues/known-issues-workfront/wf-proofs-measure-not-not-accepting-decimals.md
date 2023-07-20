@@ -3,7 +3,8 @@ title: '„Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte“'
 description: Wenn Benutzende einen Korrekturabzug anzeigen, das Messwerkzeug öffnen und versuchen, eine Zahl mit einem Dezimalpunkt in ein Feld einzusetzen, wird der Dezimalpunkt nicht angezeigt. Wenn die Benutzenden vor Eingabe einer Ziffer einen Dezimalpunkt eingeben, wird im Feld „NaN“ angezeigt.
 hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%

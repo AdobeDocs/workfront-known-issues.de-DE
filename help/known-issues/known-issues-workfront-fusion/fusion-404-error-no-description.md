@@ -3,8 +3,9 @@ title: 'Workfront Fusion: Das Fusion-Modul gibt einen 404-Fehler ohne weitere In
 description: Wenn ein Workfront Fusion-Modul einen 404-Fehler zurückgibt, enthält der Fehler keine weiteren Details über die Fehlerursache. Der Grund dafür ist, dass der 404-Fehler von der Anwendung, mit der sich das Modul verbindet, an Workfront Fusion gesendet wird und diese Anwendung Workfront Fusion keine zusätzlichen Details zur Verfügung gestellt hat.
 hidefromtoc: true
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

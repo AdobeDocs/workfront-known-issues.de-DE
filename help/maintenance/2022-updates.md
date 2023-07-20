@@ -1,8 +1,10 @@
 ---
 title: Wartungs-Updates für Workfront  2022
 description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -103,7 +105,7 @@ Wenn ein(e) Benutzende(r) ein Projekt über eine Vorlage erstellt, übernimmt da
 
 Wenn ein(e) Benutzende(r) versucht, mit der Schaltfläche „[!UICONTROL +Neu]“ eine Unteraufgabe hinzuzufügen, werden im Fenster [!UICONTROL Neue Aufgabe] keine Optionen angezeigt und die folgende Meldung erscheint:
 
-„[!UICONTROL Eigenschaften von nicht definierten Inhalten können nicht gelesen werden (Validierungen werden gelesen).]“
+„[!UICONTROL Eigenschaften von nicht definierten Inhalten können nicht gelesen werden („validations“ wird gelesen).]“
 
 **Fehler beim Schließen oder Speichern von Arbeitszeittabellen**
 
@@ -247,7 +249,7 @@ Die folgenden Probleme wurden beim Hinzufügen von Aufgaben zu einer Iteration g
 * Manche Unteraufgaben einer Aufgabe, die einer Iteration hinzugefügt wurden, werden nicht auf der Seite [!UICONTROL Iteration] angezeigt.
 * Wenn ein(e) Benutzende(r) versucht, der Iteration eine fehlende Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und die folgende Meldung wird angezeigt:
 
-   „[!UICONTROL Folgender Fehler ist aufgetreten: Keines der ausgewählten Objekte konnte verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]“
+  „[!UICONTROL Folgender Fehler ist aufgetreten: Keines der ausgewählten Objekte konnte verschoben werden, da sie keinem agilen Team zugewiesen sind oder keine agilen Elemente sind]“
 
 **Aufgaben, die durch Massenbearbeitung zugewiesen werden, werden nicht in der Rückstandsanzeige des Teams angezeigt**
 
@@ -699,13 +701,13 @@ Zuvor wurden Metadaten nur übergeben, wenn Sie ein Asset mit dem Dropdown-Menü
 
 **Stunden in Verbindung mit einem Problem können nicht genehmigt oder abgelehnt werden**
 
-*Anfragen*
+*Probleme*
 
 Ein(e) Benutzende(r) versucht, Stunden in Bezug auf ein Problem in der Registerkarte [!UICONTROL Stunden] zu genehmigen oder abzulehnen, doch die Schaltflächen [!UICONTROL Genehmigen] und [!UICONTROL Ablehnen] fehlen.
 
 **Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird, wird eine falsche Fehlermeldung angezeigt**
 
-*Anfragen*
+*Probleme*
 
 Wenn ein Problem mithilfe einer Vorlage in ein Projekt konvertiert wird und ein Fehler auftritt, wird eine Seite mit der Mitteilung „[!UICONTROL Das Projekt existiert nicht mehr]“ anstelle der korrekten Fehlermeldung angezeigt, in der die Ursache der fehlgeschlagenen Konvertierung erklärt wird.
 
@@ -1613,7 +1615,7 @@ Wenn ein(e) Benutzende(r) versucht, eine E-Mail zum Zurücksetzen des Passworts 
 
 *Anforde- rungen*
 
-Wenn ein(e) Benutzende(r) eine seinem/ihrem Team zugewiesene Anfrage aufruft, wird in der Kopfzeile die Schaltfläche „[!UICONTROL Problem starten]“ statt „[!UICONTROL Anfrage starten]“ angezeigt.
+Wenn eine nutzende Person eine ihrem Team zugewiesene Anfrage aufruft, wird in der Kopfzeile die Schaltfläche „[!UICONTROL Problem starten]“ statt „[!UICONTROL Anfrage starten]“ angezeigt.
 
 **„[!UICONTROL Kommentar rückgängig machen]“ entfernt getaggte Benutzende**
 
@@ -2396,7 +2398,7 @@ Wenn ein(e) Benutzende(r) die Benutzerliste auf einem Agile-Board aufruft, werde
 
 **Links zum Kopieren und Verschieben von Problemen wurden aktualisiert**
 
-*Anfragen*
+*Probleme*
 
 In der Vorschau-Umgebung wurden die Links zum Kopieren und Verschieben von Problemen sowohl auf der Problem-Seite als auch in der Problem-Liste in „[!UICONTROL Kopieren nach]“ und „[!UICONTROL Verschieben nach]“ geändert.
 

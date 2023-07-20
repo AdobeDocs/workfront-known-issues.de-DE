@@ -3,8 +3,9 @@ title: '„Korrekturabzüge: Kann im Korrekturabzüge-Viewer nicht zwischen Korr
 description: Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] ansehen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angesehen haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

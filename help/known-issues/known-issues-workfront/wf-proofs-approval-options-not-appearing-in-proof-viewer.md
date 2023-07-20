@@ -2,8 +2,9 @@
 title: '„Korrekturabzüge: Genehmigungsoptionen werden in der Korrekturabzugsanzeige nicht angezeigt“'
 description: „Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der Desktop-Korrekturabzugsanzeige zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

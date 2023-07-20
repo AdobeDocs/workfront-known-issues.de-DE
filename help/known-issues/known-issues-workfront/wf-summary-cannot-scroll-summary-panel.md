@@ -1,14 +1,15 @@
 ---
-title: '„Zusammenfassung: Zusammenfassungsbereich kann nicht gescrollt werden“'
-description: „Wenn ein(e) Benutzende(r) das Bedienfeld [!UICONTROL Zusammenfassung] eines Objekts betrachtet und versucht zu scrollen, lässt ich das Bedienfeld nicht scrollen und der/die Benutzende kann die Elemente weiter unten im Bedienfeld [!UICONTROL Zusammenfassung] nicht mehr sehen. Wenn der/die Benutzende auf eines der Symbole auf der linken Seite des Bedienfelds [!UICONTROL Zusammenfassung] klickt, um zu diesem Bereich zu gelangen, wird die gesamte Seite gescrollt und reagiert nicht mehr. Der/die Benutzende muss dann die Seite aktualisieren, um zur Liste zurückzukehren.“
+title: 'Zusammenfassung: Bedienfeld Zusammenfassung kann nicht gescrollt werden'
+description: Wenn ein(e) Benutzende(r) das Bedienfeld [!UICONTROL Zusammenfassung] eines Objekts betrachtet und versucht zu scrollen, lässt ich das Bedienfeld nicht scrollen und der/die Benutzende kann die Elemente weiter unten im Bedienfeld [!UICONTROL Zusammenfassung] nicht mehr sehen. Wenn der/die Benutzende auf eines der Symbole auf der linken Seite des Bedienfelds [!UICONTROL Zusammenfassung] klickt, um zu diesem Bereich zu gelangen, wird die gesamte Seite gescrollt und reagiert nicht mehr. Der Benutzer muss die Seite aktualisieren, um zur Liste zurückzukehren.
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
+exl-id: eb267a1c-20d1-4c3c-a8ec-09d6d51103d5
+feature: Projects, Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
-
 
 # [!UICONTROL Zusammenfassung]: Bedienfeld [!UICONTROL Zusammenfassung] kann nicht gescrollt werden
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 Wenn ein(e) Benutzende(r) das Bedienfeld [!UICONTROL Zusammenfassung] eines Objekts betrachtet und versucht zu scrollen, lässt ich das Bedienfeld nicht scrollen und der/die Benutzende kann die Elemente weiter unten im Bedienfeld [!UICONTROL Zusammenfassung] nicht mehr sehen. Wenn der/die Benutzende auf eines der Symbole auf der linken Seite des Bedienfelds [!UICONTROL Zusammenfassung] klickt, um zu diesem Bereich zu gelangen, wird die gesamte Seite gescrollt und reagiert nicht mehr. Der/die Benutzende muss dann die Seite aktualisieren, um zur Liste der Objekte zurückzukehren.
 
 _Erste Meldung am 26. Januar 2023._
-

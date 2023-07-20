@@ -1,14 +1,15 @@
 ---
-title: '„Aufgaben: Geplantes Abschlussdatum einer Aufgabe kann nicht geändert werden“'
-description: „Wenn ein(e) Benutzende(r) versucht, das geplante Abschlussdatum einer Aufgabe zu ändern, reagiert das Feld nicht. “
+title: 'Aufgaben: Geplantes Abschlussdatum einer Aufgabe kann nicht geändert werden'
+description: '''Wenn ein(e) Benutzende(r) versucht, das geplante Abschlussdatum einer Aufgabe zu ändern, reagiert das Feld nicht. „'
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
 ---
-
 
 # Aufgaben: [!UICONTROL Geplantes Abschlussdatum] einer Aufgabe kann nicht geändert werden
 
@@ -31,4 +32,3 @@ Führen Sie einen der folgenden Schritte aus:
 * Ändern Sie das [!UICONTROL geplante Abschlussdatum] in der Aufgabenliste.
 
 _Erste Meldung am 11. Oktober 2022._
-

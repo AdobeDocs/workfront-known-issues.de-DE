@@ -2,8 +2,9 @@
 title: „Konten mit integriertem WF-Korrekturabzug – Korrekturabzug-Abhängigkeitsregeln lassen keine Auswahl von Feldern mit Mehrfachauswahl zu“
 description: „Es können in integrierten Instanzen von  [!DNL Workfront] und  [!DNL Workfront Proof]  nur benutzerdefinierte Feldtypen wie Listen und Auswahlschaltflächen für Abhängigkeitsregeln ausgewählt werden. Dies ist eine eingeschränkte Funktionalität im Vergleich zu alten ProofHQ-Konten.“
 hidefromtoc: true
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

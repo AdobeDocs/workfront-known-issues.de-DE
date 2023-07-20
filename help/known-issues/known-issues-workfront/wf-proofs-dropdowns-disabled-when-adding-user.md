@@ -1,14 +1,15 @@
 ---
-title: '„Korrekturabzüge: Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden“'
-description: „Wenn eine Benutzerin oder ein Benutzer eine andere Benutzerin bzw. einen anderen Benutzer im Proofing Viewer zu einem Korrekturabzug hinzufügt, können die Dropdown-Listen für die Rolle des Korrekturabzugs und die E-Mail-Warnhinweise nicht geöffnet werden. Die Benutzenden können keine Korrekturabzugsrolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt oder der Korrekturabzug für die Benutzenden freigegeben wird.“
+title: 'Korrekturabzüge: Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden'
+description: Wenn ein Benutzer einen anderen Benutzer im Proofing-Viewer zu einem Testversand hinzufügt, können die Dropdown-Listen Testprofil-Rolle und E-Mail-Warnhinweise nicht geöffnet werden. Die Benutzenden können keine Korrekturabzugsrolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt werden oder der Korrekturabzug für die Benutzenden freigegeben wird.
 hidefromtoc: true
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
-workflow-type: ht
+exl-id: 503dc190-4c9b-4828-a38e-fec9eeafa769
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
-
 
 # Korrekturabzüge: Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Proofing Viewer] hinzufügen, können die Dropdown-Listen „[!UICONTROL Rolle des Korrekturabzugs]“ und „[!UICONTROL E-Mail-Warnungen]“ nicht geöffnet werden. Die Benutzenden können keine Korrekturabzugsrolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt werden oder der Korrekturabzug für die Benutzenden freigegeben wird.
 
 _Erste Meldung am 24. März 2023._
-

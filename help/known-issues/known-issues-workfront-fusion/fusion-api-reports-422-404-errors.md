@@ -1,14 +1,15 @@
 ---
-title: '„[!DNL Workfront Fusion]: [!DNL Workfront]  > [!UICONTROL Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück“'
-description: „Das benutzerdefinierte API-Modul von Workfront gibt einen Fehler zurück.“
+title: '''[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Benutzerspezifischer API-Aufruf] Modul, das 404- oder 422-Fehler zurückgibt"'
+description: Die Workfront &gt; Das benutzerdefinierte API-Modul gibt einen Fehler zurück.
 hidefromtoc: true
-source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 73%
 
 ---
-
 
 # [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück
 
@@ -22,4 +23,3 @@ Das Modul für [!UICONTROL benutzerdefinierte API-Aufrufe] von [!DNL Workfront] 
 * [!UICONTROL Laufzeitfehler [422] Ungültiger Parameter: State Filing State-Wert „CMS“]
 
 _Erste Meldung am 28. September 2022._
-

@@ -2,7 +2,8 @@
 title: '„Berichte: Bericht wird beim Sortieren nach benutzerdefiniertem Feld nicht korrekt sortiert'
 description: „Wenn Benutzende einen Aufgabenbericht ausführen, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%

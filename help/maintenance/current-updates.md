@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom 20. Juli 2023**
 
-**Legen Sie geplante Stunden für wiederkehrende Aufgaben von untergeordneten Elementen mit fest. [!UICONTROL Einfach] Dauertyp ohne Zuweisungen**
-
-_Aufgaben_
-
-Wenn Sie jetzt &quot;Geplante Stunden&quot;für eine neue übergeordnete wiederkehrende Aufgabe mit einer [!UICONTROL Einfach] Dauer Typ und keine Zuweisungen; die Stunden werden auch den einzelnen Wiederholungen hinzugefügt. Vor dieser Änderung wurden die Stunden nicht für die Wiederholungen gespeichert, bei denen die Zuordnung der übergeordneten Aufgaben aufgehoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 

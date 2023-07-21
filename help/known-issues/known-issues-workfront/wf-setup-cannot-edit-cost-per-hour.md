@@ -3,9 +3,9 @@ title: "Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ 
 description: "Wenn eine Benutzerin oder ein Benutzer ein Aufgabengebiet bearbeitet und versucht, die Felder „Kosten/Stunde“ oder „Abrechnung/Stunde“ zu bearbeiten, sind die Felder leer und die Benutzerin oder der Benutzer kann sie nicht bearbeiten."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden
 
+
+
 >[!NOTE]
 >
->Dieses Problem tritt nur in der Vorschauumgebung auf.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 Wenn eine Benutzerin oder ein Benutzer ein Aufgabengebiet bearbeitet und versucht, die Felder „Kosten/Stunde“ oder „Abrechnung/Stunde“ zu bearbeiten, sind die Felder leer und die Benutzerin oder der Benutzer kann sie nicht bearbeiten.
 

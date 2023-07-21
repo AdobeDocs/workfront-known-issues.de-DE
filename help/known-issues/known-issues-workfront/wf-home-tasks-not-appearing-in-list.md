@@ -1,9 +1,10 @@
 ---
 title: '„Startseite: Elemente werden nicht in der Arbeitsliste der Startseite angezeigt“'
 description: „Wenn eine Benutzerin oder ein Benutzer die Arbeitsliste der Startseite anzeigt, fehlen Elemente, die in der Arbeitsliste angezeigt werden sollten. Eine Benutzerin oder ein Benutzer kann beispielsweise zu einem Projekt gehen und sehen, dass ihr oder ihm Aufgaben im Projekt zugewiesen sind, diese Aufgaben jedoch nicht in der Arbeitsliste der Startseite angezeigt werden.“
+feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 

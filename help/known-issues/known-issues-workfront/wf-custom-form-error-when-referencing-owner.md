@@ -2,9 +2,10 @@
 title: 'Benutzerdefinierte Formulare: Meldung „Ungültiger benutzerdefinierter Ausdruck“ beim Referenzieren von „Inhaber“ in einem berechneten Feld'
 description: '„Wenn ein(e) Benutzende(r) ein berechnetes Feld zu einem benutzerdefinierten Formular eines Problems hinzufügt und versucht, einen Verweis auf einen Inhaber hinzuzufügen (z. B. „ownerID“), wird das Feld nicht gespeichert und die folgende Meldung wird angezeigt: Dies ist ein ungültiger Ausdruck. Versuchen Sie es erneut.“'
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

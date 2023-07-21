@@ -1,14 +1,15 @@
 ---
-title: '„Gruppen: Untergruppen erhalten keine Benachrichtigungen entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen.“'
-description: „Wenn ein Ereignis auftritt, bei dem eine Benachrichtigung entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen ausgelöst wird, erhalten Untergruppen dieser Gruppe die Benachrichtigung nicht. In Workfront übernehmen diese Untergruppen nicht die Gruppenbenachrichtigungs-Einstellungen.“
+title: '"Gruppen: Untergruppen erhalten keine Benachrichtigungen basierend auf den Einstellungen für Gruppenereignis-Benachrichtigungen.'
+description: Wenn ein Ereignis auftritt, bei dem eine Benachrichtigung entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen ausgelöst wird, erhalten Untergruppen dieser Gruppe die Benachrichtigung nicht. In Workfront übernehmen diese Untergruppen nicht die Gruppenbenachrichtigungs-Einstellungen.
 hidefromtoc: true
-source-git-commit: 209a6610fec9743c817ecb8bb9899f21a1c4762e
-workflow-type: ht
+exl-id: ac51748c-d6f7-42a2-8663-36d3d8c55060
+feature: People Teams and Groups
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
-
 
 # Gruppen: Untergruppen erhalten keine Benachrichtigungen entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen.
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 Wenn ein Ereignis auftritt, bei dem eine Benachrichtigung entsprechend den Einstellungen für Gruppenereignis-Benachrichtigungen ausgelöst wird, erhalten Untergruppen dieser Gruppe die Benachrichtigung nicht. In Workfront übernehmen diese Untergruppen nicht die Gruppenbenachrichtigungs-Einstellungen.
 
 _Erste Meldung am 20. Januar 2023._
-

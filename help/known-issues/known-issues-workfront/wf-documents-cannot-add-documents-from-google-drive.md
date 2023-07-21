@@ -1,14 +1,15 @@
 ---
-title: '„Dokumente: Dokumente können nicht von Google Drive hinzugefügt werden“'
-description: „Wenn ein(e) Benutzende(r) versucht, ein Dokument in Google Drive zu Workfront hinzuzufügen, werden in der Dateiauswahl keine Dateien angezeigt und die gewünschte Datei kann nicht ausgewählt werden.“
+title: "Dokumente: Dokumente können nicht vom Google Drive hinzugefügt werden."
+description: Wenn ein Benutzer versucht, ein Dokument über Google Drive zu Workfront hinzuzufügen, zeigt der Dateiselektor keine Dateien an und der Benutzer kann die gewünschte Datei nicht auswählen.
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+feature: Digital Content and Documents, Workfront Integrations and Apps
+exl-id: 74447447-b4e5-426d-a293-18b3d6f421a0
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 63%
 
 ---
-
 
 # Dokumente: Dokumente können nicht von [!DNL Google Drive] hinzugefügt werden
 
@@ -25,4 +26,3 @@ Wenn ein(e) Benutzende(r) versucht, ein Dokument in [!DNL Workfront] zu [!DNL Go
 Laden Sie die Datei von [!DNL Google Drive] auf Ihren Computer herunter und laden Sie dann die Datei von Ihrem Computer in [!DNL Workfront].
 
 _Erste Meldung am 15. Dezember 2022._
-

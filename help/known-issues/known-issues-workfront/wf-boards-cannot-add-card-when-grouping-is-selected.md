@@ -1,14 +1,15 @@
 ---
-title: '„Pinnwände: Bei angewendeter Gruppierung können keine Karten hinzugefügt werden.“'
-description: „Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuchen, eine Karte hinzuzufügen, können sie nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche „Speichern“.“
+title: 'Pinnwände: Bei angewendeter Gruppierung können keine Karten hinzugefügt werden'
+description: Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuchen, eine Karte hinzuzufügen, können sie nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche Speichern.
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: ht
+feature: Agile
+exl-id: 2e6856d1-1e28-4da7-bb3c-3256d9ec5211
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Pinnwände]: Bei angewendeter Gruppierung können keine Karten hinzugefügt werden
 
@@ -25,4 +26,3 @@ Wenn Benutzende die Gruppierung in [!UICONTROL Keine] ändern, bleibt das Proble
 Ändern Sie die Gruppierung in [!UICONTROL Keine] und aktualisieren Sie dann die Seite.
 
 _Erste Meldung am 14. Februar 2023._
-

@@ -1,8 +1,9 @@
 ---
 title: "Dokumentenintegrationen: Es können nicht alle Ordner in OneDrive angezeigt werden."
 description: "Wenn ein Benutzer versucht, über die OneDrive-Integration in Workfront auf ein Dokument zuzugreifen, kann er nicht alle OneDrive-Ordner sehen und nicht auf Dokumente in den fehlenden Ordnern zugreifen."
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

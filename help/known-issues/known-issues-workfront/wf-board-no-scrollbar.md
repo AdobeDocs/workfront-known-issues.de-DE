@@ -1,9 +1,10 @@
 ---
 title: '„Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden“'
 description: „Wenn eine Benutzerin bzw. ein Benutzer eine Pinnwand anzeigt und versucht, horizontal zu scrollen, ist die Bildlaufleiste nicht vorhanden und horizontales Scrollen ist nicht möglich.“
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

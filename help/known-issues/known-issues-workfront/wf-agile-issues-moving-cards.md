@@ -2,9 +2,10 @@
 title: '„Agile: Probleme beim Verschieben von Karten auf dem Agile-Board“'
 description: Beim Verschieben von Karten auf dem Agile-Board wurden verschiedene Probleme gemeldet.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
+feature: Agile
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 

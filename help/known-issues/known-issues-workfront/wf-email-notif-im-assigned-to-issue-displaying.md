@@ -1,10 +1,11 @@
 ---
 title: '„E-Mail-Benachrichtigungen: Die Einstellung ‚Ich bin einem Problem zugewiesen‘ wird angezeigt“'
 description: Im Bereich [!UICONTROL Setup] wird für Benutzende mit Prüfungs- und Anfragelizenzen die E-Mail-Benachrichtigungseinstellung „Ich bin einem Problem zugewiesen“ angezeigt. Diese Einstellung ist für diese Lizenztypen nicht verfügbar und durch Aktivierung dieser Einstellung werden keine E-Mail-Benachrichtigungen für dieses Ereignis ausgelöst.
+feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 

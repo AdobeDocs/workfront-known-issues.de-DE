@@ -5,7 +5,7 @@ role: User
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '1376'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
       + [[!UICONTROL Einrichtung]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [Dokumentenintegrationen: Es werden nicht alle Ordner in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL Startseite]: [!UICONTROL Homepage-Arbeitsliste] leer/langsam geladen](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [Dokumentintegrationen: Es werden nicht alle Ordner in  [!DNL OneDrive] angezeigt](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [[!UICONTROL Startseite]: [!UICONTROL Arbeitsliste der Startseite] ist leer/lädt langsam](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Projekte/Aufgaben/Probleme: Timeline wird nicht neu berechnet](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -57,7 +57,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | -----------------------------------------------------------------| ----------------- |
 | [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21. Juli 2023 |
 | [[!UICONTROL Einrichtung]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20. Juli 2023 |
-| [Dokumentenintegrationen: Es werden nicht alle Ordner in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18. Juli 2023 |
+| [Dokumentintegrationen: Es werden nicht alle Ordner in  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) angezeigt | 18. Juli 2023 |
 | [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
 | [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5. Mai 2023 |
 | [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21. April 2023 |

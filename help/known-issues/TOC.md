@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '1376'
-ht-degree: 97%
+source-wordcount: '1385'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Dokumentgenehmigungen werden nicht im Bereich Genehmigungen angezeigt](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projekte/Probleme: Das Problem wurde im Projekt nicht korrekt gelöst](known-issues-workfront/wf-projects-resolving-issue.md)

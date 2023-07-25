@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 91%
+source-wordcount: '345'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Dokumentgenehmigungen werden nicht im Bereich Genehmigungen angezeigt](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 | [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21. Juli 2023 |
 | [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20. Juli 2023 |
 | [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20. Juli 2023 |

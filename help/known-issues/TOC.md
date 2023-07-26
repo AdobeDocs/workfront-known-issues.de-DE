@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 96%
+source-wordcount: '1392'
+ht-degree: 95%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 96%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [Dokumente: Derzeit nicht unterstützte EPS-Dateien](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [Projekte/Probleme: Das Problem wurde im Projekt nicht korrekt gelöst](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [Projekte/Probleme: Das Projekt behebt das Problem nicht ordnungsgemäß](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Einrichtung]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Testsendungen: Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Testsendungen: Nachricht &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Dokumentintegrationen: Es werden nicht alle Ordner in  [!DNL OneDrive] angezeigt](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Startseite]: [!UICONTROL Arbeitsliste der Startseite] ist leer/lädt langsam](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
@@ -172,6 +172,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Wert kann nicht eingegeben werden in [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Update kann nicht ausgeführt werden]“](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: E-Mail-Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 92%
+source-wordcount: '647'
+ht-degree: 90%
 
 ---
 
@@ -25,11 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27. Juli 2023 |
 | [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 | [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21. Juli 2023 |
-| [Projekte/Probleme: Das Problem wurde im Projekt nicht korrekt gelöst](known-issues-workfront/wf-projects-resolving-issue.md) | 21. Juli 2023 |
-| [Testsendungen: Die Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20. Juli 2023 |
-| [Testsendungen: Meldung &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20. Juli 2023 |
+| [Projekte/Probleme: Das Projekt behebt das Problem nicht ordnungsgemäß](known-issues-workfront/wf-projects-resolving-issue.md) | 21. Juli 2023 |
+| [Testsendungen: Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20. Juli 2023 |
+| [Testsendungen: Nachricht &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20. Juli 2023 |
 | [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md) | 28. Juni 2023 |
 
 {style="table-layout:auto"}
@@ -40,7 +41,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21. Juli 2023 |
+| [Dokumente: Derzeit nicht unterstützte EPS-Dateien](known-issues-workfront/wf-documents-not-supporting-eps.md) | 21. Juli 2023 |
 | [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21. Juli 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21. Juli 2023 |
 | [Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar](known-issues-workfront/wf-filters-enable-system-wide.md) | 27. Juni 2023 |

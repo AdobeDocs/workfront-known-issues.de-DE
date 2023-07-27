@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '4304'
+source-wordcount: '4303'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Juli 2023
 
-+++**(Geplantes) Wartungs-Update am 27. Juli 2023**
++++**Wartungs-Update vom 27. Juli 2023**
 
 **&quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen**
 

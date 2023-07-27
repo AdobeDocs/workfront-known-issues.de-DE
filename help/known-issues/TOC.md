@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1402'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Dokumente: Derzeit nicht unterstützte EPS-Dateien](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md)

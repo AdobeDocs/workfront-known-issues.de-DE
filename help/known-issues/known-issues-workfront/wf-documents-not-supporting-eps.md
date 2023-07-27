@@ -3,17 +3,21 @@ title: "Dokumente: EPS-Dateien werden derzeit nicht unterstützt"
 description: "Workfront unterstützt derzeit nicht das Erstellen von Testsendungen aus EPS-Dateien."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0094ecfc0db68c446bd6e63323caeac75d9593eb
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 8%
+source-wordcount: '64'
+ht-degree: 17%
 
 ---
 
 
-# Dokumente: EPS-Dateien werden derzeit nicht unterstützt
+# Dokumente: Derzeit nicht unterstützte EPS-Dateien
 
 <!--WF, WFP-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 27. Juli 2023 behoben.
 
 Workfront unterstützt derzeit nicht das Erstellen von Testsendungen aus EPS-Dateien.
 

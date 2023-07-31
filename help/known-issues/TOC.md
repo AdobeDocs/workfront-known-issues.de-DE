@@ -5,7 +5,7 @@ role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
 workflow-type: tm+mt
 source-wordcount: '1001'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 93%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [Dokumente: Derzeit nicht unterstützte EPS-Dateien](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [Projekte/Probleme: Das Projekt behebt das Problem nicht ordnungsgemäß](known-issues-workfront/wf-projects-resolving-issue.md)
-      + [[!UICONTROL Einrichtung]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [Testsendungen: Testsendungen werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Testsendungen: Nachricht &quot;Kein Bild&quot; beim Klicken auf den Testversand](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Projekte/Probleme: Das Problem wird im Projekt nicht ordnungsgemäß gelöst](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [[!UICONTROL Setup]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
+      + [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Korrekturabzüge: Meldung „Kein Bild“ bei Klick auf Korrekturabzug](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Dokumentintegrationen: Es werden nicht alle Ordner in  [!DNL OneDrive] angezeigt](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Startseite]: [!UICONTROL Arbeitsliste der Startseite] ist leer/lädt langsam](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete konnten nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

@@ -1,13 +1,13 @@
 ---
-title: '''[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Benutzerspezifischer API-Aufruf] Modul, das 404- oder 422-Fehler zurückgibt"'
-description: Die Workfront &gt; Das benutzerdefinierte API-Modul gibt einen Fehler zurück.
+title: '[!DNL Workfront Fusion]: [!DNL Workfront] &gt; Modul für [!UICONTROL benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück'
+description: Das Modul „Benutzerdefinierte API“ von Workfront gibt einen Fehler zurück.
 hidefromtoc: true
 exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
 feature: Workfront Fusion
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 

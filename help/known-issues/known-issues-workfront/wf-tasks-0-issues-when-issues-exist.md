@@ -1,13 +1,13 @@
 ---
-title: "Probleme: In der linken Navigation werden Probleme (0) angezeigt, wenn Probleme vorliegen."
-description: Wenn ein Benutzer eine Aufgabe anzeigt, bei der Probleme auftreten, wird im Bereich "Probleme"im linken Navigationsbereich der Aufgabe (0) angezeigt, was darauf hinweist, dass es keine Probleme gibt. Wenn der/die Benutzende den Bereich „Probleme“ der Aufgabe aufruft, sind die Probleme zu sehen.
+title: 'Probleme: In der linken Navigation werden (0) Probleme angezeigt, obwohl Probleme vorhanden sind'
+description: Wenn Benutzende eine Aufgabe anzeigen, in der Probleme vorhanden sind, wird im linken Navigationsbereich der Aufgabe (0) angezeigt, was bedeutet, dass es keine Probleme gibt. Wenn die Benutzenden den Bereich „Probleme“ der Aufgabe aufrufen, sind die Probleme zu sehen.
 hidefromtoc: true
 exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
-title: '"Berichte: Berichte verwenden den Ersteller von Berichten anstelle des Platzhalters $$USERID'''
-description: Wenn es sich bei einem Bericht um einen wiederkehrenden Versand handelt und der Platzhalter $$USERID enthält, wird der Bericht mit dem Ersteller des Berichts und nicht mit dem Platzhalter ausgeführt. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder die Option zum sofortigen Versand verwendet wird.
+title: 'Berichte: Berichte verwenden die Erstellerin bzw. den Ersteller von Berichten anstelle des Platzhalters $$USERID'
+description: Wenn es sich bei einem Bericht um einen wiederkehrenden Versand handelt und er den Platzhalter $$USERID enthält, wird bei der Ausführung des Berichts die Erstellerin bzw. der Ersteller des Berichts und nicht der Platzhalter verwendet. Dies geschieht nur bei einem wiederholten Versand. Der Bericht funktioniert wie erwartet, wenn er manuell ausgeführt oder die Option zum sofortigen Versand verwendet wird.
 hidefromtoc: true
 exl-id: d46cdb4a-5aba-4225-a440-30f45d59a7e4
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“
+# Berichte: Berichte verwenden die Erstellerin bzw. den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“
 
 >[!NOTE]
 >

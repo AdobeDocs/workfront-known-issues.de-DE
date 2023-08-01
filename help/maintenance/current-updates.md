@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4303'
-ht-degree: 99%
+source-wordcount: '4410'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,28 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Juli 2023
+
++++**(Geplantes) Wartungs-Update am 27. Juli 2023**
+
+**Das Problem wurde im Projekt nicht korrekt gelöst**
+
+_Projekte/Probleme_
+
+Wenn Benutzende den Status eines Projekts ändern, das das Lösungsobjekt für ein Problem ist, wird der Problemstatus in einen Status geändert, der nicht mit dem Status im Projekt übereinstimmt.
+
+**Fehler &quot;Upper&quot;in Matrix-Berichten**
+
+_Berichte_
+
+Wenn ein Benutzer versucht, einen Matrix-Bericht anzuzeigen, wird der Bericht nicht geladen und der Benutzer sieht den folgenden Fehler:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+Dies wurde für Benutzer von EMEA berichtet.
+
++++
 
 ## Updates im Juli 2023
 

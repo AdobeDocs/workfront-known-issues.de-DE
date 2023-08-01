@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 98%
+source-wordcount: '4451'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
-## Updates im Juli 2023
+## Updates im August 2023
 
-+++**(Geplantes) Wartungs-Update am 27. Juli 2023**
++++**(Geplant) Wartungs-Update am 3. August 2023**
 
 **Das Problem wurde im Projekt nicht korrekt gelöst**
 
@@ -45,6 +45,12 @@ Dies wurde für Benutzer von EMEA berichtet.
 ## Updates im Juli 2023
 
 +++**Wartungs-Update vom 27. Juli 2023**
+
+**Tags und Checklisten-Elemente funktionieren in der Ansicht der Projektplatine nicht ordnungsgemäß**
+
+_Pinnwände_
+
+Tags und Checklisten-Elemente wurden aus der Pinnwand von Projekten entfernt, da sie nicht zu Workfront-Aufgaben gehören und nicht von Benutzern gemeinsam genutzt werden können.
 
 **&quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen**
 

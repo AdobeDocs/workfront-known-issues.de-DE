@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 97%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 ## Updates im August 2023
 
 +++**(Geplant) Wartungs-Update am 3. August 2023**
+
+**Schwieriges Auffinden von Elementen in der Ansauspalte**
+
+_Pinnwände_
+
+Die Aufnahmespalte auf einer Pinnwand wurde zuvor nach der für Aufgaben und Probleme definierten Priorität sortiert, was die Suche nach bestimmten Elementen erschwerte.
+
+Die Standardreihenfolge lautet nun wie folgt:
+
+Aufgaben:
+
+* Primäre Reihenfolge: Projektname
+* Sekundäre Reihenfolge: Struktur der Arbeitsaufschlüsselung
+
+Probleme
+
+* Primäre Reihenfolge: Projektname
+* Sekundäre Reihenfolge: Referenznummer
 
 **Das Problem wurde im Projekt nicht korrekt gelöst**
 

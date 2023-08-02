@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 96%
+source-wordcount: '665'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2. August 2023 |
+| [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2. August 2023 |
+| [Testsendungen: Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2. August 2023 |
 | [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27. Juli 2023 |
 | [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 | s | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20. Juli 2023 |
@@ -38,6 +41,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2. August 2023 |
+| [Startseite: Löschen nicht möglich [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2. August 2023 |
 | [Projekte/Probleme: Das Problem wird im Projekt nicht ordnungsgemäß gelöst](known-issues-workfront/wf-projects-resolving-issue.md) | 27. Juli 2023 |
 | [Korrekturabzüge: Genehmigungen von gesperrten Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21. Juli 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste auf der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21. Juli 2023 |

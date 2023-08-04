@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 88%
+source-wordcount: '661'
+ht-degree: 86%
 
 ---
 
@@ -40,6 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |
 | [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3. August 2023 |
 | [Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2. August 2023 |

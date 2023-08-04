@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 91%
+source-wordcount: '1078'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Testsendungen: Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)

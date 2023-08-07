@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '1078'
-ht-degree: 90%
+source-wordcount: '1084'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Testsendungen: Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-fail-to-generate.md)

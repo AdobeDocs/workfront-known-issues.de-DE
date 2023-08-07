@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 86%
+source-wordcount: '668'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md) | 7. August 2023 |
 | [Testsendungen: Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3. August 2023 |
 | [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2. August 2023 |
 | [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2. August 2023 |

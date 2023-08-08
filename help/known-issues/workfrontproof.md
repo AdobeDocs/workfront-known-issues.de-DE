@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 89%
+source-wordcount: '378'
+ht-degree: 85%
 
 ---
 
@@ -40,6 +40,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |
+| [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |
 | [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3. August 2023 |
 

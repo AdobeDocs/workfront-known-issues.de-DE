@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 86%
+source-wordcount: '703'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8. August 2023 |
 | [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md) | 7. August 2023 |
 | [Testsendungen: Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3. August 2023 |
 | [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2. August 2023 |
@@ -41,6 +42,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |
+| [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |
 | [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8. August 2023 |
 | [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |

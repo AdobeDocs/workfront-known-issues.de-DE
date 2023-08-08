@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 91%
+source-wordcount: '1115'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)

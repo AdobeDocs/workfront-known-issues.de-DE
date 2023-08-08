@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2. August 2023 |
 | [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2. August 2023 |
 | [Testsendungen: Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2. August 2023 |
-| [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
+| [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20. Juli 2023 |
 
 {style="table-layout:auto"}

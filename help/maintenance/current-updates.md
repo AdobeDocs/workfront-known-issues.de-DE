@@ -70,7 +70,7 @@ _Pinnwände_
 
 Tags und Checklisten-Elemente wurden aus der Pinnwand von Projekten entfernt, da sie nicht zu Workfront-Aufgaben gehören und nicht von Benutzern gemeinsam genutzt werden können.
 
-**&quot;[!UICONTROL Systemweit aktivieren]&quot; und &quot;[!UICONTROL Systemweit anzeigen]&quot; verschiedene Funktionen darstellen**
+**„[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar**
 
 _Filter_
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 89%
       + [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
       + [Startseite: Löschen nicht möglich [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [Testsendungen: Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
-      + [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Projekte/Probleme: Das Problem wird im Projekt nicht ordnungsgemäß gelöst](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -60,7 +60,7 @@ ht-degree: 89%
       + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Vorlagen: Die Vorlage kann nicht aus [!UICONTROL Favoritenvorlagen] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [Projekte: Benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Suche: Zeitüberschreitung der [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md)
       + [Korrekturabzüge: Die Korrekturabzugsversion kann beim Anzeigen des Korrekturabzugs nicht gewechselt werden](known-issues-workfront/wf-proofs-cannot-switch-version.md)
@@ -80,7 +80,7 @@ ht-degree: 89%
       + [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Berichte: Bericht verwendet den Ersteller von Berichten anstelle des Platzhalters „$$[!UICONTROL USERID]“](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Integrationen: [!DNL Workfront for G Suite] kann nicht geöffnet werden](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
-      + [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [Korrekturabzüge: Der Status des Korrekturabzugs wird in [!UICONTROL Dokumentlisten] nicht aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten]](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Korrekturabzugsansicht weniger klar als im Originalbild angezeigt](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Korrekturabzüge: Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
@@ -143,7 +143,7 @@ ht-degree: 89%
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: Schlafmodul, das Szenarien verursacht](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Szenario schlägt mit &quot;&quot;fehl[!UICONTROL Lesen Sie ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
-      + [[!DNL Workfront Fusion]: Wert kann nicht eingegeben werden in [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]: Im Filter  [!DNL Workfront]  > [!UICONTROL Ereignisse beobachten] kann kein Wert eingegeben werden](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Update kann nicht ausgeführt werden]“](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: E-Mail-Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)

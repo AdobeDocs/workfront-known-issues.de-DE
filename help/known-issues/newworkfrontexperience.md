@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '668'
-ht-degree: 85%
+ht-degree: 88%
 
 ---
 
@@ -30,8 +30,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2. August 2023 |
 | [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2. August 2023 |
 | [Testsendungen: Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2. August 2023 |
-| [Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27. Juli 2023 |
-| [Dokumente: Dokumentgenehmigungen werden nicht in [!UICONTROL Genehmigungen] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
+| [Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27. Juli 2023 |
+| [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 
 {style="table-layout:auto"}
 

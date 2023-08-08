@@ -1,25 +1,25 @@
 ---
-title: "Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt"
-description: "Wenn ein Benutzer einem Arbeitsobjekt zugewiesen ist, erhält der Benutzer möglicherweise keinen Zugriff auf das Objekt und kann die Zuweisung nicht abschließen. Der Benutzer kann den Zugriff anfordern, dies fügt jedoch der Fertigstellung des Arbeitselements Zeit und Komplexität hinzu."
+title: "Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt"
+description: "Benutzende, die einem Arbeitsobjekt zugewiesen sind, erhalten möglicherweise keinen Zugriff auf das Objekt und können die Aufgabe nicht abschließen. Die Benutzenden können Zugriff anfordern, doch dies macht die Fertigstellung des Arbeitselements zeitaufwendiger und komplexer."
 hidefromtoc: true
 feature: Tasks
 source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Aufgaben/Probleme: Zugewiesener Benutzer erhält keinen Zugriff auf das Objekt
+# Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt
 
-Wenn ein Benutzer einem Arbeitsobjekt zugewiesen ist, erhält der Benutzer möglicherweise keinen Zugriff auf das Objekt und kann die Zuweisung nicht abschließen. Der Benutzer kann den Zugriff anfordern. Dies erhöht jedoch die Zeit und die Komplexität des Abschlusses des Arbeitselements.
+Benutzende, die einem Arbeitsobjekt zugewiesen sind, erhalten möglicherweise keinen Zugriff auf das Objekt und können die Aufgabe nicht abschließen. Die Benutzenden können Zugriff anfordern, doch dies macht die Fertigstellung des Arbeitselements zeitaufwendiger und komplexer.
 
 **Problemumgehung**
 
 Führen Sie einen der folgenden Schritte aus:
 
-* Zuweisung aufheben und Benutzer neu zuweisen
-* Manuelles Gewähren des Zugriffs für den Benutzer
+* Aufhebung der Zuweisung und Neuzuweisung des Benutzers bzw. der Benutzerin
+* Manuelle Zugrifferteilung für die Benutzerin bzw. den Benutzer
 
 _Erste Meldung im Juli 2023._

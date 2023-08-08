@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im August 2023
+
++++**(Geplant) Aktualisierung der Wartung am 10. August 2023**
+
+**Kann nicht gelöscht werden [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis**
+
+_Startseite_
+
+Wenn ein Benutzer in der neuen [!UICONTROL Startseite] Erlebnis versucht, ein Element aus dem [!UICONTROL Aufgaben] -Widget, wird das Element nicht gelöscht und der Benutzer sieht den folgenden Fehler:
+
+&quot;[!UICONTROL Beim Entfernen Ihrer Aufgabe ist ein Fehler aufgetreten. Warten Sie kurz und versuchen Sie es dann nochmals.]&quot;
+
+Dies kann vorkommen, wenn Stunden im [!UICONTROL Aufgaben] -Element.
+
+**Pinniertes Projekt zeigt in einigen Spalten keine Informationen an**
+
+_Projekte_
+
+Wenn ein Benutzer mithilfe des Pins zu einem fixierten Projekt navigiert, können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Beispiel: eine [!UICONTROL Zuweisungen] -Spalte kann keine Zuweisungen anzeigen, auch wenn Zuweisungen vorgenommen wurden.
+
+**Schlafmodul verursacht Aufhängung von Szenarien**
+
+_[!DNL Workfront Fusion]_
+
+Die [!UICONTROL Instrumente] > [!UICONTROL Schlafen] -Modul in einem Szenario dazu führen kann, dass die Ausführung eines Szenarios hängen bleibt. Diese Ausführungen zeigen den Status &quot;Wird ausgeführt&quot;im [!UICONTROL Szenario - Verlauf]und nicht beenden.
+
++++
 
 +++**Wartungs-Update vom 3. August 2023**
 

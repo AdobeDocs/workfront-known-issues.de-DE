@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '680'
+ht-degree: 86%
 
 ---
 
@@ -41,6 +41,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8. August 2023 |
 | [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |
 | [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3. August 2023 |

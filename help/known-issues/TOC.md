@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 92%
+source-wordcount: '1095'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)

@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion: Wert kann nicht in Workfront > Filter für Überwachungsereignisse eingegeben werden"
-description: "Wenn ein Benutzer eine [!DNL Workfront] > [!DNL Watch Events] und der Operator auf [!UICONTROL Gleich], ist das Textfeld zur Eingabe eines Werts nicht vorhanden."
+title: "Workfront Fusion: Im Filter „Workfront“ > „Ereignisse überwachen“ kann kein Wert eingegeben werden"
+description: "Wenn eine Benutzende ein Modul unter „ [!DNL Workfront] “ > „ [!DNL Watch Events] “ konfigurieren und der Operator auf [!UICONTROL Gleich] gesetzt ist, ist das Textfeld zur Eingabe eines Werts nicht vorhanden."
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Wert kann nicht eingegeben werden in [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] filter
+# [!DNL Workfront Fusion]: Im Filter [!DNL Workfront] > [!UICONTROL Ereignisse beobachten] kann kein Wert eingegeben werden
 
-Wenn ein Benutzer eine [!DNL Workfront] > [!DNL Watch Events] und der Operator auf &quot;[!UICONTROL Gleich],&quot;ist das Textfeld zur Eingabe eines Werts nicht vorhanden.
+Wenn Benutzende ein Modul unter „[!DNL Workfront]“ > „[!DNL Watch Events]“ konfigurieren und der Operator auf „[!UICONTROL Gleich]“ gesetzt ist, ist das Textfeld zur Eingabe eines Werts nicht vorhanden.
 
 **Problemumgehung**
 
-Wählen Sie einen anderen Operator und dann &quot;[!UICONTROL Gleich]&quot; erneut.
+Wählen Sie einen anderen Operator und dann erneut „[!UICONTROL Gleich]“ aus.
 
 _Erste Meldung am 12. Juli 2023._

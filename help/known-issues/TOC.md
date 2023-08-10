@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 88%
+source-wordcount: '1147'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Ungenaue Anzeige der Testfarben](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Startseite]: &quot;[!UICONTROL Erwähnungen]&quot; Widget in neuer [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen der Benutzer mit Tags versehen ist](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Lastenausgleich]: [!UICONTROL Stunden insgesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md)

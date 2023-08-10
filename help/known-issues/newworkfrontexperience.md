@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 84%
+source-wordcount: '717'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Ungenaue Anzeige der Testfarben](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10. August 2023 |
+| [[!UICONTROL Startseite]: &quot;[!UICONTROL Erwähnungen]&quot; Widget in neuer [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen der Benutzer mit Tags versehen ist](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10. August 2023 |
 | [[!UICONTROL Lastenausgleich]: [!UICONTROL Stunden insgesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9. August 2023 |
 | [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8. August 2023 |
 | [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md) | 7. August 2023 |

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '716'
-ht-degree: 82%
+source-wordcount: '695'
+ht-degree: 84%
 
 ---
 
@@ -46,11 +46,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |
 | [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |
 | [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8. August 2023 |
-| [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 4. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |
 | [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3. August 2023 |
 | [Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2. August 2023 |
-| [Startseite: Löschen nicht möglich [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2. August 2023 |
 | [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste auf der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21. Juli 2023 |
 | [Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30. März 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

@@ -4,14 +4,18 @@ description: ''
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
-# Projekte: benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird
+# Projekte: Benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 10. August 2023 behoben.
 
 Wenn Benutzende ein Projekt aus einer Vorlage erstellen und der Vorlage keine Gruppe zugeordnet ist, sind die benutzerdefinierten, mit der [!UICONTROL Hauptgruppe] der Benutzenden verknüpften Status in der Dropdown-Liste [!UICONTROL Status] der Benutzeroberfläche „[!UICONTROL Projekt erstellen]“ nicht verfügbar.
 

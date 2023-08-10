@@ -3,9 +3,9 @@ title: '„Korrekturabzüge: Genehmigungsoptionen werden in der Korrekturabzugsa
 description: „Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der Desktop-Korrekturabzugsanzeige zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der [!UICONTROL Desktop-Korrekturabzugsanzeige] zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 

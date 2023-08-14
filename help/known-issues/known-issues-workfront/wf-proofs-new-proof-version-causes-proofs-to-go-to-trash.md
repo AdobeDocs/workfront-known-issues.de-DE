@@ -1,21 +1,21 @@
 ---
-title: "Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht."
-description: "Wenn ein Benutzer einen Testversand aus einem Dokument erstellt, wird der Testversand erstellt. Wenn ein Benutzer jedoch eine andere Version des Testversands erstellt, werden sowohl die alten als auch die neuen Versionen gelöscht. Es gibt eine [!UICONTROL Testversand erstellen] -Option für das Originaldokument und die Testversandversionen finden Sie im [!UICONTROL Papierkorb] der [!UICONTROL Testing] Gebiet in [!DNL Workfront]."
+title: '„Korrekturabzüge: Durch die Erstellung einer neuen Korrekturabzugsversion werden alle Korrekturabzugsversionen gelöscht“'
+description: „Beim Erstellen eines Korrekturabzugs aus einem Dokument wird der Korrekturabzug zwar erstellt. Wenn jedoch eine andere Version des Korrekturabzugs erstellt wird, werden sowohl die alte als auch die neue Version gelöscht. Es gibt die Option [!UICONTROL Korrekturversand erstellen] für das Originaldokument, und die Korrekturabzugsversion findet sich im [!UICONTROL Papierkorb] des Bereichs [!UICONTROL Proofing] in  [!DNL Workfront].“
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht
+# Korrekturabzüge: Durch die Erstellung einer neuen Korrekturabzugsversion werden alle Korrekturabzugsversionen gelöscht
 
 <!--WF and WFP TOCs-->
 
-Wenn ein Benutzer einen Testversand aus einem Dokument erstellt, wird der Testversand erstellt. Wenn ein Benutzer jedoch eine andere Version des Testversands erstellt, werden sowohl die alten als auch die neuen Versionen gelöscht. Es gibt eine [!UICONTROL Testversand erstellen] -Option für das Originaldokument und die Testversandversionen finden Sie im [!UICONTROL Papierkorb] der [!UICONTROL Testing] Gebiet in [!DNL Workfront].
+Beim Erstellen eines Korrekturabzugs aus einem Dokument wird der Korrekturabzug zwar erstellt. Wenn jedoch eine andere Version des Korrekturabzugs erstellt wird, werden sowohl die alte als auch die neue Version gelöscht. Es gibt die Option [!UICONTROL Korrekturversand erstellen] für das Originaldokument, und die Korrekturabzugsversion findet sich im [!UICONTROL Papierkorb] des Bereichs [!UICONTROL Proofing] in [!DNL Workfront].
 
 _Erste Meldung am 24. Juli 2023._
 

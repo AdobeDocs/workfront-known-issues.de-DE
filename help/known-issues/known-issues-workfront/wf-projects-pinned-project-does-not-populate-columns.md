@@ -1,19 +1,19 @@
 ---
-title: "Projekte: Pinned project does not display information in some columns"
-description: "Wenn ein Benutzer mithilfe des Pins zu einem fixierten Projekt navigiert, können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Beispiel: eine [!UICONTROL Zuweisungen] -Spalte kann keine Zuweisungen anzeigen, auch wenn Zuweisungen vorgenommen wurden."
+title: '„Projekte: Angeheftetes Projekt zeigt in einigen Spalten keine Informationen an“'
+description: „Beim Navigieren zu einem angehefteten Projekt mithilfe des Pins können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Zum Beispiel kann es vorkommen, dass eine Spalte [!UICONTROL Zuweisungen] keine Zuweisungen anzeigt, auch wenn Zuweisungen vorgenommen wurden.“
 hidefromtoc: true
 feature: Projects
 source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an
+# Projekte: Angeheftetes Projekt zeigt in einigen Spalten keine Informationen an
 
-Wenn ein Benutzer mithilfe des Pins zu einem fixierten Projekt navigiert, können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Beispiel: eine [!UICONTROL Zuweisungen] -Spalte kann keine Zuweisungen anzeigen, auch wenn Zuweisungen vorgenommen wurden.
+Beim Navigieren zu einem angehefteten Projekt mithilfe des Pins können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Zum Beispiel kann es vorkommen, dass eine Spalte [!UICONTROL Zuweisungen] keine Zuweisungen anzeigt, auch wenn Zuweisungen vorgenommen wurden.
 
 **Problemumgehung**
 

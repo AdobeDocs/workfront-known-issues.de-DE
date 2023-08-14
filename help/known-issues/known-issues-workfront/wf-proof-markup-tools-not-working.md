@@ -1,28 +1,28 @@
 ---
-title: "Testsendungen: Testversandmarkierungen können nicht angepasst werden"
-description: '"Wenn ein Benutzer im Testversand-Viewer einen Kommentar abgibt, beim Testversand ein Markup durchführt und dann auf "Entfernen"klickt, kann der Benutzer das Markup nicht mehr anpassen. „'
+title: '„Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden“'
+description: „Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden. „
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Testversandmarkierungen können nicht angepasst werden
+# Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden
 
 <!--WF and WFP TOCs-->
 
-Wenn ein Benutzer im Testversand-Viewer einen Kommentar abgibt und beim Testversand ein Markup vornimmt und dann auf &quot;Entfernen&quot;klickt, kann der Benutzer das Markup nicht mehr anpassen.
+Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden.
 
 **Problemumgehung**
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
-* Posten Sie den Kommentar und bearbeiten Sie ihn dann. Wenn Sie den Kommentar bearbeiten, wird der Fokus auf das Markup gelegt und es kann angepasst werden.
-* Machen Sie ein weiteres mit demselben Kommentar verknüpftes Zeichen und löschen Sie dann das zweite Zeichen. Dadurch wird der Fokus auf das erste Markup zurückgeführt.
+* Posten Sie den Kommentar und bearbeiten Sie ihn dann. Wenn Sie den Kommentar bearbeiten, wird der Fokus auf die Markierung gelegt, sodass sie angepasst werden kann.
+* Erstellen Sie eine weitere Markierung, die mit demselben Kommentar verknüpft ist, und löschen Sie dann die zweite Markierung. Dadurch wird der Fokus auf die erste Markierung zurückgeführt.
 
 _Erste Meldung am 26. Juli 2023._
 

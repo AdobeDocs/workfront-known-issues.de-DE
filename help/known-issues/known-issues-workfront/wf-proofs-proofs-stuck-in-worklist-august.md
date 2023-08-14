@@ -1,21 +1,21 @@
 ---
-title: "Testsendungen: Der bestätigte Testversand verbleibt auf der Heimarbeitsliste des Genehmigers."
-description: "Wenn ein Benutzer einen Testversand genehmigt, bleibt diese Testversand-Genehmigung in der Startseiten-Arbeitsliste des Benutzers erhalten. Genehmigte Testsendungen sollten automatisch aus der Arbeitsliste für die Startseite entfernt werden."
+title: '„Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der Arbeitsliste der Startseite der genehmigenden Person “'
+description: „Wenn jemand einen Korrekturabzug genehmigt, verbleibt diese Genehmigung auf der Arbeitsliste der Startseite der Person. Genehmigte Korrekturabzüge sollten automatisch aus der Arbeitsliste für die Startseite entfernt werden.“
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]
+# Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der [!UICONTROL Arbeitsliste der Startseite] der genehmigenden Person
 
 <!--WF and WFP TOCs-->
 
-Wenn ein Benutzer einen Testversand genehmigt, verbleibt die Testversand-Genehmigung im [!UICONTROL Homepage-Arbeitsliste]. Validierte Testsendungen sollten automatisch aus dem [!UICONTROL Homepage-Arbeitsliste].
+Wenn jemand einen Korrekturabzug genehmigt, verbleibt diese Genehmigung auf der [!UICONTROL Arbeitsliste der Startseite] der Person. Genehmigte Korrekturabzüge sollten automatisch aus der [!UICONTROL Arbeitsliste der Startseite] entfernt werden.
 
 _Erste Meldung am 21. Juli 2023._
 

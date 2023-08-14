@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 87%
+ht-degree: 94%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 87%
       + [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [Projekte: Das angefügte Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
-      + [Testsendungen: Testversandmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)
-      + [Testsendungen: Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [Testsendungen: Durch die Erstellung einer neuen Testversandversion werden alle Testversandversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [Testsendungen: Der genehmigte Testversand verbleibt beim Genehmiger. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [Testsendungen: Testsendungen mit oberster Cut](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [Startseite: Löschen nicht möglich [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [Testsendungen: Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [Projekte: Angeheftetes Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md)
+      + [Korrekturabzüge: Durch die Erstellung einer neuen Korrekturabzugsversion werden alle Korrekturabzugsversionen gelöscht](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der [!UICONTROL Arbeitsliste der Startseite] der genehmigenden Person](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Korrekturabzüge: Anzeige des Korrekturabzugs ist oben abgeschnitten](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Startseite: Löschen von [!UICONTROL Aufgabenelement] in neuem [!UICONTROL Startseitenerlebnis] nicht möglich](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Korrekturabzüge: In Listen oder Aufzählungspunkten kann kein Text ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Dokumente: EPS-Dateien werden derzeit nicht unterstützt](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -148,8 +148,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Schlafmodul, das Szenarien verursacht](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]: Szenario schlägt mit &quot;&quot;fehl[!UICONTROL Lesen Sie ECONNRESET]&quot; error](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]: Szenario schlägt fehl mit Fehler „[!UICONTROL ECONNRESET lesen]“](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Im Filter  [!DNL Workfront]  > [!UICONTROL Ereignisse beobachten] kann kein Wert eingegeben werden](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Update kann nicht ausgeführt werden]“](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: E-Mail-Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

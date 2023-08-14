@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
 source-wordcount: '4657'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -28,29 +28,29 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 _Startseite_
 
-Wenn ein Benutzer in der neuen [!UICONTROL Startseite] Erlebnis versucht, ein Element aus dem [!UICONTROL Aufgaben] -Widget, wird das Element nicht gelöscht und der Benutzer sieht den folgenden Fehler:
+Beim Versuch, im neuen [!UICONTROL Startseitenerlebnis] ein Element aus dem [!UICONTROL Aufgaben]-Widget zu löschen, wird das Element nicht gelöscht und es wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Beim Entfernen Ihrer Aufgabe ist ein Fehler aufgetreten. Warten Sie kurz und versuchen Sie es dann nochmals.]&quot;
+„[!UICONTROL Beim Entfernen Ihrer Aufgabe ist ein Fehler aufgetreten. Warten Sie kurz und versuchen Sie es dann nochmals.]“
 
-Dies kann vorkommen, wenn Stunden im [!UICONTROL Aufgaben] -Element.
+Dies kann vorkommen, wenn im [!UICONTROL Aufgabenelement] Stunden protokolliert sind.
 
 **Pinniertes Projekt zeigt in einigen Spalten keine Informationen an**
 
 _Projekte_
 
-Wenn ein Benutzer mithilfe des Pins zu einem fixierten Projekt navigiert, können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Beispiel: eine [!UICONTROL Zuweisungen] -Spalte kann keine Zuweisungen anzeigen, auch wenn Zuweisungen vorgenommen wurden.
+Beim Navigieren zu einem angehefteten Projekt mithilfe des Pins können in den Objektlisten (z. B. der Aufgabenliste) leere Spalten angezeigt werden. Zum Beispiel kann es vorkommen, dass eine Spalte [!UICONTROL Zuweisungen] keine Zuweisungen anzeigt, auch wenn Zuweisungen vorgenommen wurden.
 
-**Schlafmodul verursacht Aufhängung von Szenarien**
+**Schlafmodul verursacht Hängen in Szenarien**
 
 _[!DNL Workfront Fusion]_
 
-Die [!UICONTROL Instrumente] > [!UICONTROL Schlafen] -Modul in einem Szenario dazu führen kann, dass die Ausführung eines Szenarios hängen bleibt. Diese Ausführungen zeigen den Status &quot;Wird ausgeführt&quot;im [!UICONTROL Szenario - Verlauf]und nicht beenden.
+Das Modul [!UICONTROL Tools] > [!UICONTROL Schlafen] in einem Szenario kann dazu führen, dass die Ausführung eines Szenarios hängen bleibt. Diese Ausführungen zeigen den Status „Wird ausgeführt“ im [!UICONTROL Szenarioverlauf] an und werden nicht beendet.
 
 +++
 
 +++**Wartungs-Update vom 3. August 2023**
 
-**Schwieriges Auffinden von Elementen in der Ansauspalte**
+**Schwierigkeiten beim Auffinden von Elementen in der Aufnahmespalte**
 
 _Pinnwände_
 
@@ -61,28 +61,28 @@ Die Standardreihenfolge lautet nun wie folgt:
 Aufgaben:
 
 * Primäre Reihenfolge: Projektname
-* Sekundäre Reihenfolge: Struktur der Arbeitsaufschlüsselung
+* Sekundäre Reihenfolge: Struktur für Auffächerung des Arbeitsaufwands
 
 Probleme
 
 * Primäre Reihenfolge: Projektname
 * Sekundäre Reihenfolge: Referenznummer
 
-**Das Problem wurde im Projekt nicht korrekt gelöst**
+**Projekt löst Problem nicht korrekt**
 
 _Projekte/Probleme_
 
-Wenn Benutzende den Status eines Projekts ändern, das das Lösungsobjekt für ein Problem ist, wird der Problemstatus in einen Status geändert, der nicht mit dem Status im Projekt übereinstimmt.
+Wenn Benutzende den Status eines Projekts ändern, das das Lösungsobjekt für ein Problem ist, wird der Problemstatus in einen Status geändert, der nicht demselben Schlüssel entspricht wie der Status des Projekts.
 
-**Fehler &quot;Upper&quot;in Matrix-Berichten**
+**Fehler „Hoppla“ in Matrix-Berichten**
 
 _Berichte_
 
-Wenn ein Benutzer versucht, einen Matrix-Bericht anzuzeigen, wird der Bericht nicht geladen und der Benutzer sieht den folgenden Fehler:
+Beim Versuch, einen Matrix-Bericht zu öffnen, wird dieser nicht geladen und der folgende Fehler angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-Dies wurde für Benutzer von EMEA berichtet.
+Dies wurde für Benutzerinnen und Benutzer in EMEA berichtet.
 
 +++
 
@@ -90,11 +90,11 @@ Dies wurde für Benutzer von EMEA berichtet.
 
 +++**Wartungs-Update vom 27. Juli 2023**
 
-**Tags und Checklisten-Elemente funktionieren in der Ansicht der Projektplatine nicht ordnungsgemäß**
+**Tags und Checklisten-Elemente funktionieren in der Pinnwandansicht des Projekts nicht ordnungsgemäß**
 
 _Pinnwände_
 
-Tags und Checklisten-Elemente wurden aus der Pinnwand von Projekten entfernt, da sie nicht zu Workfront-Aufgaben gehören und nicht von Benutzern gemeinsam genutzt werden können.
+Tags und Checklisten-Elemente wurden aus der Pinnwandansicht von Projekten entfernt, da sie nicht zu Workfront-Aufgaben gehören und nicht von Benutzenden gemeinsam genutzt werden können.
 
 **„[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar**
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: ht
-source-wordcount: '696'
-ht-degree: 100%
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
+workflow-type: tm+mt
+source-wordcount: '714'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Ressourcenplaner]: Der Planer wird beim Anwenden des Filters nicht geladen](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21. August 2023 |
+| [Testsendungen: Der Testversand kann nicht über PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md) | 21. August 2023 |
 | [Korrekturabzüge: Anzeige des Korrekturabzugs ist oben abgeschnitten](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10. August 2023 |
 | [Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) der genehmigenden Person  | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10. August 2023 |

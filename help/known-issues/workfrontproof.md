@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Ungenaue Anzeige der Testfarben](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10. August 2023 |
+| [Korrekturabzug: Farben eines Korrekturabzugs werden ungenau angezeigt](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3. August 2023 |
 | [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25. Juli 2023 |
 
@@ -38,11 +38,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Korrekturabzüge: Anzeige des Korrekturabzugs ist oben abgeschnitten](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10. August 2023 |
-| [Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) der genehmigenden Person  | 10. August 2023 |
+| [Korrekturabzüge: Der genehmigte Korrekturabzug verbleibt auf der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) der genehmigenden Person | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10. August 2023 |
 | [Korrekturabzüge: In Listen oder Aufzählungspunkten kann kein Text ausgewählt werden](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10. August 2023 |
-| [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |
-| [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |
+| [Korrekturabzüge: Textüberschneidungen auf einem Korrekturabzug](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |
+| [Korrekturabzüge: Einstellung „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |
 | [Korrekturabzüge: Meldung „Kein Bild“ beim Klicken auf Korrekturabzüge](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3. August 2023 |
 | [Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3. August 2023 |
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 97%
+source-wordcount: '723'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md) | 21. August 2023 |
 | [Korrekturabzüge: Genehmigungsoptionen werden nicht in der [!UICONTROL Korrekturabzugsanzeige]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) angezeigt | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
 | [Setup: Die Felder für „Kosten/Stunde“ oder „Abrechnung/Stunde“ für Aufgabengebiete können nicht bearbeitet werden](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21. Juli 2023 |

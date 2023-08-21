@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1171'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md)
       + [Testsendungen: Der Testversand kann nicht über PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Ressourcenplaner]: Der Planer wird beim Anwenden des Filters nicht geladen](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Korrekturabzug: Farben eines Korrekturabzugs werden ungenau angezeigt](known-issues-workfront/wf-proof-inaccurate-colors.md)

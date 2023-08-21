@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
 source-wordcount: '4799'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -28,13 +28,13 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 _Projekte_
 
-Wenn ein Benutzer versucht, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] umgeleitet werden, werden sie zu einer Seite mit einer Fehlermeldung weitergeleitet. Navigieren zu einer Aufgabe mithilfe einer URL mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
+Wenn eine Benutzerin bzw. ein Benutzer versucht, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] enthält, zu einem Projekt zu navigieren, wird sie bzw. er zu einer Seite mit einer Fehlermeldung umgeleitet. Die Navigation zu einer Aufgabe mithilfe eines URI mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
 
 **&quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt**
 
 _Korrekturabzüge_
 
-Anzeigen der Testversandeinstellungen in [!DNL Workfront], wird[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Das Kontrollkästchen zeigt die richtige aktuelle Einstellung nicht korrekt an. Wenn das Kästchen aktiviert ist, das angibt, dass Testversand-E-Mail-Benachrichtigungen deaktiviert sind, werden die Benachrichtigungen tatsächlich aktiviert. Das Gegenteil ist auch der Fall.
+Wenn eine Benutzerin bzw. ein Benutzer in [!DNL Workfront] die Einstellungen für Korrekturabzüge anzeigt, zeigt das Kontrollkästchen „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ nicht die richtige aktuelle Einstellung an. Wenn das Kästchen aktiviert ist und dadurch angibt, dass E-Mail-Benachrichtigungen für einen Korrekturabzug deaktiviert sind, sind Benachrichtigungen trotzdem aktiviert. Umgekehrt ist dies ebenso der Fall.
 
 **Testversandmarkierungen können nicht angepasst werden**
 
@@ -46,7 +46,7 @@ Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf
 
 +++**Wartungs-Update am 10. August 2023**
 
-**Kann nicht gelöscht werden [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis**
+**Löschen eines [!UICONTROL Aufgabenelements] im neuen [!UICONTROL Startseitenerlebnis] nicht möglich**
 
 _Startseite_
 
@@ -56,7 +56,7 @@ Beim Versuch, im neuen [!UICONTROL Startseitenerlebnis] ein Element aus dem [!UI
 
 Dies kann vorkommen, wenn im [!UICONTROL Aufgabenelement] Stunden protokolliert sind.
 
-**Pinniertes Projekt zeigt in einigen Spalten keine Informationen an**
+**Angeheftetes Projekt zeigt in einigen Spalten keine Informationen an**
 
 _Projekte_
 

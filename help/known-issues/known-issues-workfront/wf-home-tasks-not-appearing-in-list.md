@@ -4,7 +4,7 @@ description: „Wenn eine Benutzerin oder ein Benutzer die Arbeitsliste der Star
 feature: Get Started with Workfront
 hidefromtoc: true
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 

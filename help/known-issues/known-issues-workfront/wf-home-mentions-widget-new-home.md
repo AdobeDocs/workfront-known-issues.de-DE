@@ -1,24 +1,24 @@
 ---
-title: "Startseite: Das Widget Erwähnungen im neuen Startseite ist nicht auf Nachrichten beschränkt, in denen der Benutzer mit Tags versehen ist."
-description: '"Wenn ein Benutzer das Widget "Erwähnungen"im neuen Starterlebnis anzeigt, sieht er Kommentare, in denen er nicht mit Tags versehen oder erwähnt ist."'
+title: '„Startseite: Das Widget „Erwähnungen“ auf der neuen Startseite ist nicht auf Nachrichten beschränkt, in denen die Benutzerin bzw. der Benutzer getaggt ist.“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer das Widget „Erwähnungen“ im neuen Startseitenerlebnis anzeigt, sieht die Person Kommentare, in denen sie weder getaggt ist noch erwähnt wird.“
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Startseite]: &quot;[!UICONTROL Erwähnungen]&quot; Widget in neuer [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen der Benutzer mit Tags versehen ist
+# [!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist
 
-Wenn ein Benutzer die[!UICONTROL Erwähnungen]&quot;Widget in der neuen [!UICONTROL Startseite] Erlebnis sehen sie Kommentare, die nicht mit Tags versehen oder in erwähnt werden. Das Widget enthält Kommentare, bei denen:
+Wenn eine Benutzerin bzw. ein Benutzer das Widget „[!UICONTROL Erwähnungen]“ im neuen [!UICONTROL Startseitenerlebnis] anzeigt, sieht die Person Kommentare, in denen sie weder getaggt ist noch erwähnt wird. Das Widget enthält Kommentare, bei denen:
 
-* Der Benutzer ist der Aufgabe oder dem Problem zugewiesen
-* Der Benutzer hat die Zuweisung für die Aufgabe oder das Problem vorgenommen
-* Der Benutzer hat die Aufgabe oder das Problem erstellt
-* Der Benutzer ist der primäre Ansprechpartner für die Aufgabe oder das Problem.
+* die Benutzerin bzw. der Benutzer der Aufgabe oder dem Problem zugewiesen ist
+* die Benutzerin bzw. der Benutzer die Zuweisung für die Aufgabe oder das Problem vorgenommen hat
+* die Benutzerin bzw. der Benutzer die Aufgabe oder das Problem erstellt hat
+* die Benutzerin bzw. der Benutzer die primäre Ansprechperson für die Aufgabe oder das Problem ist
 
 _Erste Meldung am 1. August 2023._
 

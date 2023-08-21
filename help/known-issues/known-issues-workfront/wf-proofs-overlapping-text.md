@@ -1,21 +1,21 @@
 ---
-title: "Testsendungen: Überschneidender Text auf einem Testversand"
-description: '"Wenn ein Benutzer einen Testversand im Testversand-Viewer anzeigt, werden überlappende Texte angezeigt, auch wenn sich der Text nicht mit dem Originaldokument überschneidet. „'
+title: '„Korrekturabzüge: Textüberschneidungen auf einem Korrekturabzug“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer einen Korrekurabzug im Korrekturabzug-Viewer anzeigt, sind Textüberschneidungen zu sehen, auch wenn im Originaldokument keine Überschneidungen vorhanden sind. „
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Überschneidender Text auf einem Testversand
+# Korrekturabzüge: Textüberschneidungen auf einem Korrekturabzug
 
-Wenn ein Benutzer einen Testversand im Testversand-Viewer anzeigt, werden überlappende Texte angezeigt, auch wenn sich der Text nicht mit dem Originaldokument überschneidet.
+Wenn eine Benutzerin bzw. ein Benutzer einen Korrekurabzug im Korrekturabzug-Viewer anzeigt, sind Textüberschneidungen zu sehen, auch wenn im Originaldokument keine Überschneidungen vorhanden sind.
 
-Dies wurde bei Testsendungen berichtet, die aus PPTX (PowerPoint)-Dateien erstellt wurden.
+Dies wurde bei Korrekturabzügen berichtet, die aus PPTX-Dateien (PowerPoint) erstellt wurden.
 
 _Erste Meldung am 18. Juli 2023._
 

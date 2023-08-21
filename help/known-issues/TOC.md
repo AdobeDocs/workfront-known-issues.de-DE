@@ -3,9 +3,9 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Testsendungen: Ungenaue Anzeige der Testfarben](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL Startseite]: &quot;[!UICONTROL Erwähnungen]&quot; Widget in neuer [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen der Benutzer mit Tags versehen ist](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Lastenausgleich]: [!UICONTROL Stunden insgesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [Korrekturabzug: Farben eines Korrekturabzugs werden ungenau angezeigt](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [Testsendungen: Überschneidender Text auf einem Testversand](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [Testsendungen: &quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [Projekte: Es ist nicht möglich, zum Projekt mit URL zu navigieren, die verwendet [!UICONTROL Referenz-ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [Korrekturabzüge: Textüberschneidungen auf einem Korrekturabzug](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Korrekturabzüge: Einstellung „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [Projekte: Es ist nicht möglich, zu einem Projekt mit einer URL zu navigieren, die eine [!UICONTROL Referenz-ID] verwendet](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Projekte: Angeheftetes Projekt zeigt in einigen Spalten keine Informationen an](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden](known-issues-workfront/wf-proof-markup-tools-not-working.md)

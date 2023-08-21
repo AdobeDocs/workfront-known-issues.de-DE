@@ -3,9 +3,9 @@ title: '„Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst
 description: „Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden. „
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Korrekturabzüge: Korrekturabzugsmarkierungen können nicht angepasst werden
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 17. August 2023 behoben.
 
 Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden.
 

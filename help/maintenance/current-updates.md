@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 99%
+source-wordcount: '4799'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,29 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im August 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 10. August 2023**
++++**Wartungs-Update am 17. August 2023**
+
+**Es ist nicht möglich, zum Projekt mit URL zu navigieren, die [!UICONTROL Referenz-ID]**
+
+_Projekte_
+
+Wenn ein Benutzer versucht, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] umgeleitet werden, werden sie zu einer Seite mit einer Fehlermeldung weitergeleitet. Navigieren zu einer Aufgabe mithilfe einer URL mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
+
+**&quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt**
+
+_Korrekturabzüge_
+
+Anzeigen der Testversandeinstellungen in [!DNL Workfront], wird[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Das Kontrollkästchen zeigt die richtige aktuelle Einstellung nicht korrekt an. Wenn das Kästchen aktiviert ist, das angibt, dass Testversand-E-Mail-Benachrichtigungen deaktiviert sind, werden die Benachrichtigungen tatsächlich aktiviert. Das Gegenteil ist auch der Fall.
+
+**Testversandmarkierungen können nicht angepasst werden**
+
+_Korrekturabzüge_
+
+Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden.
+
++++
+
++++**Wartungs-Update am 10. August 2023**
 
 **Kann nicht gelöscht werden [!UICONTROL Aufgaben] Element in neuer [!UICONTROL Startseite] Erlebnis**
 

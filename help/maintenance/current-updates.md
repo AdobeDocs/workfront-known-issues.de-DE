@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
+source-wordcount: '4918'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,22 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im August 2023
+
++++**(Geplantes) Wartungs-Update am 24. August 2023**
+
+**Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden**
+
+_Korrekturabzüge_
+
+Wenn ein Korrekturabzug im Korrekturabzug-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.
+
+**Beim Erstellen einer neuen Testversand-Version werden alle Testversandversionen gelöscht**
+
+_Korrekturabzüge_
+
+Beim Erstellen eines Korrekturabzugs aus einem Dokument wird der Korrekturabzug zwar erstellt. Wenn jedoch eine andere Version des Korrekturabzugs erstellt wird, werden sowohl die alte als auch die neue Version gelöscht. Es gibt die Option [!UICONTROL Korrekturversand erstellen] für das Originaldokument, und die Korrekturabzugsversion findet sich im [!UICONTROL Papierkorb] des Bereichs [!UICONTROL Proofing] in [!DNL Workfront].
+
++++
 
 +++**Wartungs-Update am 17. August 2023**
 

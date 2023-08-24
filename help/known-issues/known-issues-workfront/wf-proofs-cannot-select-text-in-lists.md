@@ -3,9 +3,9 @@ title: '„Korrekturabzüge: In Listen oder Aufzählungspunkten kann kein Text a
 description: „Wenn ein Korrekturabzug im Korrekturabzug-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.“
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Korrekturabzüge: In Listen oder Aufzählungspunkten kann kein Text ausgewählt werden
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 24. August 2023 behoben.
 
 Wenn ein Korrekturabzug im Korrekturabzug-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.
 

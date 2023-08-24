@@ -38,21 +38,21 @@ Beim Erstellen eines Korrekturabzugs aus einem Dokument wird der Korrekturabzug 
 
 +++
 
-+++**Wartungs-Update am 17. August 2023**
++++**Wartungs-Update vom 17. August 2023**
 
-**Es ist nicht möglich, zum Projekt mit URL zu navigieren, die [!UICONTROL Referenz-ID]**
+**Es ist nicht möglich, zu einem Projekt mit einer URL zu navigieren, die eine [!UICONTROL Referenz-ID]** verwendet
 
 _Projekte_
 
 Wenn eine Benutzerin bzw. ein Benutzer versucht, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] enthält, zu einem Projekt zu navigieren, wird sie bzw. er zu einer Seite mit einer Fehlermeldung umgeleitet. Die Navigation zu einer Aufgabe mithilfe eines URI mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
 
-**&quot;[!UICONTROL E-Mail-Benachrichtigungen für Testversand deaktivieren]Die Einstellung &quot;&quot;wird falsch angezeigt**
+**Die Einstellung „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ wird ungenau angezeigt**
 
 _Korrekturabzüge_
 
 Wenn eine Benutzerin bzw. ein Benutzer in [!DNL Workfront] die Einstellungen für Korrekturabzüge anzeigt, zeigt das Kontrollkästchen „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ nicht die richtige aktuelle Einstellung an. Wenn das Kästchen aktiviert ist und dadurch angibt, dass E-Mail-Benachrichtigungen für einen Korrekturabzug deaktiviert sind, sind Benachrichtigungen trotzdem aktiviert. Umgekehrt ist dies ebenso der Fall.
 
-**Testversandmarkierungen können nicht angepasst werden**
+**Korrekturabzugsmarkierungen können nicht angepasst werden**
 
 _Korrekturabzüge_
 
@@ -60,7 +60,7 @@ Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf
 
 +++
 
-+++**Wartungs-Update am 10. August 2023**
++++**Wartungs-Update vom 10. August 2023**
 
 **Löschen eines [!UICONTROL Aufgabenelements] im neuen [!UICONTROL Startseitenerlebnis] nicht möglich**
 

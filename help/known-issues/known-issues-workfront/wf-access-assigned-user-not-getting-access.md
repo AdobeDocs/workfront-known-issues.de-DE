@@ -3,15 +3,19 @@ title: "Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Obj
 description: "Benutzende, die einem Arbeitsobjekt zugewiesen sind, erhalten möglicherweise keinen Zugriff auf das Objekt und können die Aufgabe nicht abschließen. Die Benutzenden können Zugriff anfordern, doch dies macht die Fertigstellung des Arbeitselements zeitaufwendiger und komplexer."
 hidefromtoc: true
 feature: Tasks
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # Aufgaben/Probleme: Zugewiesene Person erhält keinen Zugriff auf das Objekt
+
+>[!NOTE]
+>
+>Dieses Problem wurde geschlossen.
 
 Benutzende, die einem Arbeitsobjekt zugewiesen sind, erhalten möglicherweise keinen Zugriff auf das Objekt und können die Aufgabe nicht abschließen. Die Benutzenden können Zugriff anfordern, doch dies macht die Fertigstellung des Arbeitselements zeitaufwendiger und komplexer.
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '5068'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,35 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im August 2023
+
++++**(Geplant) Aktualisierung der Wartung am 31. August 2023**
+
+**Filter gelten nicht für Widgets in der neuen [!UICONTROL Startseite] Erlebnis**
+
+_[!UICONTROL Startseite]_
+
+Wenn ein Benutzer einen Filter auf ein Widget im neuen [!UICONTROL Startseite] Erlebnis anzeigen, zeigt das Widget Elemente an, die vom Filter ausgeschlossen werden sollen.
+
+Dies wurde in der benutzerdefinierten Sandbox-Umgebung gemeldet. Dieselben Widgets in der Vorschau- und Produktionsumgebung filtern wie erwartet.
+
+**Probleme beim Laden von Matrix-Berichten**
+
+_Berichte_
+
+Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Matrix-Bericht als Diagramm zu laden, kann eine der folgenden Situationen auftreten:
+
+* Einige Informationen im Bericht werden nicht geladen
+* Der Bericht gibt den Fehler an „[!UICONTROL Inhalt kann nicht vom Server geladen werden]“
+
+**Der Planer wird nicht geladen, wenn der Filter angewendet wird**
+
+_[!UICONTROL Ressourcenplaner]_
+
+Wenn ein Benutzer versucht, die [!UICONTROL Ressourcenplaner]festgelegt ist, wird der Planer nicht geladen und dem Benutzer wird die folgende Fehlermeldung angezeigt:
+
+&quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Beim Herstellen einer Verbindung zum WorkPerDay-Dienst ist ein Fehler aufgetreten.]&quot;
+
++++
 
 +++**Wartungs-Update vom 24. August 2023**
 

@@ -4,9 +4,9 @@ description: "Wenn Benutzende im Desktop-Korrekturabzug-Viewer auf einen Komment
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->Dieses Problem wurde am 4. August 2023 behoben. Bei Testsendungen, die vor der Korrektur erstellt wurden, tritt möglicherweise weiterhin das Problem auf.
+>Dieses Problem wurde am 4. August 2023 behoben. Bei Korrekturabzügen, die vor der Fehlerbehebung erstellt wurden, tritt das Problem möglicherweise weiterhin auf.
 
 Wenn Benutzende im Desktop-Korrekturabzug-Viewer auf einen Kommentar klicken, wird das mit dem Kommentar verknüpfte Bild nicht geöffnet und die Benutzenden sehen die folgende Meldung:
 

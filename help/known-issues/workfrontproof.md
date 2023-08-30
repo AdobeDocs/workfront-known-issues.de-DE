@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '352'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Korrekturabzug: Farben eines Korrekturabzugs werden ungenau angezeigt](known-issues-workfront/wf-proof-inaccurate-colors.md) | 22. August 2023 |
-| [Testsendungen: Der Testversand kann nicht über PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21. August 2023 |
+| [Korrekturabzüge: Es kann kein Korrekturabzug aus einer PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21. August 2023 |
 | [Korrekturabzüge: Anzeige des Korrekturabzugs ist oben abgeschnitten](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10. August 2023 |
 | [Korrekturabzüge: Textüberschneidungen auf einem Korrekturabzug](known-issues-workfront/wf-proofs-overlapping-text.md) | 8. August 2023 |

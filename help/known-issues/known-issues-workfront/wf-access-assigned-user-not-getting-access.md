@@ -4,7 +4,7 @@ description: "Benutzende, die einem Arbeitsobjekt zugewiesen sind, erhalten mög
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 

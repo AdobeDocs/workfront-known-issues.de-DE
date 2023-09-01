@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5068'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im August 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 31. August 2023**
++++**(Geplantes) Wartungs-Update am 31. August 2023**
 
-**Filter gelten nicht für Widgets in der neuen [!UICONTROL Startseite] Erlebnis**
+**Startseite: Filter funktionieren im neuen [!UICONTROL Startseitenerlebnis] nicht für Widgets**
 
 _[!UICONTROL Startseite]_
 
-Wenn ein Benutzer einen Filter auf ein Widget im neuen [!UICONTROL Startseite] Erlebnis anzeigen, zeigt das Widget Elemente an, die vom Filter ausgeschlossen werden sollen.
+Beim Anwenden eines Filters auf ein Widget im neuen [!UICONTROL Startseitenerlebnis] zeigt das Widget Elemente an, die eigentlich vom Filter ausgeschlossen werden sollten.
 
-Dies wurde in der benutzerdefinierten Sandbox-Umgebung gemeldet. Dieselben Widgets in der Vorschau- und Produktionsumgebung filtern wie erwartet.
+Dies wurde in der Umgebung einer benutzerdefinierten Sandbox gemeldet. In der Vorschau- und Produktionsumgebung werden dieselben Widgets wie erwartet gefiltert.
 
 **Probleme beim Laden von Matrix-Berichten**
 
@@ -41,25 +41,25 @@ Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Matrix-Bericht als Diagra
 * Einige Informationen im Bericht werden nicht geladen
 * Der Bericht gibt den Fehler an „[!UICONTROL Inhalt kann nicht vom Server geladen werden]“
 
-**Der Planer wird nicht geladen, wenn der Filter angewendet wird**
+**Der Planer wird nicht geladen, wenn ein Filter angewendet wird**
 
 _[!UICONTROL Ressourcenplaner]_
 
-Wenn ein Benutzer versucht, die [!UICONTROL Ressourcenplaner]festgelegt ist, wird der Planer nicht geladen und dem Benutzer wird die folgende Fehlermeldung angezeigt:
+Beim Versuch, den [!UICONTROL Ressourcenplaner] zu laden, wird der Planer nicht geladen und es wird die folgende Fehlermeldung angezeigt:
 
-&quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Beim Herstellen einer Verbindung zum WorkPerDay-Dienst ist ein Fehler aufgetreten.]&quot;
+„[!UICONTROL Folgender Fehler ist aufgetreten: Fehler beim Herstellen einer Verbindung zum WorkPerDay-Dienst]“
 
 +++
 
 +++**Wartungs-Update vom 24. August 2023**
 
-**Text kann nicht in Listen oder Aufzählungspunkten ausgewählt werden**
+**In Listen oder Aufzählungspunkten kann kein Text ausgewählt werden**
 
 _Korrekturabzüge_
 
 Wenn ein Korrekturabzug im Korrekturabzug-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.
 
-**Beim Erstellen einer neuen Testversand-Version werden alle Testversandversionen gelöscht**
+**Beim Erstellen einer neuen Korrekturabzugsversion werden alle Versionen des Korrekturabzugs gelöscht**
 
 _Korrekturabzüge_
 

@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '673'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,14 +35,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Startseite]: Filter gelten nicht für Widgets in der neuen [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25. August 2023 |
+| [[!UICONTROL Startseite]: Filter funktionieren nicht für Widgets im neuen [!UICONTROL Startseitenerlebnis]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25. August 2023 |
 | [Berichte: Probleme beim Laden von Matrix-Berichten](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25. August 2023 |
-| [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22. August 2023 |
+| [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22. August 2023 |
 | [Korrekturabzug: Farben eines Korrekturabzugs werden ungenau angezeigt](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23. August 2023 |
 | [Startseite: Löschen von [!UICONTROL Aufgabenelement] in neuem [!UICONTROL Startseitenerlebnis] nicht möglich](known-issues-workfront/wf-boards-issues-with-loading.md) | 22. August 2023 |
 | [Pinnwände: Probleme beim Laden einer Pinnwand](known-issues-workfront/wf-boards-issues-with-loading.md) | 22. August 2023 |
-| [Testsendungen: Der Testversand kann nicht über PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21. August 2023 |
-| [[!UICONTROL Ressourcenplaner]: Der Planer wird beim Anwenden des Filters nicht geladen](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21. August 2023 |
+| [Korrekturabzüge: Es kann kein Korrekturabzug aus einer PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21. August 2023 |
+| [[!UICONTROL Ressourcenplaner]: Der Planer wird nicht geladen, wenn ein Filter angewendet wird](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21. August 2023 |
 | [Korrekturabzüge: Anzeige des Korrekturabzugs ist oben abgeschnitten](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10. August 2023 |
 | [Dokumente: Dokumentgenehmigungen erscheinen nicht im Bereich [!UICONTROL Genehmigungen]](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10. August 2023 |

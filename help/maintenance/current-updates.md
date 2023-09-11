@@ -3,7 +3,7 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
 workflow-type: tm+mt
 source-wordcount: '5189'
 ht-degree: 98%
@@ -22,7 +22,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im September 2023
 
-+++**Wartungs-Update vom 11. September 2023**&#39;
++++**Wartungs-Update vom 11. September 2023**
 
 **Persönliche Aufgaben werden nicht in Timesheets angezeigt**
 

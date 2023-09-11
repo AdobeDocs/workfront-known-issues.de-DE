@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '1183'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Startseite]: Neu [!UICONTROL Startseite] Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Startseite]: [!UICONTROL Anforderungen] Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Benutzerdefinierte Formulare: Benutzerdefiniertes Feld kann nicht gelöscht werden](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Startseite]: Die Suchfunktion funktioniert in älteren Versionen nicht. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Testsendungen: Die Textformatierung im statischen Testversand stimmt nicht mit der Formatierung auf der Website überein](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projekte: Projekt ist leer, wenn es von neuen geladen wird [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Startseite]: Filter funktionieren nicht für Widgets im neuen [!UICONTROL Startseitenerlebnis]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md)
       + [Korrekturabzüge: Es kann kein Korrekturabzug aus einer PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

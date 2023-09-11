@@ -3,9 +3,9 @@ title: "Dokumente: XML-Fehler beim Herunterladen"
 description: "Wenn Benutzende versuchen, ein Dokument herunterzuladen, wird das Dokument nicht heruntergeladen, den Benutzenden wird eine Seite mit einer Meldung gefolgt von XML-Text angezeigt."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
@@ -15,14 +15,8 @@ ht-degree: 100%
 
 <!--WF, WFP TOCs-->
 
->[!NOTE]
->
->Dieses Problem wurde am 21. Juli 2023 behoben.
-
 Wenn Benutzende versuchen, ein Dokument herunterzuladen, wird das Dokument nicht heruntergeladen, den Benutzenden wird eine Seite mit der folgenden Meldung gefolgt von XML-Text angezeigt.
 
 &quot;[!UICONTROL Der XML-Datei sind anscheinend keine Stilinformationen zugeordnet. Die Dokumentstruktur befindet sich unten.]&quot;
 
-Dies wurde bei Dateien mit mehr als 25 MB gemeldet.
-
-_Erste Meldung am 20. Juli 2023._
+_Erste Meldung am 16. August 2023._

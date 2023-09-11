@@ -3,15 +3,19 @@ title: '„Startseite: Filter funktionieren nicht für Widgets im neuen Startsei
 description: „Beim Anwenden eines Filters auf ein Widget im neuen Startseitenerlebnis zeigt das Widget Elemente an, die eigentlich vom Filter ausgeschlossen werden sollten.“
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Startseite]: Filter funktionieren nicht für Widgets im neuen [!UICONTROL Startseitenerlebnis]
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 31. August 2023 behoben.
 
 Beim Anwenden eines Filters auf ein Widget im neuen [!UICONTROL Startseitenerlebnis] zeigt das Widget Elemente an, die eigentlich vom Filter ausgeschlossen werden sollten.
 

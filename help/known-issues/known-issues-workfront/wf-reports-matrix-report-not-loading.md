@@ -3,15 +3,19 @@ title: '„Berichte: Probleme beim Laden von Matrix-Berichten“'
 description: „Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Matrix-Bericht als Diagramm zu laden, können Probleme auftreten.“
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # Berichte: Probleme beim Laden von Matrix-Berichten
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 31. August 2023 behoben.
 
 Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Matrix-Bericht als Diagramm zu laden, kann eine der folgenden Situationen auftreten:
 

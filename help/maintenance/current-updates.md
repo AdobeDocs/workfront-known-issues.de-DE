@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: ht
-source-wordcount: '5068'
-ht-degree: 100%
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+workflow-type: tm+mt
+source-wordcount: '5189'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,35 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
+## Updates im September 2023
+
++++**Wartungs-Update vom 11. September 2023**&#39;
+
+**Persönliche Aufgaben werden nicht in Timesheets angezeigt**
+
+_Arbeitszeittabellen_
+
+Persönliche Aufgaben werden nicht mehr standardmäßig auf dem Timesheet angezeigt. Persönliche Aufgaben werden auf dem Timesheet angezeigt, wenn sie veröffentlicht werden oder Stunden protokolliert werden. Vor dieser Änderung werden persönliche Aufgaben standardmäßig auf Timesheets angezeigt.
+
++++
+
++++**Wartungs-Update vom 7. September 2023**
+
+**Das Projekt ist beim Laden aus dem neuen [!UICONTROL Startseite] Erlebnis**
+
+_Projekte_
+
+Wenn ein Benutzer in seiner [!UICONTROL Startseite] -Seite im neuen Starterlebnis kann die Seite des Projekts nicht geladen werden.
+
+Dies tritt auf, wenn sich der Benutzer als anderer Benutzer angemeldet hat, sich dann als der andere Benutzer abgemeldet und zu seinem eigenen zurückkehrt [!UICONTROL Startseite] Seite.
+
++++
+
+**Startseite: Filter funktionieren im neuen [!UICONTROL Startseitenerlebnis] nicht für Widgets**
+
 ## Updates im August 2023
 
-+++**(Geplantes) Wartungs-Update am 31. August 2023**
++++**Wartungs-Update vom 31. August 2023**
 
 **Startseite: Filter funktionieren im neuen [!UICONTROL Startseitenerlebnis] nicht für Widgets**
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 98%
+source-wordcount: '5290'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,28 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im September 2023
+
++++**(Geplant) Aktualisierung der Wartung am 14. September 2023**
+
+**&quot;[!UICONTROL Keine Fabrik]&quot;-Fehler beim Hinzufügen eines Dokuments**
+
+_Dokumente_
+
+Wenn ein Benutzer versucht, ein Dokument aus einer externen Quelle hinzuzufügen, [!DNL Workfront] kann nicht auf die Quelle zugreifen, und dem Benutzer wird der folgende Fehler angezeigt:
+
+&quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Keine Factory für den Authentifizierungstyp null]&quot;
+
+**Fehler „Hoppla“ in Matrix-Berichten**
+
+_Berichte_
+
+Beim Versuch, einen Matrix-Bericht zu öffnen, wird dieser nicht geladen und der folgende Fehler angezeigt:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+Dies geschieht bei der Gruppierung eines Berichts nach Datumsbereichen.
+
++++
 
 +++**Wartungs-Update vom 11. September 2023**
 

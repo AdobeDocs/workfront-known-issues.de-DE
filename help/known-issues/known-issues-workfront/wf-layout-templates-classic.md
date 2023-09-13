@@ -3,17 +3,17 @@ title: '„Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berich
 description: „Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht mehr in der Workfront-Benutzeroberfläche verfügbar, können sich aber dennoch auf Workfront-Daten auswirken. Dies kann zu Inkonsistenzen in Feldern führen, die von Layout-Vorlagen (z. B. ‚Freigegeben für‘) in Berichten oder Dashboards betroffen sind.“
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten
 
-Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht mehr in der Workfront-Benutzeroberfläche verfügbar, können sich aber dennoch auf Workfront-Daten auswirken. Dies kann zu Inkonsistenzen in Feldern führen, die von Layout-Vorlagen (z. B. „Freigegeben für“) in Berichten oder Dashboards betroffen sind.
+Layout-Vorlagen aus Classic [!DNL Workfront] Erlebnis ist nicht mehr in der [!DNL Workfront] -Schnittstelle, kann sich aber dennoch auf [!DNL Workfront] Daten. Dies kann zu Inkonsistenzen in Feldern führen, die von Layoutvorlagen betroffen sind (z. B. [!UICONTROL Freigegeben für]) in Berichten oder Dashboards.
 
 **Problemumgehung**
 

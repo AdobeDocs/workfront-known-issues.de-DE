@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 96%
+source-wordcount: '344'
+ht-degree: 92%
 
 ---
 
@@ -35,6 +35,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Dokument kann nicht in einen anderen Ordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15. September 2023 |
+| [Testsendungen: Testsendungen erscheinen desaturiert oder zugeschnitten](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15. September 2023 |
 | [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14. September 2023 |
 | [Testsendungen: Die Textformatierung im statischen Testversand stimmt nicht mit der Formatierung auf der Website überein](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14. September 2023 |
 | [Korrekturabzüge: Einstellung „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ wird falsch angezeigt](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8. August 2023 |

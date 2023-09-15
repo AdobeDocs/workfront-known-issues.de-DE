@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
-ht-degree: 95%
+source-wordcount: '1297'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Dokument kann nicht in einen anderen Ordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [Testsendungen: Testsendungen erscheinen desaturiert oder zugeschnitten](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [Aktualisierungen: In neuen Kommentaren vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Aktualisierungen: Der Kommentar wird als vom falschen Benutzer gesendet angezeigt](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [Pinnwände: Benutzer können auf einer Pinnwand eines Workflows nicht zugewiesen werden](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [Filter: Schaltflächen mit der Bezeichnung &quot;[!UICONTROL VERALTET]&quot; beim Freigeben eines Filters](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL Startseite]: Neu [!UICONTROL Startseite] Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Startseite]: [!UICONTROL Anforderungen] Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Benutzerdefinierte Formulare: Benutzerdefiniertes Feld kann nicht gelöscht werden](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)

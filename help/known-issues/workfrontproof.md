@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 90%
+source-wordcount: '368'
+ht-degree: 86%
 
 ---
 
@@ -51,6 +51,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront-Testversand: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |
+| [Workfront-Testversand: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19. September 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
 | [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9. Juni 2023 |
 | [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |

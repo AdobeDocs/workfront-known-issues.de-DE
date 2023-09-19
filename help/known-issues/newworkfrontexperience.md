@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 82%
+source-wordcount: '738'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testversand: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
 | [Pinnwände: Unbenannte Karten werden im Rückstadium angezeigt und angezeigt](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15. September 2023 |
 | [Filter: Schaltflächen mit der Bezeichnung &quot;[!UICONTROL VERALTET]&quot; beim Freigeben eines Filters](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15. September 2023 |
 | [[!UICONTROL Startseite]: [!UICONTROL Anforderungen] Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md) | 7. September 2023 |

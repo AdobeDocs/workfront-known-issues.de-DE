@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '5289'
-ht-degree: 97%
+source-wordcount: '5601'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,63 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im September 2023
+
++++**(Geplant) Aktualisierung der Wartung am 21. September 2023**
+
+**Benutzer kann auf einer Pinnwand eines Workflows nicht zugewiesen werden**
+
+_Pinnwände_
+
+Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe aus einer Pinnwand zuzuweisen, die Teil eines Workflows ist, und beginnt, den Namen des Benutzers einzugeben, wird der Benutzer nicht in der Dropdown-Liste der verfügbaren Benutzer angezeigt. Dies tritt auch dann auf, wenn der Benutzer aktiv ist und sowohl Mitglied der Pinnwand als auch des Workflows ist.
+
+Der Benutzer kann auch bemerken, dass deaktivierte Benutzer in der Dropdown-Liste angezeigt werden.
+
+**Benutzerdefinierte Formulare werden langsam geladen**
+
+_Benutzerdefinierte Formulare_
+
+Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu laden, wird das benutzerdefinierte Formular langsam geladen.
+
+**Dokument kann nicht in einen anderen Ordner verschoben werden**
+
+_Dokumente_
+
+Wenn ein Benutzer ein Dokument in einen Objektordner verschiebt, kann er das Objekt dann nicht in einen anderen Ordner verschieben.
+
+**XML-Fehler beim Herunterladen**
+
+_Dokumente_
+
+Wenn Benutzende versuchen, ein Dokument herunterzuladen, wird das Dokument nicht heruntergeladen, den Benutzenden wird eine Seite mit der folgenden Meldung gefolgt von XML-Text angezeigt.
+
+&quot;[!UICONTROL Der XML-Datei sind anscheinend keine Stilinformationen zugeordnet. Die Dokumentstruktur befindet sich unten.]&quot;
+
+**Dokumente können nicht aus Vorschau-/Sandbox-Umgebungen heruntergeladen werden**
+
+_Dokumente_
+
+Wenn ein Benutzer versucht, ein Dokument aus einer anderen Umgebung als der Produktionsumgebung herunterzuladen, wird das Dokument nicht heruntergeladen, und der Benutzer sieht den folgenden Fehler:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+**Testsendungen erscheinen desaturiert oder zugeschnitten**
+
+_Korrekturabzüge_
+
+Beim Erstellen eines Testversands über eine URL wurden die folgenden Probleme gemeldet:
+
+* Der Beweis scheint entsättigt oder ausgespült zu sein.
+* Der Testversand ist zugeschnitten.
+
+Dies kann dazu führen, dass Testversandentscheidungen schwierig sind, da der Testversand nicht korrekt dargestellt wird.
+
+**Die Erstellung von Testsendungen dauert zu lange**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer versucht, einen Testversand zu erzeugen, dauert die Erstellung des Testversands übermäßig lange. Die Erstellung eines Testversands kann mehrere Tage in Anspruch nehmen.
+
++++
 
 +++**Wartungs-Update vom 14. September 2023**
 

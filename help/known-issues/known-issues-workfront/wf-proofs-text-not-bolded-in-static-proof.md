@@ -3,9 +3,9 @@ title: '„Korrekturabzug: Die Textformatierung im statischen Korrekturabzug sti
 description: „Wenn eine Benutzerin bzw. ein Benutzer einen statischen Korrekturabzug von einer Website aus erstellt, erscheint Text, der auf der Website fettgedruckt ist, im Korrekturabzug nicht als fettgedruckt.“
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Korrekturabzüge: Die Textformatierung im statischen Korrekturabzug stimmt nicht mit der Formatierung auf der Website überein
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 21. September 2023 behoben.
 
 Wenn eine Benutzerin bzw. ein Benutzer einen statischen Korrekturabzug von einer Website aus erstellt, erscheint Text, der auf der Website fettgedruckt ist, im Korrekturabzug nicht als fettgedruckt.
 

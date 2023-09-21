@@ -3,15 +3,19 @@ title: "Aktualisierungen: Der Kommentar wird als vom falschen Benutzer gesendet 
 description: "Wenn ein Benutzer einen Kommentar abgibt, wird der Kommentar von einem anderen Benutzer als veröffentlicht angezeigt."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '71'
+ht-degree: 15%
 
 ---
 
 
 # Aktualisierungen: Der Kommentar wird als vom falschen Benutzer gesendet angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 14. September 2023 behoben.
 
 Wenn ein Benutzer einen Kommentar abgibt, wird der Kommentar so angezeigt, wie er von einem anderen Benutzer veröffentlicht wurde.
 

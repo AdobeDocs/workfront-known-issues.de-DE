@@ -1,25 +1,25 @@
 ---
-title: "Projekte: Projekt ist leer, wenn es aus neuen [!UICONTROL Startseite] experience"
-description: "Wenn ein Benutzer über die [!UICONTROL Startseite] -Seite im neuen Starterlebnis kann die Seite des Projekts nicht geladen werden."
+title: '„Projekte: Projekt ist leer, wenn es aus dem neuen [!UICONTROL Startseitenerlebnis] geladen wird“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer über die [!UICONTROL Startseite] im neuen Startseitenerlebnis auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.“
 hidefromtoc: true
 feature: Projects
 source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# Projekte: Projekt ist leer, wenn es von neuen geladen wird [!UICONTROL Startseite] Erlebnis
+# Projekte: Projekt ist leer, wenn es aus dem neuen [!UICONTROL Startseitenerlebnis] geladen wird
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 7. September 2023 behoben.
 
-Wenn ein Benutzer in seiner [!UICONTROL Startseite] -Seite im neuen Starterlebnis kann die Seite des Projekts nicht geladen werden.
+Wenn eine Benutzerin bzw. ein Benutzer von der [!UICONTROL Startseite] im neuen Startseitenerlebnis aus auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.
 
-Dies tritt auf, wenn sich der Benutzer als anderer Benutzer angemeldet hat, sich dann als der andere Benutzer abgemeldet und zu seinem eigenen zurückkehrt [!UICONTROL Startseite] Seite.
+Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer sich als jemand anderes angemeldet und wieder abgemeldet hat und dann zur eigenen [!UICONTROL Startseite] zurückgekehrt ist.
 
 **Problemumgehung**
 

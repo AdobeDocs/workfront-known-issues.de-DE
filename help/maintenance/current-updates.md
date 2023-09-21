@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 94%
+source-wordcount: '5631'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im September 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 21. September 2023**
++++**Wartungs-Update vom 21. September 2023**
 
 **Benutzer kann auf einer Pinnwand eines Workflows nicht zugewiesen werden**
 
@@ -31,6 +31,12 @@ _Pinnwände_
 Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe aus einer Pinnwand zuzuweisen, die Teil eines Workflows ist, und beginnt, den Namen des Benutzers einzugeben, wird der Benutzer nicht in der Dropdown-Liste der verfügbaren Benutzer angezeigt. Dies tritt auch dann auf, wenn der Benutzer aktiv ist und sowohl Mitglied der Pinnwand als auch des Workflows ist.
 
 Der Benutzer kann auch bemerken, dass deaktivierte Benutzer in der Dropdown-Liste angezeigt werden.
+
+**Checklisten-Element kann nicht gelöscht werden**
+
+_Pinnwände_
+
+Wenn ein Benutzer versucht, ein Checklisten-Element aus einer Karte auf einer Pinnwand zu löschen, wird die [!UICONTROL Löschen] -Schaltfläche reagiert nicht und das Element wird nicht gelöscht.
 
 **Benutzerdefinierte Formulare werden langsam geladen**
 

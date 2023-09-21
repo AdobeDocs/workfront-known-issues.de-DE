@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: Auf der Objektseite fehlen Elemente](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20. September 2023 |
-| [Testsendungen: Die Erstellung von Testsendungen dauert sehr lange](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18. September 2023 |
-| [Dokumente: Dokument kann nicht in einen anderen Ordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15. September 2023 |
-| [Testsendungen: Testsendungen erscheinen desaturiert oder zugeschnitten](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15. September 2023 |
 | [Aktualisierungen: In neuen Kommentaren vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar.](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15. September 2023 |
-| [Pinnwände: Benutzer können auf einer Pinnwand eines Workflows nicht zugewiesen werden](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15. September 2023 |
 | [Aktualisierungen: Der Kommentar wird als vom falschen Benutzer gesendet angezeigt](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15. September 2023 |
-| [Dokumente: XML-Fehler beim Herunterladen](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14. September 2023 |
 | [Korrekturabzüge: Die Textformatierung im statischen Korrekturabzug stimmt nicht mit der Formatierung auf der Website überein](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14. September 2023 |
 | [[!UICONTROL Ressourcenplaner]: Der Planer wird nicht geladen, wenn ein Filter angewendet wird](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7. September 2023 |
 | [Benutzerdefinierte Formulare: Benutzerdefiniertes Feld kann nicht gelöscht werden](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1. September 2023 |

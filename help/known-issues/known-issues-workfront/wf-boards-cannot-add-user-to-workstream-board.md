@@ -3,15 +3,19 @@ title: '"Pinnwände: Benutzer können nicht auf einer Pinnwand in einem Workstre
 description: "Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe aus einer Pinnwand zuzuweisen, die Teil eines Workflows ist, und beginnt, den Namen des Benutzers einzugeben, wird der Benutzer nicht in der Dropdown-Liste der verfügbaren Benutzer angezeigt. Dies tritt auch dann auf, wenn der Benutzer aktiv ist und sowohl Mitglied der Pinnwand als auch des Workflows ist."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '156'
+ht-degree: 6%
 
 ---
 
 
 # Pinnwände: Benutzer können auf einer Pinnwand eines Workflows nicht zugewiesen werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 21. September 2023 behoben.
 
 Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe aus einer Pinnwand zuzuweisen, die Teil eines Workflows ist, und beginnt, den Namen des Benutzers einzugeben, wird der Benutzer nicht in der Dropdown-Liste der verfügbaren Benutzer angezeigt. Dies tritt auch dann auf, wenn der Benutzer aktiv ist und sowohl Mitglied der Pinnwand als auch des Workflows ist.
 

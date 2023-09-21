@@ -3,15 +3,19 @@ title: "Dokumente: Dokument kann nicht in einen anderen Ordner verschoben werden
 description: "Wenn ein Benutzer ein Dokument in einen Objektordner verschiebt, kann er das Objekt dann nicht in einen anderen Ordner verschieben."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # Dokumente: Dokument kann nicht in einen anderen Ordner verschoben werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 30. September 2023 behoben.
 
 Wenn ein Benutzer ein Dokument in einen Objektordner verschiebt, kann er das Objekt dann nicht in einen anderen Ordner verschieben.
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Aktualisierungen: Der Kommentar wird als vom falschen Benutzer gesendet angezeigt](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [Pinnwände: Benutzer können auf einer Pinnwand eines Workflows nicht zugewiesen werden](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [Filter: Schaltflächen mit der Bezeichnung &quot;[!UICONTROL VERALTET]&quot; beim Freigeben eines Filters](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL Startseite]: Neu [!UICONTROL Startseite] Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Startseite]: [!UICONTROL Anforderungen] Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Startseite]: Neue Widget-Vorschau der [!UICONTROL Startseite] zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Startseite]: Das [!UICONTROL Anfragen]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Benutzerdefinierte Formulare: Benutzerdefiniertes Feld kann nicht gelöscht werden](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL Startseite]: Die Suchfunktion funktioniert in älteren Versionen nicht. [!UICONTROL Homepage-Arbeitsliste]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [Testsendungen: Die Textformatierung im statischen Testversand stimmt nicht mit der Formatierung auf der Website überein](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [Projekte: Projekt ist leer, wenn es von neuen geladen wird [!UICONTROL Startseite] Erlebnis](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL Startseite]: Suchfunktion funktioniert nicht in der alten [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Korrekturabzüge: Die Textformatierung im statischen Korrekturabzug stimmt nicht mit der Formatierung auf der Website überein](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Projekte: Projekt ist leer, wenn es aus dem neuen [!UICONTROL Startseitenerlebnis] geladen wird](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Startseite]: Filter funktionieren nicht für Widgets im neuen [!UICONTROL Startseitenerlebnis]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md)
       + [Korrekturabzüge: Es kann kein Korrekturabzug aus einer PDF erstellt werden](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

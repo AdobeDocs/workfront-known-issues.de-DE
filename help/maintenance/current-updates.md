@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
 source-wordcount: '5601'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -113,13 +113,13 @@ Persönliche Aufgaben werden nicht mehr standardmäßig auf dem Timesheet angeze
 
 +++**Wartungs-Update vom 7. September 2023**
 
-**Das Projekt ist beim Laden aus dem neuen [!UICONTROL Startseite] Erlebnis**
+**Das Projekt ist leer, wenn es aus dem neuen [!UICONTROL Startseitenerlebnis] geladen wird**
 
 _Projekte_
 
-Wenn ein Benutzer in seiner [!UICONTROL Startseite] -Seite im neuen Starterlebnis kann die Seite des Projekts nicht geladen werden.
+Wenn eine Benutzerin bzw. ein Benutzer auf der [!UICONTROL Startseite] im neuen Startseitenerlebnis auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.
 
-Dies tritt auf, wenn sich der Benutzer als anderer Benutzer angemeldet hat, sich dann als der andere Benutzer abgemeldet und zu seinem eigenen zurückkehrt [!UICONTROL Startseite] Seite.
+Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer als jemand anderes angemeldet und wieder abgemeldet hat und zur eigenen [!UICONTROL Startseite] zurückgekehrt ist.
 
 +++
 

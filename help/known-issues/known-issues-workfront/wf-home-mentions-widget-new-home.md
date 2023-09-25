@@ -3,15 +3,21 @@ title: '„Startseite: Das Widget „Erwähnungen“ auf der neuen Startseite is
 description: „Wenn eine Benutzerin bzw. ein Benutzer das Widget „Erwähnungen“ im neuen Startseitenerlebnis anzeigt, sieht die Person Kommentare, in denen sie weder getaggt ist noch erwähnt wird.“
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
 
 Wenn eine Benutzerin bzw. ein Benutzer das Widget „[!UICONTROL Erwähnungen]“ im neuen [!UICONTROL Startseitenerlebnis] anzeigt, sieht die Person Kommentare, in denen sie weder getaggt ist noch erwähnt wird. Das Widget enthält Kommentare, bei denen:
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im September 2023
+
++++**(Geplant) Aktualisierung der Wartung am 28. September 2023**
+
+**Benutzerdefiniertes Feld kann nicht gelöscht werden**
+
+_Benutzerdefinierte Formulare_
+
+„Wenn eine Benutzerin bzw. ein Benutzer versucht, ein benutzerdefiniertes Feld zu löschen, kann es nicht gelöscht werden und es wird die Meldung angezeigt: [!UICONTROL Datenbankfehler aufgrund einer Einschränkungsverletzung].“
+
+**In neuen Kommentaren vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar**
+
+_Updates_
+
+Wenn ein Benutzer im neuen Kommentarerlebnis einen Kommentar abgibt und dieser Kommentar im Kommentarbereich des neuen Erlebnisses angezeigt wird, wird derselbe Kommentar möglicherweise nicht im alten Kommentarerlebnis angezeigt. Dies kann dazu führen, dass Benutzer, die das alte Erlebnis verwenden, Kommentare verpassen.
+
+**Objektseite fehlt Elemente**
+
+_Workfront_
+
+Wenn ein Benutzer zu einem benutzerdefinierten Abschnitt auf einem Objekt in [!DNL Workfront], auf der Seite, die geladen wird, fehlen möglicherweise einige Elemente. Diese Elemente können Folgendes umfassen:
+
+* Das linke Navigationsfenster
+* Der Name des Objekts, zu dem der benutzerdefinierte Abschnitt gehört
+* Felder und Informationen in der Kopfzeile
+
++++
 
 +++**Wartungs-Update vom 21. September 2023**
 

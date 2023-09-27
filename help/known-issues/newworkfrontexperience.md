@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
+source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '651'
 ht-degree: 93%
 
 ---
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27. September 2023 |
 | [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md) | 26. September 2023 |
 | [[!UICONTROL Startseite]: [!UICONTROL Anfrage]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md) | 7. September 2023 |
 

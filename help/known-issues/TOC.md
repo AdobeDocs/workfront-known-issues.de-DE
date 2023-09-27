@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
+source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1358'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Lastenausgleich: Benutzer wird aufgrund ungenauer Kapazität als übergeordnet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: Auf der Objektseite fehlen Elemente](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Testversand: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand](known-issues-workfront/wf-proofs-extra-blank-comment.md)

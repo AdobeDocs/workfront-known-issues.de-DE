@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 91%
+source-wordcount: '665'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Automatische Erinnerungsmail werden nicht gesendet](known-issues-workfront/wf-notifications-overdue-error.md) | 28. September 2023 |
 | [Dokumentintegrationen: Fehler beim Ziehen eines Assets in einen Ordner in einer Experience Manager Assets-Integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28. September 2023 |
 | [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27. September 2023 |
 | [Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden](known-issues-workfront/wf-board-no-scrollbar.md) | 26. September 2023 |

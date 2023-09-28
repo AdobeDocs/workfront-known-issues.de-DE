@@ -3,15 +3,19 @@ title: "[!DNL Workfront]: Auf der Objektseite fehlen Elemente."
 description: "Wenn ein Benutzer zu einem benutzerdefinierten Abschnitt auf einem Objekt in [!DNL Workfront], auf der Seite, die geladen wird, fehlen möglicherweise einige Elemente."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 18%
 
 ---
 
 
 # [!DNL Workfront]: Auf der Objektseite fehlen Elemente
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 28. September 2023 behoben.
 
 Wenn ein Benutzer zu einem benutzerdefinierten Abschnitt auf einem Objekt in [!DNL Workfront], auf der Seite, die geladen wird, fehlen möglicherweise einige Elemente. Diese Elemente können Folgendes umfassen:
 

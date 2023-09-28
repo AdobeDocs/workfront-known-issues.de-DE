@@ -3,19 +3,15 @@ title: '„Ressourcenplaner: Der Planer wird nicht geladen, wenn ein Filter ange
 description: „Beim Versuch, den Ressourcenplaner zu laden, wird der Planer nicht geladen und es wird eine Fehlermeldung angezeigt.“
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Ressourcenplaner]: Der Planer wird nicht geladen, wenn ein Filter angewendet wird
-
->[!NOTE]
->
->Dieses Problem wurde am 21. September 2023 behoben.
 
 Beim Versuch, den [!UICONTROL Ressourcenplaner] zu laden, wird der Planer nicht geladen und es wird die folgende Fehlermeldung angezeigt:
 

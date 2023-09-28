@@ -1,17 +1,21 @@
 ---
-title: '„Pinnwände: Probleme beim Laden einer Pinnwand“'
-description: „Beim Versuch, eine Pinnwand zu laden, können Probleme auftreten.“
+title: 'Pinnwände: Probleme beim Laden einer Pinnwand'
+description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, kann es zu Problemen kommen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 61%
+source-wordcount: '100'
+ht-degree: 53%
 
 ---
 
-
 # Pinnwände: Probleme beim Laden einer Pinnwand
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 28. September 2023 behoben.
 
 Beim Versuch, eine Pinnwand zu laden, können Probleme auftreten:
 
@@ -21,4 +25,3 @@ Beim Versuch, eine Pinnwand zu laden, können Probleme auftreten:
 Dieses Problem scheint auf Pinnwände beschränkt zu sein, die sich in Workstreams befinden.
 
 _Erste Meldung am 28. Juli 2023._
-

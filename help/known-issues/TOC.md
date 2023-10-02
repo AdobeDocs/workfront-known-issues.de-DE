@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Pinnwand wird langsam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Pinnwände: Karten können nicht verschoben werden](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Pinnwände: Karten zeigen die falsche Anzahl von Checklisten-Elementen an](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Benachrichtigungen: Automatische Erinnerungsmail werden nicht gesendet](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Dokumentintegrationen: Fehler beim Ziehen eines Assets in einen Ordner in einer Experience Manager Assets-Integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)

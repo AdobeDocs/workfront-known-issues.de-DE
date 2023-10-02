@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 89%
+source-wordcount: '686'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Pinnwand wird langsam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2. Oktober 2023 |
+| [Pinnwände: Karten können nicht verschoben werden](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2. Oktober 2023 |
 | [Benutzer: Fehlermeldung wird fälschlicherweise angezeigt, wenn Benutzer an die Registrierung erinnert werden](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28. September 2023 |
 | [[!UICONTROL Ressourcenplaner]: Der Planer wird nicht geladen, wenn ein Filter angewendet wird](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28. September 2023 |
 | [Lastenausgleich: Benutzer wird aufgrund ungenauer Kapazität als übergeordnet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26. September 2023 |

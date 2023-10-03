@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Startseite angezeigt.](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Pinnwände: Pinnwand wird langsam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Pinnwände: Karten können nicht verschoben werden](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Pinnwände: Karten zeigen die falsche Anzahl von Checklisten-Elementen an](known-issues-workfront/wf-boards-checklist-item-count.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 87%
+source-wordcount: '347'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
 | [Dokumentintegrationen: Fehler beim Ziehen eines Assets in einen Ordner in einer Experience Manager Assets-Integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28. September 2023 |
 
 {style="table-layout:auto"}

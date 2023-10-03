@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 88%
+source-wordcount: '732'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
+| [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3. Oktober 2023 |
 | [Pinnwände: Karten zeigen die falsche Anzahl von Checklisten-Elementen an](known-issues-workfront/wf-boards-checklist-item-count.md) | 29. September 2023 |
 | [Benachrichtigungen: Automatische Erinnerungsmail werden nicht gesendet](known-issues-workfront/wf-notifications-overdue-error.md) | 28. September 2023 |
 | [Dokumentintegrationen: Fehler beim Ziehen eines Assets in einen Ordner in einer Experience Manager Assets-Integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28. September 2023 |
@@ -40,6 +42,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |
+| [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Startseite angezeigt.](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |
 | [Pinnwände: Pinnwand wird langsam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2. Oktober 2023 |
 | [Pinnwände: Karten können nicht verschoben werden](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2. Oktober 2023 |
 | [Benutzer: Fehlermeldung wird fälschlicherweise angezeigt, wenn Benutzer an die Registrierung erinnert werden](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28. September 2023 |

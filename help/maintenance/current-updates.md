@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -163,11 +163,9 @@ _Projekte_
 
 Wenn eine Benutzerin bzw. ein Benutzer auf der [!UICONTROL Startseite] im neuen Startseitenerlebnis auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.
 
-Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer als jemand anderes angemeldet und wieder abgemeldet hat und zur eigenen [!UICONTROL Startseite] zurückgekehrt ist.
+Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer sich als jemand anderes angemeldet und wieder abgemeldet hat und dann zur eigenen [!UICONTROL Startseite] zurückgekehrt ist.
 
 +++
-
-**Startseite: Filter funktionieren im neuen [!UICONTROL Startseitenerlebnis] nicht für Widgets**
 
 ## Updates im August 2023
 

@@ -1,17 +1,21 @@
 ---
 title: "Pinnwände: Karten können nicht verschoben werden"
-description: "Wenn ein Benutzer versucht, eine Karte auf einer Pinnwand zu verschieben, bewegt sich die Karte nicht."
+description: Wenn ein Benutzer versucht, eine Karte auf einer Pinnwand zu verschieben, wird die Karte nicht verschoben.
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: cfdd7d96-7861-4671-af02-028dfb0a90a4
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # Pinnwände: Karten können nicht verschoben werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 5. Oktober 2023 behoben.
 
 Wenn ein Benutzer versucht, eine Karte auf einer Pinnwand zu verschieben, wird die Karte nicht verschoben. Dies geschieht unter den folgenden Umständen:
 

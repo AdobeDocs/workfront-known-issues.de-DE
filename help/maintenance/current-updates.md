@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5791'
-ht-degree: 91%
+source-wordcount: '5929'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,37 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Oktober 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 5. Oktober 2023**
++++**Wartungs-Update vom 5. Oktober 2023**
+
+**Das Board lädt langsam**
+
+_Pinnwände_
+
+Wenn ein Benutzer eine Pinnwand lädt, wird die Pinnwand extrem langsam geladen. Dies kann auch auftreten, wenn die Pinnwand eine kleine Anzahl von Karten hat.
+
+Archivierte Karten, selbst wenn sie nicht angezeigt wurden, wirkten sich auf die Ladezeit der Pinnwand aus.
+
+**Karten können nicht zwischen Spalten verschoben werden**
+
+_Pinnwände_
+
+Wenn ein Benutzer versucht, eine Karte auf einer Pinnwand zu verschieben, wird die Karte nicht verschoben. Dies geschieht unter den folgenden Umständen:
+
+* Drag &amp; Drop
+* Option &quot;Verschieben&quot;auf Karte
+* Bearbeiten der Karte
+
+**Karten können nicht aus der Annahmespalte verschoben werden**
+
+_Pinnwände_
+
+Der Benutzer kann eine Karte aus der Ansauspalte in eine andere Spalte auf der Pinnwand ziehen, nachfolgende Karten können jedoch nicht aus der Ansauspalte verschoben werden.
+
+**Gruppe nach Auswirkung auf die Leistung der Pinnwand**
+
+_Pinnwände_
+
+Wenn der Benutzer versucht, die Karten nach Bevollmächtigten oder Tags zu gruppieren, wird die Leistung der Pinnwand sehr langsam.
 
 **Automatische Erinnerungsmail wird nicht gesendet**
 

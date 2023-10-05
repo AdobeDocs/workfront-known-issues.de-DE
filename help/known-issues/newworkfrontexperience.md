@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 84%
 
 ---
@@ -44,7 +44,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |
 | [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Startseite angezeigt.](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |
 | [Benutzer: Fehlermeldung wird fälschlicherweise angezeigt, wenn Benutzer an die Registrierung erinnert werden](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28. September 2023 |
-| [[!UICONTROL Ressourcenplaner]: Der Planer wird nicht geladen, wenn ein Filter angewendet wird](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28. September 2023 |
 | [Lastenausgleich: Benutzer wird aufgrund ungenauer Kapazität als übergeordnet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26. September 2023 |
 | [Testversand: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

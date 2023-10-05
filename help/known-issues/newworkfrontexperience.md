@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '704'
 ht-degree: 84%
 
 ---
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5. Oktober 2023 |
 | [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
 | [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3. Oktober 2023 |
 | [Pinnwände: Karten zeigen die falsche Anzahl von Checklisten-Elementen an](known-issues-workfront/wf-boards-checklist-item-count.md) | 29. September 2023 |

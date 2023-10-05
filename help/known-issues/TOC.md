@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in  [!DNL Adobe Workfront]
 role: User
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '1452'
+source-wordcount: '1460'
 ht-degree: 85%
 
 ---
@@ -182,6 +182,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Fehler beim Senden einer Einladung mit [!DNL Workfront] > [!UICONTROL Verschiedene Aktionen] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Szenario schlägt fehl mit Fehler „[!UICONTROL ECONNRESET lesen]“](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Im Filter  [!DNL Workfront]  > [!UICONTROL Ereignisse beobachten] kann kein Wert eingegeben werden](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

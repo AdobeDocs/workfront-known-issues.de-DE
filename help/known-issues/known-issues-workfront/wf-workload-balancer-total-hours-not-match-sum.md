@@ -3,19 +3,15 @@ title: '„Workload Balancer: „Stunden gesamt“ stimmt nicht mit der Summe de
 description: „Wenn eine Benutzerin bzw. ein Benutzer den Workload Balancer anzeigt und die Anzahl der geplanten Stunden addiert, stimmt die Summe nicht mit „Stunden gesamt“ in der obersten Zeile überein. Eine Neuberechnung der Timeline löst das Problem nicht.“
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]
-
->[!NOTE]
->
->Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
 Wenn eine Benutzerin bzw. ein Benutzer den [!UICONTROL Workload Balancer] anzeigt und die Anzahl der [!UICONTROL geplanten Stunden] addiert, stimmt die Summe nicht mit [!UICONTROL Stunden gesamt] in der obersten Zeile überein. Eine Neuberechnung der Timeline löst das Problem nicht.
 

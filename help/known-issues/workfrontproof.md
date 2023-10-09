@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 85%
+source-wordcount: '371'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
+| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
 | [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
 | [Dokumentintegrationen: Fehler beim Ziehen eines Assets in einen Ordner in einer Experience Manager Assets-Integration](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28. September 2023 |
 
@@ -36,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9. Oktober 2023 |
 | [Testversand: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
 
 {style="table-layout:auto"}

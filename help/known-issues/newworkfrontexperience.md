@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '725'
-ht-degree: 83%
+source-wordcount: '749'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Probleme** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
+| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6. Oktober 2023 |
 | [Berichte: Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6. Oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5. Oktober 2023 |
@@ -44,6 +46,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9. Oktober 2023 |
 | [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |
 | [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Startseite angezeigt.](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |
 | [Benutzer: Fehlermeldung wird fälschlicherweise angezeigt, wenn Benutzer an die Registrierung erinnert werden](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28. September 2023 |

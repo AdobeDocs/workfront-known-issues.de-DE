@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 89%
+source-wordcount: '6044'
+ht-degree: 88%
 
 ---
 
@@ -21,6 +21,26 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Oktober 2023
+
++++**(Geplant) Aktualisierung der Wartung am 12. Oktober 2023**
+
+**Berechnete Felder behalten keinen Wert bei, wenn ein Problem in eine Aufgabe konvertiert wird**
+
+_Benutzerdefinierte Formulare_
+
+Berechnete Felder, die sich selbst referenzieren, behalten ihre Werte nicht bei, wenn ein Problem in eine Aufgabe konvertiert wird.
+
+Beim Konvertieren des Problems in eine Aufgabe wird der gewünschte Wert im Bearbeitungsfenster korrekt angezeigt. Nach Abschluss der Konvertierung zeigt das berechnete Feld jedoch ein &quot;K. A.&quot; an.
+
+**Fehler beim Ändern von Filtern in [!UICONTROL Startseite]**
+
+_Startseite_
+
+Wenn ein Benutzer die Filter ändert [!UICONTROL Startseite], die [!UICONTROL Startseite] -Bereich wird nicht geladen und der Benutzer sieht den folgenden Fehler:
+
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Bitte versuchen, diese Browser-Seite zu aktualisieren, um mit der Arbeit fortzufahren.]“
+
++++
 
 +++**Wartungs-Update vom 5. Oktober 2023**
 

@@ -1,20 +1,20 @@
 ---
-title: "Workload Balancer: Benutzer wird aufgrund ungenauer Kapazität als überzugeordnet angezeigt."
+title: '„Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt“'
 description: „“
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Lastenausgleich: Benutzer wird aufgrund ungenauer Kapazität als übergeordnet angezeigt
+# Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt
 
-Ein Benutzer kann im Lastenausgleich anzeigen, dass die Zuordnung überfällig ist. Wenn ein Benutzer den Mauszeiger über die Überzuweisung bewegt, sieht er, dass die Kapazität des Benutzers auf 0 eingestellt ist.
+Eine Anwenderin oder ein Anwender kann im Lastenausgleich als überlastet angezeigt werden. Wird der Mauszeiger über die Überlastung bewegt, erscheint die Kapazität als 0.
 
-Wenn der Benutzer den Datumsbereich ändert, ist die Zuordnung korrekt. Wenn der Benutzer die Seite jedoch aktualisiert, ist die Kapazität möglicherweise erneut ungenau.
+Wird der Datumsbereich geändert, ist die Zuordnung korrekt. Nach dem Aktualisieren der Seite kann die Kapazität jedoch wieder ungenau sein.
 
 _Erste Meldung am 29. August 2023._

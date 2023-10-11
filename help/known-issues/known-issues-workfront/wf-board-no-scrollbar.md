@@ -1,10 +1,10 @@
 ---
 title: '„Pinnwände: Horizontale Bildlaufleiste ist nicht vorhanden“'
-description: „Wenn eine Benutzerin bzw. ein Benutzer eine Pinnwand anzeigt und versucht, horizontal zu scrollen, ist die Bildlaufleiste nicht vorhanden und horizontales Scrollen ist nicht möglich.“
+description: „Wenn jemand eine Pinnwand anzeigt und versucht, horizontal zu scrollen, ist die Bildlaufleiste nicht vorhanden und horizontales Scrollen ist nicht möglich.“
 feature: Agile
 hidefromtoc: true
 source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 <!--Reopened Sept 26, 2023-->
 
-Wenn eine Benutzerin bzw. ein Benutzer eine Pinnwand anzeigt und versucht, horizontal zu scrollen, ist die Bildlaufleiste nicht vorhanden und horizontales Scrollen ist nicht möglich.
+Wenn jemand eine Pinnwand anzeigt und versucht, horizontal zu scrollen, ist die Bildlaufleiste nicht vorhanden und horizontales Scrollen ist nicht möglich.
 
 **Problemumgehung**
 

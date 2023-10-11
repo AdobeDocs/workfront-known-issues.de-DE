@@ -4,7 +4,7 @@ description: „Wenn eine Benutzerin bzw. ein Benutzer das Widget „Erwähnunge
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
 ht-degree: 100%
 

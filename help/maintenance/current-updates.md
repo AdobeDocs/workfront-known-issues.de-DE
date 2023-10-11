@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
 source-wordcount: '6044'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -18,7 +18,7 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
-Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Oktober 2023
 
@@ -90,19 +90,19 @@ Automatische E-Mail-Erinnerungen werden nicht gesendet. Dies begann am 14. Septe
 
 _Benutzerdefinierte Formulare_
 
-„Wenn eine Benutzerin bzw. ein Benutzer versucht, ein benutzerdefiniertes Feld zu löschen, kann es nicht gelöscht werden und es wird die Meldung angezeigt: [!UICONTROL Datenbankfehler aufgrund einer Einschränkungsverletzung].“
+„Beim Versuch, ein benutzerdefiniertes Feld zu löschen, kann es nicht gelöscht werden und es wird die Meldung angezeigt: [!UICONTROL Datenbankfehler aufgrund einer Einschränkungsverletzung].“
 
-**In neuen Kommentaren vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar**
+**Im neuen Kommentarerlebnis vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar**
 
 _Updates_
 
-Wenn ein Benutzer im neuen Kommentarerlebnis einen Kommentar abgibt und dieser Kommentar im Kommentarbereich des neuen Erlebnisses angezeigt wird, wird derselbe Kommentar möglicherweise nicht im alten Kommentarerlebnis angezeigt. Dies kann dazu führen, dass Benutzer, die das alte Erlebnis verwenden, Kommentare verpassen.
+Wenn jemand im neuen Kommentarerlebnis einen Kommentar abgibt und dieser im Kommentarbereich des neuen Erlebnisses angezeigt wird, wird derselbe Kommentar möglicherweise nicht im alten Kommentarerlebnis angezeigt. Dies kann dazu führen, dass Benutzende, die das alte Erlebnis verwenden, Kommentare verpassen.
 
-**Objektseite fehlt Elemente**
+**Auf der Objektseite fehlen Elemente**
 
 _Workfront_
 
-Wenn ein Benutzer zu einem benutzerdefinierten Abschnitt auf einem Objekt in [!DNL Workfront], auf der Seite, die geladen wird, fehlen möglicherweise einige Elemente. Diese Elemente können Folgendes umfassen:
+Wenn in [!DNL Workfront] zu einem benutzerdefinierten Abschnitt eines Objekts navigiert wird, fehlen auf der geladenen Seite möglicherweise einige Elemente. Dies können folgende Elemente sein:
 
 * Das linke Navigationsfenster
 * Der Name des Objekts, zu dem der benutzerdefinierte Abschnitt gehört
@@ -112,76 +112,76 @@ Wenn ein Benutzer zu einem benutzerdefinierten Abschnitt auf einem Objekt in [!D
 
 +++**Wartungs-Update vom 21. September 2023**
 
-**Benutzer kann auf einer Pinnwand eines Workflows nicht zugewiesen werden**
+**Benutzerin bzw. Benutzer kann auf einer Pinnwand einem Arbeitsablauf nicht zugewiesen werden**
 
 _Pinnwände_
 
-Wenn ein Benutzer versucht, einen anderen Benutzer einer Aufgabe aus einer Pinnwand zuzuweisen, die Teil eines Workflows ist, und beginnt, den Namen des Benutzers einzugeben, wird der Benutzer nicht in der Dropdown-Liste der verfügbaren Benutzer angezeigt. Dies tritt auch dann auf, wenn der Benutzer aktiv ist und sowohl Mitglied der Pinnwand als auch des Workflows ist.
+Wenn jemand versucht, einer Aufgabe auf einer Pinnwand, die Teil eines Arbeitsablaufs ist, einer anderen Person zuzuweisen, und beginnt, deren Namen einzugeben, erscheint diese Person nicht in der Dropdown-Liste der verfügbaren Benutzenden. Dies ist auch dann der Fall, wenn die Person aktiv und sowohl Mitglied der Pinnwand als auch des Arbeitsablaufs ist.
 
-Der Benutzer kann auch bemerken, dass deaktivierte Benutzer in der Dropdown-Liste angezeigt werden.
+Möglicherweise werden auch deaktivierte Personen in der Dropdown-Liste angezeigt.
 
 **Checklisten-Element kann nicht gelöscht werden**
 
 _Pinnwände_
 
-Wenn ein Benutzer versucht, ein Checklisten-Element aus einer Karte auf einer Pinnwand zu löschen, wird die [!UICONTROL Löschen] -Schaltfläche reagiert nicht und das Element wird nicht gelöscht.
+Beim Versuch, ein Checklisten-Element aus einer Karte auf einer Pinnwand zu löschen, reagiert die Schaltfläche [!UICONTROL Löschen] nicht und das Element wird nicht gelöscht.
 
 **Benutzerdefinierte Formulare werden langsam geladen**
 
 _Benutzerdefinierte Formulare_
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu laden, wird das benutzerdefinierte Formular langsam geladen.
+Beim Versuch, ein benutzerdefiniertes Formular zu laden, wird dieses langsam geladen.
 
 **Dokument kann nicht in einen anderen Ordner verschoben werden**
 
 _Dokumente_
 
-Wenn ein Benutzer ein Dokument in einen Objektordner verschiebt, kann er das Objekt dann nicht in einen anderen Ordner verschieben.
+Beim Versuch, ein Dokument in einen Objektordner zu verschieben, lässt sich das Objekt nicht in einen anderen Ordner verschieben.
 
 **XML-Fehler beim Herunterladen**
 
 _Dokumente_
 
-Wenn Benutzende versuchen, ein Dokument herunterzuladen, wird das Dokument nicht heruntergeladen, den Benutzenden wird eine Seite mit der folgenden Meldung gefolgt von XML-Text angezeigt.
+Beim Versuch, ein Dokument herunterzuladen, wird das Dokument nicht heruntergeladen und es wird eine Seite mit der folgenden Meldung gefolgt von XML-Text angezeigt.
 
-&quot;[!UICONTROL Der XML-Datei sind anscheinend keine Stilinformationen zugeordnet. Die Dokumentstruktur befindet sich unten.]&quot;
+„[!UICONTROL Der XML-Datei sind anscheinend keine Stilinformationen zugeordnet. Die Dokumentstruktur befindet sich unten.]“
 
 **Dokumente können nicht aus Vorschau-/Sandbox-Umgebungen heruntergeladen werden**
 
 _Dokumente_
 
-Wenn ein Benutzer versucht, ein Dokument aus einer anderen Umgebung als der Produktionsumgebung herunterzuladen, wird das Dokument nicht heruntergeladen, und der Benutzer sieht den folgenden Fehler:
+Beim Versuch, ein Dokument aus einer anderen Umgebung als der Produktionsumgebung herunterzuladen, wird es nicht heruntergeladen, und es wird folgender Fehler angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-**Testsendungen erscheinen desaturiert oder zugeschnitten**
+**Korrekturabzüge erscheinen entsättigt oder beschnitten**
 
 _Korrekturabzüge_
 
-Beim Erstellen eines Testversands über eine URL wurden die folgenden Probleme gemeldet:
+Beim Erstellen eines Korrekturabzugs über eine URL wurden die folgenden Probleme gemeldet:
 
-* Der Beweis scheint entsättigt oder ausgespült zu sein.
-* Der Testversand ist zugeschnitten.
+* Der Korrekturabzug erscheint entsättigt oder verwaschen.
+* Der Korrekturabzug ist beschnitten.
 
-Dies kann dazu führen, dass Testversandentscheidungen schwierig sind, da der Testversand nicht korrekt dargestellt wird.
+Dies kann die Entscheidung für einen Korrekturabzug erschweren, da er nicht korrekt dargestellt wird.
 
-**Die Erstellung von Testsendungen dauert zu lange**
+**Die Erstellung von Korrekturabzügen dauert zu lange**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer versucht, einen Testversand zu erzeugen, dauert die Erstellung des Testversands übermäßig lange. Die Erstellung eines Testversands kann mehrere Tage in Anspruch nehmen.
+Die Erstellung eines Korrekturabzugs dauert übermäßig lange. Die Erstellung eines Korrekturabzugs kann mehrere Tage in Anspruch nehmen.
 
 +++
 
 +++**Wartungs-Update vom 14. September 2023**
 
-**&quot;[!UICONTROL Keine Fabrik]&quot;-Fehler beim Hinzufügen eines Dokuments**
+**Fehler „[!UICONTROL Keine Fabrik]“ beim Hinzufügen eines Dokuments**
 
 _Dokumente_
 
-Wenn ein Benutzer versucht, ein Dokument aus einer externen Quelle hinzuzufügen, [!DNL Workfront] kann nicht auf die Quelle zugreifen, und dem Benutzer wird der folgende Fehler angezeigt:
+Beim Versuch, ein Dokument aus einer externen Quelle hinzuzufügen, [!DNL Workfront] kann nicht auf die Quelle zugegriffen werden, und es wird folgender Fehler angezeigt:
 
-&quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Keine Factory für den Authentifizierungstyp null]&quot;
+„[!UICONTROL Folgender Fehler ist aufgetreten: Keine Fabrik für den Authentifizierungstyp Null]“
 
 **Fehler „Hoppla“ in Matrix-Berichten**
 
@@ -197,11 +197,11 @@ Dies geschieht bei der Gruppierung eines Berichts nach Datumsbereichen.
 
 +++**Wartungs-Update vom 11. September 2023**
 
-**Persönliche Aufgaben werden nicht in Timesheets angezeigt**
+**Persönliche Aufgaben werden nicht in Arbeitszeittabellen angezeigt**
 
 _Arbeitszeittabellen_
 
-Persönliche Aufgaben werden nicht mehr standardmäßig auf dem Timesheet angezeigt. Persönliche Aufgaben werden auf dem Timesheet angezeigt, wenn sie veröffentlicht werden oder Stunden protokolliert werden. Vor dieser Änderung werden persönliche Aufgaben standardmäßig auf Timesheets angezeigt.
+Persönliche Aufgaben werden nicht mehr standardmäßig in der Arbeitszeittabelle angezeigt. Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt, wenn sie veröffentlicht oder Stunden protokolliert werden. Vor dieser Änderung wurden persönliche Aufgaben standardmäßig in den Arbeitszeittabellen angezeigt.
 
 +++
 
@@ -211,7 +211,7 @@ Persönliche Aufgaben werden nicht mehr standardmäßig auf dem Timesheet angeze
 
 _Projekte_
 
-Wenn eine Benutzerin bzw. ein Benutzer auf der [!UICONTROL Startseite] im neuen Startseitenerlebnis auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.
+Wenn jemand auf der [!UICONTROL Startseite] im neuen Startseitenerlebnis auf ein Projekt klickt, wird die Seite des Projekts nicht geladen.
 
 Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer sich als jemand anderes angemeldet und wieder abgemeldet hat und dann zur eigenen [!UICONTROL Startseite] zurückgekehrt ist.
 
@@ -233,7 +233,7 @@ Dies wurde in der Umgebung einer benutzerdefinierten Sandbox gemeldet. In der Vo
 
 _Berichte_
 
-Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Matrix-Bericht als Diagramm zu laden, kann eine der folgenden Situationen auftreten:
+Beim Versuch, einen Matrix-Bericht als Diagramm zu laden, kann eine der folgenden Situationen auftreten:
 
 * Einige Informationen im Bericht werden nicht geladen
 * Der Bericht gibt den Fehler an „[!UICONTROL Inhalt kann nicht vom Server geladen werden]“
@@ -254,7 +254,7 @@ Beim Versuch, den [!UICONTROL Ressourcenplaner] zu laden, wird der Planer nicht 
 
 _Korrekturabzüge_
 
-Wenn ein Korrekturabzug im Korrekturabzug-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.
+Wenn ein Korrekturabzug im Überprüfungs-Viewer angezeigt wird und versucht wird, Text auszuwählen, der sich in einer Liste oder einem Aufzählungspunkt befindet, ist das Textauswahlwerkzeug nicht wirksam und der Text kann nicht ausgewählt werden.
 
 **Beim Erstellen einer neuen Korrekturabzugsversion werden alle Versionen des Korrekturabzugs gelöscht**
 
@@ -270,19 +270,19 @@ Beim Erstellen eines Korrekturabzugs aus einem Dokument wird der Korrekturabzug 
 
 _Projekte_
 
-Wenn eine Benutzerin bzw. ein Benutzer versucht, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] enthält, zu einem Projekt zu navigieren, wird sie bzw. er zu einer Seite mit einer Fehlermeldung umgeleitet. Die Navigation zu einer Aufgabe mithilfe eines URI mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
+Beim Versuch, mithilfe einer URL, die eine [!UICONTROL Referenz-ID] enthält, zu einem Projekt zu navigieren, wird zu einer Seite mit einer Fehlermeldung umgeleitet. Die Navigation zu einer Aufgabe mithilfe eines URI mit einer [!UICONTROL Referenz-ID] funktioniert erwartungsgemäß.
 
 **Die Einstellung „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ wird ungenau angezeigt**
 
 _Korrekturabzüge_
 
-Wenn eine Benutzerin bzw. ein Benutzer in [!DNL Workfront] die Einstellungen für Korrekturabzüge anzeigt, zeigt das Kontrollkästchen „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ nicht die richtige aktuelle Einstellung an. Wenn das Kästchen aktiviert ist und dadurch angibt, dass E-Mail-Benachrichtigungen für einen Korrekturabzug deaktiviert sind, sind Benachrichtigungen trotzdem aktiviert. Umgekehrt ist dies ebenso der Fall.
+Wenn jemand in [!DNL Workfront] die Einstellungen für Korrekturabzüge anzeigt, zeigt das Kontrollkästchen „[!UICONTROL E-Mail-Benachrichtigungen für Korrekturabzug deaktivieren]“ nicht die richtige aktuelle Einstellung an. Wenn das Kästchen aktiviert ist und dadurch angibt, dass E-Mail-Benachrichtigungen für einen Korrekturabzug deaktiviert sind, sind Benachrichtigungen trotzdem aktiviert. Umgekehrt ist dies ebenso der Fall.
 
 **Korrekturabzugsmarkierungen können nicht angepasst werden**
 
 _Korrekturabzüge_
 
-Wenn jemand im Korrekturabzug-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden.
+Wenn jemand im Überprüfungs-Viewer einen Kommentar abgibt, eine Markierung auf dem Korrekturabzug vornimmt und dann wegklickt, kann die Markierung nicht mehr angepasst werden.
 
 +++
 
@@ -354,7 +354,7 @@ Dies wurde für Benutzerinnen und Benutzer in EMEA berichtet.
 
 +++**Wartungs-Update vom 27. Juli 2023**
 
-**Tags und Checklisten-Elemente funktionieren in der Pinnwandansicht des Projekts nicht ordnungsgemäß**
+**Tags und Checklisten-Elemente funktionieren in der Pinnwandansicht eines Projekts nicht ordnungsgemäß**
 
 _Pinnwände_
 
@@ -364,7 +364,7 @@ Tags und Checklisten-Elemente wurden aus der Pinnwandansicht von Projekten entfe
 
 _Filter_
 
-Wenn eine Benutzerin bzw. ein Benutzer einen Filter freigibt und die Option „[!UICONTROL Systemweit anzeigen]“ aktiviert, wird der Filter für jede Benutzerin bzw. jeden Benutzer im System freigegeben. Wenn eine Administratorin bzw. ein Administrator diesen Filter jedoch im [!UICONTROL Setup] anzeigt, sieht sie bzw. er, dass dieser Filter „[!UICONTROL false]“ in der Spalte „[!UICONTROL Systemweit sichtbar]“ anzeigt. Damit dieser Filter zu einer Standardeinstellung des Systems wird, muss die Administratorin bzw. der Administrator die Option „[!UICONTROL Systemweit aktivieren]“ im [!UICONTROL Setup] aktivieren. Dies kann aufgrund der Ähnlichkeit der Formulierung zu Verwirrung führen.
+Wenn jemand einen Filter freigibt und die Option „[!UICONTROL Systemweit anzeigen]“ aktiviert, wird der Filter für jede Benutzerin bzw. jeden Benutzer im System freigegeben. Wenn Admins diesen Filter jedoch im [!UICONTROL Setup] anzeigen, sehen sie, dass für diesen Filter „[!UICONTROL false]“ in der Spalte „[!UICONTROL Systemweit sichtbar]“ angezeigt wird. Damit dieser Filter zu einer Standardeinstellung des Systems wird, müssen Admins die Option „[!UICONTROL Systemweit aktivieren]“ im [!UICONTROL Setup] aktivieren. Dies kann aufgrund der Ähnlichkeit der Formulierung zu Verwirrung führen.
 
 +++
 
@@ -376,7 +376,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++**Wartungs-Update vom 13. Juli 2023**
 
-**Zeitleiste wird nicht neu berechnet**
+**Timeline wird nicht neu berechnet**
 
 _Projekte/Aufgaben/Probleme_
 
@@ -400,7 +400,7 @@ Wenn eine Kundin bzw. ein Kunde versucht, einen Auslastungsbericht anzuzeigen, w
 
 _Benutzende_
 
-Wenn eine Benutzerin oder ein Benutzer versucht, andere Benutzende zu bearbeiten, ist die Seite „Benutzer bearbeiten“ leer und er oder sie kann andere Benutzende nicht bearbeiten.
+Wenn eine Benutzerin oder ein Benutzer versucht, andere Benutzende zu bearbeiten, ist die Seite „Benutzer bearbeiten“ leer und es ist nicht möglich, andere Benutzende zu bearbeiten.
 
 +++
 
@@ -418,7 +418,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 _Berichte_
 
-Wenn eine Benutzerin oder ein Benutzer einen Matrixbericht anzeigt, wird der folgende Fehler angezeigt:
+Wenn jemand einen Matrixbericht anzeigt, erscheint der folgende Fehler:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
@@ -428,7 +428,7 @@ Dies wurde gemeldet, wenn der Bericht nach Datum sortiert wird und die Option �
 
 _Berichte_
 
-Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Gruppierungsränder in der richtigen Gruppierung, der vorherigen/nächsten Gruppierung oder in beiden erscheinen.
+Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsangaben in der Nähe der Gruppierungsränder entweder in der richtigen Gruppierung oder der vorherigen/nächsten Gruppierung oder auch in beiden erscheinen.
 
 +++
 
@@ -446,25 +446,25 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++**[!DNL Adobe Workfront Fusion]Wartungs-Update vom 8. Juni 2023**
 
-[!DNL Fusion] hat eine Fehlerbehebung implementiert, die verhindert, dass die Verbindungen einer Benutzerin oder eines Benutzers entfernt werden, wenn sie oder er in der [!UICONTROL Adobe Admin Console] deaktiviert ist.
+[!DNL Fusion] hat eine Fehlerbehebung implementiert, die verhindert, dass die Verbindungen einer Benutzerin oder eines Benutzers entfernt werden, wenn die Person in [!UICONTROL Adobe Admin Console] deaktiviert ist.
 
-[!DNL Fusion]-Team-Admins können weiterhin nicht benötigte Verbindungen von der Seite [!UICONTROL Verbindungen] in [!DNL Fusion] entfernen.
+Admins von [!DNL Fusion]-Teams können weiterhin nicht benötigte Verbindungen von der Seite [!UICONTROL Verbindungen] in [!DNL Fusion] entfernen.
 
 +++
 
 +++**Wartungs-Update vom 1. Juni 2023**
 
-**Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]**
+**Keine Fehlermeldung bei Neuanordnung einer Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]**
 
 _Aufgaben_
 
-Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da es sich im Status [!UICONTROL Ausstehende Genehmigung] befindet, doch es gibt keine Meldung, die darauf hinweist, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
+Wenn beim Versuch, eine Aufgabe in einer Aufgabenliste neu anzuordnen, sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung zeigt sich jedoch, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da es sich im Status [!UICONTROL Ausstehende Genehmigung] befindet, doch es gibt keine Meldung, die darauf hinweist, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
 
 **Keine Fehlermeldung beim Verschieben einer Vorgängeraufgabe unter eine abhängige Aufgabe**
 
 _Aufgaben_
 
-Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen und sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung wird jedoch angezeigt, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da eine Vorgängeraufgabe nicht unter eine Aufgabe verschoben werden kann, deren Vorgänger sie ist. Es gibt jedoch keine Meldung, die der Benutzerin oder dem Benutzer mitteilt, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
+Wenn beim Versuch, eine Aufgabe in einer Aufgabenliste neu anzuordnen, sich die Aufgabe im Status [!UICONTROL Ausstehende Genehmigung] befindet, wird die Aufgabe scheinbar in die Aufgabenliste verschoben. Nach der Aktualisierung zeigt sich jedoch, dass das Element nicht verschoben wurde. Das Element kann nicht verschoben werden, da eine Vorgängeraufgabe nicht unter eine Aufgabe verschoben werden kann, deren Vorgänger sie ist. Es gibt jedoch keine Meldung, die darauf hinweist, dass das Element nicht verschoben werden kann, was zu Verwirrung führen kann.
 
 +++
 
@@ -476,7 +476,7 @@ Wenn Benutzende versuchen, eine Aufgabe in einer Aufgabenliste neu anzuordnen un
 
 _Agile_
 
-Wenn eine Benutzerin oder ein Benutzer etwas an einer Karte auf der [!UICONTROL Kanban]-Pinnwand ändert, dann wird die [!UICONTROL Kanban]-Pinnwand leer, anstatt mit der Änderung aktualisiert zu werden. Wenn die Benutzerin oder der Benutzer die Seite manuell aktualisiert, wird die [!UICONTROL Kanban]-Pinnwand wieder angezeigt, mit der korrekten Änderung.
+Wenn jemand etwas an einer Karte auf der [!UICONTROL Kanban]-Pinnwand ändert, dann wird die [!UICONTROL Kanban]-Pinnwand leer, anstatt mit der Änderung aktualisiert zu werden. Nach manuellem Aktualisieren der Seite wird die [!UICONTROL Kanban]-Pinnwand wieder angezeigt, und zwar mit der korrekten Änderung.
 
 Dies wurde unter den folgenden Umständen gemeldet:
 
@@ -501,9 +501,9 @@ Als der Designer für benutzerdefinierte Formulare in der Beta-Version veröffen
 **Bericht wird beim Sortieren nach benutzerdefiniertem Feld nicht korrekt sortiert**
 
 _Berichte_
-Wenn eine Benutzerin oder ein Benutzer einen Aufgabenbericht ausführt, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
+Wenn jemand einen Aufgabenbericht ausführt, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
 
-Dies scheint der Fall zu sein, wenn alle folgenden Bedingungen erfüllt sind:
+Dies scheint zu passieren, wenn alle folgenden Bedingungen erfüllt sind:
 
 * Der Bericht ist ein Aufgabenbericht
 * Der Bericht wird nach einem benutzerdefinierten Feld sortiert
@@ -517,7 +517,7 @@ Dies scheint der Fall zu sein, wenn alle folgenden Bedingungen erfüllt sind:
 
 _Korrekturabzüge_
 
-Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
+Wenn jemand einen Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] anzeigt und zu einer anderen Version wechselt, wird das Dropdown-Menü für die Version deaktiviert, und die Person kann nicht zur Originalversion, die sie angezeigt hat, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
 Zeitüberschreitung bei **[!DNL Workfront]-Suche**
 
@@ -553,7 +553,7 @@ Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusi
 
 _Pinnwände_
 
-Sie können jetzt in Workfront vorhandene Aufgaben- und Problemfilter beim Konfigurieren der Aufnahmspalte für eine Pinnwand verwenden. Vorhandene Aufnahmespaltenfilter sind jetzt jedoch im Konfigurationsbereich schreibgeschützt. Die vorhandenen Filter werden weiterhin auf die Aufnahmespalte angewendet, doch müssen die Filter neu erstellt werden, um sie bearbeiten zu können.
+Sie können jetzt in Workfront vorhandene Aufgaben- und Problemfilter beim Konfigurieren der Aufnahmespalte für eine Pinnwand verwenden. Vorhandene Aufnahmespaltenfilter sind jetzt jedoch im Konfigurationsbereich schreibgeschützt. Die vorhandenen Filter werden weiterhin auf die Aufnahmespalte angewendet, doch müssen die Filter neu erstellt werden, um sie bearbeiten zu können.
 
 +++
 
@@ -563,7 +563,7 @@ Sie können jetzt in Workfront vorhandene Aufgaben- und Problemfilter beim Konfi
 
 _Vorlagen_
 
-Wenn Benutzende versuchen, eine Vorlage aus dem Menü „Aktionen“ (drei Punkte) auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden. Dies liegt daran, dass sich die Bildlaufleiste zwischen dem Menü und der Liste der Vorlagen befindet und der Fokus der Maus auf die Bildlaufleiste gelegt wird, wenn sie zur Liste der Vorlagen bewegt wird.
+Wenn jemand versucht, eine Vorlage aus dem Menü „Aktionen“ (drei Punkte) auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden. Dies liegt daran, dass sich die Bildlaufleiste zwischen dem Menü und der Liste der Vorlagen befindet und der Fokus der Maus auf die Bildlaufleiste gelegt wird, wenn sie zur Liste der Vorlagen bewegt wird.
 
 +++
 
@@ -571,11 +571,11 @@ Wenn Benutzende versuchen, eine Vorlage aus dem Menü „Aktionen“ (drei Punkt
 
 +++**Wartungs-Update vom 27. April 2023**
 
-**Kann im [!UICONTROL Korrekturabzüge-Viewer]** nicht zwischen Korrekturabzügen wechseln
+**Kann im [!UICONTROL Überprüfungs-Viewer]** nicht zwischen Korrekturabzügen wechseln
 
 _Korrekturabzüge_
 
-Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
+Wenn jemand einen Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] anzeigt und zu einem anderen Korrekturabzug wechselt, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Person kann nicht zum ursprünglichen Korrekturabzug, den sie angesehen hat, oder zu einem anderen Korrekturabzug zurückkehren.
 
 **Bearbeiten von angehängten Bildern beim Bearbeiten eines Kommentars**
 
@@ -591,7 +591,7 @@ In-App-Hilfe-Links in **[!DNL Fusion]führen nicht zu den jeweiligen Hilfeseiten
 
 _[!DNL Workfront Fusion]_
 
-Wenn Benutzende einen Korrekturabzug im [!UICONTROL Korrekturabzüge-Viewer] anzeigen und zu einem anderen Korrekturabzug wechseln, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Benutzenden können nicht zum ursprünglichen Korrekturabzug, den sie angesehen haben, oder zu einem anderen Korrekturabzug zurückkehren.
+Wenn jemand einen Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] anzeigt und zu einem anderen Korrekturabzug wechselt, reagiert die Schaltfläche „Korrekturabzug wechseln“ nicht mehr. Die Person kann nicht zum ursprünglichen Korrekturabzug, den sie angesehen hat, oder zu einem anderen Korrekturabzug zurückkehren.
 
 +++
 
@@ -610,15 +610,15 @@ Benutzerdefinierte Dropdown-Felder, die als Mehrfachauswahlfelder aktiviert sind
 
 _Korrekturabzüge_
 
-Wenn Benutzende einen Korrekturabzug im Proofing Viewer anzeigen und versuchen, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht.
+Wenn jemand einen Korrekturabzug im Überprüfungs-Viewer anzeigt und versucht, mit dem Mehrzeilenwerkzeug einen Kommentar abzugeben, markiert das Werkzeug den Korrekturabzug nicht.
 
 **Feld mit Textoptionen zeigt „textAnnotations“**
 
 _Korrekturabzüge_
 
-Wenn Benutzende einen Korrekturabzug anzeigen, einen Kommentar verfassen und das Textwerkzeug öffnen, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
+Wenn jemand einen Korrekturabzug anzeigt, einen Kommentar verfasst und das Textwerkzeug öffnet, wird neben den Optionen im Werkzeug das Wort „textAnnotation“ angezeigt. Das Textwerkzeug funktioniert dennoch wie erwartet und „textAnnotation“ verschwindet, nachdem der Kommentar veröffentlicht wurde.
 
-**Bilder werden als Entwurf beibehalten, wenn Sie mit der Beta-Kommentar-Funktion von einer Aktualisierung wegnavigieren**
+**Bilder werden als Entwurf beibehalten, wenn mit der Beta-Kommentar-Funktion von einer Aktualisierung wegnavigiert wird**
 
 >[!NOTE]
 >
@@ -642,7 +642,7 @@ Wenn jetzt jemand einen Kommentar oder eine Antwort hinzufügt oder einen Kommen
 
 _Benutzende_
 
-Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werden. In diesem Fall gibt es keine sichtbare Aktualisierung, und die Änderung wird nicht im Administratorprotokoll angezeigt.
+Die Zugriffsebene einer Benutzerin oder eines Benutzers kann vom System unvorhersehbar geändert werden. In diesem Fall gibt es keine sichtbare Aktualisierung, und die Änderung wird nicht im Administratorprotokoll angezeigt.
 
 +++
 
@@ -652,13 +652,13 @@ Die Zugriffsebene von Benutzenden kann vom System unvorhersehbar geändert werde
 
 _Aktualisierungen_
 
-Wir haben ein Benachrichtigungs-Banner für den Abschnitt [!UICONTROL Aktualisierungen] hinzugefügt, um Benutzende darüber zu informieren, wenn neue Kommentare zu einem Element vorhanden sind, das sich außerhalb des sichtbaren Bereichs des Bildschirms befindet. Dieses Update ist derzeit im Abschnitt [!UICONTROL Aktualisierung] von Zielen und Problemen verfügbar, nachdem die neue Beta-Kommentar-Funktion für Probleme aktiviert wurde.
+Wir haben ein Benachrichtigungs-Banner für den Abschnitt [!UICONTROL Aktualisierungen] hinzugefügt, um Benutzende darüber zu informieren, wenn neue Kommentare zu einem Element vorhanden sind, das sich außerhalb des sichtbaren Bereichs des Bildschirms befindet. Dieses Update ist derzeit im Abschnitt [!UICONTROL Aktualisierung] bei Zielen sowie Problemen verfügbar, nachdem die neue Beta-Kommentar-Funktion für Probleme aktiviert wurde.
 
 +++
 
 +++**Wartungs-Update vom 13. April 2023**
 
-**Filter werden nicht auf die Anfragenliste angewendet**
+**Filter werden nicht auf die Anfrageliste angewendet**
 
 _Anfragen_
 
@@ -678,7 +678,7 @@ Wenn Admins eine Benutzerin oder einen Benutzer bearbeiten und versuchen, einen 
 
 _Korrekturabzüge_
 
-Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Proofing Viewer] hinzufügen, können die Dropdown-Listen „[!UICONTROL Rolle des Korrekturabzugs]“ und „[!UICONTROL E-Mail-Warnungen]“ nicht geöffnet werden. Die Benutzenden können keine Korrekturabzugsrolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt werden oder der Korrekturabzug für die Benutzenden freigegeben wird.
+Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] hinzufügen, können die Dropdown-Listen „[!UICONTROL Korrekturabzug-Rolle]“ und „[!UICONTROL E-Mail-Warnungen]“ nicht geöffnet werden. Die Benutzenden können keine Korrekturabzug-Rolle oder E-Mail-Warnung zuweisen. Dies kann vorkommen, wenn Benutzende über einen Kommentar hinzugefügt werden oder der Korrekturabzug für die Benutzenden freigegeben wird.
 
 +++
 
@@ -690,19 +690,19 @@ Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Proofin
 
 _Korrekturabzüge_
 
-Wenn Benutzende einen Korrekturabzug im [!UICONTROL Proofing Viewer] anzeigen und zu einer anderen Version wechseln, wird das Dropdown-Menü für die Version deaktiviert, und die Benutzenden können nicht zur Originalversion, die sie angezeigt haben, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
+Wenn jemand einen Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] anzeigt und zu einer anderen Version wechselt, wird das Dropdown-Menü für die Version deaktiviert, und die Person kann nicht zur Originalversion, die sie angezeigt hat, oder zu einer anderen Version des Korrekturabzugs zurückkehren.
 
 **504-Fehler beim Exportieren von Berichten**
 
 _Berichte_
 
-Wenn Benutzende versuchen, einen Bericht mit einer hohen Anzahl von Elementen zu exportieren, wird ein 504-Fehler angezeigt und der Bericht kann nicht exportiert werden.
+Wenn jemand versucht, einen Bericht mit einer hohen Anzahl von Elementen zu exportieren, wird ein 504-Fehler angezeigt und der Bericht kann nicht exportiert werden.
 
-**Im Auftrag von Benutzenden vorgenommene Aktualisierungen werden als direkt von den Benutzenden angezeigt**
+**Im Auftrag von Benutzenden vorgenommene Aktualisierungen werden als direkt von dieser Person angezeigt**
 
 _Updates_
 
-Wenn Administrierende als Benutzende angemeldet sind und einen Kommentar abgeben, wird dieser Kommentar als direkt von Benutzenden und nicht als von Administrierenden im Namen der Benutzenden angezeigt.
+Wenn Admins als Benutzende angemeldet sind und einen Kommentar abgeben, wird dieser Kommentar als direkt von dieser Person und nicht als von Admins im Namen der Benutzenden angezeigt.
 
 +++
 
@@ -712,17 +712,17 @@ Inhalte des Bedienfelds **[!UICONTROL Zusammenfassung] sind zu breit für das Be
 
 _Dokumente_
 
-Wenn eine Benutzerin bzw. ein Benutzer das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Das Bedienfeld verfügt nun über eine horizontale Bildlaufleiste und Benutzende müssen horizontal scrollen, um die Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] zu sehen. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
+Wenn jemand das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Das Bedienfeld verfügt nun über eine horizontale Bildlaufleiste und Benutzende müssen horizontal scrollen, um die Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] zu sehen. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
 
-**Neue [!UICONTROL Desktop Proofing Viewer]-Version**
+**Neue [!UICONTROL Desktop Überprüfungs-Viewer]-Version**
 
 _Proofing_
 
-Um ein Kommentierproblem im [!UICONTROL Desktop Proofing Viewer] zu beheben, haben wir eine neue Version des Desktop Proofing Viewers bereitgestellt.
+Um ein Kommentierproblem im [!UICONTROL Desktop Überprüfungs-Viewer] zu beheben, haben wir eine neue Version des Desktop Überprüfungs-Viewers bereitgestellt.
 
-Benutzende, die den [!UICONTROL Desktop Proofing Viewer] bereits installiert haben, erhalten dieses Update automatisch.
+Benutzende, die den [!UICONTROL Desktop Überprüfungs-Viewer] bereits installiert haben, erhalten dieses Update automatisch.
 
-Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Proofing Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Überprüfungs-Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
 * Frühere Version: 2.1.22
 * Neue Version: 2.1.23
@@ -757,13 +757,13 @@ Wenn ein Korrekturabzug freigegeben und ihm eine benutzerdefinierte Nachricht hi
 
 _Benutzende_
 
-Wenn ein(e) Benutzende(r) eine(n) deaktivierte(n) Benutzende(r) erneut aktiviert und versucht, ihm/ihr im Fenster [!UICONTROL Benutzer erneut aktivieren] eine Zugriffsebene zuzuweisen, wird das Zugriffsebenen-Dropdown-Menü nicht entsprechend der Eingabe der/des Benutzenden angezeigt und der/die Benutzende kann keine Zugriffsebene auswählen. Wenn der/die Benutzende die Zugriffsebene eingibt und speichert, wird diese Zugriffsebene dem/der erneut aktivierten Benutzenden nicht zugewiesen.
+Wenn eine Benutzerin bzw. ein Benutzer eine deaktivierte Person erneut aktiviert und versucht, ihr im Fenster [!UICONTROL Benutzer erneut aktivieren] eine Zugriffsebene zuzuweisen, wird das Dropdown-Menü für die Zugriffsebenen nicht entsprechend der Benutzereingabe angezeigt und es kann keine Zugriffsebene ausgewählt werden. Auch wenn die Zugriffsebene eingegeben und gespeichert wird, wird diese Zugriffsebene der erneut aktivierten Person nicht zugewiesen.
 
 **Speichern eines Kommentarentwurfs im Bereich [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Wenn Sie jetzt von der Seite [!UICONTROL Updates] eines Ziels während der Erstellung einer Nachricht wegnavigieren, wird die Nachricht beim Zurücknavigieren beibehalten. Vor dieser Aktualisierung wäre der nicht übermittelte Kommentar gelöscht worden.
+Wenn Sie von der Seite [!UICONTROL Updates] eines Ziels während der Erstellung einer Nachricht wegnavigieren, wird die Nachricht beim Zurücknavigieren jetzt beibehalten. Vor dieser Aktualisierung wäre der nicht übermittelte Kommentar gelöscht worden.
 
 +++
 
@@ -773,9 +773,9 @@ Wenn Sie jetzt von der Seite [!UICONTROL Updates] eines Ziels während der Erste
 
 _Pinnwände_
 
-Wenn Benutzende eine Pinnwand mit angewendeter Gruppierung anzeigen und versuchen, eine Karte hinzuzufügen, können sie nur den Namen der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche [!UICONTROL Speichern].
+Wenn jemand eine Pinnwand mit angewendeter Gruppierung anzeigt und versucht, eine Karte hinzuzufügen, lässt sich nur der Name der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche [!UICONTROL Speichern].
 
-Wenn Benutzende die Gruppierung in [!UICONTROL Keine] ändern, bleibt das Problem bestehen. Benutzende müssen die Gruppierung in [!UICONTROL Keine] ändern und die Seite aktualisieren, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
+Auch wWenn die Person die Gruppierung in [!UICONTROL Keine] ändert, bleibt das Problem bestehen. Es muss die Gruppierung in [!UICONTROL Keine] geändert und außerdem die Seite aktualisiert werden, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
 
 **Verbundene Karten werden nicht nach Status zu Spalten hinzugefügt**
 
@@ -788,7 +788,7 @@ Obwohl Spaltenrichtlinien auf den Status angewendet werden, erscheinen neue verb
 
 _Updates_
 
-Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und der/die Benutzende wird dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn der/die Benutzende in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
+Wenn jemand einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und die Person dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn die Person in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
 
 Dies betrifft derzeit nur Dokumentobjekte.
 
@@ -808,7 +808,7 @@ Wenn eine Benutzerin bzw. ein Benutzer versucht, die Seite „Druckzusammenfassu
 
 _Updates_
 
-Wenn ein(e) Benutzende(r) einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und der/die Benutzende wird dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn der/die Benutzende in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
+Wenn jemand einem Link zu einem Kommentar folgt, der sich auf ein Objekt in Workfront bezieht, wird der Aktualisierungsstrom kurz geladen und die Person dann zum Bereich [!UICONTROL Details] des Objekts weitergeleitet. Dies kann vorkommen, wenn die Person in einer E-Mail auf den Link klickt oder den Link in den Browser einfügt.
 
 Dies betrifft derzeit nur Dokumentobjekte.
 
@@ -816,7 +816,7 @@ Dies betrifft derzeit nur Dokumentobjekte.
 
 _Benutzende_
 
-Wenn Benutzende mit der Lizenz [!UICONTROL Arbeitskraft] versuchten, ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt und die Benutzenden können die Einstellungen nicht bearbeiten.
+Wenn Benutzende mit der Lizenz [!UICONTROL Arbeitskraft] versuchten, ihre eigenen Benachrichtigungseinstellungen zu bearbeiten, werden die [!UICONTROL Benachrichtigungsoptionen] im Fenster [!UICONTROL Bearbeiten] nicht angezeigt, und die Einstellungen lassen sich nicht bearbeiten.
 
 +++
 
@@ -828,13 +828,13 @@ _Pinnwände_
 
 Sie können jetzt mehrere Teams einer Aufgabe oder einem Problem auf einer Pinnwand und der Pinnwand selbst zuweisen.
 
-**Erhöhung des Limits für die Verringerung von Karten**
+**Verlängerung der Gültigkeitsdauer von Karten**
 
 _Pinnwände_
 
-Die Limits für die Verringerung von Karten wurden von 4 Wochen/30 Tage auf 8 Wochen/60 Tage erhöht.
+Die Gültigkeitsdauer von Karten wurde von 4 Wochen/30 Tage auf 8 Wochen/60 Tage verlängert.
 
-**Die geplante Deaktivierung deaktiviert Benutzende nicht**
+**Eine geplante Deaktivierung deaktiviert Benutzende nicht**
 
 _Benutzende_
 
@@ -848,7 +848,7 @@ Das Feld **[!UICONTROL Story-Punkte] wurde zu Aufgaben- und Problemlisten und Be
 
 _Berichte_
 
-Das Feld [!UICONTROL Story-Punkte] kann jetzt zu Listen und Berichten für Aufgaben oder Probleme hinzugefügt werden. Es handelt sich dabei um ein editierbares, Freiform-Feld, das nicht an geplante Stunden oder Team-Arbeitsaufträge gebunden ist.
+Das Feld [!UICONTROL Story-Punkte] kann jetzt zu Listen und Berichten für Aufgaben oder Probleme hinzugefügt werden. Es handelt sich dabei um ein editierbares Freiform-Feld, das nicht an geplante Stunden oder Team-Arbeitsaufträge gebunden ist.
 
 +++
 
@@ -896,7 +896,7 @@ Wir haben für die folgenden häufig durchgeführten Aktionen in einer Arbeitsze
 * Erweitern (Umschalt+Option+Nach-oben-Taste/Umschalt+Alt+Nach-oben-Taste)
 * Reduzieren (Umschalt+Option+Nach-unten-Taste/Umschalt+Alt+Nach-unten-Taste)
 
-Der Bereich, an dem diese Aktionen ausgeführt werden, muss hervorgehoben werden, damit sie angewendet werden können.
+Der Bereich, für den diese Aktionen ausgeführt werden, muss erst hervorgehoben werden, damit sie angewendet werden können.
 
 **Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
 
@@ -908,8 +908,8 @@ _Arbeitszeittabellen_
 
 Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
 
-* Wenn das Kontrollkästchen „[!UICONTROL Kann die Zeit bearbeiten]“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, der Administrierende beschränkt diese Aktionen im Bereich „[!UICONTROL Arbeitszeittabellen-Voreinstellungen]“ im [!UICONTROL Setup].
-* Wenn die Option „[!UICONTROL Bearbeitung von Arbeitszeittabellen auf Inhaber und Administrierende beschränken]“ im Bereich [!UICONTROL Arbeitszeittabellen- und Stunden-Voreinstellungen] von „[!UICONTROL Setup]“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, Arbeitszeittabellen-Genehmiger, die die Zeit bearbeiten dürfen, und Arbeitszeittabellen-Besitzer und -Besitzerinnen mit Verwaltungsrechten.
+* Wenn das Kontrollkästchen „[!UICONTROL Kann Zeit bearbeiten]“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, die Admins beschränken diese Aktionen im Bereich „[!UICONTROL Arbeitszeittabellen-Voreinstellungen]“ im [!UICONTROL Setup].
+* Wenn die Option „[!UICONTROL Bearbeitung von Arbeitszeittabellen auf Eigentümer und Admins beschränken]“ im Bereich [!UICONTROL Arbeitszeittabellen- und Stunden-Voreinstellungen] von [!UICONTROL Setup] deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, genehmigende Personen für Arbeitszeittabellen, die die Zeit bearbeiten dürfen, und Führungskräfte der Eigentümerinnen und Eigentümer von Arbeitszeittabellen.
 
 Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
 
@@ -921,19 +921,19 @@ Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert
 
 _Integrationen_
 
-Wenn ein(e) Benutzende(r) versucht, eine Anfrage mit Anhängen über eine [!DNL Outlook]-E-Mail-Adresse zu senden, werden ein oder mehrere Anhänge nicht hochgeladen und der folgende Fehler wird angezeigt.
+Wenn jemand versucht, eine Anfrage mit Anhängen über eine [!DNL Outlook]-E-Mail-Adresse zu senden, werden ein oder mehrere Anhänge nicht hochgeladen und der folgende Fehler wird angezeigt.
 
 „[!UICONTROL Der folgende Fehler ist aufgetreten: Datei mit Handle xxxx ist nicht vorhanden.]“
 
 Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Warteschlange oder beim manuellen Erstellen der Anfrage ein Arbeitsauftrag erteilt wird.
 
-**Neue Desktop Proofing Viewer-Version**
+**Neue Desktop Überprüfungs-Viewer-Version**
 
 _Proofing_
 
-Um ein Einfrieren im Desktop Proofing Viewer zu beheben, haben wir eine neue Version des Desktop Proofing Viewers bereitgestellt. Benutzende, die bereits den Desktop Proofing Viewer installiert haben, erhalten dieses Update automatisch.
+Um ein Einfrieren im Desktop Überprüfungs-Viewer zu beheben, haben wir eine neue Version des Desktop Überprüfungs-Viewers bereitgestellt. Benutzende, die bereits den Desktop Überprüfungs-Viewer installiert haben, erhalten dieses Update automatisch.
 
-Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Proofing Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Überprüfungs-Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
 * Frühere Version: 2.1.19
 * Neue Version: 2.1.20
@@ -962,7 +962,7 @@ Die folgenden Funktionen sind jetzt im Menü [!UICONTROL Mehr] für Pins in der 
 
 * Pins umbenennen
 * Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
-* Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
+* Einen Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
 
 +++
 
@@ -972,13 +972,13 @@ Die folgenden Funktionen sind jetzt im Menü [!UICONTROL Mehr] für Pins in der 
 
 _Benutzerdefinierte Formulare_
 
-Wenn Benutzende einen Platzhalter wie \$$TODAY oder $$NOW zusammen mit einem Modifikator (z. B. „-30d“) in einem benutzerdefinierten Feld verwenden, akzeptiert der Validator den Platzhalter nicht als gültig. Platzhalter ohne Modifikatoren werden als gültig betrachtet.
+Wenn jemand einen Platzhalter wie \$$TODAY oder $$NOW zusammen mit einem Modifikator (z. B. „-30d“) in einem benutzerdefinierten Feld verwendet, akzeptiert der Validator den Platzhalter nicht als gültig. Platzhalter ohne Modifikatoren werden als gültig betrachtet.
 
-**[!UICONTROL Lastenausgleich] zeigt Stunden an, die mit keinem Projekt/keiner Aufgabe/keinem Problem verknüpft sind**
+**[!UICONTROL Workload Balancer] zeigt Stunden an, die mit keinem Projekt/keiner Aufgabe/keinem Problem verknüpft sind**
 
-_[!UICONTROL Workload-Balancer]_
+_[!UICONTROL Workload Balancer]_
 
-Wenn Benutzende den [!UICONTROL Lastenausgleich] betrachten, sehen sie Stunden, die für Benutzende protokolliert wurden und keinem Projekt, keiner Aufgabe sowie keinem Problem zugeordnet sind und auch nicht als [!UICONTROL Allgemeine] Stunden eingetragen sind. Diese Stunden werden möglicherweise nur in der 4- oder 6-Wochen-Ansicht angezeigt.
+Wenn Benutzende den [!UICONTROL Lastenausgleich] betrachten, sehen sie Stunden, die für Benutzende protokolliert wurden und keinem Projekt, keiner Aufgabe sowie keinem Problem zugeordnet sind und auch nicht als [!UICONTROL allgemeine] Stunden eingetragen sind. Diese Stunden werden möglicherweise nur in der 4- oder 6-Wochen-Ansicht angezeigt.
 
 +++
 
@@ -988,7 +988,7 @@ Wenn Benutzende den [!UICONTROL Lastenausgleich] betrachten, sehen sie Stunden, 
 
 _Workfront Fusion_
 
-Beim Ausführen eines Szenarios, wird von einem [!DNL Workfront]-Modul ein 404-Fehler zurückgegeben.
+Beim Ausführen eines Szenarios wird von einem [!DNL Workfront]-Modul ein 404-Fehler zurückgegeben.
 
 Dies wurde in den folgenden Modulen gemeldet:
 
@@ -1002,17 +1002,17 @@ Dies wurde in den folgenden Modulen gemeldet:
 
 _Benutzerdefinierte Formulare_
 
-Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche [!UICONTROL Speichern] ist deaktiviert und der Benutzer kann das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld folgende angezeigt:
+Wenn jemand ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche [!UICONTROL Speichern] ist deaktiviert, und es kann nicht vom benutzerdefinierten Feld wegnavigiert werden. Zusätzlich wird unter dem Feld folgende Meldung angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-Wenn Sie das benutzerdefinierte Feld aus dem Ausdruck entfernen, können Sie das Feld speichern und verlassen.
+Wird das benutzerdefinierte Feld aus dem Ausdruck entfernt, kann das Feld gespeichert und von ihm wegnavigiert werden.
 
 **Zugriffsebenen können nicht festgelegt werden**
 
-_Benutzer_
+_Benutzende_
 
-Wenn Benutzende versuchen, die Zugriffsebene anderer Benutzender zu ändern, sind die Zugriffsebenen grau ausgeblendet, und die Benutzenden können sie nicht ändern. Dies ist auch dann der Fall, wenn die Person, die die Änderung durchführt, eine Systemadministratorin oder ein Systemadministrator ist.
+Wenn eine Benutzerin bzw. ein Benutzer versucht, die Zugriffsebene einer anderen Person zu ändern, sind die Zugriffsebenen grau ausgeblendet und lassen sich nicht ändern. Dies ist selbst dann der Fall, wenn Systemadmins die Änderung versuchen.
 
 +++
 
@@ -1022,25 +1022,25 @@ Wenn Benutzende versuchen, die Zugriffsebene anderer Benutzender zu ändern, sin
 
 _Benutzerdefinierte Formulare_
 
-Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt und mithilfe von Strg+F oder Befehl+F eine Dropdown-Liste durchsucht und dann versucht, zur nächsten Instanz dieser Suche zu springen, kehrt die Dropdown-Liste zum Anfang der Liste zurück, anstatt zur nächsten Instanz der Suche zu springen. Dies tritt auf, wenn ein Dropdown-Menü so eingerichtet ist, dass mehrere Auswahlmöglichkeiten zulässig sind.
+Wenn jemand ein benutzerdefiniertes Formular ausfüllt, dabei mithilfe von Strg+F bzw. Befehl+F eine Dropdown-Liste durchsucht und dann versucht, zur nächsten Instanz dieser Suche zu springen, kehrt die Dropdown-Liste zum Anfang der Liste zurück, anstatt zur nächsten Instanz der Suche zu springen. Dies tritt auf, wenn ein Dropdown-Menü so eingerichtet ist, dass mehrere Auswahlmöglichkeiten zulässig sind.
 
 **[!UICONTROL Berichtbearbeitungsbildschirm] ist leer**
 
 _Berichte_
 
-Wenn ein(e) Benutzende(r) einen Bericht betrachtet und versucht, den Bericht zu bearbeiten, wird er/sie auf einen leeren Bildschirm weitergeleitet und kann den Bericht nicht bearbeiten.
+Wenn jemand einen Bericht betrachtet und versucht, den Bericht zu bearbeiten, wird die Person auf einen leeren Bildschirm weitergeleitet und kann den Bericht nicht bearbeiten.
 
 **Eingerückte Aufgaben bleiben nicht eingerückt**
 
 _Aufgaben_
 
-Wenn ein(e) Benutzende(r) eine Aufgabenliste anzeigt und eine Aufgabe einrückt, kehrt die Aufgabe sofort an die ursprüngliche (ausgerückten) Position zurück.
+Wenn jemand eine Aufgabenliste anzeigt und eine Aufgabe einrückt, kehrt die Aufgabe sofort an die ursprüngliche (nicht eingerückte) Position zurück.
 
 +++
 
 +++**Wartungs-Update vom 5. Januar 2023**
 
-**PIN-Funktion verfügbar im Menü [!UICONTROL Mehr]**
+**Pin-Funktionalität verfügbar im Menü [!UICONTROL Mehr]**
 
 _Navigation_
 
@@ -1048,13 +1048,13 @@ Die folgenden Funktionen sind jetzt für Pins im Menü [!UICONTROL Mehr] verfüg
 
 * Pins umbenennen
 * Pins innerhalb des Menüs [!UICONTROL Mehr] neu anordnen
-* Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
+* Einen Pin aus dem Menü [!UICONTROL Mehr] entfernen (dabei wird der letzte Pin in der oberen Navigationsleiste in das Menü [!UICONTROL Mehr] verschoben)
 
-**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzende zum Projektteam hinzugefügt werden können**
+**Die Einschränkung für Projektgruppen wurde entfernt, sodass Benutzende zum Projekt-Team hinzugefügt werden können**
 
 _Teams_
 
-Wir haben die Einschränkung entfernt, die erforderlich machte, dass die einem Projektteam hinzuzufügenden Benutzenden in der mit dem Projekt verknüpften Gruppe sein müssen. Jetzt können Sie einem Projektteam jeden aktiven Benutzenden hinzufügen, unabhängig davon, zu welchen Gruppen er gehört.
+Wir haben die Einschränkung entfernt, die verlangte, dass die einem Projekt-Team hinzuzufügenden Benutzenden in der mit dem Projekt verknüpften Gruppe sein mussten. Jetzt können Sie einem Projekt-Team beliebige aktive Benutzerinnen und Benutzer hinzufügen, unabhängig davon, zu welchen Gruppen diese gehören.
 
 **Neue Informationssymbole für Arbeitszeittabellen, Arbeitszeittabellenprofile und Arbeitszeittabellen-Voreinstellungen**
 
@@ -1066,8 +1066,8 @@ _Workfront_
 
 Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
 
-* Wenn das Kontrollkästchen „Kann die Zeit bearbeiten“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, der Administrierende beschränkt diese Aktionen im Bereich „Arbeitszeittabellen-Voreinstellungen“ im Setup.
-* Wenn die Option „Bearbeitung von Arbeitszeittabellen auf Inhaber und Administrierende beschränken“ im Bereich „Setup“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, Arbeitszeittabellen-Genehmiger, die die Zeit bearbeiten dürfen, und Arbeitszeittabellen-Besitzer mit Verwaltungsrechten.
+* Wenn das Kontrollkästchen „Kann Zeit bearbeiten“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, die Admins beschränken diese Aktionen im Bereich „Arbeitszeittabellen-Voreinstellungen“ im Setup.
+* Wenn die Option „Bearbeitung von Arbeitszeittabellen auf Eigentümer und Admins beschränken“ im Bereich „Arbeitszeittabellen- und Stunden-Voreinstellungen“ von „Setup“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, genehmigende Personen für Arbeitszeittabellen, die die Zeit bearbeiten dürfen, und Führungskräfte der Eigentümerinnen und Eigentümer von Arbeitszeittabellen.
 
 Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
 

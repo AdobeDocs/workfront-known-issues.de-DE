@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 80%
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
-| **Probleme** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
 | [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
@@ -39,21 +39,21 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9. Oktober 2023 |
-| [Testversand: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
+| [Korrekturabzug: zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
 
 {style="table-layout:auto"}
 
 ## Keine Fehlerbehebung
 
-Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden durch neue Funktionen oder Funktions-Updates behoben werden.
+Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden in Zukunft durch neue Funktionen oder Funktions-Updates behoben.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront-Testversand: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |
-| [Workfront-Testversand: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19. September 2023 |
+| [Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |
+| [Workfront-Korrekturabzug: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19. September 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
-| [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9. Juni 2023 |
-| [Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
+| [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9. Juni 2023 |
+| [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25. Mai 2023 |
 | [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
 | [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
@@ -67,8 +67,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5. Dezember 2022 |
 | [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
-| [[!DNL Workfront Proof]: Benutzende(r) kann nicht zum Korrekturabzug hinzugefügt werden, indem er/sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23. März 2022 |
-| [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL Im Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
+| [[!DNL Workfront Proof]: Person kann nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23. März 2022 |
+| [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL In Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
 | [[!DNL Workfront Proof]: Der automatische Zugriff auf Korrekturabzüge wird verzögert](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14. Juni 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] kann Fristen nicht genau festlegen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5. März 2021 |

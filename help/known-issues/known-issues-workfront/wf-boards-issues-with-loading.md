@@ -3,11 +3,11 @@ title: 'Pinnwände: Probleme beim Laden einer Pinnwand'
 description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, kann es zu Problemen kommen.
 hidefromtoc: true
 feature: Agile
-exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 53%
+ht-degree: 89%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 Beim Versuch, eine Pinnwand zu laden, können Probleme auftreten:
 
 * Die Pinnwand lädt extrem langsam
-* Die Pinnwand wird nicht geladen, und der Benutzer sieht den Fehler &quot;[!UICONTROL Etwas ist beim Laden dieses Brettes schiefgelaufen. Aktualisieren Sie die Seite, um es erneut zu versuchen, oder kontaktieren Sie den Support mit der Fehler-ID unten, wenn das Problem weiterhin besteht.]&quot;
+* Die Pinnwand wird nicht geladen, und es erscheint der Fehler „[!UICONTROL Fehler beim Laden dieser Pinnwand. Aktualisieren Sie die Seite und versuchen Sie es erneut, oder wenden Sie sich unter Angabe der Fehler-ID an den Support, wenn das Problem weiterhin besteht.]“
 
 Dieses Problem scheint auf Pinnwände beschränkt zu sein, die sich in Workstreams befinden.
 

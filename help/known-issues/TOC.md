@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 89%
+source-wordcount: '1328'
+ht-degree: 88%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 89%
       + [Filter: „[!UICONTROL Systemweit aktivieren]“ und „[!UICONTROL Systemweit anzeigen]“ stellen verschiedene Funktionen dar](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Berichte: Auslastungsbericht wird nicht geladen](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [Korrekturabzüge: Genehmigungsoptionen werden nicht im [!UICONTROL Überprüfungs-Viewer] angezeigt](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Arbeitszeittabellen: Fehler bei der Protokollierung von Arbeitszeit in einer Arbeitszeittabelle](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
-      + [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [Berichte: „[!UICONTROL Hoppla]“-Fehler beim Anzeigen des Matrixberichts](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [[!UICONTROL Startseite]: Elemente erscheinen nicht in der [!UICONTROL Arbeitsliste auf der Startseite]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [„Benutzerdefinierte Formulare: Die Anzeigelogik geht verloren, wenn ein benutzerdefiniertes Formular im neuen Formular-Designer (Beta) bearbeitet wird](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile: [!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Berichte: Bericht wird beim Sortieren nach einem beliebigen Feld nicht richtig sortiert](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Lastenausgleich: Unerwartete Umverteilung von Stunden](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [Berichte: Beim Sortieren nach Spaltenüberschrift wird zur vorherigen Sortierung zurückgekehrt](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Projekte: Fehler bei Verwendung der [!UICONTROL Meilenstein]-Ansicht](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Aufgaben: Keine Fehlermeldung bei Neuanordnung der Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Arbeitszeittabellen: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Korrekturabzüge: Gesperrte Genehmigungen von Korrekturabzügen werden weiterhin in der Arbeitsliste angezeigt](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Vorlagen: Die Vorlage kann nicht aus [!UICONTROL Favoritenvorlagen] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Projekte: Benutzerdefinierte [!UICONTROL Hauptgruppen]-Status nicht verfügbar, wenn ein Projekt aus einer Vorlage erstellt wird](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Suche: Zeitüberschreitung der [!DNL Workfront] -Suche](known-issues-workfront/wf-search-search-times-out.md)
-      + [Korrekturabzüge: Die Korrekturabzugsversion kann beim Anzeigen des Korrekturabzugs nicht gewechselt werden](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [Korrekturabzüge: Benutzende werden im Korrekturabzugs-Workflow deaktiviert und erhalten die Fehlermeldung „[!UICONTROL Zugriff nicht erlaubt]“ beim Zugriff auf den Korrekturabzug](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [Korrekturabzüge: Die Korrekturphase wird nicht aktiviert, wenn die Frist für die vorherige Phase vergeht](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint] verknüpftes Dokument](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [Filter: Filter wird beim Aktualisieren der Seite nicht angewendet](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
-      + [[!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend der Auszeit der Benutzenden angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend den Ausfallzeiten von Benutzenden angepasst](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Lastenausgleich: falsche Ergebnisse bei der gleichzeitigen Verwendung mehrerer Filter](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Projekte: Ein aus einem Problem konvertiertes Projekt erbt keine Berechtigungen vom Portfolio oder vom Programm](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Dokumente: Dokumente können nicht von [!DNL Google Drive] hinzugefügt werden](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Dokumente: Dokumentberechtigungen werden nicht vererbt, wenn ihr übergeordnetes Problem in ein Projekt konvertiert wird](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 89%
       + [[!UICONTROL Startseite]: Probleme mit der [!UICONTROL Startseiten]-Zusammenfassung bei der Verwendung anderer Browser als [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [Kalender: Probleme mit dem [!UICONTROL Urlaubskalender]](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [E-Mail-Benachrichtigungen: Benutzende werden nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 89%
       + [Workfront-Korrekturabzug: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: 500-Fehler bei Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]: Suche gibt keine Ergebnisse zurück](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: Der Bereich [!UICONTROL Berichte] wird nicht mehr unterstützt](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Korrekturabzüge: Benutzende erhalten keine E-Mail, wenn sie im Kommentar eines Korrekturabzugs getaggt werden](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 89%
       + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Szenario schlägt fehl mit Fehler „[!UICONTROL ECONNRESET lesen]“](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: Im Filter  [!DNL Workfront]  > [!UICONTROL Ereignisse beobachten] kann kein Wert eingegeben werden](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]: Fehler „[!UICONTROL Update kann nicht ausgeführt werden]“](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]: E-Mail-Benachrichtigungen werden nicht gesendet](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]: Ausführungen hängen oder sind verzögert](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]: Zeitüberschreitungsfehler in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)

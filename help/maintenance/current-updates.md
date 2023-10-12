@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
+source-wordcount: '6083'
 ht-degree: 95%
 
 ---
@@ -22,7 +22,13 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Oktober 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 12. Oktober 2023**
++++**Wartungs-Update vom 12. Oktober 2023**
+
+**Workflows wurden für Konten entfernt, die sie nicht verwenden**
+
+_Pinnwände_
+
+Bei Konten, die noch nie einen Workstream in der Anwendung Foren erstellt haben, wurde der Bereich Workflows aus dem Dashboard der Foren entfernt. Konten, die Workflows verwenden, haben weiterhin Zugriff darauf.
 
 **Berechnete Felder behalten keinen Wert bei, wenn ein Problem in eine Aufgabe konvertiert wird**
 

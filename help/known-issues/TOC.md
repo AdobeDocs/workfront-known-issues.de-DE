@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Timesheets: Persönliche Aufgaben werden auf dem Timesheet angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md)

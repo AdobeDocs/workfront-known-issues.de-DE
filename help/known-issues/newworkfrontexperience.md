@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 84%
+source-wordcount: '768'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Branding wird nicht angewendet](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13. Oktober 2023 |
+| [Pinnwände: Pinnwandansicht in [!UICONTROL Aufgaben] Projektbereich wird nicht geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13. Oktober 2023 |
 | [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
 | [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5. Oktober 2023 |
@@ -41,6 +43,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Benutzer werden nicht über Antworten auf einen Kommentar-Thread informiert](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13. Oktober 2023 |
+| [Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13. Oktober 2023 |
 | [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12. Oktober 2023 |
 | [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12. Oktober 2023 |

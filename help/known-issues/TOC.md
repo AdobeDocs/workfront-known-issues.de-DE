@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1361'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benachrichtigungen: Benutzer werden nicht über Antworten auf einen Kommentar-Thread informiert](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: Branding wird nicht angewendet](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Pinnwände: Pinnwandansicht in [!UICONTROL Aufgaben] Projektbereich wird nicht geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Timesheets: Persönliche Aufgaben werden auf dem Timesheet angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)

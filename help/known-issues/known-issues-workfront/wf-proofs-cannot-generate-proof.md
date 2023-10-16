@@ -4,22 +4,20 @@ description: Wenn ein Benutzer versucht, einen Testversand zu erzeugen, wird der
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # Testsendungen: kein Testversand möglich
 
->[!NOTE]
->
->Dieses Problem wurde am 12. Oktober 2023 behoben.
-
 Wenn ein Benutzer versucht, einen Testversand zu erzeugen, wird der Testversand nicht erstellt und der Benutzer sieht den folgenden Fehler:
 
 &quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
+
+Dies tritt auf, wenn die Zugriffsebene des Benutzers[!UICONTROL  Kontaktinformationen anzeigen] auf Deaktiviert gesetzt ist.
 
 **Problemumgehung**
 

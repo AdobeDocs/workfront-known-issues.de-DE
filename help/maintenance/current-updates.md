@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,30 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Oktober 2023
+
++++**(Geplant) Aktualisierung der Wartung am 19. Oktober 2023**
+
+Benutzer werden nicht über Antworten auf Kommentar-Threads informiert
+
+_Benachrichtigungen_
+
+Wenn ein Benutzer auf einen Kommentar antwortet, erhalten andere Benutzer, die Benachrichtigungen für die Antwort erhalten sollen, diese nicht. Einige Benutzer erhalten die Benachrichtigung möglicherweise, andere nicht.
+
+**Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Korrekturabzug noch einen weiteren Kommentar, der leer ist.
+
+Dies wurde für Video-Korrekturabzüge berichtet.
+
+**[!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird**
+
+_Aufgaben_
+
+Wenn ein Benutzer einer Aufgabe zugewiesen ist, die [!UICONTROL Geplante Stunden] anderen Bevollmächtigten für die Aufgabe zugewiesen wurde, [!UICONTROL Geplante Stunden] sind gleichmäßig auf alle Verantwortlichen der Aufgabe verteilt.
+
++++
 
 +++**Wartungs-Update vom 12. Oktober 2023**
 

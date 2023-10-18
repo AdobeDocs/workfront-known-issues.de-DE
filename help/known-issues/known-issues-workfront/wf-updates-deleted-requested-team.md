@@ -1,0 +1,22 @@
+---
+title: "Aktualisierungen: Gelöscht wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird"
+description: "Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen Gelöscht als Benutzer an, der angefordert hat, dass das Team an der Aufgabe arbeitet."
+hidefromtoc: true
+feature: Updates and Notifications
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 3%
+
+---
+
+
+# Aktualisierungen: &quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird
+
+Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen &quot;[!UICONTROL Gelöscht]&quot; als Benutzer, der angefordert hat, dass das Team an der Aufgabe arbeitet.
+
+**Problemumgehung**
+
+Wenn Sie die Aktualisierungen als Administrator anzeigen, wird der richtige Name angezeigt.
+
+_Erste Meldung am 13. Oktober 2023._

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 77%
+source-wordcount: '735'
+ht-degree: 82%
 
 ---
 
@@ -44,11 +44,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aktualisierungen: &quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird](known-issues-workfront/wf-updates-deleted-requested-team.md) | 18. Oktober 2023 |
 | [Anmelden: Die Anmeldeseite wird zur Landingpage für die Abmeldung weitergeleitet.](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18. Oktober 2023 |
-| [Benachrichtigungen: Benutzer werden nicht über Antworten auf einen Kommentar-Thread informiert](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13. Oktober 2023 |
-| [Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13. Oktober 2023 |
-| [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12. Oktober 2023 |
 | [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12. Oktober 2023 |
 | [Berichte: Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12. Oktober 2023 |
@@ -56,7 +52,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |
 | [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Startseite angezeigt.](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |
 | [Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26. September 2023 |
-| [Korrekturabzug: zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19. September 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style="table-layout:auto"}

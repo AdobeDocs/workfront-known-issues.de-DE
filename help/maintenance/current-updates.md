@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Kor
 
 Dies wurde für Video-Korrekturabzüge berichtet.
 
+**[!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer einen Testversand anzeigt und auf die [!UICONTROL Testversandaktivität] -Registerkarte, gibt die Registerkarte den Benutzer an die [!UICONTROL Testversanddetails] Registerkarte.
+
 **[!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird**
 
 _Aufgaben_
 
 Wenn ein Benutzer einer Aufgabe zugewiesen ist, die [!UICONTROL Geplante Stunden] anderen Bevollmächtigten für die Aufgabe zugewiesen wurde, [!UICONTROL Geplante Stunden] sind gleichmäßig auf alle Verantwortlichen der Aufgabe verteilt.
+
+**&quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird**
+
+_Updates_
+
+Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen &quot;[!UICONTROL Gelöscht]&quot; als Benutzer, der angefordert hat, dass das Team an der Aufgabe arbeitet.
 
 +++
 

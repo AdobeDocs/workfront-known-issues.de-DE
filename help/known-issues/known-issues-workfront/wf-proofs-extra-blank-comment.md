@@ -1,19 +1,23 @@
 ---
-title: '„Korrekturabzug: Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug“'
-description: „Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Korrekturabzug noch einen weiteren Kommentar, der leer ist.“
+title: 'Korrekturabzug: zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug'
+description: Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Korrekturabzug noch einen weiteren Kommentar, der leer ist.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
-workflow-type: ht
-source-wordcount: '69'
+exl-id: 3f22277a-b9fa-449f-b03a-a669fa710306
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
-
 # Korrekturabzug: zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 19. Oktober 2023 behoben.
 
 Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Korrekturabzug noch einen weiteren Kommentar, der leer ist.
 

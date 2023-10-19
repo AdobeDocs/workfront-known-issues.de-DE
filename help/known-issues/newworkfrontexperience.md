@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
 workflow-type: tm+mt
-source-wordcount: '753'
-ht-degree: 80%
+source-wordcount: '717'
+ht-degree: 84%
 
 ---
 
@@ -27,14 +27,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md) | 19. Oktober 2023 |
 | [Dokumente: &quot;[!UICONTROL Senden an]&quot;-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19. Oktober 2023 |
-| [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 16. Oktober 2023 |
 | [[!DNL Workfront]: Branding wird nicht angewendet](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13. Oktober 2023 |
-| [Pinnwände: Pinnwandansicht in [!UICONTROL Aufgaben] Projektbereich wird nicht geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13. Oktober 2023 |
-| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
-| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5. Oktober 2023 |
-| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
-| [Pinnwände: Karten zeigen die falsche Anzahl von Checklisten-Elementen an](known-issues-workfront/wf-boards-checklist-item-count.md) | 29. September 2023 |
 | [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27. September 2023 |
 | [[!UICONTROL Startseite]: [!UICONTROL Anfrage]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md) | 7. September 2023 |
 
@@ -45,10 +38,13 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
 
 | **Problem** | **Letzte Änderung** |
-| -----------------------------------------------------------------| ----------------- |
+|----------------------------------| ----------------- |
+| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19. Oktober 2023 |
+| [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
+| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19. Oktober 2023 |
+| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19. Oktober 2023 |
 | [Anmelden: Die Anmeldeseite wird zur Landingpage für die Abmeldung weitergeleitet.](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12. Oktober 2023 |
-| [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12. Oktober 2023 |
 | [Berichte: Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12. Oktober 2023 |
 | [Timesheets: Persönliche Aufgaben werden auf dem Timesheet angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10. Oktober 2023 |
 | [Lastenausgleich: Manuelle Stundenänderungen nach einer Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |

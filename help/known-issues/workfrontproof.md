@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 87%
+source-wordcount: '360'
+ht-degree: 85%
 
 ---
 
@@ -27,9 +27,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md) | 19. Oktober 2023 |
 | [Dokumente: &quot;[!UICONTROL Senden an]&quot;-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19. Oktober 2023 |
-| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9. Oktober 2023 |
-| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9. Oktober 2023 |
-| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3. Oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,7 +36,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| Keine |  |
+| [Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19. Oktober 2023 |
+| [Testsendungen: kein Testversand möglich](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
+| [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19. Oktober 2023 |
+| [Testsendungen: Neue Testversion kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19. Oktober 2023 |
 
 {style="table-layout:auto"}
 

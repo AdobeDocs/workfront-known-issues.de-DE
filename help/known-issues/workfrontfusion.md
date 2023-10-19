@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 98%
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
-| **Probleme** | **Letzte Änderung** |
+| **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5. Oktober 2023 |
+| Keine |  |
 
 {style="table-layout:auto"}
 
@@ -42,7 +42,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 ## Keine Fehlerbehebung
 
-Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden durch neue Funktionen oder Funktions-Updates behoben werden.
+Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden in Zukunft durch neue Funktionen oder Funktions-Updates behoben.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |

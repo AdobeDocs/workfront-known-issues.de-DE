@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 84%
+source-wordcount: '740'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
+| [Pinnwände: Erwartete Karten werden nicht an Bord angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20. Oktober 2023 |
+| [Startseite: Projekte und Aufgaben werden nicht in der Startseite geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20. Oktober 2023 |
 | [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md) | 19. Oktober 2023 |
 | [Dokumente: &quot;[!UICONTROL Senden an]&quot;-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19. Oktober 2023 |
 | [[!DNL Workfront]: Branding wird nicht angewendet](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13. Oktober 2023 |

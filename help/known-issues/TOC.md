@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 83%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Pinnwände: Erwartete Karten werden nicht an Bord angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Startseite: Projekte und Aufgaben werden nicht in der Startseite geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [Dokumente: &quot;[!UICONTROL Senden an]&quot;-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Aktualisierungen: &quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird](known-issues-workfront/wf-updates-deleted-requested-team.md)

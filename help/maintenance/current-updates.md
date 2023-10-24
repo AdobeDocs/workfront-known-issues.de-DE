@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 92%
+source-wordcount: '6454'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,34 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Oktober 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 19. Oktober 2023**
++++**(Geplant) Aktualisierung der Wartung am 26. Oktober 2023**
+
+**Suche funktioniert nicht**
+
+_Pinnwände_
+
+Wenn ein Benutzer versucht, Pinnwände zu durchsuchen, gibt die Suche nicht alle Karten zurück, die die Suchkriterien erfüllen.
+
+**Interaktiver Testversand kann im Web Viewer nicht angezeigt werden**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer versucht, einen Testversand in der Web-Testversand-Ansicht anzuzeigen, wird der Testversand nicht angezeigt und der Benutzer sieht den folgenden Fehler:
+
+&quot;[!UICONTROL Fehlender Schlüssel-Paar-ID-Abfrageparameter oder -Cookie-Wert]&quot;
+
+
+**Benutzer wird bei der Freigabe einer Anforderung dupliziert**
+
+_Anfragen_
+
+Wenn bei der Freigabe einer Anfrage die Zugriffsebene eines Benutzers geändert wird, für den die Anfrage freigegeben wird, wird der Benutzer direkt über diesem Benutzer in der Liste zu diesem Benutzer.
+
+Wenn die Anforderung beispielsweise für Benutzer A und Benutzer B freigegeben wird und der Zugriff von Benutzer B geändert wird, wird Benutzer A zu Benutzer B geändert, und jetzt sind zwei Benutzer-Bs in der Liste enthalten. Darüber hinaus wurde nur der Zugriff des obersten Benutzers B geändert.
+
++++
+
++++**Wartungs-Update vom 19. Oktober 2023**
 
 Benutzer werden nicht über Antworten auf Kommentar-Threads informiert
 

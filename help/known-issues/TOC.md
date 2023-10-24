@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 82%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Duplizieren von Projekten, die aus einem Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: Fehler beim Senden einer Einladung mit [!DNL Workfront] > [!UICONTROL Verschiedene Aktionen] Modul](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Szenario schlägt fehl mit Fehler „[!UICONTROL ECONNRESET lesen]“](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)

@@ -1,17 +1,21 @@
 ---
-title: "Testsendungen: Neue Testversion eines Testversands kann nicht erstellt werden"
-description: "Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über eine Fehlermeldung informiert."
+title: 'Testsendungen: Neue Testversion eines Testversands kann nicht erstellt werden'
+description: Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über eine Fehlermeldung informiert.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 9%
+source-wordcount: '91'
+ht-degree: 15%
 
 ---
 
-
 # Testsendungen: Neue Testversion kann nicht erstellt werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 26. Oktober 2023 behoben.
 
 Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über die folgende Fehlermeldung informiert:
 

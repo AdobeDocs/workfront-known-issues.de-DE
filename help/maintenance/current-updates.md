@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
-ht-degree: 90%
+source-wordcount: '6537'
+ht-degree: 89%
 
 ---
 
@@ -38,6 +38,13 @@ Wenn ein Benutzer versucht, einen Testversand in der Web-Testversand-Ansicht anz
 
 &quot;[!UICONTROL Fehlender Schlüssel-Paar-ID-Abfrageparameter oder -Cookie-Wert]&quot;
 
+**Neue Testversion kann nicht erstellt werden**
+
+_Korrekturabzüge_
+
+Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über die folgende Fehlermeldung informiert:
+
+&quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
 
 **Benutzer wird bei der Freigabe einer Anforderung dupliziert**
 
@@ -46,6 +53,14 @@ _Anfragen_
 Wenn bei der Freigabe einer Anfrage die Zugriffsebene eines Benutzers geändert wird, für den die Anfrage freigegeben wird, wird der Benutzer direkt über diesem Benutzer in der Liste zu diesem Benutzer.
 
 Wenn die Anforderung beispielsweise für Benutzer A und Benutzer B freigegeben wird und der Zugriff von Benutzer B geändert wird, wird Benutzer A zu Benutzer B geändert, und jetzt sind zwei Benutzer-Bs in der Liste enthalten. Darüber hinaus wurde nur der Zugriff des obersten Benutzers B geändert.
+
+**&quot;[!UICONTROL Hopfen]&quot; error in task header**
+
+_Aufgaben_
+
+Wenn ein Benutzer eine Aufgabe anzeigt, enthält die Aufgabenüberschrift keine Informationen. Stattdessen wird dem Benutzer die folgende Fehlermeldung angezeigt:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 +++
 

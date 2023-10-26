@@ -3,15 +3,19 @@ title: "Login: Fehlermeldung beim Anmelden"
 description: "Wenn ein Benutzer versucht, sich bei [!DNL Workfront], wird ihnen eine Fehlermeldung angezeigt."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # Anmeldung: Fehlermeldung bei Anmeldung
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 26. Oktober 2023 behoben.
 
 Wenn ein Benutzer versucht, sich bei [!DNL Workfront], sehen sie die folgende Fehlermeldung:
 

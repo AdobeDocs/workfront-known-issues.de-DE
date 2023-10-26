@@ -3,15 +3,19 @@ title: '"Home": Projekte und Aufgaben, die nicht in Home geladen werden'
 description: "Projekte und Aufgaben, die nicht im Home geladen werden"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Startseite: Projekte und Aufgaben werden nicht in der Startseite geladen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 20. Oktober 2023 behoben.
 
 Folgende Verhaltensweisen wurden bezüglich des Ladens von Projekten und Aufgaben in der Startseite gemeldet:
 

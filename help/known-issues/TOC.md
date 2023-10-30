@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1461'
-ht-degree: 80%
+source-wordcount: '1484'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anforderungen: Auf der Seite &quot;Neue Anforderung&quot;wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Berichte: Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Aufgaben: &quot;[!UICONTROL Hopfen]&quot; error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Anmeldung: Fehlermeldung bei Anmeldung](known-issues-workfront/wf-login-error-when-logging-in.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 80%
+source-wordcount: '766'
+ht-degree: 79%
 
 ---
 
@@ -39,6 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30. Oktober 2023 |
 | [[!DNL Workfront Proof]: Ungenauer Zeitstempel in [!UICONTROL Testzusammenfassung]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
 | [Testsendungen: Fehler beim Freigeben des Testversands über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
 | [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md) | 26. Oktober 2023 |

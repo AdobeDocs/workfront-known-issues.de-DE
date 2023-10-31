@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '791'
-ht-degree: 77%
+source-wordcount: '798'
+ht-degree: 76%
 
 ---
 
@@ -39,6 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Lastenausgleich]: [!UICONTROL Lastenausgleich] langsam](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 31. Oktober 2023 |
 | [Anforderungen: Auf der Seite &quot;Neue Anforderung&quot;wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md) | 30. Oktober 2023 |
 | [Berichte: Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30. Oktober 2023 |
 | [Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30. Oktober 2023 |

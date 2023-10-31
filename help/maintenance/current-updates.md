@@ -3,7 +3,7 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 89%
@@ -24,11 +24,11 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**(Geplantes) Wartungs-Update vom 2. November 2023**
 
-**Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt **
+**Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt**
+
 _Berichte_
 
 Wenn ein Berichtsfeld einen Werteausdruck enthält, der auf eine private Aktualisierung verweist, kann dieser von Benutzern, die nicht in der privaten Aktualisierung enthalten sind, im Bericht angezeigt werden.
-
 
 **Benutzer wird aufgrund ungenauer Kapazität als überzugeordnet angezeigt**
 

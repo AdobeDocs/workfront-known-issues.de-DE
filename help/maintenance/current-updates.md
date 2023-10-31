@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6638'
 ht-degree: 89%
 
 ---
@@ -20,9 +20,29 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
+## Updates im November 2023
+
++++**(Geplantes) Wartungs-Update vom 2. November 2023**
+
+**Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt **
+_Berichte_
+
+Wenn ein Berichtsfeld einen Werteausdruck enthält, der auf eine private Aktualisierung verweist, kann dieser von Benutzern, die nicht in der privaten Aktualisierung enthalten sind, im Bericht angezeigt werden.
+
+
+**Benutzer wird aufgrund ungenauer Kapazität als überzugeordnet angezeigt**
+
+_Workload Balancer_
+
+Eine Anwenderin oder ein Anwender kann im Lastenausgleich als überlastet angezeigt werden. Wird der Mauszeiger über die Überlastung bewegt, erscheint die Kapazität als 0.
+
+Wird der Datumsbereich geändert, ist die Zuordnung korrekt. Nach dem Aktualisieren der Seite kann die Kapazität jedoch wieder ungenau sein.
+
++++
+
 ## Updates im Oktober 2023
 
-+++**(Geplant) Aktualisierung der Wartung am 26. Oktober 2023**
++++**Wartungs-Update vom 26. Oktober 2023**
 
 **Suche funktioniert nicht**
 

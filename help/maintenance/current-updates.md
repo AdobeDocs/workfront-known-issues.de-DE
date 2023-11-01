@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 _Berichte_
 
-Wenn ein Berichtsfeld einen Werteausdruck enthält, der auf eine private Aktualisierung verweist, kann dieser von Benutzern, die nicht in der privaten Aktualisierung enthalten sind, im Bericht angezeigt werden.
+Wenn ein Berichtsfeld eine „valueexpression“ enthält, die auf eine private Aktualisierung verweist, können auch Benutzende, die nicht Teil der privaten Aktualisierung sind, diese im Bericht sehen.
 
 **Benutzer wird aufgrund ungenauer Kapazität als überzugeordnet angezeigt**
 
@@ -62,7 +62,7 @@ Wenn ein Benutzer versucht, einen Testversand in der Web-Testversand-Ansicht anz
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über die folgende Fehlermeldung informiert:
+Beim Versuch, eine neue Version eines Korrekturabzugs zu erstellen, wird die neue Version nicht erzeugt und die folgende Fehlermeldung wird angezeigt:
 
 &quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
 
@@ -128,19 +128,19 @@ _Pinnwände_
 
 Bei Konten, die noch nie einen Workstream in der Anwendung Foren erstellt haben, wurde der Bereich Workflows aus dem Dashboard der Foren entfernt. Konten, die Workflows verwenden, haben weiterhin Zugriff darauf.
 
-**Berechnete Felder behalten keinen Wert bei, wenn ein Problem in eine Aufgabe konvertiert wird**
+**Berechnete Felder behalten den Wert nicht, wenn ein Problem in eine Aufgabe konvertiert wird**
 
 _Benutzerdefinierte Formulare_
 
-Berechnete Felder, die sich selbst referenzieren, behalten ihre Werte nicht bei, wenn ein Problem in eine Aufgabe konvertiert wird.
+Berechnete Felder, die auf sich selbst verweisen, behalten ihre Werte nicht, wenn ein Problem in eine Aufgabe konvertiert wird.
 
-Beim Konvertieren des Problems in eine Aufgabe wird der gewünschte Wert im Bearbeitungsfenster korrekt angezeigt. Nach Abschluss der Konvertierung zeigt das berechnete Feld jedoch ein &quot;K. A.&quot; an.
+Beim Konvertieren des Problems in eine Aufgabe wird der gewünschte Wert zwar im Bearbeitungsfenster korrekt angezeigt. Nach Abschluss der Konvertierung zeigt das berechnete Feld jedoch „k. A.“ an.
 
-**Fehler beim Ändern von Filtern in [!UICONTROL Startseite]**
+**Fehler beim Ändern von Filtern auf der [!UICONTROL Startseite]**
 
 _Startseite_
 
-Wenn ein Benutzer die Filter ändert [!UICONTROL Startseite], die [!UICONTROL Startseite] -Bereich wird nicht geladen und der Benutzer sieht den folgenden Fehler:
+Beim Ändern der Filter auf der [!UICONTROL Startseite] wird der Bereich [!UICONTROL Startseite] nicht geladen und es wird der folgende Fehler angezeigt:
 
 „[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Bitte versuchen, diese Browser-Seite zu aktualisieren, um mit der Arbeit fortzufahren.]“
 
@@ -148,11 +148,11 @@ Wenn ein Benutzer die Filter ändert [!UICONTROL Startseite], die [!UICONTROL St
 
 +++**Wartungs-Update vom 5. Oktober 2023**
 
-**Das Board lädt langsam**
+**Die Pinnwand wird langsam geladen**
 
 _Pinnwände_
 
-Wenn ein Benutzer eine Pinnwand lädt, wird die Pinnwand extrem langsam geladen. Dies kann auch auftreten, wenn die Pinnwand eine kleine Anzahl von Karten hat.
+Wenn Benutzende eine Pinnwand laden, wird die Pinnwand extrem langsam geladen. Dies kann auch auftreten, wenn die Pinnwand nur eine kleine Anzahl von Karten hat.
 
 Archivierte Karten, selbst wenn sie nicht angezeigt wurden, wirkten sich auf die Ladezeit der Pinnwand aus.
 
@@ -160,29 +160,29 @@ Archivierte Karten, selbst wenn sie nicht angezeigt wurden, wirkten sich auf die
 
 _Pinnwände_
 
-Wenn ein Benutzer versucht, eine Karte auf einer Pinnwand zu verschieben, wird die Karte nicht verschoben. Dies geschieht unter den folgenden Umständen:
+Beim Versuch, eine Karte auf einer Pinnwand zu verschieben, wird die Karte nicht verschoben. Dies geschieht unter den folgenden Umständen:
 
-* Drag &amp; Drop
-* Option &quot;Verschieben&quot;auf Karte
+* Drag-and-Drop
+* Option „Verschieben“ auf der Karte
 * Bearbeiten der Karte
 
-**Karten können nicht aus der Annahmespalte verschoben werden**
+**Karten können nicht aus der Aufnahmespalte verschoben werden**
 
 _Pinnwände_
 
-Der Benutzer kann eine Karte aus der Ansauspalte in eine andere Spalte auf der Pinnwand ziehen, nachfolgende Karten können jedoch nicht aus der Ansauspalte verschoben werden.
+Man kann eine Karte aus der Aufnahmespalte in eine andere Spalte auf der Pinnwand ziehen, aber nachfolgende Karten können nicht aus der Aufnahmespalte verschoben werden.
 
-**Gruppe nach Auswirkung auf die Leistung der Pinnwand**
+**„Gruppieren nach“ hat Auswirkungen auf die Leistung der Pinnwand**
 
 _Pinnwände_
 
-Wenn der Benutzer versucht, die Karten nach Bevollmächtigten oder Tags zu gruppieren, wird die Leistung der Pinnwand sehr langsam.
+Beim Versuch, die Karten nach Bevollmächtigten oder Tags zu gruppieren, wird die Leistung der Pinnwand sehr langsam.
 
-**Automatische Erinnerungsmail wird nicht gesendet**
+**Automatische E-Mail-Erinnerungen werden nicht gesendet**
 
 _Benachrichtigungen_
 
-Automatische E-Mail-Erinnerungen werden nicht gesendet. Dies begann am 14. September 2023.
+Automatische E-Mail-Erinnerungen werden nicht gesendet. Dies begann am 14. September 2023.
 
 +++
 

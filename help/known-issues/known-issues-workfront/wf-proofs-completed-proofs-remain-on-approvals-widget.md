@@ -1,18 +1,18 @@
 ---
-title: '"Testsendungen: Abgeschlossene Testsendungen verbleiben auf dem Widget "Meine Genehmigung"'
-description: "Nachdem ein Benutzer eine Entscheidung über einen Testversand getroffen hat, bleibt dieser Testversand im [!UICONTROL Warten auf meine Genehmigung] Widget für Benutzer [!UICONTROL Startseite] im neuen Starterlebnis."
+title: '„Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget „Warten auf Genehmigung“ angezeigt“'
+description: „Nachdem jemand eine Entscheidung über einen Korrekturabzug getroffen hat, bleibt dieser Korrekturabzug auf der Seite [!UICONTROL Startseite] im neuen Startseitenerlebnis der Person im Widget [!UICONTROL Warten auf Genehmigung].“
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Abgeschlossene Testsendungen werden weiterhin durchgeführt [!UICONTROL Warten auf meine Genehmigung] Widget
+# Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt
 
-Nachdem ein Benutzer eine Entscheidung über einen Testversand getroffen hat, bleibt dieser Testversand im [!UICONTROL Warten auf meine Genehmigung] Widget für Benutzer [!UICONTROL Startseite] im neuen Starterlebnis angezeigt.
+Nachdem jemand eine Entscheidung über einen Korrekturabzug getroffen hat, bleibt dieser Korrekturabzug auf der Seite [!UICONTROL Startseite] im neuen Startseitenerlebnis der Person im Widget [!UICONTROL Warten auf Genehmigung].
 
 _Erste Meldung am 21. September 2023._

@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '801'
 ht-degree: 85%
 
 ---
@@ -55,12 +55,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Korrekturabzüge: Es kann keine neue Version eines Korrekturabzugs erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19. Oktober 2023 |
 | [Anmelden: Die Anmeldeseite wird zur Landingpage für die Abmeldung weitergeleitet.](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12. Oktober 2023 |
-| [Berichte: Private Aktualisierungen werden in den Feldern „valueexpression“ angezeigt](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12. Oktober 2023 |
 | [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10. Oktober 2023 |
 | [Workload-Balancer: Manuelle Stundenänderungen nach der Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3. Oktober 2023 |
 | [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Arbeitsliste der Startseite angezeigt](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |
-| [Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26. September 2023 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
+| [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style="table-layout:auto"}
 

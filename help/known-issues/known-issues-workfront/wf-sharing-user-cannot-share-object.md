@@ -1,17 +1,21 @@
 ---
-title: '„Freigabe: Fehler beim Freigeben eines Objekts“'
-description: „Beim Versuch, ein Objekt freizugeben, wird das Objekt nicht freigegeben und ein Fehler angezeigt.“
+title: 'Freigabe: Fehler beim Freigeben eines Objekts'
+description: Wenn ein Benutzer versucht, ein Objekt freizugeben, wird das Objekt nicht freigegeben, und der Benutzer erhält eine Fehlermeldung.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 32bdda48-219a-4251-b345-40f68d02cbe8
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 78%
 
 ---
 
-
 # Freigabe: Fehler beim Freigeben eines Objekts
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 2. November 2023 behoben.
 
 Beim Versuch, ein Objekt freizugeben, wird das Objekt nicht freigegeben und die folgende Meldung angezeigt:
 
@@ -22,5 +26,3 @@ Im Konsolenprotokoll wird möglicherweise auch diese zusätzliche Meldung angeze
 „[!UICONTROL Sie verfügen nicht über die erforderliche Zugriffsberechtigung, um diese Anfrage zu bearbeiten]“
 
 _Erste Meldung am 22. September 2023._
-
-

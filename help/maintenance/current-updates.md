@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6637'
-ht-degree: 93%
+source-wordcount: '6830'
+ht-degree: 92%
 
 ---
 
@@ -21,6 +21,38 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2023
+
++++**(Geplantes) Wartungs-Update vom 9. November 2023**
+
+**In meinem Widget &quot;Arbeit&quot;fehlen Objekte, wenn sie sich nicht oben auf der Seite befinden**
+
+_Startseite_
+
+Wenn sich das Widget &quot;Meine Arbeit&quot;oben auf der neuen Startseite befindet, werden alle erwarteten Objekte abgerufen. Wenn dieses Widget jedoch unter anderen Widgets auf der Seite liegt, werden nur 10 Objekte abgerufen.
+
+**Testversand nicht möglich**
+
+_Korrekturabzüge_
+
+Beim Versuch, einen Korrekturabzug zu generieren, wird der Korrekturabzug nicht erstellt und der folgende Fehler wird angezeigt:
+
+&quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
+
+Dies tritt auf, wenn die Zugriffsebene des Benutzers[!UICONTROL  Kontaktinformationen anzeigen] auf Deaktiviert gesetzt ist.
+
+**Felder werden beim Hinzufügen eines Dokuments zu einer Anforderung gelöscht**
+
+_Anfragen_
+
+Wenn ein Benutzer eine Anforderung erstellt, Felder in einem Formular ausfüllt und dann ein Dokument hinzufügt oder entfernt, werden einige Felder im Formular aus den Daten gelöscht, und der Benutzer muss sie vor dem Senden der Anforderung erneut ausfüllen.
+
+**Persönliche Aufgaben werden auf dem Timesheet angezeigt**
+
+_Arbeitszeittabellen_
+
+Wenn ein Benutzer oder eine Benutzerin eine Aufgabe im [!UICONTROL Todo]-Widget des neuen [!UICONTROL Startseitenerlebnisses] erstellt, wird diese Aufgabe auf der Arbeitszeittabelle der Person angezeigt. Dies ist selbst dann der Fall, wenn für die Aufgabe keine Stunden protokolliert sind und das persönliche Projekt nicht angeheftet ist.
+
++++
 
 +++**Wartungs-Update vom 2. November 2023**
 

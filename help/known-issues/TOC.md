@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '1594'
+source-wordcount: '1600'
 ht-degree: 82%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Dashboard: Große leere Spanne beim Drucken des Dashboards auf PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Startseite: Aufgaben in Projekten mit dem Status &quot;Genehmigt&quot;oder &quot;Planung&quot;sind nicht in der Liste &quot;Meine Aufgaben&quot;oder &quot;Hausarbeit&quot;enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Vorlagen: Untergeordnete Aufgaben werden beim Verschieben unter die übergeordnete Aufgabe nicht in der Reihenfolge angezeigt](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)

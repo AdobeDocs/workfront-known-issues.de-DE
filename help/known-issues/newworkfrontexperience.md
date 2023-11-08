@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 79%
+source-wordcount: '842'
+ht-degree: 78%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8. November 2023 |
 | [Anforderungen: Felder werden gelöscht, wenn ein Dokument zu einer Anforderung hinzugefügt wird](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3. November 2023 |
 | [Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1. November 2023 |
 | [Pinnwände: Fehler im Abschnitt &quot;Kommentare&quot;einer Karte](known-issues-workfront/wf-boards-comment-section-error.md) | 1. November 2023 |

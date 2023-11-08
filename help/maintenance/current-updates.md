@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 92%
+source-wordcount: '6904'
+ht-degree: 91%
 
 ---
 
@@ -51,6 +51,16 @@ Wenn ein Benutzer eine Anforderung erstellt, Felder in einem Formular ausfüllt 
 _Arbeitszeittabellen_
 
 Wenn ein Benutzer oder eine Benutzerin eine Aufgabe im [!UICONTROL Todo]-Widget des neuen [!UICONTROL Startseitenerlebnisses] erstellt, wird diese Aufgabe auf der Arbeitszeittabelle der Person angezeigt. Dies ist selbst dann der Fall, wenn für die Aufgabe keine Stunden protokolliert sind und das persönliche Projekt nicht angeheftet ist.
+
++++
+
++++**Wartungs-Update (Hotfix) am 3. November 2023**
+
+**Untergeordnete Aufgaben werden beim Verschieben unter die übergeordnete Aufgabe nicht in der richtigen Reihenfolge angezeigt**
+
+_Vorlagen_
+
+Wenn ein Benutzer Aufgaben in einer Vorlage erstellt und diese Aufgaben dann in eine übergeordnete Aufgabe verschiebt, werden die den untergeordneten Aufgaben zugewiesenen Zahlen nicht in der erwarteten Reihenfolge angezeigt. Wenn die Seite aktualisiert wird, werden die untergeordneten Aufgaben daher nach den unerwarteten Aufgabennummern sortiert, und die untergeordneten Aufgaben sind daher nicht in der Reihenfolge.
 
 +++
 

@@ -1,26 +1,26 @@
 ---
-title: "Aktualisierungen: Gelöscht wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird"
-description: "Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen Gelöscht als Benutzer an, der angefordert hat, dass das Team an der Aufgabe arbeitet."
+title: '„Aktualisierungen: „Gelöscht“ wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird“'
+description: Wenn eine Person, die als eine andere Person angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen als die Person, die angefordert hat, dass das Team an der Aufgabe arbeitet, „Gelöscht“ an.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 4d95563f-8ef8-4885-94a5-110247e1d25f
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-
-# Aktualisierungen: &quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird
+# Aktualisierungen: „[!UICONTROL Gelöscht]“ wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 19. Oktober 2023 behoben.
 
-Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen &quot;[!UICONTROL Gelöscht]&quot; als Benutzer, der angefordert hat, dass das Team an der Aufgabe arbeitet.
+Wenn eine Person, die als eine andere Person angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen als die Person, die angefordert hat, dass das Team an der Aufgabe arbeitet, „[!UICONTROL Gelöscht]“ an.
 
 **Problemumgehung**
 
-Wenn Sie die Aktualisierungen als Administrator anzeigen, wird der richtige Name angezeigt.
+Wenn Sie die Aktualisierungen als Admin anzeigen, wird der richtige Name angezeigt.
 
 _Erste Meldung am 13. Oktober 2023._

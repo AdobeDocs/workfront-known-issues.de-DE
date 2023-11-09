@@ -1,15 +1,15 @@
 ---
-title: "Workfront: Branding wird nicht angewendet"
-description: "Wenn ein Benutzer Dateien in den Branding-Bereich des Setups hochlädt, scheinen die Dateien korrekt hochzuladen. Wenn ein Benutzer jedoch das Hauptmenü ansieht, wird ihm das -Logo nicht angezeigt. Stattdessen wird ihnen eine Fehlermeldung angezeigt."
+title: '„Workfront: Branding wird nicht angewendet“'
+description: Beim Versuch, Dateien in den Branding-Bereich von Setup hochzuladen, scheinen die Dateien korrekt hochgeladen zu werden. Wenn jedoch das Hauptmenü angezeigt wird, ist das Logo nicht zu sehen. Stattdessen wird ihnen eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
-
 
 # [!DNL Workfront]: Branding wird nicht angewendet
 
@@ -19,9 +19,9 @@ ht-degree: 25%
 
 >[!IMPORTANT]
 >
->Branding ist nicht verfügbar, wenn Ihr Unternehmen in die Adobe Admin Console oder Adobe Unified Shell migriert wurde.
+>Branding ist nicht verfügbar, wenn Ihre Organisation zur Adobe Admin Console oder zu Adobe Unified Shell migriert wurde.
 
-Wenn ein Benutzer Dateien in die [!UICONTROL Branding] -Bereich des Setups anzeigen, werden die Dateien korrekt hochgeladen. Wenn ein Benutzer jedoch die [!UICONTROL Hauptmenü], sehen sie das Logo nicht. Stattdessen sehen sie die folgende Meldung:
+Beim Versuch, Dateien in den [!UICONTROL Branding]-Bereich von Setup hochzuladen, scheinen die Dateien korrekt hochgeladen zu werden. Wenn jedoch das [!UICONTROL Hauptmenü] angezeigt wird, ist das Logo nicht zu sehen. Stattdessen wird die folgende Meldung angezeigt:
 
 &quot;[!UICONTROL Firmenlogo nicht verfügbar. Wir konnten Ihr Firmenlogo basierend auf der angegebenen URL nicht laden. Bitte wenden Sie sich an Ihre Systemadmins.]&quot;
 

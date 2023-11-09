@@ -1,18 +1,18 @@
 ---
-title: "Workfront-Testversand: ungenauer Zeitstempel in der Testversandzusammenfassung"
-description: '"Wenn ein Benutzer bei Testsendungen auf die Option "Zusammenfassung drucken"klickt, wurde dem angezeigten Zeitstempel 30 Minuten hinzugefügt."'
+title: '„Workfront-Korrekturabzug: Ungenauer Zeitstempel in der Zusammenfassung von Korrekturabzügen“'
+description: Wenn jemand bei Korrekturabzügen auf die Option „Druckzusammenfassung“ klickt, wird dem angezeigten Zeitstempel 30 Minuten hinzugefügt.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
-workflow-type: tm+mt
+exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]
 
-# [!DNL Workfront Proof]: Ungenauer Zeitstempel in [!UICONTROL Testzusammenfassung]
-
-Wenn ein Benutzer auf die [!UICONTROL Druckzusammenfassung] -Option für Testsendungen hatte der angezeigte Zeitstempel 30 Minuten hinzugefügt.
+Wenn jemand bei Korrekturabzügen auf die Option [!UICONTROL Druckzusammenfassung] klickt, wird dem angezeigten Zeitstempel 30 Minuten hinzugefügt.
 
 _Erste Meldung am 14. September 2023._

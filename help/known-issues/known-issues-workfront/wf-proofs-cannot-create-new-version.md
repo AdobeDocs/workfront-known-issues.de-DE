@@ -1,13 +1,13 @@
 ---
 title: 'Korrekturabzüge: Es kann keine neue Version eines Korrekturabzugs erstellt werden'
-description: Wenn ein Benutzer versucht, eine neue Version eines Testversands zu erstellen, wird die neue Version nicht erstellt und der Benutzer wird über eine Fehlermeldung informiert.
+description: Beim Versuch, eine neue Version eines Korrekturabzugs zu erstellen, wird die neue Version nicht erzeugt und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
 source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

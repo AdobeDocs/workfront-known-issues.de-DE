@@ -1,23 +1,23 @@
 ---
-title: "Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]"
-description: "Wenn ein Benutzer, der Zugriff auf eine [!UICONTROL Arbeitsfläche-Dashboard] Versuche, auf die [!UICONTROL Arbeitsfläche-Dashboard], wird das Dashboard nicht geladen und dem Benutzer wird eine Nachricht angezeigt."
+title: '„Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-Dashboards] zugreifen“'
+description: „Wenn eine Person, die Zugriff auf ein [!UICONTROL Arbeitsflächen-Dashboard] haben sollte, auf das [!UICONTROL Arbeitsflächen-Dashboard] zuzugreifen versucht, wird das Dashboard nicht geladen und eine Nachricht angezeigt.“
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
 
-# Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]
+# Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-Dashboards] zugreifen
 
-Wenn ein Benutzer Zugriff auf eine [!UICONTROL Arbeitsfläche-Dashboard] Versuche, auf die [!UICONTROL Arbeitsfläche-Dashboard], wird das Dashboard nicht geladen und der Benutzer sieht die folgende Nachricht:
+Wenn eine Person, die Zugriff auf ein [!UICONTROL Arbeitsflächen-Dashboard] haben sollte, auf das [!UICONTROL Arbeitsflächen-Dashboard] zuzugreifen versucht, wird das Dashboard nicht geladen und die folgende Nachricht angezeigt:
 
 &quot;[!UICONTROL Sie haben keinen Zugriff auf die Arbeitsflächen-Dashboards. Bitte wenden Sie sich an die oder den Systemadmin, um Zugang zu erhalten.]&quot;
 
-Dies tritt auf, wenn alle der folgenden Zugriffsstufenoptionen unter deaktiviert sind [!UICONTROL Berichte]:
+Dies tritt auf, wenn alle der folgenden Zugriffsstufenoptionen unter [!UICONTROL Berichte] deaktiviert sind:
 
 * [!UICONTROL Löschen]
 * [!UICONTROL Öffentlicher Austausch von Berichten]

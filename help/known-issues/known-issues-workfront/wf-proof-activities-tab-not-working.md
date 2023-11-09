@@ -1,26 +1,26 @@
 ---
-title: "Testsendungen: Der Tab Testversand-Aktivität wird nicht geöffnet."
-description: "Wenn ein Benutzer einen Testversand anzeigt und auf die [!UICONTROL Testversandaktivität] -Registerkarte, gibt die Registerkarte den Benutzer an die [!UICONTROL Testversanddetails] Registerkarte."
+title: '„Korrekturabzüge: Die Registerkarte „Korrekturabzug-Aktivität“ öffnet sich nicht“'
+description: Wenn Benutzende einen Korrekturabzug anzeigen und auf die Registerkarte [!UICONTROL Korrekturabzug-Aktivität] klicken, leitet die Registerkarte die Benutzenden zur Registerkarte [!UICONTROL Korrekturabzug-Details] zurück.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 39c30f12-9170-4545-9b80-c040f138ed2a
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet
+# Korrekturabzüge: Registerkarte [!UICONTROL Korrekturabzug-Aktivität] öffnet sich nicht
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 19. Oktober 2023 behoben.
 
-Wenn ein Benutzer einen Testversand anzeigt und auf die [!UICONTROL Testversandaktivität] -Registerkarte, gibt die Registerkarte den Benutzer an die [!UICONTROL Testversanddetails] Registerkarte.
+Wenn Benutzende einen Korrekturabzug anzeigen und auf die Registerkarte [!UICONTROL Korrekturabzug-Aktivität] klicken, leitet die Registerkarte die Benutzenden zur Registerkarte [!UICONTROL Korrekturabzug-Details] zurück.
 
 **Problemumgehung**
 
-Dokument anzeigen in [!DNL Workfront].
+Zeigen Sie das Dokument in [!DNL Workfront] an.
 
 _Erste Meldung am 1. Juni 2023._

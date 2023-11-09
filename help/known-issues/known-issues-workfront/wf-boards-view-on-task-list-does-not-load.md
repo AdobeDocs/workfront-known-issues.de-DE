@@ -1,22 +1,22 @@
 ---
-title: "Pinnwände: Die Pinnwandansicht im Projektbereich wird nicht geladen"
-description: "Wenn ein Benutzer versucht, die Aufgaben in ein Projekt in einer Pinnwandansicht zu laden, werden die Aufgaben nicht geladen. Die Listenansicht wird erwartungsgemäß geladen."
+title: '„Pinnwände: Pinnwandansicht im Aufgabenbereich des Projekts wird nicht geladen“'
+description: Beim Versuch, die Aufgaben in ein Projekt in einer Pinnwandansicht zu laden, werden die Aufgaben nicht geladen. Die Listenansicht wird erwartungsgemäß geladen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+exl-id: 7247d19d-eaaa-4a37-917b-9769f12eb9a2
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-
-# Pinnwände: Pinnwandansicht in [!UICONTROL Aufgaben] Projektbereich wird nicht geladen
+# Pinnwände: Pinnwandansicht im Bereich [!UICONTROL Aufgaben] des Projekts wird nicht geladen
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 12. Oktober 2023 behoben.
 
-Wenn ein Benutzer versucht, die Aufgaben in ein Projekt in einer Pinnwandansicht zu laden, werden die Aufgaben nicht geladen. Die Listenansicht wird erwartungsgemäß geladen.
+Beim Versuch, die Aufgaben in ein Projekt in einer Pinnwandansicht zu laden, werden die Aufgaben nicht geladen. Die Listenansicht wird erwartungsgemäß geladen.
 
 _Erste Meldung am 10. Oktober 2023._

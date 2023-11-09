@@ -1,13 +1,13 @@
 ---
 title: 'Korrekturabzüge: Korrekturabzug kann nicht generiert werden'
-description: Wenn ein Benutzer versucht, einen Testversand zu erzeugen, wird der Testversand nicht erstellt, und der Benutzer sieht einen Fehler.
+description: Beim Versuch, einen Korrekturabzug zu generieren, wird der Korrekturabzug nicht erstellt und ein Fehler wird angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Beim Versuch, einen Korrekturabzug zu generieren, wird der Korrekturabzug nicht 
 
 &quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
 
-Dies tritt auf, wenn die Zugriffsebene des Benutzers[!UICONTROL  Kontaktinformationen anzeigen] auf Deaktiviert gesetzt ist.
+Dies tritt auf, wenn die Zugriffsebeneneinstellung [!UICONTROL Kontaktinformationen anzeigen] der Benutzerin bzw. des Benutzers auf „Deaktiviert“ gesetzt ist.
 
 **Problemumgehung**
 

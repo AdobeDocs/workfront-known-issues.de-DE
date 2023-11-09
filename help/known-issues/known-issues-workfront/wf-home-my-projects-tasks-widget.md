@@ -1,25 +1,25 @@
 ---
-title: '"Home": Projekte und Aufgaben, die nicht in Home geladen werden'
-description: "Projekte und Aufgaben, die nicht im Home geladen werden"
+title: '„Startseite: Projekte und Aufgaben werden auf der Startseite nicht geladen“'
+description: Projekte und Aufgaben werden auf der Startseite nicht geladen
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 01498e80-af59-44c8-990b-69a6332bb72e
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# Startseite: Projekte und Aufgaben werden nicht in der Startseite geladen
+# Startseite: Projekte und Aufgaben werden auf der Startseite nicht geladen
 
 >[!NOTE]
 >
 >Dieses Problem wurde am 20. Oktober 2023 behoben.
 
-Folgende Verhaltensweisen wurden bezüglich des Ladens von Projekten und Aufgaben in der Startseite gemeldet:
+Folgende Verhaltensweisen wurden bezüglich des Ladens von Projekten und Aufgaben auf der Startseite gemeldet:
 
-* Neues Starterlebnis: Die Widgets Meine Projekte und Meine Aufgaben werden nicht ausgefüllt.
-* Klassisches Starterlebnis: Die Liste der Hausaufgaben wird nicht ausgefüllt.
+* Neues Startseitenerlebnis: Die Widgets „Meine Projekte“ und „Meine Aufgaben“ werden nicht ausgefüllt.
+* Klassisches Startseitenerlebnis: Die Arbeitsliste der Startseite wird nicht ausgefüllt.
 
 _Erste Meldung am 19. Oktober 2023._

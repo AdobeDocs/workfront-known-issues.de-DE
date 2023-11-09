@@ -3,15 +3,19 @@ title: "Pinnwände: Fehler im Kommentarabschnitt einer Karte"
 description: "Wenn ein Benutzer eine Karte auf einer Pinnwand anzeigt, wird die [!UICONTROL Kommentare] -Abschnitt zeigt keine Kommentare an oder lässt dem Benutzer zu, einen Kommentar abzugeben. Stattdessen wird im Abschnitt ein Fehler angezeigt."
 hidefromtoc: true
 feature: Agile
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 
 # Pinnwände: Fehler im Abschnitt &quot;Kommentare&quot;einer Karte
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 2. November 2023 behoben.
 
 Wenn ein Benutzer eine Karte auf einer Pinnwand anzeigt, wird die [!UICONTROL Kommentare] -Abschnitt zeigt keine Kommentare an oder lässt dem Benutzer zu, einen Kommentar abzugeben. Stattdessen wird im Abschnitt der folgende Fehler angezeigt:
 

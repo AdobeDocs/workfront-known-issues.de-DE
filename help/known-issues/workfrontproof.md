@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '380'
 ht-degree: 93%
 
 ---
@@ -40,7 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Testsendungen: Breadcrumb fehlt beim Zugriff auf den Testversand über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 | [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
-| [Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19. Oktober 2023 |
+| [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19. Oktober 2023 |
 
 {style="table-layout:auto"}
@@ -77,3 +77,4 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5. März 2021 |
 
 {style="table-layout:auto"}
+

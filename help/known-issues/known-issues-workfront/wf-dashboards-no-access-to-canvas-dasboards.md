@@ -3,15 +3,19 @@ title: '„Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-
 description: „Wenn eine Person, die Zugriff auf ein [!UICONTROL Arbeitsflächen-Dashboard] haben sollte, auf das [!UICONTROL Arbeitsflächen-Dashboard] zuzugreifen versucht, wird das Dashboard nicht geladen und eine Nachricht angezeigt.“
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-Dashboards] zugreifen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 7. November 2023 behoben.
 
 Wenn eine Person, die Zugriff auf ein [!UICONTROL Arbeitsflächen-Dashboard] haben sollte, auf das [!UICONTROL Arbeitsflächen-Dashboard] zuzugreifen versucht, wird das Dashboard nicht geladen und die folgende Nachricht angezeigt:
 

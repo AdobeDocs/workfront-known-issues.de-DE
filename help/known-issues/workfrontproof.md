@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Workfront-Testversand]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
+| [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Startseite: Genehmigung hängt an [!UICONTROL Erwartung der Genehmigung] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3. November 2023 |
 | [Testsendungen: Probleme mit der Aktivierung einer Stufe](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3. November 2023 |
 | [Testsendungen: Breadcrumb fehlt beim Zugriff auf den Testversand über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
-| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in [!UICONTROL Testzusammenfassung]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
+| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
 | [Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19. Oktober 2023 |
 | [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |

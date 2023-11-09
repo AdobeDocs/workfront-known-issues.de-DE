@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
 source-wordcount: '6904'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Beim Versuch, einen Korrekturabzug zu generieren, wird der Korrekturabzug nicht 
 
 &quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
 
-Dies tritt auf, wenn die Zugriffsebene des Benutzers[!UICONTROL  Kontaktinformationen anzeigen] auf Deaktiviert gesetzt ist.
+Dies tritt auf, wenn die Zugriffsebeneneinstellung [!UICONTROL Kontaktinformationen anzeigen] der Benutzerin bzw. des Benutzers auf „Deaktiviert“ gesetzt ist.
 
 **Felder werden beim Hinzufügen eines Dokuments zu einer Anforderung gelöscht**
 
@@ -66,13 +66,13 @@ Wenn ein Benutzer Aufgaben in einer Vorlage erstellt und diese Aufgaben dann in 
 
 +++**Wartungs-Update vom 2. November 2023**
 
-**Private Aktualisierungen werden in Werteausdrucksfeldern angezeigt**
+**Private Aktualisierungen werden in den Feldern „valueexpression“ angezeigt**
 
 _Berichte_
 
 Wenn ein Berichtsfeld eine „valueexpression“ enthält, die auf eine private Aktualisierung verweist, können auch Benutzende, die nicht Teil der privaten Aktualisierung sind, diese im Bericht sehen.
 
-**Benutzer wird aufgrund ungenauer Kapazität als überzugeordnet angezeigt**
+**Die Benutzerin bzw der Benutzer wird aufgrund ungenauer Kapazität als überlastet angezeigt**
 
 _Workload Balancer_
 
@@ -90,17 +90,17 @@ Wird der Datumsbereich geändert, ist die Zuordnung korrekt. Nach dem Aktualisie
 
 _Pinnwände_
 
-Wenn ein Benutzer versucht, Pinnwände zu durchsuchen, gibt die Suche nicht alle Karten zurück, die die Suchkriterien erfüllen.
+Beim Versuch, Pinnwände zu durchsuchen, zeigt die Suche nicht alle Karten an, die die Suchkriterien erfüllen.
 
-**Interaktiver Testversand kann im Web Viewer nicht angezeigt werden**
+**Interaktiver Testversand kann im Web-Viewer nicht angezeigt werden**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer versucht, einen Testversand in der Web-Testversand-Ansicht anzuzeigen, wird der Testversand nicht angezeigt und der Benutzer sieht den folgenden Fehler:
+Beim Versuch, einen Korrekturabzug im Web-Testversand-Viewer anzuzeigen, wird der Korrekturabzug nicht angezeigt, sondern der folgende Fehler:
 
-&quot;[!UICONTROL Fehlender Schlüssel-Paar-ID-Abfrageparameter oder -Cookie-Wert]&quot;
+„[!UICONTROL Fehlender Schlüssel-Paar-ID-Abfrageparameter oder -Cookie-Wert]“
 
-**Neue Testversion kann nicht erstellt werden**
+**Es kann keine neue Version eines Korrekturabzugs erstellt werden**
 
 _Korrekturabzüge_
 
@@ -108,19 +108,19 @@ Beim Versuch, eine neue Version eines Korrekturabzugs zu erstellen, wird die neu
 
 &quot;[!UICONTROL Fehler beim Generieren des Korrekturabzugs]&quot;
 
-**Benutzer wird bei der Freigabe einer Anforderung dupliziert**
+**Benutzerin oder Benutzer wird bei der Freigabe einer Anforderung dupliziert**
 
 _Anfragen_
 
-Wenn bei der Freigabe einer Anfrage die Zugriffsebene eines Benutzers geändert wird, für den die Anfrage freigegeben wird, wird der Benutzer direkt über diesem Benutzer in der Liste zu diesem Benutzer.
+Wenn bei der Freigabe einer Anfrage die Zugriffsebene einer Benutzerin oder eines Benutzers geändert wird, für die bzw. den die Anfrage freigegeben wird, wird die Person direkt über ihr in der Liste zu dieser Person gemacht.
 
-Wenn die Anforderung beispielsweise für Benutzer A und Benutzer B freigegeben wird und der Zugriff von Benutzer B geändert wird, wird Benutzer A zu Benutzer B geändert, und jetzt sind zwei Benutzer-Bs in der Liste enthalten. Darüber hinaus wurde nur der Zugriff des obersten Benutzers B geändert.
+Wenn die Anfrage beispielsweise für Person A und Person B freigegeben wird und der Zugriff von Person B geändert wird, wird Person A zu Person B geändert, und nun ist Person B zweimal in der Liste enthalten. Darüber hinaus wurde nur der Zugriff von Person B geändert.
 
-**&quot;[!UICONTROL Hopfen]&quot; error in task header**
+**„[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile**
 
 _Aufgaben_
 
-Wenn ein Benutzer eine Aufgabe anzeigt, enthält die Aufgabenüberschrift keine Informationen. Stattdessen wird dem Benutzer die folgende Fehlermeldung angezeigt:
+Wenn Benutzende eine Aufgabe anzeigen, enthält die Kopfzeile der Aufgabe keine Informationen. Stattdessen wird die folgende Fehlermeldung angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
@@ -128,13 +128,13 @@ Wenn ein Benutzer eine Aufgabe anzeigt, enthält die Aufgabenüberschrift keine 
 
 +++**Wartungs-Update vom 19. Oktober 2023**
 
-Benutzer werden nicht über Antworten auf Kommentar-Threads informiert
+Benutzende werden nicht über Antworten auf einen Kommentar-Thread benachrichtigt
 
 _Benachrichtigungen_
 
-Wenn ein Benutzer auf einen Kommentar antwortet, erhalten andere Benutzer, die Benachrichtigungen für die Antwort erhalten sollen, diese nicht. Einige Benutzer erhalten die Benachrichtigung möglicherweise, andere nicht.
+Wenn Benutzende auf einen Kommentar antworten, erhalten andere Benutzende, die Benachrichtigungen für die Antwort erhalten sollen, diese nicht. Einige Benutzende erhalten die Benachrichtigung möglicherweise, andere nicht.
 
-**Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Testversand**
+**Zusätzlicher, leerer Kommentar bei Kommentaren zu einem Korrekturabzug**
 
 _Korrekturabzüge_
 
@@ -142,33 +142,33 @@ Wenn Benutzende einen Kommentar zu einem Korrekturabzug abgeben, erzeugt der Kor
 
 Dies wurde für Video-Korrekturabzüge berichtet.
 
-**[!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet**
+Registerkarte **[!UICONTROL Aktivität von Korrekturabzügen] öffnet sich nicht**
 
 _Korrekturabzüge_
 
-Wenn ein Benutzer einen Testversand anzeigt und auf die [!UICONTROL Testversandaktivität] -Registerkarte, gibt die Registerkarte den Benutzer an die [!UICONTROL Testversanddetails] Registerkarte.
+Wenn Benutzende einen Korrekturabzug anzeigen und auf die Registerkarte [!UICONTROL Korrekturabzug-Aktivität] klicken, leitet die Registerkarte die Benutzenden zur Registerkarte [!UICONTROL Korrekturabzug-Details] zurück.
 
-**[!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird**
+**[!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn eine zusätzliche Person einer Aufgabe zugewiesen wird**
 
 _Aufgaben_
 
-Wenn ein Benutzer einer Aufgabe zugewiesen ist, die [!UICONTROL Geplante Stunden] anderen Bevollmächtigten für die Aufgabe zugewiesen wurde, [!UICONTROL Geplante Stunden] sind gleichmäßig auf alle Verantwortlichen der Aufgabe verteilt.
+Wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen wird, die [!UICONTROL geplante Stunden] hat, die anderen der Aufgabe zugeteilten Personen zugewiesen sind, werden die [!UICONTROL geplanten Stunden] der Aufgabe gleichmäßig auf alle der Aufgabe zugewiesenen Personen verteilt.
 
-**&quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird**
+**In den Systemaktualisierungen wird „[!UICONTROL Gelöscht]“ als Name der Person angezeigt, wenn das Problem in eine Aufgabe umgewandelt wird**
 
 _Updates_
 
-Wenn ein Benutzer, der als ein anderer Benutzer angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen &quot;[!UICONTROL Gelöscht]&quot; als Benutzer, der angefordert hat, dass das Team an der Aufgabe arbeitet.
+Wenn eine Person, die als eine andere Person angemeldet ist, ein Problem in eine Aufgabe konvertiert und das Problem einem Team zugewiesen wird, zeigen die Systemaktualisierungen als die Person, die angefordert hat, dass das Team an der Aufgabe arbeitet, „[!UICONTROL Gelöscht]“ an.
 
 +++
 
 +++**Wartungs-Update vom 12. Oktober 2023**
 
-**Workflows wurden für Konten entfernt, die sie nicht verwenden**
+**Arbeitsabläufe wurden für Konten entfernt, die sie nicht verwenden**
 
 _Pinnwände_
 
-Bei Konten, die noch nie einen Workstream in der Anwendung Foren erstellt haben, wurde der Bereich Workflows aus dem Dashboard der Foren entfernt. Konten, die Workflows verwenden, haben weiterhin Zugriff darauf.
+Bei Konten, die noch nie einen Arbeitsablauf in der Anwendung „Pinnwände“ erstellt haben, wurde der Bereich „Arbeitsabläufe“ aus dem Pinnwand-Dashboard entfernt. Konten, die Arbeitsabläufe verwenden, haben weiterhin Zugriff darauf.
 
 **Berechnete Felder behalten den Wert nicht, wenn ein Problem in eine Aufgabe konvertiert wird**
 

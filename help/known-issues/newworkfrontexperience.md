@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 77%
+ht-degree: 86%
 
 ---
 
@@ -29,8 +29,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Anforderungen: Felder werden gelöscht, wenn ein Dokument zu einer Anforderung hinzugefügt wird](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3. November 2023 |
 | [Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1. November 2023 |
 | [Pinnwände: Fehler im Abschnitt &quot;Kommentare&quot;einer Karte](known-issues-workfront/wf-boards-comment-section-error.md) | 1. November 2023 |
-| [[!UICONTROL Workfront-Testversand]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
-| [Workfront Fusion: Duplizieren von Projekten, die aus einem Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24. Oktober 2023 |
+| [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
+| [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24. Oktober 2023 |
 | [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
 
 {style="table-layout:auto"}
@@ -47,17 +47,17 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Testsendungen: Probleme mit der Aktivierung einer Stufe](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3. November 2023 |
 | [Testsendungen: Breadcrumb fehlt beim Zugriff auf den Testversand über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 | [Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2. November 2023 |
-| [Anforderungen: Auf der Seite &quot;Neue Anforderung&quot;wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md) | 30. Oktober 2023 |
-| [Berichte: Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30. Oktober 2023 |
-| [Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30. Oktober 2023 |
-| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in [!UICONTROL Testzusammenfassung]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
+| [Anfragen: Auf der Seite „Neue Anfrage“ wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md) | 30. Oktober 2023 |
+| [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30. Oktober 2023 |
+| [Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) zugreifen | 30. Oktober 2023 |
+| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
-| [Pinnwände: Erwartete Karten werden nicht an Bord angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26. Oktober 2023 |
-| [Aufgaben: &quot;[!UICONTROL Hopfen]&quot; error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25. Oktober 2023 |
+| [Pinnwände: Erwartete Karten werden nicht auf Pinnwand angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26. Oktober 2023 |
+| [Aufgaben: „[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25. Oktober 2023 |
 | [Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19. Oktober 2023 |
 | [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
 | [Korrekturabzüge: Es kann keine neue Version eines Korrekturabzugs erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19. Oktober 2023 |
-| [Anmelden: Die Anmeldeseite wird zur Landingpage für die Abmeldung weitergeleitet.](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18. Oktober 2023 |
+| [Anmelden: Die Anmeldeseite leitet zur Landingpage für die Abmeldung weiter](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18. Oktober 2023 |
 | [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe der [!UICONTROL geplanten Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12. Oktober 2023 |
 | [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10. Oktober 2023 |
 | [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Arbeitsliste der Startseite angezeigt](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3. Oktober 2023 |

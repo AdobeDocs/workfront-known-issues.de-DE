@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '1612'
-ht-degree: 81%
+ht-degree: 92%
 
 ---
 
@@ -29,24 +29,24 @@ ht-degree: 81%
       + [Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Pinnwände: Fehler im Abschnitt &quot;Kommentare&quot;einer Karte](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL Lastenausgleich]: [!UICONTROL Lastenausgleich] langsam](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [Anforderungen: Auf der Seite &quot;Neue Anforderung&quot;wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md)
-      + [Berichte: Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [Dashboards: Benutzer können nicht darauf zugreifen [!UICONTROL Arbeitsfläche-Dashboards]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [Aufgaben: &quot;[!UICONTROL Hopfen]&quot; error in task header](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
-      + [Anmeldung: Fehlermeldung bei Anmeldung](known-issues-workfront/wf-login-error-when-logging-in.md)
+      + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] lädt langsam](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [Anfragen: Auf der Seite „Neue Anfrage“ wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [Dashboards: Benutzende können nicht auf [!UICONTROL Arbeitsflächen-Dashboards] zugreifen](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [Aufgaben: „[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [Anmeldung: Fehlermeldung beim Anmelden](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md)
-      + [Pinnwände: Erwartete Karten werden nicht an Bord angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [Startseite: Projekte und Aufgaben werden nicht in der Startseite geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
-      + [Dokumente: Schaltfläche &quot;Freigeben&quot;funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [Dokumente: &quot;[!UICONTROL Senden an]&quot;-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [Aktualisierungen: &quot;[!UICONTROL Gelöscht]&quot; wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [Anmelden: Die Anmeldeseite wird zur Landingpage für die Abmeldung weitergeleitet.](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [Benachrichtigungen: Benutzer werden nicht über Antworten auf einen Kommentar-Thread informiert](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [Pinnwände: Erwartete Karten werden nicht auf Pinnwand angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Startseite: Projekte und Aufgaben werden auf der Startseite nicht geladen](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [Dokumente: Schaltfläche „Freigeben“ funktioniert nicht](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [Dokumente: „[!UICONTROL Senden an]“-Option löst leere Seite und Fehlermeldung aus](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [Aktualisierungen: „[!UICONTROL Gelöscht]“ wird in Systemaktualisierungen als Benutzername angezeigt, wenn ein Problem in eine Aufgabe konvertiert wird](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [Anmelden: Die Anmeldeseite leitet zur Landingpage für die Abmeldung weiter](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [Benachrichtigungen: Benutzende werden nicht über Antworten auf einen Kommentar-Thread benachrichtigt](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]: Branding wird nicht angewendet](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [Pinnwände: Pinnwandansicht in [!UICONTROL Aufgaben] Projektbereich wird nicht geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [Testsendungen [!UICONTROL Testversandaktivität] Registerkarte nicht geöffnet](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn ein zusätzlicher Benutzer einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [Pinnwände: Pinnwandansicht im Bereich [!UICONTROL Aufgaben] des Projekts wird nicht geladen](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet sich nicht](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [Aufgaben: [!UICONTROL Geplante Stunden] werden neu zugewiesen, wenn eine zusätzliche Person einer Aufgabe zugewiesen wird](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -176,8 +176,8 @@ ht-degree: 81%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in [!UICONTROL Testzusammenfassung]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront-Testversand]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront-Korrekturabzug: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
@@ -203,7 +203,7 @@ ht-degree: 81%
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Fehler bei geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
-      + [Workfront Fusion: Duplizieren von Projekten, die aus einem Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: Fehler beim Senden einer Einladung mit  [!DNL Workfront]  > [!UICONTROL Verschiedene Aktionen]-Modul](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: Szenario schlägt fehl mit Fehler „[!UICONTROL ECONNRESET lesen]“](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)

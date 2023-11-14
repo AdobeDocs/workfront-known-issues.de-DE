@@ -1,19 +1,19 @@
 ---
-title: "Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder Workfront Fusion erstellt wurden"
-description: "Wenn ein Benutzer einen Kommentar über die API oder über Workfront Fusion sendet, werden im Bereich Updates zusätzliche Zeilen angezeigt. Manchmal gibt es so viele Zeilen, dass der Benutzer nach unten scrollen muss, um den Kommentarinhalt anzuzeigen."
+title: '„Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder Workfront Fusion erstellt wurden“'
+description: „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar über die API oder über Workfront Fusion sendet, werden im Bereich „Aktualisierungen“ zusätzliche Zeilen angezeigt. Manchmal sind so viele Zeilen vorhanden, dass nach unten gescrollt werden muss, um den Kommentarinhalt anzuzeigen.“
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 1854e4a003722f1398c703dfba7bc23ef534f81f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder [!DNL Workfront Fusion]
+# Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder [!DNL Workfront Fusion] erstellt wurden
 
-Wenn ein Benutzer einen Kommentar über die API oder über [!DNL Workfront Fusion], werden im Bereich Updates zusätzliche Zeilen angezeigt. Manchmal gibt es so viele Zeilen, dass der Benutzer nach unten scrollen muss, um den Kommentarinhalt anzuzeigen.
+Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar über die API oder über [!DNL Workfront Fusion] eingibt, werden im Bereich „Aktualisierungen“ zusätzliche Zeilen angezeigt. Manchmal sind so viele Zeilen vorhanden, dass nach unten gescrollt werden muss, um den Kommentarinhalt anzuzeigen.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 

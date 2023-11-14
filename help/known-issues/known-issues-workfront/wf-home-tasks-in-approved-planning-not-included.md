@@ -1,30 +1,30 @@
 ---
-title: '"Startseite: Aufgaben in Projekten mit dem Status "Genehmigt"oder "Planung"sind nicht in der Liste "Meine Aufgaben"oder "Hausarbeit"enthalten.'
-description: "Aufgaben aus Projekten mit dem Status Genehmigt oder Planung werden nicht auf der Startseite angezeigt. Eine Problemumgehung ist verfügbar."
+title: '„Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite verfügbar“'
+description: „Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht auf der Startseite angezeigt. Eine Problemumgehung ist verfügbar.“
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Startseite: Aufgaben in Projekten mit dem Status &quot;Genehmigt&quot;oder &quot;Planung&quot;sind nicht in der Liste &quot;Meine Aufgaben&quot;oder &quot;Hausarbeit&quot;enthalten
+# Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten.
 
-Aufgaben aus Projekten mit dem Status Genehmigt oder Planung werden in den folgenden Bereichen nicht angezeigt:
+Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht in den folgenden Bereichen angezeigt.
 
 * Klassische Startseite: Arbeitsliste
-* Neue Startseite: Widget &quot;My Tasks&quot;
+* Neue Startseite: Widget „Meine Aufgaben“
 
-Dies liegt daran, dass Aufgaben aus Projekten mit diesem Status derzeit in der Elementabfragebegrenzung von 2000 enthalten sind, aber nicht in My Tasks oder der Home Work List angezeigt werden. Dies kann dazu führen, dass Benutzer mit weniger als 2000 Aufgaben diese Aufgaben nicht sehen können.
+Dies liegt daran, dass Aufgaben aus Projekten mit diesem Status derzeit in der Abfragebegrenzung von 2000 Elementen enthalten sind, aber nicht in „Meine Aufgaben“ oder der Arbeitsliste der Startseite angezeigt werden. Dies kann dazu führen, dass Benutzende mit weniger als 2000 Aufgaben diese Aufgaben nicht sehen können.
 
 **Problemumgehung**
 
 Erstellen Sie einen benutzerspezifischen Zuweisungsbericht, der die folgenden Textmodusfilter enthält:
 
-Wenn die Zuweisung AWARITING_ACCEPTANCE lautet, schließen Sie die Projekte CURRENT|APPROVED ein:
+Wenn die Zuweisung den Status AWAITING_ACCEPTANCE hat, schließen Sie Projekte mit dem Status CURRENT|APPROVED ein:
 
 ```
 assignedToID=$$USER.ID
@@ -36,7 +36,7 @@ task:statusEquatesWith=CPL
 task:statusEquatesWith_Mod=ne
 ```
 
-Wenn die Zuweisung AKZEPTIERT ist, schließen Sie CURRENT|APPROVED|PLANING -Projekte ein:
+Wenn die Zuweisung den Status ACCEPTED hat, schließen Sie Projekte mit dem Status CURRENT|APPROVED|PLANNING ein:
 
 ```
 OR:1:assignedToID=$$USER.ID

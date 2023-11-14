@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
-ht-degree: 97%
+source-wordcount: '7087'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,32 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2023
+
++++**(Geplantes) Wartungs-Update vom 16. November 2023**
+
+**Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein**
+
+_Berichte_
+
+Wenn jemand für ein bestimmtes Projekt einen API-Aufruf an das RPBGHR-Objekt sendet und die Ergebnisse dieses Aufrufs mit dem Nutzungsbericht für dieses Projekt vergleicht, stimmen die Ergebnisse nicht überein.
+
+**Falsche benutzerdefinierte Währung auf der Seite &quot;Neue Anforderung&quot;angezeigt**
+
+_Anfragen_
+
+Wenn jemand eine Anfrage sendet und eine Auswahl trifft, die die Anzeigelogik im Anfrageformular ändert, wird die angezeigte Währung wieder in die Standardwährung zurückgesetzt und nicht in die benutzerdefinierte Währung, die für das Projekt festgelegt ist und für das die Anfrage-Warteschlange steht.
+
+Wenn die Anfrage gesendet wird, wird die Währung als die richtige benutzerdefinierte Währung für das Projekt angezeigt, für das die Anfrage-Warteschlange steht
+
+**Zusätzliche Zeilen mit Kommentaren, die über API oder[!DNL Workfront Fusion]**
+
+_Updates_
+
+Wenn ein Benutzer einen Kommentar über die API oder über [!DNL Workfront Fusion], werden im Bereich Updates zusätzliche Zeilen angezeigt. Manchmal gibt es so viele Zeilen, dass der Benutzer nach unten scrollen muss, um den Kommentarinhalt anzuzeigen.
+
+Dies wurde für die neue Kommentarerfahrung berichtet.
+
++++
 
 +++**Wartungs-Update vom 9. November 2023**
 

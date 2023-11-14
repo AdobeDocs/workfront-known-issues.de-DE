@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
 source-wordcount: '7087'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Wenn die Anfrage gesendet wird, wird die Währung als die richtige benutzerdefin
 
 _Updates_
 
-Wenn ein Benutzer einen Kommentar über die API oder über [!DNL Workfront Fusion], werden im Bereich Updates zusätzliche Zeilen angezeigt. Manchmal gibt es so viele Zeilen, dass der Benutzer nach unten scrollen muss, um den Kommentarinhalt anzuzeigen.
+Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar über die API oder über [!DNL Workfront Fusion] eingibt, werden im Bereich „Aktualisierungen“ zusätzliche Zeilen angezeigt. Manchmal sind so viele Zeilen vorhanden, dass nach unten gescrollt werden muss, um den Kommentarinhalt anzuzeigen.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 
@@ -50,13 +50,13 @@ Dies wurde für die neue Kommentarerfahrung berichtet.
 
 +++**Wartungs-Update vom 9. November 2023**
 
-**In meinem Widget &quot;Arbeit&quot;fehlen Objekte, wenn sie sich nicht oben auf der Seite befinden**
+**Im Widget „Meine Arbeit“ fehlen Objekte, wenn es sich nicht oben auf der Seite befindet**
 
 _Startseite_
 
-Wenn sich das Widget &quot;Meine Arbeit&quot;oben auf der neuen Startseite befindet, werden alle erwarteten Objekte abgerufen. Wenn dieses Widget jedoch unter anderen Widgets auf der Seite liegt, werden nur 10 Objekte abgerufen.
+Wenn sich das Widget „Meine Arbeit“ oben auf der neuen Startseite befindet, werden alle erwarteten Objekte abgerufen. Wenn sich dieses Widget jedoch unter anderen Widgets auf der Seite befindet, werden nur 10 Objekte abgerufen.
 
-**Testversand nicht möglich**
+**Korrekturabzug kann nicht erstellt werden**
 
 _Korrekturabzüge_
 
@@ -66,13 +66,13 @@ Beim Versuch, einen Korrekturabzug zu generieren, wird der Korrekturabzug nicht 
 
 Dies tritt auf, wenn die Zugriffsebeneneinstellung [!UICONTROL Kontaktinformationen anzeigen] der Benutzerin bzw. des Benutzers auf „Deaktiviert“ gesetzt ist.
 
-**Felder werden beim Hinzufügen eines Dokuments zu einer Anforderung gelöscht**
+**Felder werden gelöscht, wenn ein Dokument zu einer Anfrage hinzugefügt wird**
 
 _Anfragen_
 
-Wenn ein Benutzer eine Anforderung erstellt, Felder in einem Formular ausfüllt und dann ein Dokument hinzufügt oder entfernt, werden einige Felder im Formular aus den Daten gelöscht, und der Benutzer muss sie vor dem Senden der Anforderung erneut ausfüllen.
+Wenn jemand eine Anfrage erstellt, Felder in einem Formular ausfüllt und dann ein Dokument hinzufügt oder entfernt, werden einige Felder im Formular aus den Daten gelöscht und müssen erneut ausgefüllt werden, bevor die Anfrage gesendet wird
 
-**Persönliche Aufgaben werden auf dem Timesheet angezeigt**
+**Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt**
 
 _Arbeitszeittabellen_
 
@@ -86,7 +86,7 @@ Wenn ein Benutzer oder eine Benutzerin eine Aufgabe im [!UICONTROL Todo]-Widget 
 
 _Vorlagen_
 
-Wenn ein Benutzer Aufgaben in einer Vorlage erstellt und diese Aufgaben dann in eine übergeordnete Aufgabe verschiebt, werden die den untergeordneten Aufgaben zugewiesenen Zahlen nicht in der erwarteten Reihenfolge angezeigt. Wenn die Seite aktualisiert wird, werden die untergeordneten Aufgaben daher nach den unerwarteten Aufgabennummern sortiert, und die untergeordneten Aufgaben sind daher nicht in der Reihenfolge.
+Wenn eine Benutzerin bzw. ein Benutzer Aufgaben in einer Vorlage erstellt und diese Aufgaben dann unter eine übergeordnete Aufgabe verschiebt, werden die den untergeordneten Aufgaben zugewiesenen Zahlen nicht in der erwarteten Reihenfolge angezeigt. Wenn die Seite aktualisiert wird, werden die untergeordneten Aufgaben nach den unerwarteten Aufgabennummern sortiert, und die untergeordneten Aufgaben sind daher nicht in der richtigen Reihenfolge.
 
 +++
 
@@ -947,7 +947,7 @@ _Pinnwände_
 
 Wenn jemand eine Pinnwand mit angewendeter Gruppierung anzeigt und versucht, eine Karte hinzuzufügen, lässt sich nur der Name der Karte eingeben. Die übrigen Kartenfelder sind deaktiviert, einschließlich der Schaltfläche [!UICONTROL Speichern].
 
-Auch wWenn die Person die Gruppierung in [!UICONTROL Keine] ändert, bleibt das Problem bestehen. Es muss die Gruppierung in [!UICONTROL Keine] geändert und außerdem die Seite aktualisiert werden, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
+Auch Wenn die Person die Gruppierung in [!UICONTROL Keine] ändert, bleibt das Problem bestehen. Es muss die Gruppierung in [!UICONTROL Keine] geändert und außerdem die Seite aktualisiert werden, um die Möglichkeit zum Hinzufügen einer Karte wiederherzustellen.
 
 **Verbundene Karten werden nicht nach Status zu Spalten hinzugefügt**
 

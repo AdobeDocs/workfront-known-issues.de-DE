@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 91%
       + [[!UICONTROL Startseite]: Aufgaben werden nicht in [!UICONTROL Meine Arbeit] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Aufgaben: Aufgabendaten wurden bei der Neuberechnung der Zeitleiste für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Foren: Tag-Farbe kann nicht bearbeitet werden](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md)
+      + [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn die Benutzerin bzw. der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md)
       + [Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [Dashboard: Große leere Spanne beim Drucken des Dashboards auf PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [Startseite: Aufgaben in Projekten mit dem Status &quot;Genehmigt&quot;oder &quot;Planung&quot;sind nicht in der Liste &quot;Meine Aufgaben&quot;oder &quot;Hausarbeit&quot;enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [Vorlagen: Untergeordnete Aufgaben werden beim Verschieben unter die übergeordnete Aufgabe nicht in der Reihenfolge angezeigt](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [Startseite: Genehmigung hängt an [!UICONTROL Erwartung der Genehmigung] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
-      + [Testsendungen: Probleme mit der Aktivierung einer Stufe](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [Testsendungen: Breadcrumb fehlt beim Zugriff auf den Testversand über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [Anforderungen: Felder werden gelöscht, wenn ein Dokument zu einer Anforderung hinzugefügt wird](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [Vorlagen: Untergeordnete Aufgaben werden beim Verschieben unter die übergeordnete Aufgabe nicht in der richtigen Reihenfolge angezeigt](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Korrekturabzüge: Probleme mit der Aktivierung einer Phase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Anfragen: Felder werden gelöscht, wenn ein Dokument zu einer Anfrage hinzugefügt wird](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [Aktualisierungen: Zusätzliche Zeilen in Kommentaren, die über API oder  [!DNL Workfront Fusion] erstellt wurden](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
-      + [Pinnwände: Fehler im Abschnitt &quot;Kommentare&quot;einer Karte](known-issues-workfront/wf-boards-comment-section-error.md)
+      + [Pinnwände: Fehler im Kommentarabschnitt einer Karte](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Workload Balancer] lädt langsam](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Anfragen: Auf der Seite „Neue Anfrage“ wird eine falsche benutzerdefinierte Währung angezeigt](known-issues-workfront/wf-requests-custom-currency.md)
       + [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
@@ -58,7 +58,7 @@ ht-degree: 91%
       + [Workload-Balancer: Manuelle Stundenänderungen nach der Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Arbeitsliste der Startseite angezeigt](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war.](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [Anmeldung: Beim Zurücksetzen des Kennworts wird ein Fehler angezeigt, obwohl die Aktion erfolgreich war](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Pinnwände: Die Pinnwand wird langsam geladen](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Pinnwände: Karten können nicht verschoben werden](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Pinnwände: Karten zeigen nicht die korrekte Anzahl der Checklisten-Elemente an](known-issues-workfront/wf-boards-checklist-item-count.md)
@@ -205,7 +205,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Fehler bei geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: Fehler beim Senden einer Einladung mit  [!DNL Workfront]  > [!UICONTROL Verschiedene Aktionen]-Modul](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: Schlafmodul verursacht Hängen in Szenarien](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)

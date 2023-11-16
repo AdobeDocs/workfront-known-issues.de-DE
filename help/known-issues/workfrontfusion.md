@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9. November 2023 |
+| Keine |  |
 
 {style="table-layout:auto"}
 
@@ -46,6 +46,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16. November 2023 |
 | [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24. Oktober 2023 |
 | [[!DNL Workfront Proof]: 500-Fehler bei Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25. Mai 2023 |
 | [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29. September 2022 |

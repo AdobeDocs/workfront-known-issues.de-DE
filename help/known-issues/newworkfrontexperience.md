@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '778'
 ht-degree: 96%
 
 ---
@@ -28,7 +28,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [[!UICONTROL Startseite]: Aufgaben werden nicht in [!UICONTROL Meine Arbeit] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13. November 2023 |
 | [Foren: Tag-Farbe kann nicht bearbeitet werden](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10. November 2023 |
 | [Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8. November 2023 |
-| [Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1. November 2023 |
 | [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
 | [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
 
@@ -46,9 +45,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3. November 2023 |
 | [Korrekturabzüge: Probleme mit der Aktivierung einer Phase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3. November 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
-| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
-| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
-| [Pinnwände: Erwartete Karten werden nicht auf Pinnwand angezeigt](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26. Oktober 2023 |
 | [Aufgaben: „[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25. Oktober 2023 |
 | [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
 | [Korrekturabzüge: Es kann keine neue Version eines Korrekturabzugs erstellt werden](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19. Oktober 2023 |
@@ -65,6 +61,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9. November 2023 |
 | [Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7. November 2023 |
 | [[!UICONTROL Startseite]: [!UICONTROL Anfrage]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md) | 26. Oktober 2023 |

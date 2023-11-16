@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '374'
 ht-degree: 100%
 
 ---
@@ -38,10 +38,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3. November 2023 |
 | [Korrekturabzüge: Probleme mit der Aktivierung einer Phase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3. November 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
-| [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27. Oktober 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
 | [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
-| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19. Oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -51,6 +49,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |
 | [Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |
 | [Workfront-Korrekturabzug: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19. September 2023 |

@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '7087'
+source-wordcount: '7086'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im November 2023
 
-+++**(Geplantes) Wartungs-Update vom 16. November 2023**
++++**Wartungs-Update vom 16. November 2023**
 
 **Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein**
 
@@ -48,7 +48,7 @@ Dies wurde für die neue Kommentarerfahrung berichtet.
 
 +++
 
-+++**Wartungs-Update vom 9. November 2023**
+    +++**Wartungs-Update vom 9. November 2023**
 
 **Im Widget „Meine Arbeit“ fehlen Objekte, wenn es sich nicht oben auf der Seite befindet**
 

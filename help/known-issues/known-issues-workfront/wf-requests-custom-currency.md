@@ -3,15 +3,19 @@ title: '„Anfragen: Auf der Seite „Neue Anfrage“ wird eine falsche benutzer
 description: „Wenn jemand eine Anfrage sendet und eine Auswahl trifft, die die Anzeigelogik im Anfrageformular ändert, wird die angezeigte Währung wieder in die Standardwährung zurückgesetzt und nicht in die benutzerdefinierte Währung, die für das Projekt festgelegt ist und für das die Anfrage-Warteschlange steht.“
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 
 # Anfragen: Auf der Seite „Neue Anfrage“ wird eine falsche benutzerdefinierte Währung angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 16. November 2023 behoben.
 
 Wenn jemand eine Anfrage sendet und eine Auswahl trifft, die die Anzeigelogik im Anfrageformular ändert, wird die angezeigte Währung wieder in die Standardwährung zurückgesetzt und nicht in die benutzerdefinierte Währung, die für das Projekt festgelegt ist und für das die Anfrage-Warteschlange steht.
 

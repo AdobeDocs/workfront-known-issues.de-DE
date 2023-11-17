@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
-source-wordcount: '1637'
+source-wordcount: '1644'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Vorlagen: Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoriten] Liste](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Startseite]: Aufgaben werden nicht in [!UICONTROL Meine Arbeit] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Aufgaben: Aufgabendaten wurden bei der Neuberechnung der Zeitleiste für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Foren: Tag-Farbe kann nicht bearbeitet werden](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)

@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1650'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Vorlagen: Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoriten] Liste](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Aufgaben: Aufgabendaten sind bei der Neuberechnung einer Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
+source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 99%
+source-wordcount: '793'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20. November 2023 |
 | [Aufgaben: Aufgabendaten sind bei Neuberechnung der Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10. November 2023 |
 | [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn die Benutzerin bzw. der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md) | 8. November 2023 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6. November 2023 |

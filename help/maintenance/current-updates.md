@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom 16. November 2023**
 
-**Die im Nutzungsbericht veranschlagten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein**
+**Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein**
 
 _Berichte_
 
 Wenn jemand für ein bestimmtes Projekt einen API-Aufruf an das RPBGHR-Objekt sendet und die Ergebnisse dieses Aufrufs mit dem Nutzungsbericht für dieses Projekt vergleicht, stimmen die Ergebnisse nicht überein.
 
-**Falsche benutzerdefinierte Währung auf der Seite &quot;Neue Anforderung&quot;angezeigt**
+**Auf der Seite „Neue Anfrage“ wird eine falsche benutzerdefinierte Währung angezeigt**
 
 _Anfragen_
 
@@ -38,7 +38,7 @@ Wenn jemand eine Anfrage sendet und eine Auswahl trifft, die die Anzeigelogik im
 
 Wenn die Anfrage gesendet wird, wird die Währung als die richtige benutzerdefinierte Währung für das Projekt angezeigt, für das die Anfrage-Warteschlange steht
 
-**Zusätzliche Zeilen mit Kommentaren, die über API oder[!DNL Workfront Fusion]**
+**Zusätzliche Zeilen in Kommentaren, die über API oder[!DNL Workfront Fusion]** erstellt wurden 
 
 _Updates_
 

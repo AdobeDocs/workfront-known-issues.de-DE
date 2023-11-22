@@ -4,7 +4,7 @@ description: „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar zu einer 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert.
+>Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
 Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar zu einer Systemaktion (z. B. einer Statusänderung) abgibt, wird dieser Kommentar nicht im Bereich „Aktualisierungen“ angezeigt.
 

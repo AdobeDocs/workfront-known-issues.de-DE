@@ -20,7 +20,7 @@ ht-degree: 98%
       + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Pinnwände: Die Karte wird bei mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md)
-      + [Vorlagen: Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoriten] Liste](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Aufgaben: Aufgabendaten sind bei der Neuberechnung einer Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Pinnwände: Tag-Farbe kann nicht bearbeitet werden](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: ht
-source-wordcount: '374'
-ht-degree: 100%
+source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27. November 2023 |
 | [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md) | 26. Oktober 2023 |
 
 {style="table-layout:auto"}

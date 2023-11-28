@@ -1,24 +1,24 @@
 ---
-title: "Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder entfernt werden."
-description: "Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular in einer Vorlagenaufgabe stapelweise hinzuzufügen oder per Massenzugriff zu entfernen, wird das Formular nicht hinzugefügt oder entfernt und der Benutzer sieht einen Fehler."
+title: '„Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden“'
+description: Wenn Benutzende versuchen, ein benutzerdefiniertes Formular in einer Vorlagenaufgabe stapelweise hinzuzufügen oder zu entfernen, wird das Formular nicht hinzugefügt bzw. entfernt und es wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 41df80641db82b225753338d8564e12b90566c40
-workflow-type: tm+mt
+exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden
 
-# Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder entfernt werden
+Wenn Benutzende versuchen, ein benutzerdefiniertes Formular in einer Vorlagenaufgabe stapelweise hinzuzufügen oder zu entfernen, wird das Formular nicht hinzugefügt bzw. entfernt und es wird der folgende Fehler angezeigt:
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular in einer Vorlagenaufgabe stapelweise hinzuzufügen oder per Massenzugriff zu entfernen, wird das Formular nicht hinzugefügt oder entfernt und der Benutzer sieht den folgenden Fehler:
+[!UICONTROL Versuchen Sie es erneut. Ungültiger Parameter: templateID-Wert „XXXXXXXXXXXXXXXX“]
 
-[!UICONTROL Versuchen Sie es erneut. Ungültiger Parameter: templateID-Wert &quot;XXXXXXXXXXXXXXXX&quot;]
+Wenn Benutzende die Vorlage mit der angegebenen GUID lokalisieren und dann versuchen, benutzerdefinierte Formulare für die restlichen Vorlagenaufgaben hinzuzufügen oder zu entfernen, tritt der Fehler erneut mit einer anderen templateID auf.
 
-Wenn der Benutzer die Vorlage mit der angegebenen GUID lokalisiert und dann versucht, benutzerdefinierte Formulare für die restlichen Vorlagenaufgaben hinzuzufügen oder zu entfernen, tritt der Fehler erneut mit einer anderen templateID auf.
-
-Benutzerdefinierte Formulare können für eine einzelne Vorlagenaufgabe hinzugefügt oder entfernt werden. Dieser Fehler bezieht sich nur auf das Hinzufügen oder Entfernen von Stapeln.
+Benutzerdefinierte Formulare können für eine einzelne Vorlagenaufgabe hinzugefügt oder entfernt werden. Dieser Fehler bezieht sich nur auf das stapelweise Hinzufügen oder Entfernen.
 
 _Erste Meldung am 10. November 2023._

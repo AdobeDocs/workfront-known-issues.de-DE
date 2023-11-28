@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im November 2023
+
++++**(Geplantes) Wartungs-Update vom 30. November 2023**
+
+**Aufgaben werden nicht in [!UICONTROL Meine Arbeit] Widget**
+
+_[!UICONTROL Startseite]_
+
+Wenn eine Person ihr Widget [!UICONTROL Meine Arbeit] auf der [!UICONTROL Startseite] anzeigt, werden einige der Aufgaben, denen sie zugewiesen ist, nicht im Widget angezeigt. Beispielsweise kann eine Person zu einem Projekt gehen und sehen, dass ihr Aufgaben im Projekt zugewiesen sind, diese Aufgaben erscheinen jedoch nicht im Widget [!UICONTROL Meine Arbeit].
+
+**Umleitungen bei der Anmeldeseite zur Landingpage für die Abmeldung**
+
+_Anmeldung_
+
+Wenn Benutzende versuchen, sich bei [!DNL Workfront] anzumelden, werden sie statt der Anmeldeseite auf die Seite geleitet, auf der sie landen würden, wenn sie sich abmelden würden.
+
+**500-Fehler beim Export eines Berichts**
+
+_Berichte_
+
+Wenn Benutzende versuchen, einen Bericht zu exportieren, schlägt der Export mit dem folgenden Fehler fehl:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Dies wurde in Berichten gemeldet, die einen `valueexpression` verwenden, um auf den `lastNote`-Notiztext zu verweisen.
+
++++
 
 +++**Wartungs-Update vom 16. November 2023**
 
@@ -48,7 +76,7 @@ Dies wurde für die neue Kommentarerfahrung berichtet.
 
 +++
 
-    +++**Wartungs-Update vom 9. November 2023**
++++**Wartungs-Update vom 9. November 2023**
 
 **Im Widget „Meine Arbeit“ fehlen Objekte, wenn es sich nicht oben auf der Seite befindet**
 

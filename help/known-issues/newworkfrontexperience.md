@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 99%
+source-wordcount: '829'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28. November 2023 |
 | [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27. November 2023 |
 | [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16. November 2023 |

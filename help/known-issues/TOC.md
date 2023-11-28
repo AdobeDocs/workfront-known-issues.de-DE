@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
 source-wordcount: '1672'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
-      + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
-      + [Pinnwände: Die Karte wird bei mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
+      + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)

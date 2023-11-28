@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27. November 2023 |
-| [Pinnwände: Die Karte wird bei mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |
+| [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16. November 2023 |
 | [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13. November 2023 |
 | [Pinnwände: Tag-Farbe kann nicht bearbeitet werden](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10. November 2023 |
@@ -42,7 +42,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21. November 2023 |
+| [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21. November 2023 |
 | [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 20. November 2023 |
 | [Aufgaben: Aufgabendaten sind bei Neuberechnung der Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10. November 2023 |
 | [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn die Benutzerin bzw. der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md) | 8. November 2023 |

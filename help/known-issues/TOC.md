@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 98%
+source-wordcount: '1713'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Pinnwände: Die in eine Spalte verschoben Karten kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)

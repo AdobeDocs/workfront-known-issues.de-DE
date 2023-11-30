@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '854'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Pinnwände: Die in eine Spalte verschoben Karten kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29. November 2023 |
 | [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28. November 2023 |
-| [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27. November 2023 |
+| [Dokumente: Zugriff auf  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) nicht möglich | 27. November 2023 |
 | [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16. November 2023 |
 | [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13. November 2023 |

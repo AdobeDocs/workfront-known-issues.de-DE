@@ -5,7 +5,7 @@ role: User
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Pinnwände: Die in eine Spalte verschoben Karten kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
-      + [Dokumente: Zugriff nicht möglich [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
+      + [Dokumente: Zugriff auf  [!DNL SharePoint] nicht möglich](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md)

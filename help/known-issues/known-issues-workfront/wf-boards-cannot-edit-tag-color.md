@@ -1,17 +1,21 @@
 ---
-title: '„Pinnwände: Tag-Farbe kann nicht bearbeitet werden“'
-description: „Beim Versuch, die Farbe eines vorhandenen Tags im Tag-Manager zu bearbeiten, lässt sich keine andere Farbe aus der Dropdown-Liste auswählen. Das Klicken auf eine Farbe ist wirkungslos.“
+title: 'Pinnwände: Tag-Farbe kann nicht bearbeitet werden'
+description: Beim Versuch, die Farbe eines vorhandenen Tags im Tag-Manager zu bearbeiten, lässt sich keine andere Farbe aus der Dropdown-Liste auswählen. Das Klicken auf eine Farbe ist wirkungslos.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: ht
-source-wordcount: '108'
+exl-id: 65c148d6-1020-4345-8efb-0ac128dccd68
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
-
 # Pinnwände: Tag-Farbe kann nicht bearbeitet werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 28. November 2023 behoben.
 
 Beim Versuch, die Farbe eines vorhandenen Tags im [!UICONTROL Tag-Manager] zu bearbeiten, lässt sich keine andere Farbe aus der Dropdown-Liste auswählen. Das Klicken auf eine Farbe ist wirkungslos.
 

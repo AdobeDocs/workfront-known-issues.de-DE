@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7226'
+source-wordcount: '7245'
 ht-degree: 99%
 
 ---
@@ -22,15 +22,15 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im November 2023
 
-+++**Wartungs-Update vom 30. November 2023**
++++**Wartungs-Update vom Freitag, 30. November 2023**
 
-**Aufgaben werden nicht in [!UICONTROL Meine Arbeit] Widget**
+**Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt**
 
 _[!UICONTROL Startseite]_
 
 Wenn eine Person ihr Widget [!UICONTROL Meine Arbeit] auf der [!UICONTROL Startseite] anzeigt, werden einige der Aufgaben, denen sie zugewiesen ist, nicht im Widget angezeigt. Beispielsweise kann eine Person zu einem Projekt gehen und sehen, dass ihr Aufgaben im Projekt zugewiesen sind, diese Aufgaben erscheinen jedoch nicht im Widget [!UICONTROL Meine Arbeit].
 
-**Umleitungen bei der Anmeldeseite zur Landingpage für die Abmeldung**
+**Die Anmeldeseite leitet zur Landingpage für die Abmeldung weiter**
 
 _Anmeldung_
 
@@ -238,7 +238,7 @@ _Startseite_
 
 Beim Ändern der Filter auf der [!UICONTROL Startseite] wird der Bereich [!UICONTROL Startseite] nicht geladen und es wird der folgende Fehler angezeigt:
 
-„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Bitte versuchen, diese Browser-Seite zu aktualisieren, um mit der Arbeit fortzufahren.]“
+&quot;[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 +++
 

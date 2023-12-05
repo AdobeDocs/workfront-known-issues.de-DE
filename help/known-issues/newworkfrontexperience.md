@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 92%
+source-wordcount: '871'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md) | 1. Dezember 2023 |
-| [Pinnwände: Die in eine Spalte verschoben Karten kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29. November 2023 |
+| [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md) | Samstag, 1. Dezember 2023 |
+| [Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29. November 2023 |
 | [Dokumente: Zugriff auf  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) nicht möglich | 27. November 2023 |
 | [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16. November 2023 |
@@ -41,11 +41,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md) | 1. Dezember 2023 |
-| [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30. November 2023 |
-| [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30. November 2023 |
-| [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30. November 2023 |
-| [Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29. November 2023 |
+| [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md) | Samstag, 1. Dezember 2023 |
+| [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | Freitag, 30. November 2023 |
+| [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | Freitag, 30. November 2023 |
+| [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Freitag, 30. November 2023 |
+| [Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29. November 2023 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21. November 2023 |
 | [Aufgaben: Aufgabendaten sind bei Neuberechnung der Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10. November 2023 |
 | [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn die Benutzerin bzw. der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md) | 8. November 2023 |
@@ -68,7 +68,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 30. November 2023 |
+| [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | Freitag, 30. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9. November 2023 |
 | [Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7. November 2023 |

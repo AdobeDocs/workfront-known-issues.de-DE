@@ -6,8 +6,8 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 97%
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29. November 2023 |
+| [Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29. November 2023 |
 | [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3. November 2023 |
 | [Korrekturabzüge: Probleme mit der Aktivierung einer Phase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3. November 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |

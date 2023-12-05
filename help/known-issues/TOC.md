@@ -4,8 +4,8 @@ user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
-      + [Pinnwände: Die in eine Spalte verschoben Karten kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
-      + [Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
+      + [Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
+      + [Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Dokumente: Zugriff auf  [!DNL SharePoint] nicht möglich](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)

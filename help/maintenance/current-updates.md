@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7245'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,29 @@ Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Dezember 2023
+
++++**Wartungs-Update vom Freitag, 7. Dezember 2023**
+
+**Genehmigung hängt an [!UICONTROL Erwartung der Genehmigung] Widget**
+
+_Startseite_
+
+Wenn eine neue Version eines Dokuments hochgeladen wird und die vorherige Version über eine Genehmigung verfügt, die nicht abgeschlossen ist, steckt die alte Version des Dokuments beim Genehmigenden im Widget [!UICONTROL Warten auf Genehmigung] fest. Die Genehmigung kann nicht erteilt werden, da es eine neue Version gibt und sie nicht aus dem Widget entfernt werden kann.
+
+**Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen**
+
+_Aufgaben/Probleme_
+
+Wenn ein Benutzer in einem Projekt die Ansicht &quot;Board&quot;des Bereichs &quot;Tasks&quot;oder &quot;Issues&quot;anzeigt und versucht, eine Aufgabe oder ein Problem hinzuzufügen, kann Folgendes auftreten:
+
+* Das Popup-Fenster wechselt zwischen zwei verschiedenen Fensterstilen hin und her
+* Der Benutzer kann das Popup-Fenster nicht schließen
+
+Es wurde berichtet, dass dies auftritt, wenn ein Benutzer einen Bereich aus der linken Navigation des Popup-Fensters auswählt, bevor er Informationen eingibt.
+
++++
 
 ## Updates im November 2023
 

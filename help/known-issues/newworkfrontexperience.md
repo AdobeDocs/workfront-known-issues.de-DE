@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 96%
+source-wordcount: '882'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | Donnerstag, 6. Dezember 2023 |
 | [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md) | Samstag, 1. Dezember 2023 |
 | [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | Freitag, 30. November 2023 |
 | [Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | Freitag, 30. November 2023 |

@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 98%
+source-wordcount: '1753'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)

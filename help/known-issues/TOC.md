@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
 workflow-type: tm+mt
-source-wordcount: '1753'
+source-wordcount: '1759'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Status: [!UICONTROL Hopfen] Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md)

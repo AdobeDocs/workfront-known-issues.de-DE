@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 95%
+source-wordcount: '889'
+ht-degree: 94%
 
 ---
 
@@ -41,6 +41,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Status: [!UICONTROL Hopfen] Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | Donnerstag, 6. Dezember 2023 |
 | [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | Donnerstag, 6. Dezember 2023 |
 | [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md) | Samstag, 1. Dezember 2023 |
 | [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | Freitag, 30. November 2023 |

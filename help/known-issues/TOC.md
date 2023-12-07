@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1792'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Einrichtung: Standardmäßige Problemstatus fehlen in einigen Problemtypen in der Einrichtung](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [Startseite: Die Widgets &quot;Meine Projekte&quot;und &quot;Meine Aufgaben&quot;zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Hopfen] Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)

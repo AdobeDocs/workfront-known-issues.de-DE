@@ -5,7 +5,7 @@ role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
 source-wordcount: '1792'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 95%
       + [Startseite: Die Widgets &quot;Meine Projekte&quot;und &quot;Meine Aufgaben&quot;zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Hopfen] Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [Pinnwände: Fehler in [!UICONTROL Kommentare] Kartenabschnitt](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [Einrichtung: Verwendung nicht möglich [!UICONTROL Kick-Start] zum Einrichten von Gruppierungen](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Pinnwandansicht von Aufgaben und Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [Pinnwände: Fehler im Kartenabschnitt [!UICONTROL Kommentare]](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [Einrichtung: [!UICONTROL Kick-Start] kann nicht zum Einrichten von Gruppierungen verwendet werden](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)

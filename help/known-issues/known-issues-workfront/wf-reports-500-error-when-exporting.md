@@ -5,8 +5,8 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
-workflow-type: tm+mt
-source-wordcount: '65'
+workflow-type: ht
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am 30. November 2023 behoben.
+>Dieses Problem wurde am Freitag, 30. November 2023 behoben.
 
 Wenn Benutzende versuchen, einen Bericht zu exportieren, schlägt der Export mit dem folgenden Fehler fehl:
 

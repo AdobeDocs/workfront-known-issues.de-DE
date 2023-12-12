@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '7401'
-ht-degree: 98%
+source-wordcount: '7435'
+ht-degree: 99%
 
 ---
 
@@ -22,6 +22,15 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Dezember 2023
 
++++**Wartungs-Update vom Freitag, 14. Dezember 2023**
+
+**Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt**
+
+_Korrekturabzüge_
+
+Wenn Benutzende einen Bericht für ausstehende Korrekturabzuggenehmigungen anzeigen, werden einige ausstehende Genehmigungen nicht im Bericht angezeigt.
++++
+
 +++**Wartungs-Update vom Freitag, 7. Dezember 2023**
 
 **Genehmigung hängt an [!UICONTROL Erwartung der Genehmigung] Widget**
@@ -34,12 +43,12 @@ Wenn eine neue Version eines Dokuments hochgeladen wird und die vorherige Versio
 
 _Aufgaben/Probleme_
 
-Wenn ein Benutzer in einem Projekt die Ansicht &quot;Board&quot;des Bereichs &quot;Tasks&quot;oder &quot;Issues&quot;anzeigt und versucht, eine Aufgabe oder ein Problem hinzuzufügen, kann Folgendes auftreten:
+Wenn jemand in einem Projekt die Pinnwandansicht des Bereichs „Aufgaben und Probleme“ anzeigt und versucht, eine Aufgabe oder ein Problem hinzuzufügen, können folgende Probleme auftreten:
 
 * Das Popup-Fenster wechselt zwischen zwei verschiedenen Fensterstilen hin und her
-* Der Benutzer kann das Popup-Fenster nicht schließen
+* Das Popup-Fenster lässt sich nicht schließen
 
-Es wurde berichtet, dass dies auftritt, wenn ein Benutzer einen Bereich aus der linken Navigation des Popup-Fensters auswählt, bevor er Informationen eingibt.
+Berichten zufolge tritt dies auf, wenn jemand einen Bereich aus der linken Navigation des Popup-Fensters auswählt, bevor Informationen eingegeben werden.
 
 +++
 

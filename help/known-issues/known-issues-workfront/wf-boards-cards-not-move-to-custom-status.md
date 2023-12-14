@@ -1,17 +1,21 @@
 ---
-title: '„Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte“'
-description: „Wenn Benutzende eine Karte in eine andere Spalte verschieben und dann aktualisieren oder zur Pinnwand zurückkehren, befindet sich die Karte wieder in der ursprünglichen Spalte.“
+title: '"Pinnwände: Karten, die nach der Aktualisierung in eine Spalte verschoben wurden, kehren zur ursprünglichen Spalte zurück'
+description: Wenn Benutzende eine Karte in eine andere Spalte verschieben und dann aktualisieren oder zur Pinnwand zurückkehren, befindet sich die Karte wieder in der ursprünglichen Spalte.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte
+
+>[!NOTE]
+>
+>Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
 Wenn Benutzende eine Karte in eine andere Spalte verschieben und dann aktualisieren oder zur Pinnwand zurückkehren, befindet sich die Karte wieder in der ursprünglichen Spalte.
 

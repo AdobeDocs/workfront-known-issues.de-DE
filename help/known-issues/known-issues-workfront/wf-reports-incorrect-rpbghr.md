@@ -3,19 +3,15 @@ title: '„Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht m
 description: „Wenn jemand für ein bestimmtes Projekt einen API-Aufruf an das RPBGHR-Objekt sendet und die Ergebnisse dieses Aufrufs mit dem Nutzungsbericht für dieses Projekt vergleicht, stimmen die Ergebnisse nicht überein. „
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # Berichte: Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein
-
->[!NOTE]
->
->Dieses Problem wurde am Freitag, 30. November 2023 behoben.
 
 Wenn jemand für ein bestimmtes Projekt einen API-Aufruf an das RPBGHR-Objekt sendet und die Ergebnisse dieses Aufrufs mit dem Nutzungsbericht für dieses Projekt vergleicht, stimmen die Ergebnisse nicht überein.
 

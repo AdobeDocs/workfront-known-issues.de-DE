@@ -1,18 +1,18 @@
 ---
-title: "Einrichtung: Standardmäßige Problemstatus fehlen in einigen Problemtypen in der Einrichtung"
-description: "Wenn ein Benutzer den Problemstatus in der Einrichtung anzeigt, sieht er, dass die Standardstatus für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Der Standardstatus bietet keine Möglichkeit, den Problemtyp zu ändern. Daher kann der Benutzer die Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren."
+title: '„Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup“'
+description: „Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.“
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Einrichtung: Standardmäßige Problemstatus fehlen in einigen Problemtypen in der Einrichtung
+# Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup
 
-Wenn ein Benutzer den Problemstatus in der Einrichtung anzeigt, sieht er, dass die Standardstatus für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Der Standardstatus bietet keine Möglichkeit, den Problemtyp zu ändern. Daher kann der Benutzer die Status nicht neu konfigurieren, um sie für die betroffenen Problemtypen anzuzeigen.
+Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.
 
 _Erste Meldung am Freitag, 30. November 2023._

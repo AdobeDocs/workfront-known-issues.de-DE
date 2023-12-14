@@ -1,13 +1,13 @@
 ---
-title: "Testsendungen: Probleme mit der Aktivierung einer Stufe"
-description: Wenn eine neue Phase eines Testversand-Workflows aktiviert wird, wird die Phase im Bereich Testversand-Workflow aktiv angezeigt. Das Dokument wird jedoch nicht für die Benutzer der neuen Phase freigegeben, und im Bereich "Aktivität zum Testen"wird nicht angezeigt, dass die Bühne aktiviert oder das Dokument freigegeben wurde.
+title: '„Korrekturabzug: Probleme mit der Aktivierung einer Phase“'
+description: Wenn eine neue Phase eines Korrekturabzugs-Workflows aktiviert wird, wird die Phase im Bereich Korrekturabzugs-Workflow angezeigt. Das Dokument wird jedoch nicht für die Benutzenden in der neuen Phase freigegeben, und im Bereich „Korrekturabzugs-Aktivität“ wird nicht angezeigt, dass die Phase aktiviert oder das Dokument freigegeben wurde.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: f6138e09-0ad6-45e2-90d6-4fb22bc97715
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 

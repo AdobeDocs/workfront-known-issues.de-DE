@@ -5,7 +5,7 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: ht
-source-wordcount: '10019'
+source-wordcount: '10060'
 ht-degree: 100%
 
 ---
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 Wenn ein(e) Benutzende(r) in [!DNL Workfront] arbeitet, werden Seiten nicht geladen und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Dies wurde gemeldet in
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Wenn ein(e) Benutzende(r) in [!DNL Workfront] arbeitet, werden Seiten nicht geladen und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Dies wurde gemeldet in
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 Wenn ein(e) Benutzende(r) in [!DNL Workfront] arbeitet und den [!DNL Firefox]-Browser verwendet, werden keine Seiten geladen und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Dieser Fehler tritt zufällig auf und kann jeden Bereich von [!DNL Workfront] betreffen.
 
@@ -494,7 +494,7 @@ _[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) versucht, einen Arbeitsauftrag im [!UICONTROL Workload Balancer] zuzuweisen, wird die Arbeit nicht zugewiesen und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 +++
 
@@ -509,7 +509,7 @@ _Startseite_
 
 Wenn ein(e) Benutzende(r) schnell zur [!UICONTROL Startseite] oder davon weg navigiert, wird die Seite nicht geladen und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Dies kann auch auftreten, wenn Sie über eine Nadel zur [!UICONTROL Startseite] navigieren.
 
@@ -815,7 +815,7 @@ _[!UICONTROL Workload Balancer]_
 
 Wenn ein(e) Benutzende(r) die Option [!UICONTROL Prozentsatz] für [!UICONTROL Zugeordnete Stunden] auswählt, und im Abschnitt [!UICONTROL Nicht zugeordnete Arbeit] Arbeit vorhanden ist, wird der folgende Fehler angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 +++
 
@@ -1507,7 +1507,7 @@ _E-Mail-Benachrichtigungen_
 
 Wenn ein(e) Benutzende(r) auf den Link „[!UICONTROL Alle Benachrichtigungen anzeigen]“ in einer E-Mail-Benachrichtigung klickt, wird er/sie zu einer Seite mit der folgenden Nachricht weitergeleitet:
 
-„[!UICONTROL Der Benutzer existiert nicht mehr. Sie haben möglicherweise die Internet-Adresse falsch eingegeben. Überprüfen Sie diese und geben Sie sie ggf. erneut ein.]“
+„[!UICONTROL Der Benutzer existiert nicht mehr. Möglicherweise wurde die Web-Adresse falsch eingegeben. Bitte überprüfen Sie die Adresse und geben Sie sie erneut ein.]“
 
 **Der/die Benutzende wird nicht zu dem Korrekturabzugskommentar weitergeleitet, in dem er/sie getaggt wurde**
 

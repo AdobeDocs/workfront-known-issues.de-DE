@@ -1,11 +1,11 @@
 ---
-title: Wartungs-Updates für Workfront  2022
+title: Wartungs-Updates für Workfront in 2022
 description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -347,8 +347,8 @@ Dies wurde in den folgenden Bereichen gemeldet:
 
 Wir haben zu den folgenden Einstellungen mehrere Informationssymbole hinzugefügt:
 
-* Wenn das Kontrollkästchen „Kann die Zeit bearbeiten“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, der Administrierende beschränkt diese Aktionen im Bereich „Arbeitszeittabellen-Voreinstellungen“ im Setup.
-* Wenn die Option „Bearbeitung von Arbeitszeittabellen auf Inhaber und Administrierende beschränken“ im Bereich „Setup“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, Arbeitszeittabellen-Genehmiger, die die Zeit bearbeiten dürfen, und Arbeitszeittabellen-Besitzer mit Verwaltungsrechten.
+* Wenn das Kontrollkästchen „Kann Zeit bearbeiten“ bei der Erstellung oder Bearbeitung einer Arbeitszeittabelle oder eines Arbeitszeittabellenprofils aktiviert wird, bedeutet dies, dass die genehmigenden Personen auch die Arbeitszeittabelle senden, erneut öffnen oder bearbeiten können, es sei denn, die Admins beschränken diese Aktionen im Bereich „Arbeitszeittabellen-Voreinstellungen“ im Setup.
+* Wenn die Option „Bearbeitung von Arbeitszeittabellen auf Eigentümer und Admins beschränken“ im Bereich „Arbeitszeittabellen- und Stunden-Voreinstellungen“ von „Setup“ deaktiviert ist, können auch die folgenden Benutzenden die Arbeitszeittabellen bearbeiten: Benutzende mit administrativem Zugriff auf Arbeitszeittabellen und Stunden, genehmigende Personen für Arbeitszeittabellen, die die Zeit bearbeiten dürfen, und Führungskräfte der Eigentümerinnen und Eigentümer von Arbeitszeittabellen.
 
 Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert hat und nur die Informationssymbole hinzugefügt wurden, um den Umfang der Einstellungen zu verdeutlichen.
 
@@ -511,7 +511,7 @@ Wenn ein(e) Benutzende(r) einer Aufgabe oder einem Problem mehrere Teams zuweist
 
 Wenn ein(e) Benutzende(r) versucht, eine Arbeitszeittabelle so zu bearbeiten, dass die automatische Speicherung der Änderungen ausgelöst wird, werden die Änderungen nicht gespeichert und der/die Benutzende sieht die folgende Meldung:
 
-„[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die Änderungen anzuzeigen]“.
+„[!UICONTROL Ihre letzten Änderungen wurden nicht gespeichert. Aktualisieren Sie die Seite, um die Änderungen anzuzeigen.]“
 
 Dies wurde beim Bearbeiten der folgenden Elemente gemeldet:
 
@@ -586,7 +586,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 Wenn ein(e) Benutzende(r) versucht, einer Aufgabe auf seiner/ihrer Arbeitszeittabelle Stunden hinzuzufügen, werden die Stunden nicht automatisch gespeichert und die folgende Fehlermeldung erscheint:
 
-„[!UICONTROL Hinweis: Das Speichern ist fehlgeschlagen, da ein anderer Benutzer gleichzeitig versucht hat, dieses Projekt zu speichern. Versuchen Sie erneut, das Projekt zu speichern.]“
+„[!UICONTROL Das Speichern ist fehlgeschlagen, da eine andere Person gleichzeitig versucht hat, dieses Projekt zu speichern. Bitte versuchen Sie es später erneut.]“
 
 **Benutzerkarte wird in Aktualisierungen nicht geschlossen**
 
@@ -886,7 +886,7 @@ Alle Funktionen von [!DNL Workfront Classic] wurden am 14. Juli 2022 entfernt.
 
 Wenn ein(e) Benutzende(r) versucht, ein Element in seiner/ihrer [!UICONTROL Startseiten-Arbeitsliste] zu öffnen, wird das Element nicht geöffnet und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 **Aufgaben und Probleme, die einem/r Benutzenden zugewiesen wurden, werden nicht in der Startseiten-Arbeitsliste des/r Benutzenden angezeigt**
 
@@ -1177,7 +1177,7 @@ Wenn ein(e) Benutzende(r) ein Dashboard zu einem Projekt öffnet und versucht, e
 
 Wenn ein(e) Benutzende(r) seine/ihre [!UICONTROL Startseiten-Arbeitsliste] öffnet und auf ein Element im Bereich [!UICONTROL Von mir gesendete Genehmigungen] klickt, wird der folgende Fehler angezeigt:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Wenn der/die Benutzende die Seite aktualisiert und dann auf ein Element in der [!UICONTROL Arbeitsliste] klickt, wird der Fehler angezeigt. Das Problem betrifft nicht mehr nur Elemente im Abschnitt [!UICONTROL Gesendete Genehmigungen].
 
@@ -1509,7 +1509,7 @@ Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungs-Datensätze] e
 
 Wenn ein(e) Benutzende(r) versucht, Zuweisungen im [!DNL Workload Balancer] eines Projekts durchzuführen, wird der/die Benutzende zu einer Seite mit der folgenden Meldung umgeleitet:
 
-„[!UICONTROL Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browserseite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 Der/die Benutzende kann diese Seite nicht verlassen, bis er/sie die Seite aktualisiert.
 

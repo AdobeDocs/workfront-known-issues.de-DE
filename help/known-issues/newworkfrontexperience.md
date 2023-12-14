@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: ht
-source-wordcount: '852'
-ht-degree: 100%
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md) | Freitag, 14. Dezember 2023 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 7. Dezember 2023 |
 | [Pinnwände: Fehler im Kartenabschnitt [!UICONTROL Kommentare]](known-issues-workfront/wf-boards-comments-section-error.md) | Samstag, 1. Dezember 2023 |
 | [Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29. November 2023 |
@@ -42,13 +43,13 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Aktualisierungen: Im neuen Kommentarerlebnis vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | Freitag, 14. Dezember 2023 |
 | [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | Freitag, 7. Dezember 2023 |
 | [Startseite: Die Widgets „Meine Projekte“ und „Meine Aufgaben“ zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md) | Freitag, 7. Dezember 2023 |
 | [Status: [!UICONTROL Hoppla]-Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | Donnerstag, 6. Dezember 2023 |
 | [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentarerlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | Donnerstag, 6. Dezember 2023 |
 | [Arbeitszeittabellen: Persönliche Aufgaben werden in der Arbeitszeittabelle angezeigt](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | Freitag, 30. November 2023 |
 | [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Freitag, 30. November 2023 |
-| [Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29. November 2023 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21. November 2023 |
 | [Aufgaben: Aufgabendaten sind bei Neuberechnung der Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10. November 2023 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6. November 2023 |

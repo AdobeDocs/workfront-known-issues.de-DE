@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
-workflow-type: ht
-source-wordcount: '1792'
-ht-degree: 100%
+source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
+workflow-type: tm+mt
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Startseite: Die Widgets „Meine Projekte“ und „Meine Aufgaben“ zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md)

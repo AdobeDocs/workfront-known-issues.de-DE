@@ -1,17 +1,21 @@
 ---
-title: '„Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt“'
-description: „“
+title: 'Testsendungen: Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt.'
+description: „
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ac43b9e35e7f5e67dcbc5139be06b8d06378fbda
-workflow-type: ht
-source-wordcount: '45'
-ht-degree: 100%
+exl-id: e324848f-0278-4bbd-ba9b-870fde37a23d
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '51'
+ht-degree: 78%
 
 ---
 
-
 # Korrekturabzüge: Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 14. Dezember 2023 behoben.
 
 <!--WF and WFP-->
 

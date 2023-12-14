@@ -33,13 +33,13 @@ Wenn Benutzende einen Bericht für ausstehende Korrekturabzuggenehmigungen anzei
 
 +++**Wartungs-Update vom Freitag, 7. Dezember 2023**
 
-**Genehmigung hängt an [!UICONTROL Erwartung der Genehmigung] Widget**
+**Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest**
 
 _Startseite_
 
 Wenn eine neue Version eines Dokuments hochgeladen wird und die vorherige Version über eine Genehmigung verfügt, die nicht abgeschlossen ist, steckt die alte Version des Dokuments beim Genehmigenden im Widget [!UICONTROL Warten auf Genehmigung] fest. Die Genehmigung kann nicht erteilt werden, da es eine neue Version gibt und sie nicht aus dem Widget entfernt werden kann.
 
-**Probleme beim Hinzufügen von Arbeitselementen in der Ansicht &quot;Board&quot;von Aufgaben oder Problemen**
+**Probleme beim Hinzufügen von Arbeitselementen in der Pinnwandansicht von Aufgaben und Problemen**
 
 _Aufgaben/Probleme_
 
@@ -270,7 +270,7 @@ _Startseite_
 
 Beim Ändern der Filter auf der [!UICONTROL Startseite] wird der Bereich [!UICONTROL Startseite] nicht geladen und es wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
 +++
 

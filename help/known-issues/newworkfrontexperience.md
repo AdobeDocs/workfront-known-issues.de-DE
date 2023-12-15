@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '846'
 ht-degree: 98%
 
 ---
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Vorlagen: Fehler beim Anhängen einer Vorlage an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | Samstag, 15. Dezember 2023 |
 | [Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md) | Freitag, 14. Dezember 2023 |
 | [Dokumente: Zugriff auf  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) nicht möglich | 27. November 2023 |
 | [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21. November 2023 |

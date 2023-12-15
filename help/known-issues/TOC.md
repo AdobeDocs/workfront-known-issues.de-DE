@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
+source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1808'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Vorlagen: Fehler beim Anhängen einer Vorlage an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)

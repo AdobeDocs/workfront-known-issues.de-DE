@@ -1,19 +1,19 @@
 ---
-title: '„Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten“'
-description: „Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht mehr in der Workfront-Benutzeroberfläche verfügbar, können sich aber dennoch auf Workfront-Daten auswirken. Dies kann zu Inkonsistenzen in Feldern führen, die von Layout-Vorlagen (z. B. „Freigegeben für“) in Berichten oder Dashboards betroffen sind.“
+title: 'Layout templates: Layout-Vorlagen, die Inkonsistenzen in Berichten verursachen'
+description: Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht mehr in der Workfront-Benutzeroberfläche verfügbar, können sich aber dennoch auf Workfront-Daten auswirken. Dies kann zu Inkonsistenzen in Feldern führen, die von Layout-Vorlagen (z. B. „Freigegeben für“) in Berichten oder Dashboards betroffen sind.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 
-
 # Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten
 
-Layout-Vorlagen aus dem klassischen [!DNL Workfront]-Erlebnis sind nicht mehr in der [!DNL Workfront]-Benutzeroberfläche verfügbar, können sich aber dennoch auf [!DNL Workfront]-Daten auswirken. Dies kann zu Unstimmigkeiten in Feldern führen, die von Layout-Vorlagen (z. B. [!UICONTROL Freigegeben für]) in Berichten und Pinnwänden betroffen sind.
+Layout-Vorlagen aus Classic [!DNL Workfront] Erlebnis ist nicht mehr in der [!DNL Workfront] -Schnittstelle, kann sich aber dennoch auf [!DNL Workfront] Daten. Dies kann zu Unstimmigkeiten in Feldern führen, die von Layout-Vorlagen (z. B. [!UICONTROL Freigegeben für]) in Berichten und Pinnwänden betroffen sind.
 
 **Problemumgehung**
 
@@ -38,4 +38,3 @@ Löschen Sie die klassischen Layout-Vorlagen mithilfe eines API-Aufrufs. Sie mü
 1. Fügen Sie den API-Aufruf aus Schritt 4 in die URL-Leiste Ihres Browsers ein und drücken Sie die Eingabetaste.
 
    Dadurch wird die Layout-Vorlage gelöscht.
-

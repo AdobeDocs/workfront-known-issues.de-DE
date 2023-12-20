@@ -69,7 +69,7 @@ Wenn ein Benutzer ein Modul konfiguriert und das Modul Daten aus dem verbundenen
 
 +++**Wartungs-Update vom Freitag, 14. Dezember 2023**
 
-**Testsendungen, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt**
+**Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt**
 
 _Korrekturabzüge_
 

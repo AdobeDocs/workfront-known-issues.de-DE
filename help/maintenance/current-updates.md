@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7699'
+source-wordcount: '7697'
 ht-degree: 98%
 
 ---
@@ -22,7 +22,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Dezember 2023
 
-+++**(Geplantes) Wartungs-Update vom Freitag, 21. Dezember 2023**
++++**Wartungs-Update vom Freitag, 21. Dezember 2023**
 
 **Probleme beim Anzeigen des Status von Unteraufgaben**
 
@@ -55,7 +55,7 @@ Wenn jemand Aktualisierungen im neuen Kommentarerlebnis anzeigt, werden einige d
 
 +++
 
-+++**(Geplant) [!DNL Adobe Workfront Fusion] Wartungs-Update am 21. Dezember 2023**
++++**[!DNL Adobe Workfront Fusion]Wartungs-Update am 21. Dezember 2023**
 
 Das Modulfeld dauert zu lange, um geöffnet zu werden
 

@@ -3,15 +3,19 @@ title: '„Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] aus
 description: „Wenn Benutzende versuchen, eine Vorlage aus der Liste [!UICONTROL Favoriten] auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden.“
 hidefromtoc: true
 feature: Projects
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 21. Dezember 2023 behoben.
 
 Wenn versucht wird, eine Vorlage aus der Liste [!UICONTROL Favoriten] auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden.
 

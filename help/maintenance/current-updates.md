@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '7697'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom Freitag, 21. Dezember 2023**
 
-**Probleme beim Anzeigen des Status von Unteraufgaben**
+**Probleme beim Anzeigen von Unteraufgaben-Status**
 
 _Pinnwände_
 
@@ -33,21 +33,21 @@ Die folgenden Probleme wurden in Bezug auf die Anzeige des Status von Unteraufga
 * Der Status wird auch dann als „Status auswählen“ angezeigt, wenn die Aufgabe bereits über einen Status verfügt. Dieser Status wird angezeigt, wenn die Aufgabe direkt angezeigt wird.
 * Beim Versuch, einen Status auszuwählen, wird der Bildschirm leer angezeigt und muss aktualisiert werden.
 
-**Dokument kann nicht an eine Karte angehängt werden**
+**Es können keine Dokumente an eine Karte angehängt werden**
 
 _Pinnwände_
 
-Wenn ein Benutzer versucht, ein Dokument an eine verbundene Karte anzuhängen, kann er das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und das Dokument ist nicht an das Objekt angehängt, mit dem die Karte verbunden ist.
+Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und ist nicht an das Objekt angehängt, mit dem die Karte verknüpft ist.
 
-Dies wurde auf Karten im Zusammenhang mit Problemen berichtet.
+Dieser Vorfall wurde für Karten im Zusammenhang mit Problemen gemeldet.
 
-**Die Vorlage kann nicht ausgewählt werden aus [!UICONTROL Favoriten] Liste**
+**Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden**
 
 _Vorlagen_
 
 Wenn versucht wird, eine Vorlage aus der Liste [!UICONTROL Favoriten] auszuwählen, wird die Liste der Vorlagen ausgeblendet, sobald die Maus zur Liste bewegt wird, und es kann keine Vorlage ausgewählt werden.
 
-**Einige Aktualisierungen fehlen im neuen Kommentierungserlebnis**
+**Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentarerlebnis**
 
 _Updates_
 
@@ -57,13 +57,13 @@ Wenn jemand Aktualisierungen im neuen Kommentarerlebnis anzeigt, werden einige d
 
 +++**[!DNL Adobe Workfront Fusion]Wartungs-Update am 21. Dezember 2023**
 
-Das Modulfeld dauert zu lange, um geöffnet zu werden
+Das Modulfeld öffnet sich zu langsam
 
 _[!DNL Workfront Fusion]_
 
 <!--no article-->
 
-Wenn ein Benutzer ein Modul konfiguriert und das Modul Daten aus dem verbundenen Konto benötigt (z. B. zur Auswahl eines Datensatzes), kann das Modul die Daten nicht abrufen und die Datenanforderung wird mit einer Zeitüberschreitung beendet.
+Wenn jemand ein Modul konfiguriert und das Modul Daten aus dem verbundenen Konto benötigt (z. B. zur Auswahl eines Datensatzes), kann das Modul die Daten nicht abrufen und die Datenanforderung wird mit einer Zeitüberschreitung beendet.
 
 +++
 

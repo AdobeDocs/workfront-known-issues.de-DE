@@ -1,13 +1,13 @@
 ---
-title: '"Pinnwände: Karten, die nach der Aktualisierung in eine Spalte verschoben wurden, kehren zur ursprünglichen Spalte zurück'
+title: '„Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte“'
 description: Wenn Benutzende eine Karte in eine andere Spalte verschieben und dann aktualisieren oder zur Pinnwand zurückkehren, befindet sich die Karte wieder in der ursprünglichen Spalte.
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
 source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

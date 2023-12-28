@@ -3,9 +3,9 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Testsendungen: Aus Word-Dokumenten erstellte Testsendungen enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Aufgaben: Fenster wird beim Erstellen einer neuen Aufgabe geschlossen](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [Aufgaben: Die Zuweisung des Benutzers zu einer oder mehreren Aufgaben wird aufgehoben.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
-      + [Pinnwände: Dokument kann nicht an eine Karte angehängt werden](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
-      + [Testsendungen: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
-      + [Vorlagen: Fehler beim Anhängen einer Vorlage an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
-      + [Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Pinnwände: Es können keine Dokumente an eine Karte angehängt werden](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
+      + [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
+      + [Vorlagen: Fehler beim Anhängen von Vorlagen an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
+      + [Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stündlich aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Startseite: Die Widgets „Meine Projekte“ und „Meine Aufgaben“ zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md)

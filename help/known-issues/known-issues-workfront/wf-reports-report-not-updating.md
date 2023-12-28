@@ -1,18 +1,18 @@
 ---
-title: "Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert"
-description: "Budgetierte Stundenberichte sollten stündlich aktualisiert werden, gelegentlich werden sie jedoch in Intervallen von mindestens 90 Minuten aktualisiert."
+title: '„Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stündlich aktualisiert“'
+description: „Berichte zu geplanten Stunden sollten stündlich aktualisiert werden, werden gelegentlich jedoch in Intervallen von 90 Minuten oder mehr aktualisiert.“
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Berichte: Bericht zur geplanten Stunde wird nicht wie erwartet aktualisiert
+# Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stündlich aktualisiert
 
-Budgetierte Stundenberichte sollten stündlich aktualisiert werden, gelegentlich werden sie jedoch in Intervallen von mindestens 90 Minuten aktualisiert.
+Berichte zu geplanten Stunden sollten stündlich aktualisiert werden,werden gelegentlich jedoch in Intervallen von 90 Minuten oder mehr aktualisiert.
 
 _Erste Meldung am Donnerstag, 8. November 2023._

@@ -3,15 +3,19 @@ title: '„Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stünd
 description: „Berichte zu geplanten Stunden sollten stündlich aktualisiert werden, werden gelegentlich jedoch in Intervallen von 90 Minuten oder mehr aktualisiert.“
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stündlich aktualisiert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 21. Dezember 2023 behoben.
 
 Berichte zu geplanten Stunden sollten stündlich aktualisiert werden,werden gelegentlich jedoch in Intervallen von 90 Minuten oder mehr aktualisiert.
 

@@ -3,15 +3,19 @@ title: '„Status: Hoppla-Fehler beim Ausblenden des Status“'
 description: „Beim Versuch, einen Status auszublenden, wird dieser nicht ausgeblendet und der Hoppla-Fehler angezeigt.“
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Status: [!UICONTROL Hoppla]-Fehler beim Ausblenden des Status
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 21. Dezember 2023 behoben.
 
 Beim Versuch, einen Status auszublenden, wird dieser nicht ausgeblendet und der folgende Fehler angezeigt:
 

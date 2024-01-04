@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 97%
+source-wordcount: '899'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Neu [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | Freitag, 4. Januar 2024 |
+| [Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | Freitag, 4. Januar 2024 |
 | [Foren: &quot;[!UICONTROL Sie haben keinen Zugriff]&quot; beim Anzeigen von Kommentaren auf einer Karte](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | Mittwoch, 2. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Teamstatus für [!UICONTROL Fertig] button](known-issues-workfront/wf-teams-statuses-missing.md) | Mittwoch, 2. Januar 2024 |
 | [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | Dienstag, 18. Dezember 2023 |

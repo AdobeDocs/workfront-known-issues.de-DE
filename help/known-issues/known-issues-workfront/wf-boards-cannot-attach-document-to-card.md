@@ -4,7 +4,7 @@ description: „Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen
 hidefromtoc: true
 feature: Agile
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 

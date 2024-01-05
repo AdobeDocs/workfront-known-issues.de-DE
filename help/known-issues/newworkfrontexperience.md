@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '880'
+ht-degree: 94%
 
 ---
 
@@ -36,6 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | Samstag, 5. Januar 2024 |
 | [Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | Freitag, 4. Januar 2024 |
 | [Vorlagen: Fehler beim Anhängen von Vorlagen an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | Freitag, 4. Januar 2024 |
 | [Aufgaben: Fenster wird beim Erstellen einer neuen Aufgabe geschlossen](known-issues-workfront/wf-tasks-new-window-closes.md) | Freitag, 4. Januar 2024 |

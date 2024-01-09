@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1914'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Testsendungen: Zip-Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Pinnwände: Die Karte wird bei Verwendung der Pinnwandansicht in einem Projekt nicht geschlossen](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Neu [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)

@@ -5,7 +5,7 @@ role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '1914'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Neu [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [Foren: &quot;[!UICONTROL Sie haben keinen Zugriff]&quot; beim Anzeigen von Kommentaren auf einer Karte](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [Teams: Probleme beim Festlegen des Teamstatus für [!UICONTROL Fertig] button](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [Pinnwände: „[!UICONTROL Sie haben keinen Zugriff]“, wenn Kommentare auf einer Karte angezeigt werden](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md)
       + [Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Aufgaben: Fenster wird beim Erstellen einer neuen Aufgabe geschlossen](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben.](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -48,8 +48,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | Freitag, 4. Januar 2024 |
 | [Neu [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | Freitag, 4. Januar 2024 |
 | [Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | Freitag, 4. Januar 2024 |
-| [Foren: &quot;[!UICONTROL Sie haben keinen Zugriff]&quot; beim Anzeigen von Kommentaren auf einer Karte](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | Mittwoch, 2. Januar 2024 |
-| [Teams: Probleme beim Festlegen des Teamstatus für [!UICONTROL Fertig] button](known-issues-workfront/wf-teams-statuses-missing.md) | Mittwoch, 2. Januar 2024 |
+| [Pinnwände: „[!UICONTROL Sie haben keinen Zugriff]“ beim Anzeigen von Kommentaren auf einer Karte](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | Mittwoch, 2. Januar 2024 |
+| [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Mittwoch, 2. Januar 2024 |
 | [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | Dienstag, 18. Dezember 2023 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Pinnwände: Fehler im Kartenabschnitt [!UICONTROL Kommentare]](known-issues-workfront/wf-boards-comments-section-error.md) | Freitag, 14. Dezember 2023 |

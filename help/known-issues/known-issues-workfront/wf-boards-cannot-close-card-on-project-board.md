@@ -3,15 +3,19 @@ title: "Pinnwände: Karte wird nicht geschlossen, wenn die Pinnwandansicht in ei
 description: '"Wenn ein Benutzer die Ansicht "Pinnwände"in einer Aufgabenliste in einem Projekt anzeigt und eine Karte erstellt, wird die Karte nicht geschlossen oder gespeichert. Dadurch wird verhindert, dass der Benutzer zum Projekt zurückkehrt."'
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '122'
+ht-degree: 8%
 
 ---
 
 
 # Pinnwände: Die Karte wird bei Verwendung der Pinnwandansicht in einem Projekt nicht geschlossen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.
 
 Wenn ein Benutzer die Ansicht &quot;Pinnwände&quot;in einer Aufgabenliste in einem Projekt anzeigt und eine Karte erstellt, wird die Karte nicht geschlossen oder gespeichert. Dadurch wird verhindert, dass der Benutzer zum Projekt zurückkehrt.
 

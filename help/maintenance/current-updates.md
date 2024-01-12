@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4117b2a85dac27960c95fa5ee984f4650937dfce
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 47%
+source-wordcount: '530'
+ht-degree: 58%
 
 ---
 
@@ -22,30 +22,54 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Januar 2024
 
-<!--
++++**Wartungs-Update vom Samstag, 12. Januar 2024**
 
-+++**Maintenance Update on January 12, 2024**
+### Wartungs-Update am 12. Januar 2024
 
-### Maintenance Update on January 12, 2024
+#### Pinnwände
 
-#### Boards
+**Es können keine Dokumente an eine Karte angehängt werden**
 
-**Issues when viewing subtask status**
+Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und ist nicht an das Objekt angehängt, mit dem die Karte verknüpft ist.
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+Dieser Vorfall wurde für Karten im Zusammenhang mit Problemen gemeldet.
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**Karte erscheint bei mehreren Sprints**
 
-**Card doesn't close when using Boards view in a Project**
+Wenn Benutzende einen Sprint auf Pinnwänden anzeigen, werden Karten aus unterschiedlichen Sprints auf der Pinnwand angezeigt. Dieses Problem tritt vorübergehend auf.
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+**Die Karte wird nicht geschlossen, wenn die Pinnwandansicht in einem Projekt verwendet wird**
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+Wenn ein Benutzer die Ansicht &quot;Pinnwände&quot;in einer Aufgabenliste in einem Projekt anzeigt und eine Karte erstellt, wird die Karte nicht geschlossen oder gespeichert. Dadurch wird verhindert, dass der Benutzer zum Projekt zurückkehrt.
+
+Um die Karte zu schließen, muss der Benutzer die URL bearbeiten, um &quot;Pinnwand&quot;und alles, was sich rechts neben &quot;Pinnwand&quot;befindet, zu entfernen.
+
+**Karten bleiben beim Wechseln der Iteration bestehen**
+
+Wenn ein Benutzer eine Iteration auf einer Pinnwand anzeigt und dann die Iteration ändert, sind die für die neue Iteration angezeigten Karten die Karten aus einer Iteration, die der Benutzer zuvor gesehen hat.
+
+**Fehler in [!UICONTROL Kommentare] Kartenabschnitt**
+
+Wenn jemand eine Karte aufruft und zum Abschnitt [!UICONTROL Kommentare] scrollt, werden nicht die Kommentare, sondern eine Fehlermeldung angezeigt:
+
+„[!UICONTROL Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut.]&quot;
+
+**Probleme beim Anzeigen von Unteraufgaben-Status**
+
+Die folgenden Probleme wurden in Bezug auf die Anzeige des Status von Unteraufgaben auf einer Karte auf Pinnwänden gemeldet:
+
+* Der Status wird auch dann als „Status auswählen“ angezeigt, wenn die Aufgabe bereits über einen Status verfügt. Dieser Status wird angezeigt, wenn die Aufgabe direkt angezeigt wird.
+* Beim Versuch, einen Status auszuwählen, wird der Bildschirm leer angezeigt und muss aktualisiert werden.
+
+**&quot;[!UICONTROL Sie haben keinen Zugriff]&quot; beim Anzeigen von Kommentaren auf einer Karte**
+
+Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit einem [!DNL Workfront]-Objekt verbunden ist, sehen sie die folgende Meldung:
+
+„[!UICONTROL Sie haben keine Zugriffsberechtigung, um Kommentare zu diesem Objekt anzuzeigen]“
+
+Dies kann auch auftreten, wenn die Benutzenden zuvor Kommentare auf der Karte sehen konnten.
 
 +++
-
--->
 
 +++**Wartungs-Update vom Donnerstag, 11. Januar 2023**
 

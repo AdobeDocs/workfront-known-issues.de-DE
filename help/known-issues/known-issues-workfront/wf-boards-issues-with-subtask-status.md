@@ -4,18 +4,19 @@ description: Es wurden Probleme bei der Anzeige des Status von Unteraufgaben auf
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben
 
+<!--
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.
+>This issue was fixed on January 12, 2024.-->
 
 Die folgenden Probleme wurden in Bezug auf die Anzeige des Status von Unteraufgaben auf einer Karte auf Pinnwänden gemeldet:
 

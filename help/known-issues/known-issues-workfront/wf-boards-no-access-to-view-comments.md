@@ -3,7 +3,7 @@ title: "Pinnwände: „Sie haben keinen Zugriff“ beim Anzeigen von Kommentaren
 description: "Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit einem Workfront-Objekt verbunden ist, wird ihnen eine Fehlermeldung angezeigt."
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.
+>Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.—>
 
 Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit einem [!DNL Workfront]-Objekt verbunden ist, sehen sie die folgende Meldung:
 

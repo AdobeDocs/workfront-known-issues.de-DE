@@ -3,9 +3,9 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1914'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Testsendungen: Zip-Testsendungen können nicht erstellt werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [Pinnwände: Die Karte wird bei Verwendung der Pinnwandansicht in einem Projekt nicht geschlossen](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [Neu [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [Pinnwände: Karte wird bei Verwendung der Pinnwandansicht in einem Projekt nicht geschlossen](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
+      + [Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Pinnwände: „[!UICONTROL Sie haben keinen Zugriff]“, wenn Kommentare auf einer Karte angezeigt werden](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md)

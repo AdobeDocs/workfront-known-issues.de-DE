@@ -4,9 +4,9 @@ description: „Wenn Benutzende versuchen, eine Vorlage aus der Liste [!UICONTRO
 hidefromtoc: true
 feature: Projects
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '118'
+ht-degree: 100%
 
 ---
 

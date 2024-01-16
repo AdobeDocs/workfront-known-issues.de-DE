@@ -4,9 +4,9 @@ description: „Beim Versuch, einen Status auszublenden, wird dieser nicht ausge
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 

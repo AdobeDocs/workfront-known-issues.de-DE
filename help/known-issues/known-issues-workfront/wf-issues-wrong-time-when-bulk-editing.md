@@ -1,20 +1,20 @@
 ---
-title: "Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit."
-description: "Wenn ein Benutzer Probleme bei der Massenbearbeitung hat, ein Datum und eine Uhrzeit für ein Datumsfeld auswählt und speichert, ist die in diesem Feld gespeicherte Zeit nicht die Zeit, die der Benutzer ausgewählt hat. Stattdessen scheint die Zeit beim Speichern des Benutzers in UTC konvertiert zu werden."
+title: '„Probleme: Zeitfelder speichern bei der Massenbearbeitung von Problemen die falsche Zeit“'
+description: „Wenn jemand bei der Massenbearbeitung von Problemen ein Datum und eine Uhrzeit für ein Datumsfeld auswählt und speichert, ist die in diesem Feld gespeicherte Zeit nicht die ausgewählte Zeit. Stattdessen scheint die Zeit beim Speichern in UTC konvertiert zu werden.“
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Probleme: Zeitfelder speichern bei Problemen mit der Massenbearbeitung falsche Zeit
+# Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert
 
-Wenn ein Benutzer Probleme bei der Massenbearbeitung hat, ein Datum und eine Uhrzeit für ein Datumsfeld auswählt und speichert, ist die in diesem Feld gespeicherte Zeit nicht die Zeit, die der Benutzer ausgewählt hat. Stattdessen scheint die Zeit beim Speichern des Benutzers in UTC konvertiert zu werden.
+Wenn jemand bei der Massenbearbeitung von Problemen ein Datum und eine Uhrzeit für ein Datumsfeld auswählt und speichert, ist die in diesem Feld gespeicherte Zeit nicht die ausgewählte Zeit. Stattdessen scheint die Zeit beim Speichern in UTC konvertiert zu werden.
 
-Dies wurde sowohl in Berichten als auch in Listen gemeldet.
+Dies wurde sowohl für Berichte als auch für Listen gemeldet.
 
 _Erste Meldung am Mittwoch, 2. Januar 2024._

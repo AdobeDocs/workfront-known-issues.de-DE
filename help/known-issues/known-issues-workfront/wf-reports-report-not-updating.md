@@ -4,9 +4,9 @@ description: „Berichte zu geplanten Stunden sollten stündlich aktualisiert we
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 

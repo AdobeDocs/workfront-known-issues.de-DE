@@ -1,13 +1,13 @@
 ---
-title: "Workload Balancer: Total Hours does not match the sum Scheduled Hours"
-description: Wenn ein Benutzer den Lastenausgleich anzeigt und die Anzahl der geplanten Stunden addiert, stimmt die Summe nicht mit der Gesamtdauer in der oberen Zeile überein. Eine Neuberechnung der Timeline löst das Problem nicht.
+title: 'Workload Balancer: „Stunden gesamt“ stimmt nicht mit der Summe der geplanten Stunden überein'
+description: Wenn jemand den Workload Balancer anzeigt und die Anzahl der geplanten Stunden addiert, stimmt die Summe nicht mit „Stunden gesamt“ in der obersten Zeile überein. Eine Neuberechnung der Timeline löst das Problem nicht.
 hidefromtoc: true
 feature: Resource Management
 exl-id: c445d53f-6521-4f53-9f65-ee49210afc0a
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 

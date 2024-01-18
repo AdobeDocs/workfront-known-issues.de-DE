@@ -3,15 +3,19 @@ title: '„Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enth
 description: „Wenn jemand einen Korrekturabzug aus einem Word-Dokument erstellt, das ein Markup oder eingebettete Kommentare enthält, enthält der Korrekturabzug keine Kommentare oder Markups. Dies kann auch vorkommen, wenn ältere Versionen des Korrekturabzugs die Kommentare oder das Markup enthalten.“
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+workflow-type: tm+mt
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
 
 
 # Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 11. Januar 2024 behoben.
 
 <!--WF and EFP TOCs-->
 

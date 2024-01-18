@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 98%
+source-wordcount: '766'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Mittwoch, 16. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Dienstag, 9. Januar 2023 |
 | [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
 
@@ -37,21 +36,15 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL Einrichtung]: Optionale Status können nicht ausgeblendet werden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | Donnerstag, 10. Januar 2024 |
+| [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |
 | [Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | Samstag, 5. Januar 2024 |
-| [Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | Freitag, 4. Januar 2024 |
-| [Vorlagen: Fehler beim Anhängen von Vorlagen an ein Projekt](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | Freitag, 4. Januar 2024 |
 | [Aufgaben: Fenster wird beim Erstellen einer neuen Aufgabe geschlossen](known-issues-workfront/wf-tasks-new-window-closes.md) | Freitag, 4. Januar 2024 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | Freitag, 4. Januar 2024 |
-| [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | Freitag, 4. Januar 2024 |
 | [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | Freitag, 4. Januar 2024 |
-| [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Mittwoch, 2. Januar 2024 |
 | [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | Dienstag, 18. Dezember 2023 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 14. Dezember 2023 |
-| [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | Freitag, 7. Dezember 2023 |
 | [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Freitag, 30. November 2023 |
-| [Benutzerdefinierte Formulare: Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21. November 2023 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6. November 2023 |
 | [Aufgaben: „[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25. Oktober 2023 |
 | [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |

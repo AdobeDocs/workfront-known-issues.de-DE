@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '384'
 ht-degree: 96%
 
 ---
@@ -26,7 +26,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront-Testversand]: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | Donnerstag, 17. Januar 2024 |
-| [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Mittwoch, 16. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Dienstag, 9. Januar 2023 |
 
 {style="table-layout:auto"}
@@ -37,8 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Aus Word-Dokumenten erstellte Korrekturabzüge enthalten keine Kommentare oder Markups](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | Freitag, 4. Januar 2024 |
-| [Startseite: Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | Freitag, 4. Januar 2024 |
+| [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |

@@ -4,13 +4,13 @@ description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16797'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront] Aktualisierungen der Wartung im Jahr 2022
+# Wartungs-Updates für [!DNL Workfront] im Jahr 2022
 
 Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 

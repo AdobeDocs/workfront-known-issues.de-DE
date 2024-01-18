@@ -4,7 +4,7 @@ description: "Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, 
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.—>
+>Dieses Problem wurde am Samstag, 12. Januar 2024 behoben.-->
 
 Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit einem [!DNL Workfront]-Objekt verbunden ist, sehen sie die folgende Meldung:
 

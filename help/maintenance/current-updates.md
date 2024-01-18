@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -85,7 +85,7 @@ This may occur even when the user could previously see comments on the card.
 
 Zuvor bestand die einzige Möglichkeit, abgeschlossene Arbeiten auf einer dynamischen Pinnwand einzubeziehen, darin, die Karten als archivierte Karten zu laden. Andernfalls wurden die abgeschlossenen Karten überhaupt nicht auf die Pinnwand geladen. Dies führte zu Problemen bei der Suche nach Karten.
 
-Beim Erstellen einer dynamischen Pinnwand werden abgeschlossene Karten standardmäßig als archivierte Karten geladen. Sie können jedoch die Option Nicht archivieren abgeschlossener Karten auswählen, um alle abgeschlossenen Karten auf der Pinnwand als sichtbare Karten in der Spalte Abgeschlossen zu laden.
+Beim Erstellen einer dynamischen Pinnwand werden abgeschlossene Karten standardmäßig als archivierte Karten geladen. Sie können jedoch die Option „Abgeschlossene Karten nicht archivieren“ auswählen, um alle abgeschlossenen Karten auf der Pinnwand als sichtbare Karten in der Spalte „Abgeschlossen“ zu laden.
 
 +++
 

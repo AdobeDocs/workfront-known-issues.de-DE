@@ -1,13 +1,13 @@
 ---
-title: "Pinnwände: Fehler im Kommentarabschnitt von Karten"
-description: Wenn ein Benutzer eine Karte anzeigt und zum [!UICONTROL Kommentare], werden Kommentare nicht angezeigt und der Benutzer sieht einen Fehler.
+title: 'Pinnwände: Fehler im Abschnitt „Kommentare“ von Karten'
+description: Wenn jemand eine Karte aufruft und zum Abschnitt [!UICONTROL Kommentare] scrollt, werden nicht die Kommentare, sondern eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 

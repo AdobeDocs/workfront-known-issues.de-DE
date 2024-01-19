@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 98%
+source-wordcount: '1959'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Einrichtung]: Optionale Status können nicht ausgeblendet werden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

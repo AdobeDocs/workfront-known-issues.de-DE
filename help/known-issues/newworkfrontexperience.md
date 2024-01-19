@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 99%
+source-wordcount: '794'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | Freitag, 19. Januar 2023 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Dienstag, 9. Januar 2023 |
 | [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
 
@@ -36,6 +37,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | Samstag, 19. Januar 2024 |
+| [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | Samstag, 19. Januar 2024 |
 | [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |
 | [Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | Samstag, 5. Januar 2024 |
 | [Aufgaben: Fenster wird beim Erstellen einer neuen Aufgabe geschlossen](known-issues-workfront/wf-tasks-new-window-closes.md) | Freitag, 4. Januar 2024 |

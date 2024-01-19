@@ -3,15 +3,19 @@ title: „Fehler beim Anhängen von Vorlagen an ein Projekt“
 description: „Beim Versuch, eine Vorlage an ein Projekt anzuhängen, wird folgender Fehler angezeigt. Eine Problemumgehung ist verfügbar.“
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Vorlagen: Fehler beim Anhängen von Vorlagen an ein Projekt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 18. Januar 2024 behoben.
 
 Beim Versuch, eine Vorlage an ein Projekt anzuhängen, wird folgender Fehler angezeigt:
 

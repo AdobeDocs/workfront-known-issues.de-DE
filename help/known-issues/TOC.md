@@ -5,7 +5,7 @@ role: User
 source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
 source-wordcount: '1959'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
-      + [[!UICONTROL Einrichtung]: Optionale Status können nicht ausgeblendet werden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [[!UICONTROL Setup]: Optionale Status können nicht ausgeblendet werden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Pinnwände: Karte wird bei Verwendung der Pinnwandansicht in einem Projekt nicht geschlossen](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
-      + [[!UICONTROL Workfront-Testversand]: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
+      + [[!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront-Korrekturabzug]: Verzögerte E-Mails und Benachrichtigungen](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md)

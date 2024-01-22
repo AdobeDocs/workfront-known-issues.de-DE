@@ -1,20 +1,20 @@
 ---
-title: "Workfront-Testversand: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden"
-description: "Wenn ein Benutzer im Workfront-Testversand versucht, die Assets, die zu einem Testversand kombiniert werden, neu anzuordnen, kann er die Dateien nicht ziehen und die Reihenfolge der Dateien bleibt unverändert."
+title: "Workfront Proof: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden"
+description: "Beim Versuch, die Assets, die zu einem Korrekturabzug kombiniert werden, in Workfront Proof neu anzuordnen, können die Dateien nicht gezogen werden und die Reihenfolge der Dateien bleibt unverändert."
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Workfront-Testversand]: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden
+# [!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden
 
-wenn sich ein Benutzer [!UICONTROL Workfront-Testversand] versucht, die Assets, die zu einem Testversand zusammengefasst werden, neu anzuordnen, sie können die Dateien nicht ziehen und die Reihenfolge der Dateien bleibt unverändert.
+Beim Versuch, die Assets, die zu einem Korrekturabzug kombiniert werden, in [!UICONTROL Workfront Proof] neu anzuordnen, können die Dateien nicht gezogen werden und die Reihenfolge der Dateien bleibt unverändert.
 
-Die Neuanordnung von Assets für einen Testversand funktioniert wie in [!DNL Workfront].
+Die Neuanordnung von Assets für einen Korrekturabzug wird in [!DNL Workfront] erwartet.
 
 _Erste Meldung am Freitag, 4. Januar 2024._

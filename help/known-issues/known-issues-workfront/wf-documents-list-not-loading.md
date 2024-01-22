@@ -4,22 +4,22 @@ description: "Es wurden Probleme bei der Anzeige von Dokumentlisten gemeldet. We
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 
 # Dokumente: Probleme beim Anzeigen von Dokumentlisten
 
-Folgende Probleme wurden bei der Anzeige von Dokumentlisten gemeldet:
+Folgende Probleme bei der Anzeige von Dokumentlisten wurden gemeldet:
 
-* **Miniaturansicht oder Standardansicht**: Die Dokumentliste wird nicht aufgelistet.
-* **Listenansicht**: Die Dokumentliste wird geladen, dem Benutzer wird jedoch der folgende Fehler angezeigt:
+* **Miniaturansicht oder Standardansicht**: Die Dokumentliste wird nicht aufgeführt.
+* **Listenansicht**: Die Dokumentliste wird geladen, Benutzenden wird jedoch folgender Fehler angezeigt:
 
   „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
-Dieses Problem wurde in der Sandbox-Umgebung gemeldet.
+Diese Probleme wurden in folgender Sandbox-Umgebung gemeldet:
 
 _Erste Meldung am 9. Januar._

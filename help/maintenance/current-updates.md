@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 81%
+source-wordcount: '1085'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,24 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Januar 2024
+
++++**Wartungs-Update vom Freitag, 25. Januar 2024**
+
+### Wartungs-Update am Freitag, 25. Januar 2024
+
+#### Pinnwände
+
+**Karten werden bei Änderung des Status nicht in die entsprechende Spalte verschoben**
+
+Wenn der Status des verknüpften Objekts einer verbundenen Karte direkt auf dem Objekt geändert wird, wird die Karte nicht in die entsprechende Spalte verschoben. Wenn der Objektstatus auf der Karte geändert wird oder die Karte in die neue Spalte gezogen wird, verhält sich die Karte erwartungsgemäß.
+
+#### Benachrichtigungen
+
+**Markieren von Benachrichtigungen wie angezeigt wird nicht beibehalten**
+
+Wenn ein Benutzer seine Benachrichtigungen als angezeigt markiert und dann zu einer anderen Seite innerhalb von [!DNL Workfront], zeigt das Benachrichtigungssymbol weiterhin die Anzahl der ungelesenen Benachrichtigungen an, die vorhanden waren, bevor der Benutzer sie als angezeigt markiert hat, und die Benachrichtigungen werden weiterhin angezeigt, wenn der Benutzer auf das Symbol klickt. Dies wird fortgesetzt, wenn der Benutzer sie als angezeigt markiert und zu einer anderen Seite oder zurück zur ursprünglichen Seite navigiert.
+
++++
 
 +++**Wartungs-Update vom Freitag, 18. Januar 2024**
 
@@ -91,7 +109,7 @@ Wenn ein Benutzer benutzerdefinierte Terminologie auf der Ebene des Portfolios f
 
 **Optionale Status können nicht ausgeblendet werden**
 
-Wenn ein Benutzer versucht, optionale Status auf System- und Gruppenebene auszublenden, wird der Status nicht ausgeblendet. Wenn der Benutzer den Status anzeigt, ist die Option zum Ausblenden des Status nicht aktiviert, obwohl der Benutzer ihn aktiviert und die Änderungen gespeichert hat.
+Beim Versuch, optionale Status auf System- und Gruppenebene auszublenden, wird der Status nicht ausgeblendet. Beim Anzeigen des Status ist die Option zum Ausblenden des Status nicht aktiviert, obwohl Benutzende ihn aktiviert und die Änderungen gespeichert haben.
 
 **Standardmäßige Problemstatus fehlen in einigen Problemtypen in der Einrichtung**
 

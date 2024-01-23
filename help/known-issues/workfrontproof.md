@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 100%
+source-wordcount: '400'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,10 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Mittwoch, 23. Januar 2024 |
+| [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [[!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | Donnerstag, 17. Januar 2024 |
-| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Dienstag, 9. Januar 2023 |
+| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 
 {style="table-layout:auto"}
 

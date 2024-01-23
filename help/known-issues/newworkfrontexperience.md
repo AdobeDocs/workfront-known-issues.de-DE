@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 96%
+source-wordcount: '821'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | Freitag, 19. Januar 2023 |
-| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Dienstag, 9. Januar 2023 |
-| [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | 20. Oktober 2023 |
+| [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Mittwoch, 23. Januar 2024 |
+| [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
+| [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | Mittwoch, 23. Januar 2024 |
+| [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | Samstag, 19. Januar 2024 |
+| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
+| [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | Montag, 20. Oktober 2024 |
 
 {style="table-layout:auto"}
 

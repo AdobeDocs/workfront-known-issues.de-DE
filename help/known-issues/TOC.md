@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '1959'
-ht-degree: 98%
+source-wordcount: '1983'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)

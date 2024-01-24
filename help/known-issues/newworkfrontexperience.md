@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 94%
+source-wordcount: '844'
+ht-degree: 91%
 
 ---
 
@@ -40,6 +40,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | Donnerstag, 24. Januar 2024 |
+| [Aktualisierungen: Probleme mit dem Tagging von Legacy-Kommentaren](known-issues-workfront/wf-updates-showing-first-name.md) | Donnerstag, 24. Januar 2024 |
 | [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | Samstag, 19. Januar 2024 |
 | [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | Samstag, 19. Januar 2024 |
 | [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |

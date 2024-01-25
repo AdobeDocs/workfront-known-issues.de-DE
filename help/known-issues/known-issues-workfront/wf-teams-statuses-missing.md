@@ -3,9 +3,9 @@ title: "Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche �
 description: "Es wurden Probleme bezüglich des Status der Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet. Eine Problemumgehung ist verfügbar."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]
 
+<!--
+
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 18. Januar 2024 behoben.
+>This issue was fixed on January 18, 2024.
+
+-->
 
 Die folgenden Probleme wurden bezüglich des Status für die Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet:
 

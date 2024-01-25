@@ -3,9 +3,9 @@ title: "Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen"
 description: "Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt und dann die Iteration ändert, sind die für die neue Iteration angezeigten Karten die Karten aus einer Iteration, die die Benutzerin bzw. der Benutzer zuvor gesehen hat."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Pinnwände: Karten bleiben beim Wechseln der Iteration bestehen
 
+<!--
+
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 18. Januar 2024 behoben.
+>This issue was fixed on January 18, 2024.
+
+-->
 
 Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt und dann die Iteration ändert, sind die für die neue Iteration angezeigten Karten die Karten aus einer Iteration, die die Benutzerin bzw. der Benutzer zuvor gesehen hat.
 

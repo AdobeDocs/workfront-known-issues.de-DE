@@ -3,15 +3,19 @@ title: "Integrationen: Time-Log von Workfront für die Jira-Integration nicht m�
 description: "Wenn ein Benutzer versucht, sich in der Workfront For Jira-Integration anzumelden, wird die Zeit nicht protokolliert, und der Benutzer sieht einen Fehler."
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
 
 # Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 19. Januar behoben. 2024
 
 Wenn ein Benutzer versucht, sich in der Workfront For Jira-Integration anzumelden, wird die Zeit nicht protokolliert und der Benutzer sieht den folgenden Fehler:
 

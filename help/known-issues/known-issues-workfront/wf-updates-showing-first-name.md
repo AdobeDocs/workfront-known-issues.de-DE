@@ -3,15 +3,19 @@ title: "Aktualisierungen: Probleme mit dem Tagging im bisherigen Kommentierungse
 description: "Wenn ein Benutzer in einem Kommentar im bisherigen Kommentierungserlebnis mit Tags versehen ist, treten mehrere Probleme auf."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # Aktualisierungen: Probleme mit dem Tagging von Legacy-Kommentaren
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 25. Januar 2024 behoben.
 
 Wenn ein Benutzer in einem Kommentar im Legacy-Kommentar-Erlebnis getaggt wird, treten die folgenden Probleme auf:
 

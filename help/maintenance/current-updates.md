@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 80%
+source-wordcount: '1158'
+ht-degree: 75%
 
 ---
 
@@ -37,6 +37,19 @@ Wenn der Status des verknüpften Objekts einer verbundenen Karte direkt auf dem 
 **Markieren von Benachrichtigungen wie angezeigt wird nicht beibehalten**
 
 Wenn ein Benutzer seine Benachrichtigungen als angezeigt markiert und dann zu einer anderen Seite innerhalb von [!DNL Workfront], zeigt das Benachrichtigungssymbol weiterhin die Anzahl der ungelesenen Benachrichtigungen an, die vorhanden waren, bevor der Benutzer sie als angezeigt markiert hat, und die Benachrichtigungen werden weiterhin angezeigt, wenn der Benutzer auf das Symbol klickt. Dies wird fortgesetzt, wenn der Benutzer sie als angezeigt markiert und zu einer anderen Seite oder zurück zur ursprünglichen Seite navigiert.
+
+#### Updates
+
+**Probleme mit dem Tagging im alten Kommentierungserlebnis**
+
+Wenn ein Benutzer in einem Kommentar im Legacy-Kommentar-Erlebnis getaggt wird, treten die folgenden Probleme auf:
+
+* Im Kommentar ist nur der Vorname des Benutzers enthalten
+* Der Name des Benutzers ist nicht mit einem @-Symbol gekennzeichnet
+* Der Name des Benutzers ist nicht blau
+* Der Name des Benutzers ist kein Link zum Profil dieses Benutzers.
+
+Der Benutzer erhält wie erwartet eine E-Mail-Benachrichtigung zum -Tag.
 
 +++
 
@@ -142,9 +155,9 @@ Ein Kommentar, der im alten Kommentierungserlebnis abgegeben wurde, ist im neuen
 
 +++
 
-+++**Wartungs-Update vom Donnerstag, 11. Januar 2023**
++++**Wartungs-Update vom Freitag, 11. Januar 2024**
 
-### Wartungs-Update am 11. Januar 2023
+### Wartungs-Update am Freitag, 11. Januar 2024
 
 #### Pinnwände
 

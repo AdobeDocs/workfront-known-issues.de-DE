@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 91%
+source-wordcount: '814'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Mittwoch, 23. Januar 2024 |
 | [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | Mittwoch, 23. Januar 2024 |
-| [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | Samstag, 19. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 | [Pinnwände: Suche funktioniert nicht](known-issues-workfront/wf-boards-search-not-working.md) | Montag, 20. Oktober 2024 |
 
@@ -41,7 +40,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
 | [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | Donnerstag, 24. Januar 2024 |
-| [Aktualisierungen: Probleme mit dem Tagging von Legacy-Kommentaren](known-issues-workfront/wf-updates-showing-first-name.md) | Donnerstag, 24. Januar 2024 |
 | [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | Samstag, 19. Januar 2024 |
 | [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | Samstag, 19. Januar 2024 |
 | [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |
@@ -51,7 +49,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | Freitag, 4. Januar 2024 |
 | [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | Dienstag, 18. Dezember 2023 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
-| [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 14. Dezember 2023 |
 | [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Freitag, 30. November 2023 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6. November 2023 |
 | [Aufgaben: „[!UICONTROL Hoppla]“-Fehler in Aufgabenkopfzeile](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25. Oktober 2023 |

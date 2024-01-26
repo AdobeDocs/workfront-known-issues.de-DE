@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '2012'
-ht-degree: 96%
+source-wordcount: '2017'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [Aktualisierungen: Probleme mit dem Tagging von Legacy-Kommentaren](known-issues-workfront/wf-updates-showing-first-name.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 93%
+source-wordcount: '828'
+ht-degree: 92%
 
 ---
 
@@ -38,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md) | Samstag, 26. Januar 2024 |
 | [[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | Freitag, 25. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |
 | [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | Freitag, 25. Januar 2024 |

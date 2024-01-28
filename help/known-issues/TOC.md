@@ -92,8 +92,7 @@ ht-degree: 94%
       + [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
-      + [Aktualisierungen: Im neuen Kommentarerlebnis vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar
-](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [Aktualisierungen: Im neuen Kommentarerlebnis vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Startseite]: Das [!UICONTROL Anfragen]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md)

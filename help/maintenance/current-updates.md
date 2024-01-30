@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
 source-wordcount: '1158'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -36,7 +36,7 @@ Wenn der Status des verknüpften Objekts einer verbundenen Karte direkt auf dem 
 
 **Markieren von Benachrichtigungen wie angezeigt wird nicht beibehalten**
 
-Wenn ein Benutzer seine Benachrichtigungen als angezeigt markiert und dann zu einer anderen Seite innerhalb von [!DNL Workfront], zeigt das Benachrichtigungssymbol weiterhin die Anzahl der ungelesenen Benachrichtigungen an, die vorhanden waren, bevor der Benutzer sie als angezeigt markiert hat, und die Benachrichtigungen werden weiterhin angezeigt, wenn der Benutzer auf das Symbol klickt. Dies wird fortgesetzt, wenn der Benutzer sie als angezeigt markiert und zu einer anderen Seite oder zurück zur ursprünglichen Seite navigiert.
+Wenn eine Person ihre Benachrichtigungen als angezeigt markiert und dann zu einer anderen Seite innerhalb von [!DNL Workfront] wechselt, zeigt das Benachrichtigungssymbol weiterhin die Anzahl der ungelesenen Benachrichtigungen an, die vorhanden waren, bevor sie als angezeigt markiert wurden, und die Benachrichtigungen werden auch weiterhin angezeigt, wenn auf das Symbol geklickt wird. Dies ändert sich nicht, wenn sie als angezeigt markiert werden und zu einer anderen Seite oder zurück zur ursprünglichen Seite navigiert wird.
 
 #### Updates
 
@@ -65,21 +65,21 @@ Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich da
 
 Dieser Vorfall wurde für Karten im Zusammenhang mit Problemen gemeldet.
 
-**Karte erscheint bei mehreren Sprints**
+**Karte wird in mehreren Sprints angezeigt**
 
 Wenn Benutzende einen Sprint auf Pinnwänden anzeigen, werden Karten aus unterschiedlichen Sprints auf der Pinnwand angezeigt. Dieses Problem tritt vorübergehend auf.
 
-**Die Karte wird nicht geschlossen, wenn die Pinnwandansicht in einem Projekt verwendet wird**
+**Karte wird bei Verwendung der Ansicht „Pinnwände“ in einem Projekt nicht geschlossen**
 
 Wenn eine Benutzerin bzw. ein Benutzer die Ansicht „Pinnwände“ in einer Aufgabenliste in einem Projekt anzeigt und eine Karte erstellt, wird die Karte nicht geschlossen oder gespeichert. Dadurch wird verhindert, dass die Benutzerin bzw. der Benutzer zum Projekt zurückkehrt.
 
 Um die Karte zu schließen, muss die Benutzerin bzw. der Benutzer die URL bearbeiten, um „Pinnwand“ und alles, was sich rechts neben „Pinnwand“ befindet, zu entfernen.
 
-**Karten bleiben beim Wechseln der Iteration bestehen**
+**Karten bleiben bei Iterationsänderungen bestehen**
 
 Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt und dann die Iteration ändert, sind die für die neue Iteration angezeigten Karten die Karten aus einer Iteration, die die Benutzerin bzw. der Benutzer zuvor gesehen hat.
 
-**Fehler in [!UICONTROL Kommentare] Kartenabschnitt**
+**Fehler im Kartenabschnitt [!UICONTROL Kommentare]**
 
 Wenn jemand eine Karte aufruft und zum Abschnitt [!UICONTROL Kommentare] scrollt, werden nicht die Kommentare, sondern eine Fehlermeldung angezeigt:
 
@@ -92,7 +92,7 @@ Die folgenden Probleme wurden in Bezug auf die Anzeige des Status von Unteraufga
 * Der Status wird auch dann als „Status auswählen“ angezeigt, wenn die Aufgabe bereits über einen Status verfügt. Dieser Status wird angezeigt, wenn die Aufgabe direkt angezeigt wird.
 * Beim Versuch, einen Status auszuwählen, wird der Bildschirm leer angezeigt und muss aktualisiert werden.
 
-**&quot;[!UICONTROL Sie haben keinen Zugriff]&quot; beim Anzeigen von Kommentaren auf einer Karte**
+**„[!UICONTROL Sie haben keinen Zugriff]“ beim Anzeigen von Kommentaren auf einer Karte**
 
 Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit einem [!DNL Workfront]-Objekt verbunden ist, sehen sie die folgende Meldung:
 
@@ -102,7 +102,7 @@ Dies kann auch auftreten, wenn die Benutzenden zuvor Kommentare auf der Karte se
 
 #### Benutzerdefinierte Formulare in meiner Gruppe
 
-**Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder daraus entfernt werden**
+**Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden**
 
 Wenn Benutzende versuchen, ein benutzerdefiniertes Formular in einer Vorlagenaufgabe stapelweise hinzuzufügen oder zu entfernen, wird das Formular nicht hinzugefügt bzw. entfernt und es wird der folgende Fehler angezeigt:
 
@@ -116,7 +116,7 @@ Benutzerdefinierte Formulare können für eine einzelne Vorlagenaufgabe hinzugef
 
 **Benutzerdefinierte Terminologie gilt nicht für Gruppenseite**
 
-Wenn ein Benutzer benutzerdefinierte Terminologie auf der Ebene des Portfolios festlegt, gilt die Terminologie nicht für die Seite auf Gruppenebene.
+Bei der Festlegung benutzerdefinierter Terminologie auf der Ebene des Portfolios gilt die Terminologie nicht für die Seite auf Gruppenebene.
 
 #### Setup
 
@@ -124,13 +124,13 @@ Wenn ein Benutzer benutzerdefinierte Terminologie auf der Ebene des Portfolios f
 
 Beim Versuch, optionale Status auf System- und Gruppenebene auszublenden, wird der Status nicht ausgeblendet. Beim Anzeigen des Status ist die Option zum Ausblenden des Status nicht aktiviert, obwohl Benutzende ihn aktiviert und die Änderungen gespeichert haben.
 
-**Standardmäßige Problemstatus fehlen in einigen Problemtypen in der Einrichtung**
+**Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup**
 
 Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.
 
 #### Teams
 
-**Probleme beim Festlegen des Teamstatus für [!UICONTROL Fertig] button**
+**Probleme beim Festlegen von Team-Status für die Schaltfläche [!UICONTROL Fertig]**.
 
 Die folgenden Probleme wurden bezüglich des Status für die Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet:
 
@@ -139,7 +139,7 @@ Die folgenden Probleme wurden bezüglich des Status für die Schaltfläche [!UIC
 
 #### Vorlagen
 
-**Fehler beim Anhängen der Vorlage an das Projekt**
+**Fehler beim Anhängen von Vorlagen an ein Projekt**
 
 Beim Versuch, eine Vorlage an ein Projekt anzuhängen, wird folgender Fehler angezeigt:
 
@@ -149,9 +149,9 @@ Dies tritt auf, wenn die Person nicht über die Berechtigung zum Anzeigen des an
 
 #### Updates
 
-**Kommentare übertragen nicht zwischen alten und neuen Erlebnissen**
+**Kommentare werden nicht vom alten zum neuen Erlebnis übertragen**
 
-Ein Kommentar, der im alten Kommentierungserlebnis abgegeben wurde, ist im neuen Kommentierungserlebnis möglicherweise nicht sichtbar. Das Gegenteil kann auch auftreten.
+Ein Kommentar, der im alten Kommentierungserlebnis abgegeben wurde, ist im neuen Kommentierungserlebnis möglicherweise nicht sichtbar. Das Gegenteil kann ebenfalls auftreten.
 
 +++
 

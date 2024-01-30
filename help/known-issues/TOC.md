@@ -5,7 +5,7 @@ role: User
 source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
 workflow-type: tm+mt
 source-wordcount: '1482'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
       + [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [Integrationen: Die Protokollzeit von Workfront für die Jira-Integration kann nicht gesendet werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
-      + [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [Benachrichtigungen: Kennzeichnungs-Benachrichtigungen wie angezeigt werden bleiben nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [Integrationen: Zeit kann nicht von Workfront für Jira-Integration protokolliert werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Updates: Bilder können in Kommentaren nicht angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Benachrichtigungen: Markierung von Benachrichtigungen als gelesen bleibt nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Setup]: Optionale Status können nicht ausgeblendet werden](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

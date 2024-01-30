@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
 workflow-type: tm+mt
 source-wordcount: '807'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -43,7 +43,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | Freitag, 25. Januar 2024 |
 | [Pinnwände: Karten bleiben bei Änderungen der Iteration bestehen](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | Freitag, 25. Januar 2024 |
 | [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | Donnerstag, 24. Januar 2024 |
-| [Aktualisierungen: Bilder können nicht in Kommentaren angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | Samstag, 19. Januar 2024 |
+| [Updates: Bilder können in Kommentaren nicht angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | Samstag, 19. Januar 2024 |
 | [Dokumente: Probleme beim Anzeigen von Dokumentlisten](known-issues-workfront/wf-documents-list-not-loading.md) | Freitag, 18. Januar 2024 |
 | [Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | Samstag, 5. Januar 2024 |
 | [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | Freitag, 4. Januar 2024 |

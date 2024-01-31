@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 93%
+source-wordcount: '838'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Eine Karte in einer Spalte kann nicht mithilfe von [!UICONTROL Verschieben] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | Samstag, 26. Januar 2024 |
 | [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Mittwoch, 23. Januar 2024 |
 | [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -37,6 +38,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md) | Donnerstag, 31. Januar 2024 |
+| [Aktualisierungen: Die Option Bild deaktiviert ist beim Bearbeiten eines Kommentars verfügbar](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | Donnerstag, 31. Januar 2024 |
 | [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md) | Samstag, 26. Januar 2024 |
 | [[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | Freitag, 25. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |

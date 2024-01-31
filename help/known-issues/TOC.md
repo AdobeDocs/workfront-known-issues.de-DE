@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 95%
+source-wordcount: '1510'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Aktualisierungen: Die Option Bild deaktiviert ist beim Bearbeiten eines Kommentars verfügbar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Pinnwände: Eine Karte in einer Spalte kann nicht mithilfe von [!UICONTROL Verschieben] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)

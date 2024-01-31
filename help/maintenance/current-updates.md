@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 92%
+source-wordcount: '1333'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,43 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
+## Updates im Februar 2024
+
++++**(Geplantes) Wartungs-Update vom Freitag, 1. Februar 2024**
+
+### (Geplant) Aktualisierung der Wartung am 1. Februar 2024
+
+#### Anmeldung
+
+**Benutzer, die SSO verwenden, werden beim Anmelden nicht zum ursprünglichen Speicherort weitergeleitet**
+
+Wenn sich ein Benutzer auf einer Seite in [!DNL Workfront] und melden sich mit SSO an, wenn die Anmeldung abgeschlossen ist, werden sie an [!UICONTROL Startseite] anstelle der Seite, auf der sie sich vor der Anmeldung befanden.
+
+#### Vorlagen
+
+**Fehler beim Kopieren von Vorlagen**
+
+Wenn ein Benutzer versucht, eine neue oder vorhandene Vorlage zu kopieren, wird die Vorlage nicht kopiert und der Benutzer sieht den folgenden Fehler:
+
+&quot;[!UICONTROL ID darf nicht null sein]&quot;
+
++++
+
 ## Updates im Januar 2024
+
++++**Wartungs-Update (Hotfix) vom Mittwoch, 30. Januar 2024**
+
+### Wartungs-Update (Hotfix) am 30. Januar 2024
+
+#### Berichte
+
+**Im Feld Externe API werden nicht alle verfügbaren Werte in Listen und Berichten angezeigt.**
+
+Zuvor konnten Benutzer den ausgewählten Wert (und den Wert) für ein externes Suchfeld in Listen und Berichten sehen, aber das Dropdown-Menü mit den Optionen aus der API wurde nicht angezeigt.
+
+Wenn jetzt ein benutzerdefiniertes externes Lookup-Feld in einer Liste oder einem Bericht verwendet wird, ist das Dropdown-Menü mit allen Optionen aus der externen API verfügbar.
+
++++
 
 +++**Wartungs-Update vom Freitag, 25. Januar 2024**
 

@@ -3,15 +3,19 @@ title: '„Updates: Bilder können in Kommentaren nicht angezeigt oder herunterg
 description: „Wenn versucht wird, ein Bild aus einem Kommentar in Workfront anzuzeigen oder herunterzuladen, wird ein Fehler angezeigt.“
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 
 # Updates: Bilder können in Kommentaren nicht angezeigt oder heruntergeladen werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 25. Januar 2024 behoben.
 
 Wenn versucht wird, ein Bild aus einem Kommentar in Workfront anzuzeigen oder herunterzuladen, wird der folgende Fehler angezeigt:
 

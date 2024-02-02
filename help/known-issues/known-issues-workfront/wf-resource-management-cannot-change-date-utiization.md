@@ -1,20 +1,20 @@
 ---
-title: "[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area"
-description: "Wenn ein Benutzer die [!UICONTROL Nutzung] Gebiet von [!UICONTROL Ressourcenverwaltung] und versucht, den Datumsbereich zu ändern, ändern sich die Daten nicht und der Benutzer sieht einen Fehler."
+title: '„[!UICONTROL Ressourcen-Management]: Datum kann im Bereich [!UICONTROL Nutzung] nicht geändert werden.“'
+description: „Wenn Benutzende den Bereich [!UICONTROL Nutzung] von [!UICONTROL Ressourcen-Management] anzeigen und versuchen, den Datumsbereich zu ändern, ändern sich die Daten nicht und ein Fehler wird angezeigt.“
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area
+# [!UICONTROL Ressourcen-Management]: Datum kann im Bereich [!UICONTROL Nutzung] nicht geändert werden
 
-Wenn ein Benutzer die [!UICONTROL Nutzung] Gebiet von [!UICONTROL Ressourcenverwaltung] und versucht, den Datumsbereich zu ändern, ändern sich die Daten nicht und der Benutzer sieht den folgenden Fehler:
+Wenn Benutzende den Bereich [!UICONTROL Nutzung] von [!UICONTROL Ressourcen-Management] anzeigen und versuchen, den Datumsbereich zu ändern, ändern sich die Daten nicht und der folgende Fehler wird angezeigt:
 
-„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Um mit der Arbeit fortzufahren, versuchen Sie erneut, diesen Browser zu aktualisieren.]&quot;
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems. Aktualisieren Sie diesen Browser erneut, um mit Ihrer Arbeit fortzufahren.]“
 
 _Erste Meldung am Donnerstag, 24. Januar 2024._

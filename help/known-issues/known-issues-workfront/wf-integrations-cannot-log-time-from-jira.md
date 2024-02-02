@@ -4,9 +4,9 @@ description: „Wenn Benutzende mithilfe der Workfront for Jira-Integration vers
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->Dieses Problem wurde am 19. Januar behoben. 2024
+>Dieses Problem wurde am 19. Januar 2024 behoben.
 
 Wenn Benutzende mithilfe der Workfront for Jira-Integration versuchen, Zeit zu protokollieren, wird die Zeit nicht protokolliert und es wird der folgende Fehler angezeigt:
 

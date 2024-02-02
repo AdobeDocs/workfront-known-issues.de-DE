@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 93%
       + [Aktualisierungen: Die Option Bild deaktiviert ist beim Bearbeiten eines Kommentars verfügbar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Pinnwände: Eine Karte in einer Spalte kann nicht mithilfe von [!UICONTROL Verschieben] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL Ressourcenverwaltung]: Datum kann nicht geändert werden in [!UICONTROL Nutzung] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [Aktualisierungen: Kommentare, die im alten Kommentierungserlebnis erstellt wurden, sind in neuen Erlebnissen nicht sichtbar](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [Aktualisierungen: Probleme mit dem Tagging von Legacy-Kommentaren](known-issues-workfront/wf-updates-showing-first-name.md)
-      + [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [Testsendungen: GIF werden als statische Testsendungen gerendert](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [Ressourcenverwaltung: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit der Rolle &quot;Auftrag&quot;](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [[!UICONTROL Ressourcen-Management]: Datum kann im Bereich [!UICONTROL Nutzung] nicht geändert werden](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [Aktualisierungen: Im alten Kommentarerlebnis vorgenommene Kommentare sind im neuen Erlebnis nicht sichtbar.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Aktualisierungen: Probleme mit dem Tagging von alten Kommentaren](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [Dokumente: Dokument kann nicht aus einem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Ressourcen-Management: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit dem Aufgabengebiet](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integrationen: Zeit kann nicht von Workfront für Jira-Integration protokolliert werden](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Updates: Bilder können in Kommentaren nicht angezeigt oder heruntergeladen werden](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Benachrichtigungen: Markierung von Benachrichtigungen als gelesen bleibt nicht bestehen](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
@@ -190,7 +190,7 @@ ht-degree: 93%
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion: RuntimeError mit 200-Antwort vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

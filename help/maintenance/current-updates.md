@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
 source-wordcount: '1332'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -36,9 +36,9 @@ Wenn sich ein Benutzer auf einer Seite in [!DNL Workfront] und melden sich mit S
 
 **Fehler beim Kopieren von Vorlagen**
 
-Wenn ein Benutzer versucht, eine neue oder vorhandene Vorlage zu kopieren, wird die Vorlage nicht kopiert und der Benutzer sieht den folgenden Fehler:
+Beim Versuch, eine neue oder vorhandene Vorlage zu kopieren, wird die Vorlage nicht kopiert und der folgende Fehler wird angezeigt:
 
-&quot;[!UICONTROL ID darf nicht null sein]&quot;
+„[!UICONTROL ID kann nicht null sein.]“
 
 +++
 
@@ -64,28 +64,28 @@ Wenn jetzt ein benutzerdefiniertes externes Lookup-Feld in einer Liste oder eine
 
 #### Pinnwände
 
-**Karten werden bei Änderung des Status nicht in die entsprechende Spalte verschoben**
+**Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben**
 
 Wenn der Status des verknüpften Objekts einer verbundenen Karte direkt auf dem Objekt geändert wird, wird die Karte nicht in die entsprechende Spalte verschoben. Wenn der Objektstatus auf der Karte geändert wird oder die Karte in die neue Spalte gezogen wird, verhält sich die Karte erwartungsgemäß.
 
 #### Benachrichtigungen
 
-**Markieren von Benachrichtigungen wie angezeigt wird nicht beibehalten**
+**Kennzeichnungs-Benachrichtigungen wie angezeigt bleiben nicht bestehen**
 
 Wenn eine Person ihre Benachrichtigungen als angezeigt markiert und dann zu einer anderen Seite innerhalb von [!DNL Workfront] wechselt, zeigt das Benachrichtigungssymbol weiterhin die Anzahl der ungelesenen Benachrichtigungen an, die vorhanden waren, bevor sie als angezeigt markiert wurden, und die Benachrichtigungen werden auch weiterhin angezeigt, wenn auf das Symbol geklickt wird. Dies ändert sich nicht, wenn sie als angezeigt markiert werden und zu einer anderen Seite oder zurück zur ursprünglichen Seite navigiert wird.
 
 #### Updates
 
-**Probleme mit dem Tagging im alten Kommentierungserlebnis**
+**Probleme mit dem Tagging von alten Kommentaren**
 
-Wenn ein Benutzer in einem Kommentar im Legacy-Kommentar-Erlebnis getaggt wird, treten die folgenden Probleme auf:
+Wenn Benutzende in einem Kommentar im alten Kommentar-Erlebnis getaggt werden, treten die folgenden Probleme auf:
 
-* Im Kommentar ist nur der Vorname des Benutzers enthalten
-* Der Name des Benutzers ist nicht mit einem @-Symbol gekennzeichnet
-* Der Name des Benutzers ist nicht blau
-* Der Name des Benutzers ist kein Link zum Profil dieses Benutzers.
+* Im Kommentar ist nur der Vorname der Person enthalten
+* Der Name der Benutzenden ist nicht mit einem @-Symbol gekennzeichnet
+* Der Name der Benutzenden ist nicht blau
+* Der Name der Benutzenden ist kein Link zum Profil dieser Benutzenden.
 
-Der Benutzer erhält wie erwartet eine E-Mail-Benachrichtigung zum -Tag.
+Die Benutzenden erhalten wie erwartet eine E-Mail-Benachrichtigung zum Tag.
 
 +++
 

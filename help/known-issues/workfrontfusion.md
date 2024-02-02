@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 90%
+ht-degree: 96%
 
 ---
 
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: RuntimeError mit 200-Antwort vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | Dienstag, 29. Januar 2024 |
+| [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | Dienstag, 29. Januar 2024 |
 
 {style="table-layout:auto"}
 

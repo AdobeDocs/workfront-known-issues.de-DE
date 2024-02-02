@@ -1,21 +1,29 @@
 ---
-title: '„Dokumentintegrationen: Es werden nicht alle Ordner in OneDrive angezeigt“'
-description: „Wenn Benutzende versuchen, über die OneDrive-Integration in Workfront auf ein Dokument zuzugreifen, können sie nicht alle OneDrive-Ordner sehen und nicht auf Dokumente in den fehlenden Ordnern zugreifen.“
+title: 'Document integrations: Cannot see all folders in OneDrive'
+description: Wenn ein Benutzer versucht, über die OneDrive-Integration in Workfront auf ein Dokument zuzugreifen, kann er nicht alle OneDrive-Ordner sehen und nicht auf Dokumente in den fehlenden Ordnern zugreifen.
 feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 59%
 
 ---
-
 
 # Dokumentintegrationen: Es werden nicht alle Ordner in [!DNL OneDrive] angezeigt
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde behoben.
+
+<!--
+
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
+-->
 
 „Wenn Benutzende versuchen, über die [!DNL OneDrive]-Integration in [!DNL Workfront] auf ein Dokument zuzugreifen, können sie nicht alle [!DNL OneDrive]-Ordner sehen und nicht auf Dokumente in den fehlenden Ordnern zugreifen.“
 
@@ -24,4 +32,3 @@ ht-degree: 100%
 Laden Sie die Datei direkt von [!DNL OneDrive] herunter, und laden Sie die Datei als Dokument in [!DNL Workfront] hoch.
 
 _Erste Meldung am 15. Mai 2023._
-

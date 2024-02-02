@@ -4,14 +4,16 @@ description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Ver
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: ht
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
 ---
 
 # Aktualisierungen: Name des Teams wird nicht in @mention angezeigt
+
+<!--Valid issue, won't fix-->
 
 Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version versucht, ein Team in einer Aktualisierung zu taggen, und der Team-Name aus mehreren Wörtern (z. B. „Team Name“) besteht, wird das Team nicht benachrichtigt und der Name erscheint nicht im Feld „An“. Wenn der Team-Name in das Feld [!UICONTROL Benachrichtigen] eingegeben wird, wird das Team wie erwartet benachrichtigt, doch nur ein Teil des Namens ist in der Aktualisierung mit Hyperlinks versehen.
 

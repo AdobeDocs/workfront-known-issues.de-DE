@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 17e60b281dc05073247083257121d8809a271722
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '1332'
-ht-degree: 90%
+source-wordcount: '1447'
+ht-degree: 86%
 
 ---
 
@@ -22,9 +22,31 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Februar 2024
 
++++**(Geplantes) Wartungs-Update vom Freitag, 8. Februar 2024**
+
+### (Geplant) Aktualisierung der Wartung am 8. Februar 2024
+
+#### Pinnwände
+
+**Karte kann nicht in einer Spalte mit [!UICONTROL Verschieben] options**
+
+Wenn ein Benutzer versucht, eine Karte in einer Spalte mithilfe der[!UICONTROL Spaltenanfang]&quot; oder &quot;[!UICONTROL Spaltenende]&quot;im Menü mit drei Punkten aus, die Karte wird nicht verschoben.
+
+**Karten bleiben bei Iterationsänderungen bestehen**
+
+Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt und dann die Iteration ändert, sind die für die neue Iteration angezeigten Karten die Karten aus einer Iteration, die die Benutzerin bzw. der Benutzer zuvor gesehen hat.
+
+#### Berichte
+
+**Spalte &quot;Kein Wert&quot;zeigt keine Ergebnisse an**
+
+Wenn ein Diagrammbericht einen &quot;[!DNL No value]&quot;, zeigt die Spalte keine Daten an, auch wenn Daten vorhanden sein sollten.
+
++++
+
 +++**Wartungs-Update vom Freitag, 1. Februar 2024**
 
-### (Geplant) Aktualisierung der Wartung am 1. Februar 2024
+### Wartungs-Update am 1. Februar 2024
 
 #### Anmeldung
 

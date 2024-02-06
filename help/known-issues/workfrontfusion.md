@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 92%
+source-wordcount: '177'
+ht-degree: 87%
 
 ---
 
@@ -36,6 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Workfront-Testversand > Überwachungstestmodul-Zeitüberschreitung](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | Mittwoch, 6. Februar 2024 |
 | [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | Dienstag, 29. Januar 2024 |
 
 {style="table-layout:auto"}

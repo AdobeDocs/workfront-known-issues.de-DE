@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1532'
+source-wordcount: '1542'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md)
       + [Aktualisierungen: Die Option Bild deaktiviert ist beim Bearbeiten eines Kommentars verfügbar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Pinnwände: Eine Karte in einer Spalte kann nicht mithilfe von [!UICONTROL Verschieben] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)

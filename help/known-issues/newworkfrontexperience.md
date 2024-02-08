@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
 workflow-type: tm+mt
-source-wordcount: '762'
-ht-degree: 97%
+source-wordcount: '773'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benutzer: Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 8. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 

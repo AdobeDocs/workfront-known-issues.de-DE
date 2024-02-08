@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1518'
 ht-degree: 86%
 
 ---
@@ -22,9 +22,9 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Februar 2024
 
-+++**(Geplantes) Wartungs-Update vom Freitag, 8. Februar 2024**
++++**Wartungs-Update vom Freitag, 8. Februar 2024**
 
-### (Geplant) Aktualisierung der Wartung am 8. Februar 2024
+### Wartungs-Update am 8. Februar 2024
 
 #### Pinnwände
 
@@ -41,6 +41,14 @@ Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt
 **Spalte &quot;Kein Wert&quot;zeigt keine Ergebnisse an**
 
 Wenn ein Diagrammbericht einen &quot;[!DNL No value]&quot;, zeigt die Spalte keine Daten an, auch wenn Daten vorhanden sein sollten.
+
+#### Ressourcenverwaltung
+
+**Falsche Finanzberechnungen aufgrund von Problemen mit der Auftragsrolle**
+
+Stunden- und Finanzberechnungen können falsch sein und Kosten von 0 anzeigen, obwohl Stunden in einem Aufgabengebiet protokolliert werden, das über einen Kostensatz verfügt.
+
+Dies liegt daran, dass Aufgabengebiete automatisch doppelte Raten ohne Start- oder Enddatum erstellen. Da sie kein Start- oder Enddatum haben, werden sie bei der Ausführung von Finanzberechnungen als Wert von 0 behandelt.
 
 +++
 

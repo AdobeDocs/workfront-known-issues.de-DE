@@ -3,15 +3,19 @@ title: '„Ressourcen-Management: Falsche Finanzberechnungen aufgrund von Proble
 description: „Stunden- und Finanzberechnungen können falsch sein und Kosten von 0 anzeigen, obwohl Stunden in einem Aufgabengebiet protokolliert werden, das über einen Kostensatz verfügt.“
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # Ressourcen-Management: Fehlerhafte Finanzberechnungen aufgrund von Problemen mit dem Aufgabengebiet
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 8. Februar 2024 behoben.
 
 Stunden- und Finanzberechnungen können falsch sein und Kosten von 0 anzeigen, obwohl Stunden in einem Aufgabengebiet protokolliert werden, das über einen Kostensatz verfügt.
 

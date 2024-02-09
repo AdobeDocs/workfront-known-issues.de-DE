@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 **Karte kann nicht in einer Spalte mit [!UICONTROL Verschieben] options**
 
-Wenn ein Benutzer versucht, eine Karte in einer Spalte mithilfe der[!UICONTROL Spaltenanfang]&quot; oder &quot;[!UICONTROL Spaltenende]&quot;im Menü mit drei Punkten aus, die Karte wird nicht verschoben.
+Wenn versucht wird, eine Karte in einer Spalte mithilfe der Optionen [!UICONTROL Spaltenanfang] oder [!UICONTROL Spaltenende] im Menü mit den drei Punkten zu verschieben, wird die Karte nicht verschoben.
 
 **Karten bleiben bei Iterationsänderungen bestehen**
 
@@ -58,9 +58,9 @@ Dies liegt daran, dass Aufgabengebiete automatisch doppelte Raten ohne Start- od
 
 #### Anmeldung
 
-**Benutzer, die SSO verwenden, werden beim Anmelden nicht zum ursprünglichen Speicherort weitergeleitet**
+**Benutzende, die SSO verwenden, werden beim Anmelden nicht zum ursprünglichen Standort weitergeleitet**
 
-Wenn sich ein Benutzer auf einer Seite in [!DNL Workfront] und melden sich mit SSO an, wenn die Anmeldung abgeschlossen ist, werden sie an [!UICONTROL Startseite] anstelle der Seite, auf der sie sich vor der Anmeldung befanden.
+Wenn sich Benutzende auf einer Seite in [!DNL Workfront] befinden und sich mit SSO anmelden, wenn die Anmeldung abgeschlossen ist, werden sie an die [!UICONTROL Startseite] weitergeleitet, anstelle der Seite, auf der sie sich vor der Anmeldung befanden.
 
 #### Vorlagen
 
@@ -76,15 +76,15 @@ Beim Versuch, eine neue oder vorhandene Vorlage zu kopieren, wird die Vorlage ni
 
 +++**Wartungs-Update (Hotfix) vom Mittwoch, 30. Januar 2024**
 
-### Wartungs-Update (Hotfix) am 30. Januar 2024
+### Wartungs-Update (Hotfix) vom 30. Januar 2024
 
 #### Berichte
 
-**Im Feld Externe API werden nicht alle verfügbaren Werte in Listen und Berichten angezeigt.**
+**Im Feld „Externe API“ werden nicht alle verfügbaren Werte in Listen und Berichten angezeigt.**
 
-Zuvor konnten Benutzer den ausgewählten Wert (und den Wert) für ein externes Suchfeld in Listen und Berichten sehen, aber das Dropdown-Menü mit den Optionen aus der API wurde nicht angezeigt.
+Zuvor konnten Benutzende den ausgewählten Wert für ein externes Suchfeld in Listen und Berichten sehen (und bearbeiten), aber die Dropdown-Liste mit den Optionen aus der API wurde nicht angezeigt.
 
-Wenn jetzt ein benutzerdefiniertes externes Lookup-Feld in einer Liste oder einem Bericht verwendet wird, ist das Dropdown-Menü mit allen Optionen aus der externen API verfügbar.
+Wenn jetzt ein benutzerdefiniertes externes Suchfeld in einer Liste oder einem Bericht verwendet wird, ist die Dropdown-Liste mit allen Optionen aus der externen API verfügbar.
 
 +++
 

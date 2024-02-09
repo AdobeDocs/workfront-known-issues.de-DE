@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 96%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Benutzer: Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md)
-      + [Aktualisierungen: Die Option Bild deaktiviert ist beim Bearbeiten eines Kommentars verfügbar](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [Pinnwände: Eine Karte in einer Spalte kann nicht mithilfe von [!UICONTROL Verschieben] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [Aktualisierungen: Option für deaktiviertes Bild ist beim Bearbeiten eines Kommentars verfügbar.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Pinnwände: Eine Karte kann mithilfe der Optionen zum [!UICONTROL Verschieben] nicht in einer Spalte verschoben werden](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Vorlagen: Fehler beim Kopieren von Vorlagen](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Ressourcen-Management]: Datum kann im Bereich [!UICONTROL Nutzung] nicht geändert werden](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Aktualisierungen: Im alten Kommentarerlebnis vorgenommene Kommentare sind im neuen Erlebnis nicht sichtbar.](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)

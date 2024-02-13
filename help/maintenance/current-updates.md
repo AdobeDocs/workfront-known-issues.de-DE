@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '1518'
-ht-degree: 96%
+source-wordcount: '1690'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Februar 2024
+
++++**(Geplantes) Wartungs-Update vom Freitag, 15. Februar 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 15. Februar 2024
+
+#### Probleme
+
+**Zeitfelder speichern falsche Zeit, wenn es bei der Massenbearbeitung zu Problemen kommt**
+
+Wenn jemand bei der Massenbearbeitung von Problemen ein Datum und eine Uhrzeit für ein Datumsfeld auswählt und speichert, ist die in diesem Feld gespeicherte Zeit nicht die ausgewählte Zeit. Stattdessen scheint die Zeit beim Speichern in UTC konvertiert zu werden.
+
+#### Aufgaben
+
+**Die Zuweisung des Benutzers zu einer oder mehreren Aufgaben wird aufgehoben.**
+
+Die Zuweisung einer Person zu einer Aufgabe kann automatisch aufgehoben werden. Dies kann bei einer oder mehreren Aufgaben der Fall sein. Die Aufhebung der Zuweisung wird nicht im Bereich „Systemaktualisierungen“ der Aufgaben angezeigt, obwohl sie im Abschnitt „Feeds aktualisieren“ des Setup-Menüs angezeigt wird.
+
+#### Updates
+
+**Die Option Bild deaktivieren ist beim Bearbeiten eines Kommentars verfügbar**
+
+Nachdem ein[!DNL Workfront]-Administrator die Option zum Hinzufügen von Bildern zu Kommentaren deaktiviert hat, ist diese Option beim Erstellen eines Kommentars nicht verfügbar. Beim Bearbeiten eines vorhandenen Kommentars ist die Bildoption jedoch verfügbar.
+
++++
 
 +++**Wartungs-Update vom Freitag, 8. Februar 2024**
 

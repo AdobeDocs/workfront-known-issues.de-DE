@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 95%
+source-wordcount: '1599'
+ht-degree: 96%
 
 ---
 
@@ -17,12 +17,13 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Aktualisierungen: Der Bildschirm wird bei der Beantwortung eines Benutzers von einem anderen Unternehmen leer angezeigt](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [Pinnwände: Beim Filtern nach mehreren Benutzern werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
-      + [Benutzer: Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
+      + [Benutzende: Beim Erstellen von Benutzenden ist keine niedrigere Zugriffsebene verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md)
       + [Aktualisierungen: Option für deaktiviertes Bild ist beim Bearbeiten eines Kommentars verfügbar.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Pinnwände: Eine Karte kann mithilfe der Optionen zum [!UICONTROL Verschieben] nicht in einer Spalte verschoben werden](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
@@ -195,7 +196,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Workfront-Testversand > Überwachungstestmodul-Zeitüberschreitung](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
+      + [Workfront Fusion: Workfront-Korrekturabzug > Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

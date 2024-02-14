@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 92%
+source-wordcount: '827'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Donnerstag, 14. Februar 2024 |
 | [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | Mittwoch, 13. Februar 2024 |
 | [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Mittwoch, 13. Februar 2024 |
 | [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
 | [Pinnwände: Beim Filtern nach mehreren Benutzern werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Dienstag, 12. Februar 2024 |
-| [Benutzer: Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 8. Februar 2024 |
+| [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 8. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 

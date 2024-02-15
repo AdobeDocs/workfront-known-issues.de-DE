@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront-Testversand > Überwachungstestmodul-Zeitüberschreitung](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | Mittwoch, 6. Februar 2024 |
+| [Workfront Fusion: Workfront-Korrekturabzug > Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | Mittwoch, 6. Februar 2024 |
 | [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | Dienstag, 29. Januar 2024 |
 
 {style="table-layout:auto"}

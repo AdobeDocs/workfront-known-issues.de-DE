@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 93%
+source-wordcount: '795'
+ht-degree: 92%
 
 ---
 
@@ -46,11 +46,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Freitag, 1. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |
 | [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md) | Donnerstag, 31. Januar 2024 |
-| [Aktualisierungen: Option für deaktiviertes Bild ist beim Bearbeiten eines Kommentars verfügbar.](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | Donnerstag, 31. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |
-| [Probleme: In Zeitfeldern wird bei der Massenbearbeitung von Problemen eine falsche Uhrzeit gespeichert](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | Samstag, 5. Januar 2024 |
 | [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | Freitag, 4. Januar 2024 |
-| [Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | Dienstag, 18. Dezember 2023 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Aufgaben: Beim Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Freitag, 30. November 2023 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6. November 2023 |

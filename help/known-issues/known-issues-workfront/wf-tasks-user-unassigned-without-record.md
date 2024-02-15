@@ -3,15 +3,19 @@ title: '„Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben 
 description: „Die Zuweisung einer Person zu einer Aufgabe kann automatisch aufgehoben werden. Dies kann bei einer oder mehreren Aufgaben der Fall sein. Die Aufhebung der Zuweisung wird nicht im Bereich „Systemaktualisierungen“ der Aufgaben angezeigt, obwohl sie im Abschnitt „Feeds aktualisieren“ des Setup-Menüs angezeigt wird.“
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Aufgaben: Die Zuweisung einer Person zu einer oder mehreren Aufgaben wird aufgehoben.
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 15. Februar 2024 behoben.
 
 Die Zuweisung einer Person zu einer Aufgabe kann automatisch aufgehoben werden. Dies kann bei einer oder mehreren Aufgaben der Fall sein. Die Aufhebung der Zuweisung wird nicht im Bereich „Systemaktualisierungen“ der Aufgaben angezeigt, obwohl sie im Abschnitt „Feeds aktualisieren“ des Setup-Menüs angezeigt wird.
 

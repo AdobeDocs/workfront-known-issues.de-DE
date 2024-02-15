@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '379'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Mittwoch, 13. Februar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 
 {style="table-layout:auto"}
@@ -36,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Freitag, 1. Februar 2024 |
+| [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Freitag, 15. Februar 2024 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |

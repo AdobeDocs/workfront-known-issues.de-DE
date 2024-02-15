@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: Workspace und Stifte werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | Freitag, 15. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Donnerstag, 14. Februar 2024 |
 | [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | Mittwoch, 13. Februar 2024 |
-| [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Mittwoch, 13. Februar 2024 |
 | [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
 | [Pinnwände: Beim Filtern nach mehreren Benutzern werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Dienstag, 12. Februar 2024 |
 | [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 8. Februar 2024 |
@@ -42,8 +42,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Freitag, 15. Februar 2024 |
 | [Aktualisierungen: Der Bildschirm wird bei der Beantwortung eines Benutzers von einem anderen Unternehmen leer angezeigt](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
-| [Dokumente: Dokument kann nicht aus dem Ordner in den Stammordner verschoben werden](known-issues-workfront/wf-documents-cannot-move-to-root.md) | Freitag, 1. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |
 | [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md) | Donnerstag, 31. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |

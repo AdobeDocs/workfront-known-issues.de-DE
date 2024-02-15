@@ -3,15 +3,19 @@ title: '„Dokumente: Dokument kann nicht von einem Ordner zum Stammordner versc
 description: „Beim Versuch, einen Ordner aus einem von Benutzenden erstellten Ordner in den Stammordner des Projekts zu verschieben, wird das Dokument nicht verschoben und die Benutzenden sehen einen Fehler.“
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
 
 
 # Dokumente: Dokument kann nicht aus einem Ordner in den Stammordner verschoben werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Donnerstag, 24. Januar 2024 behoben.
 
 Beim Versuch, einen Ordner aus einem von Benutzenden erstellten Ordner in den Stammordner des Projekts zu verschieben, wird das Dokument nicht verschoben und die Benutzenden sehen den folgenden Fehler:
 

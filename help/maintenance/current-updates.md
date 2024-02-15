@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
 source-wordcount: '1690'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -48,11 +48,11 @@ Nachdem ein[!DNL Workfront]-Administrator die Option zum Hinzufügen von Bildern
 
 +++**Wartungs-Update vom Freitag, 8. Februar 2024**
 
-### Wartungs-Update am 8. Februar 2024
+### Wartungs-Update vom 8. Februar 2024
 
 #### Pinnwände
 
-**Karte kann nicht in einer Spalte mit [!UICONTROL Verschieben] options**
+**Eine Karte kann nicht mithilfe der Optionen zum [!UICONTROL Verschieben] in einer Spalte verschoben werden**
 
 Wenn versucht wird, eine Karte in einer Spalte mithilfe der Optionen [!UICONTROL Spaltenanfang] oder [!UICONTROL Spaltenende] im Menü mit den drei Punkten zu verschieben, wird die Karte nicht verschoben.
 
@@ -62,13 +62,13 @@ Wenn eine Benutzerin bzw. ein Benutzer eine Iteration auf einer Pinnwand anzeigt
 
 #### Berichte
 
-**Spalte &quot;Kein Wert&quot;zeigt keine Ergebnisse an**
+**Spalte „Kein Wert“ zeigt keine Ergebnisse an**
 
-Wenn ein Diagrammbericht einen &quot;[!DNL No value]&quot;, zeigt die Spalte keine Daten an, auch wenn Daten vorhanden sein sollten.
+Wenn ein Diagrammbericht über die Spalte „[!DNL No value]“ verfügt, zeigt die Spalte keine Daten an, auch wenn Daten vorhanden sein sollten.
 
 #### Ressourcenverwaltung
 
-**Falsche Finanzberechnungen aufgrund von Problemen mit der Auftragsrolle**
+**Fehlerhafte Finanzberechnungen aufgrund von Problemen mit dem Aufgabengebiet**
 
 Stunden- und Finanzberechnungen können falsch sein und Kosten von 0 anzeigen, obwohl Stunden in einem Aufgabengebiet protokolliert werden, das über einen Kostensatz verfügt.
 
@@ -78,7 +78,7 @@ Dies liegt daran, dass Aufgabengebiete automatisch doppelte Raten ohne Start- od
 
 +++**Wartungs-Update vom Freitag, 1. Februar 2024**
 
-### Wartungs-Update am 1. Februar 2024
+### Wartungs-Update am 1. Februar 2024
 
 #### Anmeldung
 

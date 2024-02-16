@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 96%
+source-wordcount: '1624'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md)
+      + [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Home: Workspace und Stifte werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)

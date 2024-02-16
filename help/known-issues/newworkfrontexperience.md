@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 91%
+source-wordcount: '815'
+ht-degree: 89%
 
 ---
 
@@ -42,6 +42,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
+| [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md) | Samstag, 16. Februar 2024 |
+| [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | Samstag, 16. Februar 2024 |
 | [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Freitag, 15. Februar 2024 |
 | [Aktualisierungen: Der Bildschirm wird bei der Beantwortung eines Benutzers von einem anderen Unternehmen leer angezeigt](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |

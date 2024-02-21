@@ -1,21 +1,21 @@
 ---
-title: "Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand"
-description: '"Wenn ein Benutzer ein Projekt anzeigt und versucht, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und der Benutzer sieht einen Fehler. Eine Problemumgehung ist verfügbar.“'
+title: '„Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand“'
+description: „Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.“
 hidefromtoc: true
 feature: Agile
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand
+# Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand
 
-Wenn ein Benutzer ein Projekt anzeigt und versucht, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und der Benutzer sieht den folgenden Fehler:
+Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt:
 
-Fehler: &quot;400: undefined /boards-service/graphql&quot;.
+Fehler: „400: undefined /boards-service/graphql“.
 
 **Problemumgehung**
 

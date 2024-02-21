@@ -1,18 +1,18 @@
 ---
-title: "Testsendungen: Ein Testversand mit erweitertem Workflow aus einem SharePoint-Dokument kann nicht erstellt werden"
-description: "Wenn ein Benutzer versucht, einen Testversand mit einem erweiterten Workflow aus einem SharePoint-Dokument zu erstellen, wird der Testversand nicht generiert und der Benutzer sieht, dass ein Testversand nicht möglich war, eine Nachricht zu generieren."
+title: '„Korrekturabzüge: Es ist nicht möglich, einen Korrekturabzug mit einem erweiterten Workflow aus einem SharePoint-Dokument zu erstellen“'
+description: „Beim Versuch, einen Korrekturabzug mit einem erweiterten Arbeitsablauf aus einem SharePoint-Dokument zu erstellen, wird der Korrekturabzug nicht generiert und eine Nachricht angezeigt, dass das Generieren des Korrekturabzugs nicht möglich war.“
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument
+# Korrekturabzüge: Es ist nicht möglich, einen Korrekturabzug mit einem [!UICONTROL erweiterten Workflow] aus einem [!DNL SharePoint]-Dokument zu erstellen
 
-Wenn ein Benutzer versucht, einen Testversand mit einer [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] -Dokument, wird der Testversand nicht generiert und dem Benutzer wird ein[!UICONTROL Testversand konnte nicht generiert werden]&quot;.
+Beim Versuch, einen Korrekturabzug mit einem [!UICONTROL erweiterten Workflow] aus einem [!DNL SharePoint]-Dokument zu erstellen, wird der Korrekturabzug nicht generiert und eine Nachricht angezeigt, dass das [!UICONTROL Generieren des Korrekturabzugs nicht möglich] war.
 
 _Erste Meldung am Mittwoch, 30. Januar 2024._

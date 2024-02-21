@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1690'
-ht-degree: 98%
+source-wordcount: '1825'
+ht-degree: 92%
 
 ---
 
@@ -22,9 +22,35 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im Februar 2024
 
-+++**(Geplantes) Wartungs-Update vom Freitag, 15. Februar 2024**
++++**(Geplantes) Wartungs-Update vom Freitag, 22. Februar 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 15. Februar 2024
+### (Geplantes) Wartungs-Update am Freitag, 22. Februar 2024
+
+#### Startseite
+
+**[!UICONTROL Startseite]: [!UICONTROL Arbeitsbereich] und Stifte werden nicht geladen**
+
+Wenn sich ein Benutzer anmeldet, kann Folgendes auftreten:
+
+* Die neue [!UICONTROL Startseite] wird nicht geladen, und ihnen wird der Fehler angezeigt &quot;[!UICONTROL Ihre Workspace-Informationen können nicht geladen werden. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+* Die Pins des Benutzers werden nicht geladen, und der Fehler wird angezeigt.[!UICONTROL Ihre Stifte sind aufgrund eines Systemfehlers nicht verfügbar. Versuchen Sie, Ihren Browser zu aktualisieren, um das Problem zu beheben.]&quot;
+
+#### Benutzende
+
+**Der Gruppenadministrator kann die Zugriffsebene eines Benutzers nicht festlegen oder ändern**
+
+<!--no article-->
+
+Wenn ein Gruppenadministrator versucht, die Zugriffsebene eines Benutzers zu ändern, kann eine der folgenden Situationen eintreten:
+
+* Das Feld für die Zugriffsebene ist deaktiviert.
+* Der Gruppenadministrator kann keine niedrigere Zugriffsebene wählen.
+
++++
+
++++**Wartungs-Update vom Freitag, 15. Februar 2024**
+
+### Wartungs-Update am Freitag, 15. Februar 2024
 
 #### Probleme
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '1624'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 94%
       + [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [Home: Workspace und Stifte werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [Aktualisierungen: Der Bildschirm wird bei der Beantwortung eines Benutzers von einem anderen Unternehmen leer angezeigt](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [Pinnwände: Beim Filtern nach mehreren Benutzern werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook] nicht angehängt sind](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Korrekturabzüge: Es ist nicht möglich, einen Korrekturabzug mit einem [!UICONTROL erweiterten Workflow] aus einem  [!DNL SharePoint] -Dokument zu erstellen](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Pinnwände: Beim Filtern nach mehreren Benutzenden werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Benutzende: Beim Erstellen von Benutzenden ist keine niedrigere Zugriffsebene verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md)
       + [Aktualisierungen: Option für deaktiviertes Bild ist beim Bearbeiten eines Kommentars verfügbar.](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

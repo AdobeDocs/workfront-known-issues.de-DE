@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -27,9 +27,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Home: Workspace und Stifte werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | Freitag, 15. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Donnerstag, 14. Februar 2024 |
-| [Integrationen: Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | Mittwoch, 13. Februar 2024 |
-| [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
-| [Pinnwände: Beim Filtern nach mehreren Benutzern werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Dienstag, 12. Februar 2024 |
+| [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) nicht angehängt sind | Mittwoch, 13. Februar 2024 |
+| [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
+| [Pinnwände: Beim Filtern nach mehreren Benutzenden werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Dienstag, 12. Februar 2024 |
 | [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 8. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -45,8 +45,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
 | [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md) | Samstag, 16. Februar 2024 |
 | [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | Samstag, 16. Februar 2024 |
-| [Testsendungen: Es ist nicht möglich, einen Testversand mit [!UICONTROL Erweiterter Workflow] von [!DNL SharePoint] Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | Freitag, 15. Februar 2024 |
-| [Aktualisierungen: Der Bildschirm wird bei der Beantwortung eines Benutzers von einem anderen Unternehmen leer angezeigt](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
+| [Korrekturabzüge: Es ist nicht möglich, einen Korrekturabzug mit einem [!UICONTROL erweiterten Workflow] von einem  [!DNL SharePoint] -Dokument](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) zu erstellen | Freitag, 15. Februar 2024 |
+| [Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |
 | [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md) | Donnerstag, 31. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |

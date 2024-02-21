@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ Wenn ein Gruppenadministrator versucht, die Zugriffsebene eines Benutzers zu än
 
 * Das Feld für die Zugriffsebene ist deaktiviert.
 * Der Gruppenadministrator kann keine niedrigere Zugriffsebene wählen.
+
+#### Workload Balancer
+
+**Beschriftung für Arbeitsstunden**
+
+Der Lastenausgleich und die persönliche Zeit des Kalenders zeigen jetzt &quot;[!UICONTROL Arbeitslose Stunden]&quot;für die Zeit, dass ein Benutzer startet. Zuvor wurde in der Anzeige &quot;[!UICONTROL Arbeitszeiten]&quot;für die Nichtarbeitszeit.
 
 +++
 

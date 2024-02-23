@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Workload Balancer: Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Pinnwände: Die Summen der Checkliste sind nicht genau](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Projekte: Fehler bei Verwendung von Filtern in einer Produktliste](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Benutzerdefinierte Formulare: Fehler beim Einfügen von Text in ein Rich-Text-Feld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projekte: Die Timeline wird beim Ändern des Datums einer Aufgabe sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)

@@ -3,15 +3,19 @@ title: "Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezei
 description: "Wenn ein Benutzer auf eine Karte in Pinnwänden klickt, werden die Kartendetails kurz angezeigt, bevor der Bildschirm leer wird."
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 22. Februar 2024 behoben.
 
 Wenn ein Benutzer auf eine Karte in einer Pinnwand klickt, werden die Kartendetails kurz angezeigt, bevor der Bildschirm leer wird.
 

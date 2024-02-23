@@ -3,15 +3,19 @@ title: "Home: Workspace und Stifte werden nicht geladen"
 description: "Wenn sich ein Benutzer anmeldet, werden sein Home Workspace und die Pins nicht geladen und ihm werden Fehlermeldungen angezeigt."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 21%
 
 ---
 
 
 # [!UICONTROL Startseite]: [!UICONTROL Arbeitsbereich] und Stifte werden nicht geladen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 22. Februar 2024 behoben.
 
 Wenn sich ein Benutzer anmeldet, kann Folgendes auftreten:
 

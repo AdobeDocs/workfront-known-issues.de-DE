@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 93%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
+| [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
 | [Projekte: Fehler bei Verwendung von Filtern in einer Produktliste](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | Freitag, 22. Februar 2024 |
 | [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |

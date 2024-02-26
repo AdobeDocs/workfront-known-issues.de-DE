@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 96%
+source-wordcount: '1699'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Workload Balancer: Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)

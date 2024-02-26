@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -47,7 +47,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Freitag, 22. Februar 2024 |
 | [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 22. Februar 2024 |
 | [Projekte: Die Timeline wird beim Ändern des Datums einer Aufgabe sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | Donnerstag, 21. Februar 2024 |
-| [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
+| [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
 | [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md) | Samstag, 16. Februar 2024 |
 | [Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |

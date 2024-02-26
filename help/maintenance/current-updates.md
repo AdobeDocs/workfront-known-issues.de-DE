@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -28,23 +28,23 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 #### Startseite
 
-**[!UICONTROL Startseite]: [!UICONTROL Arbeitsbereich] und Stifte werden nicht geladen**
+**[!UICONTROL Startseite]: [!UICONTROL Arbeitsbereich] und Pins werden nicht geladen**
 
-Wenn sich ein Benutzer anmeldet, kann Folgendes auftreten:
+Wenn sich Benutzende anmelden, können Probleme auftreten:
 
-* Die neue [!UICONTROL Startseite] wird nicht geladen, und ihnen wird der Fehler angezeigt &quot;[!UICONTROL Ihre Workspace-Informationen können nicht geladen werden. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
-* Die Pins des Benutzers werden nicht geladen, und der Fehler wird angezeigt.[!UICONTROL Ihre Stifte sind aufgrund eines Systemfehlers nicht verfügbar. Versuchen Sie, Ihren Browser zu aktualisieren, um das Problem zu beheben.]&quot;
+* Die neue [!UICONTROL Startseite] wird nicht geladen und ihnen wird der folgende Fehler angezeigt: „[!UICONTROL Ihre Arbeitsbereich-Informationen können nicht geladen werden. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+* Die Pins der Benutzenden werden nicht geladen und der folgende Fehler wird angezeigt: „[!UICONTROL Ihre Pins sind aufgrund eines Systemfehlers nicht verfügbar. Versuchen Sie, Ihren Browser zu aktualisieren, um das Problem zu beheben.]“
 
 #### Benutzende
 
-**Der Gruppenadministrator kann die Zugriffsebene eines Benutzers nicht festlegen oder ändern**
+**Gruppenadmins können die Zugriffsebene von Benutzenden nicht festlegen oder ändern**
 
 <!--no article-->
 
 Wenn ein Gruppenadministrator versucht, die Zugriffsebene eines Benutzers zu ändern, kann eine der folgenden Situationen eintreten:
 
 * Das Feld für die Zugriffsebene ist deaktiviert.
-* Der Gruppenadministrator kann keine niedrigere Zugriffsebene wählen.
+* Die Gruppenadmins können keine niedrigere Zugriffsebene wählen.
 
 #### Workload Balancer
 

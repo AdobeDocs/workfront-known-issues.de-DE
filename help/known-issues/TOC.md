@@ -5,7 +5,7 @@ role: User
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '1686'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 94%
       + [Projekte: Fehler bei Verwendung von Filtern in einer Produktliste](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Benutzerdefinierte Formulare: Fehler beim Einfügen von Text in ein Rich-Text-Feld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Projekte: Die Timeline wird beim Ändern des Datums einer Aufgabe sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [Pinnwände: Die Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md)
       + [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [Home: Workspace und Stifte werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [Startseite: Arbeitsbereich und Pins werden nicht geladen](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook] nicht angehängt sind](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Korrekturabzüge: Es ist nicht möglich, einen Korrekturabzug mit einem [!UICONTROL erweiterten Workflow] aus einem  [!DNL SharePoint] -Dokument zu erstellen](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

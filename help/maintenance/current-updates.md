@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 97%
 
 ---
@@ -21,6 +21,20 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Februar 2024
+
++++**Wartungs-Update vom Freitag, 29. Februar 2024**
+
+### Wartungs-Update am Freitag, 29. Februar 2024
+
+#### Updates
+
+**Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird**
+
+Beim Versuch, auf einen Kommentar einer Person von einem anderen Unternehmen zu antworten, wird der Bildschirm leer.
+
+Dies liegt daran, dass Benutzende nicht über die Berechtigung zum Anzeigen von Personen aus anderen Unternehmen verfügen.
+
++++
 
 +++**Wartungs-Update vom Freitag, 22. Februar 2024**
 

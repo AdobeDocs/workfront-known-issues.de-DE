@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '860'
 ht-degree: 91%
 
 ---
@@ -40,6 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | Donnerstag, 28. Februar 2024 |
 | [Workload Balancer: Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | Samstag, 23. Februar 2024 |
 | [Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | Samstag, 23. Februar 2024 |
 | [Pinnwände: Die Summen der Checkliste sind nicht genau](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |

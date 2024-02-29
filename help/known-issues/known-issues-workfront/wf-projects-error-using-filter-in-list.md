@@ -1,22 +1,22 @@
 ---
-title: "Projekte: Fehler bei der Verwendung von Filtern auf einer Produktliste"
-description: "Wenn ein Benutzer eine Projektliste anzeigt und einen Filter anwendet, verschwindet die Liste und der Benutzer wird eine Fehlermeldung angezeigt."
+title: '„Projekte: Fehler bei Verwendung von Filtern in einer Produktliste“'
+description: „Wenn jemand eine Projektliste anzeigt und einen Filter anwendet, verschwindet die Liste und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
 feature: Projects
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 
 # Projekte: Fehler bei Verwendung von Filtern in einer Produktliste
 
-Wenn ein Benutzer eine Projektliste anzeigt und einen Filter anwendet, verschwindet die Liste und der Benutzer sieht die folgende Nachricht:
+Wenn jemand eine Projektliste anzeigt und einen Filter anwendet, verschwindet die Liste und die folgende Fehlermeldung wird angezeigt:
 
-&quot;[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, die Anfrage zu lösen. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
+„[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Lösung der Anfrage. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 
-Dies wurde bei der Verwendung des neuen Filtererlebnisses berichtet.
+Dies wurde bei der Verwendung der neuen Filtererfahrung berichtet.
 
 _Erste Meldung am Freitag, 22. Februar 2024._

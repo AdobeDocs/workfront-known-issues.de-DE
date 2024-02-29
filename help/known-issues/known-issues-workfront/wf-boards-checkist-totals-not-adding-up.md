@@ -1,20 +1,20 @@
 ---
-title: "Pinnwände: Die Summen der Checkliste sind nicht genau."
-description: "Wenn ein Benutzer eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, sodass sich die Checklisten-Gesamtsumme ändern sollte, ändert sich die Gesamtsumme nicht."
+title: '„Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt“'
+description: „Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.“
 hidefromtoc: true
 feature: Agile
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Pinnwände: Die Summen der Checkliste sind nicht genau
+# Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt
 
-Wenn ein Benutzer eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, sodass sich die Checklisten-Gesamtsumme ändern sollte, ändert sich die Gesamtsumme nicht.
+Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.
 
-Dies wurde sowohl im Abschnitt [!UICONTROL Pinnwände] und [!UICONTROL Pinnwände] Widget in der neuen [!UICONTROL Startseite] Erlebnis.
+Dies wurde sowohl für den Abschnitt [!UICONTROL Pinnwände] als auch das Widget [!UICONTROL Pinnwände] im neuen [!UICONTROL Startseitenerlebnis] berichtet.
 
 _Erste Meldung am Samstag, 16. Februar 2024._

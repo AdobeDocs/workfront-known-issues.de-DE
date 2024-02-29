@@ -1,20 +1,20 @@
 ---
-title: "Timesheets: Fehler beim Anzeigen des Zusammenfassungsfensters"
-description: "Wenn ein Benutzer ein Timesheet anzeigt und versucht, das Zusammenfassungsfenster anzuzeigen, wird das Bedienfeld nicht geladen und der Benutzer sieht einen Fehler."
+title: '„Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds“'
+description: „Wenn jemand eine Arbeitszeittabelle anzeigt und versucht, das Zusammenfassungsfeld anzuzeigen, wird das Feld nicht geladen und ein Fehler wird angezeigt.“
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs
+# Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds
 
-Wenn ein Benutzer ein Timesheet anzeigt und versucht, das Zusammenfassungsfenster anzuzeigen, wird das Bedienfeld nicht geladen und der Benutzer sieht den folgenden Fehler:
+Wenn jemand eine Arbeitszeittabelle anzeigt und versucht, das Zusammenfassungsfeld anzuzeigen, wird das Feld nicht geladen und ein Fehler wird angezeigt.
 
-&quot;[!UICONTROL Entschuldigung! Es ist ein Fehler aufgetreten.]&quot;
+„[!UICONTROL Entschuldigung. Wir haben einen Fehler festgestellt.]“
 
 _Erste Meldung am Montag, 18. Februar 2024._

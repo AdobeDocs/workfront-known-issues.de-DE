@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '810'
 ht-degree: 96%
 
 ---
@@ -27,7 +27,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
-| [Projekte: Fehler bei Verwendung von Filtern in einer Produktliste](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | Freitag, 22. Februar 2024 |
 | [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -40,18 +39,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | Donnerstag, 28. Februar 2024 |
 | [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | Samstag, 23. Februar 2024 |
-| [Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | Samstag, 23. Februar 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |
-| [Pinnwände: Beim Filtern nach mehreren Benutzenden werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Freitag, 22. Februar 2024 |
 | [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) nicht angehängt sind | Freitag, 22. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Freitag, 22. Februar 2024 |
 | [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 22. Februar 2024 |
 | [Projekte: Die Zeitleiste wird beim Ändern des Datums einer Aufgabe nur sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | Donnerstag, 21. Februar 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
 | [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md) | Samstag, 16. Februar 2024 |
-| [Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |
 | [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | Freitag, 1. Februar 2024 |
 | [Probleme: Problemstatus nicht in Dropdown-Liste](known-issues-workfront/wf-issues-status-not-available.md) | Donnerstag, 31. Januar 2024 |
 | [Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche [!UICONTROL Fertig]](known-issues-workfront/wf-teams-statuses-missing.md). | Freitag, 25. Januar 2024 |

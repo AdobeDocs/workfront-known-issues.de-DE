@@ -3,15 +3,19 @@ title: '„Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds�
 description: „Wenn jemand eine Arbeitszeittabelle anzeigt und versucht, das Zusammenfassungsfeld anzuzeigen, wird das Feld nicht geladen und ein Fehler wird angezeigt.“
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 26. Februar 2024 behoben.
 
 Wenn jemand eine Arbeitszeittabelle anzeigt und versucht, das Zusammenfassungsfeld anzuzeigen, wird das Feld nicht geladen und ein Fehler wird angezeigt.
 

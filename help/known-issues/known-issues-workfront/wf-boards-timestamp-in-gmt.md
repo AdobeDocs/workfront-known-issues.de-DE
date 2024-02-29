@@ -1,18 +1,18 @@
 ---
-title: "Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf."
+title: '„Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf“'
 description: „“
 hidefromtoc: true
 feature: Agile
 source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel
+# Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf
 
-Wenn ein Benutzer ein Dokument auf eine Karte hochlädt, befindet sich der Zeitstempel in GMT (UTC) anstelle der Zeitzone des Benutzers. Relative Zeiten wie &quot;vor 2 Stunden&quot;sind zwar korrekt, aber wenn die Karte die tatsächliche Uhrzeit anzeigt, ist sie ungenau.
+Wenn jemand ein Dokument auf eine Karte hochlädt, wird der Zeitstempel mit der Zeitzone GMT (UTC) anstelle der Zeitzone der Person angezeigt. Relative Zeiten wie „vor 2 Stunden“ sind zwar korrekt, aber wenn die Karte die tatsächliche Uhrzeit anzeigt, ist diese falsch.
 
 _Erste Meldung am Mittwoch, 30. Januar 2024._

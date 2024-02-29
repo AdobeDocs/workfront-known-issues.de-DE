@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -55,16 +55,16 @@ Wenn sich Benutzende anmelden, können Probleme auftreten:
 
 <!--no article-->
 
-Wenn ein Gruppenadministrator versucht, die Zugriffsebene eines Benutzers zu ändern, kann eine der folgenden Situationen eintreten:
+Wenn Gruppenadmins versuchen, die Zugriffsebene von Benutzenden zu ändern, kann eine der folgenden Situationen eintreten:
 
 * Das Feld für die Zugriffsebene ist deaktiviert.
 * Die Gruppenadmins können keine niedrigere Zugriffsebene wählen.
 
 #### Workload Balancer
 
-**Beschriftung für Arbeitsstunden**
+**Beschriftung für arbeitsfreie Stunden**
 
-Der Lastenausgleich und die persönliche Zeit des Kalenders zeigen jetzt &quot;[!UICONTROL Arbeitslose Stunden]&quot;für die Zeit, dass ein Benutzer startet. Zuvor wurde in der Anzeige &quot;[!UICONTROL Arbeitszeiten]&quot;für die Nichtarbeitszeit.
+Der Workload Balancer und der Kalender für persönliche Ausfallzeiten zeigen jetzt „[!UICONTROL Arbeitsfreie Stunden]“ für die Zeit an, in der sich eine Person freinimmt. Zuvor wurde in der Anzeige die Beschriftung „[!UICONTROL Arbeitszeiten]“ für arbeitsfreie Stunden angezeigt.
 
 +++
 

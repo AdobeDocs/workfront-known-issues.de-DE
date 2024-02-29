@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 95%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md)
-      + [Workload Balancer: Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
-      + [Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
-      + [Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
-      + [Pinnwände: Die Summen der Checkliste sind nicht genau](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [Projekte: Fehler bei Verwendung von Filtern in einer Produktliste](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Benutzerdefinierte Formulare: Fehler beim Einfügen von Text in ein Rich-Text-Feld](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [Projekte: Die Timeline wird beim Ändern des Datums einer Aufgabe sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [Projekte: Die Zeitleiste wird beim Ändern des Datums einer Aufgabe nur sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md)
       + [Pinnwände: Bildschirm wird beim Anzeigen von Kartendetails leer angezeigt](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

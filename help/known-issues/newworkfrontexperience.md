@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -40,15 +40,15 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Pinnwände: Auf Karten hochgeladene Dokumente enthalten einen falschen Zeitstempel](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | Donnerstag, 28. Februar 2024 |
-| [Workload Balancer: Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | Samstag, 23. Februar 2024 |
-| [Timesheets: Fehler bei der Anzeige des Zusammenfassungsbereichs](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | Samstag, 23. Februar 2024 |
-| [Pinnwände: Die Summen der Checkliste sind nicht genau](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |
+| [Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | Donnerstag, 28. Februar 2024 |
+| [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | Samstag, 23. Februar 2024 |
+| [Arbeitszeittabellen: Fehler beim Anzeigen des Zusammenfassungsfelds](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | Samstag, 23. Februar 2024 |
+| [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |
 | [Pinnwände: Beim Filtern nach mehreren Benutzenden werden nicht alle Ergebnisse zurückgegeben](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | Freitag, 22. Februar 2024 |
 | [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) nicht angehängt sind | Freitag, 22. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Freitag, 22. Februar 2024 |
 | [Benutzende: Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | Freitag, 22. Februar 2024 |
-| [Projekte: Die Timeline wird beim Ändern des Datums einer Aufgabe sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | Donnerstag, 21. Februar 2024 |
+| [Projekte: Die Zeitleiste wird beim Ändern des Datums einer Aufgabe nur sehr langsam neu berechnet](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | Donnerstag, 21. Februar 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Samstag, 16. Februar 2024 |
 | [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md) | Samstag, 16. Februar 2024 |
 | [Aktualisierungen: Bildschirm wird leer, wenn einer Person eines anderen Unternehmens geantwortet wird](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | Dienstag, 12. Februar 2024 |

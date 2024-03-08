@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: 09091815a09c59f4d15e152d40927072995418be
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 93%
 
 ---
 
@@ -26,8 +26,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
-| [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
-| [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Mittwoch, 13. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 
@@ -39,8 +37,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
+| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Samstag, 8. März 2024 |
+| [Aktualisierungen: Große Zeilenbereiche](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | Samstag, 8. März 2024 |
 | [Testsendungen: Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | Samstag, 1. März 2024 |
-| [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | Samstag, 23. Februar 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |
 | [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) nicht angehängt sind | Freitag, 22. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Freitag, 22. Februar 2024 |

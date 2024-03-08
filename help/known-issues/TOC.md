@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1711'
+source-wordcount: '1716'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: Große Zeilenbereiche](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Testsendungen: Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)

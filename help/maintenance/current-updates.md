@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 100%
+source-wordcount: '2093'
+ht-degree: 96%
 
 ---
 
@@ -19,6 +19,45 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im März 2024
+
++++**Wartungs-Update vom Freitag, 7. März 2024**
+
+### Wartungs-Update am 7. März 2024
+
+#### Pinnwände
+
+**400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand**
+
+Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt:
+
+Fehler: &quot;400: undefined /boards-service/graphql&quot;
+
+#### Startseite
+
+**Fehler beim Inline-Bearbeiten einer Aufgabe im Widget &quot;My Task&quot;**
+
+Wenn ein Benutzer versucht, eine Aufgabe im Widget &quot;My Tasks&quot;inline zu bearbeiten, wird der folgende Fehler angezeigt:
+
+&quot;Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
+
+
+#### Workload Balancer
+
+**Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert**
+
+Wenn die geplanten Stunden in einem Projekt aktualisiert werden, werden sie im Workload Balancer nicht aktualisiert. Dies kann auch dann passieren, wenn die Änderung im Projekt korrekt widergespiegelt wird.
+
++++
+
++++**Workfront Fusion Maintenance Update am 7. März 2024
+
+**Workfront-Testversand > Zeitüberschreitung des Watch-Testmoduls**
+
+Szenarien, in denen Workfront-Korrekturabzug > Modul zur Überwachung des Korrekturabzugs verwendet wird, werden möglicherweise aufgrund der Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs deaktiviert.
+
++++
 
 ## Updates im Februar 2024
 

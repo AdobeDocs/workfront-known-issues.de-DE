@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 96%
+source-wordcount: '2235'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,32 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im März 2024
+
++++**(Geplantes) Wartungs-Update vom Freitag, 14. März 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 14. März 2024
+
+#### Integrationen
+
+**Dokumente, die beim Erstellen einer Anforderung aus nicht angehängt sind[!DNL Outlook]**
+
+Wenn Benutzende eine Anfrage von [!DNL Outlook] erstellen, werden die an die E-Mail angehängten Dokumente nicht an die Anfrage angehängt.
+
+#### Korrekturabzüge
+
+**Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet**
+
+Wenn ein Benutzer einen Testversand aus einem verknüpften Dokument erstellt, wird die Testversand-Vorlage nicht korrekt angewendet und dem Testversand fehlen möglicherweise Informationen wie der Workflow.
+
+Dies gilt auch für Testsendungen, die über die API und über Workfront Fusion erstellt werden.
+
+#### Benutzende
+
+**Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar**
+
+Wenn ein Benutzer bzw. eine Benutzerin einen anderen Benutzer oder eine andere Benutzerin erstellt, ist für die neu erstellten Benutzenden nur die Zugriffsebene der ersten Person verfügbar. Alle Zugriffsebenen mit niedrigeren Berechtigungen als die des Erstellers bzw. der Erstellerin sollten verfügbar sein, um sie der neuen Person zuzuweisen.
+
++++
 
 +++**Wartungs-Update vom Freitag, 7. März 2024**
 

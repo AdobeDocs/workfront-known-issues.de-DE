@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 98%
+source-wordcount: '818'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aktualisierungen: Dokumentkommentare werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md) | Freitag, 14. März 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -37,6 +38,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Testsendungen: Ein Testversand aus einer Website kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | Freitag, 14. März 2024 |
+| [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md) | Freitag, 14. März 2024 |
+| [Updates: Benutzer in ineffektivem Tagging](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | Freitag, 14. März 2024 |
+| [Protokollierungszeit: Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | Freitag, 14. März 2024 |
 | [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | Freitag, 14. März 2024 |
 | [Aktualisierungen: Benutzer, die keine Bilder zu Aktualisierungen hinzufügen möchten, können keine Bilder hinzufügen](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |
 | [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |

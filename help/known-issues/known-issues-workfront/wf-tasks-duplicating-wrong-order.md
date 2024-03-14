@@ -6,14 +6,14 @@ feature: Tasks
 source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 
-# Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt
+# Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt
 
-Wenn ein Benutzer eine Aufgabe in einer Aufgabenliste erstellt oder dupliziert, zeigt die Aufgabenliste dann die Aufgaben in der falschen Reihenfolge entsprechend der Aufgabenreihenfolge an. Die Aufgaben sind korrekt nummeriert, werden jedoch in der falschen Reihenfolge angezeigt.
+Wenn Benutzende mehrere Aufgaben in einer Aufgabenliste auswählen oder duplizieren, werden die Aufgaben in der Aufgabenliste entsprechend der Aufgabennummerierung in der falschen Reihenfolge angezeigt. Die Aufgaben sind korrekt nummeriert, werden jedoch in der falschen Reihenfolge angezeigt.
 
 **Problemumgehung**
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
+| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 
@@ -39,7 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 |----------------------------------| ----------------- |
 | [Aktualisierungen: Benutzer, die keine Bilder zu Aktualisierungen hinzufügen möchten, können keine Bilder hinzufügen](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |
 | [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
-| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben wird die Aufgabenliste in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Samstag, 8. März 2024 |
+| [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Samstag, 8. März 2024 |
 | [Aktualisierungen: Große Zeilenbereiche](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | Samstag, 8. März 2024 |
 | [Testsendungen: Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | Samstag, 1. März 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |

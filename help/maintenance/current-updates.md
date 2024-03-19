@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2205'
-ht-degree: 93%
+source-wordcount: '2318'
+ht-degree: 97%
 
 ---
 
@@ -22,21 +22,41 @@ Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie
 
 ## Updates im März 2024
 
++++**(Geplantes) Wartungs-Update vom Freitag, 21. März 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 21. März 2024
+
+#### Updates
+
+**Großer Zeilenabstand**
+
+Wenn Benutzende eine Aktualisierung mit mehreren Zeilen eingeben und dafür die Eingabetaste verwenden oder wenn sie mehrere Zeilen in eine Aktualisierung einfügen, wird die Aktualisierung zwar wie erwartet angezeigt. Wird diese Aktualisierung dann jedoch in einem Bericht angezeigt, gibt es große Abstände zwischen den Zeilen.
+
+Dies wurde für die neue Kommentarerfahrung berichtet.
+
+**Tagging eines Benutzers mit @ ist ineffektiv**
+
+Wenn ein Benutzer in einem Kommentar einem anderen Benutzer das Zeichen &quot;@&quot;zuordnet, wird der Benutzer nicht zum getaggten Benutzerbereich hinzugefügt und erhält keine Benachrichtigung über den Kommentar.
+
+Diese Korrektur gilt nur für das neue Kommentarerlebnis.
+
++++
+
 +++**Wartungs-Update vom Freitag, 14. März 2024**
 
-### Wartungs-Update am 14. März 2024
+### Wartungs-Update vom Freitag, 14. März 2024
 
 #### Korrekturabzüge
 
-**Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet**
+**Auf Korrekturabzüge, die aus verknüpften Dokumenten erstellt wurden, wird keine Korrekturabzugsvorlage angewendet**
 
-Wenn ein Benutzer einen Testversand aus einem verknüpften Dokument erstellt, wird die Testversand-Vorlage nicht korrekt angewendet und dem Testversand fehlen möglicherweise Informationen wie der Workflow.
+Wenn Benutzende einen Korrekturabzug aus einem verknüpften Dokument erstellen, wird die Korrekturabzugsvorlage nicht korrekt angewendet und im Korrekturabzug fehlen möglicherweise Informationen wie der Workflow.
 
-Dies gilt auch für Testsendungen, die über die API und über Workfront Fusion erstellt werden.
+Dies gilt auch für Korrekturabzüge, die über die API und über Workfront Fusion erstellt wurden.
 
 #### Benutzende
 
-**Beim Erstellen eines Benutzers sind keine niedrigeren Zugriffsebenen verfügbar**
+**Beim Erstellen von Benutzenden sind keine niedrigeren Zugriffsebenen verfügbar**
 
 Wenn ein Benutzer bzw. eine Benutzerin einen anderen Benutzer oder eine andere Benutzerin erstellt, ist für die neu erstellten Benutzenden nur die Zugriffsebene der ersten Person verfügbar. Alle Zugriffsebenen mit niedrigeren Berechtigungen als die des Erstellers bzw. der Erstellerin sollten verfügbar sein, um sie der neuen Person zuzuweisen.
 
@@ -44,7 +64,7 @@ Wenn ein Benutzer bzw. eine Benutzerin einen anderen Benutzer oder eine andere B
 
 +++**Wartungs-Update vom Freitag, 7. März 2024**
 
-### Wartungs-Update am 7. März 2024
+### Wartungs-Update vom 7. März 2024
 
 #### Pinnwände
 
@@ -52,28 +72,28 @@ Wenn ein Benutzer bzw. eine Benutzerin einen anderen Benutzer oder eine andere B
 
 Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt:
 
-Fehler: &quot;400: undefined /boards-service/graphql&quot;
+Fehler: „400: undefined /boards-service/graphql“.
 
 #### Startseite
 
-**Fehler beim Inline-Bearbeiten einer Aufgabe im Widget &quot;My Task&quot;**
+**Fehler beim Inline-Bearbeiten einer Aufgabe im Widget „Meine Aufgaben“**
 
-Wenn ein Benutzer versucht, eine Aufgabe im Widget &quot;My Tasks&quot;inline zu bearbeiten, wird der folgende Fehler angezeigt:
+Beim Versuch, eine Aufgabe im Widget „Meine Aufgaben“ inline zu bearbeiten, wird der folgende Fehler angezeigt:
 
-&quot;Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
+„Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
 
 #### Workload Balancer
 
-**Geplante Stunden werden im Arbeitslastausgleich nicht aktualisiert**
+**Geplante Stunden werden im Workload Balancer nicht aktualisiert**
 
 Wenn die geplanten Stunden in einem Projekt aktualisiert werden, werden sie im Workload Balancer nicht aktualisiert. Dies kann auch dann passieren, wenn die Änderung im Projekt korrekt widergespiegelt wird.
 
 +++
 
-+++**Workfront Fusion Maintenance Update am 7. März 2024
++++**Wartungs-Update von Workfront Fusion vom 7. März 2024
 
-**Workfront-Testversand > Zeitüberschreitung des Watch-Testmoduls**
+**Workfront-Korrekturabzug > Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs**
 
 Szenarien, in denen Workfront-Korrekturabzug > Modul zur Überwachung des Korrekturabzugs verwendet wird, werden möglicherweise aufgrund der Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs deaktiviert.
 

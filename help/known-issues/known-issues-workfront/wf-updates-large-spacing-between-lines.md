@@ -1,19 +1,19 @@
 ---
-title: "Aktualisierungen: Große Zeilenbereiche"
-description: "Wenn ein Benutzer mithilfe der Eingabe- oder Eingabetaste eine Aktualisierung mit mehreren Zeilen eingibt oder mehrere Zeilen in eine Aktualisierung einfügt, wird die Aktualisierung erwartungsgemäß angezeigt. Wenn ein Benutzer diese Aktualisierung dann jedoch in einem Bericht anzeigt, gibt es große Leerzeichen zwischen den Zeilen."
+title: '„Aktualisierungen: Große Abstände zwischen Zeilen“'
+description: „Wenn Benutzende eine Aktualisierung mit mehreren Zeilen eingeben und dafür die Eingabetaste verwenden oder wenn sie mehrere Zeilen in eine Aktualisierung einfügen, wird die Aktualisierung zwar wie erwartet angezeigt. Wird diese Aktualisierung dann jedoch in einem Bericht angezeigt, gibt es große Abstände zwischen den Zeilen.“
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Große Zeilenbereiche
+# Aktualisierungen: Große Abstände zwischen Zeilen
 
-Wenn ein Benutzer mithilfe der Eingabe- oder Eingabetaste eine Aktualisierung mit mehreren Zeilen eingibt oder mehrere Zeilen in eine Aktualisierung einfügt, wird die Aktualisierung erwartungsgemäß angezeigt. Wenn ein Benutzer diese Aktualisierung dann jedoch in einem Bericht anzeigt, gibt es große Leerzeichen zwischen den Zeilen.
+Wenn Benutzende eine Aktualisierung mit mehreren Zeilen eingeben und dafür die Eingabetaste verwenden oder wenn sie mehrere Zeilen in eine Aktualisierung einfügen, wird die Aktualisierung zwar wie erwartet angezeigt. Wird diese Aktualisierung dann jedoch in einem Bericht angezeigt, gibt es große Abstände zwischen den Zeilen.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 

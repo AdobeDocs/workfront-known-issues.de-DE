@@ -4,9 +4,9 @@ description: „Wenn Benutzende in Pinnwänden den Zuweisungsfilter für mehrere
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->Dieses Problem wurde am 29. Februar behoben. 2024 behoben.
+>Dieses Problem wurde am 29. Februar 2024 behoben.
 
 Wenn Benutzende in Pinnwänden den Zuweisungsfilter für mehrere Benutzende verwenden, werden nicht alle erwarteten Ergebnisse zurückgegeben.
 

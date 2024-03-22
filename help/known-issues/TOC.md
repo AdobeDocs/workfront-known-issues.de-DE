@@ -3,9 +3,9 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1764'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Testsendungen: Ein Testversand aus einer Website kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md)
-      + [Updates: Benutzer-Tagging ist nicht effektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
-      + [Protokollierungszeit: Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
-      + [Aktualisierungen: Dokumentkommentare werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md)
+      + [Aktualisierungen: Das Taggen von Benutzenden ist ineffektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [Zeitprotokollierung: Benutzende können die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [Aktualisierungen: Kommentare zu Dokumenten werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Aktualisierungen: Große Abstände zwischen Zeilen](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Korrekturabzüge: Auf Korrekturabzüge, die aus verknüpften Dokumenten erstellt wurden, wird keine Korrekturabzugsvorlage angewendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)

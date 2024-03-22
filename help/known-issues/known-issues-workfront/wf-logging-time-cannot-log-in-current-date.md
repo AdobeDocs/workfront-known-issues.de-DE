@@ -1,18 +1,18 @@
 ---
-title: "Logging time: User cannot log time for current day"
-description: "Wenn ein Benutzer versucht, sich im Bereich Updates anzumelden, ist der aktuelle Tag ausgegraut und der Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren."
+title: '„Zeitprotokollierung: Benutzende können die Zeit für den aktuellen Tag nicht protokollieren“'
+description: „Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktuelle Tag ausgegraut und Benutzende können die Zeit für den aktuellen Tag nicht protokollieren.“
 hidefromtoc: true
 feature: People Teams and Groups, Timesheets
 source-git-commit: c0f69dae7ce1586f6b7e7b34f520f262389e2081
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Protokollierungszeit: Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren
+# Zeitprotokollierung: Benutzende können die Zeit für den aktuellen Tag nicht protokollieren
 
-Wenn ein Benutzer versucht, sich im Bereich Updates anzumelden, ist der aktuelle Tag ausgegraut und der Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren.
+Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktuelle Tag ausgegraut und Benutzende können die Zeit für den aktuellen Tag nicht protokollieren.
 
 _Erste Meldung am Dienstag, 4. März 2024._

@@ -4,7 +4,7 @@ description: „Wenn jemand mehrere Aufgaben in einer Aufgabenliste auswählt un
 hidefromtoc: true
 feature: Tasks
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 

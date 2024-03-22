@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '1764'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 96%
       + [Updates: Benutzer-Tagging ist nicht effektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [Protokollierungszeit: Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [Aktualisierungen: Dokumentkommentare werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [Aktualisierungen: Benutzer, die keine Bilder zu Aktualisierungen hinzufügen möchten, können keine Bilder hinzufügen](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Aktualisierungen: Große Zeilenbereiche](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
-      + [Testsendungen: Für aus verknüpften Dokumenten erstellte Testsendungen wird keine Testversandvorlage verwendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [Aktualisierungen: Große Abstände zwischen Zeilen](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
+      + [Korrekturabzüge: Auf Korrekturabzüge, die aus verknüpften Dokumenten erstellt wurden, wird keine Korrekturabzugsvorlage angewendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [Workload Balancer: Geplante Stunden werden im Workload Balancer nicht aktualisiert](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [Pinnwände: Auf Karten hochgeladene Dokumente weisen einen falschen Zeitstempel auf](known-issues-workfront/wf-boards-timestamp-in-gmt.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 100%
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agil: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | Samstag, 22. März 2024 |
+| [Aufgaben: Die QuickInfo des Vorgängers zeigt keinen Aufgabennamen an](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | Samstag, 22. März 2024 |
+| [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand aus einem Kanban-Board](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | Samstag, 22. März 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -37,6 +40,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .](known-issues-workfront/wf-proofs-stuck-on-widget.md) | Samstag, 22. März 2024 |
+| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
+| [Ressourcenverwaltung: Diskrepanz in Haushaltszeiten](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | Samstag, 22. März 2024 |
+| [Testsendungen: Ein einfacher Testversand der neuen Dokumentversion beinhaltet einen Workflow aus der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | Samstag, 22. März 2024 |
 | [Aktualisierungen: Kommentare zu Dokumenten werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md) | Freitag, 21. März 2024 |
 | [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | Freitag, 14. März 2024 |
 | [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md) | Freitag, 14. März 2024 |

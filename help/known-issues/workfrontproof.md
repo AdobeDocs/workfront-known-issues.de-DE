@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .](known-issues-workfront/wf-proofs-stuck-on-widget.md) | Samstag, 22. März 2024 |
+| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
+| [Testsendungen: Ein einfacher Testversand der neuen Dokumentversion beinhaltet einen Workflow aus der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | Samstag, 22. März 2024 |
 | [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |

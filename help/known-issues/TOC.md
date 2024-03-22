@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Agil: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Ressourcenverwaltung: Diskrepanz in Haushaltszeiten](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Testsendungen: Ein einfacher Testversand der neuen Dokumentversion beinhaltet einen Workflow aus der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Aufgaben: Die QuickInfo des Vorgängers zeigt keinen Aufgabennamen an](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand aus einem Kanban-Board](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Aktualisierungen: Das Taggen von Benutzenden ist ineffektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

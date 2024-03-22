@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Aktualisierungen: Dokumentkommentare werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md) | Freitag, 21. März 2024 |
-| [Testsendungen: Ein Testversand aus einer Website kann nicht erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | Freitag, 14. März 2024 |
+| [Aktualisierungen: Kommentare zu Dokumenten werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md) | Freitag, 21. März 2024 |
+| [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | Freitag, 14. März 2024 |
 | [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md) | Freitag, 14. März 2024 |
-| [Updates: Benutzer in ineffektivem Tagging](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | Freitag, 14. März 2024 |
-| [Protokollierungszeit: Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | Freitag, 14. März 2024 |
+| [Aktualisierungen: Das Taggen von Benutzenden ist ineffektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | Freitag, 14. März 2024 |
+| [Zeitprotokollierung: Benutzende können die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | Freitag, 14. März 2024 |
 | [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |
 | [Berichte: Im Textmodus vorgenommene Änderungen werden nicht auf Berichte oder Ansichten angewendet](known-issues-workfront/wf-reports-text-mode-not-saving.md) | Dienstag, 26. Februar 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |

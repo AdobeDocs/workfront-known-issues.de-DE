@@ -1,15 +1,15 @@
 ---
-title: '„Pinnwände: Es können keine Dokumente an eine Karte angehängt werden“'
-description: „Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und ist nicht an das Objekt angehängt, mit dem die Karte verknüpft ist.“
+title: "Pinnwände: Dokument kann nicht an eine Karte angehängt werden"
+description: Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und ist nicht an das Objekt angehängt, mit dem die Karte verknüpft ist.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+exl-id: 3f204bb2-52b7-4b4f-ba3b-469059a809cd
+source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 94%
 
 ---
-
 
 # Pinnwände: Es können keine Dokumente an eine Karte angehängt werden
 
@@ -18,8 +18,6 @@ ht-degree: 100%
 >Dieses Problem wurde am Freitag, 18. Januar 2024 behoben.
 
 <!--WF and WFP TOCs-->
-
->Dieses Problem wurde am Freitag, 21. Dezember 2023 behoben.
 
 Beim Versuch, ein Dokument an eine verknüpfte Karte anzuhängen, lässt sich das Dokument auswählen, das angehängt werden soll, das Dokument wird jedoch nicht im Dokumentbereich der Karte angezeigt und ist nicht an das Objekt angehängt, mit dem die Karte verknüpft ist.
 

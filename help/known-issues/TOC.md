@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1724'
 ht-degree: 96%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 96%
       + [Berichte: Bericht zu geplanten Stunden wird nicht wie erwartet stündlich aktualisiert](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [Startseite: Die Widgets „Meine Projekte“ und „Meine Aufgaben“ zeigen nur 25 Elemente an](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Status: [!UICONTROL Hoppla]-Fehler beim Ausblenden des Status](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aktualisierungen: Einige Aktualisierungen fehlen im neuen Kommentarerlebnis](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Aufgaben/Probleme: Probleme beim Hinzufügen von Arbeitselementen in der Pinnwandansicht von Aufgaben und Problemen](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 96%
       + [Pinnwände: Karte wird in mehreren Sprints angezeigt](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [Vorlagen: Vorlage kann nicht aus der Liste [!UICONTROL Favoriten] ausgewählt werden](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL Startseite]: Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Aufgaben: Aufgabendaten sind bei der Neuberechnung einer Timeline für längere Zeit ausgegraut](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Benachrichtigungen: E-Mail-Benachrichtigung wird nicht empfangen, wenn die Benutzerin bzw. der Benutzer in einem Kommentar getaggt ist](known-issues-workfront/wf-notif-email-not-received.md)
       + [Pinnwände: Probleme beim Anzeigen des Status von Unteraufgaben](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 96%
       + [Korrekturabzüge: Abgeschlossene Korrekturabzüge werden weiterhin im Widget [!UICONTROL Warten auf Genehmigung] angezeigt](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Berichte: Private Aktualisierungen werden in den Feldern „valueexpression“ angezeigt](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [Workload-Balancer: Manuelle Stundenänderungen nach der Seitenaktualisierung nicht korrekt](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Startseite: Delegierte Aufgaben werden nicht freigegeben und werden nicht in der Arbeitsliste der Startseite angezeigt](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [Freigabe: Fehler beim Freigeben eines Objekts](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Lastenausgleich: Anwenderin bzw. Anwender wird aufgrund ungenauer Kapazität als überlastet angezeigt](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [Aktualisierungen: Im neuen Kommentarerlebnis vorgenommene Kommentare sind im alten Erlebnis nicht sichtbar](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Startseite]: Das [!UICONTROL Anfragen]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Startseite]: Das [!UICONTROL Anfragen]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Workload Balancer]: [!UICONTROL Stunden gesamt] entspricht nicht der Summe von [!UICONTROL Geplante Stunden]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL Setup]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 96%
       + [Berichte: Bericht wird beim Sortieren nach einem beliebigen Feld nicht richtig sortiert](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint] verknüpftes Dokument](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 96%
       + [API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Probleme: In der linken Navigation werden „(0)“ Probleme angezeigt, obwohl Probleme vorhanden sind](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup] nur langsam geladen](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [„Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [Agile: Probleme beim Verschieben von Karten auf der Agile-Pinnwand](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [Genehmigungen: Für die Delegierung von Genehmigungen erscheint die falsche Anzahl von Tagen](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL Startseite]: Probleme mit der [!UICONTROL Startseiten]-Zusammenfassung bei der Verwendung anderer Browser als [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL Startseite]: Probleme mit der [!UICONTROL Startseiten]-Zusammenfassung bei der Verwendung anderer Browser als [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu]](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [E-Mail-Benachrichtigungen: Benutzende werden nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [Kalender:  [!DNL OR] -Filteranweisung führt zum Ausschluss der Filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste] als GUID angezeigt](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste] als GUID angezeigt](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook] nicht korrekt formatiert](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste] angezeigt](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste] angezeigt](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL Startseite]: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung, und es werden zwei E-Mails versandt](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL Startseite]: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung, und es werden zwei E-Mails versandt](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 

@@ -1,17 +1,19 @@
 ---
-title: '„Projekte: Fehler bei Verwendung von Filtern in einer Produktliste“'
+title: "Projekte: Fehler bei der Verwendung von Filtern in einer Projektliste"
 description: „Wenn jemand eine Projektliste anzeigt und einen Filter anwendet, verschwindet die Liste und eine Fehlermeldung wird angezeigt.“
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: ht
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
 
-# Projekte: Fehler bei Verwendung von Filtern in einer Produktliste
+# Projekte: Fehler bei Verwendung von Filtern in einer Projektliste
+
 
 >[!NOTE]
 >

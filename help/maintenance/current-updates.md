@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2316'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,17 +28,17 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 #### Updates
 
-**Großer Zeilenabstand**
+**Große Abstände zwischen Zeilen**
 
 Wenn Benutzende eine Aktualisierung mit mehreren Zeilen eingeben und dafür die Eingabetaste verwenden oder wenn sie mehrere Zeilen in eine Aktualisierung einfügen, wird die Aktualisierung zwar wie erwartet angezeigt. Wird diese Aktualisierung dann jedoch in einem Bericht angezeigt, gibt es große Abstände zwischen den Zeilen.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 
-**Tagging eines Benutzers mit @ ist ineffektiv**
+**Das Taggen von Benutzenden mit „@“ ist ineffektiv**
 
-Wenn ein Benutzer in einem Kommentar einem anderen Benutzer das Zeichen &quot;@&quot;zuordnet, wird der Benutzer nicht zum getaggten Benutzerbereich hinzugefügt und erhält keine Benachrichtigung über den Kommentar.
+Wenn Benutzende mit „@“ in einem Kommentar getaggt werden, werden sie nicht zum Bereich für getaggte Benutzende hinzugefügt und erhalten keine Benachrichtigung über den Kommentar.
 
-Diese Korrektur gilt nur für das neue Kommentarerlebnis.
+Diese Fehlerbehebung gilt nur für die neue Kommentarerfahrung.
 
 +++
 

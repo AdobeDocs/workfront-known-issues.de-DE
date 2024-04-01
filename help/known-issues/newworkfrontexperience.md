@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 94%
+source-wordcount: '796'
+ht-degree: 93%
 
 ---
 
@@ -61,6 +61,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Berichtsfilter gibt keine erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | Dienstag, 1. April 2024 |
 | [Setup: [!UICONTROL Kickstarts] können nicht zum Einrichten von Gruppierungen verwendet werden](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | Freitag, 30. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9. November 2023 |

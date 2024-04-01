@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 92%
+source-wordcount: '372'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aktualisierungen: Kommentare zu Dokumenten werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt](known-issues-workfront/wf-updates-document-comments-not-visible.md) | Freitag, 14. März 2024 |
+| [Korrekturabzüge: Auf Korrekturabzüge, die aus verknüpften Dokumenten erstellt wurden, wird keine Korrekturabzugsvorlage angewendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | Donnerstag, 27. März 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
 
 {style="table-layout:auto"}
@@ -36,13 +36,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .](known-issues-workfront/wf-proofs-stuck-on-widget.md) | Samstag, 22. März 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
-| [Testsendungen: Ein einfacher Testversand der neuen Dokumentversion beinhaltet einen Workflow aus der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | Samstag, 22. März 2024 |
-| [Korrekturabzüge: Probleme bei der Verarbeitung statischer Dateien](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | Samstag, 15. Dezember 2023 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
-| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26. Oktober 2023 |
-| [Korrekturabzüge: Korrekturabzug kann nicht generiert werden](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19. Oktober 2023 |
 
 {style="table-layout:auto"}
 
@@ -52,16 +47,16 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
+| [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |
 | [Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |
 | [Workfront-Korrekturabzug: Suchdaten sind nicht immer genau](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19. September 2023 |
-| [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
+| [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9. Juni 2023 |
-| [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
+| [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
 | [[!DNL Workfront Proof]: 500-Fehler bei Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25. Mai 2023 |
 | [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
-| [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
+| [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
 | [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) verknüpftes Dokument | 23. März 2023 |
 | [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23. März 2023 |
 | [[!DNL Workfront Proof]: Listen werden nicht korrekt sortiert](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23. März 2023 |

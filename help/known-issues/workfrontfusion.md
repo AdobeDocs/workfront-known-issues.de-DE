@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: ht
-source-wordcount: '167'
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| Keine |  |
+| [Korrekturabzüge: Auf Korrekturabzüge, die aus verknüpften Dokumenten erstellt wurden, wird keine Korrekturabzugsvorlage angewendet](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | Donnerstag, 27. März 2024 |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | Dienstag, 29. Januar 2024 |
+| Keine |  |
 
 {style="table-layout:auto"}
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
-source-wordcount: '2316'
-ht-degree: 100%
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '2644'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,71 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im März 2024
+
++++**Wartungs-Update vom Freitag, 28. März 2024**
+
+### Wartungs-Update vom Freitag, 28. März 2024
+
+#### Integrationen
+
+**Dokumente werden beim Erstellen einer Anfrage von[!DNL Outlook]** nicht angehängt
+
+Wenn Benutzende eine Anfrage von [!DNL Outlook] erstellen, werden die an die E-Mail angehängten Dokumente nicht an die Anfrage angehängt.
+
+Dies wurde für die folgenden Anhangstypen gemeldet:
+
+XLS
+PDF
+
+#### Korrekturabzüge
+
+**Testsendungen verbleiben im Widget Meine Genehmigungen .**
+
+Ein Testversand, der aus dem Widget Meine Genehmigungen verschwinden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Benutzer gleichzeitig Entscheidungen über einen Testversand treffen oder ein Benutzer eine Entscheidung trifft und diese schnell ändert.
+
+#### Ressourcenverwaltung
+
+**Diskrepanz in budgetierten Stunden**
+
+Die in einem der folgenden Bereiche angezeigten Budgetstunden stimmen möglicherweise nicht mit denen in einem anderen dieser Bereiche überein:
+
+* Business Case
+* Berichte
+* Ressourcen-Budgetierungs-Tool
+
+#### Aufgaben
+
+**Vorläufige QuickInfo zeigt den Aufgabennamen nicht an**
+
+Wenn ein Benutzer eine Aufgabenliste anzeigt und den Mauszeiger über ein Vorgängersymbol bewegt, um weitere Informationen zu erhalten, zeigt die angezeigte QuickInfo nicht den Namen der Vorgängeraufgabe an.
+
+#### Updates
+
+**Dokumentkommentare werden nicht in Aktualisierungen des übergeordneten Objekts angezeigt**
+
+Wenn Benutzende einen Kommentar zu einem Dokument abgeben, wird dieser Kommentar nicht sofort im Bereich „Updates“ des übergeordneten Objekts des Dokuments angezeigt.
+
+Dieses Problem wurde für die neue Kommentarerfahrung gemeldet. Kommentare werden in der alten Kommentarerfahrung wie erwartet angezeigt.
+
+**Tagging eines Benutzers ist ineffektiv**
+
+Wenn Benutzende in einem Kommentar getaggt werden, ist dieser Kommentar für die getaggten Benutzenden nicht sichtbar. Außerdem werden die getaggten Benutzenden nicht per E-Mail oder über eine In-App-Benachrichtigung über den Kommentar informiert.
+
+Dies wurde für die alte Kommentarerfahrung gemeldet.
+
++++
+
++++**Wartungs-Update von Workfront Fusion vom Freitag, 28. März 2024**
+
+### Workfront Fusion Maintenance Update am 28. März 2024
+
+**RuntimeError mit 200-Antwort vom Workfront-Modul**
+
+Ein Workfront-Modul kann die Antwort `RuntimeError [200]` zurückgeben. 200 bedeutet eine erfolgreiche Antwort, der Fehler zeigt jedoch, dass die Anfrage nicht erfolgreich war.
+
+Dies kann vorkommen, wenn die Antwort extrem lang ist. Die Daten werden an Fusion zurückgegeben, können aber nicht von Fusion verarbeitet werden.
+
++++
 
 +++**Wartungs-Update vom Freitag, 21. März 2024**
 

@@ -1,17 +1,21 @@
 ---
 title: "Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen"
-description: "Ein Testversand, der aus dem Widget Meine Genehmigungen verschwinden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Benutzer gleichzeitig Entscheidungen über einen Testversand treffen oder ein Benutzer eine Entscheidung trifft und diese schnell ändert."
+description: Ein Testversand, der aus dem Widget Meine Genehmigungen verschwinden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Benutzer gleichzeitig Entscheidungen über einen Testversand treffen oder ein Benutzer eine Entscheidung trifft und diese schnell ändert.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+exl-id: 5a74e9bf-e4d0-49bb-ac58-98a5a9b7dd99
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 
-
 # Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 28. März 2024 behoben.
 
 Ein Testversand, der aus dem Widget Meine Genehmigungen verschwinden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Benutzer gleichzeitig Entscheidungen über einen Testversand treffen oder ein Benutzer eine Entscheidung trifft und diese schnell ändert.
 

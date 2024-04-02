@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
 workflow-type: tm+mt
-source-wordcount: '2644'
-ht-degree: 94%
+source-wordcount: '2736'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,32 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im April 2024
+
++++**(Geplantes) Wartungs-Update vom Freitag, 4. April 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 4. April 2024
+
+#### Erfassen der Zeit
+
+**Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren**
+
+Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktuelle Tag ausgegraut und Benutzende können die Zeit für den aktuellen Tag nicht protokollieren.
+
+#### Updates
+
+<!--no article-->
+
+**Fehler beim Anzeigen von Kommentaren**
+
+Wenn ein Benutzer versucht, Kommentare im neuen Kommentar-Erlebnis anzuzeigen, kann er die Kommentare nicht sehen, stattdessen wird der folgende Fehler angezeigt:
+
+&quot;Etwas ist schiefgelaufen. Versuchen Sie es später erneut.&quot;
+
+Das veraltete Kommentierungserlebnis funktioniert wie erwartet.
+
++++
 
 ## Updates im März 2024
 

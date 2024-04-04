@@ -4,10 +4,10 @@ description: Wenn Benutzende einen Korrekturabzug aus einem verknüpften Dokumen
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 87%
+source-wordcount: '103'
+ht-degree: 88%
 
 ---
 
@@ -15,13 +15,9 @@ ht-degree: 87%
 
 <!--On WF, WFF, WFP TOCs-->
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on March 14, 2024.
-
--->
+>Dieses Problem wurde am Freitag, 14. März 2024 behoben.
 
 Wenn Benutzende einen Korrekturabzug aus einem verknüpften Dokument erstellen, wird die Korrekturabzugsvorlage nicht korrekt angewendet und im Korrekturabzug fehlen möglicherweise Informationen wie der Workflow.
 

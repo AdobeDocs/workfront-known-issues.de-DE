@@ -1,17 +1,21 @@
 ---
 title: "Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird."
-description: '"Wenn das Team eines Benutzers zu einer Pinnwand hinzugefügt wird, kann der Benutzer die Pinnwand möglicherweise nicht anzeigen oder verwenden. Dies kann auch vorkommen, wenn andere Mitglieder des Teams die Pinnwand anzeigen oder verwenden können. Eine Problemumgehung ist verfügbar.“'
+description: Wenn das Team eines Benutzers zu einer Pinnwand hinzugefügt wird, kann der Benutzer die Pinnwand möglicherweise nicht anzeigen oder verwenden. Dies kann auch vorkommen, wenn andere Mitglieder des Teams die Pinnwand anzeigen oder verwenden können. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7e2d6a89b0c875a16ccbf9a7b13f9f90f62c0fdb
+exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 9%
 
 ---
 
-
 # Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird.
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Mittwoch, 2. April 2024 behoben.
 
 Wenn das Team eines Benutzers zu einer Pinnwand hinzugefügt wird, kann der Benutzer die Pinnwand möglicherweise nicht anzeigen oder verwenden. Dies kann auch vorkommen, wenn andere Mitglieder des Teams die Pinnwand anzeigen oder verwenden können.
 

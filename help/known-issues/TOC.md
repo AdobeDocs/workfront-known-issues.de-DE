@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1510'
-ht-degree: 93%
+source-wordcount: '1591'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,16 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: &quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]&quot;-Meldung bei Antwort](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Aktualisierungen: Kommentare werden nicht angezeigt &quot;[!UICONTROL im Namen]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Kalender: Fehler beim Aktualisieren des Kalenders](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [Aktualisierungen: Der Text wird beim Navigieren weg und zurück zum Kommentar nicht beibehalten](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Aufgaben: Vorgängerinformationen enthalten keinen Link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront-Testversand: E-Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Layout-Vorlage: Landingpage ist falsch](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Protokollierungszeit: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Benutzerdefinierte Formulare: Externe Suchfelder geben keine Ergebnisse zurück](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Aktualisierungen: Die Bildvorschau in Updates ist verschwommen](known-issues-workfront/wf-updates-images-blurred.md)
       + [Berichte: Berichtsfilter gibt keine erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)

@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
+source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
 workflow-type: tm+mt
-source-wordcount: '2736'
+source-wordcount: '2773'
 ht-degree: 93%
 
 ---
@@ -22,9 +22,20 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 ## Updates im April 2024
 
-+++**(Geplantes) Wartungs-Update vom Freitag, 4. April 2024**
++++**Wartungs-Update vom Freitag, 4. April 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 4. April 2024
+### Wartungs-Update am 4. April 2024
+
+#### Integrationen
+
+**Dokumente werden beim Erstellen einer Anfrage von[!DNL Outlook]** nicht angehängt
+
+Wenn Benutzende eine Anfrage von [!DNL Outlook] erstellen, werden die an die E-Mail angehängten Dokumente nicht an die Anfrage angehängt.
+
+Dies wurde für die folgenden Anhangstypen gemeldet:
+
+XLS
+PDF
 
 #### Erfassen der Zeit
 

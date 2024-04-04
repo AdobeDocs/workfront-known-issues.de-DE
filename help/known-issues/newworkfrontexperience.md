@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '795'
 ht-degree: 92%
 
 ---
@@ -45,7 +45,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
 | [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | Freitag, 14. März 2024 |
 | [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md) | Freitag, 14. März 2024 |
-| [Zeitprotokollierung: Benutzende können die Zeit für den aktuellen Tag nicht protokollieren](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | Freitag, 14. März 2024 |
 | [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Freitag, 22. Februar 2024 |

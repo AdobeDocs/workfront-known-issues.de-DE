@@ -4,7 +4,7 @@ description: Wenn ein Benutzer eine Anforderung von Outlook erstellt, werden die
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 2b09df99-7ba0-4e08-a3c7-a472e12c5970
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 62%
@@ -15,7 +15,7 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 28. März 2024 behoben.
+>Dieses Problem wurde am Freitag, 4. April 2024 behoben.
 
 Wenn Benutzende eine Anfrage von [!DNL Outlook] erstellen, werden die an die E-Mail angehängten Dokumente nicht an die Anfrage angehängt.
 

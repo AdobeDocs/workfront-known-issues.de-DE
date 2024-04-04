@@ -3,7 +3,7 @@ title: "Aktualisierungen: Ihre Kommentar-Nachricht kann bei der Beantwortung nic
 description: "Wenn ein Benutzer versucht, auf eine Nachricht im neuen Kommentierungserlebnis zu antworten, wird die Antwort nicht gespeichert und dem Benutzer wird eine Nachricht angezeigt."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 4%
@@ -18,3 +18,4 @@ Wenn ein Benutzer versucht, auf eine Nachricht im neuen Kommentar-Erlebnis zu an
 &quot;[!UICONTROL Wir können Ihren Kommentar jetzt nicht posten. Warten Sie einen Moment und versuchen Sie es erneut.]&quot;
 
 _Erste Meldung am Donnerstag, 27. März 2024._
+

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 86%
+source-wordcount: '855'
+ht-degree: 85%
 
 ---
 
@@ -38,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Testsendungen: Der Testversand verhindert die Konvertierung von Aufgaben oder Problemen in ein Projekt.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |
 | [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-exporting.md) | Samstag, 5. April 2024 |
 | [Aktualisierungen: Kommentare werden nicht angezeigt &quot;[!UICONTROL im Namen]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | Freitag, 4. April 2024 |
 | [Kalender: Fehler beim Aktualisieren des Kalenders](known-issues-workfront/wf-calendar-error-when-refresh.md) | Freitag, 4. April 2024 |

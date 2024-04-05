@@ -3,7 +3,7 @@ title: "Testsendungen: Testversand verhindert die Konvertierung von Aufgaben ode
 description: '"Wenn ein Benutzer versucht, eine Aufgabe oder ein Problem, die einen Web-generierten Testversand in ein Projekt enthält, in ein Projekt zu konvertieren, wird das Projekt nicht erstellt und dem Benutzer wird eine Nachricht angezeigt. Eine Problemumgehung ist verfügbar.“'
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ Gehen Sie wie folgt vor:
 3. Verwenden Sie die Funktion Dokument verschieben , um den Testversand in das neue Projekt zu verschieben.
 
 _Erste Meldung am Freitag, 28. März 2024._
+

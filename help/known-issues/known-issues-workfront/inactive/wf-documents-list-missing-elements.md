@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 Die folgenden Probleme wurden bezüglich der Dokumentliste gemeldet:
 
 * Miniaturansichten werden nicht angezeigt.
-* Wenn ein Benutzer den ausgewählten Ordner in der Listenansicht wechselt, funktionieren die Optionen Filter, Ansicht und Gruppierung nicht mehr.
+* Wenn Benutzende den ausgewählten Ordner in der Listenansicht wechseln, funktionieren die Optionen „Filter“, „Ansicht“ und „Gruppierung“ nicht mehr.
 
 **Problemumgehung**
 

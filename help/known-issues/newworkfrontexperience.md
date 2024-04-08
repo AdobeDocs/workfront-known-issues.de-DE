@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 85%
+ht-degree: 87%
 
 ---
 
@@ -50,8 +50,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Protokollierungszeit: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | Freitag, 4. April 2024 |
 | [Benutzerdefinierte Formulare: Externe Suchfelder geben keine Ergebnisse zurück](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | Freitag, 4. April 2024 |
 | [Aktualisierungen: Die Bildvorschau in Updates ist verschwommen](known-issues-workfront/wf-updates-images-blurred.md) | Mittwoch, 2. April 2024 |
-| [Agil: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | Freitag, 28. März 2024 |
-| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
+| [Agile: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | Freitag, 28. März 2024 |
+| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
 | [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md) | Freitag, 14. März 2024 |
 | [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Samstag, 23. Februar 2024 |

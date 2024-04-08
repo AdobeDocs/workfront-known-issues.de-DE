@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '1608'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 88%
       + [Aktualisierungen: Die Bildvorschau in Updates ist verschwommen](known-issues-workfront/wf-updates-images-blurred.md)
       + [Berichte: Berichtsfilter gibt keine erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird.](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [Agil: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [Testsendungen: Testsendungen verbleiben im Widget Meine Validierungen .](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [Ressourcenverwaltung: Diskrepanz in Haushaltszeiten](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [Testsendungen: Ein einfacher Testversand der neuen Dokumentversion beinhaltet einen Workflow aus der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [Aufgaben: Die QuickInfo des Vorgängers zeigt keinen Aufgabennamen an](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [Pinnwände: Fehler 400 beim Hinzufügen einer Aufgabe zu einer Pinnwand aus einem Kanban-Board](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [Agile: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Korrekturabzüge: Korrekturabzüge werden weiterhin im Widget „Meine Genehmigungen“ angezeigt](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Ressourcen-Management: Diskrepanz bei budgetierten Stunden](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Korrekturabzüge: Der einfache Korrekturabzug einer neuen Dokumentversion enthält den Workflow der vorherigen Version](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Aufgaben: QuickInfo des Vorgängers zeigt nicht den Aufgabennamen an](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand von einem Kanban-Board](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht von einer Website aus generiert werden](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Suche: Bearbeitung über Suche nicht möglich](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Aktualisierungen: Das Taggen von Benutzenden ist ineffektiv](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

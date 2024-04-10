@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
+source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
 workflow-type: tm+mt
-source-wordcount: '2773'
+source-wordcount: '2905'
 ht-degree: 93%
 
 ---
@@ -24,7 +24,33 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom Freitag, 4. April 2024**
 
-### Wartungs-Update am 4. April 2024
+### Wartungs-Update vom 4. April 2024
+
+#### Suchen
+
+**Bearbeitung über Suche nicht möglich**
+
+Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse zu bearbeiten oder eine Massenbearbeitung vorzunehmen, reagiert das Symbol „Bearbeiten“ nicht.
+
+#### Updates
+
+**Vorschau des Bildes in Aktualisierungen ist verschwommen**
+
+Wenn ein(e) Benutzende(r) Aktualisierungen aufruft und auf die Lupe auf einem Bild klickt, um eine Vorschau des Bildes anzuzeigen, ist die geöffnete Vorschau extrem pixelig.
+
+Wenn der/die Benutzende das Bild herunterlädt, wird das Bild mit der erwarteten Auflösung angezeigt.
+
+**&quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]Nachricht bei der Antwort**
+
+Wenn ein(e) Benutzende(r) versucht, in der neuen -Kommentar-Version auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und die folgende Nachricht wird angezeigt:
+
+&quot;[!UICONTROL Wir können Ihren Kommentar im Moment nicht veröffentlichen. Bitte einen Moment warten und dann erneut versuchen.]&quot;
+
++++
+
++++**Wartungs-Update vom Freitag, 4. April 2024**
+
+### Wartungs-Update vom 4. April 2024
 
 #### Integrationen
 
@@ -39,7 +65,7 @@ PDF
 
 #### Erfassen der Zeit
 
-**Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren**
+**Benutzende können die Zeit für den aktuellen Tag nicht protokollieren**
 
 Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktuelle Tag ausgegraut und Benutzende können die Zeit für den aktuellen Tag nicht protokollieren.
 
@@ -49,11 +75,11 @@ Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktue
 
 **Fehler beim Anzeigen von Kommentaren**
 
-Wenn ein Benutzer versucht, Kommentare im neuen Kommentar-Erlebnis anzuzeigen, kann er die Kommentare nicht sehen, stattdessen wird der folgende Fehler angezeigt:
+Wenn ein(e) Benutzende(r) versucht, Kommentare in der neuen Kommentar-Version anzuzeigen, können die Kommentare nicht angezeigt werden und stattdessen wird der folgende Fehler angezeigt:
 
-&quot;Etwas ist schiefgelaufen. Versuchen Sie es später erneut.&quot;
+„Etwas ist schiefgelaufen. Bitte später erneut versuchen.“
 
-Das veraltete Kommentierungserlebnis funktioniert wie erwartet.
+Das alte Kommentierungserlebnis funktioniert erwartungsgemäß.
 
 +++
 
@@ -76,35 +102,35 @@ PDF
 
 #### Korrekturabzüge
 
-**Testsendungen verbleiben im Widget Meine Genehmigungen .**
+**Korrekturabzüge verbleiben im Widget Meine Genehmigungen .**
 
-Ein Testversand, der aus dem Widget Meine Genehmigungen verschwinden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Benutzer gleichzeitig Entscheidungen über einen Testversand treffen oder ein Benutzer eine Entscheidung trifft und diese schnell ändert.
+Ein Korrekturabzug, der nicht mehr im Widget „Meine Genehmigungen“ angezeigt werden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Personen gleichzeitig Entscheidungen über einen Korrekturabzug treffen oder eine Person eine Entscheidung trifft und diese schnell ändert.
 
 #### Ressourcenverwaltung
 
-**Diskrepanz in budgetierten Stunden**
+**Diskrepanz bei budgetierten Stunden**
 
-Die in einem der folgenden Bereiche angezeigten Budgetstunden stimmen möglicherweise nicht mit denen in einem anderen dieser Bereiche überein:
+Die in einem der folgenden Bereiche angezeigten budgetierten Stunden stimmen möglicherweise nicht mit denen in einem der anderen folgenden Bereiche überein:
 
 * Business Case
 * Berichte
-* Ressourcen-Budgetierungs-Tool
+* Ressourcenbudgetierungs-Tool
 
 #### Aufgaben
 
-**Vorläufige QuickInfo zeigt den Aufgabennamen nicht an**
+**In der QuickInfo des Vorgängers wird der Aufgabenname nicht angezeigt**
 
-Wenn ein Benutzer eine Aufgabenliste anzeigt und den Mauszeiger über ein Vorgängersymbol bewegt, um weitere Informationen zu erhalten, zeigt die angezeigte QuickInfo nicht den Namen der Vorgängeraufgabe an.
+Wenn Benutzende eine Aufgabenliste anzeigen und den Mauszeiger über das Symbol eines Vorgängers bewegen, um weitere Informationen zu erhalten, zeigt die angezeigte QuickInfo nicht den Namen der Vorgängeraufgabe an.
 
 #### Updates
 
-**Dokumentkommentare werden nicht in Aktualisierungen des übergeordneten Objekts angezeigt**
+**Dokumentkommentare werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt**
 
 Wenn Benutzende einen Kommentar zu einem Dokument abgeben, wird dieser Kommentar nicht sofort im Bereich „Updates“ des übergeordneten Objekts des Dokuments angezeigt.
 
 Dieses Problem wurde für die neue Kommentarerfahrung gemeldet. Kommentare werden in der alten Kommentarerfahrung wie erwartet angezeigt.
 
-**Tagging eines Benutzers ist ineffektiv**
+**Benutzende zu taggen ist ineffektiv**
 
 Wenn Benutzende in einem Kommentar getaggt werden, ist dieser Kommentar für die getaggten Benutzenden nicht sichtbar. Außerdem werden die getaggten Benutzenden nicht per E-Mail oder über eine In-App-Benachrichtigung über den Kommentar informiert.
 
@@ -114,9 +140,9 @@ Dies wurde für die alte Kommentarerfahrung gemeldet.
 
 +++**Wartungs-Update von Workfront Fusion vom Freitag, 28. März 2024**
 
-### Workfront Fusion Maintenance Update am 28. März 2024
+### Wartungs-Update von Workfront Fusion vom 28. März 2024
 
-**RuntimeError mit 200-Antwort vom Workfront-Modul**
+**Laufzeitfehler mit Antwort 200 vom Workfront-Modul**
 
 Ein Workfront-Modul kann die Antwort `RuntimeError [200]` zurückgeben. 200 bedeutet eine erfolgreiche Antwort, der Fehler zeigt jedoch, dass die Anfrage nicht erfolgreich war.
 

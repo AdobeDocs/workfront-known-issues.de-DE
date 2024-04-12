@@ -3,7 +3,7 @@ title: "Teams: Team-Eigentümer kann nicht angezeigt oder Team gelöscht werden"
 description: "Diese Aktionen stehen Gruppenadministratoren nicht zur Verfügung."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 079c056ed83bc8dcd2aca2972760c871b1bdf7fd
+source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 27%
@@ -25,3 +25,4 @@ Die folgenden Aktionen stehen Gruppenadministratoren nicht zur Verfügung
 Dies geschieht, auch wenn der Gruppenadministrator über alle Berechtigungen für Teams und Benutzer verfügt.
 
 _Erste Meldung am Samstag, 15. März 2024._
+

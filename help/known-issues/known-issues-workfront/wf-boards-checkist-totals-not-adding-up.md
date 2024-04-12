@@ -1,17 +1,21 @@
 ---
-title: '„Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt“'
-description: „Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.“
+title: "Pinnwände: Die Summen der Checkliste sind nicht genau"
+description: Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 11. April 2024 behoben.
 
 Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.
 

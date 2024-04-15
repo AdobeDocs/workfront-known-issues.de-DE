@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 98%
+source-wordcount: '382'
+ht-degree: 94%
 
 ---
 
@@ -35,6 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Testsendungen, die aus Integrations-Assets erstellt wurden, werden nicht ordnungsgemäß auf Vorlagen und Workflows angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | Dienstag, 15. April 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Samstag, 12. April 2024 |
 | [Workfront Proof: E-Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md) | Samstag, 12. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |

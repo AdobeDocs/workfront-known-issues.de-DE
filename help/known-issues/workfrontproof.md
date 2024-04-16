@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -37,7 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Testsendungen, die aus Integrations-Assets erstellt wurden, werden nicht ordnungsgemäß auf Vorlagen und Workflows angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | Dienstag, 15. April 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Samstag, 12. April 2024 |
-| [Workfront Proof: E-Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md) | Samstag, 12. April 2024 |
+| [Workfront Proof: Elektronische Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md) | Samstag, 12. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 

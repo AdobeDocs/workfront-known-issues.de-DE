@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '868'
-ht-degree: 82%
+ht-degree: 91%
 
 ---
 
@@ -42,16 +42,16 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Testsendungen: Testsendungen, die aus Integrations-Assets erstellt wurden, werden nicht ordnungsgemäß auf Vorlagen und Workflows angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | Dienstag, 15. April 2024 |
 | [Anforderungen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | Samstag, 12. April 2024 |
 | [Listen: Liste zeigt nicht alle Elemente an](known-issues-workfront/wf-lists-does-not-display-all.md) | Samstag, 12. April 2024 |
-| [Workfront Proof: E-Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md) | Samstag, 12. April 2024 |
+| [Workfront Proof: Elektronische Signaturen funktionieren nicht](known-issues-workfront-proof/proof-esignatures-not-working.md) | Samstag, 12. April 2024 |
 | [Teams: Teameigentümer kann nicht angezeigt oder Team gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | Freitag, 11. April 2024 |
 | [Anforderungen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | Mittwoch, 9. April 2024 |
-| [Testsendungen: Der Testversand verhindert die Konvertierung von Aufgaben oder Problemen in ein Projekt.](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |
-| [Aktualisierungen: Kommentare werden nicht angezeigt &quot;[!UICONTROL im Namen]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | Freitag, 4. April 2024 |
+| [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |
+| [Aktualisierungen: Für Kommentare wird nicht der Zusatz „[!UICONTROL im Auftrag von]“ angezeigt](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | Freitag, 4. April 2024 |
 | [Kalender: Fehler beim Aktualisieren des Kalenders](known-issues-workfront/wf-calendar-error-when-refresh.md) | Freitag, 4. April 2024 |
-| [Aktualisierungen: Der Text wird beim Navigieren weg und zurück zum Kommentar nicht beibehalten](known-issues-workfront/wf-updates-text-missing-after-mention.md) | Freitag, 4. April 2024 |
+| [Aktualisierungen: Text bleibt beim Verlassen von und Zurückkehren zu Kommentaren nicht erhalten](known-issues-workfront/wf-updates-text-missing-after-mention.md) | Freitag, 4. April 2024 |
 | [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | Freitag, 4. April 2024 |
 | [Aufgaben: Vorgängerinformationen enthalten keinen Link](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | Freitag, 4. April 2024 |
-| [Protokollierungszeit: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | Freitag, 4. April 2024 |
+| [Zeitprotokollierung: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | Freitag, 4. April 2024 |
 | [Benutzerdefinierte Formulare: Externe Suchfelder geben keine Ergebnisse zurück](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | Freitag, 4. April 2024 |
 | [Agile: Kanban-Karten zeigen keine benutzerdefinierten Felder an](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | Freitag, 28. März 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
@@ -69,7 +69,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Berichte: Berichtsfilter gibt keine erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | Dienstag, 1. April 2024 |
+| [Berichte: Berichtfilter gibt nicht die erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | Dienstag, 1. April 2024 |
 | [Setup: [!UICONTROL Kickstarts] können nicht zum Einrichten von Gruppierungen verwendet werden](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | Freitag, 30. November 2023 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9. November 2023 |

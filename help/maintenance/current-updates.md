@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
 source-wordcount: '3037'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom Freitag, 11. April 2024**
 
-### Wartungs-Update am 11. April 2024
+### Wartungs-Update vom Freitag, 11. April 2024
 
 #### Suchen
 
@@ -36,21 +36,21 @@ Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse
 
 **Die Bildvorschau in Updates ist verschwommen**
 
-Wenn ein Benutzer Aktualisierungen anzeigt und auf das Lupensymbol auf einem Bild klickt, um eine Vorschau des Bildes anzuzeigen, ist die geöffnete Vorschau äußerst pixelig.
+Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
 
-Wenn der Benutzer das Bild herunterlädt, wird das Bild mit der erwarteten Auflösung angezeigt.
+Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
 
 **&quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]&quot;-Meldung bei Antwort**
 
-Wenn ein Benutzer versucht, auf eine Nachricht im neuen Kommentar-Erlebnis zu antworten, wird die Antwort nicht gespeichert und dem Benutzer wird die folgende Nachricht angezeigt:
+Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Wir können Ihren Kommentar jetzt nicht posten. Warten Sie einen Moment und versuchen Sie es erneut.]&quot;
+„[!UICONTROL Ihr Kommentar kann derzeit nicht veröffentlicht werden. Bitte warten Sie einen Moment und versuchen Sie es dann erneut.]“
 
 +++
 
 +++**Wartungs-Update vom Freitag, 4. April 2024**
 
-### Wartungs-Update am 4. April 2024
+### Wartungs-Update vom 4. April 2024
 
 #### Suchen
 
@@ -62,21 +62,21 @@ Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse
 
 **Die Bildvorschau in Updates ist verschwommen**
 
-Wenn ein Benutzer Aktualisierungen anzeigt und auf das Lupensymbol auf einem Bild klickt, um eine Vorschau des Bildes anzuzeigen, ist die geöffnete Vorschau äußerst pixelig.
+Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
 
-Wenn der Benutzer das Bild herunterlädt, wird das Bild mit der erwarteten Auflösung angezeigt.
+Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
 
 **&quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]&quot;-Meldung bei Antwort**
 
-Wenn ein Benutzer versucht, auf eine Nachricht im neuen Kommentar-Erlebnis zu antworten, wird die Antwort nicht gespeichert und dem Benutzer wird die folgende Nachricht angezeigt:
+Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Wir können Ihren Kommentar jetzt nicht posten. Warten Sie einen Moment und versuchen Sie es erneut.]&quot;
+„[!UICONTROL Ihr Kommentar kann derzeit nicht veröffentlicht werden. Bitte warten Sie einen Moment und versuchen Sie es dann erneut.]“
 
 +++
 
 +++**Wartungs-Update vom Freitag, 4. April 2024**
 
-### Wartungs-Update am 4. April 2024
+### Wartungs-Update vom 4. April 2024
 
 #### Integrationen
 
@@ -91,7 +91,7 @@ PDF
 
 #### Erfassen der Zeit
 
-**Benutzer kann die Zeit für den aktuellen Tag nicht protokollieren**
+**Benutzende können die Zeit für den aktuellen Tag nicht protokollieren**
 
 Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktuelle Tag ausgegraut und Benutzende können die Zeit für den aktuellen Tag nicht protokollieren.
 
@@ -101,11 +101,11 @@ Beim Versuch, die Zeit im Bereich „Updates“ zu protokollieren, ist der aktue
 
 **Fehler beim Anzeigen von Kommentaren**
 
-Wenn ein Benutzer versucht, Kommentare im neuen Kommentar-Erlebnis anzuzeigen, kann er die Kommentare nicht sehen, stattdessen wird der folgende Fehler angezeigt:
+Beim Versuch, Kommentare im neuen Kommentierungserlebnis anzuzeigen, sind die Kommentare nicht zu sehen. Stattdessen wird die folgende Fehlermeldung angezeigt:
 
-&quot;Etwas ist schiefgelaufen. Versuchen Sie es später erneut.&quot;
+„Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.“
 
-Das veraltete Kommentierungserlebnis funktioniert wie erwartet.
+Das alte Kommentierungserlebnis funktioniert wie erwartet.
 
 +++
 
@@ -128,13 +128,13 @@ PDF
 
 #### Korrekturabzüge
 
-**Testsendungen verbleiben im Widget Meine Genehmigungen .**
+**Korrekturabzüge werden weiterhin im Widget „Meine Genehmigungen“ angezeigt**
 
 Ein Korrekturabzug, der nicht mehr im Widget „Meine Genehmigungen“ angezeigt werden sollte, verbleibt im Widget. Dies kann vorkommen, wenn mehrere Personen gleichzeitig Entscheidungen über einen Korrekturabzug treffen oder eine Person eine Entscheidung trifft und diese schnell ändert.
 
 #### Ressourcenverwaltung
 
-**Diskrepanz in budgetierten Stunden**
+**Diskrepanz bei budgetierten Stunden**
 
 Die in einem der folgenden Bereiche angezeigten budgetierten Stunden stimmen möglicherweise nicht mit denen in einem der anderen folgenden Bereiche überein:
 
@@ -144,19 +144,19 @@ Die in einem der folgenden Bereiche angezeigten budgetierten Stunden stimmen mö
 
 #### Aufgaben
 
-**Vorläufige QuickInfo zeigt den Aufgabennamen nicht an**
+**QuickInfo des Vorgängers zeigt nicht den Aufgabennamen an**
 
 Wenn Benutzende eine Aufgabenliste anzeigen und den Mauszeiger über das Symbol eines Vorgängers bewegen, um weitere Informationen zu erhalten, zeigt die angezeigte QuickInfo nicht den Namen der Vorgängeraufgabe an.
 
 #### Updates
 
-**Dokumentkommentare werden nicht in Aktualisierungen des übergeordneten Objekts angezeigt**
+**Kommentare zu Dokumenten werden in Aktualisierungen des übergeordneten Objekts nicht angezeigt**
 
 Wenn Benutzende einen Kommentar zu einem Dokument abgeben, wird dieser Kommentar nicht sofort im Bereich „Updates“ des übergeordneten Objekts des Dokuments angezeigt.
 
 Dieses Problem wurde für die neue Kommentarerfahrung gemeldet. Kommentare werden in der alten Kommentarerfahrung wie erwartet angezeigt.
 
-**Tagging eines Benutzers ist ineffektiv**
+**Das Taggen von Benutzenden ist ineffektiv**
 
 Wenn Benutzende in einem Kommentar getaggt werden, ist dieser Kommentar für die getaggten Benutzenden nicht sichtbar. Außerdem werden die getaggten Benutzenden nicht per E-Mail oder über eine In-App-Benachrichtigung über den Kommentar informiert.
 
@@ -166,9 +166,9 @@ Dies wurde für die alte Kommentarerfahrung gemeldet.
 
 +++**Wartungs-Update von Workfront Fusion vom Freitag, 28. März 2024**
 
-### Workfront Fusion Maintenance Update am 28. März 2024
+### Wartungs-Update von Workfront Fusion vom 28. März 2024
 
-**RuntimeError mit 200-Antwort vom Workfront-Modul**
+**RuntimeError mit Antwort 200 vom Workfront-Modul**
 
 Ein Workfront-Modul kann die Antwort `RuntimeError [200]` zurückgeben. 200 bedeutet eine erfolgreiche Antwort, der Fehler zeigt jedoch, dass die Anfrage nicht erfolgreich war.
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '3037'
-ht-degree: 98%
+source-wordcount: '3258'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,40 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im April 2024
+
++++**Wartungs-Update vom Freitag, 18. April 2024**
+
+### Wartungs-Update vom Freitag, 18. April 2024
+
+#### Agile
+
+**Kanban-Karten zeigen keine benutzerdefinierten Felder an**
+
+Wenn ein Kanban-Board angezeigt wird, das so konfiguriert wurde, dass es benutzerdefinierte Felder enthält, werden diese benutzerdefinierten Felder möglicherweise nicht angezeigt.
+
+#### Kalender
+
+**Fehler beim Aktualisieren des Kalenders**
+
+Beim Anzeigen eines Kalenders und Aktualisieren der Seite wird ein Fehler „Hoppla“ angezeigt. Die Daten im Kalender werden wie erwartet angezeigt, sind aber möglicherweise durch die Fehlermeldung verdeckt.
+
+#### Benutzerdefinierte Formulare
+
+**Externe Suchfelder geben keine Ergebnisse zurück**
+
+Wenn ein externes Suchfeld auf ein Mehrfachauswahlfeld verweist, in dem nur ein Wert ausgewählt ist, gibt das Feld den Wert nicht zurück.
+
+Verweist ein externes Suchfeld beispielsweise auf ein Mehrfachauswahlfeld, in dem die Werte „Rot“ und „Blau“ ausgewählt sind, funktioniert das Feld wie erwartet. Wenn dagegen im Feld nur die Option „Rot“ ausgewählt ist, gibt das externe Suchfeld keinen Wert zurück.
+
+#### Projekte
+
+**Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist**
+
+Wenn an ein Problem ein Web-Korrekturabzug angefügt ist (ein URL-Korrekturabzug mit einem Link eines externen Dokumentenanbieters wie SharePoint) und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Der folgende Fehler wird angezeigt:
+
+„Fehler beim Kopieren der Datei (Datei-GUID). Entfernen Sie die Datei oder kontaktieren Sie den Support und versuchen Sie es erneut.“
+
++++
 
 +++**Wartungs-Update vom Freitag, 11. April 2024**
 

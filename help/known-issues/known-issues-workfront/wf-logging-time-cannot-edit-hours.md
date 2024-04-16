@@ -1,19 +1,18 @@
 ---
-title: "Protokollierungszeit: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden"
-description: "Wenn ein Benutzer versucht, Stunden an einer Aufgabe oder einem Problem zu bearbeiten, werden die Änderungen nicht gespeichert."
+title: '„Zeitprotokollierung: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden“'
+description: Beim Versuch, die Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werden die Änderungen nicht gespeichert.
 hidefromtoc: true
 feature: Work Management, Tasks, Timesheets
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: dc4021c0-0862-464e-8c0e-44b0fe229240
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Zeitprotokollierung: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden
 
-# Protokollierungszeit: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden
-
-Wenn ein Benutzer versucht, Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werden die Änderungen nicht gespeichert.
+Beim Versuch, die Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werden die Änderungen nicht gespeichert.
 
 _Erste Meldung am Dienstag, 1. April 2024._
-

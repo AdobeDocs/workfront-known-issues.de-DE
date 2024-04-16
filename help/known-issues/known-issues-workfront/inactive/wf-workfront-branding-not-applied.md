@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 91%
 
 Beim Versuch, Dateien in den [!UICONTROL Branding]-Bereich von Setup hochzuladen, scheinen die Dateien korrekt hochgeladen zu werden. Wenn jedoch das [!UICONTROL Hauptmenü] angezeigt wird, ist das Logo nicht zu sehen. Stattdessen wird die folgende Meldung angezeigt:
 
-&quot;[!UICONTROL Firmenlogo nicht verfügbar. Ihr Firmenlogo konnte nicht basierend auf der angegebenen URL geladen werden. Wenden Sie sich an Ihren Systemadministrator.]“
+&quot;[!UICONTROL Firmenlogo nicht verfügbar. Wir konnten Ihr Firmenlogo basierend auf der angegebenen URL nicht laden. Wenden Sie sich an Ihren Systemadministrator.]“
 
 _Erste Meldung am 29. September 2023._

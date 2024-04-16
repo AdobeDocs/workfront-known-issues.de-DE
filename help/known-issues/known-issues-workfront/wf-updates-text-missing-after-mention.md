@@ -1,19 +1,19 @@
 ---
-title: "Aktualisierungen: Text wird beim Navigieren weg und zurück zum Kommentar nicht beibehalten."
-description: "Wenn ein Benutzer einen Kommentar schreibt, der eine @mention enthält, dann von dem Kommentar weg und zurück zum Kommentar navigiert, bevor er ihn sendet, fehlt jeder Text, der nach @mention eingegeben wurde, im Kommentarentwurf."
+title: '„Aktualisierungen: Text bleibt beim Verlassen von und Zurückkehren zu Kommentaren nicht erhalten“'
+description: „Wenn Benutzende einen Kommentar verfassen, der eine @Erwähnung enthält, dann den Kommentar vor dem Senden verlassen und wieder dorthin zurückkehren, fehlt im Kommentarentwurf jeglicher Text, der nach der @Erwähnung eingegeben wurde.“
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Der Text wird beim Navigieren weg und zurück zum Kommentar nicht beibehalten
+# Aktualisierungen: Text bleibt beim Verlassen von und Zurückkehren zu Kommentaren nicht erhalten
 
-Wenn ein Benutzer einen Kommentar schreibt, der eine @mention enthält, dann von dem Kommentar weg und zurück zum Kommentar navigiert, bevor er ihn sendet, fehlt jeder Text, der nach der @mention eingegeben wurde, im Kommentarentwurf.
+Wenn Benutzende einen Kommentar verfassen, der eine @Erwähnung enthält, dann den Kommentar vor dem Senden verlassen und wieder dorthin zurückkehren, fehlt im Kommentarentwurf jeglicher Text, der nach der @Erwähnung eingegeben wurde.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 

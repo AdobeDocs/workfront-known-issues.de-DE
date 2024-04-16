@@ -1,26 +1,26 @@
 ---
-title: "Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird."
-description: Wenn das Team eines Benutzers zu einer Pinnwand hinzugefügt wird, kann der Benutzer die Pinnwand möglicherweise nicht anzeigen oder verwenden. Dies kann auch vorkommen, wenn andere Mitglieder des Teams die Pinnwand anzeigen oder verwenden können. Eine Problemumgehung ist verfügbar.
+title: '„Pinnwände: Benutzende können die Pinnwand nicht sehen, wenn ihr Team der Pinnwand hinzugefügt wird“'
+description: Wenn das Team von Benutzenden einer Pinnwand hinzugefügt wird, können die Benutzenden die Pinnwand möglicherweise nicht sehen oder verwenden. Dies kann sogar dann vorkommen, wenn andere Team-Mitglieder die Pinnwand sehen oder verwenden können. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Agile
 exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Pinnwände: Benutzer können die Pinnwand nicht sehen, wenn das Team des Benutzers zur Pinnwand hinzugefügt wird.
+# Pinnwände: Benutzende können die Pinnwand nicht sehen, wenn ihr Team der Pinnwand hinzugefügt wird
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Mittwoch, 2. April 2024 behoben.
 
-Wenn das Team eines Benutzers zu einer Pinnwand hinzugefügt wird, kann der Benutzer die Pinnwand möglicherweise nicht anzeigen oder verwenden. Dies kann auch vorkommen, wenn andere Mitglieder des Teams die Pinnwand anzeigen oder verwenden können.
+Wenn das Team von Benutzenden einer Pinnwand hinzugefügt wird, können die Benutzenden die Pinnwand möglicherweise nicht sehen oder verwenden. Dies kann sogar dann vorkommen, wenn andere Team-Mitglieder die Pinnwand sehen oder verwenden können.
 
 **Problemumgehung**
 
-Fügen Sie den Benutzer einzeln zur Pinnwand hinzu.
+Fügen Sie die Benutzenden der Pinnwand einzeln hinzu.
 
 _Erste Meldung am Samstag, 15. März 2024._

@@ -1,19 +1,18 @@
 ---
-title: "Kalender: Fehler beim Aktualisieren des Kalenders"
-description: '"Wenn ein Benutzer einen Kalender anzeigt und die Seite aktualisiert, wird ein "UUPS"-Fehler angezeigt. Die Daten im Kalender werden erwartungsgemäß angezeigt, können aber durch die Fehlermeldung verdeckt werden."'
+title: '„Kalender: Fehler beim Aktualisieren des Kalenders“'
+description: Beim Anzeigen eines Kalenders und Aktualisieren der Seite wird ein Fehler „Hoppla“ angezeigt. Die Daten im Kalender werden wie erwartet angezeigt, sind aber möglicherweise durch die Fehlermeldung verdeckt.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: 5a1057c9-613f-4714-9ed6-448c2e6743b9
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Kalender: Fehler beim Aktualisieren des Kalenders
 
-Wenn ein Benutzer einen Kalender anzeigt und die Seite aktualisiert, wird der Fehler &quot;Hopfen&quot;angezeigt. Die Daten im Kalender werden erwartungsgemäß angezeigt, können aber durch die Fehlermeldung verdeckt werden.
+Beim Anzeigen eines Kalenders und Aktualisieren der Seite wird ein Fehler „Hoppla“ angezeigt. Die Daten im Kalender werden wie erwartet angezeigt, sind aber möglicherweise durch die Fehlermeldung verdeckt.
 
 _Erste Meldung am Donnerstag, 13. März 2024._
-

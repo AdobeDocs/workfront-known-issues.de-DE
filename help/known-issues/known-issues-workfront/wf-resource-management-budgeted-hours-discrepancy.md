@@ -1,13 +1,13 @@
 ---
-title: "Ressourcenverwaltung: Diskrepanz in Haushaltszeiten"
-description: Die in einem Workfront-Gebiet angezeigten Budgetstunden stimmen möglicherweise nicht mit den in einem anderen Gebiet angezeigten Stunden überein.
+title: '„Ressourcen-Management: Diskrepanz bei budgetierten Stunden“'
+description: Die in einem Workfront-Bereich angezeigten budgetierten Stunden stimmen möglicherweise nicht mit denen in einem anderen Bereich überein.
 hidefromtoc: true
 feature: Resource Management
 exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
 source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

@@ -4,14 +4,18 @@ description: Wenn ein Kanban-Board angezeigt wird, das so konfiguriert wurde, da
 hidefromtoc: true
 feature: Agile
 exl-id: b1f94663-78ee-4e1d-bc14-9453cbde4753
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
-workflow-type: ht
-source-wordcount: '64'
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
 # Agile: Kanban-Karten zeigen keine benutzerdefinierten Felder an
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 18. April 2024 behoben.
 
 Wenn ein Kanban-Board angezeigt wird, das so konfiguriert wurde, dass es benutzerdefinierte Felder enthält, werden diese benutzerdefinierten Felder möglicherweise nicht angezeigt.
 

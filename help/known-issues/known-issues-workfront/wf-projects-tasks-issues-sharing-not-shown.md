@@ -3,7 +3,7 @@ title: "Projekte, Aufgaben und Probleme: Vererbte Berechtigungen werden nicht an
 description: '"Wenn ein Benutzer ein Objekt teilt, ist die Karte, die geerbte Berechtigungen anzeigt, nicht vorhanden. „'
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 6bab9d008c17141758b023578297c0ac3713b29d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 5%
@@ -19,3 +19,4 @@ Wenn ein Benutzer ein Objekt teilt, ist die Karte, auf der die geerbten Berechti
 * Der Benutzer, dessen Name eingegeben wird, um das Objekt für
 
 _Erste Meldung am Mittwoch, 9. Januar 2024._
+

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5281eacf00a514ef944d7894c5b67c259ea20a29
+source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 98%
+source-wordcount: '376'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| Keine | |
+| [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
 
 {style="table-layout:auto"}
 

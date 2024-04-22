@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Startseite: Das Validierungs-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Projekte, Aufgaben und Probleme: Vererbte Berechtigungen werden nicht angezeigt](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)

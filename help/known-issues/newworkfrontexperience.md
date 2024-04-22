@@ -4,7 +4,7 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 89%
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
 | [Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 18. April 2024 |
 | [Aktualisierungen: Kommentare, die über API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | Dienstag, 15. April 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
@@ -41,7 +42,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 |----------------------------------| ----------------- |
 | [Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | Dienstag, 22. April 2024 |
 | [Startseite: Das Validierungs-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Dienstag, 22. April 2024 |
-| [Projekte, Aufgaben und Probleme: Vererbte Berechtigungen werden nicht angezeigt](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | Samstag, 19. April 2024 |
 | [Benutzer: Benutzer können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md) | Freitag, 18. April 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Freitag, 18. April 2024 |
 | [Aktualisierungen: Nummerierte Listen werden nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md) | Dienstag, 15. April 2024 |

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 90%
+source-wordcount: '855'
+ht-degree: 89%
 
 ---
 
@@ -39,11 +39,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | Dienstag, 22. April 2024 |
+| [Startseite: Das Validierungs-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Dienstag, 22. April 2024 |
 | [Projekte, Aufgaben und Probleme: Vererbte Berechtigungen werden nicht angezeigt](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | Samstag, 19. April 2024 |
-| [Anforderungen: Anforderungs-Warteschlangenpfad kann nicht freigegeben werden](known-issues-workfront/wf-requests-cannot-share-path.md) | Freitag, 18. April 2024 |
 | [Benutzer: Benutzer können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md) | Freitag, 18. April 2024 |
-| [Aktualisierungen: Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten](known-issues-workfront/wf-updates-were-unable-to-post.md) | Freitag, 18. April 2024 |
-| [Aktualisierungen: Vorschau eines Bildes in Aktualisierungen ist unscharf](known-issues-workfront/wf-updates-images-blurred.md) | Freitag, 18. April 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Freitag, 18. April 2024 |
 | [Aktualisierungen: Nummerierte Listen werden nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md) | Dienstag, 15. April 2024 |
 | [Anforderungen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | Samstag, 12. April 2024 |

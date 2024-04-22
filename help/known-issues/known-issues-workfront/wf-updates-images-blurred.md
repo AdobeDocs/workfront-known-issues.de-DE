@@ -3,9 +3,9 @@ title: '„Aktualisierungen: Vorschau eines Bildes in Aktualisierungen ist unsch
 description: „Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.“
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,10 @@ ht-degree: 100%
 
 # Aktualisierungen: Vorschau eines Bildes in Aktualisierungen ist unscharf
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
+>Dieses Problem wurde am Freitag, 18. April 2024 behoben.
 
--->
 
 Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
 

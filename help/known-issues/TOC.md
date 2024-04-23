@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 93%
       + [Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Anforderungen: Anforderungs-Warteschlangenpfad kann nicht freigegeben werden](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Benutzer: Benutzer können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [Aktualisierungen: Kommentare, die über API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [Aktualisierungen: Nummerierte Listen werden nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [Testsendungen: Testsendungen, die aus Integrations-Assets erstellt wurden, werden nicht ordnungsgemäß auf Vorlagen und Workflows angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Anforderungen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [Korrekturabzüge: Bei Korrekturabzügen, die aus Integrations-Assets erstellt wurden, werden Vorlagen und Workflows nicht korrekt angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Anfragen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listen: Liste zeigt nicht alle Elemente an](known-issues-workfront/wf-lists-does-not-display-all.md)
-      + [Teams: Teameigentümer kann nicht angezeigt oder Team gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [Anforderungen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
+      + [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Berichte: 500-Fehler beim Export eines Berichts](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Aktualisierungen: Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten](known-issues-workfront/wf-updates-were-unable-to-post.md)

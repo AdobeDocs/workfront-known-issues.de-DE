@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
 source-wordcount: '3258'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -68,13 +68,13 @@ Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse
 
 #### Updates
 
-**Die Bildvorschau in Updates ist verschwommen**
+**Vorschau eines Bildes in Aktualisierungen ist unscharf**
 
 Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
 
 Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
 
-**&quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]&quot;-Meldung bei Antwort**
+**Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten**
 
 Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
 
@@ -94,13 +94,13 @@ Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse
 
 #### Updates
 
-**Die Bildvorschau in Updates ist verschwommen**
+**Vorschau eines Bildes in Aktualisierungen ist unscharf**
 
 Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
 
 Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
 
-**&quot;[!UICONTROL Wir können Ihren Kommentar nicht posten]&quot;-Meldung bei Antwort**
+**Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten**
 
 Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
 

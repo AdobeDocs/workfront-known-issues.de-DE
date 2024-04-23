@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web-generierten 
 
 „[!UICONTROL Fehler beim Kopieren der Datei] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Bitte entfernen Sie die Datei oder kontaktieren Sie den Support und versuchen Sie es erneut.]“
 
-**Workaround** s
+**Problemumgehung**
 
 Gehen Sie wie folgt vor:
 

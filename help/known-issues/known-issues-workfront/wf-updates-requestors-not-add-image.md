@@ -4,14 +4,14 @@ description: „Wenn Benutzende mit einer Antragstellerlizenz den Aktualisierung
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Benutzer mit der Berechtigung zum Hinzufügen von Bildern zu Aktualisierungen können keine Bilder hinzufügen
+# Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden
 
 Wenn Benutzende mit einer Antragstellerlizenz den Aktualisierungsbereich anzeigen und versuchen, ein Bild hinzuzufügen, fehlt das Symbol zum Hinzufügen eines Bildes und es ist keine Option zum Hinzufügen eines Bildes verfügbar.
 

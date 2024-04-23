@@ -1,25 +1,24 @@
 ---
-title: "Requests: Error when opens draft"
-description: '"Wenn ein Benutzer eine neue Anforderung erstellt und Entwürfe im Zusammenhang mit dieser Anforderungswarteschlange angezeigt werden, wird beim Klicken auf den Entwurf nicht der Entwurf geöffnet, und der Benutzer sieht einen Fehler. Eine Problemumgehung ist verfügbar.“'
+title: '„Anfragen: Fehler beim Öffnen eines Entwurfs“'
+description: Wenn eine neue Anfrage erstellt wird und Entwürfe für diese Anfrage-Warteschlange angezeigt werden, wird der Entwurf durch Klicken auf den Entwurf nicht geöffnet und die Benutzerin bzw. der Benutzer sieht einen Fehler. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Requests
-source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
-workflow-type: tm+mt
+exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
+source-git-commit: 7d41c6bef87cde7ef2cb12e9fc0342bff3fe2746
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
+# Anfragen: Fehler beim Öffnen des Entwurfs
 
-# Anforderungen: Fehler beim Öffnen des Entwurfs
+Wenn eine neue Anfrage erstellt wird und Entwürfe für diese Anfrage-Warteschlange angezeigt werden, wird der Entwurf durch Klicken auf den Entwurf nicht geöffnet und die Benutzerin bzw. der Benutzer sieht den folgenden Fehler:
 
-Wenn ein Benutzer eine neue Anforderung erstellt und Entwürfe im Zusammenhang mit dieser Anforderungswarteschlange angezeigt werden, wird der Entwurf durch Klicken auf den Entwurf nicht geöffnet. Der Benutzer sieht den folgenden Fehler:
-
-&quot;Es ist ein Fehler aufgetreten, und wir arbeiten aktiv daran, ihn zu beheben.&quot;
+„Ein Fehler ist aufgetreten und wir arbeiten aktiv daran, ihn zu beheben.“
 
 **Problemumgehung**
 
-Öffnen Sie den Entwurf im Bereich Entwürfe im linken Navigationsbereich.
+Öffnen Sie den Entwurf im Bereich „Entwürfe“ im linken Navigationsbereich.
 
 _Erste Meldung am Mittwoch, 2. April 2024._
-

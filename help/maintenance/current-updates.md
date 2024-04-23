@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '3258'
-ht-degree: 99%
+source-wordcount: '3360'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,26 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im April 2024
+
++++**(Geplantes) Wartungs-Update vom Freitag, 25. April 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 25. April 2024
+
+#### Updates
+
+**Nummerierte Listen werden nicht korrekt nummeriert**
+
+„Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar sendet, der eine nummerierte Liste enthält, zeigt diese Liste in der Aktualisierung eine falsche Nummerierung an.
+
+Dies wurde für die neue Kommentarerfahrung berichtet.
+
+**Text wird beim Navigieren zum Kommentar nicht beibehalten**
+
+Wenn Benutzende einen Kommentar verfassen, der eine @Erwähnung enthält, dann den Kommentar vor dem Senden verlassen und wieder dorthin zurückkehren, fehlt im Kommentarentwurf jeglicher Text, der nach der @Erwähnung eingegeben wurde.
+
+Dies wurde für die neue Kommentarerfahrung berichtet.
+
++++
 
 +++**Wartungs-Update vom Freitag, 18. April 2024**
 

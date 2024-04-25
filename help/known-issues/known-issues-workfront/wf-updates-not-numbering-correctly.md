@@ -3,15 +3,19 @@ title: '„Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert“
 description: „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar sendet, der eine nummerierte Liste enthält, zeigt diese Liste in der Aktualisierung eine falsche Nummerierung an.“
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
 
 
 # Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 25. April 2024 behoben.
 
 „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar sendet, der eine nummerierte Liste enthält, zeigt diese Liste in der Aktualisierung eine falsche Nummerierung an.
 

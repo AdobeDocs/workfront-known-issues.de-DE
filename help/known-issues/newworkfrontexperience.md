@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '858'
 ht-degree: 93%
 
 ---
@@ -29,7 +29,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Donnerstag, 24. April 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
 | [Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 18. April 2024 |
-| [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | Dienstag, 15. April 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -42,20 +41,18 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | Freitag, 25. April 2024 |
 | [Pinnwände: Workfront-native Felder werden nicht auf der Karte angezeigt](known-issues-workfront/wf-boards-native-fields-not-display.md) | Mittwoch, 23. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Mittwoch, 23. April 2024 |
 | [Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | Dienstag, 22. April 2024 |
 | [Startseite: Das Validierungs-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Dienstag, 22. April 2024 |
 | [Benutzer: Benutzer können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md) | Freitag, 18. April 2024 |
 | [Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | Freitag, 18. April 2024 |
-| [Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md) | Dienstag, 15. April 2024 |
 | [Anfragen: Fehler beim Öffnen eines Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | Samstag, 12. April 2024 |
-| [Listen: Liste zeigt nicht alle Elemente an](known-issues-workfront/wf-lists-does-not-display-all.md) | Samstag, 12. April 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | Freitag, 11. April 2024 |
 | [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | Mittwoch, 9. April 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |
 | [Aktualisierungen: Für Kommentare wird nicht der Zusatz „[!UICONTROL im Auftrag von]“ angezeigt](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | Freitag, 4. April 2024 |
-| [Aktualisierungen: Text bleibt beim Verlassen von und Zurückkehren zu Kommentaren nicht erhalten](known-issues-workfront/wf-updates-text-missing-after-mention.md) | Freitag, 4. April 2024 |
 | [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | Freitag, 4. April 2024 |
 | [Zeitprotokollierung: Stunden für Aufgaben oder Probleme können nicht bearbeitet werden](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | Freitag, 4. April 2024 |
 | [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md) | Samstag, 8. März 2024 |

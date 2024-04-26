@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '849'
 ht-degree: 93%
 
 ---
@@ -28,7 +28,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an AEM gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md) | Donnerstag, 24. April 2024 |
 | [Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Donnerstag, 24. April 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
-| [Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 18. April 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |

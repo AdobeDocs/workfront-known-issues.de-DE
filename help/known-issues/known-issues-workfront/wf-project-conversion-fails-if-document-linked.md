@@ -1,17 +1,17 @@
 ---
-title: '„Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist“'
-description: Wenn an ein Problem ein Web-Korrekturabzug angefügt ist (ein URL-Korrekturabzug mit einem Link eines externen Dokumentenanbieters wie SharePoint) und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Es wird ein Fehler angezeigt.
+title: "Projekt: Problem kann nicht in Projekt konvertiert werden, wenn Dokument angehängt ist"
+description: Wenn ein Problem ein Dokument enthält und ein Benutzer versucht, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Es wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 28%
 
 ---
 
-# Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist
+# Projekt: Problem kann nicht in Projekt konvertiert werden, wenn Dokument angehängt ist
 
 <!--
 
@@ -21,8 +21,10 @@ ht-degree: 100%
 
 -->
 
-Wenn an ein Problem ein Web-Korrekturabzug angefügt ist (ein URL-Korrekturabzug mit einem Link eines externen Dokumentenanbieters wie SharePoint) und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Der folgende Fehler wird angezeigt:
+Wenn ein Problem ein Dokument enthält und ein Benutzer versucht, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Der folgende Fehler wird angezeigt:
 
 „Fehler beim Kopieren der Datei (Datei-GUID). Entfernen Sie die Datei oder kontaktieren Sie den Support und versuchen Sie es erneut.“
+
+Dies wurde sowohl mit Dateien von externen Anbietern als auch mit lokalen Dateien gemeldet.
 
 _Erste Meldung am Dienstag, 4. März 2024._

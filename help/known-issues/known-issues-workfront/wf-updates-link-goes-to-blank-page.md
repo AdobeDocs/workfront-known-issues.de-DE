@@ -1,23 +1,23 @@
 ---
-title: "Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt"
-description: '"Wenn ein Benutzer auf einen Link klickt, der sich in einem Kommentar befindet, leitet der Link den Benutzer zu einem leeren Bildschirm. Eine Problemumgehung ist verfügbar.“'
+title: '„Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm“'
+description: „Wenn Benutzende auf einen Link klicken, der sich in einem Kommentar befindet, werden sie zu einem leeren Bildschirm weitergeleitet. Eine Problemumgehung ist verfügbar.“
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 
-# Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt
+# Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm.
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 25. April 2024 behoben.
 
-Wenn ein Benutzer auf einen Link klickt, der sich in einem Kommentar befindet, wird der Benutzer über den Link zu einem leeren Bildschirm geleitet.
+Wenn Benutzende auf einen Link klicken, der sich in einem Kommentar befindet, werden Sie zu einem leeren Bildschirm weitergeleitet.
 
 **Problemumgehung**
 

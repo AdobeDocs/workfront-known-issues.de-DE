@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
 source-wordcount: '3396'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -82,7 +82,7 @@ Verweist ein externes Suchfeld beispielsweise auf ein Mehrfachauswahlfeld, in de
 
 #### Projekte
 
-**Problem kann nicht in Projekt konvertiert werden, wenn ein Webtest angehängt ist**
+**Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist**
 
 Wenn an ein Problem ein Web-Korrekturabzug angefügt ist (ein URL-Korrekturabzug mit einem Link eines externen Dokumentenanbieters wie SharePoint) und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Der folgende Fehler wird angezeigt:
 

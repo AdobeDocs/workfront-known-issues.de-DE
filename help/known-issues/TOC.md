@@ -5,7 +5,7 @@ role: User
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '1747'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an AEM gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Pinnwände: Workfront-native Felder werden nicht auf der Karte angezeigt](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
-      + [Startseite: Das Validierungs-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [Pinnwände: Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Projekte, Aufgaben und Probleme: Vererbte Berechtigungen werden nicht angezeigt](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
-      + [Anforderungen: Anforderungs-Warteschlangenpfad kann nicht freigegeben werden](known-issues-workfront/wf-requests-cannot-share-path.md)
-      + [Benutzer: Benutzer können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md)
+      + [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [Anfragen: Pfad der Anfrage-Warteschlange kann nicht freigegeben werden](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Benutzende: Benutzende können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Korrekturabzüge: Bei Korrekturabzügen, die aus Integrations-Assets erstellt wurden, werden Vorlagen und Workflows nicht korrekt angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

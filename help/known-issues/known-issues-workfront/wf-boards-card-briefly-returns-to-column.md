@@ -1,18 +1,18 @@
 ---
-title: "Pinnwände: Karte kehrt kurz zur ursprünglichen Spalte zurück"
-description: "Wenn ein Benutzer eine Karte in eine andere Spalte auf einer Pinnwand verschiebt, kehrt die Karte kurz zur ursprünglichen Spalte zurück, bevor er zur gewünschten Spalte wechselt."
+title: '„Pinnwände: Karte kehrt kurz zur ursprünglichen Spalte zurück“'
+description: Wenn Benutzende eine Karte in eine andere Spalte auf einer Pinnwand verschieben, kehrt die Karte kurz zur ursprünglichen Spalte zurück, bevor sie zur gewünschten Spalte wechselt.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+exl-id: 39135352-ec7e-4385-adca-8a6677a7150c
+source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Pinnwände: Karte kehrt kurz zur ursprünglichen Spalte zurück
 
-# Pinnwände: Die Karte kehrt kurz zur ursprünglichen Spalte zurück
-
-Wenn ein Benutzer eine Karte in eine andere Spalte auf einer Pinnwand verschiebt, kehrt die Karte kurz zur ursprünglichen Spalte zurück, bevor er zur gewünschten Spalte wechselt.
+Wenn Benutzende eine Karte in eine andere Spalte auf einer Pinnwand verschieben, kehrt die Karte kurz zur ursprünglichen Spalte zurück, bevor sie zur gewünschten Spalte wechselt.
 
 _Erste Meldung am Donnerstag, 20. März 2024._

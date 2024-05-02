@@ -4,14 +4,18 @@ description: Das Widget „Warten auf Genehmigung“ im neuen Starterlebnis zeig
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
-workflow-type: ht
-source-wordcount: '69'
+source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
 # Startseite: Das Genehmigungen-Widget ist nicht korrekt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 2. Mai 2024 behoben.
 
 <!-- WF, WFP-->
 

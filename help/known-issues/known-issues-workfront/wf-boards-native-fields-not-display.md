@@ -1,17 +1,21 @@
 ---
 title: "Pinnwände: native Workfront-Felder werden nicht auf der Karte angezeigt"
-description: "Wenn ein Benutzer eine Karte anzeigt, die so konfiguriert ist, dass native (nicht benutzerdefinierte) Felder angezeigt werden, sind diese Felder nicht auf der Karte sichtbar."
+description: Wenn ein Benutzer eine Karte anzeigt, die so konfiguriert ist, dass native (nicht benutzerdefinierte) Felder angezeigt werden, sind diese Felder nicht auf der Karte sichtbar.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '86'
+ht-degree: 12%
 
 ---
 
-
 # Pinnwände: Workfront-native Felder werden nicht auf der Karte angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 2. Mai 2024 behoben.
 
 Wenn ein Benutzer eine Karte anzeigt, die so konfiguriert ist, dass native (nicht benutzerdefinierte) Felder angezeigt werden, sind diese Felder nicht auf der Karte sichtbar.
 

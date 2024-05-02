@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 97%
+source-wordcount: '1788'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekte: Fehler bei der Freigabe eines Projekts](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)

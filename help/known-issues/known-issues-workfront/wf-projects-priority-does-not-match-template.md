@@ -3,10 +3,10 @@ title: "Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nich
 description: "Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, stimmt die Priorität des neu erstellten Projekts nicht mit der Vorlage oder Anforderung überein."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,3 +16,5 @@ ht-degree: 5%
 Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, stimmt die Priorität des neu erstellten Projekts nicht mit der Vorlage oder Anforderung überein.
 
 _Erste Meldung am Freitag, 2. Mai 2024._
+
+

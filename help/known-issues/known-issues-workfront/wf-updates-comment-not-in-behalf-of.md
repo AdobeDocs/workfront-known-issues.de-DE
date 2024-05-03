@@ -3,15 +3,19 @@ title: '„Aktualisierungen: Für Kommentare wird nicht der Zusatz „im Auftrag
 description: „Wenn Admins als jemand anders angemeldet sind und einen Kommentar abgeben, wird dieser Kommentar der anderen Person zugeordnet und nicht den Admins im Auftrag der Person.“
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 
 # Aktualisierungen: Für Kommentare wird nicht der Zusatz „[!UICONTROL im Auftrag von]“ angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 2. Mai 2024 behoben.
 
 Wenn Admins als jemand anders angemeldet sind und einen Kommentar abgeben, wird dieser Kommentar der anderen Person zugeordnet und nicht den Admins als [!UICONTROL im Auftrag von] der Person.
 

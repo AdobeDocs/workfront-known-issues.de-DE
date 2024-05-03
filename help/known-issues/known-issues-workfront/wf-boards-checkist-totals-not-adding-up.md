@@ -4,22 +4,18 @@ description: Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine �
 hidefromtoc: true
 feature: Agile
 exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Pinnwände: Die Gesamtsummen von Checklisten sind nicht korrekt
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
-
--->
+>Dieses Problem wurde am Freitag, 25. April 2024 behoben.
 
 Wenn jemand eine Karte mit Checklisten-Elementen anzeigt und eine Änderung vornimmt, aufgrund derer sich die Gesamtsumme der Checkliste ändern sollte, ändert sich die Gesamtsumme nicht.
 

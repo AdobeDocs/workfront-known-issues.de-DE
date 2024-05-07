@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
-ht-degree: 96%
+source-wordcount: '1834'
+ht-degree: 95%
 
 ---
 
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Timesheets: Das angeheftete Timesheet wird auf eine leere Seite verschoben](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Testmoderatoren können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekte: Fehler bei der Freigabe eines Projekts](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Korrekturabzüge: Bei Korrekturabzügen, die aus Integrations-Assets erstellt wurden, werden Vorlagen und Workflows nicht korrekt angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Anfragen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listen: Liste zeigt nicht alle Elemente an](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md)

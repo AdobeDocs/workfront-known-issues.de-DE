@@ -1,22 +1,20 @@
 ---
-title: "Workfront-Ziele: Ziel kann nicht gelöscht werden"
-description: "Wenn ein Benutzer versucht, ein Ziel in [!DNL Workfront Goals], wird das Ziel nicht gelöscht und der Benutzer wird eine Fehlermeldung angezeigt."
+title: '„Workfront-Ziele: Ziel kann nicht gelöscht werden“'
+description: Beim Versuch, ein Ziel in  [!DNL Workfront Goals] zu löschen, wird das Ziel nicht gelöscht und es wird eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: Workfront Goals
-source-git-commit: fb310bcfdd5b20a26c6eb3e7be3c4cd484f3e409
-workflow-type: tm+mt
+exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
+source-git-commit: fddfc45b426172f231365428004a6b6ab6092ea4
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # [!DNL Workfront Goals]: Ziel kann nicht gelöscht werden
 
-Wenn ein Benutzer versucht, ein Ziel in [!DNL Workfront Goals]festgelegt ist, wird das Ziel nicht gelöscht und dem Benutzer wird die folgende Fehlermeldung angezeigt:
+Beim Versuch, ein Ziel in [!DNL Workfront Goals] zu löschen, wird das Ziel nicht gelöscht und die folgende Fehlermeldung wird angezeigt:
 
-&quot;[!UICONTROL Fehler: Vorgang kann nicht gegen JDBC-Verbindung übertragen werden; verschachtelte Ausnahme ist org.hibernate.TransactionException: Nicht gegen JDBC-Verbindung übertragen]&quot;
+„[!UICONTROL Fehler: Commit für JDBC-Verbindung nicht möglich; verschachtelte Ausnahme ist org.hibernate.TransactionException: Commit für JDBC-Verbindung nicht möglich]“
 
 _Erste Meldung am Mittwoch, 26. März 2024._
-
-

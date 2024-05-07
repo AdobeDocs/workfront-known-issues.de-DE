@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '3396'
-ht-degree: 99%
+source-wordcount: '3427'
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,22 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 ## Updates im Mai 2024
 
++++**(Geplantes) Wartungs-Update am Freitag, 9. Mai 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 9. Mai 2024
+
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
+
++++
+
 +++**Wartungs-Update vom Freitag, 2. Mai 2024**
 
 ### Wartungs-Update am 2. Mai 2024
 
 #### Erfassen der Zeit
 
-**Stunden oder Probleme können nicht bearbeitet werden**
+**Stunden für Aufgaben oder Probleme können nicht bearbeitet werden**
 
 Beim Versuch, die Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werden die Änderungen nicht gespeichert.
 
@@ -42,13 +51,13 @@ Beim Versuch, die Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werd
 
 #### Updates
 
-**Nummerierte Listen werden nicht korrekt nummeriert**
+**Nummerierte Listen sind nicht korrekt nummeriert**
 
 „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar sendet, der eine nummerierte Liste enthält, zeigt diese Liste in der Aktualisierung eine falsche Nummerierung an.
 
 Dies wurde für die neue Kommentarerfahrung berichtet.
 
-**Text wird beim Navigieren zum Kommentar nicht beibehalten**
+**Text bleibt beim Verlassen von und Zurückkehren zu Kommentaren nicht erhalten**
 
 Wenn Benutzende einen Kommentar verfassen, der eine @Erwähnung enthält, dann den Kommentar vor dem Senden verlassen und wieder dorthin zurückkehren, fehlt im Kommentarentwurf jeglicher Text, der nach der @Erwähnung eingegeben wurde.
 

@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
 workflow-type: tm+mt
-source-wordcount: '1788'
+source-wordcount: '1812'
 ht-degree: 96%
 
 ---
@@ -17,14 +17,17 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Testmoderatoren können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekte: Fehler bei der Freigabe eines Projekts](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an AEM gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md)
-      + [Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md)
+      + [Integrationen: Dateiname ist „null“, wenn eine Datei über eine Integration an AEM gesendet wird](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Pinnwände: Workfront-native Felder werden nicht auf der Karte angezeigt](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Pinnwände: Karte kehrt kurz zur ursprünglichen Spalte zurück](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
@@ -36,7 +39,6 @@ ht-degree: 96%
       + [Aktualisierungen: Kommentare, die über die API erstellt wurden, sind in der Sandbox-Umgebung nicht sichtbar.](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aktualisierungen: Nummerierte Listen sind nicht korrekt nummeriert](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Korrekturabzüge: Bei Korrekturabzügen, die aus Integrations-Assets erstellt wurden, werden Vorlagen und Workflows nicht korrekt angewendet](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [Anfragen: Fehler beim Öffnen des Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Listen: Liste zeigt nicht alle Elemente an](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md)

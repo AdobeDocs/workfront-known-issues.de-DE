@@ -1,20 +1,22 @@
 ---
 title: "Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage"
-description: "Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, stimmt die Priorität des neu erstellten Projekts nicht mit der Vorlage oder Anforderung überein."
+description: Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, stimmt die Priorität des neu erstellten Projekts nicht mit der Vorlage oder Anforderung überein.
 hidefromtoc: true
 feature: Projects
-source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
+exl-id: e8cc4acf-58e6-41dc-a4ae-20c55f62734f
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
-
 # Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Mittwoch, 7. Mai 2024 behoben.
 
 Wenn ein Benutzer eine Anforderung mithilfe einer Vorlage in ein Projekt konvertiert, stimmt die Priorität des neu erstellten Projekts nicht mit der Vorlage oder Anforderung überein.
 
 _Erste Meldung am Freitag, 2. Mai 2024._
-
-

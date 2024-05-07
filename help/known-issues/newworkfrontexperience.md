@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 93%
+source-wordcount: '850'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | Freitag, 2. Mai 2024 |
+| [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
+| [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | Mittwoch, 7. Mai 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Freitag, 2. Mai 2024 |
 | [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | Freitag, 2. Mai 2024 |
 | [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | Donnerstag, 1. Mai 2024 |
-| [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an AEM gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md) | Donnerstag, 24. April 2024 |
+| [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an Document Provider gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md) | Donnerstag, 24. April 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -42,12 +43,13 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Testmoderatoren können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | Mittwoch, 7. Mai 2024 |
+| [Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | Mittwoch, 7. Mai 2024 |
 | [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | Freitag, 2. Mai 2024 |
-| [Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Freitag, 2. Mai 2024 |
+| [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Freitag, 2. Mai 2024 |
 | [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md) | Dienstag, 29. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Mittwoch, 23. April 2024 |
 | [Benutzende: Benutzende können nicht gelöscht werden](known-issues-workfront/wf-users-unable-to-delete-users.md) | Freitag, 18. April 2024 |
-| [Anfragen: Fehler beim Öffnen eines Entwurfs](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | Samstag, 12. April 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | Freitag, 11. April 2024 |
 | [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | Mittwoch, 9. April 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |

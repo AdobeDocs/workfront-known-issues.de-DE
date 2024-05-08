@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 90%
+source-wordcount: '876'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
+| [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md) | Donnerstag, 8. Mai 2024 |
+| [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | Mittwoch, 7. Mai 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Freitag, 2. Mai 2024 |
 | [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | Freitag, 2. Mai 2024 |

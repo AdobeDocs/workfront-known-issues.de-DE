@@ -3,7 +3,7 @@ title: "Timesheets: Pinned timesheet geht an leere Seite"
 description: '"Wenn ein Benutzer in Workfront auf eine Pin klickt, die zum Timesheet hinzugefügt werden soll, wird die Pin stattdessen auf eine leere Seite verschoben. Eine Problemumgehung ist verfügbar.“'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Wenn ein Benutzer in Workfront auf eine Pin klickt, die zum Timesheet hinzugefügt werden soll, wird die Pin stattdessen auf eine leere Seite verschoben.
 
-Dies liegt daran, dass sich die URL des Timesheets geändert hat. die `/own` am Ende der URL ist nicht mehr die richtige URL. Wenn der Benutzer eine URL mit `/own`, führt dieser Pin zu einer leeren Seite.
+Dies liegt daran, dass sich die URL des Timesheets geändert hat. Die `/own` am Ende der URL ist nicht mehr die richtige URL. Wenn der Benutzer eine URL mit `/own`, führt dieser Pin zu einer leeren Seite.
 
 **Problemumgehung**
 

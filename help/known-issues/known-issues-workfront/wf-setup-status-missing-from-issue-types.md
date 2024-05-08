@@ -1,21 +1,25 @@
 ---
-title: '„Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup“'
-description: „Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.“
+title: "Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen bei der Einrichtung."
+description: Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+exl-id: 46ca4c32-6e7a-4460-abea-85a90c29a865
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
-
 # Setup: Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup
+
+<!--
 
 >[!NOTE]
 >
->Dieses Problem wurde am Donnerstag, 17. Januar 2024 behoben.
+>This issue was fixed on January 17, 2024.
+
+-->
 
 Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.
 

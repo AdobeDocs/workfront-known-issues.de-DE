@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 88%
+source-wordcount: '871'
+ht-degree: 90%
 
 ---
 
@@ -26,13 +26,10 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Donnerstag, 8. Mai 2024 |
-| [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md) | Donnerstag, 8. Mai 2024 |
 | [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | Mittwoch, 7. Mai 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Freitag, 2. Mai 2024 |
 | [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | Freitag, 2. Mai 2024 |
-| [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | Donnerstag, 1. Mai 2024 |
-| [Integrationen: Dateiname ist &quot;null&quot;, wenn über Integration an Document Provider gesendet](known-issues-workfront/wf-integrations-aem-filename-null.md) | Donnerstag, 24. April 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Mittwoch, 9. Januar 2024 |
@@ -45,6 +42,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm ](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 9. Mai 2024 |
+| [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md) | Freitag, 9. Mai 2024 |
 | [Testmoderatoren können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | Mittwoch, 7. Mai 2024 |
 | [Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | Mittwoch, 7. Mai 2024 |
 | [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | Freitag, 2. Mai 2024 |

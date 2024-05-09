@@ -4,14 +4,18 @@ description: „Wenn eine große Datei (über 100 MB) über die Workfront-Integr
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # Integrationen: Dateiname ist &quot;null&quot;, wenn an die Dokumentintegration gesendet
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Donnerstag, 8. Mai 2024 behoben.
 
 Wenn eine große Datei (über 100 MB) über eine Workfront-Integration an einen Dokumentanbieter gesendet wird, lautet der Dateiname im Dokumentenanbieter &quot;null&quot;.
 

@@ -1,22 +1,22 @@
 ---
-title: "Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen."
-description: "Wenn ein Benutzer versucht, eine Pinnwand anzuzeigen, der das Team zugewiesen ist, kann er die Pinnwand nicht anzeigen. Dies tritt auf, wenn der Benutzer dem Team hinzugefügt wird, nachdem das Team der Pinnwand zugewiesen wurde."
+title: '„Pinnwände: Benutzende können die Pinnwand nicht sehen, der ihr Team zugewiesen ist“'
+description: Wenn Benutzende versuchen, eine Pinnwand anzuzeigen, der das Team zugewiesen ist, wird die Pinnwand nicht angezeigt. Dies tritt auf, wenn eine Person dem Team hinzugefügt wird, nachdem das Team der Pinnwand zugewiesen wurde.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Pinnwände: Benutzende können die Pinnwand nicht sehen, der ihr Team zugewiesen ist
 
-# Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen
-
-Wenn ein Benutzer versucht, eine Pinnwand anzuzeigen, der das Team zugewiesen ist, kann er die Pinnwand nicht anzeigen. Dies tritt auf, wenn der Benutzer dem Team hinzugefügt wird, nachdem das Team der Pinnwand zugewiesen wurde.
+Wenn Benutzende versuchen, eine Pinnwand anzuzeigen, der das Team zugewiesen ist, wird die Pinnwand nicht angezeigt. Dies tritt auf, wenn eine Person dem Team hinzugefügt wird, nachdem das Team der Pinnwand zugewiesen wurde.
 
 **Problemumgehung**
 
-Fügen Sie den Benutzer direkt zur Pinnwand hinzu.
+Fügen Sie die Person direkt zur Pinnwand hinzu.
 
-_Erste Meldung am 15. April 2024, 2024._
+_Erste Meldung am 15. April 2024._

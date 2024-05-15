@@ -1,18 +1,18 @@
 ---
-title: "Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück"
-description: "Wenn ein Benutzer versucht, einen erweiterten Filter auf einer Pinnwand zu verwenden, gibt der Filter nicht alle gewünschten Ergebnisse zurück."
+title: '„Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück“'
+description: Wenn Benutzende versuchen, einen erweiterten Filter auf einer Pinnwand zu verwenden, gibt der Filter nicht alle zu erwartenden Ergebnisse zurück.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: d2c98b56-c52e-4e45-84b4-c9f0716c2182
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück
 
-# Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück
-
-Wenn ein Benutzer versucht, einen erweiterten Filter auf einer Pinnwand zu verwenden, gibt der Filter nicht alle gewünschten Ergebnisse zurück.
+Wenn Benutzende versuchen, einen erweiterten Filter auf einer Pinnwand zu verwenden, gibt der Filter nicht alle zu erwartenden Ergebnisse zurück.
 
 _Erste Meldung am Donnerstag, 24. April 2024._

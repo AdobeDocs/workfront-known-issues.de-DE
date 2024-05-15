@@ -1,19 +1,19 @@
 ---
-title: "Einrichtung: Angemeldet als Banner wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist."
-description: "Wenn ein Administrator als ein anderer Benutzer angemeldet ist, wird das als Banner angemeldet nicht angezeigt. Der Benutzer wird nicht daran erinnert, dass er als ein anderer Benutzer angemeldet ist und sich nicht aus dem Konto dieses Benutzers abmelden kann."
+title: '„Einrichtung: Banner „Angemeldet als“ wird bei Anmeldung als andere Benutzende nicht angezeigt.“'
+description: Wenn Admins als andere Benutzende angemeldet sind, wird das Banner „Angemeldet als“ nicht angezeigt. Benutzende werden nicht daran erinnert, dass sie als eine andere Person angemeldet sind, und können sich nicht von diesem Benutzerkonto abmelden.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Einrichtung: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.
 
-# Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.
-
-Wenn ein Administrator als ein anderer Benutzer angemeldet ist, wird das Banner &quot;Angemeldet als&quot;nicht angezeigt. Der Benutzer wird nicht daran erinnert, dass er als ein anderer Benutzer angemeldet ist und sich nicht aus dem Konto dieses Benutzers abmelden kann.
+Wenn Admins als eine andere Person angemeldet sind, wird das Banner „Angemeldet als“ nicht angezeigt. Benutzende werden nicht daran erinnert, dass sie als eine andere Person angemeldet sind, und können sich nicht von diesem Benutzerkonto abmelden.
 
 **Problemumgehung**
 

@@ -1,27 +1,27 @@
 ---
-title: "Testversandmoderatoren können Berechtigungen nicht bearbeiten"
-description: "Wenn ein Benutzer, der Testversandmoderator ist, versucht, Benutzerberechtigungen für einen Workflow zu bearbeiten, ist die Möglichkeit, Berechtigungen auszuwählen oder deren Auswahl aufzuheben, deaktiviert."
+title: Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten
+description: Beim Versuch von Benutzenden, die Moderierende eines Korrekturabzugs sind, Benutzerberechtigungen für einen Workflow zu bearbeiten, ist die Möglichkeit deaktiviert, Berechtigungen auszuwählen oder deren Auswahl aufzuheben.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten
 
-# Testmoderatoren können Berechtigungen nicht bearbeiten
+Beim Versuch von Benutzenden, die Moderierende eines Korrekturabzugs sind, Benutzerberechtigungen für einen Workflow zu bearbeiten, ist die Möglichkeit deaktiviert, Berechtigungen auszuwählen oder deren Auswahl aufzuheben.
 
-Wenn ein Benutzer, der Testversandmoderator ist, versucht, Benutzerberechtigungen für einen Workflow zu bearbeiten, ist die Möglichkeit, Berechtigungen auszuwählen oder deren Auswahl aufzuheben, deaktiviert.
+Dies wurde bei den folgenden Berechtigungen gemeldet:
 
-Dies wurde mit den folgenden Berechtigungen gemeldet:
-
-* Beheben von Kommentaren und Aktionen anwenden
+* „Kommentare auflösen“ und „Aktionen anwenden“
 * Korrekturabzug durch Taggen teilen
 
 **Problemumgehung**
 
-Ändern Sie die Rolle des Moderators in Überprüfer und Genehmiger .
+Ändern Sie die Rolle des Moderators in „Überprüfende Person“ und „Genehmigende Person“.
 
 _Erste Meldung am Donnerstag, 24. April 2024._

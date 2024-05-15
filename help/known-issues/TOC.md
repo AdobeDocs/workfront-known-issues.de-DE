@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 93%
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [Pinnwände: Erweiterter Filter gibt keine erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Timesheets: Das angeheftete Timesheet wird auf eine leere Seite verschoben](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [Testmoderatoren können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [Pinnwände: Benutzer können die Pinnwand, der das Team zugewiesen ist, nicht sehen](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [Aktualisierungen: Das Tagging eines Benutzers mit &quot;@&quot;im Bedienfeld &quot;Zusammenfassung&quot;ist ineffektiv.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [Projekte: Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [Pinnwände: Das Element der Checkliste bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [Einrichtung: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Pinnwände: Benutzende können die Pinnwand nicht sehen, der ihr Team zugewiesen ist](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [Aktualisierungen: Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ ist nicht wirksam“](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Projekte: Ein Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [Pinnwände: Checklistenelement bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekte: Fehler bei der Freigabe eines Projekts](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [Testsendungen: Es können keine Entscheidungen zum privaten Workflow-Schritt getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [Korrekturabzüge: In einer privaten Workflow-Stufe können keine Entscheidungen getroffen werden](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [Integrationen: Dateiname ist „null“, wenn eine Datei über eine Integration an AEM gesendet wird](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md)

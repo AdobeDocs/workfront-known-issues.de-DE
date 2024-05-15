@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
 workflow-type: tm+mt
-source-wordcount: '1862'
-ht-degree: 98%
+source-wordcount: '1871'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)

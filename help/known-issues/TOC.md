@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1880'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anforderungen: Zugriff auf Dashboards auf der Anfrageseite (&quot;../sent&quot; URL) ist nicht möglich](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md)

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '3425'
-ht-degree: 100%
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2024
+
++++**Wartungs-Update vom Freitag, 16. Mai 2024**
+
+### Wartungs-Update am Freitag, 16. Mai 2024
+
+#### Setup
+
+**Standardmäßige Problemstatus fehlen in einigen Problemtypen im Setup**
+
+Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmäßigen Status für Probleme (Neu, In Bearbeitung und Abgeschlossen) in einigen Problemtypen fehlen. Die standardmäßigen Status bieten keine Möglichkeit, den Problemtyp zu ändern. Daher lässt sich der Status für die Anzeige der betroffenen Problemtypen nicht neu konfigurieren.
+
+#### Benutzende
+
+**Benutzer können nicht gelöscht werden**
+
+Beim Versuch, Benutzende zu löschen, werden diese nicht gelöscht. Dies wurde von Organisationen berichtet, die zu Adobe Admin Console migriert sind.
+
++++
 
 +++**Wartungs-Update vom Freitag, 9. Mai 2024**
 

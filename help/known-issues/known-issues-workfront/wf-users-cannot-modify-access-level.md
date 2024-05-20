@@ -3,9 +3,9 @@ title: '„Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden
 description: „Wenn Gruppenadmins versuchen, die Zugriffsebene eines Mitglieds der Gruppe zu ändern, ist das Feld für die Zugriffsebene deaktiviert und Gruppenadmins können die Zugriffsebene der Person nicht ändern.“
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden
 
+<!--
+
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 9. Mai 2024 behoben.
+>This issue was fixed on May 9, 2024.
+
+-->
 
 Wenn Gruppenadmins versuchen, die Zugriffsebene eines Mitglieds der Gruppe zu ändern, ist das Feld für die Zugriffsebene deaktiviert und Gruppenadmins können die Zugriffsebene der Person nicht ändern.
 

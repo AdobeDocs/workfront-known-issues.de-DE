@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 100%
+source-wordcount: '395'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md) | Dienstag, 20. Mai 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Donnerstag, 8. Mai 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Samstag, 12. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |

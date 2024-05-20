@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 94%
+source-wordcount: '877'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Dienstag, 20. Mai 2024 |
+| [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md) | Dienstag, 20. Mai 2024 |
 | [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md) | Mittwoch, 14. Mai 2024 |
 | [Einrichtung: Das Banner &quot;Angemeldet als&quot;wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
@@ -39,6 +41,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
+| [Benutzer: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | Dienstag, 20. Mai 2024 |
+| [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Dienstag, 20. Mai 2024 |
 | [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | Samstag, 10. Mai 2024 |
 | [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm ](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 9. Mai 2024 |
 | [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | Mittwoch, 7. Mai 2024 |

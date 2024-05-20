@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 97%
+source-wordcount: '1919'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [Benutzer: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Anforderungen: Zugriff auf Dashboards auf der Anfrageseite (&quot;../sent&quot; URL) ist nicht möglich](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md)

@@ -3,7 +3,7 @@ title: "Aktualisierungen: Benutzer mit Tags können nicht sehen, wer sie mit Tag
 description: "Wenn ein Benutzer in einer Aktualisierung mit Tags versehen ist, kann er nicht sehen, wer sie mit Tags versehen hat. Dies geschieht, wenn die Einstellung Personen in anderen Unternehmen sollten Benutzer nur aus anzeigen ... auf Ihr Unternehmen eingestellt ist."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 5%
@@ -20,3 +20,4 @@ Wenn ein Benutzer in einer Aktualisierung mit Tags versehen ist, kann er nicht s
 Benutzer der In-App-Benachrichtigung für den Kommentar, um zu sehen, wer sie mit Tags versehen hat.
 
 _Erste Meldung am Mittwoch, 23. April 2024._
+

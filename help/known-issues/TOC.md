@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Anforderungen: Zugriff auf Dashboards auf der Anfrageseite (&quot;../sent&quot; URL) ist nicht möglich](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [Projekte: Projekte, die anhand einer Vorlage aus einem Problem erstellt wurden, spiegeln keine in der Vorlage festgelegten Prioritäten wider](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [Projekte: Ein Projekt, das aus einem Problem mithilfe einer Vorlage erstellt wurde, spiegelt nicht die in der Vorlage festgelegte Priorität wider.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [Timesheets: Das angeheftete Timesheet wird auf eine leere Seite verschoben](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [Arbeitszeittabellen: Angeheftete Arbeitszeittabelle führt zu leerer Seite.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Einrichtung: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Pinnwände: Benutzende können die Pinnwand nicht sehen, der ihr Team zugewiesen ist](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)

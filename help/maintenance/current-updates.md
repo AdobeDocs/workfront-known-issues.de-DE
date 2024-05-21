@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2024
+
++++ **(Geplantes) Wartungs-Update am Freitag, 23. Mai 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 23. Mai 2024
+
+#### Updates
+
+**Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat**
+
+Wenn ein Benutzer in einer Aktualisierung mit Tags versehen ist, kann er nicht sehen, wer sie mit Tags versehen hat. Dies tritt auf, wenn die Einstellung &quot;Personen in anderen Unternehmen sollten nur Benutzer aus... anzeigen&quot;auf &quot;Ihr Unternehmen&quot;festgelegt ist.
+
+**Das Tagging eines Benutzers mit &quot;@&quot;im Bereich &quot;Zusammenfassung&quot;ist nicht effektiv.**
+
+Wenn Benutzende versuchen, andere Benutzende im Bereich „Aktualisierungen“ eines Bedienfelds „Zusammenfassung“ mit einem „@“ zu versehen, passiert nichts, wenn auf den Namen der Person in der Dropdown-Liste geklickt wird. Der Versuch, Benutzende ein zweites Mal zu taggen, funktioniert erwartungsgemäß.
+
++++
 
 +++**Wartungs-Update vom Freitag, 16. Mai 2024**
 

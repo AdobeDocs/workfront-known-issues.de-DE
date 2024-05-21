@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 94%
+source-wordcount: '885'
+ht-degree: 92%
 
 ---
 
@@ -41,12 +41,13 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Updates: Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | Mittwoch, 21. Mai 2024 |
+| [Startseite: Geplante Stunden werden in Minuten angezeigt](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | Mittwoch, 21. Mai 2024 |
 | [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
 | [Benutzer: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | Dienstag, 20. Mai 2024 |
 | [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Dienstag, 20. Mai 2024 |
 | [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt.](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | Samstag, 10. Mai 2024 |
 | [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm ](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 9. Mai 2024 |
-| [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | Mittwoch, 7. Mai 2024 |
 | [Aktualisierungen: Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ ist nicht wirksam.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | Freitag, 2. Mai 2024 |
 | [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md) | Dienstag, 29. April 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Mittwoch, 23. April 2024 |
@@ -121,4 +122,5 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9. November 2020 |
 
 {style="table-layout:auto"}
+
 

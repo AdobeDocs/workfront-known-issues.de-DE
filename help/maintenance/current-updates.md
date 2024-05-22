@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 +++ **(Geplantes) Wartungs-Update am Freitag, 23. Mai 2024**
 
 ### (Geplantes) Wartungs-Update am Freitag, 23. Mai 2024
+
+#### Berichte
+
+Wenn ein Benutzer einen Bericht anzeigt und auf die Zurück-Schaltfläche des Browsers klickt, kann eine der folgenden Situationen eintreten:
+
+* Der Benutzer bleibt auf der Seite Bericht .
+* Der Benutzer wird zur Landingpage des Browsers weitergeleitet.
+* Der Benutzer wird zur Anmeldeseite weitergeleitet.
+
+Dies wurde mit dem Chrome-Browser gemeldet.
 
 #### Updates
 

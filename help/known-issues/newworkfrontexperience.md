@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3931cc536f625b78a888856f048663558dc771e
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 92%
+source-wordcount: '834'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Dienstag, 20. Mai 2024 |
-| [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md) | Dienstag, 20. Mai 2024 |
 | [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md) | Mittwoch, 14. Mai 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
@@ -41,16 +40,12 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Updates: Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | Mittwoch, 21. Mai 2024 |
 | [Startseite: Geplante Stunden werden in Minuten angezeigt](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | Mittwoch, 21. Mai 2024 |
 | [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
-| [Benutzer: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | Dienstag, 20. Mai 2024 |
 | [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Dienstag, 20. Mai 2024 |
 | [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt.](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | Samstag, 10. Mai 2024 |
 | [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm ](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 9. Mai 2024 |
-| [Aktualisierungen: Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ ist nicht wirksam.](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | Freitag, 2. Mai 2024 |
 | [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md) | Dienstag, 29. April 2024 |
-| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Mittwoch, 23. April 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | Freitag, 11. April 2024 |
 | [Anfragen: Das berechnete Feld wird beim Ausfüllen der Anfrage nicht aktualisiert](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | Mittwoch, 9. April 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | Samstag, 5. April 2024 |

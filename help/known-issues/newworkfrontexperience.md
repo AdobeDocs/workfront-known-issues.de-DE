@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Dienstag, 20. Mai 2024 |
-| [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md) | Mittwoch, 14. Mai 2024 |
+| [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Dienstag, 20. Mai 2024 |
+| [Integrationen: Benutzende erhalten bei Verwendung von SSO einen Fehler bezüglich einer falschen Anfrage](known-issues-workfront/wf-outlook-wrong-request.md) | Mittwoch, 14. Mai 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
 | [Korrekturabzüge: GIFs werden als statische Korrekturabzüge gerendert](known-issues-workfront/wf-proofs-gif-static-image.md) | Mittwoch, 23. Januar 2024 |

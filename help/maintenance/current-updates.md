@@ -60,7 +60,7 @@ Wenn jemand den Problemstatus im Setup anzeigt, zeigt sich, dass die standardmä
 
 #### Benutzende
 
-**Benutzer können nicht gelöscht werden**
+**Benutzende können nicht gelöscht werden**
 
 Beim Versuch, Benutzende zu löschen, werden diese nicht gelöscht. Dies wurde von Organisationen berichtet, die zu Adobe Admin Console migriert sind.
 

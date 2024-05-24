@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '1937'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 96%
       + [Updates: Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Startseite: Geplante Stunden werden in Minuten angezeigt](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Benutzer: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md)
-      + [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten von der Integration](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Anforderungen: Zugriff auf Dashboards auf der Anfrageseite (&quot;../sent&quot; URL) ist nicht möglich](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [Integrationen: Benutzer erhalten bei Verwendung von SSO einen falschen Anforderungsfehler](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [Benutzende: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten aus einer Integration](known-issues-workfront/wf-documents-unk-file-extension.md)
+      + [Anfragen: Zugriff auf Dashboards auf der Anfrageseite nicht möglich (URL „.../submitted“)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [Integrationen: Benutzende erhalten bei Verwendung von SSO einen Fehler bezüglich einer falschen Anfrage](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekte: Ein Projekt, das aus einem Problem mithilfe einer Vorlage erstellt wurde, spiegelt nicht die in der Vorlage festgelegte Priorität wider.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Pinnwände: Erweiterter Filter gibt nicht die erwarteten Karten zurück](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)

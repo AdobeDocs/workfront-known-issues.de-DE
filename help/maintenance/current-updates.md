@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3678'
-ht-degree: 97%
+source-wordcount: '3781'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,28 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Mai 2024
+
++++ **(Geplantes) Wartungs-Update am Freitag, 30. Mai 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 30. Mai 2024
+
+#### Benutzerdefinierte Formulare
+
+Fehler beim Bearbeiten beschreibender Textfelder
+
+Wenn ein Benutzer versucht, den beschreibenden Text in einem benutzerdefinierten Formular zu bearbeiten, wird der Text nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+
+&quot;Doppelter Schlüsselwert verstößt gegen eindeutige Einschränkung&quot;
+
+Dies wurde im alten Formular-Builder gemeldet.
+
+#### Updates
+
+**Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt**
+
+Wenn Benutzende einen Kommentar kopieren, der eine Erwähnung im @-Format enthält, und diesen Kommentar dann in den Bereich „Aktualisierungen“ eines anderen Objekts einfügen, wird die erwähnte Person nicht über den eingefügten Kommentar informiert.
+
++++
 
 +++ **Wartungs-Update vom Freitag, 23. Mai 2024**
 

@@ -4,18 +4,22 @@ description: Wenn ein Problem ein Dokument enthält und Benutzende versuchen, di
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Projekt: Ein Problem kann nicht in ein Projekt konvertiert werden, wenn ein Dokument angefügt ist
 
+<!--
+
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 23. Mai 2024 behoben.
+>This issue was fixed on May 23, 2024.
+
+-->
 
 Wenn ein Problem ein Dokument enthält und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Der folgende Fehler wird angezeigt:
 

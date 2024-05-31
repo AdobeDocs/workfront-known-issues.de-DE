@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn Dokument angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Donnerstag, 29. Mai 2024 |
 | [Benutzer: Benutzer fehlen bei der Massenzuweisung](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | Mittwoch, 28. Mai 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Samstag, 24. Mai 2024 |
-| [Gruppen: Untergruppen können nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | Freitag, 23. Mai 2024 |
+| [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | Freitag, 23. Mai 2024 |
 | [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
 | [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Dienstag, 20. Mai 2024 |
 | [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm ](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | Freitag, 9. Mai 2024 |

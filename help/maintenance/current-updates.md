@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '3779'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,21 +50,21 @@ Wenn Benutzende einen Kommentar kopieren, der eine Erwähnung im @-Format enthä
 
 #### Berichte
 
-Wenn ein Benutzer einen Bericht anzeigt und auf die Zurück-Schaltfläche des Browsers klickt, kann eine der folgenden Situationen eintreten:
+Wenn Benutzende einen Bericht anzeigen und auf die Zurück-Schaltfläche des Browsers klicken, kann eine der folgenden Situationen eintreten:
 
-* Der Benutzer bleibt auf der Seite Bericht .
-* Der Benutzer wird zur Landingpage des Browsers weitergeleitet.
-* Der Benutzer wird zur Anmeldeseite weitergeleitet.
+* Die Person bleibt auf der Bericht-Seite.
+* Die Person wird zur Landingpage des Browsers weitergeleitet.
+* Die Person wird zur Anmeldeseite weitergeleitet.
 
-Dies wurde mit dem Chrome-Browser gemeldet.
+Dies wurde beim Chrome-Browser gemeldet.
 
 #### Updates
 
-**Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat**
+**Getaggte Benutzende können nicht sehen, wer sie getaggt hat**
 
-Wenn ein Benutzer in einer Aktualisierung mit Tags versehen ist, kann er nicht sehen, wer sie mit Tags versehen hat. Dies tritt auf, wenn die Einstellung &quot;Personen in anderen Unternehmen sollten nur Benutzer aus... anzeigen&quot;auf &quot;Ihr Unternehmen&quot;festgelegt ist.
+Wenn eine Benutzende in einer Aktualisierung getaggt werden, können sie nicht sehen, wer sie getaggt hat. Dies geschieht, wenn die Einstellung „Personen in anderen Firmen sollten nur Benutzer anzeigen dürfen aus...“ auf „Ihrer Firma“ eingestellt ist.
 
-**Das Tagging eines Benutzers mit &quot;@&quot;im Bereich &quot;Zusammenfassung&quot;ist nicht effektiv.**
+**Das Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ funktioniert nicht**
 
 Wenn Benutzende versuchen, andere Benutzende im Bereich „Aktualisierungen“ eines Bedienfelds „Zusammenfassung“ mit einem „@“ zu versehen, passiert nichts, wenn auf den Namen der Person in der Dropdown-Liste geklickt wird. Der Versuch, Benutzende ein zweites Mal zu taggen, funktioniert erwartungsgemäß.
 

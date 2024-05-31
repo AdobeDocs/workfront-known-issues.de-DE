@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [Aufgaben: Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Benutzer: Benutzer fehlen bei der Massenzuweisung](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten beschreibender Textfelder](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Gruppen: Untergruppen können nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Updates: Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
+      + [Aktualisierungen: Getaggte Benutzende können nicht sehen, wer sie getaggt hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Startseite: Geplante Stunden werden in Minuten angezeigt](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Benutzende: Benutzerattribute werden nicht von SSO zugeordnet](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)

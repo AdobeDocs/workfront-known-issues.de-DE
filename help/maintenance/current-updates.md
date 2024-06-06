@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 100%
+source-wordcount: '3824'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,13 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 +++ **Wartungs-Update vom Freitag, 6. Juni 2024**
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+### Wartungs-Update am 6. Juni 2024
+
+#### Benutzerdefinierte Formulare
+
+**Einschränkungen für native Felder im Formularentwickler**
+
+Für benutzerdefinierte Formulare, die im Formularentwickler erstellt wurden, werden jetzt mehrere native Felder unterstützt. Zuvor war die Begrenzung ein natives Feld pro Formular.
 
 +++
 

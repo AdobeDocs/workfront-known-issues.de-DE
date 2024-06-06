@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '2008'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 96%
       + [Berichte: Öffentliche Links zu einem Bericht funktionieren nicht](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [Das tatsächliche Abschlussdatum wird als K. A. angezeigt](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [Aufgaben: Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [Benutzer: Benutzer fehlen bei der Massenzuweisung](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten beschreibender Textfelder](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [Aktualisierungen: Getaggte Benutzende können nicht sehen, wer sie getaggt hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '3808'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,15 +38,15 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 Fehler beim Bearbeiten beschreibender Textfelder
 
-Wenn ein Benutzer versucht, den beschreibenden Text in einem benutzerdefinierten Formular zu bearbeiten, wird der Text nicht gespeichert und der Benutzer sieht den folgenden Fehler:
+Wenn Benutzende versuchen, Änderungen an einem benutzerdefinierten Formular vorzunehmen, werden die Änderungen nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-&quot;Doppelter Schlüsselwert verstößt gegen eindeutige Einschränkung&quot;
+„Doppelte Schlüsselwerte verletzen die Eindeutigkeitsbeschränkung“
 
 Dies wurde im alten Formular-Builder gemeldet.
 
 #### Updates
 
-**Beim Kopieren und Einfügen einer Erwähnung wird der genannte Benutzer nicht benachrichtigt**
+**Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt**
 
 Wenn Benutzende einen Kommentar kopieren, der eine Erwähnung im @-Format enthält, und diesen Kommentar dann in den Bereich „Aktualisierungen“ eines anderen Objekts einfügen, wird die erwähnte Person nicht über den eingefügten Kommentar informiert.
 

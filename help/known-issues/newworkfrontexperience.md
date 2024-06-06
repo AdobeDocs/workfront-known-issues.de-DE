@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '880'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Berichte: Öffentliche Links zu einem Bericht funktionieren nicht](known-issues-workfront/wf-reports-public-link-not-working.md) | Mittwoch, 4. Juni 2024 |
-| [Aufgaben: Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | Donnerstag, 29. Mai 2024 |
+| [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | Donnerstag, 29. Mai 2024 |
 | [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Dienstag, 20. Mai 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 | [Aufgaben: Beim Erstellen oder Duplizieren von Aufgaben werden die Aufgaben in der falschen Reihenfolge angezeigt](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | Dienstag, 26. Februar 2024 |
@@ -47,7 +47,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [[!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | Mittwoch, 4. Juni 2024 |
 | [Das tatsächliche Abschlussdatum wird als K. A. angezeigt](known-issues-workfront/wf-projects-completion-date-is-na.md) | Mittwoch, 4. Juni 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn Dokument angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Donnerstag, 29. Mai 2024 |
-| [Benutzer: Benutzer fehlen bei der Massenzuweisung](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | Mittwoch, 28. Mai 2024 |
+| [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | Mittwoch, 28. Mai 2024 |
 | [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | Freitag, 23. Mai 2024 |
 | [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
 | [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Dienstag, 20. Mai 2024 |

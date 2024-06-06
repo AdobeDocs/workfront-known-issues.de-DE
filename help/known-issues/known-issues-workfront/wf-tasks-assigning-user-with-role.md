@@ -1,18 +1,18 @@
 ---
-title: '"Aufgaben: Die Rolle "Auftrag"wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist."'
-description: "Wenn einer Aufgabe eine Auftragsrolle zugewiesen wird und diese Aufgabe einem Benutzer zugewiesen wird, der über die Auftragsrolle verfügt, wird die Auftragsrolle nicht aus der Liste der Zuweisungen entfernt."
+title: "Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist"
+description: Wenn einer Aufgabe ein Aufgabengebiet zugewiesen ist und diese Aufgabe einer Benutzerin oder einem Benutzer mit diesem Aufgabengebiet zugewiesen wird, verschwindet das Aufgabengebiet nicht aus der Zuweisungsliste.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
-workflow-type: tm+mt
+exl-id: b73fef22-ffdd-4d8d-a30d-7804a6c85ef5
+source-git-commit: b62fa0af335bb0c075473feeecb8327a365fe483
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist
 
-# Aufgaben: Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist
-
-Wenn einer Aufgabe eine Auftragsrolle zugewiesen wird und diese Aufgabe einem Benutzer mit der Auftragsrolle zugewiesen wird, wird die Auftragsrolle nicht aus der Zuweisungsliste entfernt.
+Wenn einer Aufgabe ein Aufgabengebiet zugewiesen ist und diese Aufgabe einer Benutzerin oder einem Benutzer mit diesem Aufgabengebiet zugewiesen wird, verschwindet das Aufgabengebiet nicht aus der Zuweisungsliste.
 
 _Erste Meldung am Mittwoch, 21. Mai 2024._

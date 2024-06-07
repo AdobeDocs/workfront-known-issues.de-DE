@@ -4,18 +4,22 @@ description: Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
 # Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt
 
+>[!NOTE]
+>
+>Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
+
 Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web-generierten Korrekturabzug enthält, in ein Projekt zu konvertieren, wird das Projekt nicht erstellt und es wird die folgende Meldung angezeigt:
 
-„[!UICONTROL Fehler beim Kopieren der Datei] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Bitte entfernen Sie die Datei oder kontaktieren Sie den Support und versuchen Sie es erneut.]“
+&quot;[!UICONTROL Beim Kopieren der Datei ist ein Fehler aufgetreten.] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\ [!UICONTROL Bitte entfernen Sie die Datei oder kontaktieren Sie den Support und versuchen Sie es erneut.]“
 
 **Problemumgehung**
 

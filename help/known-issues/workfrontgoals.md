@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Goals]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md) | Dienstag, 29. April 2024 |
+| Keine |  |
 
 <!--
 

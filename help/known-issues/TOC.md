@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '2008'
+source-wordcount: '2018'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Navigation: Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Dokumente: Fehler bei Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Testsendungen: Testversand-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projekte: Das Menü &quot;Freigabe&quot;wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)

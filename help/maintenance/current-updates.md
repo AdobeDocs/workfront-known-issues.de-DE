@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '3824'
+source-wordcount: '3861'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,18 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Juni 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 13. Juni 2024**
+
+### **(Geplantes) Wartungs-Update am Freitag, 13. Juni 2024**
+
+#### Gruppen
+
+**Untergruppe kann nicht hinzugefügt werden**
+
+Wenn Benutzende versuchen, einer Gruppe eine vorhandene Untergruppe hinzuzufügen, funktioniert die Schaltfläche „Speichern“ nicht und die Untergruppe wird nicht hinzugefügt.
+
++++
 
 +++ **Wartungs-Update vom Freitag, 6. Juni 2024**
 

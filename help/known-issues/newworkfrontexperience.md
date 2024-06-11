@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '806'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigation: Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Mittwoch, 11. Juni 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | Mittwoch, 7. Mai 2024 |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | Samstag, 7. Juni 2024 |
 | [Dokumente: Fehler bei Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | Donnerstag, 5. Juni 2024 |
 | [Testsendungen: Testversand-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Donnerstag, 5. Juni 2024 |
-| [[!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | Mittwoch, 4. Juni 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn Dokument angehängt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Donnerstag, 29. Mai 2024 |
 | [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | Mittwoch, 28. Mai 2024 |
 | [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | Freitag, 23. Mai 2024 |

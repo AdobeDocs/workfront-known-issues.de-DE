@@ -1,17 +1,21 @@
 ---
 title: "Resource Planner: Filter kann nicht freigegeben werden"
-description: "Wenn ein Benutzer versucht, einen Filter im [!UICONTROL Ressourcenplaner], können sie den Filter nicht freigeben und eine Fehlermeldung anzeigen."
+description: Wenn ein Benutzer versucht, einen Filter in der [!UICONTROL Ressourcenplaner], können sie den Filter nicht freigeben und sehen eine Fehlermeldung.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
-
 # [!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 10. Juni 2024 behoben.
 
 Wenn ein Benutzer versucht, einen Filter in der [!UICONTROL Ressourcenplaner], können sie den Filter nicht freigeben und die folgende Meldung sehen:
 

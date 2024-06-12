@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '2018'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 97%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Navigation: Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Dokumente: Fehler bei Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [Testsendungen: Testversand-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projekte: Das Menü &quot;Freigabe&quot;wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
+      + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Projekte: Freigabemenü wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Berichte: Öffentliche Links zu einem Bericht funktionieren nicht](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [Das tatsächliche Abschlussdatum wird als K. A. angezeigt](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [Das tatsächliche Fertigstellungsdatum wird als K. A. angezeigt](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten beschreibender Textfelder](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

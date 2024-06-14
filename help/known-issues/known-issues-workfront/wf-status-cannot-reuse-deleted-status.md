@@ -3,15 +3,19 @@ title: "Status: Der zuvor gelöschte Status kann nicht wiederverwendet werden"
 description: "Wenn ein Benutzer versucht, einen Status mit demselben Statusschlüssel wie ein zuvor gelöschter Status zu erstellen, wird der Status nicht erstellt und dem Benutzer wird eine Nachricht angezeigt."
 hidefromtoc: true
 feature: Work Management, Projects, Tasks
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
 # Status: Zuvor gelöschter Status kann nicht wiederverwendet werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 13. Juni 2024 behoben.
 
 Wenn ein Benutzer versucht, einen Status mit demselben Statusschlüssel wie ein zuvor gelöschter Status zu erstellen, wird der Status nicht erstellt und der Benutzer sieht die folgende Meldung:
 

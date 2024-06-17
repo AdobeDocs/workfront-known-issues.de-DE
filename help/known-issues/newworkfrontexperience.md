@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '823'
 ht-degree: 95%
 
 ---
@@ -39,6 +39,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 17. Juni 2024 |
 | [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | Samstag, 7. Juni 2024 |
 | [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | Samstag, 7. Juni 2024 |
 | [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | Donnerstag, 5. Juni 2024 |

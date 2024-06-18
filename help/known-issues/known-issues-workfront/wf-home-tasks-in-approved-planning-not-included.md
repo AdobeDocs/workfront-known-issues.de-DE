@@ -1,13 +1,13 @@
 ---
-title: '"Startseite: Aufgaben in Projekten mit dem Status "Genehmigt"oder "Planung"sind nicht in der Liste "Meine Aufgaben"oder "Hausarbeit"enthalten.'
-description: Aufgaben aus Projekten mit dem Status Genehmigt oder Planung werden nicht in der Startseite angezeigt. Eine Problemumgehung ist verfügbar.
+title: '„Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten“'
+description: Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht auf der Startseite angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

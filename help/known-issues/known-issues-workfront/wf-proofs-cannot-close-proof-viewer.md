@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Vi
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
-* Klicken Sie auf den Namen des Dokuments in der E-Mail, um das Dokument aufzurufen, und öffnen Sie den Korrekturabzug von dort aus. Dadurch kann das X erwartungsgemäß funktionieren.
-* Versuchen Sie erneut, den Testversand zu schließen.
+* Klicken Sie auf den Namen des Dokuments in der E-Mail, um das Dokument aufzurufen, und öffnen Sie den Korrekturabzug von dort aus. Dadurch kann das Klicken auf das X wie erwartet funktionieren.
+* Versuchen Sie erneut, den Korrekturabzug zu schließen.
 * Schließen Sie den Korrekturabzug, indem Sie die Browser-Registerkarte schließen.
 
-_Erste Meldung am Samstag, 31. Mai 2024._
+_Erste Meldung am 31. Mai 2024._

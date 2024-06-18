@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Projects
 exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ Wenn ein Projekt abgeschlossen ist, wird als „Tatsächliches Fertigstellungsda
 
 Die fehlenden tatsächlichen Fertigstellungsdaten können zu falschen Berichten führen.
 
-_Erste Meldung am Dienstag, 3. Juni 2024._
+_Erste Meldung am 3. Juni 2024._

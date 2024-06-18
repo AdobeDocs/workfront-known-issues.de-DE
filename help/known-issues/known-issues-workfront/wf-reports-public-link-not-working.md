@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 6. Juni 2024 behoben.
+>Dieses Problem wurde am 6. Juni 2024 behoben.
 
 Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link zu einem Bericht klickt, wird eine Fehlermeldung angezeigt. Der spezifische Fehler hängt von dem verwendeten Browser ab.
 
@@ -27,4 +27,4 @@ Benutzende mit Zugang zu Workfront können sich anmelden, um den Bericht einzuse
 
 Für externe Benutzende gibt es derzeit keine Abhilfe.
 
-_Erste Meldung am Donnerstag, 22. Mai 2024._
+_Erste Meldung am 22. Mai 2024._

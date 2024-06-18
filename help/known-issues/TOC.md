@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '1627'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Ressourcenplanung: [!UICONTROL Mehr] Schaltfläche nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Status: Zuvor gelöschter Status kann nicht wiederverwendet werden](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Startseite: Das Widget &quot;Erwähnungen&quot;kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [Navigation: Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projekte: Freigabemenü wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
@@ -49,7 +50,7 @@ ht-degree: 97%
       + [Einrichtung: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Pinnwände: Benutzende können die Pinnwand nicht sehen, der ihr Team zugewiesen ist](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [Aktualisierungen: Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ ist nicht wirksam“](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Aktualisierungen: Tagging von Benutzenden mit „@“ im Bedienfeld „Zusammenfassung“ ist nicht wirksam](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
       + [Projekte: Ein Projekt, das mit einer Vorlage erstellt wurde, entspricht nicht der Priorität der Vorlage](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Pinnwände: Checklistenelement bleibt nicht aktiviert](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Projekte: Fehler bei der Freigabe eines Projekts](known-issues-workfront/wf-projects-error-when-sharing-project.md)
@@ -106,7 +107,7 @@ ht-degree: 97%
       + [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Pinnwände: Karten werden nicht sortiert](known-issues-workfront/wf-boards-not-sorting.md)
       + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [Integrationen: Dokumente, die beim Erstellen einer Anfrage von  [!DNL Outlook] nicht angehängt sind](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [Integrationen: Dokumente, die beim Erstellen einer Anfrage von [!DNL Outlook] nicht angehängt sind](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
@@ -115,7 +116,7 @@ ht-degree: 97%
       + [Pinnwände: Karten werden beim Ändern des Status nicht in die entsprechende Spalte verschoben](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [Einrichtung: [!UICONTROL Kick-Start] kann nicht zum Einrichten von Gruppierungen verwendet werden](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
-      + [Dokumente: Zugriff auf  [!DNL SharePoint] nicht möglich](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
+      + [Dokumente: Zugriff auf [!DNL SharePoint] nicht möglich](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
@@ -129,7 +130,7 @@ ht-degree: 97%
       + [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Setup]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
-      + [Dokumentintegrationen: Es werden nicht alle Ordner in  [!DNL OneDrive] angezeigt](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [Dokumentintegrationen: Es werden nicht alle Ordner in [!DNL OneDrive] angezeigt](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [Korrekturabzüge: Genehmigungsoptionen werden nicht im [!UICONTROL Überprüfungs-Viewer] angezeigt](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)

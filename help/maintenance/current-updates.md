@@ -5,8 +5,8 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 ## Updates im Juni 2024
 
-+++**Wartungs-Update vom Freitag, 13. Juni 2024**
++++**Wartungs-Update am Freitag, 13. Juni 2024**
 
-### **Wartungs-Update vom Freitag, 13. Juni 2024**
+### **Wartungs-Update am Freitag, 13. Juni 2024**
 
 #### Gruppen
 
@@ -34,23 +34,23 @@ Wenn Benutzende versuchen, einer Gruppe eine vorhandene Untergruppe hinzuzufüge
 
 +++
 
-+++ **Wartungs-Update vom Freitag, 6. Juni 2024**
++++ **Wartungs-Update am 6. Juni 2024**
 
 ### Wartungs-Update am 6. Juni 2024
 
 #### Benutzerdefinierte Formulare
 
-**Einschränkungen für native Felder im Formularentwickler**
+**Einschränkungen für native Felder im Formular-Designer**
 
-Für benutzerdefinierte Formulare, die im Formularentwickler erstellt wurden, werden jetzt mehrere native Felder unterstützt. Zuvor war die Begrenzung ein natives Feld pro Formular.
+Für benutzerdefinierte Formulare, die im Formular-Designer erstellt wurden, werden jetzt mehrere native Felder unterstützt. Zuvor galt ein Limit von einem nativen Feld pro Formular.
 
 +++
 
 ## Updates im Mai 2024
 
-+++ **Wartungs-Update vom Freitag, 30. Mai 2024**
++++ **Wartungs-Update am 30. Mai 2024**
 
-### Wartungs-Update am Freitag, 30. Mai 2024
+### Wartungs-Update am 30. Mai 2024
 
 #### Benutzerdefinierte Formulare
 
@@ -70,9 +70,9 @@ Wenn Benutzende einen Kommentar kopieren, der eine Erwähnung im @-Format enthä
 
 +++
 
-+++ **Wartungs-Update vom Freitag, 23. Mai 2024**
++++ **Wartungs-Update am 23. Mai 2024**
 
-### Wartungs-Update am Freitag, 23. Mai 2024
+### Wartungs-Update am 23. Mai 2024
 
 #### Berichte
 
@@ -96,9 +96,9 @@ Wenn Benutzende versuchen, andere Benutzende im Bereich „Aktualisierungen“ e
 
 +++
 
-+++**Wartungs-Update vom Freitag, 16. Mai 2024**
++++**Wartungs-Update am 16. Mai 2024**
 
-### Wartungs-Update am Freitag, 16. Mai 2024
+### Wartungs-Update am 16. Mai 2024
 
 #### Setup
 
@@ -114,15 +114,15 @@ Beim Versuch, Benutzende zu löschen, werden diese nicht gelöscht. Dies wurde v
 
 +++
 
-+++**Wartungs-Update vom Freitag, 9. Mai 2024**
++++**Wartungs-Update am 9. Mai 2024**
 
-### Wartungs-Update am Freitag, 9. Mai 2024
+### Wartungs-Update am 9. Mai 2024
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 2. Mai 2024**
++++**Wartungs-Update am 2. Mai 2024**
 
 ### Wartungs-Update am 2. Mai 2024
 
@@ -136,9 +136,9 @@ Beim Versuch, die Stunden für eine Aufgabe oder ein Problem zu bearbeiten, werd
 
 ## Updates im April 2024
 
-+++**Wartungs-Update vom Freitag, 25. April 2024**
++++**Wartungs-Update am 25. April 2024**
 
-### Wartungs-Update vom Freitag, 25. April 2024
+### Wartungs-Update am 25. April 2024
 
 #### Updates
 
@@ -156,9 +156,9 @@ Dies wurde für die neue Kommentarerfahrung berichtet.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 18. April 2024**
++++**Wartungs-Update am 18. April 2024**
 
-### Wartungs-Update vom Freitag, 18. April 2024
+### Wartungs-Update am 18. April 2024
 
 #### Agile
 
@@ -190,35 +190,9 @@ Wenn an ein Problem ein Web-Korrekturabzug angefügt ist (ein URL-Korrekturabzug
 
 +++
 
-+++**Wartungs-Update vom Freitag, 11. April 2024**
++++**Wartungs-Update am 11. April 2024**
 
-### Wartungs-Update vom Freitag, 11. April 2024
-
-#### Suchen
-
-**Bearbeitung über Suche nicht möglich**
-
-Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse zu bearbeiten oder eine Massenbearbeitung vorzunehmen, reagiert das Symbol „Bearbeiten“ nicht.
-
-#### Updates
-
-**Vorschau eines Bildes in Aktualisierungen ist unscharf**
-
-Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
-
-Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
-
-**Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten**
-
-Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
-
-„[!UICONTROL Ihr Kommentar kann derzeit nicht veröffentlicht werden. Bitte warten Sie einen Moment und versuchen Sie es dann erneut.]“
-
-+++
-
-+++**Wartungs-Update vom Freitag, 4. April 2024**
-
-### Wartungs-Update vom 4. April 2024
+### Wartungs-Update am 11. April 2024
 
 #### Suchen
 
@@ -242,9 +216,35 @@ Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, w
 
 +++
 
-+++**Wartungs-Update vom Freitag, 4. April 2024**
++++**Wartungs-Update am 4. April 2024**
 
-### Wartungs-Update vom 4. April 2024
+### Wartungs-Update am 4. April 2024
+
+#### Suchen
+
+**Bearbeitung über Suche nicht möglich**
+
+Wenn Benutzende die erweiterte Suche verwenden und versuchen, die Suchergebnisse zu bearbeiten oder eine Massenbearbeitung vorzunehmen, reagiert das Symbol „Bearbeiten“ nicht.
+
+#### Updates
+
+**Vorschau eines Bildes in Aktualisierungen ist unscharf**
+
+Wenn sich Benutzende Aktualisierungen ansehen und auf die Lupe für ein Bild klicken, um eine Vorschau des Bildes zu öffnen, ist die Vorschau extrem pixelig und unscharf.
+
+Wenn die Benutzenden das Bild herunterladen, wird es mit der erwarteten Auflösung angezeigt.
+
+**Meldung „[!UICONTROL Ihr Kommentar kann nicht veröffentlicht werden]“ beim Beantworten**
+
+Beim Versuch, im neuen Kommentierungserlebnis auf eine Nachricht zu antworten, wird die Antwort nicht gespeichert und es wird die folgende Meldung angezeigt:
+
+„[!UICONTROL Ihr Kommentar kann derzeit nicht veröffentlicht werden. Bitte warten Sie einen Moment und versuchen Sie es dann erneut.]“
+
++++
+
++++**Wartungs-Update am 4. April 2024**
+
+### Wartungs-Update am 4. April 2024
 
 #### Integrationen
 
@@ -279,9 +279,9 @@ Das alte Kommentierungserlebnis funktioniert wie erwartet.
 
 ## Updates im März 2024
 
-+++**Wartungs-Update vom Freitag, 28. März 2024**
++++**Wartungs-Update am 28. März 2024**
 
-### Wartungs-Update vom Freitag, 28. März 2024
+### Wartungs-Update am 28. März 2024
 
 #### Integrationen
 
@@ -332,9 +332,9 @@ Dies wurde für die alte Kommentarerfahrung gemeldet.
 
 +++
 
-+++**Wartungs-Update von Workfront Fusion vom Freitag, 28. März 2024**
++++**Wartungs-Update von Workfront Fusion am 28. März 2024**
 
-### Wartungs-Update von Workfront Fusion vom 28. März 2024
+### Wartungs-Update von Workfront Fusion am 28. März 2024
 
 **RuntimeError mit Antwort 200 vom Workfront-Modul**
 
@@ -344,9 +344,9 @@ Dies kann vorkommen, wenn die Antwort extrem lang ist. Die Daten werden an Fusio
 
 +++
 
-+++**Wartungs-Update vom Freitag, 21. März 2024**
++++**Wartungs-Update am 21. März 2024**
 
-### Wartungs-Update vom Freitag, 21. März 2024
+### Wartungs-Update am 21. März 2024
 
 #### Updates
 
@@ -364,9 +364,9 @@ Diese Fehlerbehebung gilt nur für die neue Kommentarerfahrung.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 14. März 2024**
++++**Wartungs-Update am 14. März 2024**
 
-### Wartungs-Update vom Freitag, 14. März 2024
+### Wartungs-Update am 14. März 2024
 
 #### Korrekturabzüge
 
@@ -384,9 +384,9 @@ Wenn ein Benutzer bzw. eine Benutzerin einen anderen Benutzer oder eine andere B
 
 +++
 
-+++**Wartungs-Update vom Freitag, 7. März 2024**
++++**Wartungs-Update am 7. März 2024**
 
-### Wartungs-Update vom 7. März 2024
+### Wartungs-Update am 7. März 2024
 
 #### Pinnwände
 
@@ -413,7 +413,7 @@ Wenn die geplanten Stunden in einem Projekt aktualisiert werden, werden sie im W
 
 +++
 
-+++**Wartungs-Update von Workfront Fusion vom 7. März 2024
++++**Wartungs-Update von Workfront Fusion am 7. März 2024
 
 **Workfront-Korrekturabzug > Zeitüberschreitung des Moduls zur Überwachung des Korrekturabzugs**
 
@@ -423,9 +423,9 @@ Szenarien, in denen Workfront-Korrekturabzug > Modul zur Überwachung des Korrek
 
 ## Updates im Februar 2024
 
-+++**Wartungs-Update vom Freitag, 29. Februar 2024**
++++**Wartungs-Update am 29. Februar 2024**
 
-### Wartungs-Update am Freitag, 29. Februar 2024
+### Wartungs-Update am 29. Februar 2024
 
 #### Updates
 
@@ -437,9 +437,9 @@ Dies liegt daran, dass Benutzende nicht über die Berechtigung zum Anzeigen von 
 
 +++
 
-+++**Wartungs-Update vom Freitag, 22. Februar 2024**
++++**Wartungs-Update am 22. Februar 2024**
 
-### Wartungs-Update am Freitag, 22. Februar 2024
+### Wartungs-Update am 22. Februar 2024
 
 #### Startseite
 
@@ -469,9 +469,9 @@ Der Workload Balancer und der Kalender für persönliche Ausfallzeiten zeigen je
 
 +++
 
-+++**Wartungs-Update vom Freitag, 15. Februar 2024**
++++**Wartungs-Update am 15. Februar 2024**
 
-### Wartungs-Update am Freitag, 15. Februar 2024
+### Wartungs-Update am 15. Februar 2024
 
 #### Probleme
 
@@ -493,9 +493,9 @@ Nachdem ein[!DNL Workfront]-Administrator die Option zum Hinzufügen von Bildern
 
 +++
 
-+++**Wartungs-Update vom Freitag, 8. Februar 2024**
++++**Wartungs-Update am 8. Februar 2024**
 
-### Wartungs-Update vom 8. Februar 2024
+### Wartungs-Update am 8. Februar 2024
 
 #### Pinnwände
 
@@ -523,7 +523,7 @@ Dies liegt daran, dass Aufgabengebiete automatisch doppelte Raten ohne Start- od
 
 +++
 
-+++**Wartungs-Update vom Freitag, 1. Februar 2024**
++++**Wartungs-Update am 1. Februar 2024**
 
 ### Wartungs-Update am 1. Februar 2024
 
@@ -545,9 +545,9 @@ Beim Versuch, eine neue oder vorhandene Vorlage zu kopieren, wird die Vorlage ni
 
 ## Updates im Januar 2024
 
-+++**Wartungs-Update (Hotfix) vom Mittwoch, 30. Januar 2024**
++++**Wartungs-Update (Hotfix) am 30. Januar 2024**
 
-### Wartungs-Update (Hotfix) vom 30. Januar 2024
+### Wartungs-Update (Hotfix) am 30. Januar 2024
 
 #### Berichte
 
@@ -559,9 +559,9 @@ Wenn jetzt ein benutzerdefiniertes externes Suchfeld in einer Liste oder einem B
 
 +++
 
-+++**Wartungs-Update vom Freitag, 25. Januar 2024**
++++**Wartungs-Update am 25. Januar 2024**
 
-### Wartungs-Update am Freitag, 25. Januar 2024
+### Wartungs-Update am 25. Januar 2024
 
 #### Pinnwände
 
@@ -590,9 +590,9 @@ Die Benutzenden erhalten wie erwartet eine E-Mail-Benachrichtigung zum Tag.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 18. Januar 2024**
++++**Wartungs-Update am 18. Januar 2024**
 
-### Wartungs-Update am Freitag, 18. Januar 2024
+### Wartungs-Update am 18. Januar 2024
 
 #### Pinnwände
 
@@ -637,7 +637,7 @@ Wenn Benutzende versuchen, Kommentare auf einer Karte anzuzeigen, die nicht mit 
 
 Dies kann auch auftreten, wenn die Benutzenden zuvor Kommentare auf der Karte sehen konnten.
 
-#### Benutzerdefinierte Formulare in meiner Gruppe
+#### Benutzerdefinierte Formulare
 
 **Benutzerdefinierte Formulare können nicht stapelweise zu Vorlagenaufgaben hinzugefügt oder aus diesen entfernt werden**
 
@@ -692,9 +692,9 @@ Ein Kommentar, der im alten Kommentierungserlebnis abgegeben wurde, ist im neuen
 
 +++
 
-+++**Wartungs-Update vom Freitag, 11. Januar 2024**
++++**Wartungs-Update am 11. Januar 2024**
 
-### Wartungs-Update am Freitag, 11. Januar 2024
+### Wartungs-Update am 11. Januar 2024
 
 #### Pinnwände
 

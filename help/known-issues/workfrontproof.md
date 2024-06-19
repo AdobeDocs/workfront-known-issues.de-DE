@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
-| [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | Dienstag, 22. April 2024 |
+| [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22. April 2024 |
 
 {style="table-layout:auto"}
 
@@ -36,11 +36,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | Donnerstag, 5. Juni 2024 |
-| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Donnerstag, 5. Juni 2024 |
-| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 20. Mai 2024 |
-| [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | Donnerstag, 8. Mai 2024 |
-| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | Samstag, 22. März 2024 |
+| [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5. Juni 2024 |
+| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5. Juni 2024 |
+| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20. Mai 2024 |
+| [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8. Mai 2024 |
+| [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22. März 2024 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 
 {style="table-layout:auto"}
@@ -51,7 +51,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | Samstag, 7. Juni 2024 |
+| [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7. Juni 2024 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |
 | [Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19. September 2023 |

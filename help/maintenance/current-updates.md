@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3963'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,27 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Juni 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 20. Juni 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 20. Juni 2024
+
+#### Navigation
+
+**Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück**
+
+Wenn jemand in Workfront auf die Schaltfläche „Zurück“ des Browsers klickt, kann eine der folgenden Situationen eintreten.
+
+* Der Name der Browser-Registerkarte ändert sich, die Seite ändert sich jedoch nicht. Durch erneutes Klicken auf die Schaltfläche „Zurück“ kann das Problem behoben werden.
+* Die Person wird zur Landingpage des Browsers weitergeleitet.
+
+#### Korrekturabzüge
+
+**Testversand-Viewer kann nicht geschlossen werden**
+
+Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
+
++++
 
 +++**Wartungs-Update am Freitag, 13. Juni 2024**
 

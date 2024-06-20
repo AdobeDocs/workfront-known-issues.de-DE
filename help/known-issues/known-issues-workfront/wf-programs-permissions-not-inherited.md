@@ -4,14 +4,18 @@ description: Beim Versuch, den Benutzerzugriff für ein Programm zu aktualisiere
 hidefromtoc: true
 feature: Work Management
 exl-id: 0d02b200-5447-4cee-8e36-4171af00c101
-source-git-commit: 493f1125e9f0d459f15332d26a78dfe2193d7c5b
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 Beim Versuch, den Benutzerzugriff für ein Programm zu aktualisieren, verlieren alle anderen Gruppen, Teams, Rollen und Benutzenden den Zugriff auf dieses Programm. Dazu gehören geerbte Berechtigungen aus dem Portfolio.
 

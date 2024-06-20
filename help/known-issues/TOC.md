@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1652'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Genehmigungen: Zu viele Umleitungen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aktualisierungen: Kopierter Link wird nicht ordnungsgemäß eingefügt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md)

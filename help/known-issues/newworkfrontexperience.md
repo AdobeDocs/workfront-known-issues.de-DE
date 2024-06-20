@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 94%
+source-wordcount: '819'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Genehmigungen: Zu viele Umleitungen](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | Freitag, 20. Juni 2024 |
 | [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | Mittwoch, 18. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
 | [Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
 | [Ressourcenplanung: [!UICONTROL Mehr] Schaltfläche nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | Samstag, 14. Juni 2024 |
-| [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | 11. Juni 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7. Mai 2024 |
 
 {style="table-layout:auto"}
@@ -42,10 +42,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 |----------------------------------| ----------------- |
 | [Aktualisierungen: Kopierter Link wird nicht ordnungsgemäß eingefügt](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | Donnerstag, 19. Juni 2024 |
 | [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 17. Juni 2024 |
-| [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7. Juni 2024 |
 | [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7. Juni 2024 |
 | [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5. Juni 2024 |
-| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5. Juni 2024 |
 | [Projekt: Ein Problem kann nicht in ein Projekt konvertiert werden, wenn ein Dokument angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29. Mai 2024 |
 | [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28. Mai 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11. April 2024 |

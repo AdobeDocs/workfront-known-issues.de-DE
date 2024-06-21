@@ -4,14 +4,18 @@ description: Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird möglicherweise einer der folgenden Fehler angezeigt:
 

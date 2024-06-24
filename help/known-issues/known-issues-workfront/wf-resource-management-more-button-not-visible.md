@@ -1,22 +1,22 @@
 ---
-title: '"Ressourcenplanung: Schaltfläche "Mehr"ist nicht sichtbar.'
-description: '"Wenn ein Benutzer den Ressourcenplaner anzeigt und versucht, auf die [!UICONTROL Mehr] -Schaltfläche, ist die Schaltfläche nicht sichtbar. Eine Problemumgehung ist verfügbar.“'
+title: 'Ressourcenplanung: Schaltfläche „Mehr“ ist nicht sichtbar'
+description: Wenn Benutzende den Ressourcenplaner anzeigen und versuchen, auf die Schaltfläche [!UICONTROL Mehr] zu klicken, ist die Schaltfläche nicht sichtbar. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
-workflow-type: tm+mt
+exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
+# Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar
 
-# Ressourcenplanung: [!UICONTROL Mehr] Schaltfläche nicht sichtbar
-
-Wenn ein Benutzer den Ressourcenplaner anzeigt und versucht, auf die [!UICONTROL Mehr] -Schaltfläche, ist die Schaltfläche nicht sichtbar.
+Wenn Benutzende den Ressourcenplaner anzeigen und versuchen, auf die Schaltfläche [!UICONTROL Mehr] zu klicken, ist die Schaltfläche nicht sichtbar.
 
 **Problemumgehung**
 
-Klicken Sie auf den Bereich, in dem die [!UICONTROL Mehr] -Schaltfläche angezeigt. Die Schaltfläche ist nicht sichtbar, kann aber angeklickt werden.
+Klicken Sie auf den Bereich, in dem die Schaltfläche [!UICONTROL Mehr] angezeigt werden sollte. Die Schaltfläche ist nicht sichtbar, kann aber angeklickt werden.
 
 _Erste Meldung am Donnerstag, 5. Juni 2024._

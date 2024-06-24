@@ -1,22 +1,22 @@
 ---
-title: "Integrationen: Probleme mit der Dropbox-Integration"
-description: "Über Probleme bei der Dropbox-Integration wurde berichtet."
+title: 'Integrationen: Probleme mit der Dropbox-Integration'
+description: Es wurden Probleme mit der Dropbox-Integration gemeldet.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
-
 
 # Integrationen: Probleme mit der Dropbox-Integration
 
 Die folgenden Probleme wurden bezüglich der Dropbox-Integration gemeldet:
 
-* Wenn ein Benutzer versucht, in der Dateiauswahl nach einer Dropbox-Datei zu suchen, wird ihm eine Fehlermeldung zur Autorisierung angezeigt und der Dateiselektor ruft die nicht von Dropbox ab.
-* Wenn ein Benutzer versucht, einen verknüpften Ordner zu öffnen, wird ein Fehler angezeigt, der angibt, dass die Dateien oder Ordner nicht mehr im Dropbox vorhanden sind.
+* Wenn Benutzende versuchen, in der Dropbox-Dateiauswahl nach einer Datei zu suchen, wird eine Fehlermeldung bezüglich der Autorisierung angezeigt und die Dateiauswahl ruft die Datei nicht von Dropbox ab.
+* Wenn Benutzende versuchen, einen verknüpften Ordner zu öffnen, wird eine Fehlermeldung mit dem Hinweis angezeigt, dass die Dateien oder der Ordner nicht mehr in Dropbox vorhanden sind.
 
 Diese Probleme sind auf Probleme mit Dropbox und nicht auf Workfront zurückzuführen.
 

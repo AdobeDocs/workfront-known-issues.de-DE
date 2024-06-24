@@ -1,19 +1,19 @@
 ---
-title: "Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind"
-description: "Wenn ein Benutzer einen Bericht anzeigt und in die Details klickt und der Bericht nach einem benutzerdefinierten Datumsfeld gruppiert ist, werden die Details nicht geladen und der Benutzer sieht einen Fehler."
+title: 'Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind'
+description: Wenn Benutzende einen Bericht anzeigen und auf die Details klicken und der Bericht nach einem benutzerdefinierten Datumsfeld gruppiert ist, werden die Details nicht geladen und die Benutzenden erhalten eine Fehlermeldung.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
+# Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind
 
-# Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind
-
-Wenn ein Benutzer einen Bericht anzeigt und auf die Details klickt und der Bericht nach einem benutzerdefinierten Datumsfeld gruppiert ist, werden die Details nicht geladen und der Benutzer sieht den folgenden Fehler:
+Wenn Benutzende einen Bericht anzeigen und auf die Details klicken und der Bericht nach einem benutzerdefinierten Datumsfeld gruppiert ist, werden die Details nicht geladen und die Benutzenden erhalten die folgende Fehlermeldung:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 

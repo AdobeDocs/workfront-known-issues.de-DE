@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '858'
-ht-degree: 88%
+ht-degree: 91%
 
 ---
 
@@ -30,8 +30,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) | Samstag, 21. Juni 2024 |
 | [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | Mittwoch, 18. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
-| [Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
-| [Ressourcenplanung: [!UICONTROL Mehr] Schaltfläche nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | Samstag, 14. Juni 2024 |
+| [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
+| [Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | Samstag, 14. Juni 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7. Mai 2024 |
 
 {style="table-layout:auto"}
@@ -61,7 +61,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Startseite: Das Widget Meine Probleme zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | Freitag, 20. Juni 2024 |
-| [Startseite: Das Widget &quot;Erwähnungen&quot;kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | Donnerstag, 12. Juni 2024 |
+| [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | Donnerstag, 12. Juni 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7. Juni 2024 |
 | [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7. Juni 2024 |
 | [Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 7. Juni 2024 |

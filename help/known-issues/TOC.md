@@ -5,7 +5,7 @@ role: User
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '1702'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 93%
       + [Aktualisierungen: Kopierter Link wird nicht ordnungsgemäß eingefügt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [Berichte: Fehler bei der Anzeige von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Ressourcenplanung: [!UICONTROL Mehr] Schaltfläche nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Status: Zuvor gelöschter Status kann nicht wiederverwendet werden](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [Startseite: Das Widget &quot;Erwähnungen&quot;kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [Statuswerte: Zuvor gelöschter Status kann nicht wiederverwendet werden](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
+      + [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)

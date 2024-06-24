@@ -4,16 +4,20 @@ description: Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht m
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 Layout-Vorlagen aus dem klassischen [!DNL Workfront]-Erlebnis sind nicht mehr in der [!DNL Workfront]-Benutzeroberfläche verfügbar, können sich aber dennoch auf [!DNL Workfront]-Daten auswirken. Dies kann zu Unstimmigkeiten in Feldern führen, die von Layout-Vorlagen (z. B. [!UICONTROL Freigegeben für]) in Berichten und Pinnwänden betroffen sind.
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 91%
+source-wordcount: '859'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | Dienstag, 24. Juni 2024 |
 | [Testsendungen: Durch Klicken auf den Testversandnamen wird der leere Bildschirm angezeigt](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | Samstag, 21. Juni 2024 |
 | [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) | Samstag, 21. Juni 2024 |

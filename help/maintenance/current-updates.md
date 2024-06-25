@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '3961'
-ht-degree: 99%
+source-wordcount: '4072'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,26 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Juni 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 27. Juni 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 27. Juni 2024
+
+#### Berichte
+
+**Bericht wird nicht geladen, wenn die Standardwährung USD ist**
+
+Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
+
+#### Updates
+
+**Kopierter Link wird nicht korrekt eingefügt**
+
+Wenn ein Benutzer einen Link aus einer Aktualisierung kopiert, indem er mit der rechten Maustaste klickt und &quot;[!UICONTROL Link-Adresse kopieren]&quot;, fügt dann den Link in ein Update ein, der Link wird nicht korrekt eingefügt. Nur der erste Teil des Links ist ein Link und der Rest der URL wird ignoriert.
+
+Kopieren des Links mit einer anderen Methode &quot;[!UICONTROL Link-Adresse kopieren]&quot; ermöglicht es, den Link erwartungsgemäß einzufügen.
+
++++
 
 +++**Wartungs-Update am Freitag, 20. Juni 2024**
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 95%
+source-wordcount: '439'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrationen: Ordner verknüpfen von [!DNL Google Drive] verknüpft keine Assets in Ordner](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 | [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |

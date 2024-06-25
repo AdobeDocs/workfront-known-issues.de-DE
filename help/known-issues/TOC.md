@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '1711'
-ht-degree: 95%
+source-wordcount: '1721'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrationen: Ordner verknüpfen von [!DNL Google Drive] verknüpft keine Assets in Ordner](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Testsendungen: Durch Klicken auf den Testversandnamen wird der leere Bildschirm angezeigt](known-issues-workfront/wf-proofs-go-to-blank-screen.md)

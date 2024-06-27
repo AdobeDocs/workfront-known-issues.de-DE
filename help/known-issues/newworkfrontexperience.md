@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '834'
 ht-degree: 91%
 
 ---
@@ -33,7 +33,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | Mittwoch, 18. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
 | [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
-| [Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | Samstag, 14. Juni 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7. Mai 2024 |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | Dienstag, 17. Juni 2024 |
 | [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7. Juni 2024 |
 | [Projekt: Ein Problem kann nicht in ein Projekt konvertiert werden, wenn ein Dokument angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29. Mai 2024 |
 | [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28. Mai 2024 |

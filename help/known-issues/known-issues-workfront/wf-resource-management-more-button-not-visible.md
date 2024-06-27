@@ -4,14 +4,18 @@ description: Wenn Benutzende den Ressourcenplaner anzeigen und versuchen, auf di
 hidefromtoc: true
 feature: Resource Management
 exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 94%
 
 ---
 
 # Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 27. Juni 2024 behoben.
 
 Wenn Benutzende den Ressourcenplaner anzeigen und versuchen, auf die Schaltfläche [!UICONTROL Mehr] zu klicken, ist die Schaltfläche nicht sichtbar.
 

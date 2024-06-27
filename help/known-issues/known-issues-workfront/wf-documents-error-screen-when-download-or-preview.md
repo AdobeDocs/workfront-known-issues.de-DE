@@ -4,9 +4,9 @@ description: Beim Versuch, ein Asset in Workfront herunterzuladen oder in der Vo
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -14,11 +14,9 @@ ht-degree: 100%
 # Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 13, 2024.
--->
+>Dieses Problem wurde am Freitag, 27. Juni 2024 behoben.
 
 Beim Versuch, ein Asset in Workfront herunterzuladen oder in der Vorschau anzuzeigen, erfolgt stattdessen eine Weiterleitung zu einem Fehlerbildschirm.
 

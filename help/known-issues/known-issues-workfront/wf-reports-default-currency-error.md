@@ -1,17 +1,21 @@
 ---
-title: "Berichte: Bericht wird nicht geladen, wenn die Standardwährung USD ist."
-description: "Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen."
+title: 'Berichte: Bericht wird nicht geladen, wenn die Standardwährung USD ist.'
+description: Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 13%
 
 ---
 
-
 # Berichte: Bericht wird nicht geladen, wenn die Standardwährung USD ist
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 27. Juni 2024 behoben.
 
 Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
 

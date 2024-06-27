@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '4124'
+source-wordcount: '4070'
 ht-degree: 97%
 
 ---
@@ -22,9 +22,9 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 ## Updates im Juni 2024
 
-+++**(Geplantes) Wartungs-Update am Freitag, 27. Juni 2024**
++++**Wartungs-Update am Freitag, 27. Juni 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 27. Juni 2024
+### Wartungs-Update am Freitag, 27. Juni 2024
 
 #### Berichte
 
@@ -39,14 +39,6 @@ Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeige
 Wenn ein Benutzer einen Link aus einer Aktualisierung kopiert, indem er mit der rechten Maustaste klickt und &quot;[!UICONTROL Link-Adresse kopieren]&quot;, fügt dann den Link in ein Update ein, der Link wird nicht korrekt eingefügt. Nur der erste Teil des Links ist ein Link und der Rest der URL wird ignoriert.
 
 Kopieren des Links mit einer anderen Methode &quot;[!UICONTROL Link-Adresse kopieren]&quot; ermöglicht es, den Link erwartungsgemäß einzufügen.
-
-#### Benutzende
-
-**Benutzer fehlen bei der Massenzuweisung**
-
-Wenn Benutzende versuchen, Massenarbeitsaufträge zu erstellen, und der Aufgabe ein Aufgabengebiet zugewiesen wird, werden Benutzende mit diesem Aufgabengebiet nicht in der Liste angezeigt und die zuweisende Person kann diese nicht auswählen.
-
-Dieses Verhalten wurde auch in Workload Balancer gemeldet.
 
 +++
 

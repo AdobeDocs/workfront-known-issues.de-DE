@@ -1,18 +1,18 @@
 ---
-title: '"Pinnwände: Pinnwand wird bei Verwendung von "Anmelden als"nicht als Benutzer angezeigt'
-description: "Wenn sich ein Administrator oder ein Gruppenadministrator als ein anderer Benutzer anmeldet und die Pinnwände anzeigt, werden die Pinnwände angezeigt, die Pinnwände des Administrators und nicht die Pinnwände des Benutzers."
+title: '''Pinnwände: Pinnwand wird bei Verwendung von „Anmelden als“ nicht als Benutzerin oder Benutzer angezeigt'
+description: Wenn sich eine oder ein Admin bzw. eine oder ein Gruppen-Admin als eine andere Benutzerin oder ein anderer Benutzer anmeldet und Pinnwände anzeigt, werden die Pinnwände der oder des Admins angezeigt, nicht die der Benutzerin oder des Benutzers.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
-workflow-type: tm+mt
+exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
+source-git-commit: 2ab561d9b97aea63728c811e310fd23d0f51c018
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als] nicht als Benutzerin oder Benutzer angezeigt
 
-# Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]
-
-Wenn sich ein Administrator oder ein Gruppenadministrator als ein anderer Benutzer anmeldet und die Pinnwände anzeigt, werden die Pinnwände angezeigt, nicht die Pinnwände des Benutzers, sondern die Pinnwände des Administrators.
+Wenn sich eine oder ein Admin bzw. eine oder ein Gruppen-Admin als eine andere Benutzerin oder ein anderer Benutzer anmeldet und Pinnwände anzeigt, werden die Pinnwände der oder des Admins angezeigt, nicht die der Benutzerin oder des Benutzers.
 
 _Erste Meldung am Mittwoch, 11. Juni 2024._

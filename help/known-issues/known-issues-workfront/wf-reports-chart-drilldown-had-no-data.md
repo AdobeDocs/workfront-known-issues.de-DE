@@ -1,18 +1,18 @@
 ---
-title: "Berichte: Keine Daten, die angezeigt werden, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist."
-description: '"Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und auf eine Gruppierung im Diagramm klickt und diese Gruppierung einen Schrägstrich oder einen umgekehrten Schrägstrich im Namen aufweist, werden die Elemente in der Gruppierung nicht in den angezeigten Details angezeigt, sodass der Benutzer die Meldung "Keine anzuzeigenden Daten"erhält."'
+title: 'Berichte: Keine Daten zum Anzeigen vorhanden, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist'
+description: Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich oder einen umgekehrten Schrägstrich im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
+source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
+workflow-type: ht
+source-wordcount: '127'
+ht-degree: 100%
 
 ---
 
+# Berichte: „Keine Daten zum Anzeigen vorhanden“, wenn der die Gruppierung einen Schrägstrich (/) oder einen umgekehrten Schrägstrich (\) im Namen aufweist
 
-# Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname / oder \
-
-Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und auf eine Gruppierung im Diagramm klickt und diese Gruppierung einen / oder \ im Namen hat, werden die angezeigten Details nicht zu den Elementen in der Gruppierung angezeigt und der Benutzer sieht die Meldung &quot;Keine anzuzeigenden Daten&quot;.
+Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich (/) oder einen umgekehrten Schrägstrich (\) im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
 
 _Erste Meldung am Dienstag, 17. Juni 2024._

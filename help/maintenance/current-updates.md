@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -30,15 +30,15 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 **Bericht wird nicht geladen, wenn die Standardwährung USD ist**
 
-Wenn ein Benutzer versucht, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
+Wenn Benutzende versuchen, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
 
 #### Updates
 
 **Kopierter Link wird nicht korrekt eingefügt**
 
-Wenn ein Benutzer einen Link aus einer Aktualisierung kopiert, indem er mit der rechten Maustaste klickt und &quot;[!UICONTROL Link-Adresse kopieren]&quot;, fügt dann den Link in ein Update ein, der Link wird nicht korrekt eingefügt. Nur der erste Teil des Links ist ein Link und der Rest der URL wird ignoriert.
+Wenn Benutzende einen Link aus einer Aktualisierung kopieren, indem sie mit der rechten Maustaste klicken und „[!UICONTROL Link-Adresse kopieren]“ auswählen, und den Link dann in eine Aktualisierung einfügen, wird der Link nicht ordnungsgemäß eingefügt. Nur der erste Teil des Links ist ein Link und der Rest der URL wird ignoriert.
 
-Kopieren des Links mit einer anderen Methode &quot;[!UICONTROL Link-Adresse kopieren]&quot; ermöglicht es, den Link erwartungsgemäß einzufügen.
+Wenn Sie den Link mit einer anderen Methode als „[!UICONTROL Link-Adresse kopieren]“ kopieren, können Sie den Link erwartungsgemäß einfügen.
 
 +++
 
@@ -48,7 +48,7 @@ Kopieren des Links mit einer anderen Methode &quot;[!UICONTROL Link-Adresse kopi
 
 #### Navigation
 
-**Schaltfläche &quot;Zurück&quot;kehrt nicht zur vorherigen Seite zurück**
+**Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück**
 
 Wenn jemand in Workfront auf die Schaltfläche „Zurück“ des Browsers klickt, kann eine der folgenden Situationen eintreten.
 
@@ -57,7 +57,7 @@ Wenn jemand in Workfront auf die Schaltfläche „Zurück“ des Browsers klickt
 
 #### Korrekturabzüge
 
-**Testversand-Viewer kann nicht geschlossen werden**
+**Korrekturabzug-Viewer kann nicht geschlossen werden**
 
 Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 93%
       + [Integrationen: Ordner verknüpfen von [!DNL Google Drive] verknüpft keine Assets in Ordner](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
-      + [Testsendungen: Durch Klicken auf den Testversandnamen wird der leere Bildschirm angezeigt](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [Berichte: Bericht wird nicht geladen, wenn die Standardwährung USD ist](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [Startseite: Das Widget Meine Probleme zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
-      + [Genehmigungen: Zu viele Umleitungen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
+      + [Korrekturabzüge: Wenn Sie auf den Namen des Korrekturabzugs klicken, wird ein leerer Bildschirm angezeigt](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
+      + [Berichte: Bericht wird nicht geladen, wenn es sich bei der Standardwährung um USD handelt](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als] nicht als Benutzerin oder Benutzer angezeigt](known-issues-workfront/wf-boards-log-in-as.md)
+      + [Startseite: Das Widget „Meine Probleme“ zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [Genehmigungen: Zu viele Weiterleitungen](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aktualisierungen: Kopierter Link wird nicht ordnungsgemäß eingefügt](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [Berichte: &quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [Berichte: „Keine Daten zum Anzeigen vorhanden“, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

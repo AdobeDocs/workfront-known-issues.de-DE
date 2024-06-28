@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '1744'
+source-wordcount: '1753'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Dokumente: Dokumentanzahl ist ungenau](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Aufgaben: Die Suche nach dem Vornamen in der Aufgabenzuweisung gibt keine Benutzer zurück](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 95%
+source-wordcount: '872'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md) | Samstag, 28. Juni 2024 |
 | [Dokumente: Dokumentanzahl ist ungenau](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
 | [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | Freitag, 27. Juni 2024 |

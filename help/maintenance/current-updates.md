@@ -34,13 +34,13 @@ Aus Sicherheitsgründen kann nur der Inhaber einer Pinnwand die Pinnwandfilter i
 
 #### Berichte
 
-**Bericht wird nicht geladen, wenn die Standardwährung USD ist**
+**Bericht wird nicht geladen, wenn es sich bei der Standardwährung um USD handelt**
 
 Wenn Benutzende versuchen, einen Bericht mit der Standardwährung USD anzuzeigen, wird der Bericht nicht geladen.
 
 #### Updates
 
-**Kopierter Link wird nicht korrekt eingefügt**
+**Kopierter Link wird nicht ordnungsgemäß eingefügt**
 
 Wenn Benutzende einen Link aus einer Aktualisierung kopieren, indem sie mit der rechten Maustaste klicken und „[!UICONTROL Link-Adresse kopieren]“ auswählen, und den Link dann in eine Aktualisierung einfügen, wird der Link nicht ordnungsgemäß eingefügt. Nur der erste Teil des Links ist ein Link und der Rest der URL wird ignoriert.
 

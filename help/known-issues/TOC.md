@@ -5,7 +5,7 @@ role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '1753'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 97%
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
       + [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md)
-      + [Dokumente: Dokumentanzahl ist ungenau](known-issues-workfront/wf-documents-count-only-root-folder.md)
+      + [Dokumente: Die Anzahl der Dokumente ist nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
-      + [Aufgaben: Die Suche nach dem Vornamen in der Aufgabenzuweisung gibt keine Benutzer zurück](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
-      + [Integrationen: Ordner verknüpfen von [!DNL Google Drive] verknüpft keine Assets in Ordner](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
+      + [Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
+      + [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
+      + [Korrekturabzüge: Nach dem Schließen eines Korrekturabzugs wird die Seite „Produktdokumente“ angezeigt](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Korrekturabzüge: Wenn Sie auf den Namen des Korrekturabzugs klicken, wird ein leerer Bildschirm angezeigt](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Berichte: Bericht wird nicht geladen, wenn es sich bei der Standardwährung um USD handelt](known-issues-workfront/wf-reports-default-currency-error.md)

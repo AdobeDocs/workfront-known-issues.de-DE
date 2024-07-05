@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '872'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -26,12 +26,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md) | Samstag, 28. Juni 2024 |
-| [Dokumente: Dokumentanzahl ist ungenau](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
+| [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
 | [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | Freitag, 27. Juni 2024 |
-| [Aufgaben: Die Suche nach dem Vornamen in der Aufgabenzuweisung gibt keine Benutzer zurück](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | Freitag, 27. Juni 2024 |
-| [Integrationen: Ordner verknüpfen von [!DNL Google Drive] verknüpft keine Assets in Ordner](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
-| [Testsendungen: Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |
+| [Aufgaben: Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | Freitag, 27. Juni 2024 |
+| [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
+| [Korrekturabzüge: Korrekturabzüge: Nach dem Schließen eines Korrekturabzugs wird die Seite „Produktdokumente“ angezeigt](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | Dienstag, 24. Juni 2024 |
 | [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt | Samstag, 21. Juni 2024 |
 | [Berichte: „Keine Daten zum Anzeigen vorhanden“, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | Mittwoch, 18. Juni 2024 |

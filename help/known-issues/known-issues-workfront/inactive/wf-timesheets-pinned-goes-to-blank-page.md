@@ -1,13 +1,13 @@
 ---
-title: "Timesheets: Pinned timesheet geht an leere Seite"
-description: Wenn ein Benutzer in Workfront auf eine Pin klickt, die zum Timesheet hinzugefügt werden soll, wird die Pin stattdessen auf eine leere Seite verschoben. Eine Problemumgehung ist verfügbar.
+title: 'Arbeitszeittabellen: Angeheftete Arbeitszeittabelle führt zu leerer Seite'
+description: '"Wenn Benutzende in Workfront auf einen Pin klicken, der zur Arbeitszeittabelle führen soll, führt der Pin stattdessen auf eine leere Seite. Eine Problemumgehung ist verfügbar.'
 hidefromtoc: true
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

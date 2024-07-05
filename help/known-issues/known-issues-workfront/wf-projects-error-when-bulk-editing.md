@@ -1,23 +1,23 @@
 ---
-title: "Projekte: Fehler bei Massenbearbeitungsprojekten"
-description: "Wenn ein Benutzer versucht, Projekte stapelweise zu bearbeiten, ist das Bearbeitungsfenster leer und der Benutzer sieht einen Fehler."
+title: "Projekte: Fehler bei der Massenbearbeitung von Projekten"
+description: "Wenn Benutzende versuchen, Projekte per Massenbearbeitung zu bearbeiten, ist das Bearbeitungsfenster leer und eine Fehlermeldung wird angezeigt."
 hidefromtoc: true
 feature: Projects
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
 # Projekte: Fehler bei der Massenbearbeitung von Projekten
 
-Wenn ein Benutzer versucht, Projekte stapelweise zu bearbeiten, ist das Bearbeitungsfenster leer und der Benutzer sieht den folgenden Fehler:
+Wenn Benutzende versuchen, Projekte per Massenbearbeitung zu bearbeiten, ist das Bearbeitungsfenster leer und folgender Fehler wird angezeigt:
 
-&quot;Ein unerwarteter Fehler ist aufgetreten&quot;
+„Ein unerwarteter Fehler ist aufgetreten“
 
-Der Benutzer muss die Seite aktualisieren, um zur Projektliste oder zum Bericht zurückzukehren.
+Benutzende müssen dann die Seite aktualisieren, um zur Projektliste oder zum Bericht zurückzukehren.
 
 Dies wurde bei der Massenbearbeitung über eine Projektliste oder einen Projektbericht gemeldet.
 

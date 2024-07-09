@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
 source-wordcount: '937'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Startseite: Elemente können nicht von geöffnet werden [!UICONTROL Startseitenkalender] oder [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | Dienstag, 8. Juli 2024 |
 | [Benachrichtigungen: In E-Mail-Benachrichtigungen nicht sichtbare Miniaturen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
 | [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Dienstag, 8. Juli 2024 |
-| [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md) | Samstag, 28. Juni 2024 |
+| [Abrechnungseinträge: Schaltfläche „Weitere Abrechnungseinträge hinzufügen“ fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md) | Samstag, 28. Juni 2024 |
 | [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
 | [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | Freitag, 27. Juni 2024 |

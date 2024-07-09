@@ -24,7 +24,7 @@ ht-degree: 96%
       + [Portfolio: Benutzer kann Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: Benutzerdefinierte Terminologie wird nicht angewendet](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [Zeit: Der gefilterte Stundentyp ist bei der Protokollierung nicht der Standardtyp.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
-      + [Datensätze abrechnen: Schaltfläche zum Hinzufügen weiterer Rechnungsdatensätze fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md)
+      + [Abrechnungseinträge: Schaltfläche „Weitere Abrechnungseinträge hinzufügen“ fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Dokumente: Die Anzahl der Dokumente ist nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)

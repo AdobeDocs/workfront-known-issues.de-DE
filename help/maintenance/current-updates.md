@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4096'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 #### Pinnwände
 
-**Nur Pinnwandbesitzer können Konfigurationsfilter aktualisieren**
+**Nur Pinnwandbesitzende können Konfigurationsfilter aktualisieren**
 
-Aus Sicherheitsgründen kann nur der Inhaber einer Pinnwand die Pinnwandfilter im Fenster &quot;Konfigurieren&quot;ändern.
+Aus Sicherheitsgründen können nur Pinnwandbesitzende die Pinnwandfilter im Panel „Konfigurieren“ ändern.
 
 #### Berichte
 

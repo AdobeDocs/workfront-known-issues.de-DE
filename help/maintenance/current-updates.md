@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: ht
-source-wordcount: '4096'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '4346'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,56 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 >Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
+
+## Updates im Juli 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 11. Juli 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 11. Juli 2024
+
+#### Probleme
+
+**Fehler bei der erweiterten Zuweisung zu einem Problem**
+
+Wenn ein Benutzer versucht, in Workfront einem Problem eine erweiterte Zuweisung vorzunehmen, wird das Problem nicht zugewiesen und der Benutzer erhält die folgende Fehlermeldung:
+
+&quot;[!UICONTROL APIModel INTERNAL unterstützt keine Felddauer (OpTask)]&quot;
+
+#### Berichte
+
+**Bowlingfehler beim Festlegen von Matrixeinstellungen für den Bericht &quot;Stunde&quot;**
+
+Wenn ein Benutzer versucht, die Matrixeinstellungen für einen Stunden-Bericht festzulegen, kann er die Einstellungen nicht festlegen, und ihm wird der folgende Fehler angezeigt:
+
+* „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+
++++
+
++++**Wartungs-Update vom Freitag, 4. Juli 2024**
+
+### Wartungs-Update am 4. Juli 2024
+
+#### Startseite
+
+**Drei Punkte Menü ineffektiv**
+
+Wenn ein Benutzer auf das Menü mit den drei Punkten &quot;Mehr&quot;in der veralteten Startseite-Arbeitsliste klickt, wird keine Aktion ausgelöst.
+
+#### Berichte
+
+**&quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist**
+
+Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich (/) oder einen umgekehrten Schrägstrich (\) im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
+
+#### Aufgaben
+
+**Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist**
+
+Wenn einer Aufgabe ein Aufgabengebiet zugewiesen ist und diese Aufgabe einer Benutzerin oder einem Benutzer mit diesem Aufgabengebiet zugewiesen wird, verschwindet das Aufgabengebiet nicht aus der Zuweisungsliste.
+
+
++++
 
 ## Updates im Juni 2024
 

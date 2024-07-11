@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 92%
+source-wordcount: '912'
+ht-degree: 93%
 
 ---
 
@@ -51,7 +51,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 |----------------------------------| ----------------- |
 | [Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md) | Donnerstag, 10. Juli 2024 |
 | [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 9. Juli 2024 |
-| [Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem](known-issues-workfront/wf-issues-error-when-making-assignment.md) | Dienstag, 8. Juli 2024 |
 | [Portfolio: Benutzer kann Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | Dienstag, 8. Juli 2024 |
 | [Workfront: Benutzerdefinierte Terminologie wird nicht angewendet](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | Dienstag, 8. Juli 2024 |
 | [Zeit: Der gefilterte Stundentyp ist bei der Protokollierung nicht der Standardtyp.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | Dienstag, 8. Juli 2024 |

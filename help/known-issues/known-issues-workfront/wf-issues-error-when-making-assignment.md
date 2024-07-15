@@ -3,19 +3,15 @@ title: "Probleme: Fehler beim Ausführen einer erweiterten Zuweisung zu einem Pr
 description: "Wenn ein Benutzer versucht, in Workfront einem Problem eine erweiterte Zuweisung vorzunehmen, wird das Problem nicht zugewiesen und dem Benutzer wird eine Fehlermeldung angezeigt."
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 4%
 
 ---
 
 
 # Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem
-
->[!NOTE]
->
->Dieses Problem wurde am Freitag, 11. Juli 2024 behoben.
 
 Wenn ein Benutzer versucht, in Workfront einem Problem eine erweiterte Zuweisung vorzunehmen, wird das Problem nicht zugewiesen und der Benutzer erhält die folgende Fehlermeldung:
 

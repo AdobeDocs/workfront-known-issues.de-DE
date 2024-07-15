@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1837'
 ht-degree: 95%
 
 ---
@@ -17,10 +17,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Ansicht für Dokumentliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agil: Das Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: Testsendungen können nicht geöffnet werden](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [Startseite: Elemente können nicht von geöffnet werden [!UICONTROL Startseitenkalender] oder [!UICONTROL Arbeitsliste]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Startseite: Elemente aus [!UICONTROL Home Calendar] oder [!UICONTROL Work List] können nicht geöffnet werden.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Benachrichtigungen: In E-Mail-Benachrichtigungen nicht sichtbare Miniaturen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem](known-issues-workfront/wf-issues-error-when-making-assignment.md)

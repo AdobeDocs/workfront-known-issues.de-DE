@@ -1,19 +1,19 @@
 ---
-title: "Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen nicht sichtbar"
-description: "Wenn ein User ein E-Mail-Benachrichtigung bezüglich einer Dokument Genehmigung anzeigt, ist die Dokument Miniaturansicht in der E-Mail nicht sichtbar."
+title: "Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar"
+description: "Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigen, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt."
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Benachrichtigungen: In E-Mail-Benachrichtigungen werden keine Miniaturansichten angezeigt
+# Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar
 
-Wenn ein User ein E-Mail-Benachrichtigung zu einer Dokument Genehmigung anzeigt, ist die Dokument Miniaturansicht in der E-Mail nicht sichtbar.
+Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigen, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt.
 
 Dies wurde in Gmail gemeldet.
 

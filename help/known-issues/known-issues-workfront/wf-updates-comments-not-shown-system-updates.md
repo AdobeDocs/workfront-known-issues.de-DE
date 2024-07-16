@@ -1,15 +1,15 @@
 ---
-title: '„Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt“'
-description: „Wenn eine Benutzerin bzw. ein Benutzer einen Kommentar zu einer Systemaktion (z. B. einer Statusänderung) abgibt, wird dieser Kommentar nicht im Bereich „Aktualisierungen“ angezeigt. „
+title: 'Updates: Kommentare, die an Systemaktualisierungen angehängt sind, werden nicht angezeigt.'
+description: 'Wenn ein Benutzer einen Kommentar zu einer Systemaktion abgibt (z. B. Statusänderung), wird dieser Kommentar nicht im Bereich Updates angezeigt. '
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: ht
+exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # Aktualisierungen: Kommentare zu Systemaktualisierungen werden nicht angezeigt
 

@@ -1,15 +1,15 @@
 ---
-title: '„Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden“'
-description: „Diese Aktionen stehen Gruppenadmins nicht zur Verfügung.“
+title: "Teams: Team-Eigentümer kann nicht angezeigt oder Team gelöscht werden"
+description: Diese Aktionen stehen Gruppenadministratoren nicht zur Verfügung.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: ht
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden
 
@@ -25,4 +25,3 @@ Die folgenden Aktionen stehen Gruppenadmins nicht zur Verfügung
 Dies geschieht selbst dann, wenn die Gruppenadmins über alle Berechtigungen für Teams und Benutzende verfügen.
 
 _Erste Meldung am Samstag, 15. März 2024._
-

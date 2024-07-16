@@ -1,15 +1,15 @@
 ---
-title: "Workfront Proof: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden"
-description: "Beim Versuch, die Assets, die zu einem Korrekturabzug kombiniert werden, in Workfront Proof neu anzuordnen, können die Dateien nicht gezogen werden und die Reihenfolge der Dateien bleibt unverändert."
+title: "Workfront Proof: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden"
+description: Wenn ein Benutzer in Workfront Proof versucht, die Assets, die zu einem Testversand kombiniert werden, neu anzuordnen, kann er die Dateien nicht ziehen und die Reihenfolge der Dateien bleibt unverändert.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
+exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
-
 
 # [!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden
 

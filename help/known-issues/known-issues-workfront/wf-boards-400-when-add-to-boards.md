@@ -1,15 +1,15 @@
 ---
-title: '„Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand“'
-description: „Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.“
+title: 'Foren: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand'
+description: Wenn Benutzende ein Projekt anzeigen und versuchen, einer Pinnwand eine Aufgabe hinzuzufügen, wird die Aufgabe nicht hinzugefügt und ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8bd8815c-d9e0-4258-8093-afb5283951e4
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # Pinnwände: 400-Fehler beim Hinzufügen einer Aufgabe zu einer Pinnwand
 

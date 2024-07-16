@@ -15,6 +15,6 @@ ht-degree: 5%
 
 Wenn ein Benutzer versucht, eine Benutzerprofilseite anzuzeigen, wird die Seite scheinbar geladen, aber nicht vollständig geladen.
 
-Dies wurde bei Verwendung der Variablen [!UICONTROL Anmelden als] Funktion.
+Dies wurde bei Verwendung der Funktion [!UICONTROL Anmelden als] gemeldet.
 
 _Erste Meldung am Dienstag, 8. Juli 2024._

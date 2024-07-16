@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4344'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,21 +22,60 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 ## Updates im Juli 2024
 
+
+
++++**(Geplantes) Wartungs-Update am Freitag, 18. Juli 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 18. Juli 2024
+
+#### Agile
+
+**Die Meldungsfläche wird beim Hinzufügen einer Unteraufgabe leer gelassen**
+
+Wenn ein Benutzer versucht, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, wird der Bildschirm leer angezeigt und der Benutzer kann die Unteraufgabe nicht hinzufügen.
+
+#### Startseite
+
+**Elemente aus [!UICONTROL Home Calendar] oder [!UICONTROL Work List]** können nicht geöffnet werden
+
+Wenn Benutzende versuchen, ein Arbeitselement oder einen Korrekturabzug über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Arbeitsliste der Startseite] zu öffnen, wird das Element nicht geöffnet.
+
+#### Korrekturabzüge
+
+**Das Schließen eines Testversands führt zur Seite &quot;Produktdokumente&quot;**
+
+Wenn Benutzende einen Korrekturabzug anzeigen und diesen schließen, werden sie auf die Seite mit den Projektdokumenten geleitet, anstatt auf die Seite, von der aus der Korrekturabzug geöffnet wurde.
+
+#### Workfront
+
+**Benutzerdefinierte Terminologie wird nicht angewendet**
+
+Die benutzerdefinierte Terminologie, die in der Layout-Vorlage festgelegt wurde, wird in einigen Bereichen von Workfront nicht angezeigt. Stattdessen wird die nicht benutzerdefinierte Standardterminologie angezeigt.
+
+Dies wurde in den folgenden Bereichen gemeldet:
+
+* Menüregisterkarten
+* Seitenkopfzeilen
+* Beschreibungen der aufgelisteten Projekte
+
+
++++
+
 +++**Wartungs-Update vom Freitag, 11. Juli 2024**
 
 ### Wartungs-Update am 11. Juli 2024
 
 #### Probleme
 
-**Fehler bei der erweiterten Zuweisung zu einem Problem**
+**Fehler beim Ausführen einer erweiterten Zuweisung zu einem Problem**
 
-Wenn ein Benutzer versucht, in Workfront einem Problem eine erweiterte Zuweisung vorzunehmen, wird das Problem nicht zugewiesen und der Benutzer erhält die folgende Fehlermeldung:
+Wenn Benutzende versuchen, in Workfront eine erweiterte Zuweisung für ein Problem vorzunehmen, wird das Problem nicht zugewiesen und die Person erhält die folgende Fehlermeldung:
 
-&quot;[!UICONTROL APIModel INTERNAL unterstützt keine Felddauer (OpTask)]&quot;
+„[!UICONTROL APIModel INTERNAL unterstützt keine Felddauer (OpTask)]“
 
 #### Berichte
 
-**Bowlingfehler beim Festlegen von Matrixeinstellungen für den Bericht &quot;Stunde&quot;**
+**Hopfenfehler beim Festlegen von Matrixeinstellungen für den Bericht &quot;Stunde&quot;**
 
 Wenn ein Benutzer versucht, die Matrixeinstellungen für einen Stunden-Bericht festzulegen, kann er die Einstellungen nicht festlegen, und ihm wird der folgende Fehler angezeigt:
 
@@ -51,19 +90,19 @@ Wenn ein Benutzer versucht, die Matrixeinstellungen für einen Stunden-Bericht f
 
 #### Startseite
 
-**Drei Punkte Menü ineffektiv**
+**Das Menü mit drei Punkten ist ineffektiv**
 
 Wenn ein Benutzer auf das Menü mit den drei Punkten &quot;Mehr&quot;in der veralteten Startseite-Arbeitsliste klickt, wird keine Aktion ausgelöst.
 
 #### Berichte
 
-**&quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist**
+**&quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder umgekehrten Schrägstrich hat**
 
 Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich (/) oder einen umgekehrten Schrägstrich (\) im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
 
 #### Aufgaben
 
-**Die Rolle &quot;Auftrag&quot;wird nicht aus der Liste entfernt, wenn der Benutzer der Aufgabe zugewiesen ist**
+**Die Auftragsrolle wird nicht aus der Liste ausgeblendet, wenn der Benutzer Aufgabe zugewiesen ist**
 
 Wenn einer Aufgabe ein Aufgabengebiet zugewiesen ist und diese Aufgabe einer Benutzerin oder einem Benutzer mit diesem Aufgabengebiet zugewiesen wird, verschwindet das Aufgabengebiet nicht aus der Zuweisungsliste.
 

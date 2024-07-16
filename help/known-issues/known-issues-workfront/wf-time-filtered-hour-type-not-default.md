@@ -1,33 +1,33 @@
 ---
-title: "Zeit: Gefilterter Stundentyp ist bei der Protokollierung nicht der Standardtyp."
-description: '"Wenn ein Benutzer die Zeit protokolliert, ist der vorab ausgewählte Stundentyp "Task Time"anstelle des gefilterten Stundentyps für dieses Projekt."'
+title: "Zeit: Der Stundentyp „Gefiltert“ ist bei der Protokollierung nicht der Standardtyp"
+description: "Wenn Benutzende die Zeit protokollieren, ist der vorab ausgewählte Stundentyp für das Projekt „Aufgabenzeit“ anstelle von „Gefiltert“."
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 
-# Zeit: Der gefilterte Stundentyp ist bei der Protokollierung nicht der Standardtyp.
+# Zeit: Der Stundentyp „Gefiltert“ ist bei der Protokollierung nicht der Standardtyp
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Mittwoch, 9. Juli 2024 behoben.
 
-Wenn ein Benutzer die Zeit protokolliert, ist der vorab ausgewählte Stundentyp &quot;[!UICONTROL Task time]&quot; anstelle des gefilterten Stundentyps für dieses Projekt.
+&quot;Wenn Benutzende die Zeit protokollieren, ist der vorab ausgewählte Stundentyp für das Projekt „[!UICONTROL Aufgabenzeit]“ anstelle von „Gefiltert“.&quot;
 
-Der Benutzer kann den richtigen Stundentyp aus der Dropdown-Liste &quot;Stündentyp&quot;auswählen. Dies ist jedoch ein zusätzlicher Schritt.
+Die Benutzenden können den richtigen Stundentyp aus der Dropdown-Liste „Stundentyp“ auswählen. Dies ist jedoch ein zusätzlicher Schritt.
 
 Dies wurde in den folgenden Bereichen gemeldet:
 
-* Protokollierungszeit im Bereich &quot;Updates&quot;
-* Protokollieren der Zeit über ein Widget auf der Startseite
+* Protokollieren von Zeit über den Bereich „Updates“
+* Protokollieren von Zeit über ein Widget auf der Startseite
 
 **Problemumgehung**
 
-Der Benutzer kann den richtigen Stundentyp aus der Dropdown-Liste &quot;Stündentyp&quot;auswählen.
+Die Benutzenden können den richtigen Stundentyp aus der Dropdown-Liste „Stundentyp“ auswählen.
 
 _Erste Meldung am 31. Mai 2024._

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '888'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Agile: Das Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | Donnerstag, 10. Juli 2024 |
-| [Home: Elemente aus [!UICONTROL Home Calendar] oder [!UICONTROL Work List]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) können nicht geöffnet werden. | Dienstag, 8. Juli 2024 |
-| [Benachrichtigungen: Miniaturansichten sind in E-Mail-Benachrichtigungen nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
-| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) gelöscht | Dienstag, 8. Juli 2024 |
+| [Startseite: Elemente können nicht über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Auftragsliste]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) geöffnet werden | Dienstag, 8. Juli 2024 |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
+| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Dienstag, 8. Juli 2024 |
 | [Abrechnungseinträge: Schaltfläche „Weitere Abrechnungseinträge hinzufügen“ fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md) | Samstag, 28. Juni 2024 |
 | [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
@@ -52,7 +52,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Ansicht für Dokumentliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |
 | [Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md) | Donnerstag, 10. Juli 2024 |
 | [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 9. Juli 2024 |
-| [Portfolio: Benutzer kann Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | Dienstag, 8. Juli 2024 |
+| [Portfolio: Benutzende können das Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | Dienstag, 8. Juli 2024 |
 | [Workfront: Benutzerdefinierte Terminologie wird nicht angewendet](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | Dienstag, 8. Juli 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11. April 2024 |
 | [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4. April 2024 |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [Agil: Das Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: Testsendungen können nicht geöffnet werden](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [Startseite: Elemente aus [!UICONTROL Home Calendar] oder [!UICONTROL Work List] können nicht geöffnet werden.](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
-      + [Benachrichtigungen: In E-Mail-Benachrichtigungen nicht sichtbare Miniaturen](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Startseite: Elemente können nicht über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Auftragsliste] geöffnet werden](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio: Benutzer kann Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Portfolio: Benutzende können das Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: Benutzerdefinierte Terminologie wird nicht angewendet](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [Zeit: Der gefilterte Stundentyp ist bei der Protokollierung nicht der Standardtyp.](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [Zeit: Der Stundentyp „Gefiltert“ ist bei der Protokollierung nicht der Standardtyp](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Abrechnungseinträge: Schaltfläche „Weitere Abrechnungseinträge hinzufügen“ fehlt](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Dokumente: Die Anzahl der Dokumente ist nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Projekte: Fehler bei der Massenbearbeitung von Projekten](known-issues-workfront/wf-projects-error-when-bulk-editing.md)

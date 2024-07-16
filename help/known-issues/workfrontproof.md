@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '467'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,8 +26,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile: Testsendungen können nicht geöffnet werden](known-issues-workfront/wf-mobile-proofs-not-open.md) | Mittwoch, 9. Juli 2024 |
-| [Benachrichtigungen: Miniaturansichten sind in E-Mail-Benachrichtigungen nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
-| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) gelöscht | Dienstag, 8. Juli 2024 |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
+| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Dienstag, 8. Juli 2024 |
 | [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 | [Korrekturabzüge: Korrekturabzüge: Nach dem Schließen eines Korrekturabzugs wird die Seite „Produktdokumente“ angezeigt](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |

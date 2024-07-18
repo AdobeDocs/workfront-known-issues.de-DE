@@ -3,15 +3,19 @@ title: "Workfront: Benutzerdefinierte Terminologie wird nicht angewendet"
 description: '"Die benutzerdefinierte Terminologie, die in der Layout-Vorlage festgelegt wurde, wird in einigen Bereichen von Workfront nicht angezeigt. Stattdessen wird die nicht benutzerdefinierte Standardterminologie angezeigt. „'
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
 # Workfront: Benutzerdefinierte Terminologie wird nicht angewendet
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 18. Juli 2024 behoben
 
 Die benutzerdefinierte Terminologie, die in der Layout-Vorlage festgelegt wurde, wird in einigen Bereichen von Workfront nicht angezeigt. Stattdessen wird die nicht benutzerdefinierte Standardterminologie angezeigt.
 

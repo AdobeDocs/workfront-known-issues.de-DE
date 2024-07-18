@@ -4,20 +4,18 @@ description: Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korr
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 # Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
--->
+>Dieses Problem wurde am Freitag, 18. Juli 2024 behoben.
 
 Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
 

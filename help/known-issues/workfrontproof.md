@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '451'
 ht-degree: 97%
 
 ---
@@ -30,7 +30,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Dienstag, 8. Juli 2024 |
 | [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
-| [Korrekturabzüge: Korrekturabzüge: Nach dem Schließen eines Korrekturabzugs wird die Seite „Produktdokumente“ angezeigt](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | Dienstag, 24. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
 | [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22. April 2024 |
@@ -45,7 +44,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | -----------------------------------------------------------------| ----------------- |
 | [Ansicht für Dokumentliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |
 | [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5. Juni 2024 |
-| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5. Juni 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8. Mai 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22. März 2024 |
 | [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 
 
-+++**(Geplantes) Wartungs-Update am Freitag, 18. Juli 2024**
++++**Wartungs-Update vom Freitag, 18. Juli 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 18. Juli 2024
+### Wartungs-Update am 18. Juli 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ Wenn ein Benutzer versucht, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen
 **Elemente aus [!UICONTROL Home Calendar] oder [!UICONTROL Work List]** können nicht geöffnet werden
 
 Wenn Benutzende versuchen, ein Arbeitselement oder einen Korrekturabzug über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Arbeitsliste der Startseite] zu öffnen, wird das Element nicht geöffnet.
+
+**Die eigene Startseite des Administrators wird angezeigt, wenn er als anderer Benutzer angemeldet ist**
+
+Wenn ein Administrator als ein anderer Benutzer angemeldet ist und die Startseite dieses Benutzers anzeigt, wird die eigene Startseite des Administrators angezeigt.
 
 #### Korrekturabzüge
 

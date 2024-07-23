@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 96%
+source-wordcount: '861'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23. Juli 2024 |
 | [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md) | Freitag, 18. Juli 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 18. Juli 2024 |
 | [Testsendungen: Genehmigte Testsendungen werden in Berichten angezeigt](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | Freitag, 18. Juli 2024 |

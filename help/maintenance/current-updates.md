@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4535'
-ht-degree: 95%
+source-wordcount: '4620'
+ht-degree: 94%
 
 ---
 
@@ -23,6 +23,28 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 ## Updates im Juli 2024
 
 
+
++++**Wartungs-Update vom Freitag, 18. Juli 2024**
+
+### Wartungs-Update am 18. Juli 2024
+
+#### Benutzerdefinierte Formulare
+
+**Dropdown-Liste wird geschlossen, wenn mehrere Werte ausgewählt werden**
+
+Wenn ein Benutzer versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird die Dropdown-Liste geschlossen, nachdem der erste Wert ausgewählt wurde.
+
+Dies tritt auf, wenn das Feld mit der Anzeigenlogik im benutzerdefinierten Formular verknüpft ist.
+
+#### Benachrichtigungen
+
+**In E-Mail-Benachrichtigungen nicht sichtbare Miniaturansichten**
+
+Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigen, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt.
+
+Dies wurde in Gmail gemeldet.
+
++++
 
 +++**Wartungs-Update vom Freitag, 18. Juli 2024**
 

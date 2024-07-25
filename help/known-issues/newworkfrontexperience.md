@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '857'
 ht-degree: 92%
 
 ---
@@ -27,12 +27,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | -----------------------------------------------------------------| ----------------- |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |
 | [Melden Sie sich an als: Startseite und Pins werden beim Abmelden von &quot;Anmelden als&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md) falsch angezeigt. | Freitag, 25. Juli 2024 |
-| [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23. Juli 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 18. Juli 2024 |
-| [Dokumente: Die Anzahl der Dokumente nicht korrekt](known-issues-workfront/wf-documents-count-only-root-folder.md) | Samstag, 28. Juni 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
-| [Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | Dienstag, 24. Juni 2024 |
 | [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt | Samstag, 21. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
 | [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
@@ -46,6 +43,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25. Juli 2024 |
 | [Aktualisierungen: Benutzer werden nicht über gezielte Aktualisierungen informiert](known-issues-workfront/wf-updates-users-not-getting-email.md) | Freitag, 25. Juli 2024 |
 | [Aufgaben: Aufgaben fehlen geerbte Berechtigungen](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | Freitag, 25. Juli 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |

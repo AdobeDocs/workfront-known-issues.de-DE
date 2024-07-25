@@ -1,17 +1,21 @@
 ---
-title: "Portfolio: Benutzende können das Portfolio nicht festlegen"
-description: "Benutzende können die Portfolios für ein Projekt nicht ändern, wenn sie keinen Zugriff auf das Portfolio haben."
+title: '"Portfolio: Benutzer kann Portfolio nicht festlegen'
+description: Benutzende können die Portfolios für ein Projekt nicht ändern, wenn sie keinen Zugriff auf das Portfolio haben.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # Portfolio: Benutzende können das Portfolio nicht festlegen
+
+>[!NOTE]
+>
+>Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
 Benutzende können die Portfolios für ein Projekt nicht ändern, wenn sie keinen Zugriff auf das Portfolio haben.
 

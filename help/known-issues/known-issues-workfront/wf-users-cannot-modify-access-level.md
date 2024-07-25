@@ -4,21 +4,19 @@ description: Wenn Gruppenadmins versuchen, die Zugriffsebene eines Mitglieds der
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden
 
-
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 6, 2024.
--->
+>Dieses Problem wurde am 6. Juni 2024 behoben.
+
 
 Wenn Gruppenadmins versuchen, die Zugriffsebene eines Mitglieds der Gruppe zu ändern, ist das Feld für die Zugriffsebene deaktiviert und Gruppenadmins können die Zugriffsebene der Person nicht ändern.
 

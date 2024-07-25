@@ -3,7 +3,7 @@ title: "Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien ge�
 description: '"Wenn ein Benutzer einen Testversand öffnet, werden zwei Browser-Registerkarten mit demselben Testversand geöffnet. „'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Wenn ein Benutzer einen Testversand öffnet, werden zwei Browser-Registerkarten mit demselben Testversand geöffnet.
 
-Dies wurde bei Verwendung von Unified Shell berichtet
+Dies wurde bei Verwendung von Unified Shell berichtet.
 
 **Problemumgehung**
 

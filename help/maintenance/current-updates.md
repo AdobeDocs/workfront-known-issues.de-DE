@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
 source-wordcount: '4620'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 +++**Wartungs-Update vom Freitag, 25. Juli 2024**
 
-### Wartungs-Update am 25. Juli 2024
+### Wartungs-Update vom Freitag, 25. Juli 2024
 
 #### Benutzerdefinierte Formulare
 
@@ -48,13 +48,13 @@ Dies wurde in Gmail gemeldet.
 
 +++**Wartungs-Update vom Freitag, 18. Juli 2024**
 
-### Wartungs-Update am 18. Juli 2024
+### Wartungs-Update vom Freitag, 18. Juli 2024
 
 #### Agile
 
 **Die Meldungsfläche wird beim Hinzufügen einer Unteraufgabe leer gelassen**
 
-Wenn ein Benutzer versucht, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, wird der Bildschirm leer angezeigt und der Benutzer kann die Unteraufgabe nicht hinzufügen.
+Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, bleibt der Bildschirm leer und die Unteraufgabe lässt sich nicht hinzufügen.
 
 #### Startseite
 
@@ -89,11 +89,11 @@ Dies wurde in den folgenden Bereichen gemeldet:
 
 +++**Wartungs-Update vom Freitag, 11. Juli 2024**
 
-### Wartungs-Update am 11. Juli 2024
+### Wartungs-Update vom 11. Juli 2024
 
 #### Probleme
 
-**Fehler beim Ausführen einer erweiterten Zuweisung zu einem Problem**
+**Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem**
 
 Wenn Benutzende versuchen, in Workfront eine erweiterte Zuweisung für ein Problem vorzunehmen, wird das Problem nicht zugewiesen und die Person erhält die folgende Fehlermeldung:
 
@@ -101,9 +101,9 @@ Wenn Benutzende versuchen, in Workfront eine erweiterte Zuweisung für ein Probl
 
 #### Berichte
 
-**Hopfenfehler beim Festlegen von Matrixeinstellungen für den Bericht &quot;Stunde&quot;**
+**Fehler „Hoppla“ beim Festlegen von Matrixeinstellungen für den Stundenbericht**
 
-Wenn ein Benutzer versucht, die Matrixeinstellungen für einen Stunden-Bericht festzulegen, kann er die Einstellungen nicht festlegen, und ihm wird der folgende Fehler angezeigt:
+Beim Versuch, die Matrixeinstellungen für einen Stundenbericht festzulegen, lassen sich die Einstellungen nicht festlegen. Folgende Fehlermeldung wird angezeigt:
 
 * „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
@@ -112,23 +112,23 @@ Wenn ein Benutzer versucht, die Matrixeinstellungen für einen Stunden-Bericht f
 
 +++**Wartungs-Update vom Freitag, 4. Juli 2024**
 
-### Wartungs-Update am 4. Juli 2024
+### Wartungs-Update vom 4. Juli 2024
 
 #### Startseite
 
-**Das Menü mit drei Punkten ist ineffektiv**
+**Das Menü mit den drei Punkten ist ineffektiv**
 
-Wenn ein Benutzer auf das Menü mit den drei Punkten &quot;Mehr&quot;in der veralteten Startseite-Arbeitsliste klickt, wird keine Aktion ausgelöst.
+Wenn Benutzende auf das Menü „Mehr“ mit den drei Punkten in der veralteten Startseite-Arbeitsliste klicken, wird keine Aktion ausgelöst.
 
 #### Berichte
 
-**&quot;Keine anzuzeigenden Daten&quot;, wenn der Gruppierungsname einen Schrägstrich oder umgekehrten Schrägstrich hat**
+**„Keine Daten zum Anzeigen vorhanden“, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist**
 
 Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich (/) oder einen umgekehrten Schrägstrich (\) im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
 
 #### Aufgaben
 
-**Die Auftragsrolle wird nicht aus der Liste ausgeblendet, wenn der Benutzer Aufgabe zugewiesen ist**
+**Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen wird**
 
 Wenn einer Aufgabe ein Aufgabengebiet zugewiesen ist und diese Aufgabe einer Benutzerin oder einem Benutzer mit diesem Aufgabengebiet zugewiesen wird, verschwindet das Aufgabengebiet nicht aus der Zuweisungsliste.
 

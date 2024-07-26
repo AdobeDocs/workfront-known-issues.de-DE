@@ -1,26 +1,26 @@
 ---
-title: '"Agile: Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen'
-description: "Wenn ein Benutzer versucht, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, wird der Bildschirm leer angezeigt und der Benutzer kann die Unteraufgabe nicht hinzufügen."
+title: '''Agile: Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen'
+description: Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, bleibt der Bildschirm leer und die Unteraufgabe lässt sich nicht hinzufügen.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 11%
+ht-degree: 90%
 
 ---
 
-
-# Agil: Das Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen
+# Agil: Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 18. Juli 2024 behoben.
 
-Wenn ein Benutzer versucht, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, wird der Bildschirm leer angezeigt und der Benutzer kann die Unteraufgabe nicht hinzufügen.
+Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, bleibt der Bildschirm leer und die Unteraufgabe lässt sich nicht hinzufügen.
 
 **Problemumgehung**
 
-Aktualisieren Sie die Seite, deaktivieren Sie den Filter und fügen Sie die Unteraufgabe hinzu.
+Aktualisieren Sie die Seite, deaktivieren Sie den Filter und fügen Sie dann die Unteraufgabe hinzu.
 
 _Erste Meldung am Dienstag, 8. Juli 2024._

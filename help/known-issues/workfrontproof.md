@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
 source-wordcount: '437'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
-| [Ansicht für Dokumentliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |
+| [Ansicht für Dokumentenliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |
 | [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5. Juni 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8. Mai 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22. März 2024 |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 94%
       + [Benutzerdefinierte Formulare: Dropdown-Liste wird geschlossen, wenn mehrere Werte ausgewählt werden](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [Testsendungen: Die bestätigten Testsendungen werden in Berichten angezeigt](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
-      + [Ansicht für Dokumentliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [Agil: Das Meldungsbrett wird beim Hinzufügen einer Unteraufgabe leer gelassen](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md)
-      + [Workfront Mobile: Testsendungen können nicht geöffnet werden](known-issues-workfront/wf-mobile-proofs-not-open.md)
+      + [Ansicht für Dokumentenliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md)
+      + [Agil: Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Benutzende: Die Profilseite einer Benutzerin oder eines Benutzers wird kontinuierlich geladen](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Workfront Mobile: Korrekturabzüge können nicht geöffnet werden](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Startseite: Elemente können nicht über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Auftragsliste] geöffnet werden](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

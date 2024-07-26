@@ -1,23 +1,23 @@
 ---
 title: "Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen."
-description: "Wenn ein Benutzer versucht, eine Benutzerprofilseite anzuzeigen, wird die Seite scheinbar geladen, aber nicht vollständig geladen."
+description: Beim Versuch, eine Benutzerprofilseite anzuzeigen, scheint die Seite zu laden, sie wird aber nicht vollständig geladen.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+exl-id: fd7787f4-e446-4cf5-843c-deb2d1468975
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 13%
+ht-degree: 92%
 
 ---
 
-
-# Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen
+# Benutzende: Die Profilseite einer Benutzerin oder eines Benutzers wird kontinuierlich geladen
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 18. Juli 2024 behoben.
 
-Wenn ein Benutzer versucht, eine Benutzerprofilseite anzuzeigen, wird die Seite scheinbar geladen, aber nicht vollständig geladen.
+Beim Versuch, eine Benutzerprofilseite anzuzeigen, scheint die Seite zu laden, sie wird aber nicht vollständig geladen.
 
 Dies wurde bei Verwendung der Funktion [!UICONTROL Anmelden als] gemeldet.
 

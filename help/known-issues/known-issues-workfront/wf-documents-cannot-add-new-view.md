@@ -1,17 +1,17 @@
 ---
-title: "Ansicht für Dokumentenliste kann nicht erstellt werden"
-description: '"Wenn Benutzende versuchen, eine neue Ansicht einer Dokumentenliste zu erstellen, wird der Bildschirm leer und die Ansicht lässt sich nicht erstellen. „'
+title: Ansicht für Dokumentenliste kann nicht erstellt werden
+description: 'Wenn ein Benutzer versucht, eine neue Ansicht auf einer Liste mit Dokumenten zu erstellen, wird der Bildschirm leer gelassen und der Benutzer kann die Ansicht nicht erstellen. '
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 63%
 
 ---
 
-
-# Ansicht für Dokumentenliste kann nicht erstellt werden
+# Dokumente: Ansicht für Dokumentliste kann nicht erstellt werden
 
 Wenn Benutzende versuchen, eine neue Ansicht einer Dokumentenliste zu erstellen, wird der Bildschirm leer und die Ansicht lässt sich nicht erstellen.
 

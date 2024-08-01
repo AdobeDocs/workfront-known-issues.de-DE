@@ -4,21 +4,19 @@ description: Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe h
 hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
-source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
+source-git-commit: 99647a699d8a32726302cba80385cd0dcd5497ff
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 89%
+source-wordcount: '95'
+ht-degree: 90%
 
 ---
 
 # Agil: Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on July 18, 2024.
--->
+>Dieses Problem wurde am Freitag, 1. August 2024 behoben.
 
 Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, bleibt der Bildschirm leer und die Unteraufgabe lässt sich nicht hinzufügen.
 

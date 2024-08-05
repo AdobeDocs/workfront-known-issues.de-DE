@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 95%
+source-wordcount: '924'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Dienstag, 5. August 2024 |
+| [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Dienstag, 5. August 2024 |
+| [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23. Juli 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 18. Juli 2024 |
@@ -42,6 +45,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25. Juli 2024 |
+| [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |
+| [Berichte: Sendungen mit Berichten sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md) | 5. August 2024 |
+| [Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5. August 2024 |
+| [Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5. August 2024 |
+| [Benutzerdefinierte Formulare: Externes Suchfeld kann nicht gescrollt werden](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5. August 2024 |
+| [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5. August 2024 |
+| [Setup: &quot;Anmelden als&quot;führt zum leeren Bildschirm](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 5. August 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25. Juli 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |
 | [Projekte: Währungssymbol ist beim Exportieren falsch](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | Freitag, 18. Juli 2024 |

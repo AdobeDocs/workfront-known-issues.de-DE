@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1908'
-ht-degree: 96%
+source-wordcount: '1991'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,17 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Berichte: Sendungen mit Berichten sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Aufgaben: Probleme mit der Neuberechnung der Zeitleiste](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Benutzerdefinierte Formulare: Externes Suchfeld kann nicht scrollen](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als authentifiziert werden](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Einrichtung: &quot;Anmelden als&quot;führt zum leeren Bildschirm](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: Zeitüberschreitung bei Anfragen](known-issues-workfront/wf-api-request-timing-out.md)
       + [Updates: Benutzer werden nicht über gezielte Updates benachrichtigt](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [Melden Sie sich als an: Startseite und Pins werden beim Abmelden von &quot;Anmelden als&quot;falsch angezeigt](known-issues-workfront/wf-login-as-displays-when-logged-out.md)

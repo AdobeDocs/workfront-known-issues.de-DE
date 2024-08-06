@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 97%
+source-wordcount: '4858'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,30 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im August 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 8. August 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 8. August 2024
+
+#### Pinnwände
+
+**Karte enthält keine Unteraufgaben**
+
+Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine übergeordnete Aufgabe ist, werden die Unteraufgaben dieser übergeordneten Aufgabe nicht auf der Karte angezeigt. Stattdessen zeigt die Karte an, dass es 0 Unteraufgaben gibt.
+
+### Berichte
+
+**Berichtbereitstellungen sind verzögert oder fehlen**
+
+Berichte mit geplanten Sendungen werden nicht erwartungsgemäß bereitgestellt. Sie können sich verspäten oder gar nicht zugestellt werden.
+
+#### Setup
+
+**&quot;Anmelden als&quot;führt zum leeren Bildschirm**
+
+Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
+
++++
 
 +++**Wartungs-Update vom Freitag, 1. August 2024**
 

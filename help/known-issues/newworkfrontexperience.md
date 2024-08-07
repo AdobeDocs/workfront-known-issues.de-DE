@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
+source-git-commit: ebd60c6433e8ef475d1b93f50790cc7305c4678e
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 86%
+source-wordcount: '934'
+ht-degree: 85%
 
 ---
 
@@ -45,6 +45,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8. August 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25. Juli 2024 |
 | [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |
 | [Berichte: Sendungen mit Berichten sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md) | 5. August 2024 |

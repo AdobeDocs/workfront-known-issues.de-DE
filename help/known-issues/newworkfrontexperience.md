@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
+source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '910'
 ht-degree: 88%
 
 ---
@@ -25,12 +25,10 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Dienstag, 5. August 2024 |
 | [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Dienstag, 5. August 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23. Juli 2024 |
-| [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 18. Juli 2024 |
 | [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 28. Juni 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 | [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt | Samstag, 21. Juni 2024 |
@@ -45,6 +43,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
+| [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 8. August 2024 |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Freitag, 8. August 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Dienstag, 5. August 2024 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8. August 2024 |
 | [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |

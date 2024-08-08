@@ -4,19 +4,18 @@ description: Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine üb
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
-source-git-commit: f594e4f6114d0cef27088ee0ad2d92b793bf2bdc
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Pinnwände: Karte enthält keine Unteraufgaben
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on April 4, 2024.-->
+>Dieses Problem wurde am Freitag, 8. August 2024 behoben.
 
 Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine übergeordnete Aufgabe ist, werden die Unteraufgaben dieser übergeordneten Aufgabe nicht auf der Karte angezeigt. Stattdessen zeigt die Karte an, dass es 0 Unteraufgaben gibt.
 

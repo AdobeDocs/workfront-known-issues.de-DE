@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4856'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,41 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im August 2024
+
++++**Wartungs-Update vom Freitag, 15. August 2024**
+
+### Wartungs-Update am 15. August 2024
+
+#### Pinnwände
+
+**Probleme mit doppelten Karten**
+
+Die folgenden Probleme bezüglich doppelter Karten in Pinnwänden wurden gemeldet:
+
+* Eine Karte wird zweimal angezeigt. Dies kann durch Aktualisieren der Seite behoben werden.
+* Wenn Benutzende eine der duplizierten Karten löschen, werden alle Instanzen dieser duplizierten Karte gelöscht.
+
+#### Benachrichtigungen
+
+**Hopfenfehler beim Festlegen der Benachrichtigungseinstellungen**
+
+Wenn ein Benutzer versucht, die Benachrichtigungseinstellungen anzuzeigen, wird der folgende Fehler angezeigt:
+
+„[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+
+Dies wurde in den folgenden Bereichen gemeldet:
+
+* Benachrichtigungseinstellungen für ein Benutzerprofil
+* Bereich &quot;Ereignisbenachrichtigungen&quot;in der Einrichtung
+
+#### Projekte
+
+**Währungssymbol ist beim Exportieren falsch**
+
+Wenn ein Benutzer ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit dem im Projekt oder im Problem festgelegten Währungssatz überein.
+
+
++++
 
 +++**Wartungs-Update vom Freitag, 8. August 2024**
 

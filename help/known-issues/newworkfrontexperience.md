@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 88%
+source-wordcount: '985'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Donnerstag, 14. August 2024 |
+| [Anforderungen: Benutzer können den Status ändern, obwohl keine Berechtigungen vorliegen](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | Donnerstag, 14. August 2024 |
+| [Pinnwände: Verbindungskarte ist in falscher Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 14. August 2024 |
+| [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
+| [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Donnerstag, 14. August 2024 |
+| [Benutzer: E-Mail-Gebietsschema-Einstellung für Benutzer wird nicht gespeichert](known-issues-workfront/wf-users-email-locale-not-saving.md) | Donnerstag, 14. August 2024 |
 | [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Dienstag, 5. August 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |
@@ -43,6 +49,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Berichte: Es ist nicht möglich, auf einen Bericht im Bereich &quot;Benutzerdefinierte Felder&quot;der Einrichtung zu klicken](known-issues-workfront/wf-reports-cannot-click-on-report.md) | Donnerstag, 14. August 2024 |
+| [Integrationen: Fehler beim Erstellen einer Anforderung von Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | Donnerstag, 14. August 2024 |
 | [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 8. August 2024 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Freitag, 8. August 2024 |

@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
 workflow-type: tm+mt
-source-wordcount: '1991'
-ht-degree: 92%
+source-wordcount: '2058'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: Mehrere Browser-Registerkarten führen zur Abmeldung von Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Berichte: Ein Bericht kann nicht aus dem Bereich Benutzerdefinierte Felder der Einrichtung angeklickt werden](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Pinnwände: Connected card is in falsche column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Benutzer: Die Spracheinstellung E-Mail für Benutzer wird nicht gespeichert](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integrationen: Fehler beim Erstellen einer Anforderung aus Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Berichte: Sendungen mit Berichten sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md)

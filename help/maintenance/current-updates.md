@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
-ht-degree: 95%
+source-wordcount: '5019'
+ht-degree: 94%
 
 ---
 
@@ -53,6 +53,12 @@ Dies wurde in den folgenden Bereichen gemeldet:
 **Währungssymbol ist beim Exportieren falsch**
 
 Wenn ein Benutzer ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit dem im Projekt oder im Problem festgelegten Währungssatz überein.
+
+#### Korrekturabzüge
+
+**Markups für den Testversand sind ungenau**
+
+Testversand-Markups sind auf PDF-Ausdrucken, die per E-Mail von der Funktion &quot;Testdruck&quot;empfangen wurden, falsch ausgerichtet.
 
 
 +++

@@ -3,15 +3,19 @@ title: "Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungse
 description: "Wenn ein Benutzer versucht, die Benachrichtigungseinstellungen anzuzeigen, wird ihm ein Fehler angezeigt."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 37%
+source-wordcount: '86'
+ht-degree: 41%
 
 ---
 
 
 # Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 15. August 2024 behoben.
 
 Wenn ein Benutzer versucht, die Benachrichtigungseinstellungen anzuzeigen, wird der folgende Fehler angezeigt:
 

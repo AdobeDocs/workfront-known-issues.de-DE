@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 89%
+source-wordcount: '2106'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Dokumente: Dokumente mit Vorschau-Link können nicht in der Vorschau angezeigt werden](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [Benutzerdefinierte Formulare: Fehler bei Typkonvertierungen bei benutzerdefinierten Formularen anzeigen](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [Benutzerdefinierte Formulare: Felder auf der Felderlistenseite können nicht bearbeitet werden](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Einrichtung: Probleme beim Abmelden als ein anderer Benutzer](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: Mehrere Browser-Registerkarten führen zur Abmeldung von Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Berichte: Ein Bericht kann nicht aus dem Bereich Benutzerdefinierte Felder der Einrichtung angeklickt werden](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)

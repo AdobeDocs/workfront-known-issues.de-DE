@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 95%
+source-wordcount: '467'
+ht-degree: 94%
 
 ---
 
@@ -40,6 +40,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Dokumente mit Vorschau-Link können nicht in der Vorschau angezeigt werden](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Freitag, 15. August 2024 |
 | [Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5. August 2024 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
 | [Ansicht für Dokumentenliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |

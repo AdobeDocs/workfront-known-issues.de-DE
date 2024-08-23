@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 80%
 
 ---
@@ -29,7 +29,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Dokumente: Testkommentare werden bei Dokumentaktualisierungen nicht angezeigt](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | Donnerstag, 21. August 2024 |
 | [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
 | [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 15. August 2024 |
-| [Anforderungen: Benutzer können den Status ändern, obwohl keine Berechtigungen vorliegen](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | Donnerstag, 14. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
 | [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Donnerstag, 14. August 2024 |
 | [Benutzer: E-Mail-Gebietsschema-Einstellung für Benutzer wird nicht gespeichert](known-issues-workfront/wf-users-email-locale-not-saving.md) | Donnerstag, 14. August 2024 |

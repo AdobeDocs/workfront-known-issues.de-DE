@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 81%
+source-wordcount: '1643'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Benutzer kann nicht reaktiviert werden](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Startseite: &quot;widget.list.view&quot;, erstellt, wenn der Benutzer Spalten im Widget &quot;Home&quot;verschiebt](known-issues-workfront/wf-home-widget-list-view.md)

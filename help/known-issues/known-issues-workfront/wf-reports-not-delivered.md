@@ -3,19 +3,23 @@ title: "Berichte: Berichtbereitstellungen sind verzögert oder fehlen"
 description: "Berichte mit geplanten Sendungen werden nicht erwartungsgemäß bereitgestellt. Sie können sich verspäten oder gar nicht zugestellt werden."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 
 # Berichte: Berichtbereitstellungen sind verzögert oder fehlen
 
+<!--
+
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 8. August 2024 behoben.
+>This issue was fixed on August 8, 2024.
+
+-->
 
 Berichte mit geplanten Sendungen werden nicht erwartungsgemäß bereitgestellt. Sie können sich verspäten oder gar nicht zugestellt werden.
 

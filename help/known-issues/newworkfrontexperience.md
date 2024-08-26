@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1005'
 ht-degree: 80%
 
 ---
@@ -97,7 +97,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |
 | [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25. September 2023 |
 | [[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7. September 2023 |
-| [Korrekturabzüge: Genehmigungsoptionen werden nicht im [!UICONTROL Überprüfungs-Viewer]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) angezeigt | 10. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
 | [[!UICONTROL Setup]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20. Juli 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |

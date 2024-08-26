@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '440'
 ht-degree: 94%
 
 ---
@@ -30,7 +30,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Dienstag, 8. Juli 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 | [Integrationen: Probleme mit der Dropbox-Integration](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | Samstag, 14. Juni 2024 |
-| [Benachrichtigungen: Benachrichtigungen aus der Beta-Version von Dokumentgenehmigungen sind nicht korrekt formatiert](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22. April 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md) | 5. Juni 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8. Mai 2024 |
 | [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22. März 2024 |
-| [Korrekturabzüge: Breadcrumb fehlt beim Zugriff auf den Korrekturabzug über einen E-Mail-Link](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3. November 2023 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [[!DNL Workfront Proof]: Person kann nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt wird](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23. März 2022 |
 | [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL In Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
-| [[!DNL Workfront Proof]: Der automatische Zugriff auf Korrekturabzüge wird verzögert](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14. Juni 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Für den Bericht zu Korrekturabzugs-Genehmigungen] können keine korrekten Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5. März 2021 |
 

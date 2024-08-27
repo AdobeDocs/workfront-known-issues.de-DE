@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1643'
-ht-degree: 80%
+source-wordcount: '1651'
+ht-degree: 79%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: SSO kann nicht verwendet werden](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Benutzer: Benutzer kann nicht reaktiviert werden](known-issues-workfront/wf-users-reactivate-user.md)
       + [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -211,6 +212,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError mit Antwort 200 vom Workfront-Modul](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

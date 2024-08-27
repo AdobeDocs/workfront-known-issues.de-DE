@@ -4,24 +4,27 @@ description: Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgeneh
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 82%
+source-wordcount: '78'
+ht-degree: 47%
 
 ---
 
 # Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar
 
+<!-- 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 29. Juli 2024 behoben.
+>This issue was fixed on July 29, 2024.
+
+-->
 
 >[!IMPORTANT]
 >
 >Miniaturansichten werden in Gmail nicht unterstützt.
 
-Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigen, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt.
+Wenn ein Benutzer eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigt, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt. Stattdessen wird dem Benutzer ein fehlerhaftes Bildsymbol angezeigt.
 
 Dies wurde in Gmail gemeldet.
 

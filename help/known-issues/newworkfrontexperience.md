@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1048'
 ht-degree: 78%
 
 ---
@@ -85,6 +85,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Mittwoch, 27. August 2024 |
 | [Startseite: Das Widget „Meine Probleme“ zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | Freitag, 20. Juni 2024 |
 | [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | Donnerstag, 12. Juni 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7. Juni 2024 |

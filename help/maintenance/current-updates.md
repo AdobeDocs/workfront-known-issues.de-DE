@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '5121'
-ht-degree: 92%
+source-wordcount: '5247'
+ht-degree: 90%
 
 ---
 
@@ -26,9 +26,33 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im August 2024
 
++++**(Geplantes) Wartungs-Update am Freitag, 29. August 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 29. August 2024
+
+#### Benutzerdefinierte Formulare
+
+**Forms verwendet standardmäßig Projektformulare**
+
+Wenn ein Benutzer ein benutzerdefiniertes Formular erstellt und einen Objekttyp für das Formular auswählt, wird der Objekttyp ignoriert und das Formular wird als benutzerdefiniertes Projekt-Formular erstellt.
+
+#### Dokumente
+
+**Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt**
+
+Wenn ein Benutzer versucht, Dokumentdetails durch Klicken auf den Namen des Dokuments in einer Dokumentliste anzuzeigen, wird die Liste ausgeblendet und der Benutzer wird nicht zu den Dokumentdetails weitergeleitet.
+
+#### Startseite
+
+**Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an**
+
+Wenn ein Benutzer sein Widget &quot;Home Pending Approvals&quot;anzeigt, werden ihm Dokumente angezeigt, die gelöscht wurden. Wenn der Benutzer auf eines dieser Dokumente klickt, wird er auf eine leere Seite geleitet.
+
++++
+
 +++**Wartungs-Update vom Freitag, 22. August 2024**
 
-### Wartungs-Update am 22. August,
+### Wartungs-Update am 22. August 2024
 
 #### Berichte
 

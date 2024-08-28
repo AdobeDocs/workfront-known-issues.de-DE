@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 90%
+source-wordcount: '5328'
+ht-degree: 89%
 
 ---
 
@@ -47,6 +47,14 @@ Wenn ein Benutzer versucht, Dokumentdetails durch Klicken auf den Namen des Doku
 **Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an**
 
 Wenn ein Benutzer sein Widget &quot;Home Pending Approvals&quot;anzeigt, werden ihm Dokumente angezeigt, die gelöscht wurden. Wenn der Benutzer auf eines dieser Dokumente klickt, wird er auf eine leere Seite geleitet.
+
+#### Benutzende
+
+**Das Feld für das E-Mail-Gebietsschema des Benutzerprofils wurde deaktiviert**
+
+Für Unternehmen mit IMS werden Sprachvoreinstellungen im Adobe Experience Cloud-Profil jedes Benutzers gespeichert. Das Feld E-Mail-Gebietsschema im Workfront-Benutzerprofil wurde deaktiviert (nur für IMS-Organisationen) und eine QuickInfo zu diesem Feld enthält Anweisungen zum Zugriff auf Spracheinstellungen im Adobe-Profil.
+
+Dadurch wird ein Problem behoben, durch das ein Administrator, der versucht, die Einstellung für das E-Mail-Gebietsschema eines Benutzers zu ändern, auf Englisch zurückgesetzt wird.
 
 +++
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 78%
+source-wordcount: '1064'
+ht-degree: 77%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | Donnerstag, 28. August 2024 |
 | [Workfront: SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) kann nicht verwendet werden | Dienstag, 26. August 2024 |
 | [Berichte: Berichtbereitstellungen sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md) | Dienstag, 26. August 2024 |
 | [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | Dienstag, 26. August 2024 |

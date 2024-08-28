@@ -3,10 +3,10 @@ title: "Workfront: SSO kann nicht verwendet werden"
 description: '"Workfront-Funktionalität, die SSO verwendet, gibt einen "UUB"-Fehler zurück."'
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '96'
+ht-degree: 33%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 35%
 
 >[!NOTE]
 >
->* Dies wurde in der Umgebung der Vorschau-Sandbox gemeldet.
->* Dies wurde für Unternehmen gemeldet, die alte (nicht Adobe) SSO verwenden
+>* Dies wurde in der Umgebung &quot;Sandbox-Vorschau&quot;und in der Umgebung &quot;Sandbox für benutzerdefinierte Aktualisierung&quot;gemeldet.
+>* Dies wurde für Unternehmen gemeldet, die ältere (nicht-Adobe) SSO verwenden.
 
 Workfront-Funktionen, die SSO verwenden, geben den folgenden Fehler zurück:
 

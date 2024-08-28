@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1055'
 ht-degree: 78%
 
 ---
@@ -53,6 +53,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | Donnerstag, 28. August 2024 |
 | [Benutzer: Benutzer kann Benutzer nicht reaktivieren](known-issues-workfront/wf-users-reactivate-user.md) | Dienstag, 26. August 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Dienstag, 26. August 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 22. August 2024 |

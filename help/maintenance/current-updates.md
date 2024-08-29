@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '5328'
+source-wordcount: '5326'
 ht-degree: 89%
 
 ---
@@ -26,9 +26,9 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im August 2024
 
-+++**(Geplantes) Wartungs-Update am Freitag, 29. August 2024**
++++**Wartungs-Update vom Freitag, 29. August 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 29. August 2024
+### Wartungs-Update am 29. August 2024
 
 #### Benutzerdefinierte Formulare
 

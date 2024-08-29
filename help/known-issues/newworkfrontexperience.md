@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '1064'
-ht-degree: 77%
+source-wordcount: '1043'
+ht-degree: 78%
 
 ---
 
@@ -54,12 +54,12 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 29. August 2024 |
 | [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | Donnerstag, 28. August 2024 |
 | [Benutzer: Benutzer kann Benutzer nicht reaktivieren](known-issues-workfront/wf-users-reactivate-user.md) | Dienstag, 26. August 2024 |
 | [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Dienstag, 26. August 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 22. August 2024 |
 | [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md) | Freitag, 22. August 2024 |
-| [Startseite: Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an](known-issues-workfront/wf-home-deleted-documents.md) | Dienstag, 19. August 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Dienstag, 19. August 2024 |
 | [Dokumente: Dokumente mit Vorschau-Link können nicht in der Vorschau angezeigt werden](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Freitag, 15. August 2024 |
 | [Benutzerdefinierte Formulare: Fehler bei der Konvertierung von Anzeigetypen in benutzerdefinierten Formularen](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | Freitag, 15. August 2024 |
@@ -71,10 +71,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8. August 2024 |
 | [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |
 | [Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5. August 2024 |
-| [Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5. August 2024 |
 | [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5. August 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |
-| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird nicht aus dem Dokument gelöscht](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | Freitag, 18. Juli 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11. April 2024 |
 | [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4. April 2024 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2. August 2022 |

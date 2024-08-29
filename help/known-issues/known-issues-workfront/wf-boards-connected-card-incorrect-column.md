@@ -1,21 +1,25 @@
 ---
 title: "Pinnwände: Connected card is in falsche column"
-description: "In der falschen Spalte wurden Probleme mit verbundenen Karten gemeldet."
+description: Es wurden Probleme bezüglich der verbundenen Karten in der falschen Spalte gemeldet.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
+exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 11%
+source-wordcount: '79'
+ht-degree: 5%
 
 ---
 
-
 # Pinnwände: Connected card is in falsche column
+
+<!--
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 15. August 2024 behoben.
+>This issue was fixed on August 15, 2024.
+
+-->
 
 Die folgenden Probleme wurden bezüglich der verbundenen Karten in der falschen Spalte gemeldet:
 

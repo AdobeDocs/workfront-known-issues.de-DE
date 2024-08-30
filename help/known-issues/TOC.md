@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1671'
-ht-degree: 78%
+source-wordcount: '1662'
+ht-degree: 79%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 78%
       + [Pinnwände: Connected card is in falsche column](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Benutzer: Die Spracheinstellung E-Mail für Benutzer wird nicht gespeichert](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [Integrationen: Fehler beim Erstellen einer Anforderung aus Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)

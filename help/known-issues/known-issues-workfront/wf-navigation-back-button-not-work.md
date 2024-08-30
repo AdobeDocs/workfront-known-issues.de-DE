@@ -4,22 +4,18 @@ description: Wenn Benutzende in Workfront auf die Schaltfläche „Zurück“ in
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
-
--->
+>Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
 
 Wenn jemand in Workfront auf die Schaltfläche „Zurück“ des Browsers klickt, kann eine der folgenden Situationen eintreten.
 

@@ -4,22 +4,18 @@ description: Es wurden Probleme bezüglich doppelter Karten in Pinnwänden gemel
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # Pinnwände: Probleme mit doppelten Karten
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
-
--->
+>Dieses Problem wurde am Freitag, 29. August 2024 behoben.
 
 
 Die folgenden Probleme bezüglich doppelter Karten in Pinnwänden wurden gemeldet:

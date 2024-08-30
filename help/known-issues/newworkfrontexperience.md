@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 78%
+source-wordcount: '1054'
+ht-degree: 77%
 
 ---
 
@@ -55,14 +55,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Workfront: Das Datum wird im falschen Format angezeigt](known-issues-workfront/wf-home-crashes-with-error.md) | Samstag, 30. August 2024 |
+| [Dokumente: Wenn Sie auf einen Dokumentnamen klicken, wird der leere Pager](known-issues-workfront/wf-home-crashes-with-error.md) angezeigt. | Samstag, 30. August 2024 |
 | [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 29. August 2024 |
 | [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | Donnerstag, 28. August 2024 |
 | [Benutzer: Benutzer kann Benutzer nicht reaktivieren](known-issues-workfront/wf-users-reactivate-user.md) | Dienstag, 26. August 2024 |
-| [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md) | Dienstag, 26. August 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 22. August 2024 |
 | [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md) | Freitag, 22. August 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Dienstag, 19. August 2024 |
-| [Dokumente: Dokumente mit Vorschau-Link können nicht in der Vorschau angezeigt werden](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Freitag, 15. August 2024 |
 | [Benutzerdefinierte Formulare: Fehler bei der Konvertierung von Anzeigetypen in benutzerdefinierten Formularen](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | Freitag, 15. August 2024 |
 | [Einrichtung: Probleme beim Abmelden als anderer Benutzer](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 15. August 2024 |
 | [Integrationen: Fehler beim Erstellen einer Anforderung von Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | Donnerstag, 14. August 2024 |

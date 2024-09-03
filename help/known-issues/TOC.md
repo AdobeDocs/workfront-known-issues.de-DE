@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 79%
+source-wordcount: '1694'
+ht-degree: 77%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Mobile: Abmeldung und fehlende Benutzerprofilinformationen nicht möglich](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Dashboards: Durch Auswahl der Schaltfläche &quot;Exportieren&quot;in einem Bericht wird ein Bildlauf zum Seitenanfang durchgeführt](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datum wird in einem falschen Format angezeigt](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)

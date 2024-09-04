@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
-source-wordcount: '1694'
+source-wordcount: '1700'
 ht-degree: 77%
 
 ---
@@ -217,6 +217,7 @@ ht-degree: 77%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)

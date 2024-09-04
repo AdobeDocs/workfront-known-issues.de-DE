@@ -3,7 +3,7 @@ title: '"Dashboards: Auswahl der Schaltfläche "Exportieren"in einem Bericht scr
 description: "Wenn Sie auf die Schaltfläche Exportieren für einen Bericht in einem Dashboard klicken, wird das Fenster zum Seitenanfang verschoben und es ist ein Bildlauf nach unten erforderlich, um das geöffnete Menü für Exportoptionen zu finden."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b8edc5a086ca8fe6a21469e625f1f332ca0605ab
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 4%

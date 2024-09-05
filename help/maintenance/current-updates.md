@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '5326'
-ht-degree: 89%
+source-wordcount: '5452'
+ht-degree: 87%
 
 ---
 
@@ -23,6 +23,30 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
+
+## Updates im September 2024
+
++++**Wartungs-Update vom Freitag, 5. September 2024**
+
+### Wartungs-Update am 5. September 2024
+
+#### Gruppen
+
+**Untergruppen werden nicht korrekt angezeigt**
+
+Wenn ein Benutzer die Liste Gruppen im Bereich Einrichtung anzeigt, sieht er, dass Untergruppen unter der übergeordneten Gruppe nicht korrekt aufgelistet sind. Die Untergruppe wird korrekt unter der übergeordneten Gruppe gespeichert, die Liste kann jedoch zu Verwirrung führen.
+
+Wenn der Benutzer die Untergruppe öffnet, sieht er in den Breadcrumbs, dass die Untergruppe korrekt unter der übergeordneten Gruppe gespeichert wird.
+
+#### Benutzende
+
+**Benutzer kann nicht reaktiviert werden**
+
+Wenn ein Benutzer versucht, einen Benutzer mithilfe der Option &quot;Benutzer reaktivieren&quot;im Menü &quot;Mehr&quot;zu reaktivieren, kann er eine Zugriffsebene für den Benutzer auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird die folgende Fehlermeldung angezeigt:
+
+&quot;homeGroupID darf nicht null sein&quot;
+
++++
 
 ## Updates im August 2024
 

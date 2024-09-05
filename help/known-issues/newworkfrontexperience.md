@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 76%
+source-wordcount: '1031'
+ht-degree: 78%
 
 ---
 
@@ -25,17 +25,16 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Pinnwände: Dokumente von Karte können nicht in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | Freitag, 5. September 2024 |
 | [Mobil: Abmeldung nicht möglich und fehlende Benutzerprofilinformationen](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
 | [Dashboards: Durch Auswahl der Schaltfläche &quot;Exportieren&quot;in einem Bericht wird ein Bildlauf zum Anfang der Seite durchgeführt](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Verbindungskarte ist in falscher Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 28. August 2024 |
-| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | Donnerstag, 28. August 2024 |
 | [Workfront: SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) kann nicht verwendet werden | Dienstag, 26. August 2024 |
 | [Berichte: Berichtbereitstellungen sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md) | Dienstag, 26. August 2024 |
 | [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | Dienstag, 26. August 2024 |
 | [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Donnerstag, 21. August 2024 |
 | [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
-| [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 15. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
 | [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Donnerstag, 14. August 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
@@ -54,10 +53,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
 | [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Samstag, 30. August 2024 |
-| [Workfront: Das Datum wird im falschen Format angezeigt](known-issues-workfront/wf-home-crashes-with-error.md) | Samstag, 30. August 2024 |
 | [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 29. August 2024 |
-| [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | Donnerstag, 28. August 2024 |
-| [Benutzer: Benutzer kann Benutzer nicht reaktivieren](known-issues-workfront/wf-users-reactivate-user.md) | Dienstag, 26. August 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 22. August 2024 |
 | [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md) | Freitag, 22. August 2024 |
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Dienstag, 19. August 2024 |
@@ -67,7 +63,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 8. August 2024 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Freitag, 8. August 2024 |
-| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8. August 2024 |
 | [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |
 | [Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5. August 2024 |
 | [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5. August 2024 |
@@ -142,6 +137,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9. November 2020 |
 | [Startseite: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung, und es werden zwei E-Mails versandt](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9. November 2020 |
 | [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9. November 2020 |
+| [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 5. September 2024 |
 
 {style="table-layout:auto"}
 

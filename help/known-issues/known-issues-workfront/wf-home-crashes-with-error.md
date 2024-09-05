@@ -4,14 +4,18 @@ description: Wenn ein Benutzer versucht, die neue Startseite anzuzeigen, stürzt
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 13%
+source-wordcount: '128'
+ht-degree: 32%
 
 ---
 
 # Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab
+
+>[!NOTE]
+>
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 Wenn ein Benutzer versucht, die neue Startseite anzuzeigen, stürzt die Site mit der folgenden Fehlermeldung ab:
 

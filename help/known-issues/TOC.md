@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1708'
 ht-degree: 77%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Dokumente können nicht von der Karte aus in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile: Abmeldung und fehlende Benutzerprofilinformationen nicht möglich](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Dashboards: Durch Auswahl der Schaltfläche &quot;Exportieren&quot;in einem Bericht wird ein Bildlauf zum Seitenanfang durchgeführt](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)

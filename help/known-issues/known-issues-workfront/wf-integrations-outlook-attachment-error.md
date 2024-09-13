@@ -1,17 +1,21 @@
 ---
 title: "Integrationen: Fehler beim Erstellen einer Anforderung von Outlook"
-description: "Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal."
+description: Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
-source-git-commit: bdf56413a3b704ef6020bd2093c6bddbb3b64913
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 3%
 
 ---
 
-
 # Integrationen: Fehler beim Erstellen einer Anforderung aus Outlook
+
+>[!NOTE]
+>
+>Dieser Artikel wurde am 12. September 2024 behoben.
 
 Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung &quot;Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal.&quot;
 

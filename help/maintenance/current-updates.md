@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '5452'
-ht-degree: 87%
+source-wordcount: '5526'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,20 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im September 2024
+
++++**Wartungs-Update vom Freitag, 12. September 2024**
+
+### Wartungs-Update am 12. September 2024
+
+#### Integrationen
+
+**Fehler beim Erstellen einer Anforderung von Outlook**
+
+Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung &quot;Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal.&quot;
+
+Die Anfrage wird erstellt. Die Anfrage enthält einen Ordner für E-Mail-Anhänge, der Ordner ist jedoch leer und der Anhang wurde der Anfrage nicht hinzugefügt.
+
++++
 
 +++**Wartungs-Update vom Freitag, 5. September 2024**
 

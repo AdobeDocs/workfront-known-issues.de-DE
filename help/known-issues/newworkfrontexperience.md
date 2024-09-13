@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
+source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
 workflow-type: tm+mt
-source-wordcount: '1014'
-ht-degree: 78%
+source-wordcount: '1058'
+ht-degree: 75%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Agile: Die bei der Zuweisung von Scrum Team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) doppelt aufgeführte Option zur Iteration hinzufügen | Freitag, 12. September 2024 |
+| [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Dokumente von Karte können nicht in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | Freitag, 5. September 2024 |
 | [Mobil: Abmeldung nicht möglich und fehlende Benutzerprofilinformationen](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
@@ -51,6 +53,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | Freitag, 12. September 2024 |
+| [Gruppen: Der Status der gelöschten Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md) | Freitag, 12. September 2024 |
+| [Startseite: Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an](known-issues-workfront/wf-home-deleted-documents.md) | Freitag, 12. September 2024 |
+| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | Freitag, 12. September 2024 |
 | [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Samstag, 30. August 2024 |
 | [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 29. August 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Freitag, 22. August 2024 |
@@ -58,7 +64,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | Dienstag, 19. August 2024 |
 | [Benutzerdefinierte Formulare: Fehler bei der Konvertierung von Anzeigetypen in benutzerdefinierten Formularen](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | Freitag, 15. August 2024 |
 | [Einrichtung: Probleme beim Abmelden als anderer Benutzer](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 15. August 2024 |
-| [Integrationen: Fehler beim Erstellen einer Anforderung von Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | Donnerstag, 14. August 2024 |
 | [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
 | [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 8. August 2024 |
 | [Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5. August 2024 |

@@ -4,18 +4,14 @@ description: Wenn ein Benutzer sein Widget "Home Pending Approvals"anzeigt, werd
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 11%
+source-wordcount: '84'
+ht-degree: 4%
 
 ---
 
 # Startseite: Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an
-
->[!NOTE]
->
->Dieses Problem wurde am Freitag, 29. August 2024 behoben.
 
 Wenn ein Benutzer sein Widget &quot;Home Pending Approvals&quot;anzeigt, werden ihm Dokumente angezeigt, die gelöscht wurden. Wenn der Benutzer auf eines dieser Dokumente klickt, wird er auf eine leere Seite geleitet.
 

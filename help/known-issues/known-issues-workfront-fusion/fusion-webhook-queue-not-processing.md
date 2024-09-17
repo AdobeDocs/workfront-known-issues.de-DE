@@ -1,17 +1,21 @@
 ---
 title: "Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet"
-description: "Wenn ein Ereignis auftritt, bei dem ein Webhook-Szenario in Workfront Fusion Trigger werden soll, wird das Szenario nicht ausgeführt und das Ereignis bleibt in der Warteschlange des Webhooks."
+description: Wenn ein Ereignis auftritt, bei dem ein Webhook-Szenario in Workfront Fusion Trigger werden soll, wird das Szenario nicht ausgeführt und das Ereignis bleibt in der Warteschlange des Webhooks.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 7e872b20658c7d5b330dafce98c80d624d17bae8
+exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
-
 # Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Samstag, 13. September 2024 behoben.
 
 Wenn ein Ereignis auftritt, bei dem ein Webhook-Szenario in Workfront Fusion Trigger werden soll, wird das Szenario nicht ausgeführt und das Ereignis bleibt in der Warteschlange des Webhooks.
 

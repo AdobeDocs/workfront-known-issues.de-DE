@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 77%
+source-wordcount: '1746'
+ht-degree: 75%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Gruppen: Der Status der gelöschten Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: API-Aufruf schlägt aufgrund eines SQL-Fehlers fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile: Bei der Zuweisung des Scrum-Teams zweimal aufgeführte Option Zu Iteration hinzufügen](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Pinnwände: Dokumente können nicht von der Karte aus in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile: Abmeldung und fehlende Benutzerprofilinformationen nicht möglich](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Dashboards: Durch Auswahl der Schaltfläche &quot;Exportieren&quot;in einem Bericht wird ein Bildlauf zum Seitenanfang durchgeführt](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: Datum wird in einem falschen Format angezeigt](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Gruppen: Untergruppen werden nicht korrekt angezeigt](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: SSO kann nicht verwendet werden](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Benutzer: Benutzer kann nicht reaktiviert werden](known-issues-workfront/wf-users-reactivate-user.md)

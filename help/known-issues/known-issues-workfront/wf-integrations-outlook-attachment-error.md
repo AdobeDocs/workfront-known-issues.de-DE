@@ -4,14 +4,18 @@ description: Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 # Integrationen: Fehler beim Erstellen einer Anforderung aus Outlook
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 12. September 2024 behoben.
 
 Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung &quot;Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal.&quot;
 

@@ -1,17 +1,21 @@
 ---
 title: "Mobile: Abmeldung nicht möglich und fehlende Benutzerprofilinformationen"
-description: "Die Abmeldeoption in der Mobile App ermöglicht es einigen Benutzern nicht, sich erfolgreich abzumelden. Die Benutzerprofilseiten erscheinen ebenfalls leer und generieren eine Fehlermeldung."
+description: Die Abmeldeoption in der Mobile App ermöglicht es einigen Benutzern nicht, sich erfolgreich abzumelden. Die Benutzerprofilseiten erscheinen ebenfalls leer und generieren eine Fehlermeldung.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+exl-id: 1713c576-5df6-424a-a90e-d615c38c751a
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 4%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
-
 # Mobile: Abmeldung und fehlende Benutzerprofilinformationen nicht möglich
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 19. September 2024 behoben.
 
 Die Abmeldeoption in der Mobile App ermöglicht es einigen Benutzern nicht, sich erfolgreich abzumelden. Die Benutzerprofilseiten erscheinen ebenfalls leer und generieren eine Fehlermeldung.
 

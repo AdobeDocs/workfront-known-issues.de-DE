@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 75%
+source-wordcount: '1048'
+ht-degree: 76%
 
 ---
 
@@ -25,13 +25,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 19. September 2024 |
 | [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Agile: Die bei der Zuweisung von Scrum Team](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) doppelt aufgeführte Option zur Iteration hinzufügen | Freitag, 12. September 2024 |
 | [Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Dokumente von Karte können nicht in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | Freitag, 5. September 2024 |
-| [Mobil: Abmeldung nicht möglich und fehlende Benutzerprofilinformationen](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
-| [Dashboards: Durch Auswahl der Schaltfläche &quot;Exportieren&quot;in einem Bericht wird ein Bildlauf zum Anfang der Seite durchgeführt](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Verbindungskarte ist in falscher Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 28. August 2024 |
 | [Workfront: SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) kann nicht verwendet werden | Dienstag, 26. August 2024 |
 | [Berichte: Berichtbereitstellungen sind verzögert oder fehlen](known-issues-workfront/wf-reports-not-delivered.md) | Dienstag, 26. August 2024 |
@@ -79,6 +78,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md) | Freitag, 19. September 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Donnerstag, 18. September 2024 |
 | [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | Freitag, 12. September 2024 |
 | [Startseite: Startseite stürzt mit Fehler &quot;Nicht genügend Speicher&quot;ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 12. September 2024 |

@@ -4,7 +4,7 @@ description: Wenn ein Benutzer mehrere Browser-Registerkarten geöffnet hat, mel
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: e76b7127-a283-461b-af10-30640fe9e711
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Workfront: Mehrere Browser-Registerkarten führen zur Abmeldung von Workfront
 
-<!--Valid issue, won't fix-->
+<!--Valid issue, won't fix. will be fixed by -->
 
 Wenn ein Benutzer mehrere Browser-Registerkarten geöffnet hat, meldet sich Workfront möglicherweise automatisch ab.
 

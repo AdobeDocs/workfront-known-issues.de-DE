@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 75%
+source-wordcount: '1774'
+ht-degree: 74%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Lange Ladezeiten von ReportBuilder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Gruppen: Der Status der gelöschten Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: API-Aufruf schlägt aufgrund eines SQL-Fehlers fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -198,6 +200,7 @@ ht-degree: 75%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof: Inhalt wird im Abschnitt &quot;Updates&quot;des Desktop Proofing Viewers falsch eingefügt](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md)

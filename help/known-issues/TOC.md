@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1774'
+source-wordcount: '1782'
 ht-degree: 74%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzern](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Berichte: Lange Ladezeiten von ReportBuilder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)

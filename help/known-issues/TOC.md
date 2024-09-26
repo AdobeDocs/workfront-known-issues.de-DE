@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '1792'
+source-wordcount: '1804'
 ht-degree: 73%
 
 ---
@@ -227,6 +227,8 @@ ht-degree: 73%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Datenspeicherprobleme](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion: Ausführungsdetails werden bei der Verarbeitung angezeigt](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: Benutzer können nicht aus Workfront Fusion hinzugefügt oder gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)

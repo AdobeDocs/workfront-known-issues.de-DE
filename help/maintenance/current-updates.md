@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5578'
-ht-degree: 85%
+source-wordcount: '5723'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,30 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im September 2024
+
++++**Wartungs-Update vom Freitag, 26. September 2024**
+
+### Wartungs-Update am 26. September 2024
+
+#### Agile
+
+**Die Option &quot;Zu Iteration hinzufügen&quot;wird beim Zuweisen von Scrum-Team zweimal aufgeführt**
+
+Bei der Zuweisung einer Aufgabe oder eines Problems zu einem agilen Trommelteam wird die Option &quot;Zu Iteration hinzufügen&quot;zweimal im Menü Mehr angezeigt. Dies wirkt sich nicht auf die Fähigkeit aus, das Team zuzuweisen, und wird nicht für agile Teams angezeigt, die nicht mit dem Scrollen betraut sind.
+
+#### Benutzerdefinierte Formulare
+
+**Feldliste des Berechnungs-Editors ist auf 200 Elemente begrenzt**
+
+Im Berechnungs-Editor für berechnete Felder in benutzerdefinierten Formularen ist die Feldliste für ein Objekt jetzt auf 200 Elemente beschränkt, um die Systemleistung zu verbessern. Wenn Sie den Feldnamen kennen, können Sie ihn mit der Option typeahead suchen, anstatt durch die Liste zu scrollen.
+
+#### Berichte
+
+**Berichtbereitstellungen sind verzögert oder fehlen**
+
+Berichte mit geplanten Sendungen werden nicht erwartungsgemäß bereitgestellt. Sie können sich verspäten oder gar nicht zugestellt werden.
+
++++
 
 +++**Wartungs-Update vom Freitag, 19. September 2024**
 

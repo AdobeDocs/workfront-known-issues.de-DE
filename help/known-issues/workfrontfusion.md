@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 86%
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
@@ -25,12 +25,13 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Datenspeicherprobleme](known-issues-workfront-fusion/fusion-data-store-issues.md) | Freitag, 26. September 2024 |
+| [Workfront Fusion: Ausführungsdetails werden als Verarbeitung angezeigt](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | Freitag, 26. September 2024 |
 | [Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | Freitag, 19. September 2024 |
 | [Workfront-Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | Mittwoch, 27. August 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 
 {style="table-layout:auto"}
-
 
 ## In Arbeit
 

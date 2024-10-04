@@ -3,14 +3,18 @@ title: '"Workfront Proof: Inhalt wird im Abschnitt "Updates"des Desktop Proofing
 description: '"Beim Versuch, Inhalte in den Abschnitt "Aktualisierungen"eines Testversands im Desktop Proofing Viewer einzufügen, stimmt der Inhalt nicht mit dem Inhalt überein, der in die Zwischenablage kopiert wurde."'
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 4%
 
 ---
 
 # Workfront Proof: Inhalt wird im Abschnitt &quot;Updates&quot;des Desktop Proofing Viewers falsch eingefügt
+
+>[!NOTE]
+>
+>Dieser Artikel wurde am 2. Oktober 2024 behoben.
 
 Beim Versuch, Inhalte in den Abschnitt &quot;Aktualisierungen&quot;eines Testversands im Desktop Proofing Viewer einzufügen, stimmt der Inhalt nicht mit dem Inhalt überein, der in die Zwischenablage kopiert wurde.
 

@@ -1,17 +1,21 @@
 ---
 title: "Pinnwände: Fehler beim Laden einer Pinnwand"
-description: "Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen, und der Benutzer sieht eine Fehlermeldung."
+description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen, und der Benutzer wird über eine Fehlermeldung informiert.
 hidefromtoc: true
 feature: Agile
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 26%
+source-wordcount: '90'
+ht-degree: 24%
 
 ---
 
-
 # Pinnwände: Fehler beim Laden einer Pinnwand
+
+>[!NOTE]
+>
+>Dieser Artikel wurde am 3. Oktober 2024 behoben.
 
 Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und der Benutzer sieht die folgende Meldung:
 

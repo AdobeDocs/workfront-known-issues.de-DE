@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 73%
+source-wordcount: '1845'
+ht-degree: 71%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anmelden Als Weiterleitung zur Anmeldung oder Fehlerursache](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Startseite: &quot;Als fertig markieren&quot;schließt den Übersichtsbereich für das Widget Meine Probleme .](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Projekte: Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschvorgang&quot;nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Testsendungen: Die Erstellung eines Testversands schlägt für Dokumente fehl, die von AEM über Fusion verknüpft sind](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Pinnwände: Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzern](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Berichte: Lange Ladezeiten von ReportBuilder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md)

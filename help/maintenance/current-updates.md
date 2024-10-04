@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 83%
+source-wordcount: '5906'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,47 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
+
+## Updates im Oktober 2024
+
++++**Wartungs-Update vom Freitag, 3. Oktober 2024**
+
+### Wartungs-Update am 3. Oktober 2024
+
+#### Pinnwände
+
+**Nicht synchronisierte archivierte verbundene Karten**
+
+Um Leistungsprobleme zu beheben, werden archivierte verbundene Karten nicht mehr synchronisiert. Änderungen, die an der Workfront-Aufgabe oder an einem Problem vorgenommen wurden, werden nicht auf den archivierten Karten angezeigt. Wenn Sie eine Karte wiederherstellen, wird sie erneut synchronisiert.
+
+#### Benutzerdefinierte Formulare
+
+**Fehler bei Typkonvertierungen in benutzerdefinierten Formularen anzeigen**
+
+Rich-Text-Felder führen dazu, dass in benutzerdefinierten Formularen der folgende Fehler angezeigt wird:
+
+&quot;Fehler: Konvertierungen des Anzeigetyps zwischen Text und Rich-Text sind nicht zulässig.&quot;
+
+Dies kann unter folgenden Bedingungen auftreten:
+
+* Der Benutzer beginnt mit der Bearbeitung der Formulare, klickt jedoch auf &quot;Übernehmen&quot;, ohne Änderungen vorzunehmen.
+* Der Benutzer erstellt ein benutzerdefiniertes Formular.
+
+In beiden Fällen verursachen Rich-Text-Felder die Probleme.
+
+#### Benachrichtigungen
+
+**Beitragende Benutzer erhalten keine E-Mail-Benachrichtigungen**
+
+Benutzer mit einer Mitarbeiter-Lizenz erhalten keine Benachrichtigungs-E-Mails. Dies kann sowohl Instant-Benachrichtigungs-E-Mails als auch tägliche Digest-E-Mails betreffen.
+
+#### Korrekturabzüge
+
+**Elektronische Signaturen können nicht hinzugefügt werden, wenn SSO für Testversand verwendet wird**
+
+Wenn Benutzer SSO zum Anmelden bei Testversand verwenden, können sie keinen Testversand einrichten, um elektronische Signaturen zu erfordern.
+
++++
 
 ## Updates im September 2024
 

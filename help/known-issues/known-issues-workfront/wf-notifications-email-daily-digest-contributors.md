@@ -4,10 +4,10 @@ description: 'Benutzer mit einer Mitarbeiter-Lizenz erhalten keine Benachrichtig
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 20%
+source-wordcount: '68'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 >[!NOTE]
 >
->Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
+>Dieser Artikel wurde am 3. Oktober 2024 behoben.
 
 Benutzer mit einer Mitarbeiter-Lizenz erhalten keine Benachrichtigungs-E-Mails. Dies kann sowohl Instant-Benachrichtigungs-E-Mails als auch tägliche Digest-E-Mails betreffen.
 

@@ -3,15 +3,19 @@ title: "Workfront Fusion: Ausführungsdetails werden als Verarbeitung angezeigt.
 description: "Wenn ein Benutzer versucht, die Details einer Ausführung anzuzeigen, sieht er, dass die Ausführung den Verarbeitungs-Badge lange nach Abschluss der Ausführung anzeigt."
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25c18a4c5f65bbfb93c4d18e01e8a49e8ccb8699
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 4%
 
 ---
 
 
 # Workfront Fusion: Ausführungsdetails werden bei der Verarbeitung angezeigt
+
+>[!NOTE]
+>
+>Dieser Artikel wurde am 3. Oktober 2024 behoben.
 
 Wenn ein Benutzer versucht, die Details einer Ausführung anzuzeigen, sieht er, dass die Ausführung den Abzeichen &quot;Verarbeitung&quot;lange nach Abschluss der Ausführung anzeigt.
 

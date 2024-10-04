@@ -1,17 +1,21 @@
 ---
 title: "Einrichtung: Probleme beim Abmelden als ein anderer Benutzer"
-description: "Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können Probleme auftreten."
+description: Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können Probleme auftreten.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
-
 # Einrichtung: Probleme beim Abmelden als ein anderer Benutzer
+
+>[!NOTE]
+>
+>Dieser Artikel wurde am 20. September 2024 behoben.
 
 Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können die folgenden Probleme auftreten:
 

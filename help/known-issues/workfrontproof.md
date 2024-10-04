@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 93%
+source-wordcount: '430'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
 | [Agil: Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | Samstag, 26. Juli 2024 |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -38,7 +39,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof: Inhalt wird im Abschnitt &quot;Updates&quot;des Desktop Proofing Viewers nicht korrekt eingefügt](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | Freitag, 19. September 2024 |
 | [Dokumente: Dokumente mit Vorschau-Link können nicht in der Vorschau angezeigt werden](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | Freitag, 15. August 2024 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
 | [Ansicht für Dokumentenliste kann nicht erstellt werden](known-issues-workfront/wf-documents-cannot-add-new-view.md) | Dienstag, 15. Juli 2024 |

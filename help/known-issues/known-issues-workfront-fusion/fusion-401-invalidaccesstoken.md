@@ -1,17 +1,21 @@
 ---
 title: "Workfront Fusion: 401 InvalidAccessTokenError"
-description: "Szenarios treten 401 InvalidAccessTokenError-Fehler auf. Diese Fehler sind zeitweise."
+description: In Szenarios treten 401 InvalidAccessTokenError-Fehler auf. Diese Fehler sind zeitweise.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+exl-id: dfdb001d-813e-434c-be82-d2141994952b
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 13%
+source-wordcount: '35'
+ht-degree: 25%
 
 ---
 
-
 # Workfront Fusion: 401 InvalidAccessTokenError
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 In Szenarien treten Fehler vom Typ `401 InvalidAccessTokenError` auf. Diese Fehler sind zeitweise.
 

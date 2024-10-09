@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 94%
+source-wordcount: '440'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
 | [Agil: Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | Samstag, 26. Juli 2024 |
 | [Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet](known-issues-workfront/wf-proofs-two-proofs-open.md) | Freitag, 25. Juli 2024 |

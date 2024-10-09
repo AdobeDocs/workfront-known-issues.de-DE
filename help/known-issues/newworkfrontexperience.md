@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 76%
+source-wordcount: '1087'
+ht-degree: 73%
 
 ---
 
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Dokumente können nicht von der Registerkarte &quot;Objektdokumente&quot;verschoben werden](known-issues-workfront/wf-documents-cannot-move-from-object.md) | Donnerstag, 9. Oktober 2024 |
+| [Pinnwände: Statusoptionen für Aufgaben und Probleme duplizieren](known-issues-workfront/wf-boards-duplicate-status-options.md) | Donnerstag, 9. Oktober 2024 |
+| [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 19. September 2024 |
 | [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Dokumente von Karte können nicht in der Vorschau angezeigt oder heruntergeladen werden](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | Freitag, 5. September 2024 |
@@ -76,6 +79,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets bestehen](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | Mittwoch, 8. Oktober 2024 |
+| [Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | Mittwoch, 8. Oktober 2024 |
 | [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md) | Freitag, 19. September 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Donnerstag, 18. September 2024 |
 | [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | Freitag, 12. September 2024 |

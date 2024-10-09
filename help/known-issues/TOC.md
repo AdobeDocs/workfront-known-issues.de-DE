@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
-ht-degree: 71%
+source-wordcount: '1888'
+ht-degree: 69%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Dokumente können nicht von der Registerkarte &quot;Dokumente&quot;des Objekts verschoben werden](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Pinnwände: Statusoptionen für Aufgaben und Probleme duplizieren](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Anmelden Als Weiterleitung zur Anmeldung oder Fehlerursache](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Startseite: &quot;Als fertig markieren&quot;schließt den Übersichtsbereich für das Widget Meine Probleme .](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Projekte: Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschvorgang&quot;nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 71%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: Inhalt wird im Abschnitt &quot;Updates&quot;des Desktop Proofing Viewers falsch eingefügt](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

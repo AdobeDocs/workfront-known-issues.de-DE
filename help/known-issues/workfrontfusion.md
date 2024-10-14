@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 83%
+source-wordcount: '189'
+ht-degree: 81%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront-Fusion: Beginnen Sie mit der Einstellung &quot;Von jetzt an&quot;, um alle Daten zu verarbeiten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Dienstag, 14. Oktober 2024 |
 | [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
-| [Workfront Fusion: Webhook-Warteschlange wird nicht verarbeitet](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | Freitag, 19. September 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 
 {style="table-layout:auto"}

@@ -4,7 +4,7 @@ description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwa
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 24%
@@ -15,7 +15,7 @@ ht-degree: 24%
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 3. Oktober 2024 behoben.
+>Dieser Artikel wurde am 10. Oktober 2024 behoben.
 
 Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und der Benutzer sieht die folgende Meldung:
 

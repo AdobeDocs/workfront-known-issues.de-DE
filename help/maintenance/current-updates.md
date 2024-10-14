@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '5906'
-ht-degree: 81%
+source-wordcount: '6157'
+ht-degree: 78%
 
 ---
 
@@ -25,6 +25,49 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im Oktober 2024
+
++++**Wartungs-Update vom Freitag, 10. Oktober 2024**
+
+### Wartungs-Update am 10. Oktober 2024
+
+#### Pinnwände
+
+**Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzern**
+
+Beim Verschieben von Karten oder beim Zuweisen von Benutzern durchläuft die Aktion gelegentlich nicht und erzeugt stattdessen den Fehler &quot;Antwort nicht erfolgreich: Status-Code 502 erhalten&quot;nach einer Verzögerung.
+
+**Fehler beim Laden einer Pinnwand**
+
+Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und der Benutzer sieht die folgende Meldung:
+
+&quot;Fehler beim Laden der Pinnwand&quot;
+
+&quot;Beim Laden dieses Brettes ist etwas schiefgelaufen. Aktualisieren Sie die Seite, um es erneut zu versuchen, oder kontaktieren Sie den Support mit der Fehler-ID unten, falls das Problem weiterhin besteht.&quot;
+
+#### Startseite
+
+**&quot;Als Fertig markieren&quot;schließt den Übersichtsbereich für das Widget Meine Probleme**
+
+Beim Versuch, die Schaltfläche &quot;Als Fertig markieren&quot;im Zusammenfassungsbereich eines Problems zu verwenden, das über das Widget Meine Probleme geöffnet wurde, wird der Zusammenfassungsbereich unerwartet geschlossen.
+
+**Layout Template widget settings failed add column**
+
+Wenn Sie ein Feld auswählen, das einem Widget über die Widget-Einstellungen für Layoutvorlagen hinzugefügt werden soll, kann ein Feld ausgewählt werden, die entsprechende Spalte wird jedoch nicht im Widget angezeigt.
+
+#### Aufgaben
+
+**Probleme mit der Neuberechnung der Zeitleiste**
+
+Die folgenden Probleme wurden bezüglich der Neuberechnung der Zeitleiste gemeldet:
+
+* Beim Aktualisieren der Dauer einer Timeline-Aufgabe benötigt das System eine erhebliche Zeit für die Neuberechnung.
+* Wenn die Neuberechnung abgeschlossen ist, können die Daten deaktiviert bleiben oder deaktiviert werden, so als ob die Timeline noch neu berechnet wird.
+
+**Aufwendungen für Aufgaben werden nicht angezeigt**
+
+Nachdem einer Aufgabe eine Ausgabe hinzugefügt wurde, erscheinen die Ausgaben trotz API-Bestätigung, dass sie eingegeben wurden, nicht in den Aufgabeninformationen.
+
++++
 
 +++**Wartungs-Update vom Freitag, 3. Oktober 2024**
 

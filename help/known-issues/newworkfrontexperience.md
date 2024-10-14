@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '1087'
-ht-degree: 73%
+source-wordcount: '1028'
+ht-degree: 76%
 
 ---
 
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Dokumente: Dokumente können nicht von der Registerkarte &quot;Objektdokumente&quot;verschoben werden](known-issues-workfront/wf-documents-cannot-move-from-object.md) | Donnerstag, 9. Oktober 2024 |
 | [Pinnwände: Statusoptionen für Aufgaben und Probleme duplizieren](known-issues-workfront/wf-boards-duplicate-status-options.md) | Donnerstag, 9. Oktober 2024 |
 | [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 19. September 2024 |
@@ -38,8 +37,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Donnerstag, 21. August 2024 |
 | [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
-| [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Donnerstag, 14. August 2024 |
-| [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 | [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | Samstag, 14. Juni 2024 |
 | [Setup: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7. Mai 2024 |
@@ -52,19 +49,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Anmelden Als Weiterleitung zur Anmeldung oder verursacht Fehler](known-issues-workfront/wf-login-as-redirects-to-login.md) | Freitag, 3. Oktober 2024 |
-| [Startseite: &quot;Als Fertig markieren&quot;schließt den Übersichtsbereich für das Widget Meine Probleme](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | Freitag, 3. Oktober 2024 |
 | [Projekte: Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschen&quot;nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md) | Freitag, 3. Oktober 2024 |
 | [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
-| [Benutzerdefinierte Formulare: Fehler bei der Konvertierung von Anzeigetypen in benutzerdefinierten Formularen](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | Freitag, 3. Oktober 2024 |
 | [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Mittwoch, 24. September 2024 |
 | [Gruppen: Der Status der gelöschten Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md) | Freitag, 12. September 2024 |
 | [Startseite: Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an](known-issues-workfront/wf-home-deleted-documents.md) | Freitag, 12. September 2024 |
-| [Aufgaben: Probleme mit der Neuberechnung der Timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Samstag, 30. August 2024 |
 | [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md) | Freitag, 22. August 2024 |
 | [Einrichtung: Probleme beim Abmelden als anderer Benutzer](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 15. August 2024 |
 | [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
-| [Pinnwände: Fehler beim Laden einer Pinnwand](known-issues-workfront/wf-boards-error-when-loading-board.md) | Freitag, 8. August 2024 |
 | [Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5. August 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11. April 2024 |
@@ -79,6 +71,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Fehler beim Exportieren des Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Dienstag, 14. Oktober 2024 |
 | [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets bestehen](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | Mittwoch, 8. Oktober 2024 |
 | [Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | Mittwoch, 8. Oktober 2024 |
 | [Berichte: Scrollen zum Anzeigen des gesamten Diagrammberichts nicht möglich](known-issues-workfront/wf-reports-unable-to-scroll.md) | Freitag, 19. September 2024 |

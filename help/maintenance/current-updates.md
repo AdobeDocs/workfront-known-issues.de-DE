@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
 workflow-type: tm+mt
-source-wordcount: '6157'
-ht-degree: 78%
+source-wordcount: '6368'
+ht-degree: 75%
 
 ---
 
@@ -25,6 +25,51 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im Oktober 2024
+
++++**(Geplantes) Wartungs-Update am Freitag, 24. Oktober 2024**
+
+### (Geplantes) Wartungs-Update am Freitag, 24. Oktober 2024
+
+#### Benutzerdefinierte Formulare
+
+**Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden**
+
+Wenn ein Benutzer versucht, benutzerdefinierte Daten in einem Projekt zu aktualisieren, das abgeschlossen ist, kann er die Daten nicht aktualisieren, und ihm wird die folgende Meldung angezeigt:
+
+&quot;Vorgang für ein Projekt mit Status Complete kann nicht abgeschlossen werden.&quot;
+
+#### Projekte
+
+**Dem abgeschlossenen Projekt können keine Probleme hinzugefügt werden**
+
+Wenn ein Benutzer versucht, einem Projekt im Status Abgeschlossen ein Problem hinzuzufügen, kann er das Problem nicht hinzufügen. Dies kann auch auftreten, wenn die Option &quot;Probleme hinzufügen und bearbeiten&quot;aktiviert ist
+
+**Gantt-Diagramm ist nicht genau**
+
+Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an.
+
++++
+
+
++++**Wartungs-Update vom Freitag, 17. Oktober 2024**
+
+### Wartungs-Update am 17. Oktober 2024
+
+#### Korrekturabzüge
+
+**Testsendungen zeigen ungenaues Datum an**
+
+Die in der Dokumentliste aufgeführten Daten zeigen das Datum der Erstellung der ersten Version des Dokuments anstelle des Datums der Erstellung der neuesten Version an.
+
+### Arbeitszeit- tabellen
+
+Wenn ein Benutzer versucht, die Zeit auf einem Zeitblatt zu protokollieren, das sich im Status Gesendet oder Geschlossen befindet, kann er die Zeit nicht protokollieren.
+
+Dies ist das erwartete Verhalten und sollte nicht als Problem betrachtet werden.
+
+Bisher konnten Benutzer die Zeit für gesendete oder geschlossene Timesheets protokollieren.
+
++++
 
 +++**Wartungs-Update vom Freitag, 10. Oktober 2024**
 

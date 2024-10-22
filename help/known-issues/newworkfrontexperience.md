@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 74%
 
 ---
@@ -47,7 +47,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
 | [Projekte: Gantt-Diagramm ist nicht genau](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | Mittwoch, 22. Oktober 2024 |
-| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 22. Oktober 2024 |
+| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 22. Oktober 2024 |
 | [Projekte: Dem abgeschlossenen Projekt können keine Probleme hinzugefügt werden](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | Mittwoch, 22. Oktober 2024 |
 | [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | Mittwoch, 22. Oktober 2024 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | Mittwoch, 22. Oktober 2024 |

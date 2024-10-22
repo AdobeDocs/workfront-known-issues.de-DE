@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1898'
-ht-degree: 69%
+source-wordcount: '1944'
+ht-degree: 67%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 69%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Projekte: Gantt-Diagramm ist nicht korrekt](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Projekte: Projekte können dem abgeschlossenen Projekt keine Probleme hinzufügen](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Startseite: Der Bereich &quot;Prioritäten&quot;ist zugänglich, wenn er deaktiviert wurde.](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Startseite: Das Widget Meine Genehmigungen funktioniert nicht](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Dokumente: Dokumente können nicht von der Registerkarte &quot;Dokumente&quot;des Objekts verschoben werden](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Pinnwände: Statusoptionen für Aufgaben und Probleme duplizieren](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten.](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

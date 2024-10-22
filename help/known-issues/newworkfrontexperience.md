@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 77%
+source-wordcount: '1071'
+ht-degree: 74%
 
 ---
 
@@ -32,7 +32,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Pinnwände: Verbindungskarte ist in falscher Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 28. August 2024 |
 | [Workfront: SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) kann nicht verwendet werden | Dienstag, 26. August 2024 |
 | [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | Dienstag, 26. August 2024 |
-| [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Donnerstag, 21. August 2024 |
 | [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -47,6 +46,14 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Projekte: Gantt-Diagramm ist nicht genau](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | Mittwoch, 22. Oktober 2024 |
+| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 22. Oktober 2024 |
+| [Projekte: Dem abgeschlossenen Projekt können keine Probleme hinzugefügt werden](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | Mittwoch, 22. Oktober 2024 |
+| [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | Mittwoch, 22. Oktober 2024 |
+| [Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | Mittwoch, 22. Oktober 2024 |
+| [Startseite: Der Bereich &quot;Prioritäten&quot;kann aufgerufen werden, wenn er deaktiviert wurde](known-issues-workfront/wf-home-priorities-accessible.md) | Mittwoch, 22. Oktober 2024 |
+| [Startseite: Das Widget &quot;Meine Genehmigungen&quot;funktioniert nicht](known-issues-workfront/wf-home-my-approval-not-working.md) | Mittwoch, 22. Oktober 2024 |
+| [Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | Mittwoch, 22. Oktober 2024 |
 | [Projekte: Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschen&quot;nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md) | Freitag, 3. Oktober 2024 |
 | [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
 | [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Mittwoch, 24. September 2024 |

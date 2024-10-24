@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 75%
 
 ---
@@ -26,9 +26,15 @@ Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im Oktober 2024
 
-+++**(Geplantes) Wartungs-Update am Freitag, 24. Oktober 2024**
++++**Wartungs-Update vom Freitag, 24. Oktober 2024**
 
-### (Geplantes) Wartungs-Update am Freitag, 24. Oktober 2024
+### Wartungs-Update am 24. Oktober 2024
+
+#### Arbeitsaufträge
+
+**Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt**
+
+Wenn ein Benutzer eine Aufgabe zuweist und mit der Eingabe des Namens des Bevollmächtigten beginnt, dessen Zeitdauer während der Aufgabe geplant ist, wird über die Benutzersymbole im Bereich &quot;Zuweisungen vorschlagen&quot;nicht das Symbol für die Zeitüberschreitung (Flugzeug) angezeigt. Wenn der Benutzer weiter tippt, sodass der Name im Bereich Benutzer und Teams angezeigt wird, wird das Symbol nicht mehr angezeigt.
 
 #### Benutzerdefinierte Formulare
 

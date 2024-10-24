@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 74%
+source-wordcount: '1053'
+ht-degree: 75%
 
 ---
 
@@ -25,13 +25,14 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Berichte: Die Option Filter einblenden/Filter ausblenden fehlt](known-issues-workfront/wf-reports-show-filter-missing.md) | Freitag, 24. Oktober 2024 |
+| [Home: Prozentualer Abschluss ist abgeschnitten](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | Freitag, 24. Oktober 2024 |
 | [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 19. September 2024 |
 | [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
 | [Pinnwände: Verbindungskarte ist in falscher Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 28. August 2024 |
 | [Workfront: SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) kann nicht verwendet werden | Dienstag, 26. August 2024 |
-| [Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | Dienstag, 26. August 2024 |
 | [Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -46,11 +47,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
-| [Projekte: Gantt-Diagramm ist nicht genau](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | Mittwoch, 22. Oktober 2024 |
+| [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Freitag, 24. Oktober 2024 |
 | [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | Mittwoch, 22. Oktober 2024 |
-| [Projekte: Dem abgeschlossenen Projekt können keine Probleme hinzugefügt werden](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | Mittwoch, 22. Oktober 2024 |
 | [Benachrichtigungen: Mitarbeiter-Benutzer erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | Mittwoch, 22. Oktober 2024 |
-| [Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | Mittwoch, 22. Oktober 2024 |
 | [Startseite: Der Bereich &quot;Prioritäten&quot;kann aufgerufen werden, wenn er deaktiviert wurde](known-issues-workfront/wf-home-priorities-accessible.md) | Mittwoch, 22. Oktober 2024 |
 | [Startseite: Das Widget &quot;Meine Genehmigungen&quot;funktioniert nicht](known-issues-workfront/wf-home-my-approval-not-working.md) | Mittwoch, 22. Oktober 2024 |
 | [Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | Mittwoch, 22. Oktober 2024 |

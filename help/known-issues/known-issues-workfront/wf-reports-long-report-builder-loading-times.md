@@ -3,16 +3,16 @@ title: "Berichte: Lange Ladezeiten von Report Builder"
 description: "Das Laden des ReportBuilder dauert in einigen Fällen länger, bis zu einer Minute."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '56'
 ht-degree: 7%
 
 ---
 
 
-# Berichte: Lange Ladezeiten von ReportBuilder
+# Berichte: Lange Ladezeiten für Berichte
 
-Das Laden des Report Builders dauert in einigen Fällen länger als eine Minute.
+Das Laden von Berichten dauert länger. Dies wirkt sich auf die Anzeige von Berichten sowie auf die Bearbeitung und Erstellung von Berichten in der Berichterstellung aus.
 
 _Erste Meldung am Donnerstag, 11. September 2024._

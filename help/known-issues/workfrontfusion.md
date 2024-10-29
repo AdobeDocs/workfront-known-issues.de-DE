@@ -4,7 +4,7 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 81%
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront-Fusion: Beginnen Sie mit der Einstellung &quot;Von jetzt an&quot;, um alle Daten zu verarbeiten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Dienstag, 14. Oktober 2024 |
 | [Testsendungen: Der Testversand schlägt bei Dokumenten fehl, die von AEM über Fusion verknüpft wurden](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | Freitag, 3. Oktober 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 
@@ -47,6 +46,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront-Fusion: Beginnen Sie mit der Einstellung &quot;Von jetzt an&quot;, um alle Daten zu verarbeiten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Mittwoch, 29. Oktober 2024 |
 | [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | Dienstag, 5. Februar 2024 |
 | [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | Donnerstag, 31. Januar 2024 |
 | [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16. November 2023 |

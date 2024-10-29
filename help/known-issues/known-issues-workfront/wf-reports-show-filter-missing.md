@@ -3,15 +3,19 @@ title: "Berichte: Filter einblenden/Filteroption ausblenden fehlt"
 description: "Wenn ein Benutzer einen Bericht anzeigt, sind die Filteroptionen Einblenden und Ausblenden nicht sichtbar."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 15%
 
 ---
 
 
 # Berichte: Filter einblenden/Filteroption ausblenden fehlt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 24. Oktober 2024 behoben.
 
 Wenn ein Benutzer einen Bericht anzeigt, sind die Filteroptionen Einblenden und Ausblenden nicht sichtbar.
 

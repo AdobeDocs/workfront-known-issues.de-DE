@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 67%
+source-wordcount: '2013'
+ht-degree: 65%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 67%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [Dokumente: Schaltfläche für Validierungsoptionen in Dokumenten fehlt](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [Integrationen: JumpSeat-Integrationen schlagen für Organisationen mit Unified Shell fehl](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschau anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Berichte: Filter einblenden/Filteroption ausblenden fehlt](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Startseite: Prozent abgeschlossen ist abgeschnitten](known-issues-workfront/wf-home-percent-complete-inaccurate.md)

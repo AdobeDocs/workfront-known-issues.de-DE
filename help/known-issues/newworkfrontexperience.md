@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 77%
+source-wordcount: '1071'
+ht-degree: 74%
 
 ---
 
@@ -25,6 +25,10 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über Layout-Vorlage hinzugefügt wurden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | Dienstag, 4. November 2024 |
+| [Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md) | Dienstag, 4. November 2024 |
+| [Dokumente: Schaltfläche mit Genehmigungsoptionen fehlt in Dokumenten](known-issues-workfront/wf-documents-missing-approval-button.md) | Dienstag, 4. November 2024 |
+| [Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben](known-issues-workfront/wf-home-to-do-new-complete-error.md) | Dienstag, 4. November 2024 |
 | [Home: Prozentualer Abschluss ist abgeschnitten](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | Freitag, 24. Oktober 2024 |
 | [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 19. September 2024 |

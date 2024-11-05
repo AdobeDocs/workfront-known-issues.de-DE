@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '6442'
-ht-degree: 75%
+source-wordcount: '6472'
+ht-degree: 74%
 
 ---
 
@@ -25,6 +25,14 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im Oktober 2024
+
++++**Wartungs-Update vom Freitag, 31. Oktober 2024**
+
+### Wartungs-Update am 31. Oktober 2024
+
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
++++
 
 +++**Wartungs-Update vom Freitag, 24. Oktober 2024**
 
@@ -55,7 +63,6 @@ Wenn ein Benutzer versucht, einem Projekt im Status Abgeschlossen ein Problem hi
 Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an.
 
 +++
-
 
 +++**Wartungs-Update vom Freitag, 17. Oktober 2024**
 

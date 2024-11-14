@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
 workflow-type: tm+mt
-source-wordcount: '2013'
-ht-degree: 65%
+source-wordcount: '2120'
+ht-degree: 62%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 65%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Benutzerdefinierte Formulare: Aufgabenfelder &quot;estimatedByHours&quot;oder &quot;hoursPerPoint&quot;können nicht hinzugefügt werden](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Dokumente: Genehmigung &quot;Quick Add&quot; enthält keinen Termineintrag für neue Versionen](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Layout-Vorlagen: Administratoren können keine Layoutvorlagen für die Startseite bearbeiten](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Benutzer: Das Tag &quot;Nicht registriert&quot; bleibt nach der Anmeldung bestehen](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: Mitarbeiter-Benutzer können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Genehmigungen: Der Filter &quot;Alle&quot;schließt persönlich eingereichte Genehmigungen aus](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Aufgaben: Die Dauer verstrichener Tage ist für übergeordnete Aufgaben mit untergeordneten Elementen nicht korrekt](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront: Die geöffneten Browser-Registerkarten können nicht geladen werden](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Ressourcenplaner: Zugriff auf den Ressourcenplaner nicht möglich](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [Startseite: Das Widget &quot;My Tasks&quot;wird nicht geladen](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Dokumente: Schaltfläche für Validierungsoptionen in Dokumenten fehlt](known-issues-workfront/wf-documents-missing-approval-button.md)

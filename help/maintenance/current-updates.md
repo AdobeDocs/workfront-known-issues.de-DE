@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
 workflow-type: tm+mt
-source-wordcount: '6472'
+source-wordcount: '6506'
 ht-degree: 74%
 
 ---
@@ -23,6 +23,16 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
+
+## Updates im November 2024
+
++++**Wartungs-Update vom Freitag, 7. November 2024**
+
+### Wartungs-Update am 7. November 2024
+
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+
++++
 
 ## Updates im Oktober 2024
 

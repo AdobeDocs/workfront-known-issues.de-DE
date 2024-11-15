@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 69%
+source-wordcount: '1126'
+ht-degree: 71%
 
 ---
 
@@ -36,13 +36,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Aufgaben: Unrichtige Dauer verstrichener Tage für übergeordnete Aufgaben mit untergeordneten Elementen](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | Donnerstag, 13. November 2024 |
 | [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | Donnerstag, 13. November 2024 |
 | [Workfront: Browser-Registerkarten, die geöffnet sind, können nicht geladen werden](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |
-| [Berichte: Berichte werden nicht geladen](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Mittwoch, 12. November 2024 |
-| [Ressourcenplaner: Zugriff auf den Ressourcenplaner nicht möglich](known-issues-workfront/wf-resource-planner-inaccessible.md) | Mittwoch, 12. November 2024 |
-| [Home: My Tasks widget will not load](known-issues-workfront/wf-home-task-widget-wont-load.md) | Mittwoch, 12. November 2024 |
 | [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über Layout-Vorlage hinzugefügt wurden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | Dienstag, 4. November 2024 |
 | [Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md) | Dienstag, 4. November 2024 |
 | [Dokumente: Schaltfläche mit Genehmigungsoptionen fehlt in Dokumenten](known-issues-workfront/wf-documents-missing-approval-button.md) | Dienstag, 4. November 2024 |
-| [Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben](known-issues-workfront/wf-home-to-do-new-complete-error.md) | Dienstag, 4. November 2024 |
 | [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |

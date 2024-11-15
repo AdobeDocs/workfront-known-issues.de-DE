@@ -3,20 +3,18 @@ title: "Resource Planner: Zugriff auf den Resource Planer nicht möglich"
 description: Wenn ein Benutzer versucht, auf den Ressourcen-Planer zuzugreifen, schlägt das Laden der Seite fehl und stattdessen werden Fehlerfelder oder eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 9723d244a9e72025eca6742995b6be1d7144a3b3
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 14%
 
 ---
 
 # Ressourcenplaner: Zugriff auf den Ressourcenplaner nicht möglich
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 10, 2024.
--->
+>Dieses Problem wurde am Freitag, 14. November 2024 behoben.
 
 Wenn ein Benutzer versucht, auf den Ressourcen-Planer zuzugreifen, schlägt das Laden der Seite fehl und stattdessen werden Fehlerfelder oder eine Fehlermeldung angezeigt.
 

@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 62%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 62%
       + [Aufgaben: Die Dauer verstrichener Tage ist für übergeordnete Aufgaben mit untergeordneten Elementen nicht korrekt](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: Die geöffneten Browser-Registerkarten können nicht geladen werden](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Berichte: Berichte können nicht geladen werden](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Ressourcenplaner: Zugriff auf den Ressourcenplaner nicht möglich](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [Startseite: Das Widget &quot;My Tasks&quot;wird nicht geladen](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

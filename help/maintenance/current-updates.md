@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6506'
+source-wordcount: '6582'
 ht-degree: 74%
 
 ---
@@ -25,6 +25,24 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im November 2024
+
++++**Wartungs-Update vom Freitag, 14. November 2024**
+
+### Wartungs-Update am 14. November 2024
+
+#### Startseite
+
+**Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben**
+
+Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im &quot;Aufgaben&quot;-Widget &quot;Aufgaben&quot;abzuschließen, treten Benutzer auf einen Fehler und können die Aufgaben nicht erstellen oder abschließen.
+
+#### Benutzende
+
+**&quot;Kontrollkästchen &quot;Einladungs-E-Mails an diese Personen senden&quot;fehlt**
+
+Beim Import neuer Benutzer in Workfront fehlt das Kontrollkästchen &quot;Einladungs-E-Mails an diese Personen senden&quot; im Dialogfeld.
+
++++
 
 +++**Wartungs-Update vom Freitag, 7. November 2024**
 
@@ -84,7 +102,7 @@ Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das
 
 Die in der Dokumentliste aufgeführten Daten zeigen das Datum der Erstellung der ersten Version des Dokuments anstelle des Datums der Erstellung der neuesten Version an.
 
-### Arbeitszeit- tabellen
+#### Arbeitszeit- tabellen
 
 Wenn ein Benutzer versucht, die Zeit auf einem Zeitblatt zu protokollieren, das sich im Status Gesendet oder Geschlossen befindet, kann er die Zeit nicht protokollieren.
 

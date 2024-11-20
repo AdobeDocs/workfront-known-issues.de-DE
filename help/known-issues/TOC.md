@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
 workflow-type: tm+mt
-source-wordcount: '2125'
-ht-degree: 62%
+source-wordcount: '2132'
+ht-degree: 61%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 62%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: ZScalar-Einstellungen können zu Leistungseinbußen führen](known-issues-workfront//wf-workfront-zscalar.md)
       + [Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [Benutzerdefinierte Formulare: Aufgabenfelder &quot;estimatedByHours&quot;oder &quot;hoursPerPoint&quot;können nicht hinzugefügt werden](known-issues-workfront/wf-custom-forms-invalid-fields.md)

@@ -1,17 +1,21 @@
 ---
-title: '"Startseite: Das Widget "Meine Updates"funktioniert nicht.'
-description: '"Wenn ein Benutzer versucht, das Widget "Meine Updates"auf der Startseite anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht eine Nachricht."'
+title: '"Home: Das Widget "Meine Updates"funktioniert nicht'
+description: Wenn ein Benutzer versucht, das Widget Meine Updates auf der Startseite anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht eine Nachricht.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: caa1cd37-825f-45bc-add8-48b6c0f09814
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 16%
+source-wordcount: '91'
+ht-degree: 21%
 
 ---
 
-
 # Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 18. November 2024 behoben.
 
 Wenn ein Benutzer versucht, das Widget &quot;Meine Updates&quot;auf der Startseite anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht die folgende Nachricht:
 

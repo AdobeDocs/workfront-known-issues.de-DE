@@ -4,17 +4,14 @@ description: Das Laden des Report Builders dauert in einigen Fällen länger als
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: ca850f76-8cdb-47ac-8687-4a3c57deb1dd
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
 # Berichte: Lange Ladezeiten für Berichte
-
->[!NOTE]
->Das Produktteam behebt dieses Problem mit Produktverbesserungen. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 Das Laden von Berichten dauert länger. Dies wirkt sich auf die Anzeige von Berichten sowie auf die Bearbeitung und Erstellung von Berichten in der Berichterstellung aus.
 

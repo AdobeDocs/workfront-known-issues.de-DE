@@ -3,14 +3,19 @@ title: 'Dokumente: Schaltfläche für Validierungsoptionen fehlt in Dokumenten'
 description: Wenn ein Benutzer, der als Genehmiger für ein Dokument zugewiesen wurde, zum Dokument navigiert, um eine Genehmigungsentscheidung zu treffen, fehlt die Schaltfläche für die Genehmigungsoptionen .
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: 5172fa74-f3bc-4fe0-abdf-30ef640ef247
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 # Dokumente: Schaltfläche für Validierungsoptionen in Dokumenten fehlt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Donnerstag, 13. November 2024 behoben.
 
 Wenn ein Benutzer, der als Genehmiger für ein Dokument zugewiesen wurde, zum Dokument navigiert, um eine Genehmigungsentscheidung zu treffen, fehlt die Schaltfläche für die Genehmigungsoptionen .
 

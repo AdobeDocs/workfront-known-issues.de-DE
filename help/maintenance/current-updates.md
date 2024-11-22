@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6582'
-ht-degree: 74%
+source-wordcount: '6739'
+ht-degree: 72%
 
 ---
 
@@ -25,6 +25,38 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
 ## Updates im November 2024
+
++++**Wartungs-Update vom Freitag, 21. November 2024**
+
+### Wartungs-Update am 21. November 2024
+
+#### Dashboards
+
+**Kann nicht mit Balkendiagrammberichtsleisten in Dashboards interagieren**
+
+Wenn Sie versuchen, in einem Balkendiagramm-Bericht innerhalb eines Dashboards auf eine Leiste zu klicken oder den Mauszeiger darüber zu bewegen, wird das Detailmenü nicht geöffnet oder es wird keine QuickInfo angezeigt.
+
+#### Projekte
+
+**Projekte können nicht geladen werden**
+
+Beim Navigieren zu einem Projekt schlägt die Seite gelegentlich fehl, Inhalte zu laden.
+
+#### Berichte
+
+**Die Massenbearbeitung in Diagrammlisten reagiert nicht**
+
+Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, wird der Cursor ausgeblendet und die Textfelder für die Massenbearbeitung werden nicht mehr responsiv.
+
+**Bearbeiten und Löschen von Schaltflächen, die in Zeitblatt-Berichten nicht responsiv sind**
+
+Beim Versuch, auf die Symbole Bearbeiten oder Löschen in einem Timesheet-Bericht zu klicken, gibt es keine Antwort.
+
+**Berichte mit Typeahead-Feldern können nicht geladen werden**
+
+Beim Öffnen eines Berichts mit benutzerdefinierten Typenvorlagenfeldern schlägt das Laden des Berichts gelegentlich fehl und es wird eine Fehlermeldung angezeigt.
+
++++
 
 +++**Wartungs-Update vom Freitag, 14. November 2024**
 

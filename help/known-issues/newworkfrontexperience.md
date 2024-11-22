@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '1134'
-ht-degree: 70%
+source-wordcount: '1109'
+ht-degree: 71%
 
 ---
 
@@ -34,11 +34,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Workfront: Mitarbeiter-Benutzer können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | Donnerstag, 13. November 2024 |
 | [Genehmigungen: Der Filter &quot;Alle&quot;schließt persönlich eingereichte Genehmigungen aus](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | Donnerstag, 13. November 2024 |
 | [Aufgaben: Unrichtige Dauer verstrichener Tage für übergeordnete Aufgaben mit untergeordneten Elementen](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | Donnerstag, 13. November 2024 |
-| [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | Donnerstag, 13. November 2024 |
 | [Workfront: Browser-Registerkarten, die geöffnet sind, können nicht geladen werden](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |
 | [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über Layout-Vorlage hinzugefügt wurden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | Dienstag, 4. November 2024 |
-| [Startseite: Das Widget &quot;Meine Updates&quot;funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md) | Dienstag, 4. November 2024 |
-| [Dokumente: Schaltfläche mit Genehmigungsoptionen fehlt in Dokumenten](known-issues-workfront/wf-documents-missing-approval-button.md) | Dienstag, 4. November 2024 |
 | [Workfront Mobile: Testversand-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [API: API-Aufruf schlägt aufgrund von SQL-Fehler fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
@@ -58,8 +55,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 |----------------------------------| ----------------- |
+| [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 21. November 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Freitag, 24. Oktober 2024 |
-| [Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | Mittwoch, 22. Oktober 2024 |
 | [Projekte: Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschen&quot;nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md) | Freitag, 3. Oktober 2024 |
 | [Integrationen: Anmeldung bei Workfront für Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Mittwoch, 24. September 2024 |
 | [Gruppen: Der Status der gelöschten Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md) | Freitag, 12. September 2024 |

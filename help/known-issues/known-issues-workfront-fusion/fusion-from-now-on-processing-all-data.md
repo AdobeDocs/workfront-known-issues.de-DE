@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Einstellung von jetzt an bei der Verarbeitung aller Daten starten"
-description: '"Wenn ein Benutzer das Szenario auf eine frühere Version zurücksetzt, versucht er nach Auswahl von "Von jetzt an an"als Einstellung zum Festlegen des Zeitpunkts für das Szenario, alle Daten unabhängig vom Datum zu verarbeiten, anstatt nur Daten einzuschließen, nachdem die Startoption ausgewählt wurde."'
+title: 'Workfront Fusion: Einstellung von jetzt an bei der Verarbeitung aller Daten starten'
+description: Wenn ein Benutzer das Szenario auf eine frühere Version zurücksetzt, versucht er nach Auswahl von Von jetzt an mit der Einstellung Wann auswählen , alle Daten unabhängig vom Datum zu verarbeiten, anstatt nur Daten nach Auswahl der Startoption einzuschließen.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 21%
 
 ---
-
 
 # Workfront Fusion: Mit der Einstellung &quot;Von jetzt an&quot;können Sie alle Daten verarbeiten
 

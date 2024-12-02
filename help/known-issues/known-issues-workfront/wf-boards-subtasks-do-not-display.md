@@ -1,5 +1,5 @@
 ---
-title: '„Pinnwände: Karte enthält keine Unteraufgaben“'
+title: 'Pinnwände: Karte enthält keine Unteraufgaben'
 description: Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine übergeordnete Aufgabe ist, werden die Unteraufgaben dieser übergeordneten Aufgabe nicht auf der Karte angezeigt. Stattdessen zeigt die Karte an, dass es 0 Unteraufgaben gibt.
 hidefromtoc: true
 feature: Agile

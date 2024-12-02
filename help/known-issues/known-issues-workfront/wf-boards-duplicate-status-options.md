@@ -1,9 +1,10 @@
 ---
-title: "Pinnwände: Optionen zum Duplizieren des Status für Aufgaben und Probleme"
+title: 'Pinnwände: Statusoptionen für Aufgaben und Probleme duplizieren'
 description: Beim Aktualisieren des Status einer Aufgabe oder eines Problems auf einer Pinnwand wird für bestimmte Status eine Duplikat-Option angezeigt.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+exl-id: 61f34f9e-6081-4ebc-bfcf-92bdd651a4db
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 9%

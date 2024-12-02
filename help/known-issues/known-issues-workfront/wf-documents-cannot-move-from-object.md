@@ -1,9 +1,10 @@
 ---
-title: '"Dokumente: Dokumente können nicht von der Registerkarte "Objektdokumente"verschoben werden'
-description: '"Beim Versuch, ein Dokument aus einem Projekt, einer Aufgabe oder der Registerkarte "Dokumente"des Problems zu verschieben, wird beim Benutzer folgender Fehler angezeigt: Fehler beim Laden des sekundären Inhalts."'
+title: 'Dokumente: Dokumente können nicht von der Registerkarte "Dokumente"des Objekts verschoben werden'
+description: 'Beim Versuch, ein Dokument aus einem Projekt, einer Aufgabe oder der Registerkarte "Dokumente"des Problems zu verschieben, wird beim Benutzer folgender Fehler angezeigt: Fehler beim Laden des sekundären Inhalts.'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: fe5de4ce-dc30-41aa-96ba-aeb73851ef9f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 5%

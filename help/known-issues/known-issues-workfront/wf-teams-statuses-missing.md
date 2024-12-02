@@ -1,5 +1,5 @@
 ---
-title: '"Teams: Probleme beim Festlegen des Teamstatus für die Schaltfläche "Fertig"'
+title: 'Teams: Probleme beim Festlegen des Teamstatus für die Schaltfläche "Fertig" '
 description: Es wurden Probleme bezüglich des Status der Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: People Teams and Groups

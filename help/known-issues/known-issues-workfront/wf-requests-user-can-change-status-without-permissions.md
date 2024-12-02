@@ -1,15 +1,15 @@
 ---
-title: "Anforderungen: Benutzer können den Status ändern, obwohl keine Berechtigungen erteilt wurden"
-description: "Benutzer mit Beitragszugriff und ohne Berechtigung zum Ändern des Problemstatus können den Status ändern."
+title: 'Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden'
+description: Benutzer mit Beitragszugriff und ohne Berechtigungen zum Ändern des Problemstatus können den Status ändern.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 21%
 
 ---
-
 
 # Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden
 

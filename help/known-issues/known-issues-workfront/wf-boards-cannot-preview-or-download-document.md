@@ -1,5 +1,5 @@
 ---
-title: "Pinnwände: Dokumente können nicht von der Karte aus in der Vorschau angezeigt oder heruntergeladen werden"
+title: 'Pinnwände: Dokumente können nicht von der Karte aus in der Vorschau angezeigt oder heruntergeladen werden'
 description: Word-Dokumente (.docx) können nicht im Abschnitt "Dokumente"der detaillierten Kartenansicht als Vorschau angezeigt oder heruntergeladen werden.
 hidefromtoc: true
 feature: Agile

@@ -1,5 +1,5 @@
 ---
-title: 'Updates: Benutzer werden nicht über gezielte Updates benachrichtigt.'
+title: 'Updates: Benutzer werden nicht über gezielte Updates benachrichtigt'
 description: Wenn ein Benutzer einen Kommentar abgibt, Erwähnungen vornimmt oder einen anderen Benutzer mit Tags markiert, erhält der getaggte Benutzer keine E-Mail- oder In-App-Benachrichtigung über den Kommentar.
 hidefromtoc: true
 feature: Updates and Notifications

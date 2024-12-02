@@ -1,5 +1,5 @@
 ---
-title: '"Home: Das Widget "Meine Updates"funktioniert nicht'
+title: 'Startseite: Das Widget "Meine Updates"funktioniert nicht'
 description: Wenn ein Benutzer versucht, das Widget Meine Updates auf der Startseite anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht eine Nachricht.
 hidefromtoc: true
 feature: Get Started with Workfront

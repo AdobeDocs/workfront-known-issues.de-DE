@@ -1,5 +1,5 @@
 ---
-title: "Berichte: Lange Ladezeiten von Report Builder"
+title: 'Berichte: Lange Ladezeiten von ReportBuilder'
 description: Das Laden des Report Builders dauert in einigen Fällen länger als eine Minute.
 hidefromtoc: true
 feature: Reports and Dashboards

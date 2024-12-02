@@ -1,5 +1,5 @@
 ---
-title: '„Startseite: Das Widget „Erwähnungen“ auf der neuen Startseite ist nicht auf Nachrichten beschränkt, in denen die Benutzerin bzw. der Benutzer getaggt ist“'
+title: 'Startseite: Das Widget Erwähnungen im neuen Startseite ist nicht auf Nachrichten beschränkt, in denen der Benutzer mit Tags versehen ist.'
 description: Wenn eine Person das Widget „Erwähnungen“ im neuen Startseitenerlebnis anzeigt, sieht sie Kommentare, in denen sie weder getaggt ist noch erwähnt wird.
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

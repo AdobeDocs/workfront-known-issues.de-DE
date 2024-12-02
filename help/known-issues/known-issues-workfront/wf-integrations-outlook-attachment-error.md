@@ -1,5 +1,5 @@
 ---
-title: "Integrationen: Fehler beim Erstellen einer Anforderung von Outlook"
+title: 'Integrationen: Fehler beim Erstellen einer Anforderung aus Outlook'
 description: Wenn ein Benutzer versucht, eine Anforderung aus der Workfront für Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der Benutzer sieht die Meldung Irgendetwas ist schiefgelaufen. Versuchen Sie es später noch einmal.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management

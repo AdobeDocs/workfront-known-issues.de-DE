@@ -1,5 +1,5 @@
 ---
-title: '„Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten“'
+title: 'Layout-Vorlagen: Layout-Vorlagen verursachen Inkonsistenzen in Berichten'
 description: Layout-Vorlagen aus dem klassischen Workfront-Erlebnis sind nicht mehr in der Workfront-Benutzeroberfläche verfügbar, können sich aber dennoch auf Workfront-Daten auswirken. Dies kann zu Inkonsistenzen in Feldern führen, die von Layout-Vorlagen (z. B. „Freigegeben für“) in Berichten oder Dashboards betroffen sind.
 hidefromtoc: true
 feature: System Setup and Administration

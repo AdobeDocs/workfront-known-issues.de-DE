@@ -1,15 +1,15 @@
 ---
-title: '"Home: Markieren als Fertig schließt den Übersichtsbereich für das Widget "Meine Probleme"'
-description: "Beim Versuch, die Schaltfläche Als Fertig markieren im Übersichtsbereich eines Problems zu verwenden, das über das Widget Meine Probleme geöffnet wurde, wird der Übersichtsbereich unerwartet geschlossen."
+title: 'Startseite: Mit "Als Fertig markieren"wird der Übersichtsbereich für das Widget Meine Probleme geschlossen'
+description: Beim Versuch, die Schaltfläche Als Fertig markieren im Zusammenfassungsbereich eines Problems zu verwenden, das über das Widget Meine Probleme geöffnet wurde, wird der Übersichtsbereich unerwartet geschlossen.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+exl-id: 3df55091-6285-4a15-9436-80fa08839acf
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
 
 ---
-
 
 # Startseite: &quot;Als fertig markieren&quot;schließt den Übersichtsbereich für das Widget Meine Probleme .
 

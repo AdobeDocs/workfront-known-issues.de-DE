@@ -1,5 +1,5 @@
 ---
-title: "Workfront: ZScaler-Einstellungen können zu Leistungseinbußen führen"
+title: 'Workfront: ZScaler-Einstellungen können zu Leistungseinbußen führen'
 description: Der Webdienst von ZScaler verwendet standardmäßig http/1.1, was zu Leistungseinbußen in Workfront führen kann.
 hidefromtoc: true
 feature: System Setup and Administration

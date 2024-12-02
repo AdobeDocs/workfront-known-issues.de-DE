@@ -1,9 +1,10 @@
 ---
-title: '"Workfront: Mitarbeiter-Benutzer können nicht auf Programme oder Portfolios zugreifen'
+title: 'Workfront: Mitarbeiter-Benutzer können nicht auf Programme oder Portfolios zugreifen'
 description: Benutzer mit der neuen Zugriffsebene "Mitarbeiter"können nicht auf Programme oder Portfolio zugreifen, obwohl sie Zugriff auf beide in der Zugriffsebene haben.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 6%

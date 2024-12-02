@@ -1,5 +1,5 @@
 ---
-title: ''' Benutzerdefinierte Formulare: Dropdown-Liste wird geschlossen, wenn mehrere Werte ausgewählt werden'
+title: ' Benutzerdefinierte Formulare: Dropdown-Liste wird geschlossen, wenn mehrere Werte ausgewählt werden'
 description: 'Wenn ein Benutzer versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird die Dropdown-Liste geschlossen, nachdem der erste Wert ausgewählt wurde. '
 hidefromtoc: true
 feature: Custom Forms

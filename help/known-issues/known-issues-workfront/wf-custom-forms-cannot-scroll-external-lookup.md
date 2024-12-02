@@ -1,5 +1,5 @@
 ---
-title: "Benutzerdefinierte Formulare: kein externes Suchfeld scrollen möglich"
+title: 'Benutzerdefinierte Formulare: Externes Suchfeld kann nicht scrollen'
 description: Wenn ein Benutzer versucht, die Optionen in einem externen Suchfeld anzuzeigen, wird das Dropdown-Menü "Optionen"nicht angezeigt und der Benutzer kann die gesamte Liste der Optionen nicht sehen
 hidefromtoc: true
 feature: Custom Forms

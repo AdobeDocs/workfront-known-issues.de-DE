@@ -1,5 +1,5 @@
 ---
-title: "Gruppen: Untergruppen werden nicht korrekt angezeigt"
+title: 'Gruppen: Untergruppen werden nicht korrekt angezeigt'
 description: Wenn ein Benutzer die Liste Gruppen im Bereich Einrichtung anzeigt, sieht er, dass Untergruppen unter der übergeordneten Gruppe nicht korrekt aufgelistet sind. Die Untergruppe wird korrekt unter der übergeordneten Gruppe gespeichert, die Liste kann jedoch zu Verwirrung führen.
 hidefromtoc: true
 feature: People Teams and Groups

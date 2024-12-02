@@ -1,5 +1,5 @@
 ---
-title: "Home: Home abstürzt mit Fehler wegen zu wenig Speicher"
+title: 'Startseite: Startseite stürzt mit Fehler wegen zu wenig Speicher ab'
 description: Wenn ein Benutzer versucht, die neue Startseite anzuzeigen, stürzt die Site mit einer Fehlermeldung ab. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Get Started with Workfront

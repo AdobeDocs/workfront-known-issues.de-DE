@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt“'
+title: 'Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt'
 description: Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web-generierten Korrekturabzug enthält, in ein Projekt zu konvertieren, wird das Projekt nicht erstellt und es wird eine Meldung angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management

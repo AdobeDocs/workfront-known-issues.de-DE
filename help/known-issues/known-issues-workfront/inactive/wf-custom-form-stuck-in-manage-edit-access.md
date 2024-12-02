@@ -1,5 +1,5 @@
 ---
-title: '„Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung ‚Verwalten‘ oder ‚Bearbeiten‘“'
+title: 'Benutzerdefinierte Formulare: Für objektübergreifende benutzerdefinierte Formulare ist der Zugriff zum Bearbeiten von Feldern durch Verwalten oder Bearbeiten erforderlich'
 description: Wenn ein/e Benutzende(r) ein objektübergreifendes Formular erstellt, in dem die Berechtigungen „Verwalten“ oder „Bearbeiten“ erforderlich sind, und diesen Objekttyp dann entfernt, erfordert das benutzerdefinierte Formular weiterhin die Berechtigung „Verwalten“ oder „Bearbeiten“, um die Felder zu bearbeiten. Es gibt keinen visuellen Hinweis darauf, dass die Felder die Berechtigung „Verwalten“ oder „Bearbeiten“ erfordern, und es gibt auch keine Möglichkeit, das Formular zurückzusetzen.
 hidefromtoc: true
 feature: Custom Forms
@@ -7,7 +7,7 @@ exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

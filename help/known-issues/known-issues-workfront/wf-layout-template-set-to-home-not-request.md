@@ -1,5 +1,5 @@
 ---
-title: '„Layout-Vorlage: Landingpage ist falsch“'
+title: 'Layout-Vorlage: Landingpage ist falsch'
 description: Wenn Benutzende mit einer Antragstellerlizenz einer Layout-Vorlage zugewiesen werden, bei der die Anfrageseite als Landingpage festgelegt ist, werden diese Benutzenden stattdessen auf die Startseite als Landingpage weitergeleitet.
 hidefromtoc: true
 feature: System Setup and Administration

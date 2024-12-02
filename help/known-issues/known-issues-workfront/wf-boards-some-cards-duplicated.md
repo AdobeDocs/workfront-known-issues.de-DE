@@ -1,5 +1,5 @@
 ---
-title: '„Pinnwände: Probleme mit doppelten Karten“'
+title: 'Pinnwände: Probleme mit doppelten Karten'
 description: Es wurden Probleme bezüglich doppelter Karten in Pinnwänden gemeldet.
 hidefromtoc: true
 feature: Agile

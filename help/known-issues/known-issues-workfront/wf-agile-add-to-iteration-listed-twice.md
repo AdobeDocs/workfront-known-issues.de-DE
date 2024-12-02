@@ -1,9 +1,10 @@
 ---
-title: "Agile: Bei der Zuweisung des Scrum-Teams zweimal aufgeführte Option Zu Iteration hinzufügen"
-description: "Bei der Zuweisung einer Aufgabe oder eines Problems zu einem agilen Trommelteam wird die Option Zu Iteration hinzufügen zweimal im Menü Mehr angezeigt. Dies wirkt sich nicht auf die Fähigkeit aus, das Team zuzuweisen, und wird nicht für agile Teams angezeigt, die nicht mit dem Scrum arbeiten."
+title: 'Agile: Bei der Zuweisung des Scrum-Teams zweimal aufgeführte Option Zu Iteration hinzufügen'
+description: Bei der Zuweisung einer Aufgabe oder eines Problems zu einem agilen Scrollteam wird die Option Zu Iteration hinzufügen zweimal im Menü Mehr angezeigt. Dies wirkt sich nicht auf die Fähigkeit aus, das Team zuzuweisen, und wird nicht für agile Teams angezeigt, die nicht mit dem Scrollen betraut sind.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+exl-id: 03a2b93d-029f-40d8-bd91-34c3bd2a4302
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 8%

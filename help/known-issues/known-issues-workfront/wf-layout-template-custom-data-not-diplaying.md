@@ -1,9 +1,10 @@
 ---
-title: '"Layout templates: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layout-Vorlage hinzugefügt wurden.'
+title: 'Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden'
 description: Wenn ein Administrator dem Abschnitt "Aufgabenzusammenfassung"über eine Layoutvorlage ein benutzerdefiniertes Datenfeld hinzufügt, wird das Feld für Benutzer, die sich den Abschnitt "Aufgabenzusammenfassung"ansehen, als leer angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%

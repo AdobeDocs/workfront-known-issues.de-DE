@@ -1,5 +1,5 @@
 ---
-title: "Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter"
+title: 'Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter'
 description: Die Karten in der Ansauspalte einer dynamischen Pinnwand zeigen falsche Statusinformationen an und filtern nicht ordnungsgemäß nach ihrem Status.
 hidefromtoc: true
 feature: Agile

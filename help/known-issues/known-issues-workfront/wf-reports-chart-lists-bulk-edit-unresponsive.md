@@ -1,5 +1,5 @@
 ---
-title: 'Berichte: Die Massenbearbeitung in Diagrammlisten ist nicht responsiv'
+title: 'Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht'
 description: Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, wird der Cursor ausgeblendet und die Textfelder für die Massenbearbeitung werden nicht mehr responsiv.
 hidefromtoc: true
 feature: Reports and Dashboards

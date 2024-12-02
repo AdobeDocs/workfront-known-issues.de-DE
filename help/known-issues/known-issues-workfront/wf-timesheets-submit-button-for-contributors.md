@@ -1,9 +1,10 @@
 ---
-title: '"Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche "Zur Genehmigung übermitteln"'
-description: '"Benutzer mit der Zugriffsebene "Mitarbeiter"können zwar keine Stunden in Timesheets eingeben, haben aber die Schaltfläche "Zur Genehmigung übermitteln", auf die sie klicken können."'
+title: 'Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche "Zur Genehmigung übermitteln"'
+description: Benutzer mit der Zugriffsebene "Mitarbeiter"können zwar keine Stunden in Timesheets eingeben, haben jedoch die Schaltfläche "Zur Genehmigung übermitteln", auf die sie klicken können.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 3c2f744e-e53e-47b5-bd8d-eee3063ef108
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 5%

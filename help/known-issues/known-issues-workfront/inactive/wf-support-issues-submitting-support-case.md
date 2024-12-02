@@ -1,13 +1,13 @@
 ---
-title: '„[!DNL Workfront]: Probleme beim Einreichen einer Workfront-Support-Anfrage in Experience League“'
-description: „Wenn Sie ein autorisierter Support-Kontakt für  [!DNL Workfront]  sind und Probleme beim Einreichen eines Support-Tickets haben, rufen Sie uns bitte unter einer der unten stehenden Nummern an, damit wir Ihnen helfen können.“
+title: '[!DNL Workfront]: Probleme beim Senden eines Workfront-Support-Falles auf dem Experience League'
+description: '"Wenn Sie ein [!DNL Workfront] autorisierter Support-Kontakt sind und Probleme beim Einreichen eines Support-Falls haben, rufen Sie uns bitte unter den unten stehenden Nummern an, damit wir Ihnen helfen können.'
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 

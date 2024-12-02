@@ -1,5 +1,5 @@
 ---
-title: "Zugriffsebenen: Zugriffsebenen im Setup-Bereich duplizieren"
+title: 'Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich'
 description: Wenn ein Benutzer die Liste der Zugriffsebenen im Bereich Einrichtung anzeigt, sieht er, dass einige Zugriffsebenen dupliziert werden. Dies gilt nur für integrierte Ebenen.
 hidefromtoc: true
 feature: System Setup and Administration

@@ -1,15 +1,15 @@
 ---
-title: '"Home: Kein Zugriff wird als Projektname angezeigt.'
-description: "Wenn ein Benutzer sein My Tasks-Widget zu Hause anzeigt, wird in der Spalte Projektname kein Zugriff angezeigt. Dies geschieht, auch wenn der Projektname im Widget Meine Arbeit sichtbar ist."
+title: 'Home: Kein Zugriff wird als Projektname angezeigt'
+description: Wenn ein Benutzer sein Widget "Meine Aufgaben"zu Hause anzeigt, wird in der Spalte Projektname kein Zugriff angezeigt. Dies geschieht, auch wenn der Projektname im Widget Meine Arbeit sichtbar ist.
 hidefromtoc: true
 feature: Get Started with Workfront, Work Management
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+exl-id: d31cd7ee-4c2b-43e4-9534-9cd075a80699
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 4%
 
 ---
-
 
 # Startseite: &quot;Kein Zugriff&quot;wird als Projektname angezeigt
 

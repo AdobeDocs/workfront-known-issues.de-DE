@@ -1,15 +1,15 @@
 ---
-title: "Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als Verbindung authentifiziert werden"
-description: "Beim Erstellen einer Verbindung in Workfront Fusion kann ein Benutzer die Verbindung nicht authentifizieren, während er als ein anderer Benutzer angemeldet ist."
+title: 'Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als authentifiziert werden'
+description: Beim Erstellen einer Verbindung in Workfront Fusion kann ein Benutzer die Verbindung nicht authentifizieren, während er als ein anderer Benutzer angemeldet ist.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
+exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 5%
 
 ---
-
 
 # Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als authentifiziert werden
 

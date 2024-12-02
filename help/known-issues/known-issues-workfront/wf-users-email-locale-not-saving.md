@@ -1,5 +1,5 @@
 ---
-title: 'Benutzer: E-Mail-Gebietsschema-Einstellung für Benutzer wird nicht gespeichert'
+title: 'Benutzer: Die Spracheinstellung E-Mail für Benutzer wird nicht gespeichert'
 description: Wenn ein Administrator versucht, die Einstellung für das E-Mail-Gebietsschema eines Benutzers zu ändern, wird wieder Englisch angezeigt.
 hidefromtoc: true
 feature: People Teams and Groups

@@ -1,6 +1,6 @@
 ---
-title: '„Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird“'
-description: Wenn ein Dokument in ein anderes Projekt verschoben wird, erbt das Dokument nicht die Freigabeberechtigungen vom neuen Projekt. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. „
+title: 'Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird'
+description: 'Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt das Dokument die Freigabeberechtigungen vom neuen Projekt nicht. Das Dokument wird nicht für die Benutzenden freigegeben, für die das Projekt freigegeben ist. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9

@@ -1,9 +1,10 @@
 ---
-title: '"Benutzerdefinierte Formulare: Aufgabefelder "estimatedByHours"oder "hoursPerPoint"können nicht hinzugefügt werden'
-description: '"Wenn ein Benutzer versucht, die Felder "estimatedByHours"oder "hoursPerPoint"einem benutzerdefinierten Formular im Formular-Builder hinzuzufügen, wird eine Fehlermeldung angezeigt: "Dies ist ein ungültiger benutzerdefinierter Ausdruck, versuchen Sie es erneut."'
+title: 'Benutzerdefinierte Formulare: Aufgabenfelder "estimatedByHours"oder "hoursPerPoint"können nicht hinzugefügt werden'
+description: 'Wenn ein Benutzer versucht, die Felder "estimatedByHours"oder "hoursPerPoint"einem benutzerdefinierten Formular im Formular-Builder hinzuzufügen, wird eine Fehlermeldung angezeigt: "Dies ist ein ungültiger benutzerdefinierter Ausdruck, versuchen Sie es erneut."'
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%

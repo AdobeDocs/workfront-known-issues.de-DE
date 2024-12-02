@@ -1,5 +1,5 @@
 ---
-title: '"Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab'
+title: 'Benutzerdefinierte Formulare: Browser stürzt beim Erstellen großer Formulare ab'
 description: Wenn ein Benutzer ein großes Formular im Formularentwickler erstellt oder bearbeitet, kann der Browser abstürzen und der Benutzer kann das Formular nicht erstellen oder bearbeiten.
 hidefromtoc: true
 feature: Custom Forms

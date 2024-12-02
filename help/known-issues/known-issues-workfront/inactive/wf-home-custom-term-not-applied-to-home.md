@@ -1,5 +1,5 @@
 ---
-title: '„Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet“'
+title: 'Startseite: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet'
 description: Im Bereich „Startseite“ werden die Standardnamen für Objekte anstelle der von der Organisation festgelegten Terminologie angezeigt. Dies wurde in verschiedenen Bereichen gemeldet.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true

@@ -1,5 +1,5 @@
 ---
-title: '„Berichte: Der Kalender zeigt standardmäßig alte Datumswerte an“'
+title: 'Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt'
 description: Wenn ein(e) Benutzende(r) einen Kalender öffnet, lädt der Kalender einen zufälligen vergangenen Datumsbereich (z. B. eine Woche aus dem Jahr 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true

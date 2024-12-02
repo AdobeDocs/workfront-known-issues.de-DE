@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Der Korrekturabzug wird für Benutzende im Korrekturabzugs-Workflow nicht freigegeben.“'
+title: 'Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben'
 description: Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem Benutzende während der Erstellung des Korrekturabzugs hinzugefügt wurden, wird der Korrekturabzug nicht für diese Benutzenden freigegeben, und sie können nicht auf den Korrekturabzug zugreifen.
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0

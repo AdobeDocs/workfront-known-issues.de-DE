@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen: Benutzer mit Tags können nicht sehen, wer sie mit Tags versehen hat"
+title: 'Aktualisierungen: Getaggte Benutzende können nicht sehen, wer sie getaggt hat'
 description: Wenn eine Benutzende in einer Aktualisierung getaggt werden, können sie nicht sehen, wer sie getaggt hat. Dies tritt auf, wenn die Einstellung Personen in anderen Unternehmen sollten Benutzer nur von anzeigen.. auf Ihr Unternehmen festgelegt ist.
 hidefromtoc: true
 feature: Updates and Notifications
@@ -7,7 +7,7 @@ exl-id: 35d19e35-97ef-4cd5-a792-8ec451369e7c
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 

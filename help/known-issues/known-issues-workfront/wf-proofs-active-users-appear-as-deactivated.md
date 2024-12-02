@@ -1,9 +1,10 @@
 ---
-title: '"Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt.'
-description: "Obwohl Benutzer aktiv sind, erscheinen sie in einigen Testsendungen als deaktiviert und können nicht darauf zugreifen."
+title: 'Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt'
+description: Obwohl Benutzer aktiv sind, erscheinen sie in einigen Testsendungen als deaktiviert und können nicht darauf zugreifen.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+exl-id: 9afff8c1-bdb0-44b9-ab1a-b59b89600cae
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 8%

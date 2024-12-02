@@ -1,5 +1,5 @@
 ---
-title: '„Startseite: Das Genehmigungen-Widget ist nicht korrekt“'
+title: 'Startseite: Das Genehmigungen-Widget ist nicht korrekt'
 description: Das Widget „Warten auf Genehmigung“ im neuen Starterlebnis zeigt die Genehmigungen nicht korrekt an.
 hidefromtoc: true
 feature: Digital Content and Documents

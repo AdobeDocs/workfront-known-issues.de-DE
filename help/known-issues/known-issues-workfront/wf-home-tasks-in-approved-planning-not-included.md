@@ -1,5 +1,5 @@
 ---
-title: '„Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten“'
+title: 'Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten'
 description: Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht auf der Startseite angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Get Started with Workfront

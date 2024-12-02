@@ -1,9 +1,10 @@
 ---
-title: "Integrationen: JumpSeat-Integrationen schlagen für Organisationen mit Unified Shell fehl"
+title: 'Integrationen: JumpSeat-Integrationen schlagen für Organisationen mit Unified Shell fehl'
 description: Wenn die Organisation eines Benutzers auf Adobe Unified Shell migriert wird, funktionieren die vorhandenen JumpSeat-Integrationen nicht.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 5%

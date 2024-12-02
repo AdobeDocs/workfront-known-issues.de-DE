@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen: Kommentare werden nicht im Namen von angezeigt."
+title: 'Aktualisierungen: Kommentare werden nicht im Namen von angezeigt'
 description: Wenn ein Administrator als ein anderer Benutzer angemeldet ist und einen Kommentar abgibt, wird der Kommentar diesem Benutzer zugeordnet, anstatt dem Administrator im Namen des Benutzers zugeordnet zu werden.
 hidefromtoc: true
 feature: Updates and Notifications

@@ -1,5 +1,5 @@
 ---
-title: '„Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden“'
+title: 'Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden'
 description: Wenn während der Ausführung eines Szenarios ein „Projekt erstellen“-Modul verwendet wird, werden zwei identische Projekte erstellt. Dies kann bei der Verwendung der Projekte in Workfront zu Verwirrung führen.
 hidefromtoc: true
 feature: Workfront Fusion

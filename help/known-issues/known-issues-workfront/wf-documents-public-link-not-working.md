@@ -1,5 +1,5 @@
 ---
-title: '„Dokumente: Fehler bei Verwendung eines öffentlichen Links zu einem Dokument“'
+title: 'Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument'
 description: Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird möglicherweise ein Fehler angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents

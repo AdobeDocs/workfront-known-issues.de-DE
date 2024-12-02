@@ -1,5 +1,5 @@
 ---
-title: '„Workfront: Branding wird nicht angewendet“'
+title: 'Workfront: Branding wird nicht angewendet'
 description: Beim Versuch, Dateien in den Branding-Bereich von Setup hochzuladen, scheinen die Dateien korrekt hochgeladen zu werden. Wenn jedoch das Hauptmenü angezeigt wird, ist das Logo nicht zu sehen. Stattdessen wird ihnen eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

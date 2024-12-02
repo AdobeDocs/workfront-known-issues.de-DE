@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet.'
+title: 'Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet'
 description: 'Wenn ein Benutzer einen Testversand öffnet, werden zwei Browser-Registerkarten mit demselben Testversand geöffnet. '
 hidefromtoc: true
 feature: Digital Content and Documents

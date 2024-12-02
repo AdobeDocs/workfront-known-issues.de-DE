@@ -1,5 +1,5 @@
 ---
-title: "Testsendungen: In Berichten werden die bestätigten Testsendungen angezeigt"
+title: 'Testsendungen: Die bestätigten Testsendungen werden in Berichten angezeigt'
 description: Wenn ein Benutzer einen Bericht zur Testversandvalidierung anzeigt, werden möglicherweise einige genehmigte Testsendungen im Bericht angezeigt. Dies kann vorkommen, auch wenn der Bericht so gefiltert wird, dass nur Testsendungen angezeigt werden, die auf die Genehmigung warten.
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards

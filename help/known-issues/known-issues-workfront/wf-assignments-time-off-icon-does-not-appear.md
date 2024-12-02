@@ -1,5 +1,5 @@
 ---
-title: "Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt."
+title: 'Zuweisungen: Das Symbol Zeitlimit wird beim Zuweisen von Aufgaben nicht angezeigt'
 description: Wenn ein Benutzer eine Aufgabe zuweist und mit der Eingabe des Namens des Bevollmächtigten beginnt, dessen Zeitdauer während der Aufgabe geplant ist, wird über die Benutzersymbole im Bereich "Zuweisungen vorschlagen"nicht das Symbol für die Zeitüberschreitung (Flugzeug) angezeigt. Wenn der Benutzer weiter tippt, sodass der Name im Bereich Benutzer und Teams angezeigt wird, wird das Symbol nicht mehr angezeigt.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups

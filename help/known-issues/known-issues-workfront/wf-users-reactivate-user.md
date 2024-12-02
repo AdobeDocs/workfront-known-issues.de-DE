@@ -1,5 +1,5 @@
 ---
-title: 'Benutzer: Benutzer kann nicht reaktivieren'
+title: 'Benutzer: Benutzer kann nicht reaktiviert werden'
 description: Wenn ein Benutzer versucht, einen Benutzer mithilfe der Option Benutzer reaktivieren im Menü Mehr zu reaktivieren, kann er eine Zugriffsebene für den Benutzer auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird dem Benutzer ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: People Teams and Groups

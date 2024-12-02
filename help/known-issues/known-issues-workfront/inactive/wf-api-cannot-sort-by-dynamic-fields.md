@@ -1,6 +1,6 @@
 ---
-title: '„API: Sortieren nach dynamischen Feldern nicht möglich“'
-description: „Die Workfront-API ermöglicht keine Sortierung nach dynamischen Feldern. “
+title: 'API: Sortieren nach dynamischen Feldern nicht möglich'
+description: 'Die Workfront-API ermöglicht keine Sortierung nach dynamischen Feldern. '
 hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API

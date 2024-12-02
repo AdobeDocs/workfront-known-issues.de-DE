@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte“'
+title: 'Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte'
 description: Wenn Benutzende einen Korrekturabzug anzeigen, das Messwerkzeug öffnen und versuchen, eine Zahl mit einem Dezimalpunkt in ein Feld einzusetzen, wird der Dezimalpunkt nicht angezeigt. Wenn die Benutzenden vor Eingabe einer Ziffer einen Dezimalpunkt eingeben, wird im Feld „NaN“ angezeigt.
 hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809

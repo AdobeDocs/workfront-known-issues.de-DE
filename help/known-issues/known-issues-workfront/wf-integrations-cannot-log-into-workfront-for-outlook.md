@@ -1,5 +1,5 @@
 ---
-title: "Integrationen: Anmeldung bei Workfront für Outlook nicht möglich"
+title: 'Integrationen: Anmeldung bei Workfront für Outlook nicht möglich'
 description: Wenn ein Benutzer versucht, sich bei Workfront für Outlook anzumelden, reagiert die Schaltfläche nicht und der Benutzer kann sich nicht anmelden.
 hidefromtoc: true
 feature: Workfront Integrations and Apps

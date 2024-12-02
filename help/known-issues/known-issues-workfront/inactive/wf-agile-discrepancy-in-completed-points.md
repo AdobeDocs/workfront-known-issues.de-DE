@@ -1,5 +1,5 @@
 ---
-title: '„Agile: Diskrepanz bei abgeschlossenen Punkten bei einer Iteration“'
+title: 'Agile: Diskrepanz bei abgeschlossenen Punkten bei einer Iteration'
 description: Die Zahl, die für „Abgeschlossene Punkte“ auf dem Story Board angezeigt wird, stimmt nicht immer mit der tatsächlichen Anzahl der Punkte überein, die für die Storys in einer Iteration abgeschlossen wurden
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile

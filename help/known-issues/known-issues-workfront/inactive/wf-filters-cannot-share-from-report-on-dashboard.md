@@ -1,5 +1,5 @@
 ---
-title: '„Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden“'
+title: 'Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden'
 description: Wenn Benutzende einen Bericht in einem Dashboard anzeigen und versuchen, einen Filter aus diesem Bericht freizugeben, können sie den Filter nicht freigeben. Wenn auf die drei Punkte geklickt wird, wechselt das Dashboard zum nächsten Bericht. Beim Zurückkehren zum gewünschten Bericht wird angezeigt, dass die Option „Freigeben“ nicht geöffnet wurde.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0

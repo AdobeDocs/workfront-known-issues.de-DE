@@ -1,15 +1,15 @@
 ---
-title: "Workfront: SSO kann nicht verwendet werden"
-description: '"Workfront-Funktionalität, die SSO verwendet, gibt einen "UUB"-Fehler zurück."'
+title: 'Workfront: SSO kann nicht verwendet werden'
+description: Workfront-Funktionen, die SSO verwenden, geben einen "UUPS"-Fehler zurück.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 33%
 
 ---
-
 
 # Workfront: SSO kann nicht verwendet werden
 

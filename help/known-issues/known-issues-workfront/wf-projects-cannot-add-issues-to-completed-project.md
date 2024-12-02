@@ -1,15 +1,15 @@
 ---
-title: "Projekte: Dem abgeschlossenen Projekt können keine Probleme hinzugefügt werden"
-description: "Wenn ein Benutzer versucht, einem Projekt im Status Abgeschlossen ein Problem hinzuzufügen, kann er das Problem nicht hinzufügen. Dies kann auch auftreten, wenn die Option Probleme hinzufügen und bearbeiten aktiviert ist."
+title: 'Projekte: Projekte können dem abgeschlossenen Projekt keine Probleme hinzufügen'
+description: Wenn ein Benutzer versucht, einem Projekt im Status Abgeschlossen ein Problem hinzuzufügen, kann er das Problem nicht hinzufügen. Dies kann auch auftreten, wenn die Option Probleme hinzufügen und bearbeiten aktiviert ist.
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+exl-id: 5eb027a4-5c06-4e73-abc5-f12d5b36e49e
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 11%
 
 ---
-
 
 # Projekte: Projekte können dem abgeschlossenen Projekt keine Probleme hinzufügen
 

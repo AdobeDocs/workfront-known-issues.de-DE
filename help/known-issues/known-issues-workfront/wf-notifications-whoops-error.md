@@ -1,15 +1,15 @@
 ---
-title: "Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen"
-description: "Wenn ein Benutzer versucht, die Benachrichtigungseinstellungen anzuzeigen, wird ihm ein Fehler angezeigt."
+title: 'Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen'
+description: Wenn ein Benutzer versucht, die Benachrichtigungseinstellungen anzuzeigen, wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+exl-id: 6258c5e6-e16b-4bf6-92e8-c4ab3d3866ce
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 41%
 
 ---
-
 
 # Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen
 

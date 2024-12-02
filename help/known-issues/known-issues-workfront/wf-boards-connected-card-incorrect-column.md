@@ -1,5 +1,5 @@
 ---
-title: "Pinnwände: Connected card is in falsche column"
+title: 'Pinnwände: Connected card is in falsche column'
 description: Es wurden Probleme bezüglich der verbundenen Karten in der falschen Spalte gemeldet.
 hidefromtoc: true
 feature: Agile

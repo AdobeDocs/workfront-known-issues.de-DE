@@ -1,5 +1,5 @@
 ---
-title: '"Startseite: Das Widget "Ausstehende Genehmigungen"zeigt gelöschte Dokumente an'
+title: 'Startseite: Das Widget ausstehende Genehmigungen zeigt gelöschte Dokumente an'
 description: Wenn ein Benutzer sein Widget "Home Pending Approvals"anzeigt, werden ihm Dokumente angezeigt, die gelöscht wurden. Wenn der Benutzer auf eines dieser Dokumente klickt, wird er auf eine leere Seite geleitet.
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents

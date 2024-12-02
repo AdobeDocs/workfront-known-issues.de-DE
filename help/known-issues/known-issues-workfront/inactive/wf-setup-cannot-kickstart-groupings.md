@@ -1,5 +1,5 @@
 ---
-title: '„Einrichtung: [!UICONTROL Kickstarts] können nicht zum Einrichten von Gruppierungen verwendet werden“'
+title: 'Einrichtung: [!UICONTROL Kick-Start] kann nicht zum Einrichten von Gruppierungen verwendet werden'
 description: Beim Versuch, eine Gruppierung mit [!UICONTROL Kickstart] einzurichten, schlägt der Import fehl und es wird eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration

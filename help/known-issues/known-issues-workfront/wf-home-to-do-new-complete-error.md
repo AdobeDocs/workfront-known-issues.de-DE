@@ -1,5 +1,5 @@
 ---
-title: "Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben"
+title: 'Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben'
 description: Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im "Aufgaben"-Widget "Aufgaben"abzuschließen, treten Benutzer auf einen Fehler und können die Aufgaben nicht erstellen oder abschließen.
 hidefromtoc: true
 feature: Get Started with Workfront

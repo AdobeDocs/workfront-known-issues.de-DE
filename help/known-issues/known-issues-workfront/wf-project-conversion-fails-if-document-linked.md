@@ -1,11 +1,11 @@
 ---
-title: '„Projekt: Ein Problem kann nicht in ein Projekt konvertiert werden, wenn ein Dokument angefügt ist“'
+title: 'Projekt: Ein Problem kann nicht in ein Projekt konvertiert werden, wenn ein Dokument angefügt ist'
 description: Wenn ein Problem ein Dokument enthält und Benutzende versuchen, dieses Problem in ein Projekt zu konvertieren, schlägt die Konvertierung fehl und das Projekt wird nicht erstellt. Es wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

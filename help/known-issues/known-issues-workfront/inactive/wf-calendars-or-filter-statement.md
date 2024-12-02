@@ -1,5 +1,5 @@
 ---
-title: '„Kalender: OR-Filteranweisung führt zum Ausschluss der Filterregel“'
+title: 'Kalender: OR-Filteranweisung ohne Filterregel'
 description: Wenn ein(e) Benutzende(r) einen Kalenderbericht einrichtet, um Aufgaben basierend auf einer benutzerdefinierten Feldauswahl zu erfassen, und eine OR-Anweisung hinzufügt, werden Objekte, die die Kriterien des ersten Teils der Filterregel erfüllen, von den Ergebnissen ausgeschlossen.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards
@@ -7,7 +7,7 @@ hidefromtoc: true
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

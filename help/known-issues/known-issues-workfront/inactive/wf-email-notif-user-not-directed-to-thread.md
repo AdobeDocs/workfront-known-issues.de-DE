@@ -1,5 +1,5 @@
 ---
-title: '„E-Mail-Benachrichtigungen: Der Benutzer wird nicht zum Kommentar-Thread weitergeleitet.“'
+title: 'E-Mail-Benachrichtigungen: Benutzende werden nicht zum Kommentar-Thread weitergeleitet'
 description: Wenn ein(e) Benutzende(r) in einer E-Mail-Benachrichtigung auf den Link „Kommentar“ klickt, gelangt er/sie an den Anfang des Bereichs [!UICONTROL Aktualisierungen] statt zum Thread des Kommentars, auf den er/sie antworten möchte.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications

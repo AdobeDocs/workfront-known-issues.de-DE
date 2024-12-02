@@ -1,5 +1,5 @@
 ---
-title: '„Dokumente: Optionen für Korrekturabzugsaktivitäten führen zur Anmeldeseite“'
+title: 'Dokumente: Die Optionen für Testaktivitäten führen zur Anmeldeseite'
 description: Wenn Benutzende die Seite mit Dokumentdetails ansehen und im Menü „Korrekturabzugsaktivitäten“ auf eine Option klicken, werden die Benutzenden zu einer Anmeldeseite anstelle zu der vorgesehenen Zielseite weitergeleitet.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,7 +7,7 @@ exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

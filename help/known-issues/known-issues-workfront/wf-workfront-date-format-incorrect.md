@@ -1,6 +1,6 @@
 ---
-title: "Workfront: Datum wird im falschen Format angezeigt"
-description: "Datumsangaben in Workfront werden als MM/TT/JJJJ angezeigt. Dies gilt auch dann, wenn die Browser der Benutzer auf die Anzeigeeinstellungen für das lokale Datum eingestellt sind."
+title: 'Workfront: Datum wird in einem falschen Format angezeigt'
+description: Datumsangaben in Workfront werden als MM/TT/JJJJ angezeigt. Dies gilt auch dann, wenn die Browser der Benutzer auf die Anzeigevoreinstellungen für das lokale Datum eingestellt sind.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 2afa4965-d261-48e4-9325-341caba75f8a

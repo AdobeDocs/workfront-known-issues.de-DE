@@ -1,5 +1,5 @@
 ---
-title: "Mobile: Abmeldung nicht möglich und fehlende Benutzerprofilinformationen"
+title: 'Mobile: Abmeldung und fehlende Benutzerprofilinformationen nicht möglich'
 description: Die Abmeldeoption in der Mobile App ermöglicht es einigen Benutzern nicht, sich erfolgreich abzumelden. Die Benutzerprofilseiten erscheinen ebenfalls leer und generieren eine Fehlermeldung.
 hidefromtoc: true
 feature: Get Started with Workfront

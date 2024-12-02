@@ -1,5 +1,5 @@
 ---
-title: '„Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst.“'
+title: 'Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst'
 description: Wenn ein(e) Benutzende(r) ein Berichtsdiagramm in einem Dashboard anzeigt, sind die Farben anders als vom Bericht selbst. Dies kann verwirrend sein, wenn der/die Benutzende erwartet, dass eine bestimmte Farbe eine bestimmte Bedeutung hat.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards

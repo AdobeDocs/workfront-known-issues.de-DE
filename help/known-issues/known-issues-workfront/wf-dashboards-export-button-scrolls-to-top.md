@@ -1,5 +1,5 @@
 ---
-title: '"Dashboards: Auswahl der Schaltfläche "Exportieren"in einem Bericht scrollt zum Seitenanfang."'
+title: 'Dashboards: Durch Auswahl der Schaltfläche "Exportieren"in einem Bericht wird ein Bildlauf zum Seitenanfang durchgeführt'
 description: Wenn Sie auf die Schaltfläche Exportieren für einen Bericht in einem Dashboard klicken, wird der Seitenanfang angezeigt. Dazu müssen Sie nach unten scrollen, um das geöffnete Menü für Exportoptionen zu finden.
 hidefromtoc: true
 feature: Reports and Dashboards

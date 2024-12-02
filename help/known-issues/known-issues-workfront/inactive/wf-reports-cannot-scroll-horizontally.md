@@ -1,5 +1,5 @@
 ---
-title: '„Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird“'
+title: 'Berichte: Der Bericht kann nicht horizontal gescrollt werden, während er im Dashboard angezeigt wird'
 description: Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft und versucht, in ihm einen horizontalen Bildlauf durchzuführen, wird der Bericht überhaupt nicht gescrollt oder die Spaltenüberschriften laufen den entsprechenden Spalten hinterher. Wenn der Bericht eine große Anzahl von Spalten aufweist, kann beim horizontalen Bildlauf die Seite einfrieren.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true

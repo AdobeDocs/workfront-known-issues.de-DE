@@ -1,9 +1,10 @@
 ---
-title: "Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt"
-description: "Bei der Zuweisung einer Aufgabe an ein Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, wodurch der Benutzer keinen Zugriff mehr auf die Aufgabe erhält, die er zuweisen wollte."
+title: 'Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt'
+description: Beim Zuweisen einer Aufgabe zu einem Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, wodurch der Benutzer keinen Zugriff mehr auf die Aufgabe erhält, die er zuweisen wollte.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+exl-id: 7fca38c0-04e0-4af3-b47d-76b540fbcf06
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 11%

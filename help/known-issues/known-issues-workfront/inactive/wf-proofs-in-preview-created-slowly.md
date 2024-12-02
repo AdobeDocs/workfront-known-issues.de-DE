@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt“'
+title: 'Testsendungen: Testsendungen werden in der Vorschauumgebung langsam erstellt'
 description: Wenn eine Benutzerin oder ein Benutzer einen Testversand in der Vorschauumgebung erstellt, wird der Testversand sehr langsam erstellt.
 hidefromtoc: true
 feature: Digital Content and Documents

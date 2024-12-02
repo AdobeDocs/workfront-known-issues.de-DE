@@ -1,5 +1,5 @@
 ---
-title: '„Agile: Probleme beim Verschieben von Karten auf dem Agile-Board“'
+title: 'Agile: Probleme beim Verschieben von Karten auf der Agile-Pinnwand'
 description: Beim Verschieben von Karten auf dem Agile-Board wurden verschiedene Probleme gemeldet.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile

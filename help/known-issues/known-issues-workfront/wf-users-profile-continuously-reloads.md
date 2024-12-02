@@ -1,5 +1,5 @@
 ---
-title: "Benutzer: Die Benutzerprofilseite wird kontinuierlich geladen."
+title: 'Benutzende: Die Profilseite einer Benutzerin oder eines Benutzers wird kontinuierlich geladen'
 description: Beim Versuch, eine Benutzerprofilseite anzuzeigen, scheint die Seite zu laden, sie wird aber nicht vollständig geladen.
 hidefromtoc: true
 feature: People Teams and Groups
@@ -7,7 +7,7 @@ exl-id: fd7787f4-e446-4cf5-843c-deb2d1468975
 source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt“'
+title: 'Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt'
 description: Wenn Benutzende einen Bericht anzeigen, der Entscheidungen zur Genehmigung von Korrekturabzügen enthält, zeigt der Bericht nicht die Entscheidung „Genehmigt“ für alle genehmigten Korrekturabzüge an. Wenn Benutzende den Korrekturabzug selbst ansehen, wird angezeigt, dass er genehmigt wurde.
 hidefromtoc: true
 feature: Digital Content and Documents

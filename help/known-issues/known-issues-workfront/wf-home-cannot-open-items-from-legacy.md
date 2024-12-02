@@ -1,15 +1,15 @@
 ---
-title: '„Startseite: Elemente können nicht über den Startseitenkalender oder die Auftragsliste geöffnet werden.“'
-description: "Wenn Benutzende versuchen, ein Arbeitselement oder einen Korrekturabzug über den Startseitenkalender oder die Arbeitsliste der Startseite zu öffnen, wird das Element nicht geöffnet."
+title: 'Startseite: Elemente können nicht über den Startkalender oder die Arbeitsliste geöffnet werden'
+description: Wenn ein Benutzer versucht, ein Arbeitselement zu öffnen oder einen Testversand über seinen Home Calendar oder seine Home Work List durchzuführen, wird das Element nicht geöffnet.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: cc1508de-8177-4118-8c61-df216dd52bc6
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 100%
+ht-degree: 58%
 
 ---
-
 
 # Startseite: Elemente können nicht über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Auftragsliste] geöffnet werden
 

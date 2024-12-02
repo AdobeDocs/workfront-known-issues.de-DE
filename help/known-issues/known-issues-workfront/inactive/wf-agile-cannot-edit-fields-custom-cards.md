@@ -1,5 +1,5 @@
 ---
-title: '„Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden“'
+title: 'Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden'
 description: Wenn ein Feld auf einer Karte auf dem Kanban-Board über ein benutzerdefiniertes Formular befüllt wird, können die Benutzenden dieses Feld nicht direkt auf der Karte bearbeiten.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile

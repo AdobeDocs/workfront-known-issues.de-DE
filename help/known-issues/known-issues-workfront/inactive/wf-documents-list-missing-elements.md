@@ -1,5 +1,5 @@
 ---
-title: '„Dokumente: Probleme mit der Dokumentliste“'
+title: 'Dokumente: Probleme mit der Dokumentliste '
 description: In diesem Artikel werden aktuelle Probleme beschrieben, die in Bezug auf die Dokumentliste gemeldet wurden.
 hidefromtoc: true
 feature: Digital Content and Documents

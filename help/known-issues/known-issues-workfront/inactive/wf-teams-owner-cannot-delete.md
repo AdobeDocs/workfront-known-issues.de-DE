@@ -1,5 +1,5 @@
 ---
-title: "Teams: Team-Eigentümer kann nicht angezeigt oder Team gelöscht werden"
+title: 'Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden'
 description: Diese Aktionen stehen Gruppenadministratoren nicht zur Verfügung.
 hidefromtoc: true
 feature: People Teams and Groups
@@ -7,7 +7,7 @@ exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 87%
+ht-degree: 93%
 
 ---
 

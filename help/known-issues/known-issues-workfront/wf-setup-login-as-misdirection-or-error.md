@@ -1,5 +1,5 @@
 ---
-title: "Einrichtung: Probleme beim Abmelden als ein anderer Benutzer"
+title: 'Einrichtung: Probleme beim Abmelden als ein anderer Benutzer'
 description: Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können Probleme auftreten.
 hidefromtoc: true
 feature: System Setup and Administration

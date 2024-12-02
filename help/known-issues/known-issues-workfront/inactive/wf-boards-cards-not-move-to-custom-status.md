@@ -1,5 +1,5 @@
 ---
-title: '„Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte“'
+title: 'Pinnwände: Karten, die in eine Spalte verschoben wurden, befinden sich nach dem Aktualisieren wieder in der ursprünglichen Spalte'
 description: Wenn Benutzende eine Karte in eine andere Spalte verschieben und dann aktualisieren oder zur Pinnwand zurückkehren, befindet sich die Karte wieder in der ursprünglichen Spalte.
 hidefromtoc: true
 feature: Agile

@@ -1,5 +1,5 @@
 ---
-title: 'Dokumente: Kommentare zum Testversand werden bei Dokumentaktualisierungen nicht angezeigt.'
+title: 'Dokumente: Kommentare zum Testversand werden bei Dokumentaktualisierungen nicht angezeigt'
 description: Wenn ein Benutzer einen Kommentar zu einem Testversand abgibt, wird dieser Kommentar nicht in den Dokumentaktualisierungsbereich des Testversands in Workfront kopiert.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications

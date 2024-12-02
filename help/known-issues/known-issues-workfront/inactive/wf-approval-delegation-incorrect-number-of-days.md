@@ -1,5 +1,5 @@
 ---
-title: '„Genehmigungen: Für die Delegierung von Genehmigungen erscheint die falsche Anzahl von Tagen.“'
+title: 'Genehmigungen: Für die Delegierung von Genehmigungen erscheint die falsche Anzahl von Tagen'
 description: Wenn ein(e) Benutzende(r) Urlaubstage eingibt und die entsprechenden Genehmigungen für diese Zeit delegiert, kann es passieren, dass in dieser Genehmigungsdelegierung Tage vor oder nach der geplanten Urlaubsdauer enthalten sind.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals

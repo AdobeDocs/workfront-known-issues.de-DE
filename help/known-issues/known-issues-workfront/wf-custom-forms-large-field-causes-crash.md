@@ -1,15 +1,15 @@
 ---
-title: "Benutzerdefinierte Formulare: Felder auf der Feldlistenseite können nicht bearbeitet werden"
-description: '"Wenn ein Benutzer versucht, ein großes Feld auf der Feldlistenseite zu bearbeiten, stürzt die Seite mit einem Fehler ab. Eine Problemumgehung ist verfügbar.“'
+title: 'Benutzerdefinierte Formulare: Felder auf der Felderlistenseite können nicht bearbeitet werden'
+description: Wenn ein Benutzer versucht, ein großes Feld auf der Feldlistenseite zu bearbeiten, stürzt die Seite mit einem Fehler ab. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+exl-id: 40c19c34-c8bb-4fa2-b7c3-ef617361c7be
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 17%
 
 ---
-
 
 # Benutzerdefinierte Formulare: Felder auf der Felderlistenseite können nicht bearbeitet werden
 

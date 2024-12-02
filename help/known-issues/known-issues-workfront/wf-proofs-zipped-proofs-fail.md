@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden“'
+title: 'Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden'
 description: Wenn eine Benutzerin versucht, einen komprimierten Korrekturabzug zu erstellen und zwei oder mehr Dateien im Korrekturabzug denselben Namen haben, kann der Korrekturabzug nicht generiert werden.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: '„Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe“'
+title: 'Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe'
 description: Wenn Benutzende versuchen, eine Aufgabe hinzuzufügen oder zu löschen, wird die Aufgabe nicht hinzugefügt oder gelöscht und ein Bizcontext-Fehler wird angezeigt.
 hidefromtoc: true
 feature: Tasks

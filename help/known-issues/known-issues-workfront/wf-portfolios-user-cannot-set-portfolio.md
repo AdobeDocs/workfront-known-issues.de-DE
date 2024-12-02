@@ -1,5 +1,5 @@
 ---
-title: '"Portfolio: Benutzer kann Portfolio nicht festlegen'
+title: 'Portfolio: Benutzende können das Portfolio nicht festlegen'
 description: Benutzende können die Portfolios für ein Projekt nicht ändern, wenn sie keinen Zugriff auf das Portfolio haben.
 hidefromtoc: true
 feature: Work Management
@@ -7,7 +7,7 @@ exl-id: 38ad277a-2087-486c-8715-93e275488697
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

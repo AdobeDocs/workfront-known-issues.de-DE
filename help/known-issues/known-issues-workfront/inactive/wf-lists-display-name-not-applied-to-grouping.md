@@ -1,5 +1,5 @@
 ---
-title: '„Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet“'
+title: 'Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet'
 description: Wenn ein(e) Benutzende(r) eine Liste anhand eines benutzerdefinierten Felds gruppiert und den Anzeigenamen im Textmodus ändert, wird stattdessen der ursprüngliche Name des Felds angezeigt.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true

@@ -1,5 +1,5 @@
 ---
-title: '„Projekte: Freigabemenü wird nicht geladen“'
+title: 'Projekte: Freigabemenü wird nicht geladen '
 description: Wenn eine Benutzerin oder ein Benutzer versucht, eine Aufgabe oder ein Problem freizugeben, wird das Menü „X Zugriff gewähren für“ fortlaufend geladen, und die Person kann die Aufgabe oder das Problem nicht freigeben.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

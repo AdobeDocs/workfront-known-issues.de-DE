@@ -1,5 +1,5 @@
 ---
-title: '"Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab'
+title: 'Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab'
 description: Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu erstellen und in die Anzeigereihenfolge eingibt, stürzt der Formular-Builder ab und der Benutzer sieht eine Meldung.
 hidefromtoc: true
 feature: Custom Forms

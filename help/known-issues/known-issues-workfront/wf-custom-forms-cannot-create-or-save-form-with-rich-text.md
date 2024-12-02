@@ -1,5 +1,5 @@
 ---
-title: "Benutzerdefinierte Formulare: Fehler bei Typkonvertierungen bei benutzerdefinierten Formularen anzeigen"
+title: 'Benutzerdefinierte Formulare: Fehler bei Typkonvertierungen bei benutzerdefinierten Formularen anzeigen'
 description: Rich-Text-Felder verursachen einen Fehler in benutzerdefinierten Formularen.
 hidefromtoc: true
 feature: Custom Forms

@@ -1,5 +1,5 @@
 ---
-title: 'Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer korrekt'
+title: 'Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau'
 description: Die im Dashboard-Bereich innerhalb eines Korrekturabzugs angezeigten Daten zeigen nicht immer die aktuellsten Informationen an. Es wird empfohlen, eine benutzerdefinierte Ansicht zu erstellen und diese zu verwenden, um die aktuellsten Informationen zu Ihren Daten zu erhalten.
 hidefromtoc: true
 feature: Workfront Proof

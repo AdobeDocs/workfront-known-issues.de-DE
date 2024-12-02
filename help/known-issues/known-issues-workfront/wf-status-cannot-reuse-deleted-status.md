@@ -1,5 +1,5 @@
 ---
-title: 'Statuswerte: Der zuvor gelöschte Status kann nicht wiederverwendet werden'
+title: 'Statuswerte: Zuvor gelöschter Status kann nicht wiederverwendet werden'
 description: Wenn Benutzende versuchen, einen Status mit demselben Statusschlüssel wie bei einem zuvor gelöschten Status zu erstellen, wird der Status nicht erstellt und die Benutzenden erhalten eine Nachricht.
 hidefromtoc: true
 feature: Work Management, Projects, Tasks

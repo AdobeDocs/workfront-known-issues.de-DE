@@ -1,5 +1,5 @@
 ---
-title: "Aktualisierungen: Link im Kommentar wird auf leeren Bildschirm angezeigt"
+title: 'Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm.'
 description: Wenn ein Benutzer auf einen Link klickt, der sich in einem Kommentar befindet, wird der Benutzer über den Link zu einem leeren Bildschirm geleitet. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Updates and Notifications
@@ -7,7 +7,7 @@ exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 64%
+ht-degree: 74%
 
 ---
 

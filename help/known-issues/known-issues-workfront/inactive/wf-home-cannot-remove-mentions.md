@@ -1,5 +1,5 @@
 ---
-title: 'Home: Das Widget „Erwähnungen“ kann nicht entfernt werden'
+title: 'Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden'
 description: Wenn Benutzende auf der neuen Startseite das Widget „Erwähnungen“ entfernen möchten, ist dies nicht möglich.
 hidefromtoc: true
 feature: Get Started with Workfront

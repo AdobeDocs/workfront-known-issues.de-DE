@@ -1,5 +1,5 @@
 ---
-title: '„Workfront-Korrekturabzug: Ungenauer Zeitstempel in der Zusammenfassung von Korrekturabzügen“'
+title: 'Workfront Proof: ungenauer Zeitstempel in der Testversand-Zusammenfassung'
 description: Wenn jemand bei Korrekturabzügen auf die Option „Druckzusammenfassung“ klickt, wird dem angezeigten Zeitstempel 30 Minuten hinzugefügt.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,7 +7,7 @@ exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
 source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

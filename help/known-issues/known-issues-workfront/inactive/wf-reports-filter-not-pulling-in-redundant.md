@@ -1,5 +1,5 @@
 ---
-title: '„Berichte: Berichtfilter gibt nicht die erwarteten Ergebnisse zurück“'
+title: 'Berichte: Berichtfilter gibt nicht die erwarteten Ergebnisse zurück'
 description: Ein Filter in einem Bericht gibt möglicherweise nicht alle erwarteten Ergebnisse zurück. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Reports and Dashboards

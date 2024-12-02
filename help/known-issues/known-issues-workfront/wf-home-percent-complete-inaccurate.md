@@ -1,5 +1,5 @@
 ---
-title: "Home: Prozent abgeschlossen ist abgeschnitten"
+title: 'Startseite: Prozent abgeschlossen ist abgeschnitten'
 description: Wenn ein Benutzer eine Liste auf der Startseite anzeigt, wird die Spalte "Prozent abgeschlossen"teilweise abgeschnitten, und der Benutzer kann die genaue prozentuale Fertigstellung der Objekte nicht sehen.
 hidefromtoc: true
 feature: Get Started with Workfront

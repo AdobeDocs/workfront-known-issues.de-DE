@@ -1,5 +1,5 @@
 ---
-title: '„Startseite: Probleme mit der Startseiten-Zusammenfassung bei der Verwendung anderer Browser als Chrome“'
+title: 'Startseite: Probleme mit der Home-Zusammenfassung bei der Verwendung anderer Browser als Chrome'
 description: Wenn ein(e) Benutzende(r) die Startseite aufruft und einen anderen Browser als Chrome verwendet, können unterschiedliche Probleme auftreten.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 

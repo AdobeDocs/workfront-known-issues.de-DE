@@ -1,9 +1,10 @@
 ---
-title: "Prioritäten: Gruppierungen verhindern Sortierung und Inline-Bearbeitung"
-description: "Wenn auf die Prioritätenliste Gruppierungen angewendet werden, kann sie nicht sortiert werden und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste."
+title: 'Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung'
+description: Wenn auf die Prioritätenliste Gruppierungen angewendet werden, kann sie nicht sortiert werden und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 20%

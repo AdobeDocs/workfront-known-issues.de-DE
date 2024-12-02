@@ -1,5 +1,5 @@
 ---
-title: 'Dokumente: Schaltfläche für Validierungsoptionen fehlt in Dokumenten'
+title: 'Dokumente: Schaltfläche für Validierungsoptionen in Dokumenten fehlt'
 description: Wenn ein Benutzer, der als Genehmiger für ein Dokument zugewiesen wurde, zum Dokument navigiert, um eine Genehmigungsentscheidung zu treffen, fehlt die Schaltfläche für die Genehmigungsoptionen .
 hidefromtoc: true
 feature: Digital Content and Documents

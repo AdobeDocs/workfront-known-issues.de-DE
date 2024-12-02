@@ -1,5 +1,5 @@
 ---
-title: 'Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt.'
+title: 'Dokumente: Durch Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt'
 description: Wenn ein Benutzer versucht, Dokumentdetails durch Klicken auf den Namen des Dokuments in einer Dokumentliste anzuzeigen, wird die Liste ausgeblendet und der Benutzer wird nicht zu den Dokumentdetails weitergeleitet.
 hidefromtoc: true
 feature: Digital Content and Documents

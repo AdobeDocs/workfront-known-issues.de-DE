@@ -1,6 +1,6 @@
 ---
-title: '„Berichte: Öffentliche Links zu einem Bericht funktionieren nicht“'
-description: „Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link zu einem Bericht klickt, wird eine Fehlermeldung angezeigt. Der spezifische Fehler hängt von dem verwendeten Browser ab. '
+title: 'Berichte: Öffentliche Links zu einem Bericht funktionieren nicht'
+description: 'Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link zu einem Bericht klickt, wird eine Fehlermeldung angezeigt. Der spezifische Fehler hängt von dem verwendeten Browser ab. '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c

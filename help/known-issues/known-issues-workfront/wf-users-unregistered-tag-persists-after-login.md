@@ -1,9 +1,10 @@
 ---
-title: '''Benutzer: "Nicht registriert"-Tag bleibt nach der Anmeldung bestehen.'
-description: '"Obwohl die Anmeldung mindestens einmal erfolgreich war, verschwindet das "abgemeldete"Tag nicht wie für neue Benutzer erwartet."'
+title: 'Benutzer: Das Tag "Nicht registriert" bleibt nach der Anmeldung bestehen'
+description: Trotz der erfolgreichen Anmeldung mindestens einmal verschwindet das "abgemeldete"Tag nicht wie für neue Benutzer erwartet.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 7%

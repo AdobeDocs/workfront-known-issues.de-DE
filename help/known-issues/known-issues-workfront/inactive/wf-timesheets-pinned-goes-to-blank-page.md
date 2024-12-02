@@ -1,5 +1,5 @@
 ---
-title: 'Arbeitszeittabellen: Angeheftete Arbeitszeittabelle führt zu leerer Seite'
+title: 'Arbeitszeittabellen: Angeheftete Arbeitszeittabelle führt zu leerer Seite.'
 description: '"Wenn Benutzende in Workfront auf einen Pin klicken, der zur Arbeitszeittabelle führen soll, führt der Pin stattdessen auf eine leere Seite. Eine Problemumgehung ist verfügbar.'
 hidefromtoc: true
 feature: Timesheets

@@ -1,5 +1,5 @@
 ---
-title: "Anmelden als: Startseite und Pins werden beim Abmelden aus der Anmeldung als nicht korrekt angezeigt."
+title: 'Melden Sie sich als an: Startseite und Pins werden beim Abmelden von der Anmeldung als'
 description: Wenn sich ein Benutzer, der als ein anderer Benutzer angemeldet ist, als dieser abmeldet, werden ihm auf seinem Startbildschirm die folgenden Probleme angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront

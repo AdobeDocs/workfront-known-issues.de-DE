@@ -1,5 +1,5 @@
 ---
-title: '"Projekte: Währungssymbol ist beim Exportieren falsch'
+title: 'Projekte: Währungssymbol ist beim Export falsch '
 description: Wenn ein Benutzer ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit dem im Projekt oder im Problem festgelegten Währungssatz überein.
 hidefromtoc: true
 feature: Projects, Work Management

@@ -1,5 +1,5 @@
 ---
-title: "Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden"
+title: 'Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden'
 description: Wenn ein Benutzer versucht, einen Testversand in einer Vorschau-Sandbox-Umgebung zu erstellen, wird der Testversand nicht erstellt und dem Benutzer wird die Meldung Fehlgeschlagen angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents

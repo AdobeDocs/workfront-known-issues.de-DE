@@ -1,15 +1,15 @@
 ---
-title: "Projekte: Gantt-Diagramm ist nicht genau"
-description: '"Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an. „'
+title: 'Projekte: Gantt-Diagramm ist nicht korrekt'
+description: 'Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an. '
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+exl-id: fd55b88a-fdfd-4b59-8e5e-559a4958be52
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 14%
 
 ---
-
 
 # Projekte: Gantt-Diagramm ist nicht korrekt
 

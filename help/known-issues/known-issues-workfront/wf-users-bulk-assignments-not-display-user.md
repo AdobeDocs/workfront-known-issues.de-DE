@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: 'Workfront: Mehrere Browserregisterkarten führen dazu, dass sich Workfront abmeldet.'
+title: 'Workfront: Mehrere Browser-Registerkarten führen zur Abmeldung von Workfront'
 description: Wenn ein Benutzer mehrere Browser-Registerkarten geöffnet hat, meldet sich Workfront möglicherweise automatisch ab.
 hidefromtoc: true
 feature: Get Started with Workfront

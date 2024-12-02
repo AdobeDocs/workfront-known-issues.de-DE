@@ -1,5 +1,5 @@
 ---
-title: "Berichte: Fehler beim Export von Berichten"
+title: 'Berichte: Fehler beim Exportieren des Berichts'
 description: Wenn ein Benutzer versucht, einen Bericht zu exportieren, wird der Bericht nicht exportiert und dem Benutzer wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Reports and Dashboards

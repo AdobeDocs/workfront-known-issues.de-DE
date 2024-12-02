@@ -1,5 +1,5 @@
 ---
-title: '"Startseite: Das Widget "Meine Genehmigungen"funktioniert nicht'
+title: 'Startseite: Das Widget Meine Genehmigungen funktioniert nicht'
 description: Wenn ein Benutzer versucht, das Widget Meine Genehmigungen zu Hause anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht eine Nachricht.
 hidefromtoc: true
 feature: Get Started with Workfront

@@ -1,5 +1,5 @@
 ---
-title: '„Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden“'
+title: 'Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden'
 description: Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Digital Content and Documents

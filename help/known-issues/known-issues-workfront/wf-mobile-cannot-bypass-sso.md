@@ -1,5 +1,5 @@
 ---
-title: '"Workfront Mobile: Anmeldung ohne SSO nicht möglich'
+title: 'Workfront Mobile: Anmeldung ohne SSO nicht möglich'
 description: Wenn sich ein Benutzer bei der Workfront Mobile-App anmeldet, muss er sich über SSO anmelden. Der Benutzer kann seine Workfront-Anmeldeinformationen oder Adobe ID nicht verwenden.
 hidefromtoc: true
 feature: Get Started with Workfront

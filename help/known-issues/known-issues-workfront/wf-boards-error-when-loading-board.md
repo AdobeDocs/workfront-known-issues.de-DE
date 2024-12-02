@@ -1,5 +1,5 @@
 ---
-title: "Pinnwände: Fehler beim Laden einer Pinnwand"
+title: 'Pinnwände: Fehler beim Laden einer Pinnwand'
 description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen, und der Benutzer wird über eine Fehlermeldung informiert.
 hidefromtoc: true
 feature: Agile

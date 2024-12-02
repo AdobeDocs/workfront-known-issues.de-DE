@@ -1,5 +1,5 @@
 ---
-title: '„Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF“'
+title: 'Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF'
 description: Wenn eine Benutzerin bzw. ein Benutzer ein Dashboard im Querformat in PDF druckt, hat das PDF rechts einen großen leeren Rand.
 hidefromtoc: true
 feature: Reports and Dashboards

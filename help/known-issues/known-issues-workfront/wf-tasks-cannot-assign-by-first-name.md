@@ -1,15 +1,15 @@
 ---
-title: "Aufgaben: Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben."
-description: '"Wenn Benutzende eine Aufgabenzuweisung vornehmen und versuchen, nach dem Vornamen nach der oder dem Verantwortlichen zu suchen, gibt die Suche keine Benutzenden zurück und die Meldung „Keine Ergebnisse gefunden“ wird angezeigt. Eine Problemumgehung ist verfügbar.“'
+title: Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben
+description: Wenn ein Benutzer eine Aufgabenzuweisung vornimmt und versucht, anhand des Vornamens nach dem Verantwortlichen zu suchen, gibt die Suche keine Benutzer zurück und der Benutzer sieht die Meldung Keine Ergebnisse gefunden. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
-
 
 # Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzenden zurückgegeben
 

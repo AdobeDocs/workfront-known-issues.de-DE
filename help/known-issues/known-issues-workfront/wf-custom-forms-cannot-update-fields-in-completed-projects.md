@@ -1,6 +1,6 @@
 ---
 title: 'Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden'
-description: null
+description: ''
 hidefromtoc: true
 feature: Custom Forms
 exl-id: b5283181-16fc-4111-bf8f-d6b914297f61

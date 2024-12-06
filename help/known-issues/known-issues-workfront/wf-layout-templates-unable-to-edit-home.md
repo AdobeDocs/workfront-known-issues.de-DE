@@ -4,14 +4,18 @@ description: Wenn ein Administrator versucht, eine Layoutvorlage für eine Start
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 273f533553626082787f579b171ab4b314743d58
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 6%
+source-wordcount: '84'
+ht-degree: 13%
 
 ---
 
 # Layout-Vorlagen: Administratoren können keine Layoutvorlagen für die Startseite bearbeiten
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 5. Dezember 2024 behoben.
 
 Wenn ein Administrator versucht, eine Layoutvorlage für eine Startseite für einen Benutzer zu bearbeiten, reagiert die Benutzeroberfläche nicht und die Änderungen können nicht gespeichert werden.
 

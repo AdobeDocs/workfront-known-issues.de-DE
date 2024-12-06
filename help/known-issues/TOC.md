@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '2132'
-ht-degree: 61%
+source-wordcount: '2166'
+ht-degree: 60%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 61%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Genehmigungen: Delegierte Genehmigungen, die nicht für Delegierte erscheinen](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [Dokumente: Fehler &quot;Nicht gespeicherte Änderungen&quot; beim Hinzufügen eines Formulars zu einem Dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [Aufgaben: Feld &quot;Bereit zum Start&quot;wird trotz abgeschlossener Vorgänger nicht aktualisiert](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront: Datumsformatänderungen in der gesamten Anwendung](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler-Einstellungen können zu Leistungseinbußen führen](known-issues-workfront//wf-workfront-zscaler.md)
       + [Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)

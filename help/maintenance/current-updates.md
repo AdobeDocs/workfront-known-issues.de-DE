@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '6739'
-ht-degree: 72%
+source-wordcount: '7142'
+ht-degree: 68%
 
 ---
 
@@ -24,7 +24,77 @@ Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie
 
 Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
 
+## Updates im Dezember 2024
+
++++**Wartungs-Update vom Freitag, 5. Dezember 2024**
+
+### Wartungs-Update am 5. Dezember 2024
+
+#### Benutzerdefinierte Formulare
+
+**Aufgabenfelder &quot;estimatedByHours&quot;oder &quot;hoursPerPoint&quot;können nicht hinzugefügt werden**
+
+Wenn ein Benutzer versucht, die Felder &quot;estimatedByHours&quot;oder &quot;hoursPerPoint&quot;einem benutzerdefinierten Formular im Formular-Builder hinzuzufügen, wird eine Fehlermeldung angezeigt: &quot;Dies ist ein ungültiger benutzerdefinierter Ausdruck, versuchen Sie es erneut.&quot;
+
+**Anzeigereihenfolge funktioniert nicht in benutzerdefinierten Formularen**
+
+Wenn ein Benutzer Informationen in ein benutzerdefiniertes Formular mit Anzeigerogik eingeben muss, werden Felder, die basierend auf der Anzeigerogik angezeigt werden sollen, nicht angezeigt.
+
+#### Startseite
+
+**Mitarbeiter zeigten die nicht funktionierende Schaltfläche &quot;Arbeiten daran&quot;**
+
+Mitarbeiter-Benutzer haben Zugriff auf eine nicht funktionsfähige &quot;Work on it&quot;-Schaltfläche im Widget &quot;My Work&quot;in Home.
+
+#### Berichte
+
+**Benutzerdefinierte Quartale werden nicht in Berichtsaufforderungen angezeigt**
+
+Wenn ein Benutzer einen Bericht mit einer datumsbasierten Eingabeaufforderung ausführt, werden benutzerdefinierte Quartale nicht in der Auswahlliste für die Eingabeaufforderung angezeigt.
+
++++
+
 ## Updates im November 2024
+
++++**Wartungs-Update vom Freitag, 28. November 2024**
+
+### Wartungs-Update am 28. November 2024
+
+#### Projekte
+
+**Projekte können aufgrund des Fehlers &quot;Zugriff auf Löschen&quot;nicht freigegeben werden**
+
+Beim Versuch, ein Projekt freizugeben, erhält der Benutzer eine Fehlermeldung: &quot;Sie haben keinen ausreichenden Zugriff, um dieses Projekt zu löschen&quot;. Dies tritt auf, obwohl der Benutzer nicht versucht, das Projekt zu löschen, sowie der Benutzer Projekteigentümer ist und Zugriff auf das Projekt hat.
+
+#### Berichte
+
+**Feld für Kategoriename, das nicht mit benutzerdefiniertem Formular verknüpft ist**
+
+Beim Anzeigen einer Liste in einem Bericht, der ein Feld für Kategorienamen enthält, kann der Inhalt der Spalte &quot;Kategoriename&quot;nicht angeklickt werden, um das entsprechende benutzerdefinierte Formular zu öffnen.
+
+**Benutzerdefinierte Farben in Berichten gruppieren, die nicht funktionieren**
+
+Wenn Sie einer Gruppe in ReportBuilder eine benutzerdefinierte Farbe zuweisen, wird die Farbauswahl beim Ausführen des Berichts nicht angezeigt.
+
+**Lange Ladezeiten für Berichte**
+
+Das Laden von Berichten dauert länger. Dies wirkt sich auf die Anzeige von Berichten sowie auf die Bearbeitung und Erstellung von Berichten in der Berichterstellung aus.
+
+**Zeitfeld fehlt für berechnete Datums-/Uhrzeitfelder in Berichtsaufforderungen**
+
+Wenn ein Bericht ausgeführt wird und ein benutzerdefiniertes Datums-/Uhrzeitfeld als Eingabeaufforderung verwendet wird, fehlt das Zeitauswahlfeld in der Eingabeaufforderungsoberfläche.
+
+**Freigegebene Berichte/Dashboards können nicht angezeigt werden**
+
+Wenn ein Benutzer versucht, auf einen Bericht oder ein Dashboard zuzugreifen, der bzw. das für ihn freigegeben wurde, kann er nicht auf den Bericht oder das Dashboard zugreifen.
+
+#### Arbeitszeit- tabellen
+
+**Beitragende Benutzer haben die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;**
+
+Benutzer mit der Zugriffsebene &quot;Mitarbeiter&quot;können zwar keine Stunden in Timesheets eingeben, haben jedoch die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;, auf die sie klicken können.
+
++++
 
 +++**Wartungs-Update vom Freitag, 21. November 2024**
 

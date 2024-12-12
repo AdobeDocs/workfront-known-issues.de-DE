@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2166'
-ht-degree: 60%
+source-wordcount: '2214'
+ht-degree: 59%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 60%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agil: Kann in einer Iteration keine Massenbearbeitung von Geschichten durchführen](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Testsendungen: Testversand kann keine Empfänger hinzufügen](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Testsendungen: Der Testversandname wird nicht auf der Browser-Registerkarte angezeigt](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Aufgaben: Bounces-Fehler beim Hinzufügen persönlicher Aufgaben](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Testsendungen: WebCapture-Testsendungen generieren nicht](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Genehmigungen: Delegierte Genehmigungen, die nicht für Delegierte erscheinen](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Dokumente: Fehler &quot;Nicht gespeicherte Änderungen&quot; beim Hinzufügen eines Formulars zu einem Dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Aufgaben: Feld &quot;Bereit zum Start&quot;wird trotz abgeschlossener Vorgänger nicht aktualisiert](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 60%
       + [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor Bizcontext-Fehler)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Layout-Vorlage: Landingpage ist falsch](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Berichte: Berichtfilter gibt nicht die erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

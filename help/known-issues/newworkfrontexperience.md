@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
-source-wordcount: '1111'
-ht-degree: 71%
+source-wordcount: '1165'
+ht-degree: 68%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Agile: Kann in einer Iteration keine Geschichten stapelweise bearbeiten](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | Freitag, 5. Dezember 2024 |
 | [Genehmigungen: Delegierte Genehmigungen werden nicht für Delegierte angezeigt](known-issues-workfront/wf-approvals-delegation-not-working.md) | Freitag, 5. Dezember 2024 |
 | [Dokumente: Fehler &quot;Nicht gespeicherte Änderungen&quot; beim Hinzufügen eines Formulars zu einem Dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md) | Freitag, 5. Dezember 2024 |
 | [Aufgaben: Feld &quot;Bereit zum Start&quot;wird trotz abgeschlossener Vorgänger nicht aktualisiert](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | Mittwoch, 3. Dezember 2024 |
@@ -53,6 +54,11 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
+| [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | Donnerstag, 11. Dezember 2024 |
+| [Testsendungen: Empfänger können dem Testversand nicht hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | Donnerstag, 11. Dezember 2024 |
+| [Testsendungen: Der Testversandname wird nicht auf der Browser-Registerkarte angezeigt](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | Donnerstag, 11. Dezember 2024 |
+| [Aufgaben: WAP-Fehler beim Hinzufügen persönlicher Aufgaben](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | Donnerstag, 11. Dezember 2024 |
+| [Testsendungen: WebCapture-Testsendungen generieren nicht](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | Donnerstag, 11. Dezember 2024 |
 | [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | Mittwoch, 3. Dezember 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 21. November 2024 |
 | [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Freitag, 24. Oktober 2024 |
@@ -63,7 +69,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | [Benachrichtigungen: Bounces-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11. April 2024 |
-| [Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4. April 2024 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor Bizcontext-Fehler)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | Mittwoch, 10. Dezember 2024 |
 | [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über Layout-Vorlage hinzugefügt wurden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | Dienstag, 4. November 2024 |
 | [Benachrichtigungen: E-Mail-Benachrichtigungen für Aktualisierungen, die nicht gesendet werden](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | Freitag, 5. Dezember 2024 |
 | [Workfront: Mitarbeiter-Benutzer können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | Freitag, 5. Dezember 2024 |

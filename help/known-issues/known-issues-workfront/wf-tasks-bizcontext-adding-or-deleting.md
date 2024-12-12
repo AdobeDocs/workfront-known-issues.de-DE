@@ -1,18 +1,22 @@
 ---
-title: 'Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe'
-description: Wenn Benutzende versuchen, eine Aufgabe hinzuzufügen oder zu löschen, wird die Aufgabe nicht hinzugefügt oder gelöscht und ein Bizcontext-Fehler wird angezeigt.
+title: 'Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor Bizcontext-Fehler)'
+description: 'Wenn ein Benutzer versucht, eine Aufgabe hinzuzufügen oder zu löschen, wird die Aufgabe nicht hinzugefügt oder gelöscht und der folgende Fehler wird angezeigt: "Datenbankfehler: Ihre Anfrage konnte aufgrund eines temporären Systemproblems nicht abgeschlossen werden. Bitte versuchen Sie es erneut." Diese Fehlermeldung war zuvor ein Bizcontext-Fehler.'
 hidefromtoc: true
 feature: Tasks
 exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+source-git-commit: d646e08c6733909733779734222db2f728b92850
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 21%
 
 ---
 
-# Aufgaben: Bizcontext-Fehler beim Hinzufügen oder Löschen einer Aufgabe
+# Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor Bizcontext-Fehler)
 
-Wenn Benutzende versuchen, eine Aufgabe hinzuzufügen oder zu löschen, wird die Aufgabe nicht hinzugefügt oder gelöscht und ein Bizcontext-Fehler wird angezeigt.
+>[!NOTE]
+>
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+
+Wenn ein Benutzer versucht, eine Aufgabe hinzuzufügen oder zu löschen, wird die Aufgabe nicht hinzugefügt oder gelöscht und der folgende Fehler wird angezeigt: &quot;Datenbankfehler: Ihre Anfrage konnte aufgrund eines temporären Systemproblems nicht abgeschlossen werden. Bitte versuchen Sie es erneut.&quot; Diese Fehlermeldung war zuvor ein Bizcontext-Fehler.
 
 _Erste Meldung am Freitag, 7. März 2024._

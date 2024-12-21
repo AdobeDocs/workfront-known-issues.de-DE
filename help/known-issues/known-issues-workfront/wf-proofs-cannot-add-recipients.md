@@ -1,22 +1,26 @@
 ---
-title: 'Testsendungen: Testversand kann keine Empfänger hinzufügen'
-description: Wenn ein Benutzer versucht, einen Benutzer über die Option Freigeben > Empfänger hinzufügen einem Testversand hinzuzufügen, wird der Empfänger nicht hinzugefügt, wenn der Benutzer auf seinen Namen klickt.
+title: 'Korrekturabzüge: Empfänger können nicht zum Korrekturabzug hinzugefügt werden'
+description: Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) zu einem Korrekturabzug mithilfe der Option &map;gt; Empfänger hinzufügen hinzuzufügen, wird der/die Empfänger(in) nicht hinzugefügt, wenn der/die Benutzende auf seinen Namen klickt.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+exl-id: 79d5de9e-1990-497b-ae33-fe56967a4a7d
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
 
+# Korrekturabzüge: Empfänger können nicht zum Korrekturabzug hinzugefügt werden
 
-# Testsendungen: Testversand kann keine Empfänger hinzufügen
+>[!NOTE]
+>
+>Dieses Problem wurde am Samstag, 13. Dezember 2024 behoben.
 
-Wenn ein Benutzer versucht, einen Benutzer über die Option Freigeben > Empfänger hinzufügen einem Testversand hinzuzufügen, wird der Empfänger nicht hinzugefügt, wenn der Benutzer auf seinen Namen klickt.
+Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) zu einem Korrekturabzug mithilfe der Option Freigeben > Empfänger hinzufügen hinzuzufügen, wird der Empfänger nicht hinzugefügt, wenn der/die Benutzende auf seinen Namen klickt.
 
 **Problemumgehung**
 
-Verwenden Sie eine andere Methode, um den Testversand freizugeben.
+Verwenden Sie eine andere Methode, um den Korrekturabzug freizugeben.
 
 _Erste Meldung am 1. Juni 2023._

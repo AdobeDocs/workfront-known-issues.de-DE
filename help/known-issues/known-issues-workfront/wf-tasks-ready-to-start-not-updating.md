@@ -1,17 +1,22 @@
 ---
-title: 'Aufgaben: Feld "Bereit zum Start"wird trotz abgeschlossener Vorgänger nicht aktualisiert'
-description: Das Feld "Bereit zum Start"für eine Aufgabe mit Vorgängern kann nicht auf "True"aktualisiert werden, obwohl alle erforderlichen Vorgänger als abgeschlossen markiert wurden.
+title: 'Aufgaben: Feld Bereit zum Start wird trotz abgeschlossener Vorgänger nicht aktualisiert'
+description: Das Feld Bereit zum Start für eine Aufgabe mit Vorgängern wird nicht auf True aktualisiert, obwohl alle erforderlichen Vorgänger als Abgeschlossen markiert sind.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
-# Aufgaben: Feld &quot;Bereit zum Start&quot;wird trotz abgeschlossener Vorgänger nicht aktualisiert
+# Aufgaben: Feld Bereit zum Start wird trotz abgeschlossener Vorgänger nicht aktualisiert
 
-Das Feld &quot;Bereit zum Start&quot;für eine Aufgabe mit Vorgängern kann nicht auf &quot;True&quot;aktualisiert werden, obwohl alle erforderlichen Vorgänger als abgeschlossen markiert wurden.
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 9. Dezember 2024 behoben.
+
+Das Feld Bereit zum Start für eine Aufgabe mit Vorgängern wird nicht auf True aktualisiert, obwohl alle erforderlichen Vorgänger als Abgeschlossen markiert sind.
 
 _Erste Meldung am Mittwoch, 1. Oktober 2024._

@@ -1,18 +1,22 @@
 ---
-title: 'Agil: Kann in einer Iteration keine Massenbearbeitung von Geschichten durchführen'
-description: Wenn ein Benutzer versucht, in einer Iteration eine Massenbearbeitung von Geschichten vorzunehmen, reagiert die Schaltfläche "Bearbeiten"nicht und der Benutzer kann die Meldungen nicht stapelweise bearbeiten.
+title: 'Agile: Storys in einer Iteration können nicht stapelweise bearbeitet werden'
+description: Wenn ein(e) Benutzende(r) versucht, Storys in einer Iteration stapelweise zu bearbeiten, reagiert die Schaltfläche Bearbeiten nicht und der/die Benutzende kann die Storys nicht stapelweise bearbeiten.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+exl-id: eebec1d6-b6be-49d1-816c-75d7b6b59094
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
+# Agile: Storys in einer Iteration können nicht stapelweise bearbeitet werden
 
-# Agil: Kann in einer Iteration keine Massenbearbeitung von Geschichten durchführen
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 19. Dezember 2024 behoben.
 
-Wenn ein Benutzer versucht, in einer Iteration eine Massenbearbeitung von Geschichten vorzunehmen, reagiert die Schaltfläche &quot;Bearbeiten&quot;nicht und der Benutzer kann die Meldungen nicht stapelweise bearbeiten.
+Wenn ein(e) Benutzende(r) versucht, Storys in einer Iteration stapelweise zu bearbeiten, reagiert die Schaltfläche Bearbeiten nicht und der/die Benutzende kann die Storys nicht stapelweise bearbeiten.
 
 _Erste Meldung am Dienstag, 11. November 2024._

@@ -1,5 +1,5 @@
 ---
-title: 'Dokumente: 404-Fehler beim Zugriff auf von SharePoint verknüpfte Dokumente'
+title: 'Dokumente: 404-Fehler beim Zugriff auf ein über SharePoint verknüpftes Dokument'
 description: Wenn Benutzende versuchen, auf ein über SharePoint verknüpftes Dokument zuzugreifen, werden sie zu einer Seite mit einem 404-Fehler geleitet.
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps

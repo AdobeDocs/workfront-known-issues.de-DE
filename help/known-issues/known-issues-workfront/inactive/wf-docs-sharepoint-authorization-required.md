@@ -1,5 +1,5 @@
 ---
-title: 'Dokumente: Zugriff auf SharePoint nicht möglich'
+title: 'Dokumente: Kein Zugriff auf SharePoint'
 description: „Beim Versuch, einen SharePoint-Ordner in Workfront zu öffnen, öffnet sich der Ordner nicht und es wird eine Meldung angezeigt.“
 hidefromtoc: true
 feature: Digital Content and Documents

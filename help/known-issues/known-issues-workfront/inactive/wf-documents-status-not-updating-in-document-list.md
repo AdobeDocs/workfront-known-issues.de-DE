@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Der Testversandstatus wird in Dokumentlisten nicht aktualisiert'
+title: 'Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in Dokumentlisten aktualisiert'
 description: Wenn sich der Status eines Korrekturabzugs ändert, wird in einer Dokumentliste, in der dieser Korrekturabzug enthalten ist, nicht der richtige neuen Status angezeigt.
 hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45

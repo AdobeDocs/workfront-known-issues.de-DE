@@ -1,5 +1,5 @@
 ---
-title: 'Benutzerdefinierte Formulare: Fehler bei der Einrichtung eines berechneten Felds'
+title: 'Benutzerdefinierte Formulare: Hoppla-Fehler beim Einrichten eines berechneten Felds'
 description: Wenn ein(e) Benutzende(r) ein berechnetes Feld in einem benutzerdefinierten Formular erstellt oder bearbeitet und ein benutzerdefiniertes Feld in den Ausdruck des berechneten Felds einbezieht, wird der Ausdruck als ungültig erachtet. Die Schaltfläche „Speichern“ ist deaktiviert, und die Benutzenden können das benutzerdefinierte Feld nicht verlassen. Zusätzlich wird unter dem Feld eine Hoppla-Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: Custom Forms

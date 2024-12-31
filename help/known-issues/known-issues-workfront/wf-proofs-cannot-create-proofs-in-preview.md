@@ -1,6 +1,6 @@
 ---
-title: 'Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden'
-description: Wenn ein Benutzer versucht, einen Testversand in einer Vorschau-Sandbox-Umgebung zu erstellen, wird der Testversand nicht erstellt und dem Benutzer wird die Meldung Fehlgeschlagen angezeigt.
+title: 'Korrekturabzüge: Korrekturabzüge können nicht in der Vorschauumgebung erstellt werden'
+description: Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug in einer Sandbox-Vorschau-Umgebung zu erstellen, wird der Korrekturabzug nicht erstellt und eine Fehlermeldung wird angezeigt, die besagt, dass der Korrekturabzug nicht erstellt werden konnte.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3cade5ee-e561-48d4-a570-6fc1cbf409f1
@@ -11,12 +11,12 @@ ht-degree: 18%
 
 ---
 
-# Testsendungen: In der Vorschau-Umgebung können keine Testsendungen erstellt werden
+# Korrekturabzüge: Korrekturabzüge können nicht in der Vorschauumgebung erstellt werden
 
 >[!NOTE]
 >
 >Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
-Wenn ein Benutzer versucht, einen Testversand in einer Vorschau-Sandbox-Umgebung zu erstellen, wird der Testversand nicht erstellt und dem Benutzer wird die Meldung &quot;Fehlgeschlagen&quot; angezeigt.
+Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug in einer Sandbox-Vorschau-Umgebung zu erstellen, wird der Korrekturabzug nicht erstellt und die Meldung „Fehler beim Generieren“ wird angezeigt.
 
 _Erste Meldung am Freitag, 17. Oktober 2024._

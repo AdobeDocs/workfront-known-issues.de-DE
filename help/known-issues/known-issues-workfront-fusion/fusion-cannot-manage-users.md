@@ -1,6 +1,6 @@
 ---
-title: 'Workfront Fusion: Benutzer können nicht aus Workfront Fusion hinzugefügt oder gelöscht werden'
-description: Wenn ein Benutzer versucht, einen Benutzer in Workfront Fusion hinzuzufügen oder zu löschen, kann er dies nicht tun.
+title: 'Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder aus ihr gelöscht werden'
+description: Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) in Workfront Fusion hinzuzufügen oder zu löschen, ist dies nicht möglich.
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Workfront Fusion: Benutzer können nicht aus Workfront Fusion hinzugefügt oder gelöscht werden
+# Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder aus ihr gelöscht werden
 
-Wenn ein Benutzer versucht, einen Benutzer in Workfront Fusion hinzuzufügen oder zu löschen, kann er dies nicht tun.
+Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) in Workfront Fusion hinzuzufügen oder zu löschen, ist dies nicht möglich.
 
-Benutzer können über die Adobe Admin Console hinzugefügt oder gelöscht werden. Dieses Problem tritt daher nur bei Fusionsunternehmen auf, die noch nicht vollständig in die Adobe Admin Console integriert wurden.
+Benutzende können über die Adobe Admin Console hinzugefügt oder gelöscht werden. Daher tritt dieses Problem nur in Fusion-Organisationen auf, die noch nicht vollständig in die Adobe Admin Console integriert wurden.
 
 **Problemumgehung**
 
-Dieses Problem ist eine vorübergehende Nebenwirkung des Prozesses der Migration einer Organisation in die Adobe Admin Console. Wenn Ihre Organisation vollständig migriert ist, können Benutzer in der Adobe Admin Console verwaltet werden. Außerdem ist es nicht mehr erforderlich, Benutzer in der Workfront Fusion-Anwendung zu verwalten.
+Dieses Problem ist ein vorübergehender Nebeneffekt des Prozesses der Migration eines Unternehmens zum Adobe Admin Console. Wenn Ihre Organisation vollständig migriert ist, können Benutzende in der Adobe Admin Console verwaltet werden. Eine Benutzerverwaltung in der Workfront Fusion-Anwendung ist dann nicht mehr erforderlich.
 
 <!--_First reported on June 1, 2024._ -->

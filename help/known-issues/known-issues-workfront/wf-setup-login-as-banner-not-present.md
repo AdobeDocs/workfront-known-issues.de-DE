@@ -1,5 +1,5 @@
 ---
-title: 'Einrichtung: Angemeldet als Banner wird nicht angezeigt, wenn er als ein anderer Benutzer angemeldet ist.'
+title: 'Setup: Angemeldet als Banner wird nicht angezeigt, wenn Sie als ein anderer Benutzer angemeldet sind.'
 description: Wenn Admins als andere Benutzende angemeldet sind, wird das Banner „Angemeldet als“ nicht angezeigt. Benutzende werden nicht daran erinnert, dass sie als eine andere Person angemeldet sind, und können sich nicht von diesem Benutzerkonto abmelden.
 hidefromtoc: true
 feature: System Setup and Administration

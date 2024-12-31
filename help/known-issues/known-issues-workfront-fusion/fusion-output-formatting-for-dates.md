@@ -1,6 +1,6 @@
 ---
 title: 'Workfront Fusion: Ausgabeformatierung für Datumsangaben'
-description: Wenn Datumsangaben als Zeichenfolgen ausgegeben werden, kann das Datum als UTC- oder ISO-Zeichenfolge ausgegeben werden. Dies hängt von der Logik in einem Zuordnungsbereich ab.
+description: Wenn Datumsangaben als Zeichenfolgen ausgegeben werden, kann das Datum als UTC- oder ISO-Zeichenfolge ausgegeben werden. Dies hängt von der Logik innerhalb eines Zuordnungsbereichs ab.
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5

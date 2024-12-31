@@ -1,6 +1,6 @@
 ---
-title: 'Projekte: Währungssymbol ist beim Export falsch '
-description: Wenn ein Benutzer ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit dem im Projekt oder im Problem festgelegten Währungssatz überein.
+title: 'Projekte: Währungssymbol ist beim Exportieren falsch '
+description: Wenn ein(e) Benutzende(r) ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit der im Projekt oder Problem festgelegten Währung überein.
 hidefromtoc: true
 feature: Projects, Work Management
 exl-id: c5af8e07-d3d7-490e-9223-6fa67d0339ed
@@ -11,12 +11,12 @@ ht-degree: 13%
 
 ---
 
-# Projekte: Währungssymbol ist beim Export falsch
+# Projekte: Währungssymbol ist beim Exportieren falsch
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 15. August 2024 behoben.
 
-Wenn ein Benutzer ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit dem im Projekt oder im Problem festgelegten Währungssatz überein.
+Wenn ein(e) Benutzende(r) ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit der im Projekt oder Problem festgelegten Währung überein.
 
 _Erste Meldung am Samstag, 12. Juli 2024._

@@ -1,6 +1,6 @@
 ---
 title: 'Integrationen: Neue Version eines Dokuments kann nicht hinzugefügt werden aus [!DNL Google Drive]'
-description: Wenn ein Benutzer eine Dokumentliste anzeigt und versucht, eine neue Version eines Dokuments aus  [!DNL Google Drive] hinzuzufügen, wird ihm eine Nachricht angezeigt. Eine Problemumgehung ist verfügbar.
+description: Wenn ein(e) Benutzende(r) eine Dokumentliste anzeigt und versucht, eine neue Version eines Dokuments aus  [!DNL Google Drive] hinzuzufügen, wird eine Meldung angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: f3158228-7df2-4063-99f9-5d01a224ada4

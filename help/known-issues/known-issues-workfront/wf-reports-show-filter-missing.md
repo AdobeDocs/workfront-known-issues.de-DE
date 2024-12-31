@@ -1,6 +1,6 @@
 ---
-title: 'Berichte: Filter einblenden/Filteroption ausblenden fehlt'
-description: Wenn ein Benutzer einen Bericht anzeigt, sind die Filteroptionen Einblenden und Ausblenden nicht sichtbar.
+title: 'Berichte: Filteroption anzeigen/Filter ausblenden fehlt'
+description: Wenn ein(e) Benutzende(r) einen Bericht aufruft, sind die Filteroptionen Ein- und Ausblenden nicht sichtbar.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
@@ -11,16 +11,16 @@ ht-degree: 15%
 
 ---
 
-# Berichte: Filter einblenden/Filteroption ausblenden fehlt
+# Berichte: Filteroption anzeigen/Filter ausblenden fehlt
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 24. Oktober 2024 behoben.
 
-Wenn ein Benutzer einen Bericht anzeigt, sind die Filteroptionen Einblenden und Ausblenden nicht sichtbar.
+Wenn ein(e) Benutzende(r) einen Bericht aufruft, sind die Filteroptionen Ein- und Ausblenden nicht sichtbar.
 
 **Problemumgehung**
 
-Auf die Filter kann weiterhin über ReportBuilder zugegriffen werden.
+Die Filter sind weiterhin über Report Builder zugänglich.
 
 _Erste Meldung am Donnerstag, 23. Oktober 2024._

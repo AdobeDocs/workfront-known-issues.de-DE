@@ -1,6 +1,6 @@
 ---
 title: 'Aufgaben: Geplantes Abschlussdatum einer Aufgabe kann nicht geändert werden'
-description: 'Wenn ein Benutzer versucht, das geplante Abschlussdatum einer Aufgabe zu ändern, reagiert das Feld nicht. '
+description: 'Wenn ein(e) Benutzende(r) versucht, das geplante Abschlussdatum einer Aufgabe zu ändern, reagiert das Feld nicht. '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks

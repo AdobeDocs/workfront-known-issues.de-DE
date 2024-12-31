@@ -1,5 +1,5 @@
 ---
-title: 'Pinnwände: Pinnwand wird nicht als Benutzer angezeigt, wenn "Anmelden"als'
+title: 'Pinnwände: Pinnwand wird nicht als Benutzer angezeigt, wenn Anmelden als verwendet wird'
 description: Wenn sich eine oder ein Admin bzw. eine oder ein Gruppen-Admin als eine andere Benutzerin oder ein anderer Benutzer anmeldet und Pinnwände anzeigt, werden die Pinnwände der oder des Admins angezeigt, nicht die der Benutzerin oder des Benutzers.
 hidefromtoc: true
 feature: Agile

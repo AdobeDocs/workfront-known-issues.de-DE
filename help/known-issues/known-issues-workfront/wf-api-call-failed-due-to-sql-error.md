@@ -1,6 +1,6 @@
 ---
 title: 'API: API-Aufruf schlägt aufgrund eines SQL-Fehlers fehl'
-description: Bei einem API-Aufruf schlägt der Aufruf aufgrund eines SQL-Fehlers fehl.
+description: Beim Ausführen eines API-Aufrufs schlägt der Aufruf aufgrund eines SQL-Fehlers fehl.
 hidefromtoc: true
 feature: Workfront API
 exl-id: 6c52b502-0ac4-4102-940f-6dbabb0bf91c
@@ -17,6 +17,6 @@ ht-degree: 17%
 >
 >Dieses Problem wurde behoben.
 
-Bei einem API-Aufruf schlägt der Aufruf aufgrund eines SQL-Fehlers fehl.
+Beim Ausführen eines API-Aufrufs schlägt der Aufruf aufgrund eines SQL-Fehlers fehl.
 
 _Erste Meldung am Freitag, 29. August 2024._

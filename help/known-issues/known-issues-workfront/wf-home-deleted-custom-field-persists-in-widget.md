@@ -1,6 +1,6 @@
 ---
-title: 'Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten.'
-description: Nachdem Sie ein benutzerdefiniertes Feld zu einem Projekt, einer Aufgabe oder einem Problem-Widget (z. B. My Projects) in Home hinzugefügt haben, wird das benutzerdefinierte Feld auch nach dem Löschen weiterhin ohne Werte angezeigt."
+title: 'Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten'
+description: Nach dem Hinzufügen eines benutzerdefinierten Felds zu einem Projekt, einer Aufgabe oder einem Problem-Widget (z. B. Meine Projekte) auf der Startseite wird das benutzerdefinierte Feld auch nach dem Löschen ohne Werte angezeigt.“
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 715e385e-5c9a-4429-82a8-83ad1eb1a2a3
@@ -11,13 +11,13 @@ ht-degree: 11%
 
 ---
 
-# Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten.
+# Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten
 
 >[!NOTE]
 >
 >Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
-Nachdem Sie ein benutzerdefiniertes Feld zu einem Projekt, einer Aufgabe oder einem Problem-Widget (z. B. My Projects) in Home hinzugefügt haben, wird das benutzerdefinierte Feld auch nach dem Löschen weiterhin ohne Werte angezeigt.
+Nach dem Hinzufügen eines benutzerdefinierten Felds zu einem Projekt, einer Aufgabe oder einem Problem-Widget (z. B. Meine Projekte) auf der Startseite wird das benutzerdefinierte Feld auch nach dem Löschen ohne Werte angezeigt.
 
 **Problemumgehung**
 

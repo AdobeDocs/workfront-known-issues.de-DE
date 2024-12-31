@@ -1,6 +1,6 @@
 ---
-title: 'Workfront: Die geöffneten Browser-Registerkarten können nicht geladen werden'
-description: 'Wenn ein Benutzer über Workfront-Browser-Registerkarten verfügt, die lange genug geöffnet sind, damit Workfront eine erneute Anmeldung benötigt, wird der Fehler "500-001a: Seite konnte nicht geladen werden"angezeigt, anstatt den Benutzer zur erneuten Anmeldung aufzufordern.'
+title: 'Workfront: Offene Browser-Registerkarten werden nicht geladen'
+description: 'Wenn ein(e) Benutzende(r) Workfront-Browser-Registerkarten lange genug geöffnet hat, damit Workfront eine weitere Anmeldung erfordert, wird anstelle einer Aufforderung zur erneuten Anmeldung der/des Benutzenden ein Fehler angezeigt: „500-001a: Laden der Seite fehlgeschlagen“.'
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
@@ -11,12 +11,12 @@ ht-degree: 4%
 
 ---
 
-# Workfront: Die geöffneten Browser-Registerkarten können nicht geladen werden
+# Workfront: Offene Browser-Registerkarten werden nicht geladen
 
-Wenn ein Benutzer über Workfront-Browser-Registerkarten verfügt, die lange genug geöffnet sind, damit Workfront eine erneute Anmeldung benötigt, wird der Fehler &quot;500-001a: Seite konnte nicht geladen werden&quot;angezeigt, anstatt den Benutzer zur erneuten Anmeldung aufzufordern.
+Wenn ein(e) Benutzende(r) Workfront-Browser-Registerkarten lange genug geöffnet hat, damit Workfront eine weitere Anmeldung erfordert, wird anstelle einer Aufforderung zur erneuten Anmeldung der/des Benutzenden ein Fehler angezeigt: „500-001a: Laden der Seite fehlgeschlagen“.
 
 **Problemumgehung**
 
-Wenn Sie die abgemeldete Browserregisterkarte schließen und Workfront erneut öffnen, werden Sie aufgefordert, sich bei Workfront anzumelden.
+Wenn Sie die Registerkarte Abgemeldeter Browser schließen und Workfront erneut öffnen, werden Sie korrekt aufgefordert, sich bei Workfront anzumelden.
 
 _Erste Meldung am Freitag, 31. Oktober 2024._

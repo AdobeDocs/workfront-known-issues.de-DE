@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Abgeschlossene Testsendungen bleiben in der Arbeitsliste stecken'
+title: 'Startseite: Abgeschlossene Korrekturabzüge bleiben in der Arbeitsliste hängen'
 description: Nachdem ein(e) Benutzende(r) einen Korrekturabzug fertiggestellt hat, wird er weiterhin in der [!UICONTROL Arbeitsliste] angezeigt.
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true

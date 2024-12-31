@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Workfront Fusion]: Verbindungsfehler konnte nicht überprüft werden'
-description: 'Workfront Fusion-Verbindungen zu einem Workfront-Konto können die Authentifizierung fehlschlagen, was dazu führt, dass Szenarien den folgenden Fehler auslösen: Verbindung konnte nicht überprüft werden.'
+title: '[!DNL Workfront Fusion]: Fehler beim Überprüfen der Verbindung'
+description: 'Bei einer Workfront Fusion-Verbindung zu einem Workfront-Konto kann die Authentifizierung fehlschlagen, sodass in Szenarien folgende Fehlermeldung angezeigt wird: Verbindung konnte nicht verifiziert werden.'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion

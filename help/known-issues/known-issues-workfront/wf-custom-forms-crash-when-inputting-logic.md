@@ -1,6 +1,6 @@
 ---
-title: 'Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab'
-description: Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu erstellen und in die Anzeigereihenfolge eingibt, stürzt der Formular-Builder ab und der Benutzer sieht eine Meldung.
+title: 'Benutzerdefinierte Formulare: Der Formular-Builder stürzt bei der Eingabe der Anzeigelogik ab'
+description: Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular zu erstellen und eine Anzeigelogik eingibt, stürzt der Formular-Builder ab und eine Meldung wird angezeigt.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
@@ -11,14 +11,14 @@ ht-degree: 15%
 
 ---
 
-# Benutzerdefinierte Formulare: Formular-Builder stürzt bei Eingabe der Anzeigelogik ab
+# Benutzerdefinierte Formulare: Der Formular-Builder stürzt bei der Eingabe der Anzeigelogik ab
 
 >[!NOTE]
 >
 >Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
-Wenn ein Benutzer versucht, ein benutzerdefiniertes Formular zu erstellen und in die Anzeigerogik eintritt, stürzt der Formular-Builder ab und der Benutzer sieht die folgende Meldung:
+Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular zu erstellen und eine Anzeigelogik eingibt, stürzt der Formular-Builder ab und die folgende Meldung wird angezeigt:
 
-&quot;Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben.&quot;
+„Ein Fehler ist aufgetreten und wir arbeiten an der Behebung des Problems“
 
 _Erste Meldung am Mittwoch, 23. Juli 2024._

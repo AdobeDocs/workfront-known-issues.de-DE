@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Die Vorschau des neuen Widgets "Startseite"zeigt nicht den richtigen Namen des Objekts an'
+title: 'Startseite: Die Vorschau des Widgets Neue Startseite zeigt nicht den richtigen Objektnamen an'
 description: Wenn Benutzende die Startseite im neuen Starterlebnis konfigurieren, zeigt die Widget-Vorschau möglicherweise nicht den richtigen Namen des Objekts an, das durch das Widget dargestellt wird. Dies liegt daran, dass Workfront die Anpassung von Objektnamen ermöglicht. Die Vorschaubilder verwenden jedoch den Standardnamen des Objekts. Das bedeutet, dass bei einer Organisation, die den Namen eines Objekts angepasst hat, in der Vorschau ein anderer Objektname angezeigt wird, als von der Organisation verwendet wird.
 hidefromtoc: true
 feature: Get Started with Workfront

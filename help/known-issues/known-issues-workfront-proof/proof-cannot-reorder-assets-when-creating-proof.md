@@ -1,6 +1,6 @@
 ---
-title: 'Workfront Proof: Assets können beim Erstellen eines Testversands nicht neu angeordnet werden'
-description: Wenn ein Benutzer in Workfront Proof versucht, die Assets, die zu einem Testversand kombiniert werden, neu anzuordnen, kann er die Dateien nicht ziehen und die Reihenfolge der Dateien bleibt unverändert.
+title: 'Workfront Proof: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden'
+description: Wenn ein(e) Benutzende(r) in Workfront Proof versucht, die Assets, die zu einem Korrekturabzug zusammengefasst werden, neu anzuordnen, kann er/sie die Dateien nicht ziehen und die Reihenfolge der Dateien bleibt unverändert.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0

@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Im Testversand-Viewer werden keine Validierungsoptionen angezeigt'
+title: 'Korrekturabzüge: Genehmigungsoptionen werden nicht in der Korrekturabzugsanzeige angezeigt'
 description: Wenn Benutzende versuchen, einen Korrekturabzug im Desktop Proofing Viewer zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,5 +1,5 @@
 ---
-title: 'Einrichtung: Audit-Protokolle können nicht exportiert werden'
+title: 'Setup: Auditprotokolle können nicht exportiert werden'
 description: Wenn Benutzende versuchen, eine hohe Anzahl von Audit-Protokollen zu exportieren, werden die Protokolle nicht exportiert. Es gibt keinen Hinweis darauf, dass der Export fehlgeschlagen ist.
 hidefromtoc: true
 feature: System Setup and Administration

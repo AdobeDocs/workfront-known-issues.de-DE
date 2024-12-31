@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: Zeitüberschreitung bei Anfragen ](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
+| [API: Zeitüberschreitung von Anfragen](known-issues-workfront/wf-api-request-timing-out.md) | Dienstag, 5. August 2024 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Benutzer können nicht aus Workfront Fusion hinzugefügt oder gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | Mittwoch, 24. September 2024 |
+| [Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder aus ihr gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | Mittwoch, 24. September 2024 |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront-Fusion: Beginnen Sie mit der Einstellung &quot;Von jetzt an&quot;, um alle Daten zu verarbeiten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Mittwoch, 29. Oktober 2024 |
+| [Workfront Fusion: Beginnen Sie mit der Einstellung „Von jetzt an“ und verarbeiten Sie alle Daten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Mittwoch, 29. Oktober 2024 |
 | [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | Dienstag, 5. Februar 2024 |
 | [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | Donnerstag, 31. Januar 2024 |
 | [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16. November 2023 |

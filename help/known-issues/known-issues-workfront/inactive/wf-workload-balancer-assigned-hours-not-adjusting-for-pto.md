@@ -1,5 +1,5 @@
 ---
-title: 'Workload Balancer: Die Stunden werden nicht an die Zeitdauer des Benutzers angepasst'
+title: 'Lastenausgleich: Stunden werden nicht den Auszeiten der Benutzenden entsprechend angepasst'
 description: Wenn Benutzende eine Ausfallzeit einplanen und ihnen Aufgaben zugewiesen sind, aktualisiert der Lastenausgleich die Timeline nicht entsprechend der Ausfallzeit. Stattdessen zeigt der Lastenausgleich an, dass die Benutzenden für die als Ausfallzeit eingeplanten Tage überlastet sind. Um die Stunden anzupassen, müssen die Administrierenden auf das Projekt zugreifen und die Timeline neu berechnen.
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930

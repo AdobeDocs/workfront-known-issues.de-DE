@@ -1,6 +1,6 @@
 ---
-title: 'Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche "Zur Genehmigung übermitteln"'
-description: Benutzer mit der Zugriffsebene "Mitarbeiter"können zwar keine Stunden in Timesheets eingeben, haben jedoch die Schaltfläche "Zur Genehmigung übermitteln", auf die sie klicken können.
+title: 'Arbeitszeittabellen: Mitwirkende haben die Schaltfläche „Zur Genehmigung einreichen“'
+description: Obwohl es nicht möglich ist, Stunden in Arbeitszeittabellen einzugeben, verfügen Benutzende mit der Zugriffsebene Mitwirkende über eine Schaltfläche „Zur Genehmigung einreichen“, auf die sie klicken können.
 hidefromtoc: true
 feature: Timesheets
 exl-id: 3c2f744e-e53e-47b5-bd8d-eee3063ef108
@@ -11,12 +11,12 @@ ht-degree: 13%
 
 ---
 
-# Timesheets: Mitarbeiter-Benutzer haben die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;
+# Arbeitszeittabellen: Mitwirkende haben die Schaltfläche „Zur Genehmigung einreichen“
 
 >[!NOTE]
 >
 >Dieser Artikel wurde am Freitag, 28. November 2024 behoben.
 
-Benutzer mit der Zugriffsebene &quot;Mitarbeiter&quot;können zwar keine Stunden in Timesheets eingeben, haben jedoch die Schaltfläche &quot;Zur Genehmigung übermitteln&quot;, auf die sie klicken können.
+Obwohl es nicht möglich ist, Stunden in Arbeitszeittabellen einzugeben, verfügen Benutzende mit der Zugriffsebene Mitwirkende über eine Schaltfläche „Zur Genehmigung einreichen“, auf die sie klicken können.
 
 _Erste Meldung am Dienstag, 9. September 2024._

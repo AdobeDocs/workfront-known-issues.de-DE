@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Der Validierungsbericht kann Termine nicht genau bestimmen'
+title: 'Korrekturabzüge: Für den Bericht zu Korrekturabzugs-Genehmigungen können keine korrekten Fristen festgelegt werden'
 description: Wenn ein(e) Benutzende(r) einen [!UICONTROL Korrekturabzugs-Genehmigungs]-Bericht erstellt, der Korrekturabzugsfristen enthält, sind die im Bericht angezeigten Datumsangaben falsch, was zu falschen Berechnungen und ungenauen Ergebnissen führt.
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true

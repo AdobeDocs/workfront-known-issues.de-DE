@@ -1,5 +1,5 @@
 ---
-title: 'Benutzerdefinierte Formulare: Fehler bei Typkonvertierungen bei benutzerdefinierten Formularen anzeigen'
+title: 'Benutzerdefinierte Formulare: Fehler bei der Anzeigetypkonvertierung in benutzerdefinierten Formularen'
 description: Rich-Text-Felder verursachen einen Fehler in benutzerdefinierten Formularen.
 hidefromtoc: true
 feature: Custom Forms
@@ -11,19 +11,19 @@ ht-degree: 3%
 
 ---
 
-# Benutzerdefinierte Formulare: Fehler bei Typkonvertierungen bei benutzerdefinierten Formularen anzeigen
+# Benutzerdefinierte Formulare: Fehler bei der Anzeigetypkonvertierung in benutzerdefinierten Formularen
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 9. Oktober 2024 behoben.
+>Dieses Problem wurde am 9. Oktober 2024 behoben.
 
-Rich-Text-Felder führen dazu, dass in benutzerdefinierten Formularen der folgende Fehler angezeigt wird:
+Rich-Text-Felder verursachen den folgenden Fehler in benutzerdefinierten Formularen:
 
-&quot;Fehler: Konvertierungen des Anzeigetyps zwischen Text und Rich-Text sind nicht zulässig.&quot;
+„Fehler: Datentypkonvertierungen zwischen Text und Rich-Text sind nicht zulässig.“
 
 Dies kann unter folgenden Bedingungen auftreten:
 
-* Der Benutzer beginnt mit der Bearbeitung der Formulare, klickt jedoch auf &quot;Übernehmen&quot;, ohne Änderungen vorzunehmen.
+* Der/die Benutzende beginnt mit der Bearbeitung der Formulare, klickt jedoch auf Anwenden , ohne Änderungen vorzunehmen.
 * Der Benutzer erstellt ein benutzerdefiniertes Formular.
 
 In beiden Fällen verursachen Rich-Text-Felder die Probleme.

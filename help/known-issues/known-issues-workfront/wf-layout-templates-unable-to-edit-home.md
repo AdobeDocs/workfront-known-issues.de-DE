@@ -1,6 +1,6 @@
 ---
-title: 'Layout-Vorlagen: Administratoren können keine Layoutvorlagen für die Startseite bearbeiten'
-description: Wenn ein Administrator versucht, eine Layoutvorlage für eine Startseite für einen Benutzer zu bearbeiten, reagiert die Benutzeroberfläche nicht und die Änderungen können nicht gespeichert werden.
+title: 'Layout-Vorlagen: Administratoren können die Layoutvorlagen der Startseite nicht bearbeiten'
+description: Wenn ein(e) Administrator(in) versucht, eine Startseiten-Layout-Vorlage für eine(n) Benutzende(n) zu bearbeiten, reagiert die Benutzeroberfläche nicht und Änderungen können nicht gespeichert werden.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
@@ -11,16 +11,16 @@ ht-degree: 13%
 
 ---
 
-# Layout-Vorlagen: Administratoren können keine Layoutvorlagen für die Startseite bearbeiten
+# Layout-Vorlagen: Administratoren können die Layoutvorlagen der Startseite nicht bearbeiten
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 5. Dezember 2024 behoben.
 
-Wenn ein Administrator versucht, eine Layoutvorlage für eine Startseite für einen Benutzer zu bearbeiten, reagiert die Benutzeroberfläche nicht und die Änderungen können nicht gespeichert werden.
+Wenn ein(e) Administrator(in) versucht, eine Startseiten-Layout-Vorlage für eine(n) Benutzende(n) zu bearbeiten, reagiert die Benutzeroberfläche nicht und Änderungen können nicht gespeichert werden.
 
 **Problemumgehung**
 
-Weisen Sie sich die nicht responsive Vorlage zu, bevor Sie sie bearbeiten.
+Weisen Sie sich die Vorlage, die nicht reagiert, zu, bevor Sie sie bearbeiten.
 
 _Erste Meldung am Freitag, 10. Oktober 2024._

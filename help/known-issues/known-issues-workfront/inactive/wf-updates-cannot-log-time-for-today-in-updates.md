@@ -1,5 +1,5 @@
 ---
-title: 'Aktualisierungen: Die Protokollzeit für den aktuellen Tag kann nicht im Bereich Updates protokolliert werden'
+title: 'Updates: Die Zeit für den aktuellen Tag kann nicht im Bereich Updates protokolliert werden.'
 description: Wenn Benutzende versuchen, die Zeit für den aktuellen Tag im Bereich „Updates“ anzuzeigen, ist der aktuelle Tag ausgegraut und die Benutzenden können keine Stunden eingeben.
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc

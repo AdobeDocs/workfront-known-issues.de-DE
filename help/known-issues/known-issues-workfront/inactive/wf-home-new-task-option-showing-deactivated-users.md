@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Neue Option "Aufgabe"mit deaktivierten Benutzern im Feld "Zuweisen zu"'
+title: 'Startseite: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld Zuweisen zu'
 description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Version im Startseiten-Bereich eine neue Aufgabe oder ein neues Problem erstellt und versucht, eine(n) Benutzende(n) zuzuweisen, werden deaktivierte Benutzende in der Dropdown-Liste [!UICONTROL mit automatischer Textvervollständigung] als ausgewählt angezeigt.
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks

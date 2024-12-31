@@ -1,6 +1,6 @@
 ---
-title: 'Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht'
-description: Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, wird der Cursor ausgeblendet und die Textfelder für die Massenbearbeitung werden nicht mehr responsiv.
+title: 'Berichte: Massenbearbeitung in Diagrammlisten reagiert nicht'
+description: Wenn ein(e) Benutzende(r) ein Diagramm in einem Bericht aufruft und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, verschwindet der Cursor und die Textfelder für die Massenbearbeitung reagieren nicht mehr.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 7833bf90-076d-423a-9f0a-8354881a9a69
@@ -11,7 +11,7 @@ ht-degree: 4%
 
 ---
 
-# Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht
+# Berichte: Massenbearbeitung in Diagrammlisten reagiert nicht
 
 <!--
 >[!NOTE]
@@ -19,6 +19,6 @@ ht-degree: 4%
 >This issue was fixed on November 21, 2024.
 -->
 
-Wenn ein Benutzer ein Diagramm in einem Bericht anzeigt und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, wird der Cursor ausgeblendet und die Textfelder für die Massenbearbeitung werden nicht mehr responsiv.
+Wenn ein(e) Benutzende(r) ein Diagramm in einem Bericht aufruft und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, verschwindet der Cursor und die Textfelder für die Massenbearbeitung reagieren nicht mehr.
 
 _Erste Meldung am Freitag, 24. Oktober 2024._

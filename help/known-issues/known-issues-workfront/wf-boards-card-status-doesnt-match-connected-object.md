@@ -1,6 +1,6 @@
 ---
 title: 'Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter'
-description: Die Karten in der Ansauspalte einer dynamischen Pinnwand zeigen falsche Statusinformationen an und filtern nicht ordnungsgemäß nach ihrem Status.
+description: Karten in der Aufnahmespalte einer dynamischen Pinnwand zeigen falsche Statusinformationen an und filtern nicht richtig auf der Grundlage ihres Status.
 hidefromtoc: true
 feature: Agile
 exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
@@ -17,6 +17,6 @@ ht-degree: 13%
 >
 >Dieses Problem wurde am Samstag, 13. September 2024 behoben.
 
-Die Karten in der Ansauspalte einer dynamischen Pinnwand zeigen falsche Statusinformationen an und filtern nicht ordnungsgemäß nach ihrem Status.
+Karten in der Aufnahmespalte einer dynamischen Pinnwand zeigen falsche Statusinformationen an und filtern nicht richtig auf der Grundlage ihres Status.
 
 _Erste Meldung am Freitag, 8. August 2024._

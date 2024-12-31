@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Abgeschlossene Testsendungen verbleiben auf dem Widget "Meine Genehmigung"'
+title: 'Korrekturabzüge: Abgeschlossene Korrekturabzüge verbleiben im Widget „Warten auf meine Genehmigung“'
 description: Nachdem jemand eine Entscheidung über einen Korrekturabzug getroffen hat, bleibt dieser Korrekturabzug auf der Seite [!UICONTROL Startseite] im neuen Startseitenerlebnis der Person im Widget [!UICONTROL Warten auf Genehmigung].
 hidefromtoc: true
 feature: Digital Content and Documents

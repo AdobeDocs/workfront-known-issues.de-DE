@@ -23,7 +23,7 @@ Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Vi
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
-* Greifen Sie über die Liste Dokumente auf den Testversand zu. Dadurch kann das Klicken auf das X wie erwartet funktionieren.
+* Greifen Sie über die Liste Dokumente auf den Korrekturabzug zu. Dadurch kann das Klicken auf das X wie erwartet funktionieren.
 * Versuchen Sie erneut, den Korrekturabzug zu schließen.
 * Schließen Sie den Korrekturabzug, indem Sie die Browser-Registerkarte schließen.
 

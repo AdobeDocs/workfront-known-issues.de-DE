@@ -1,6 +1,6 @@
 ---
 title: 'Startseite: Das Widget Meine Genehmigungen funktioniert nicht'
-description: Wenn ein Benutzer versucht, das Widget Meine Genehmigungen zu Hause anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht eine Nachricht.
+description: Wenn ein(e) Benutzende(r) versucht, das Widget Meine Genehmigungen in der Startseite anzuzeigen, wird das Widget nicht angezeigt und eine Meldung wird angezeigt.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
@@ -17,7 +17,7 @@ ht-degree: 35%
 >
 >Dieses Problem wurde am Freitag, 24. Oktober 2024 behoben.
 
-Wenn ein Benutzer versucht, das Widget Meine Genehmigungen zu Hause anzuzeigen, wird das Widget nicht angezeigt und der Benutzer sieht die folgende Nachricht:
+Wenn ein(e) Benutzende(r) versucht, das Widget Meine Genehmigungen in der Startseite anzuzeigen, wird das Widget nicht angezeigt und die folgende Meldung wird angezeigt:
 
 „[!UICONTROL Ein Fehler ist aufgetreten und wir arbeiten an der Lösung der Änderungen. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“
 

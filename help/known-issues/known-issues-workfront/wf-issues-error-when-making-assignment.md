@@ -1,6 +1,6 @@
 ---
 title: 'Probleme: Fehler bei der erweiterten Zuweisung zu einem Problem'
-description: Wenn ein Benutzer versucht, in Workfront einem Problem eine erweiterte Zuweisung vorzunehmen, wird das Problem nicht zugewiesen und der Benutzer erhält eine Fehlermeldung.
+description: Wenn ein(e) Benutzende(r) versucht, in Workfront eine erweiterte Zuweisung zu einem Problem vorzunehmen, wird das Problem nicht zugewiesen und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: Work Management
 exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f

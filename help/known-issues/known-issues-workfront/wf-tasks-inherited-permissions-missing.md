@@ -1,6 +1,6 @@
 ---
-title: 'Aufgaben: Aufgaben fehlen geerbte Berechtigungen'
-description: ''
+title: 'Aufgaben: Für Aufgaben fehlen geerbte Berechtigungen'
+description: null
 hidefromtoc: true
 feature: Tasks
 exl-id: 0c70cb20-863f-4953-b72a-19a27713a81c
@@ -11,12 +11,12 @@ ht-degree: 27%
 
 ---
 
-# Aufgaben: Aufgaben fehlen geerbte Berechtigungen
+# Aufgaben: Für Aufgaben fehlen geerbte Berechtigungen
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Samstag, 26. Juli 2024 behoben.
 
-Benutzer, die Berechtigungen für eine Aufgabe übernehmen sollten, verfügen nicht über diese Berechtigungen.
+Benutzende, die über geerbte Berechtigungen für eine Aufgabe verfügen sollten, verfügen nicht über diese Berechtigungen.
 
 _Erste Meldung am Samstag, 19. Juli 2024._

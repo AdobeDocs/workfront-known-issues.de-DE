@@ -1,6 +1,6 @@
 ---
 title: 'Projekte: Gantt-Diagramm ist nicht korrekt'
-description: 'Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an. '
+description: 'Wenn ein(e) Benutzende(r) das Gantt-Diagramm aufruft und die Ansichten wechselt, werden im Gantt-Diagramm keine genauen Daten angezeigt oder es werden möglicherweise keine Daten angezeigt. '
 hidefromtoc: true
 feature: Projects, Work Management
 exl-id: fd55b88a-fdfd-4b59-8e5e-559a4958be52
@@ -17,6 +17,6 @@ ht-degree: 14%
 >
 >Dieses Problem wurde am Freitag, 24. Oktober 2024 behoben.
 
-Wenn ein Benutzer das Gantt-Diagramm anzeigt und die Ansicht wechselt, zeigt das Gantt-Diagramm keine präzisen Daten oder möglicherweise keine Daten an.
+Wenn ein(e) Benutzende(r) das Gantt-Diagramm aufruft und die Ansichten wechselt, werden im Gantt-Diagramm keine genauen Daten angezeigt oder es werden möglicherweise keine Daten angezeigt.
 
 _Erste Meldung am Mittwoch, 8. Oktober 2024._

@@ -1,6 +1,6 @@
 ---
 title: 'Berichte: Fehler beim Exportieren des Berichts'
-description: Wenn ein Benutzer versucht, einen Bericht zu exportieren, wird der Bericht nicht exportiert und dem Benutzer wird ein Fehler angezeigt.
+description: Wenn ein(e) Benutzende(r) versucht, einen Bericht zu exportieren, wird der Bericht nicht exportiert und ein Fehler wird angezeigt.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 864081d8-177c-422f-a46c-10ebac5c9fa1
@@ -15,10 +15,10 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->Dieses Problem wurde behoben, da es nicht behoben werden kann. Es wird empfohlen, keine Berichtsspalte in einen Bericht aufzunehmen, den Sie exportieren möchten.
+>Dieses Problem wurde geschlossen, da es nicht behoben werden kann. Es wird empfohlen, in einen zu exportierenden Bericht keine Berichtsspalte einzufügen.
 
 Beim Versuch, einen Bericht zu exportieren, wird der Bericht nicht exportiert und es wird der folgende Fehler angezeigt:
 
-&quot;[!UICONTROL Der folgende Fehler ist aufgetreten: Maximale Byte-Größe für CUSTOM_FIELD_REPORTS überschritten: 2381840 CACHE-CONTENT...]&quot;
+&quot;[!UICONTROL Folgender Fehler ist aufgetreten: Byte-Größenbeschränkung für CUSTOM_FIELD_REPORTS überschritten: 2381840 CACHE-CONTENT…]&quot;
 
 _Erste Meldung am Dienstag, 29. Juli 2024._

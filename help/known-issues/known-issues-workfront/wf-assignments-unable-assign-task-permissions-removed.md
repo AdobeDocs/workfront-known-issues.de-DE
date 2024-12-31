@@ -1,6 +1,6 @@
 ---
 title: 'Zuweisungen: Aufgabenzuweisung schlägt fehl und geerbte Berechtigungen wurden entfernt'
-description: Beim Zuweisen einer Aufgabe zu einem Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, wodurch der Benutzer keinen Zugriff mehr auf die Aufgabe erhält, die er zuweisen wollte.
+description: Beim Zuweisen einer Aufgabe zu einem Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, sodass Benutzende keinen Zugriff mehr auf die Aufgabe haben, die sie zuzuweisen versucht haben.
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 exl-id: 7fca38c0-04e0-4af3-b47d-76b540fbcf06
@@ -17,6 +17,6 @@ ht-degree: 11%
 >
 >Dieses Problem wurde am Freitag, 19. September 2024 behoben.
 
-Beim Zuweisen einer Aufgabe zu einem Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, wodurch der Benutzer keinen Zugriff mehr auf die Aufgabe erhält, die er zuweisen wollte.
+Beim Zuweisen einer Aufgabe zu einem Team schlägt die Zuweisung fehl und gibt einen Fehler zurück. Darüber hinaus werden geerbte Berechtigungen entfernt, sodass Benutzende keinen Zugriff mehr auf die Aufgabe haben, die sie zuzuweisen versucht haben.
 
 _Erste Meldung am Freitag, 5. September 2024._

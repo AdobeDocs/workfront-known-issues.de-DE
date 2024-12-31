@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof API: Hauptteil ist kein gültiger XML-Fehler'
+title: 'Workfront Proof-API: Fehler: Text ist keine gültige XML'
 description: Ein Aufruf der Workfront-Korrekturabzug-API gibt einen Fehler zurück.
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0

@@ -1,5 +1,5 @@
 ---
-title: 'Benachrichtigungen: Benutzer, die keine E-Mail- oder In-App-Benachrichtigungen erhalten, wenn diese erwähnt oder in einem Kommentar enthalten sind'
+title: 'Benachrichtigungen: Benutzende erhalten keine E-Mail- oder In-App-Benachrichtigungen, wenn sie in einem Kommentar erwähnt oder einbezogen werden'
 description: Wenn Benutzende in einem Kommentar oder einer Aktualisierung in einem Aktualisierungsverlauf eines Objekts erwähnt oder einbezogen werden, erhalten sie möglicherweise nicht die erwartete E-Mail- oder In-App-Benachrichtigung zum Kommentar.
 hidefromtoc: true
 feature: Updates and Notifications

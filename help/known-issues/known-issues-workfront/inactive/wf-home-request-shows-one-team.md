@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Das Anforderungs-Widget zeigt nicht alle zugewiesenen Teams an'
+title: 'Startseite: Das Anfragen-Widget zeigt nicht alle zugewiesenen Teams an'
 description: Wenn eine Benutzerin bzw. ein Benutzer das Anfrage-Widget im neuen Startseitenerlebnis anzeigt, wird bei Anfragen angezeigt, dass ihr bzw. ihm nur ein Team zugewiesen ist, selbst wenn tatsächlich mehr als ein Team zugewiesen sind.
 hidefromtoc: true
 feature: Get Started with Workfront

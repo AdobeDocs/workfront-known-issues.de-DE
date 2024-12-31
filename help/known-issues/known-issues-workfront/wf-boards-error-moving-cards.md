@@ -1,6 +1,6 @@
 ---
-title: 'Pinnwände: Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzern'
-description: 'Beim Verschieben von Karten oder beim Zuweisen von Benutzern durchläuft die Aktion gelegentlich nicht und erzeugt stattdessen die Fehlerantwort nicht erfolgreich: Status-Code 502 nach einer Verzögerung erhalten.'
+title: 'Pinnwände: Fehler beim Verschieben von Karten oder Zuweisen von Benutzern'
+description: 'Beim Verschieben von Karten oder Zuweisen von Benutzern wird die Aktion gelegentlich nicht ausgeführt und verursacht stattdessen die Fehlerantwort Nicht erfolgreich: Erhaltener Status-Code 502 nach einer Verzögerung.'
 hidefromtoc: true
 feature: Agile
 exl-id: 6760a73e-65ad-466f-9bec-964e3490f1e8
@@ -11,12 +11,12 @@ ht-degree: 4%
 
 ---
 
-# Pinnwände: Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzern
+# Pinnwände: Fehler beim Verschieben von Karten oder Zuweisen von Benutzern
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 10. Oktober 2024 behoben.
+>Dieses Problem wurde am 10. Oktober 2024 behoben.
 
-Beim Verschieben von Karten oder beim Zuweisen von Benutzern durchläuft die Aktion gelegentlich nicht und erzeugt stattdessen den Fehler &quot;Antwort nicht erfolgreich: Status-Code 502 erhalten&quot;nach einer Verzögerung.
+Beim Verschieben von Karten oder Zuweisen von Benutzern wird die Aktion gelegentlich nicht ausgeführt, sondern nach einer Verzögerung der Fehler „Antwort nicht erfolgreich: Status-Code 502 empfangen“ ausgegeben.
 
 _Erste Meldung am Samstag, 13. September 2024._

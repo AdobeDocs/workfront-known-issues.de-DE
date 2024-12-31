@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als authentifiziert werden'
+title: 'Workfront Fusion: Eine Verbindung kann nicht mit der Funktion "Workfront-Anmeldung als“ authentifiziert werden'
 description: Beim Erstellen einer Verbindung in Workfront Fusion kann ein Benutzer die Verbindung nicht authentifizieren, während er als ein anderer Benutzer angemeldet ist.
 hidefromtoc: true
 feature: Workfront Fusion
@@ -11,11 +11,11 @@ ht-degree: 5%
 
 ---
 
-# Workfront Fusion: Verbindung kann nicht über die Funktion Workfront-Anmeldung als authentifiziert werden
+# Workfront Fusion: Eine Verbindung kann nicht mit der Funktion &quot;Workfront-Anmeldung als“ authentifiziert werden
 
 >[!NOTE]
 >
->Dies ist kein Problem, da es wie geplant funktioniert.
+>Dies ist kein Problem, da es ordnungsgemäß funktioniert.
 
 Beim Erstellen einer Workfront-Verbindung in Workfront Fusion kann ein Benutzer die Verbindung nicht authentifizieren, während er als ein anderer Benutzer angemeldet ist.
 

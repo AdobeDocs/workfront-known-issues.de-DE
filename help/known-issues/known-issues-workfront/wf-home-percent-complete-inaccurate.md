@@ -1,6 +1,6 @@
 ---
 title: 'Startseite: Prozent abgeschlossen ist abgeschnitten'
-description: Wenn ein Benutzer eine Liste auf der Startseite anzeigt, wird die Spalte "Prozent abgeschlossen"teilweise abgeschnitten, und der Benutzer kann die genaue prozentuale Fertigstellung der Objekte nicht sehen.
+description: Wenn ein(e) Benutzende(r) eine Liste auf der Startseite aufruft, ist die Spalte Prozent abgeschlossen teilweise abgeschnitten und der/die Benutzende kann den genauen Prozentsatz der Fertigstellung der Objekte nicht sehen.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 4fa87f86-c568-4a02-97ba-a959196964be
@@ -17,6 +17,6 @@ ht-degree: 7%
 >
 >Dieses Problem wurde am Freitag, 31. Oktober 2024 behoben.
 
-Wenn ein Benutzer eine Liste auf der Startseite anzeigt, wird die Spalte &quot;Prozent abgeschlossen&quot;teilweise abgeschnitten, und der Benutzer kann die genaue prozentuale Fertigstellung der Objekte nicht sehen.
+Wenn ein(e) Benutzende(r) eine Liste auf der Startseite aufruft, ist die Spalte Prozent abgeschlossen teilweise abgeschnitten und der/die Benutzende kann den genauen Prozentsatz der Fertigstellung der Objekte nicht sehen.
 
 _Erste Meldung am 22. Oktober 2024._

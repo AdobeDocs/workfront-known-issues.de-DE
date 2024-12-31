@@ -1,6 +1,6 @@
 ---
 title: 'Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich'
-description: Wenn ein Benutzer die Liste der Zugriffsebenen im Bereich Einrichtung anzeigt, sieht er, dass einige Zugriffsebenen dupliziert werden. Dies gilt nur für integrierte Ebenen.
+description: Wenn ein(e) Benutzende(r) die Liste der Zugriffsebenen im Bereich Setup aufruft, werden einige Zugriffsebenen dupliziert. Dies gilt nur für integrierte Ebenen.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
@@ -17,8 +17,8 @@ ht-degree: 11%
 >
 >Dieses Problem wurde am Freitag, 8. August 2024 behoben.
 
-Wenn ein Benutzer die Liste der Zugriffsebenen im Bereich Einrichtung anzeigt, sieht er, dass einige Zugriffsebenen dupliziert werden. Dies gilt nur für integrierte Ebenen.
+Wenn ein(e) Benutzende(r) die Liste der Zugriffsebenen im Bereich Setup aufruft, werden einige Zugriffsebenen dupliziert. Dies gilt nur für integrierte Ebenen.
 
-Dies wurde nach Änderungen an den Lizenzen einer Organisation gemeldet.
+Dies wurde nach Änderungen an den Lizenzen eines Unternehmens gemeldet.
 
 _Erste Meldung am Freitag, 18. Juli 2024._

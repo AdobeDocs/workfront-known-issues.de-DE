@@ -1,5 +1,5 @@
 ---
-title: 'Testsendungen: Die Registerkarte "Aktivität zum Testversand"wird geöffnet'
+title: 'Korrekturabzüge: Registerkarte Aktivität von Korrekturabzügen öffnet Details von Korrekturabzügen'
 description: Wenn Sie einen Korrekturabzug anzeigen und auf die Registerkarte „Aktivität von Korrekturabzügen“ klicken, wird stattdessen die Registerkarte „Details von Korrekturabzügen“ geöffnet. Dies tritt auf, wenn dem Workflow manuell eine Phase für Korrekturabzüge hinzugefügt wurde.
 hidefromtoc: true
 exl-id: 214156cc-b4ac-454b-ac62-596dbaf5a96a

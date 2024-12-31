@@ -1,6 +1,6 @@
 ---
 title: 'Workfront Proof: 500-Fehler beim Zugriff auf Workfront Proof über API oder Workfront Fusion'
-description: Wenn ein Benutzer auf die Aktion "getAllProofs"der Testversand-API zugreift, gibt der Workfront Proof-Server die Meldung 500 Interner Serverfehler zurück.
+description: 'Wenn eine Benutzerin oder ein Benutzer auf die Aktion getAllProofs der Korrekturabzugs-API zugreift, gibt der Workfront Proof-Server die folgende Meldung zurück: 500 Interner Server-Fehler'
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

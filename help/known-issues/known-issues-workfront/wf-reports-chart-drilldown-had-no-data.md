@@ -1,5 +1,5 @@
 ---
-title: 'Berichte: Keine Daten, die angezeigt werden, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist'
+title: 'Berichte: Keine Daten zum Anzeigen, wenn der Gruppierungsname einen Schrägstrich oder einen umgekehrten Schrägstrich aufweist'
 description: Wenn Benutzende ein Diagramm in einem Bericht anzeigen und auf eine Gruppierung im Diagramm klicken und diese Gruppierung einen Schrägstrich oder einen umgekehrten Schrägstrich im Namen aufweist, werden in den daraufhin angezeigten Details die Elemente in der Gruppierung nicht angezeigt und die Benutzenden erhalten die Meldung „Keine Daten zum Anzeigen vorhanden“.
 hidefromtoc: true
 feature: Reports and Dashboards

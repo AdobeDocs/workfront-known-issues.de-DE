@@ -11,13 +11,13 @@ ht-degree: 39%
 
 ---
 
-# Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschau anzeigen
+# Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen
 
 >[!NOTE]
 >
->Dieses Problem wird durch eine Beschränkung von Gmail verursacht und nicht behoben.
+>Dieses Problem wird durch eine Einschränkung von Gmail verursacht und wird nicht behoben.
 
-Beim Öffnen einer Dokument-Review- oder Genehmigungs-E-Mail mit Gmail wird keine Bildvorschau angezeigt.
+Beim Öffnen einer E-Mail zur Überprüfung oder Genehmigung eines Dokuments mit Gmail wird keine Bildvorschau angezeigt.
 
 **Problemumgehung**
 

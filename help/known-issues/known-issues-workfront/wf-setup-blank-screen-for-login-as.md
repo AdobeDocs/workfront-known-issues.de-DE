@@ -1,6 +1,6 @@
 ---
-title: 'Einrichtung: Melden Sie sich als führt zum leeren Bildschirm an.'
-description: Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
+title: 'Setup: Anmeldung als führt zu leerem Bildschirm'
+description: Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein leerer Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 53068b8c-b5f8-45b1-8e03-43c7a7a51eef
@@ -11,16 +11,16 @@ ht-degree: 14%
 
 ---
 
-# Einrichtung: &quot;Anmelden als&quot;führt zum leeren Bildschirm
+# Setup: „Anmelden als“ führt zu leerem Bildschirm
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 8. August 2024 behoben.
 
-Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
+Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein leerer Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
 
 **Problemumgehung**
 
-Aktualisieren Sie den Bildschirm. Dies kann mehrere Versuche erfordern.
+Aktualisieren Sie den Bildschirm. Dies kann mehrere Versuche dauern.
 
 _Erste Meldung am Donnerstag, 17. Juli 2024._

@@ -1,6 +1,6 @@
 ---
 title: 'Projekte: Fehler bei der Massenbearbeitung von Projekten'
-description: Wenn ein Benutzer versucht, Projekte stapelweise zu bearbeiten, ist das Bearbeitungsfenster leer, und der Benutzer sieht einen Fehler.
+description: Wenn ein(e) Benutzende(r) versucht, Projekte stapelweise zu bearbeiten, ist das Bearbeitungsfenster leer und ein Fehler wird angezeigt.
 hidefromtoc: true
 feature: Projects
 exl-id: dd41e8b8-42af-425a-815f-29c3f303b27f

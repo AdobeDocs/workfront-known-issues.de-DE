@@ -1,6 +1,6 @@
 ---
-title: 'Melden Sie sich als an: Startseite und Pins werden beim Abmelden von der Anmeldung als'
-description: Wenn sich ein Benutzer, der als ein anderer Benutzer angemeldet ist, als dieser abmeldet, werden ihm auf seinem Startbildschirm die folgenden Probleme angezeigt.
+title: 'Anmelden als: Startseite und Pins werden beim Abmelden von „Anmelden als“ falsch angezeigt'
+description: Wenn sich ein(e) Benutzende(r), der/die als ein(e) andere(r) Benutzende(r) angemeldet ist, als dieser/diese Benutzende abmeldet, werden auf seinem/ihrem Startbildschirm folgende Probleme angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
 exl-id: 3614563d-7f53-4632-b09f-2874133aa217
@@ -11,18 +11,18 @@ ht-degree: 11%
 
 ---
 
-# Melden Sie sich als an: Startseite und Pins werden beim Abmelden von &quot;Anmelden als&quot;falsch angezeigt
+# Anmelden als: Startseite und Pins werden beim Abmelden von „Anmelden als“ falsch angezeigt
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 25. Juli 2024 behoben.
 
-Wenn sich ein Benutzer, der als ein anderer Benutzer angemeldet ist, als dieser Benutzer abmeldet, sieht er Folgendes:
+Wenn sich ein(e) Benutzende(r), der/die als ein(e) andere(r) Benutzende(r) angemeldet ist, als dieser(r) abmeldet, wird Folgendes angezeigt:
 
-* Auf der Startseite wird der Name des Benutzers angezeigt, als
-* Ihre Stifte fehlen
+* Auf der Startseite wird der Name des Benutzers angezeigt, unter dem sie angemeldet waren
+* Ihre Pins fehlen
 
-Diese Benutzer wirken sich nur auf die Anzeige aus. Der Benutzer hat sich tatsächlich als der andere Benutzer abgemeldet.
+Diese Benutzenden wirken sich nur auf die Anzeige aus. Der Benutzer hat sich tatsächlich als der andere Benutzer angemeldet.
 
 **Problemumgehung**
 

@@ -1,5 +1,5 @@
 ---
-title: 'Benutzer: Die Zugriffsebene des Benutzers kann nicht geändert werden'
+title: 'Benutzende: Die Zugriffsebene der Benutzenden kann nicht geändert werden'
 description: Wenn Gruppenadmins versuchen, die Zugriffsebene eines Mitglieds der Gruppe zu ändern, ist das Feld für die Zugriffsebene deaktiviert und Gruppenadmins können die Zugriffsebene der Person nicht ändern.
 hidefromtoc: true
 feature: People Teams and Groups

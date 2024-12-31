@@ -1,6 +1,6 @@
 ---
-title: 'Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden'
-description: Wenn ein Administrator dem Abschnitt "Aufgabenzusammenfassung"über eine Layoutvorlage ein benutzerdefiniertes Datenfeld hinzufügt, wird das Feld für Benutzer, die sich den Abschnitt "Aufgabenzusammenfassung"ansehen, als leer angezeigt.
+title: 'Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenzusammenfassung hinzugefügt werden'
+description: Wenn ein(e) Administrator(in) ein benutzerdefiniertes Datenfeld über eine Layout-Vorlage zum Zusammenfassungsabschnitt einer Aufgabe hinzufügt, wird das Feld für Benutzende, die den Zusammenfassungsabschnitt einer Aufgabe betrachten, als leer angezeigt.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
@@ -11,16 +11,16 @@ ht-degree: 11%
 
 ---
 
-# Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie der Aufgabenzusammenfassung über die Layoutvorlage hinzugefügt werden
+# Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenzusammenfassung hinzugefügt werden
 
 >[!NOTE]
 >
->Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert. Siehe Problemumgehung unten.
+>Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert. Siehe die Problemumgehung unten.
 
-Wenn ein Administrator dem Abschnitt &quot;Aufgabenzusammenfassung&quot;über eine Layoutvorlage ein benutzerdefiniertes Datenfeld hinzufügt, wird das Feld für Benutzer, die sich den Abschnitt &quot;Aufgabenzusammenfassung&quot;ansehen, als leer angezeigt.
+Wenn ein(e) Administrator(in) ein benutzerdefiniertes Datenfeld über eine Layout-Vorlage zum Zusammenfassungsabschnitt einer Aufgabe hinzufügt, wird das Feld für Benutzende, die den Zusammenfassungsabschnitt einer Aufgabe betrachten, als leer angezeigt.
 
 **Problemumgehung**
 
-Verwenden Sie keine Punkte &quot;.&quot; in benutzerdefinierten Feldnamen, um dieses Problem zu vermeiden. Sie können das benutzerdefinierte Feld im Abschnitt Zusammenfassung verknüpfen und bei Bedarf einen Punkt einschließen.
+Verwenden Sie keine Punkte. in benutzerdefinierten Feldnamen, um dieses Problem zu vermeiden. Sie können das benutzerdefinierte Feld im Zusammenfassungsabschnitt neu beschriften und bei Bedarf einen Punkt einfügen.
 
 _Erste Meldung am Donnerstag, 2. Oktober 2024._

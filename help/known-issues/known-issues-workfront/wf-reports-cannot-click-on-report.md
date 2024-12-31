@@ -1,6 +1,6 @@
 ---
-title: 'Berichte: Ein Bericht kann nicht aus dem Bereich Benutzerdefinierte Felder der Einrichtung angeklickt werden'
-description: Wenn ein Benutzer den Bereich Benutzerdefinierte Forms &gt; Felder des Setups anzeigt und die Ansicht das Feld für native Berichte enthält, funktionieren die Links zu den Berichten nicht. Der Benutzer sollte auf den Namen eines Berichts klicken und zum Bericht weitergeleitet werden können, aber das Klicken auf den Namen des Berichts ist nicht effektiv.
+title: 'Berichte: Klicken auf einen Bericht im Bereich „Benutzerdefinierte Felder“ von „Setup“ nicht möglich'
+description: Wenn ein(e) Benutzende(r) den Bereich Benutzerdefinierte Forms &gt;-Felder aufruft und die Ansicht das native Berichtsfeld enthält, funktionieren die Links zu den Berichten nicht. Der/die Benutzende sollte auf den Namen eines Berichts klicken können und zum Bericht weitergeleitet werden, doch das Klicken auf den Namen des Berichts ist nicht effektiv.
 hidefromtoc: true
 feature: Reports and Dashboards, Custom Forms
 exl-id: 11b37876-d62f-4f24-bd54-63f2a621698e
@@ -11,12 +11,12 @@ ht-degree: 6%
 
 ---
 
-# Berichte: Ein Bericht kann nicht aus dem Bereich Benutzerdefinierte Felder der Einrichtung angeklickt werden
+# Berichte: Klicken auf einen Bericht im Bereich „Benutzerdefinierte Felder“ von „Setup“ nicht möglich
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 22. August 2024 behoben.
 
-Wenn ein Benutzer den Bereich Benutzerdefinierte Forms > Felder des Setups anzeigt und die Ansicht das Feld für native Berichte enthält, funktionieren die Links zu den Berichten nicht. Der Benutzer sollte auf den Namen eines Berichts klicken und zum Bericht weitergeleitet werden können, aber das Klicken auf den Namen des Berichts ist nicht effektiv.
+Wenn ein(e) Benutzende(r) den Bereich Benutzerdefinierte Forms > Felder von Setup aufruft und die Ansicht das native Feld Berichte enthält, funktionieren die Links zu den Berichten nicht. Der/die Benutzende sollte auf den Namen eines Berichts klicken können und zum Bericht weitergeleitet werden, doch das Klicken auf den Namen des Berichts ist nicht effektiv.
 
 _Erste Meldung am Mittwoch, 30. Juli 2024._

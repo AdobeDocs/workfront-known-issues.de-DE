@@ -1,6 +1,6 @@
 ---
-title: 'Pinnwände: Connected card is in falsche column'
-description: Es wurden Probleme bezüglich der verbundenen Karten in der falschen Spalte gemeldet.
+title: 'Pinnwände: Verbundene Karte ist in der falschen Spalte'
+description: Es wurden Probleme mit verbundenen Karten in der falschen Spalte gemeldet.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# Pinnwände: Connected card is in falsche column
+# Pinnwände: Verbundene Karte ist in der falschen Spalte
 
 <!--
 
@@ -21,9 +21,9 @@ ht-degree: 5%
 
 -->
 
-Die folgenden Probleme wurden bezüglich der verbundenen Karten in der falschen Spalte gemeldet:
+Die folgenden Probleme wurden mit verbundenen Karten in der falschen Spalte gemeldet:
 
-* Eine Karte, die basierend auf dem Status des zugehörigen Arbeitselements in einer Spalte enthalten sein sollte, wird in der falschen Spalte angezeigt.
-* Wenn ein Benutzer eine verbundene Karte verschiebt, kann die Karte an den vorherigen Speicherort zurückgesetzt werden.
+* Eine Karte, die sich basierend auf dem Status ihres verbundenen Arbeitselements in einer Spalte befinden sollte, wird in der falschen Spalte angezeigt.
+* Wenn ein(e) Benutzende(r) eine verbundene Karte verschiebt, kann die Karte an ihre vorherige Position zurückkehren,
 
 _Erste Meldung am Dienstag, 29. Juli 2024._

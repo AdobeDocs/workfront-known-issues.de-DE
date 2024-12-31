@@ -1,6 +1,6 @@
 ---
 title: 'Zeit: Der Stundentyp „Gefiltert“ ist bei der Protokollierung nicht der Standardtyp'
-description: Wenn ein Benutzer die Zeit protokolliert, ist der vorab gewählte Stundentyp "Task Time"(Aufgabenzeit) anstelle des gefilterten Stundentyps für dieses Projekt.
+description: Wenn ein(e) Benutzende(r) die Zeit protokolliert, ist der vorausgewählte Stundentyp Aufgabenzeit anstelle des gefilterten Stundentyps für dieses Projekt.
 hidefromtoc: true
 feature: Timesheets, Work Management
 exl-id: 35ce305b-994f-42ee-a911-14f922ad9c39

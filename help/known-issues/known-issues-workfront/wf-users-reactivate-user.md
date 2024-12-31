@@ -1,6 +1,6 @@
 ---
 title: 'Benutzer: Benutzer kann nicht reaktiviert werden'
-description: Wenn ein Benutzer versucht, einen Benutzer mithilfe der Option Benutzer reaktivieren im Menü Mehr zu reaktivieren, kann er eine Zugriffsebene für den Benutzer auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird dem Benutzer ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.
+description: Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) über die Option Benutzer erneut aktivieren im Menü Mehr erneut zu aktivieren, kann er/sie eine Zugriffsebene für den/die Benutzende(n) auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird ein Fehler angezeigt. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
@@ -15,18 +15,18 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 5. September 2024 behoben.
+>Dieses Problem wurde am 5. September 2024 behoben.
 
-Wenn ein Benutzer versucht, einen Benutzer mithilfe der Option &quot;Benutzer reaktivieren&quot;im Menü &quot;Mehr&quot;zu reaktivieren, kann er eine Zugriffsebene für den Benutzer auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird die folgende Fehlermeldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) über die Option „Benutzer erneut aktivieren“ im Menü Mehr erneut zu aktivieren, kann er/sie eine Zugriffsebene für den/die Benutzende(n) auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird die folgende Fehlermeldung angezeigt:
 
-&quot;homeGroupID darf nicht null sein&quot;
+„homeGroupID darf nicht null sein“
 
 **Problemumgehung**
 
 Führen Sie die folgenden Schritte aus:
 
 1. Bearbeiten Sie den Benutzer.
-1. Aktivieren Sie das Kontrollkästchen &quot;Ist aktiv&quot;.
+1. Aktivieren Sie das Kontrollkästchen „Ist aktiv“.
 1. Legen Sie eine Zugriffsebene für den Benutzer fest.
 1. Speichern Sie die Änderungen.
 

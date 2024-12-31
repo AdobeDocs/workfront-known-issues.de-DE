@@ -1,5 +1,5 @@
 ---
-title: 'Workfront Proof: Registerkarte "Berichte"wird nicht mehr unterstützt'
+title: 'Workfront Proof: Registerkarte „Berichte“ wird nicht mehr unterstützt'
 description: 'Workfront-Korrekturabzug: Registerkarte „Berichte“ wird nicht mehr unterstützt. Daher werden für Benutzende, die die Registerkarte ‚Berichte‘ im Workfront-Korrekturabzug ansehen, ungenaue oder gar keine Daten angezeigt. Dies ist das zu erwartende Verhalten. Die Registerkarte „Berichte“ wird demnächst entfernt.'
 hidefromtoc: true
 exl-id: e1daf1df-b07b-4869-a57b-f9ce6d4ecaed

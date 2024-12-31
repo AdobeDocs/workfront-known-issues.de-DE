@@ -1,5 +1,5 @@
 ---
-title: 'Testversand: Benutzer kann nicht zum Testversand hinzugefügt werden, indem der Benutzer in einem Kommentar mit Tags versehen wird'
+title: 'Korrekturabzug: Benutzende Person kann nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt wird'
 description: Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) taggt, der sich derzeit nicht einem Korrekturabzug und einem Kommentar zugewiesen ist, ist es nicht möglich, ein Aufgabengebiet oder E-Mail für diese(n) Benutzende(n) auszuwählen und kann daher den/die Benutzende(n) nicht zum Korrekturabzug hinzufügen.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true

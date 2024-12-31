@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Das Dokumentbild kann nicht in der Arbeitsliste angezeigt werden'
+title: 'Startseite: Das Dokumentbild wird nicht in der Arbeitsliste angezeigt'
 description: Wenn ein(e) Benutzende(r) auf eine DOCX-Miniaturansicht klickt, um eine Vorschau eines Dokuments anzuzeigen, wird ein Videoplayer geöffnet, und das Dokument wird nicht angezeigt.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true

@@ -1,5 +1,5 @@
 ---
-title: 'Einrichtung: Probleme beim Abmelden als ein anderer Benutzer'
+title: 'Setup: Probleme beim Abmelden als anderer Benutzer'
 description: Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können Probleme auftreten.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -11,15 +11,15 @@ ht-degree: 4%
 
 ---
 
-# Einrichtung: Probleme beim Abmelden als ein anderer Benutzer
+# Setup: Probleme beim Abmelden als anderer Benutzer
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 20. September 2024 behoben.
+>Dieses Problem wurde am 20. September 2024 behoben.
 
 Wenn ein Administrator als ein anderer Benutzer angemeldet ist und versucht, sich abzumelden, können die folgenden Probleme auftreten:
 
-* Der Benutzer wird zur Anmeldeseite umgeleitet, anstatt zu seinem eigenen Konto.
-* Der Benutzer sieht den Fehler: &quot;[!UICONTROL Sie haben keinen Zugriff auf Workfront.]&quot;
+* Der Benutzer wird zur Anmeldeseite anstelle zu seinem eigenen Konto weitergeleitet
+* Der/die Benutzende sieht die Fehlermeldung: [!UICONTROL Sie haben keinen Zugriff auf Workfront.]&quot;
 
 _Erste Meldung am Mittwoch, 30. Juli 2024._

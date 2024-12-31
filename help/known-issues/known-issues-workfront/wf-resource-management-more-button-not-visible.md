@@ -1,5 +1,5 @@
 ---
-title: 'Ressourcenplanung: Schaltfläche "Mehr"ist nicht sichtbar'
+title: 'Ressourcenplanung: Schaltfläche „Mehr“ ist nicht sichtbar'
 description: Wenn Benutzende den Ressourcenplaner anzeigen und versuchen, auf die Schaltfläche [!UICONTROL Mehr] zu klicken, ist die Schaltfläche nicht sichtbar. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Resource Management

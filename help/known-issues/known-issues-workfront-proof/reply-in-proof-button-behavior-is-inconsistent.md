@@ -1,5 +1,5 @@
 ---
-title: 'Startseite: Das Verhalten der Schaltfläche "Testversand"ist inkonsistent.'
+title: 'Startseite: Die Schaltfläche Im Korrekturabzug antworten funktioniert nicht ordnungsgemäß'
 description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Version im Bereich [!UICONTROL Startseite] im rechten Bedienfeld einen Korrekturabzug öffnet und bei einem Kommentar auf [!UICONTROL Im Korrekturabzug antworten] klickt, wird ein Textfeld angezeigt, in dem er/sie im Bereich [!UICONTROL Dokumentaktualisierungen] eine Aktualisierung hinterlassen kann, anstatt wie vorgesehen zur Korrekturabzugsanzeige weitergeleitet zu werden.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true

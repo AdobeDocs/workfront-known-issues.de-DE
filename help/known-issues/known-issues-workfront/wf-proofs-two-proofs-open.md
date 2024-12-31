@@ -1,6 +1,6 @@
 ---
-title: 'Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet'
-description: 'Wenn ein Benutzer einen Testversand öffnet, werden zwei Browser-Registerkarten mit demselben Testversand geöffnet. '
+title: 'Korrekturabzüge: Beim Öffnen eines Korrekturabzugs werden mehrere Kopien geöffnet'
+description: 'Wenn ein(e) Benutzende(r) einen Korrekturabzug öffnet, werden zwei Browser-Registerkarten mit demselben Korrekturabzug geöffnet. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
@@ -11,15 +11,15 @@ ht-degree: 16%
 
 ---
 
-# Testsendungen: Beim Öffnen eines Testversands werden mehrere Kopien geöffnet
+# Korrekturabzüge: Beim Öffnen eines Korrekturabzugs werden mehrere Kopien geöffnet
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Mittwoch, 10. September 2024 behoben.
 
-Wenn ein Benutzer einen Testversand öffnet, werden zwei Browser-Registerkarten mit demselben Testversand geöffnet.
+Wenn ein(e) Benutzende(r) einen Korrekturabzug öffnet, werden zwei Browser-Registerkarten mit demselben Korrekturabzug geöffnet.
 
-Dies wurde bei Verwendung von Unified Shell berichtet.
+Dies wurde bei der Verwendung von Unified Shell gemeldet.
 
 **Problemumgehung**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen'
-description: Benutzer, für die E-Mail-Benachrichtigungen für Objektaktualisierungen aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
+description: Benutzende, für die E-Mail-Benachrichtigungen für Objekt-Updates aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: d320a7cd-a732-49a7-a4f3-045b85b7fb2b
@@ -17,6 +17,6 @@ ht-degree: 23%
 >
 >Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
-Benutzer, für die E-Mail-Benachrichtigungen für Objektaktualisierungen aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
+Benutzende, für die E-Mail-Benachrichtigungen für Objekt-Updates aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
 
 _Erste Meldung am Mittwoch, 1. Oktober 2024._

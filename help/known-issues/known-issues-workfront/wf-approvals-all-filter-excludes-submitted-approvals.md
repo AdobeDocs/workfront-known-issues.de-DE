@@ -1,6 +1,6 @@
 ---
-title: 'Genehmigungen: Der Filter "Alle"schließt persönlich eingereichte Genehmigungen aus'
-description: Bei der Anzeige von Genehmigungen im Widget Meine Genehmigungen auf der Startseite oder auf der Seite Meine Aktualisierungen enthält die Liste keine vom Benutzer gesendeten Genehmigungen, selbst wenn der Filter auf "Alle"gesetzt ist.
+title: 'Genehmigungen: Filter „Alle“ schließt persönlich gesendete Genehmigungen aus'
+description: Wenn Sie Genehmigungen im Widget Meine Genehmigungen auf der Startseite oder auf der Seite Meine Aktualisierungen anzeigen, enthält die Liste keine vom Benutzer gesendeten Genehmigungen, selbst wenn der Filter auf „Alle“ gesetzt ist.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
@@ -11,12 +11,12 @@ ht-degree: 15%
 
 ---
 
-# Genehmigungen: Der Filter &quot;Alle&quot;schließt persönlich eingereichte Genehmigungen aus
+# Genehmigungen: Filter „Alle“ schließt persönlich gesendete Genehmigungen aus
 
 >[!NOTE]
 >
 >Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
-Bei der Anzeige von Genehmigungen im Widget Meine Genehmigungen auf der Startseite oder auf der Seite Meine Aktualisierungen enthält die Liste keine vom Benutzer gesendeten Genehmigungen, selbst wenn der Filter auf &quot;Alle&quot;gesetzt ist.
+Wenn Sie Genehmigungen im Widget Meine Genehmigungen auf der Startseite oder auf der Seite Meine Aktualisierungen anzeigen, enthält die Liste keine vom Benutzer gesendeten Genehmigungen, selbst wenn der Filter auf „Alle“ gesetzt ist.
 
 _Erste Meldung am Donnerstag, 16. Oktober 2024._

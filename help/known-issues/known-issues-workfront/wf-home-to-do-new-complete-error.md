@@ -1,6 +1,6 @@
 ---
-title: 'Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben'
-description: Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im "Aufgaben"-Widget "Aufgaben"abzuschließen, treten Benutzer auf einen Fehler und können die Aufgaben nicht erstellen oder abschließen.
+title: 'Startseite: Fehler im Aufgaben-Widget bei neuen und abgeschlossenen Aufgaben'
+description: Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im Aufgaben-Widget der Startseite abzuschließen, tritt ein Fehler auf, und die Benutzenden können die Aufgabe nicht erstellen oder abschließen.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ec2f77f8-ca29-4516-b5c0-6b084ceefab7
@@ -11,12 +11,12 @@ ht-degree: 11%
 
 ---
 
-# Startseite: Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben
+# Startseite: Fehler im Aufgaben-Widget bei neuen und abgeschlossenen Aufgaben
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 14. November 2024 behoben.
 
-Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im &quot;Aufgaben&quot;-Widget &quot;Aufgaben&quot;abzuschließen, treten Benutzer auf einen Fehler und können die Aufgaben nicht erstellen oder abschließen.
+Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im Aufgaben-Widget der Startseite abzuschließen, tritt ein Fehler auf, und die Benutzenden können die Aufgabe nicht erstellen oder abschließen.
 
 _Erste Meldung am Freitag, 24. Oktober 2024._

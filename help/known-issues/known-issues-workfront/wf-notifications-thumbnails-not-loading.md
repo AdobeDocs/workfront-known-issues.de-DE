@@ -22,9 +22,9 @@ ht-degree: 56%
 
 >[!IMPORTANT]
 >
->Miniaturansichten werden in Gmail nicht unterstützt.
+>Miniaturen werden in Gmail nicht unterstützt.
 
-Wenn ein Benutzer eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigt, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt. Stattdessen wird dem Benutzer ein fehlerhaftes Bildsymbol angezeigt.
+Wenn ein(e) Benutzende(r) eine E-Mail-Benachrichtigung bezüglich einer Dokumentgenehmigung aufruft, ist die Miniaturansicht des Dokuments in der E-Mail nicht sichtbar. Stattdessen wird ein beschädigtes Bildsymbol angezeigt.
 
 Dies wurde in Gmail gemeldet.
 

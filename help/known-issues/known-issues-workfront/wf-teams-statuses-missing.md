@@ -1,6 +1,6 @@
 ---
-title: 'Teams: Probleme beim Festlegen des Teamstatus für die Schaltfläche "Fertig" '
-description: Es wurden Probleme bezüglich des Status der Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet. Eine Problemumgehung ist verfügbar.
+title: 'Teams: Probleme beim Festlegen des Team-Status für die Schaltfläche Fertig '
+description: Es wurden Probleme mit dem Status der Schaltfläche [!UICONTROL Fertig] beim Bearbeiten oder Erstellen eines Teams gemeldet. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa

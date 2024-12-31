@@ -1,6 +1,6 @@
 ---
 title: 'Benutzerdefinierte Formulare: Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden'
-description: ''
+description: null
 hidefromtoc: true
 feature: Custom Forms
 exl-id: b5283181-16fc-4111-bf8f-d6b914297f61
@@ -17,8 +17,8 @@ ht-degree: 15%
 >
 >Dieses Problem wurde am Freitag, 24. Oktober 2024 behoben.
 
-Wenn ein Benutzer versucht, benutzerdefinierte Daten in einem Projekt zu aktualisieren, das abgeschlossen ist, kann er die Daten nicht aktualisieren, und ihm wird die folgende Meldung angezeigt:
+Wenn ein(e) Benutzende(r) versucht, benutzerdefinierte Daten in einem Projekt zu aktualisieren, das abgeschlossen ist, können die Daten nicht aktualisiert werden und die folgende Meldung wird angezeigt:
 
-&quot;Vorgang für ein Projekt mit Status Complete kann nicht abgeschlossen werden.&quot;
+„Der Vorgang für ein Projekt mit dem Status „Abgeschlossen“ kann nicht abgeschlossen werden.“
 
 _Erste Meldung am 1. Juni 2023._

@@ -1,6 +1,6 @@
 ---
-title: 'Benutzer: Das Tag "Nicht registriert" bleibt nach der Anmeldung bestehen'
-description: Trotz der erfolgreichen Anmeldung mindestens einmal verschwindet das "abgemeldete"Tag nicht wie für neue Benutzer erwartet.
+title: 'Benutzende: Tag „Unregistered“ bleibt nach der Anmeldung bestehen'
+description: Trotz mindestens einmaliger erfolgreicher Anmeldung verliert das Tag „unregistered“ nicht wie für neue Benutzer erwartet.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
@@ -11,8 +11,8 @@ ht-degree: 7%
 
 ---
 
-# Benutzer: Das Tag &quot;Nicht registriert&quot; bleibt nach der Anmeldung bestehen
+# Benutzende: Tag „Unregistered“ bleibt nach der Anmeldung bestehen
 
-Trotz der erfolgreichen Anmeldung mindestens einmal verschwindet das &quot;abgemeldete&quot;Tag nicht wie für neue Benutzer erwartet.
+Trotz mindestens einmaliger erfolgreicher Anmeldung verliert das Tag „unregistered“ nicht wie für neue Benutzer erwartet.
 
 _Erste Meldung am Dienstag, 14. Oktober 2024._

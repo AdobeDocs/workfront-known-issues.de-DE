@@ -1,6 +1,6 @@
 ---
-title: 'Benutzer: Die Spracheinstellung E-Mail für Benutzer wird nicht gespeichert'
-description: Wenn ein Administrator versucht, die Einstellung für das E-Mail-Gebietsschema eines Benutzers zu ändern, wird wieder Englisch angezeigt.
+title: 'Benutzer: E-Mail-Gebietsschema-Einstellung für Benutzer wird nicht gespeichert'
+description: Wenn ein Administrator versucht, die E-Mail-Gebietsschema-Einstellung für einen Benutzer zu ändern, wird das Englisch wiederhergestellt.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: ba4d8a79-cead-43f6-8452-51df7ede78e7
@@ -11,12 +11,12 @@ ht-degree: 16%
 
 ---
 
-# Benutzer: Die Spracheinstellung E-Mail für Benutzer wird nicht gespeichert
+# Benutzer: E-Mail-Gebietsschema-Einstellung für Benutzer wird nicht gespeichert
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 29. August 2024 behoben.
 
-Wenn ein Administrator versucht, die Einstellung für das E-Mail-Gebietsschema eines Benutzers zu ändern, wird wieder Englisch angezeigt.
+Wenn ein Administrator versucht, die E-Mail-Gebietsschema-Einstellung für einen Benutzer zu ändern, wird das Englisch wiederhergestellt.
 
 _Erste Meldung am Freitag, 4. Juli 2024._

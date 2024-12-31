@@ -1,6 +1,6 @@
 ---
-title: 'Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung'
-description: Wenn auf die Prioritätenliste Gruppierungen angewendet werden, kann sie nicht sortiert werden und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste.
+title: 'Prioritäten: Gruppierungen verhindern Sortierung und Inline-Bearbeitung'
+description: Wenn auf die Prioritätenarbeitsliste Gruppierungen angewendet wurden, kann sie nicht sortiert werden, und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9b36df42-30ea-47d2-b791-114d59429480
@@ -11,12 +11,12 @@ ht-degree: 20%
 
 ---
 
-# Prioritäten: Gruppierungen verhindern die Sortierung und Inline-Bearbeitung
+# Prioritäten: Gruppierungen verhindern Sortierung und Inline-Bearbeitung
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungsupdates kommuniziert.
+>Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Wenn auf die Prioritätenliste Gruppierungen angewendet werden, kann sie nicht sortiert werden und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste.
+Wenn auf die Prioritätenarbeitsliste Gruppierungen angewendet wurden, kann sie nicht sortiert werden, und die Inline-Bearbeitung funktioniert nicht für Felder in der Arbeitsliste.
 
 _Erste Meldung am Freitag, 3. Oktober 2024._

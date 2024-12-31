@@ -1,6 +1,6 @@
 ---
-title: 'Startseite: Elemente können nicht über den Startkalender oder die Arbeitsliste geöffnet werden'
-description: Wenn ein Benutzer versucht, ein Arbeitselement zu öffnen oder einen Testversand über seinen Home Calendar oder seine Home Work List durchzuführen, wird das Element nicht geöffnet.
+title: 'Startseite: Elemente aus dem Startseiten-Kalender oder der Arbeitsliste können nicht geöffnet werden'
+description: Wenn ein(e) Benutzende(r) versucht, ein Arbeitselement oder einen Korrekturabzug über den Startseiten-Kalender oder die Startseiten-Arbeitsliste zu öffnen, wird das Element nicht geöffnet.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cc1508de-8177-4118-8c61-df216dd52bc6

@@ -1,6 +1,6 @@
 ---
-title: 'Benutzerdefinierte Formulare: Felder auf der Felderlistenseite können nicht bearbeitet werden'
-description: Wenn ein Benutzer versucht, ein großes Feld auf der Feldlistenseite zu bearbeiten, stürzt die Seite mit einem Fehler ab. Eine Problemumgehung ist verfügbar.
+title: 'Benutzerdefinierte Formulare: Felder auf der Feldlistenseite können nicht bearbeitet werden'
+description: Wenn ein(e) Benutzende(r) versucht, ein großes Feld auf der Seite Feldliste zu bearbeiten, stürzt die Seite mit einem Fehler ab. Eine Problemumgehung ist verfügbar.
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 40c19c34-c8bb-4fa2-b7c3-ef617361c7be
@@ -11,23 +11,23 @@ ht-degree: 17%
 
 ---
 
-# Benutzerdefinierte Formulare: Felder auf der Felderlistenseite können nicht bearbeitet werden
+# Benutzerdefinierte Formulare: Felder auf der Feldlistenseite können nicht bearbeitet werden
 
 >[!NOTE]
 >
 >Dieses Problem wurde am Freitag, 22. August 2024 behoben.
 
-Wenn ein Benutzer versucht, ein großes Feld auf der Feldlistenseite zu bearbeiten, stürzt die Seite mit dem folgenden Fehler ab:
+Wenn ein(e) Benutzende(r) versucht, ein großes Feld auf der Seite Feldliste zu bearbeiten, stürzt die Seite mit dem folgenden Fehler ab:
 
-&quot;[!UICONTROL Aw Snap, etwas ist beim Anzeigen dieser Seite schief gelaufen. Fehler-Code 5]&quot;
+&quot;[!UICONTROL Aww Snap, bei der Anzeige dieser Seite ist etwas schiefgelaufen. Fehlercode 5]&quot;
 
-Dies wurde bei Chromium-basierten Browsern gemeldet.
+Dies wurde bei Chromium-basierten Browsern gemeldet
 
 **Problemumgehung**
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
 * Bearbeiten Sie das Feld direkt im Formular
-* Verwenden Sie einen anderen Browser, z. B. Firefox oder Safari
+* Verwenden eines anderen Browsers, z. B. Firefox oder Safari
 
 _Erste Meldung am 1. Juni 2023._

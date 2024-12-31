@@ -1,6 +1,6 @@
 ---
 title: 'Pinnwände: Fehler beim Laden einer Pinnwand'
-description: Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen, und der Benutzer wird über eine Fehlermeldung informiert.
+description: Wenn ein(e) Benutzende(r) versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
@@ -15,12 +15,12 @@ ht-degree: 24%
 
 >[!NOTE]
 >
->Dieser Artikel wurde am 10. Oktober 2024 behoben.
+>Dieses Problem wurde am 10. Oktober 2024 behoben.
 
-Wenn ein Benutzer versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und der Benutzer sieht die folgende Meldung:
+Wenn ein(e) Benutzende(r) versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und die folgende Meldung wird angezeigt:
 
 &quot;[!UICONTROL Fehler beim Laden der Pinnwand]&quot;
 
-&quot;[!UICONTROL Beim Laden dieser Pinnwand ist etwas schiefgelaufen. Aktualisieren Sie die Seite und versuchen Sie es erneut, oder wenden Sie sich unter Angabe der Fehler-ID an den Support, wenn das Problem weiterhin besteht.]“
+&quot;[!UICONTROL Beim Laden dieser Pinnwand ist ein Fehler aufgetreten. Aktualisieren Sie die Seite und versuchen Sie es erneut, oder wenden Sie sich unter Angabe der Fehler-ID an den Support, wenn das Problem weiterhin besteht.]“
 
 _Erste Meldung am Freitag, 27. Juni 2024._

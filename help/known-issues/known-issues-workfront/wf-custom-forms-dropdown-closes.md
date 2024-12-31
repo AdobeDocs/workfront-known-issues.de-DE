@@ -1,6 +1,6 @@
 ---
 title: ' Benutzerdefinierte Formulare: Dropdown-Liste wird geschlossen, wenn mehrere Werte ausgewählt werden'
-description: 'Wenn ein Benutzer versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird die Dropdown-Liste geschlossen, nachdem der erste Wert ausgewählt wurde. '
+description: 'Wenn ein(e) Benutzende(r) versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird das Dropdown-Menü geschlossen, nachdem der erste Wert ausgewählt wurde. '
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9
@@ -17,8 +17,8 @@ ht-degree: 11%
 >
 >Dieses Problem wurde am Freitag, 25. Juli 2024 behoben.
 
-Wenn ein Benutzer versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird die Dropdown-Liste geschlossen, nachdem der erste Wert ausgewählt wurde.
+Wenn ein(e) Benutzende(r) versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird das Dropdown-Menü geschlossen, nachdem der erste Wert ausgewählt wurde.
 
-Dies tritt auf, wenn das Feld mit der Anzeigenlogik im benutzerdefinierten Formular verknüpft ist.
+Dies tritt auf, wenn das Feld mit der Anzeigelogik im benutzerdefinierten Formular verknüpft ist.
 
 _Erste Meldung am Mittwoch, 9. Juli 2024._

@@ -1,6 +1,6 @@
 ---
-title: 'Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden'
-description: Benutzer mit Beitragszugriff und ohne Berechtigungen zum Ändern des Problemstatus können den Status ändern.
+title: 'Anfragen: Benutzende können den Status trotz fehlender Berechtigungen ändern'
+description: Benutzende mit der Zugriffsberechtigung Beitragen und ohne Berechtigungen zum Ändern des Problemstatus können den Status ändern.
 hidefromtoc: true
 feature: Requests
 exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
@@ -11,12 +11,12 @@ ht-degree: 21%
 
 ---
 
-# Anforderungen: Der Benutzer kann den Status ändern, auch wenn keine Berechtigungen erteilt wurden
+# Anfragen: Benutzende können den Status trotz fehlender Berechtigungen ändern
 
 >[!NOTE]
 >
 >Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert.
 
-Benutzer mit Beitragszugriff und ohne Berechtigungen zum Ändern des Problemstatus können den Status ändern.
+Benutzende mit der Zugriffsberechtigung Beitragen und ohne Berechtigungen zum Ändern des Problemstatus können den Status ändern.
 
 _Erste Meldung am Dienstag, 29. Juli 2024._

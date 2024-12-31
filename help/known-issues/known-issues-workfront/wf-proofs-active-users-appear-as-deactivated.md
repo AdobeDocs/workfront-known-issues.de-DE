@@ -1,6 +1,6 @@
 ---
-title: 'Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt'
-description: Obwohl Benutzer aktiv sind, erscheinen sie in einigen Testsendungen als deaktiviert und können nicht darauf zugreifen.
+title: 'Korrekturabzüge: Aktive Benutzer werden als deaktiviert angezeigt'
+description: Obwohl Benutzende aktiv sind, werden sie in einigen Korrekturabzügen als deaktiviert angezeigt und können nicht darauf zugreifen.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9afff8c1-bdb0-44b9-ab1a-b59b89600cae
@@ -11,12 +11,12 @@ ht-degree: 8%
 
 ---
 
-# Testsendungen: Aktive Benutzer werden als deaktiviert angezeigt
+# Korrekturabzüge: Aktive Benutzer werden als deaktiviert angezeigt
 
 >[!NOTE]
 >
->Dieser Artikel wurde behoben.
+>Dieser Artikel wurde aufgelöst.
 
-Obwohl Benutzer aktiv sind, erscheinen sie in einigen Testsendungen als deaktiviert und können nicht darauf zugreifen.
+Obwohl Benutzende aktiv sind, werden sie in einigen Korrekturabzügen als deaktiviert angezeigt und können nicht darauf zugreifen.
 
 _Erste Meldung am Samstag, 6. September 2024._

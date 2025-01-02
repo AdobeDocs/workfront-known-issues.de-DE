@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '2214'
-ht-degree: 59%
+source-wordcount: '2268'
+ht-degree: 57%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 59%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollzeitbeschriftung im Bereich Aktualisierungen angezeigt](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Berichte: Bericht-Eingabeaufforderungen werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Benachrichtigungen: Push-Benachrichtigungen an die Workfront Mobile App funktionieren nicht](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Dokumente: Im Bereich Dokumente werden nicht alle Dokumente angezeigt](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten eines benutzerdefinierten Formulars durch eine Spalte](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Anfragen und Probleme: Fehler mit erweiterten Benutzerzuweisungen](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: Storys in einer Iteration können nicht stapelweise bearbeitet werden](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Korrekturabzüge: Empfänger können nicht zum Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

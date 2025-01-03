@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 65%
+source-wordcount: '1246'
+ht-degree: 64%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird im alten Format angezeigt](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | Donnerstag, 3. Januar 2024 |
+| [Rechnungsnachweis: Stunden werden nicht gespeichert](known-issues-workfront/wf-billing-record-hours-not-saved.md) | Donnerstag, 3. Januar 2024 |
 | [Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollzeitbeschriftung im Bereich „Aktualisierungen“ angezeigt](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | Mittwoch, 2. Januar 2024 |
 | [Berichte: Berichtaufforderungen werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md) | Mittwoch, 2. Januar 2024 |
 | [Benachrichtigungen: Push-Benachrichtigungen an die Workfront Mobile App funktionieren nicht](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | Mittwoch, 2. Januar 2024 |

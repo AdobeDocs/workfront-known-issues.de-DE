@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 57%
+source-wordcount: '2313'
+ht-degree: 56%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 57%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird im alten Format angezeigt](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Rechnungsnachweis: Stunden werden nicht gespeichert](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Pinnwände: Karte kann nicht in eine andere Spalte verschoben werden](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [Benutzerdefinierte Formulare: Meldung „Ungültige Felder“ beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)

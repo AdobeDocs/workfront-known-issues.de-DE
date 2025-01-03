@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2299'
 ht-degree: 57%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 57%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Pinnwände: Karte kann nicht in eine andere Spalte verschoben werden](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [Benutzerdefinierte Formulare: Meldung „Ungültige Felder“ beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [Benutzerdefinierte Formulare: Optionsschaltflächen werden horizontal aufgelistet](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollzeitbeschriftung im Bereich Aktualisierungen angezeigt](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Berichte: Bericht-Eingabeaufforderungen werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Benachrichtigungen: Push-Benachrichtigungen an die Workfront Mobile App funktionieren nicht](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 66%
+source-wordcount: '1230'
+ht-degree: 65%
 
 ---
 
@@ -54,6 +54,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
+| [Pinnwände: Karte kann nicht in eine andere Spalte verschoben werden](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | Freitag, 2. Januar 2025 |
+| [Benutzerdefinierte Formulare: Meldung „Ungültige Felder“ beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-blank-required-field.md) | Freitag, 2. Januar 2025 |
+| [Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | Freitag, 2. Januar 2025 |
+| [Benutzerdefinierte Formulare: Optionsschaltflächen werden horizontal aufgelistet](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | Freitag, 2. Januar 2025 |
 | [Anfragen und Probleme: Fehler mit erweiterten Benutzerzuweisungen](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | Freitag, 2. Januar 2025 |
 | [Benutzerdefinierte Formulare: Aufgabenfelder „estimatedByHours“ oder „hoursPerPoint“ können nicht hinzugefügt werden](known-issues-workfront/wf-custom-forms-invalid-fields.md) | Samstag, 20. Dezember 2024 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | Donnerstag, 11. Dezember 2024 |

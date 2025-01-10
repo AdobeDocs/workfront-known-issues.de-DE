@@ -4,14 +4,18 @@ description: Nachdem Sie den Status einer Gruppe gelöscht haben, wird sie schli
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 3%
+source-wordcount: '122'
+ht-degree: 12%
 
 ---
 
 # Gruppen: Probleme beim Löschen des Gruppenstatus
+
+>[!NOTE]
+>
+>Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
 Die folgenden Probleme wurden beim Löschen von Gruppenstatus gemeldet:
 

@@ -3,15 +3,19 @@ title: 'Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollz
 description: Wenn ein(e) Benutzende(r) Stunden im Bereich Aktualisierungen protokolliert, werden diese Stunden auf der Registerkarte Zeit protokollieren angezeigt. Wenn der/die Benutzende die Seite jedoch aktualisiert oder die Seite verlässt und zurückkehrt, werden in dieser Bezeichnung die Stunden nicht angezeigt.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '120'
 ht-degree: 4%
 
 ---
 
-
 # Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollzeitbeschriftung im Bereich Aktualisierungen angezeigt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 9. Januar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) Stunden im Bereich Aktualisierungen protokolliert, werden diese Stunden auf der Registerkarte Zeit protokollieren angezeigt. Wenn der/die Benutzende die Seite jedoch aktualisiert oder die Seite verlässt und zurückkehrt, werden in dieser Bezeichnung die Stunden nicht angezeigt.
 

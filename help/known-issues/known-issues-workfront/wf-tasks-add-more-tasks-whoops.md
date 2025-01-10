@@ -4,14 +4,18 @@ description: Wenn ein(e) Benutzende(r) in der Aufgabenliste für seine/ihre pers
 hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
-source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 22%
+source-wordcount: '126'
+ht-degree: 21%
 
 ---
 
 # Aufgaben: Hoppla-Fehler beim Hinzufügen persönlicher Aufgaben
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 26. Dezember 2024 behoben.
 
 Wenn ein(e) Benutzende(r) in der Aufgabenliste für seine/ihre persönlichen Aufgaben versucht, eine neue Aufgabe zu erstellen, indem er/sie auf die Schaltfläche „Weitere Aufgaben hinzufügen“ klickt, kann er/sie die Aufgabe nicht erstellen und die folgende Meldung wird angezeigt:
 

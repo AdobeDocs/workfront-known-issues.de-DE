@@ -4,7 +4,7 @@ description: Wenn Benutzende einen Bericht anzeigen und auf die Details klicken 
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
@@ -16,6 +16,5 @@ ht-degree: 100%
 Wenn Benutzende einen Bericht anzeigen und auf die Details klicken und der Bericht nach einem benutzerdefinierten Datumsfeld gruppiert ist, werden die Details nicht geladen und die Benutzenden erhalten die folgende Fehlermeldung:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
-
 
 _Erste Meldung am Samstag, 14. Juni 2024._

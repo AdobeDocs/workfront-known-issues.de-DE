@@ -3,15 +3,19 @@ title: 'Anfragen und Probleme: Fehler mit erweiterten Benutzerzuweisungen'
 description: Wenn ein(e) Benutzende(r) versucht, bei einer Anfrage oder einem Problem eine erweiterte Benutzerzuweisung vorzunehmen, wird der/die Benutzende nicht zugewiesen und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 25%
+source-wordcount: '107'
+ht-degree: 29%
 
 ---
 
-
 # Anfragen und Probleme: Fehler mit erweiterten Benutzerzuweisungen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 16. Januar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) versucht, eine erweiterte Benutzerzuweisung für eine Anfrage oder ein Problem vorzunehmen, wird dem/r Benutzenden nicht zugewiesen und die folgende Fehlermeldung wird angezeigt:
 

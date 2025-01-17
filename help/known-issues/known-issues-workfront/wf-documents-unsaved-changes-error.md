@@ -4,20 +4,18 @@ description: Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 18911774-ab76-458a-8c59-87695e151d2c
-source-git-commit: ca910a82d34790a5d5255844486207e81b53ffb2
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '93'
 ht-degree: 5%
 
 ---
 
 # Dokumente: Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>Dieses Problem wurde am 16. Januar 2025 behoben.
 
 Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Nicht gespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit dem Programm verhindert.
 

@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
 workflow-type: tm+mt
-source-wordcount: '2336'
-ht-degree: 56%
+source-wordcount: '2356'
+ht-degree: 55%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 56%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Protokollierte Stunden bleiben beim Verschieben im vorherigen Projekt](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [Berichte: Ihre Berichtsfilter enthalten falsche Datumsangaben](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [Arbeitszeittabellen: Falsche Gesamtstundenzahl](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [Startseite: Schaltflächen „Genehmigung ausstehend“ fehlen im Widget „Genehmigung ausstehend“](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Benutzende: Doppeltes Konto beim Wechsel des Systemadministrators erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projekte: Späte Bedingung wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)

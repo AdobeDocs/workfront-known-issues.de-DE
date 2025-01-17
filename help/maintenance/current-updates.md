@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 71%
+source-wordcount: '281'
+ht-degree: 40%
 
 ---
 
@@ -26,13 +26,37 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Januar 2025
 
-+++**Wartungs-Update am Freitag, 9. Januar 2025**
++++**Wartungs-Update am Freitag, 16. Januar 2025**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### Wartungs-Update am Freitag, 16. Januar 2025
 
-### Wartungs-Update am Freitag, 9. Januar 2025
+#### Dokumente
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+**Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
+
+Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Nicht gespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit dem Programm verhindert.
+
+#### Korrekturabzüge
+
+**Der Name des Korrekturabzugs wird nicht auf der Browser-Registerkarte angezeigt**
+
+Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft, ist der Name des Korrekturabzugs auf der Browser-Registerkarte nicht sichtbar. Stattdessen wird auf der Browser-Registerkarte &quot;Workfront&quot; angezeigt.
+
+#### Anfragen und Probleme
+
+**Fehler bei erweiterten Benutzerzuweisungen**
+
+Wenn ein(e) Benutzende(r) versucht, eine erweiterte Benutzerzuweisung für eine Anfrage oder ein Problem vorzunehmen, wird dem/r Benutzenden nicht zugewiesen und die folgende Fehlermeldung wird angezeigt:
+
+„Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
+
+Das Aktualisieren der Browser-Seite funktioniert nicht.
+
+#### Anforde- rungen
+
+**Anfragen können nicht in Vorschauumgebungen erstellt werden**
+
+Beim Versuch, eine neue Anfrage in einer Sandbox-Vorschau-Umgebung zu erstellen, wird ein Fehler angezeigt, der besagt, dass die Anfrage-Warteschlange nicht mehr verfügbar ist und die Anfrage nicht erstellt werden kann.
 
 +++
 

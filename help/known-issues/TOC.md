@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '2356'
+source-wordcount: '2378'
 ht-degree: 55%
 
 ---
@@ -17,6 +17,9 @@ ht-degree: 55%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Berichte: Benutzerdefinierte Felder mit automatischer Textvervollständigung in der Aufschlüsselung reagieren nicht](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Anmelden als: Die Layoutvorlage Startseite des Administrators wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Benutzer: Fehler bei der Bearbeitung des Kostensatzes](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Aufgaben: Protokollierte Stunden bleiben beim Verschieben im vorherigen Projekt](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Berichte: Ihre Berichtsfilter enthalten falsche Datumsangaben](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Arbeitszeittabellen: Falsche Gesamtstundenzahl](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

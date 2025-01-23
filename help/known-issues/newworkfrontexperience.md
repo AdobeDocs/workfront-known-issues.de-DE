@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1189'
 ht-degree: 67%
 
 ---
@@ -25,6 +25,9 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Berichte: Benutzerdefinierte Felder mit automatischer Textvervollständigung in der Aufschlüsselung reagieren nicht](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | Freitag, 23. Januar 2025 |
+| [Anmelden als: Die Layoutvorlage Startseite des Administrators wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | Freitag, 23. Januar 2025 |
+| [Benutzer: Fehler bei der Bearbeitung des Kostensatzes](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | Freitag, 23. Januar 2025 |
 | [Aufgaben: Protokollierte Stunden verbleiben beim vorherigen Projekt, sobald sie verschoben wurden](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | Freitag, 16. Januar 2025 |
 | [Berichte: Stundenberichte enthalten falsche Datumsangaben](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | Freitag, 16. Januar 2025 |
 | [Arbeitszeittabellen: Falsche Gesamtstundenzahl](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | Freitag, 16. Januar 2025 |
@@ -35,7 +38,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | [Benachrichtigungen: Push-Benachrichtigungen an die Workfront Mobile App funktionieren nicht](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | Mittwoch, 2. Januar 2024 |
 | [Integrationen: Anmeldung bei Workfront for Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Mittwoch, 3. Dezember 2024 |
 | [Aufgaben: Probleme bei der Neuberechnung der Zeitleiste](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Mittwoch, 3. Dezember 2024 |
-| [Benutzer: Tag „Unregistered“ bleibt nach der Anmeldung bestehen](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | Donnerstag, 13. November 2024 |
 | [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |
 | [Workfront Mobile: Korrekturabzugs-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [API: API-Aufruf schlägt aufgrund eines SQL-Fehlers fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
@@ -57,7 +59,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
 | [Pinnwände: Karte kann nicht in eine andere Spalte verschoben werden](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | Freitag, 2. Januar 2025 |
-| [Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | Freitag, 2. Januar 2025 |
 | [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | Donnerstag, 11. Dezember 2024 |
 | [Berichte: Die Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | Mittwoch, 3. Dezember 2024 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 21. November 2024 |

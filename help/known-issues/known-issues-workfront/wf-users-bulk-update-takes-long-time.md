@@ -3,19 +3,19 @@ title: 'Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam'
 description: Wenn ein(e) Benutzende(r) versucht, Benutzende stapelweise zu bearbeiten, dauert das Öffnen des Bearbeitungsfensters sehr lange. Dies gilt auch für zwei Benutzer, aber mehr Benutzer benötigen noch mehr Zeit.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 4%
 
 ---
-
 
 # Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam
 
 >[!NOTE]
 >
->Dieses Problem wurde nur für Sandbox-Umgebungen gemeldet.
+>Dieses Problem wurde am 21. Januar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) versucht, Benutzende stapelweise zu bearbeiten, dauert das Öffnen des Bearbeitungsfensters sehr lange. Dies gilt auch für zwei Benutzer, aber mehr Benutzer benötigen noch mehr Zeit.
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 40%
+source-wordcount: '337'
+ht-degree: 36%
 
 ---
 
@@ -25,6 +25,24 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Januar 2025
+
++++**Wartungs-Update am Freitag, 23. Januar 2025**
+
+### Wartungs-Update am Freitag, 23. Januar 2025
+
+#### Berichte
+
+**Benutzerdefinierte Währungsfelder verursachen einen Berichtsfehler**
+
+Wenn eine Berichtsansicht zwei oder mehr benutzerdefinierte Währungsfelder enthält, gibt der Bericht den Fehler und zurück.
+
+#### Benutzende
+
+**Tag „Unregistered“ bleibt nach der Anmeldung bestehen**
+
+Trotz mindestens einmaliger erfolgreicher Anmeldung verliert das Tag „unregistered“ nicht wie für neue Benutzer erwartet.
+
++++
 
 +++**Wartungs-Update am Freitag, 16. Januar 2025**
 

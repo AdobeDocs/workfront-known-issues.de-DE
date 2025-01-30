@@ -3,14 +3,19 @@ title: 'Berichte: Ihre Berichtsfilter enthalten falsche Datumsangaben'
 description: Wenn ein Stundenbericht so gefiltert wird, dass nur ein bestimmtes Datum angezeigt wird, ist ein anderes angrenzendes Datum tatsächlich im Bericht enthalten. Dieses Problem scheint mit den Zeitzoneneinstellungen in Zusammenhang zu stehen.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 5%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
 # Berichte: Ihre Berichtsfilter enthalten falsche Datumsangaben
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 30. Januar 2025 behoben.
 
 Wenn ein Stundenbericht so gefiltert wird, dass nur ein bestimmtes Datum angezeigt wird, ist ein anderes angrenzendes Datum tatsächlich im Bericht enthalten. Dieses Problem scheint mit den Zeitzoneneinstellungen in Zusammenhang zu stehen.
 

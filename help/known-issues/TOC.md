@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 55%
+source-wordcount: '2391'
+ht-degree: 54%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 55%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Aufgaben: Filter und Ansichten auf Projektebene, die für Aufgaben verfügbar sind](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Berichte: Benutzerdefinierte Felder mit automatischer Textvervollständigung in der Aufschlüsselung reagieren nicht](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Anmelden als: Die Layoutvorlage Startseite des Administrators wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Benutzer: Fehler bei der Bearbeitung des Kostensatzes](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 55%
       + [Statuswerte: Zuvor gelöschter Status kann nicht wiederverwendet werden](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Projekte: Freigabemenü wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Berichte: Öffentliche Links zu einem Bericht funktionieren nicht](known-issues-workfront/wf-reports-public-link-not-working.md)

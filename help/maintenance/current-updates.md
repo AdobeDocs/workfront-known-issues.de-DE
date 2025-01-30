@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 36%
+source-wordcount: '410'
+ht-degree: 32%
 
 ---
 
@@ -25,6 +25,24 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Januar 2025
+
++++**Wartungs-Update am Freitag, 30. Januar 2025**
+
+### Wartungs-Update am Freitag, 30. Januar 2025
+
+#### Startseite
+
+**Genehmigungen werden nicht im Startseiten-Widget angezeigt**
+
+Von einem Benutzer gesendete Genehmigungen werden nicht im eigenen Widget Meine Genehmigungen angezeigt, selbst wenn sie gefiltert werden, um sie spezifisch anzuzeigen.
+
+#### Berichte
+
+**Stundenberichte enthalten falsche Datumsangaben**
+
+Wenn ein Stundenbericht so gefiltert wird, dass nur ein bestimmtes Datum angezeigt wird, ist ein anderes angrenzendes Datum tatsächlich im Bericht enthalten. Dieses Problem scheint mit den Zeitzoneneinstellungen in Zusammenhang zu stehen.
+
++++
 
 +++**Wartungs-Update am Freitag, 23. Januar 2025**
 

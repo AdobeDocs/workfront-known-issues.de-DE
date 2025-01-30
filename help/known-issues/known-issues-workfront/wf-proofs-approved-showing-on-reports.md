@@ -4,21 +4,18 @@ description: Wenn ein(e) Benutzende(r) einen Korrekturabzugs-Genehmigungsbericht
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards
 exl-id: 12bf8b0e-f31b-4320-b7f1-ea9964e86bf7
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 # Korrekturabzüge: Genehmigte Korrekturabzüge werden in Berichten angezeigt
 
-<!--
-
 >[!NOTE]
 >
->This issue has been closed because it is not an issue.
--->
+>Dieses Problem wurde am Mittwoch, 28. Januar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) einen Korrekturabzugs-Genehmigungsbericht aufruft, werden möglicherweise einige genehmigte Korrekturabzüge im Bericht angezeigt. Dies kann auch dann vorkommen, wenn der Bericht so gefiltert wird, dass nur Korrekturabzüge angezeigt werden, die auf Genehmigung warten.
 

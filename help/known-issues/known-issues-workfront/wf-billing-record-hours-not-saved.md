@@ -3,15 +3,19 @@ title: 'Rechnungsnachweis: Stunden werden nicht gespeichert'
 description: Wenn ein(e) Benutzende(r) versucht, einem Geschäftsdatensatz berechtigte Stunden hinzuzufügen, werden die Stunden nicht gespeichert und eine Meldung wird angezeigt.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
+exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 5%
+source-wordcount: '81'
+ht-degree: 4%
 
 ---
 
-
 # Rechnungsnachweis: Stunden werden nicht gespeichert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 29. Januar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) versucht, einem Geschäftsdatensatz geeignete Stunden hinzuzufügen, werden die Stunden nicht gespeichert und die folgende Meldung wird angezeigt:
 

@@ -1,26 +1,27 @@
 ---
 title: 'Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument'
-description: Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird möglicherweise ein Fehler angezeigt.
+description: Wenn ein(e) Benutzende(r) auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird ein Fehler angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 31%
 
 ---
 
 # Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument
 
+<!--
 >[!NOTE]
 >
->Dieses Problem wurde behoben.
+>This issue has been resolved.-->
 
-Wenn eine Benutzerin oder ein Benutzer auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird möglicherweise einer der folgenden Fehler angezeigt:
+Wenn ein(e) Benutzende(r) auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird der folgende Fehler angezeigt: „Dieses Dokument existiert nicht mehr.“
 
-* 500-Fehler
-* „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
+**Problemumgehung**
 
+Wenn die Benutzerin bzw. der Benutzer angemeldet ist, kann sie bzw. er das Dokument wie erwartet anzeigen.
 
-_Erste Meldung am Freitag, 30. Mai 2024._
+_Erste Meldung am Samstag, 10. Januar 2025._

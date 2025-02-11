@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 32%
+source-wordcount: '458'
+ht-degree: 31%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 32%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der Seite [Adobe-Status](https://status.adobe.com/).
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
@@ -23,6 +23,20 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
+
+## Updates im Februar 2025
+
++++**Wartungs-Update am Freitag, 6. Februar 2025**
+
+### Wartungs-Update am Freitag, 6. Februar 2025
+
+#### Listen
+
+**Aufgabenliste kann nach dem Hochladen des Korrekturabzugs nicht bearbeitet werden**
+
+Beim Hochladen eines Korrekturabzugs zu einem Projekt kann die Aufgabenliste für dieses Projekt erst inline bearbeitet werden, wenn die Seite aktualisiert wurde oder der Korrekturabzug das Hochladen abgeschlossen hat.
+
++++
 
 ## Updates im Januar 2025
 

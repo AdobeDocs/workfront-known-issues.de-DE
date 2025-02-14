@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 31%
+source-wordcount: '545'
+ht-degree: 28%
 
 ---
 
@@ -25,6 +25,24 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Februar 2025
+
++++**Wartungs-Update am Freitag, 13. Februar 2025**
+
+### Wartungs-Update am Freitag, 13. Februar 2025
+
+#### Benutzerdefinierte Formulare
+
+**Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt**
+
+Wenn eine Kundin oder ein Kunde das Bedienfeld Zusammenfassung für eine Aufgabe anzeigt, sind keine benutzerdefinierten Daten vorhanden, die im Bedienfeld Zusammenfassung angezeigt werden sollen. Dies kann auch dann vorkommen, wenn die Layout-Vorlage für Aufgaben die benutzerdefinierten Felder enthält.
+
+#### Berichte
+
+**Eingabeaufforderung bei Anzeigeproblemen**
+
+Beim Zugriff auf einen Bericht mit einer großen Anzahl von Eingabeaufforderungen erlaubt das Eingabeaufforderungsdialogfeld kein Scrollen, um auf alle Eingabeaufforderungen oder die Schaltfläche Bericht ausführen zuzugreifen.
+
++++
 
 +++**Wartungs-Update am Freitag, 6. Februar 2025**
 

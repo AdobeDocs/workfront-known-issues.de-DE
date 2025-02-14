@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '451'
-ht-degree: 90%
+source-wordcount: '463'
+ht-degree: 88%
 
 ---
 
@@ -56,6 +56,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrekturabzüge: Korrekturabzüge für Videos, die von AEM über Fusion verknüpft sind, können nicht erstellt werden](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | Freitag, 13. Februar 2025 |
 | [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | Samstag, 20. Dezember 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7. Juni 2024 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |

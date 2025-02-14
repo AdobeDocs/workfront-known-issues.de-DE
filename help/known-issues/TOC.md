@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '2413'
+source-wordcount: '2424'
 ht-degree: 54%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 54%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Korrekturabzüge: Korrekturabzüge für Videos, die von AEM über Fusion verknüpft sind, können nicht erstellt werden](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Layout-Vorlagen: Gelöschte Ansichten weiterhin verfügbar](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Benutzerdefinierte Formulare: Firmen fehlen im benutzerdefinierten Feld für automatische Textvervollständigung](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Dokumente: In die Liste der AEM-Ordnerdokumente kann nicht hochgeladen werden](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)

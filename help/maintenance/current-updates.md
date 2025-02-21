@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 28%
+source-wordcount: '649'
+ht-degree: 25%
 
 ---
 
@@ -25,6 +25,30 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Februar 2025
+
++++**Wartungs-Update am Freitag, 20. Februar 2025**
+
+### Wartungs-Update am Freitag, 20. Februar 2025
+
+#### Benachrichtigungen
+
+**E-Mail- und In-App-Benachrichtigungsverzögerungen**
+
+Wenn ein Ereignis eintritt, bei dem Trigger-E-Mails oder In-App-Benachrichtigungen senden sollten, werden die Benachrichtigungen zum Zeitpunkt des Ereignisses nicht gesendet. Es kann stattdessen bis zu ein paar Stunden dauern, bis sie gesendet werden.
+
+#### Aufgaben
+
+**Protokollierte Stunde verbleibt im vorherigen Projekt, sobald sie verschoben wurde**
+
+Nachdem Aufgaben in ein neues Projekt verschoben wurden, enthält die Summe der Projektstunden für das ursprüngliche Projekt Stunden für die verschobenen Aufgaben. Die Aufgaben behalten ihre protokollierten Stunden im neuen Projekt weiterhin ordnungsgemäß bei.
+
+#### Arbeitszeit- tabellen
+
+**Falsche Gesamtstunden**
+
+Bei der Berechnung der Gesamtstundenzahl von Arbeitszeittabellen wird gelegentlich eine falsche Summe angezeigt.
+
++++
 
 +++**Wartungs-Update am Freitag, 13. Februar 2025**
 

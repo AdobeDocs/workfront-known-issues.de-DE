@@ -3,14 +3,19 @@ title: 'Startseite: Schaltflächen „Genehmigung ausstehend“ fehlen im Widget
 description: Bei Verwendung des Widgets Ausstehende Genehmigung auf der Startseite werden die Schaltflächen zur Auswahl einer Genehmigungsentscheidung nicht angezeigt.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 # Startseite: Schaltflächen „Genehmigung ausstehend“ fehlen im Widget „Genehmigung ausstehend“
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 13. Februar 2025 behoben.
 
 Bei Verwendung des Widgets Ausstehende Genehmigung auf der Startseite werden die Schaltflächen zur Auswahl einer Genehmigungsentscheidung nicht angezeigt.
 

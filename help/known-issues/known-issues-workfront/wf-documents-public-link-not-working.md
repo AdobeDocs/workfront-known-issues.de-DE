@@ -4,19 +4,18 @@ description: Wenn ein(e) Benutzende(r) auf einen öffentlichen Link klickt, um z
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 154faa161413258aae76968495cb464b17d71857
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 31%
+source-wordcount: '85'
+ht-degree: 29%
 
 ---
 
 # Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>Dieses Problem wurde am 14. Februar 2025 behoben.
 
 Wenn ein(e) Benutzende(r) auf einen öffentlichen Link klickt, um zu einem Dokument in Workfront zu gelangen, wird der folgende Fehler angezeigt: „Dieses Dokument existiert nicht mehr.“
 

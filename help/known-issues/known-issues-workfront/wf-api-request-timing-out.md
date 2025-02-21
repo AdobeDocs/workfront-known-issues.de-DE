@@ -4,20 +4,18 @@ description: Bei Anfragen, die über die Workfront-API gestellt werden, tritt ei
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 9%
+source-wordcount: '50'
+ht-degree: 20%
 
 ---
 
 # API: Zeitüberschreitung von Anfragen
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 9, 2024.
--->
+>Dieses Problem wurde am Donnerstag, 19. Februar 2025 behoben.
 
 Bei Anfragen, die über die Workfront-API gestellt werden, tritt eine Zeitüberschreitung auf.
 

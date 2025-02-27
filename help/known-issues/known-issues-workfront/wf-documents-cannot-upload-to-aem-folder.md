@@ -3,14 +3,19 @@ title: 'Dokumente: In die Liste der AEM-Ordnerdokumente kann nicht hochgeladen w
 description: Benutzende können keine Dateien per Drag-and-Drop in den Bereich der Hauptdokumentliste innerhalb eines AEM-Ordners ziehen.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '80'
+ht-degree: 6%
 
 ---
 
 # Dokumente: In die Liste der AEM-Ordnerdokumente kann nicht hochgeladen werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
 
 Benutzende können keine Dateien per Drag-and-Drop in den Bereich der Hauptdokumentliste innerhalb eines AEM-Ordners ziehen.
 

@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '693'
 ht-degree: 25%
 
 ---
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Februar 2025
+
++++**Wartungs-Update am Freitag, 27. Februar 2025**
+
+### Wartungs-Update am Freitag, 27. Februar 2025
+
+#### Gruppen
+
+**Administratorzugriffsebene kann nicht freigegeben werden**
+
+Beim Versuch, die Administratorzugriffsebene für eine Gruppe freizugeben, reagiert das Kontrollkästchen zum Aktivieren der einzelnen Gruppen nicht und die Gruppe erhält nicht die erwartete Zugriffsebene.
+
++++
 
 +++**Wartungs-Update am Freitag, 20. Februar 2025**
 

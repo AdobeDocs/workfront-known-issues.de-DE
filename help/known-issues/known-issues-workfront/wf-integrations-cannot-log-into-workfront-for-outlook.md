@@ -4,10 +4,10 @@ description: Wenn Benutzende versuchen, sich bei Workfront for Outlook anzumelde
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: c60a7c70346bda8d794899c6d924c8f3605f1c9e
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 20%
+source-wordcount: '68'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 >[!NOTE]
 >
->Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
+>Dieses Problem wurde am 12. Oktober 2023 behoben.
 
 Wenn Benutzende versuchen, sich bei Workfront for Outlook anzumelden, reagiert die Schaltfläche nicht und sie können sich nicht anmelden.
 

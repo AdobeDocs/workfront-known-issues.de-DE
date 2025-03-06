@@ -4,10 +4,10 @@ description: 'Benutzende mit einer Mitwirkendenlizenz erhalten keine Benachricht
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 42c42ae1f68161fe7e8647e6b74c9a5806bf4a92
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '68'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 35%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde am 11. November 2024 behoben
 
 Benutzende mit einer Mitwirkendenlizenz erhalten keine Benachrichtigungs-E-Mails. Dies kann sowohl Sofortbenachrichtigungs-E-Mails als auch Daily Digest-E-Mails betreffen.
 

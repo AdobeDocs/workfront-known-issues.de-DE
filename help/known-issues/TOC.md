@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2446'
-ht-degree: 53%
+source-wordcount: '2355'
+ht-degree: 51%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 53%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Layout-Vorlage: Abschnitt zu benutzerdefinierten Iterationen ist nicht zugänglich](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Benachrichtigungen: E-Mails duplizieren](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 53%
       + [Berichte: Fehler beim Anzeigen von Berichtsdetails, die nach benutzerdefiniertem Datum gruppiert sind](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Ressourcenplanung: Schaltfläche [!UICONTROL Mehr] ist nicht sichtbar](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [Statuswerte: Zuvor gelöschter Status kann nicht wiederverwendet werden](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Dokumente: Fehler bei der Verwendung eines öffentlichen Links zu einem Dokument](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [Projekte: Freigabemenü wird nicht geladen](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [Berichte: Öffentliche Links zu einem Bericht funktionieren nicht](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL Ressourcenplaner]: Filter kann nicht freigegeben werden](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [Das tatsächliche Fertigstellungsdatum wird als K. A. angezeigt](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Aufgaben: Das Aufgabengebiet verschwindet nicht aus der Liste, wenn eine Benutzerin oder ein Benutzer einer Aufgabe zugewiesen ist](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Benutzende: Benutzende fehlen bei der Erstellung von Massenarbeitsaufträgen](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten beschreibender Textfelder](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [Gruppen: Untergruppe kann nicht hinzugefügt werden](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Aktualisierungen: Getaggte Benutzende können nicht sehen, wer sie getaggt hat](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Dokumente: Fehlerbildschirm beim Herunterladen oder Anzeigen einer Vorschau des Assets](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [Programme: Der Zugriff auf das Programm geht verloren, wenn der Benutzerzugriff auf das Programm aktualisiert wird](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Dokumente: UNK-Dateierweiterung beim Verknüpfen von Dokumenten aus einer Integration](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Aktualisierungen: Beim Kopieren und Einfügen einer Erwähnung werden erwähnte Benutzende nicht benachrichtigt.](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Projekte: Ein Projekt, das aus einem Problem mithilfe einer Vorlage erstellt wurde, spiegelt nicht die in der Vorlage festgelegte Priorität wider.](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Arbeitszeittabellen: Angeheftete Arbeitszeittabelle führt zu leerer Seite.](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Einrichtung: Das Banner „Angemeldet als“ wird bei Anmeldung als eine andere Person nicht angezeigt.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [Moderierende von Korrekturabzügen können Berechtigungen nicht bearbeiten](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]: Ziel kann nicht gelöscht werden](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [Benutzende: Zugriffsebene von Benutzenden kann nicht geändert werden](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Aktualisierungen: Link im Kommentar führt zu leerem Bildschirm.](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt werden oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 53%
       + [Berichte: Berichtfilter gibt nicht die erwarteten Ergebnisse zurück](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Projekt: Problem kann nicht in Projekt konvertiert werden, wenn ein Web-Korrekturabzug angefügt ist](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [Aktualisierungen: Bei Anfragen können keine Bilder zu Aktualisierungen hinzugefügt werden](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [Pinnwände: Karte enthält keine Unteraufgaben](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Pinnwände: Probleme mit doppelten Karten](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Neue [!UICONTROL Startseite]: Die Standardwerte für Widget-Filter und Gruppierungen entsprechen nicht der Layout-Vorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)

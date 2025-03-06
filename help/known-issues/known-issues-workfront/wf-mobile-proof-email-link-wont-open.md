@@ -4,14 +4,18 @@ description: Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug über eine
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 4%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
 # Workfront Mobile: Korrekturabzugs-E-Mail-Links werden auf iPhone nicht geöffnet
+
+>[!NOTE]
+>
+>Dieses Problem wurde behoben.
 
 Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug über einen E-Mail-Link auf seinem/ihrem Smartphone zu öffnen, wird der/die Benutzende zu einer Browser-Seite weitergeleitet, auf der schließlich ein Fehler angezeigt wird, der besagt, dass der Link fehlerhaft ist. Dieses Problem betrifft derzeit nur iPhone-Benutzende.
 

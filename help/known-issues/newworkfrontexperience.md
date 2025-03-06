@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '1171'
-ht-degree: 68%
+source-wordcount: '1122'
+ht-degree: 70%
 
 ---
 
@@ -27,15 +27,11 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | ----------------------------------------------------------------- | ----------------- |
 | [Layout-Vorlage: Abschnitt mit benutzerdefinierten Iterationen ist nicht zugänglich](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | Dienstag, 24. Februar 2025 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | Freitag, 20. Februar 2025 |
-| [Aufgaben: Filter und Ansichten auf Projektebene, die für Aufgaben verfügbar sind](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | Freitag, 30. Januar 2025 |
 | [Benutzer: Beim Wechsel des Systemadministrators wird ein doppeltes Konto erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | Freitag, 9. Januar 2025 |
 | [Aufgaben: Probleme bei der Neuberechnung der Zeitleiste](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | Mittwoch, 3. Dezember 2024 |
 | [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |
-| [Workfront Mobile: Korrekturabzugs-E-Mail-Links werden in iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | Donnerstag, 9. Oktober 2024 |
 | [API: API-Aufruf schlägt aufgrund eines SQL-Fehlers fehl](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | Freitag, 12. September 2024 |
 | [Pinnwände: Der Kartenstatus stimmt nicht mit dem verbundenen Objekt überein und umgeht den Filter](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | Mittwoch, 3. September 2024 |
-| [Pinnwände: Verbundene Karte ist in der falschen Spalte](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | Donnerstag, 28. August 2024 |
-| [Workfront: SSO kann nicht verwendet werden](known-issues-workfront/wf-workfront-cannot-use-sso.md) | Dienstag, 26. August 2024 |
 | [Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 15. August 2024 |
 | [Workfront Mobile: Anmeldung ohne SSO nicht möglich](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | Donnerstag, 14. August 2024 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -50,11 +46,9 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Startseite: Schaltflächen „Genehmigung“ fehlen im Widget „Genehmigung ausstehend“](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | Freitag, 27. Februar 2025 |
 | [Korrekturabzüge: Genehmigte Korrekturabzüge werden in Berichten angezeigt](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | Mittwoch, 11. Februar 2025 |
 | [Berichte: Lange Ladezeiten von Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | Freitag, 21. November 2024 |
 | [Integrationen: Anmeldung bei Workfront for Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Mittwoch, 24. September 2024 |
-| [Benutzerdefinierte Formulare: Forms verwendet standardmäßig Projektformulare](known-issues-workfront/wf-custom-forms-default-to-project.md) | Freitag, 22. August 2024 |
 | [Setup: Probleme beim Abmelden als anderer Benutzer](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | Freitag, 15. August 2024 |
 | [Benachrichtigungen: Hoppla-Fehler beim Festlegen von Benachrichtigungseinstellungen](known-issues-workfront/wf-notifications-whoops-error.md) | Freitag, 8. August 2024 |
 | [Zugriffsebenen: Doppelte Zugriffsebenen im Setup-Bereich](known-issues-workfront/wf-access-duplicate-level.md) | Freitag, 25. Juli 2024 |

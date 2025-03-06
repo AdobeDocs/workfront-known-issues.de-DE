@@ -4,10 +4,10 @@ description: Workfront-Funktion, die SSO verwendet, gibt einen Hoppla-Fehler zur
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
-source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 33%
+source-wordcount: '102'
+ht-degree: 37%
 
 ---
 
@@ -15,8 +15,9 @@ ht-degree: 33%
 
 >[!NOTE]
 >
+>* Dieses Problem wurde am Freitag, 5. September 2024 behoben.
 >* Dies wurde in der Sandbox-Vorschau-Umgebung und der benutzerdefinierten Sandbox-Aktualisierungsumgebung gemeldet.
->* Dies wurde für Unternehmen gemeldet, die ältere SSO (Nicht-Adobe) verwenden.
+>* Dies wurde für Organisationen gemeldet, die ältere SSOs (außer Adobe) verwenden.
 
 Workfront-Funktion, die SSO verwendet, gibt den folgenden Fehler zurück:
 

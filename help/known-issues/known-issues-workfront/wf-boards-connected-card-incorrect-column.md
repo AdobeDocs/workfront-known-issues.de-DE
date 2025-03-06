@@ -4,22 +4,19 @@ description: Es wurden Probleme mit verbundenen Karten in der falschen Spalte ge
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 # Pinnwände: Verbundene Karte ist in der falschen Spalte
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 15, 2024.
+>Dieses Problem wurde am Freitag, 10. Oktober 2024 behoben.
 
--->
 
 Die folgenden Probleme wurden mit verbundenen Karten in der falschen Spalte gemeldet:
 

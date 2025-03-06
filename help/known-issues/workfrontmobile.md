@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in  [!DNL Adobe Workfront]  Mobile App
 keywords: neue Datei, Datei hinzufügen
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 81%
+source-wordcount: '63'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
-| **Problem** | **Zuletzt geändert** |
-| -----------------------------------------------------------------| ----------------- ||
-| [Workfront Mobile: Korrekturabzugs-E-Mail-Links werden auf iPhone nicht geöffnet](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9. Oktober 2024 |
+| **Problem** | **Letzte Änderung** |
+| -----------------------------------------------------------------| ----------------- |
+| Keine |  |
 
 <!--
 ## Current Issues

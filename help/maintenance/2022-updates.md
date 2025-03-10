@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront in 2022
 description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ Infolge dieser Fehlerkorrekturen hat sich die E-Mail-Adresse geändert, die zum 
 
 Zuvor enthielten Korrekturabzugs-E-Mail-Adressen die Subdomain Ihres Unternehmens. Beispiel: notifications@[Unternehmensdomain].my.workfront.com
 
-Jetzt enthalten die Korrekturabzugs-E-Mail-Adressen keine Unternehmens-Subdomain mehr. Alle E-Mail-Benachrichtigungen zu Korrekturabzügen werden von der folgenden Adresse gesendet: notification@my.workfront.com
+Jetzt enthalten die Korrekturabzugs-E-Mail-Adressen keine Unternehmens-Subdomain mehr. Alle E-Mail-Benachrichtigungen zu Korrekturabzügen werden von der folgenden Adresse gesendet: `notification@my.workfront.com`
 
 Daher empfehlen wir, die folgenden Aktionen durchzuführen, falls Sie dies noch nicht getan haben:
 
-* Aktualisieren Sie Ihre Spam-Filter, um E-Mails von notification@my.workfront.com zuzulassen.
-* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von notification@my.workfront.com zuzulassen.
-
-**Benutzeroptionen können nach der erstmaligen Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
+* Spam-Filter aktualisieren, um E-Mails von `notification@my.workfront.com` zu akzeptieren
+* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von `notification@my.workfront.com` zu akzeptieren
+  **Benutzeroptionen können nach der erstmaligen Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
 
 *[!DNL Workfront Proof]*
 

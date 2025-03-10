@@ -4,10 +4,10 @@ description: Im Bereich „Startseite“ werden die Standardnamen für Objekte a
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 90%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Die Funktion im Zusammenhang mit diesem Problem wird nicht mehr unterstützt.
 
 Im Bereich [!UICONTROL Startseite] werden die Standardnamen für Objekte anstelle der von der Organisation festgelegten Terminologie angezeigt. Dies wurde in den folgenden Bereichen gemeldet:
 

@@ -4,10 +4,10 @@ description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Ver
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Die Funktion im Zusammenhang mit diesem Problem wird nicht mehr unterstützt.
 
 Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version im Bereich [!UICONTROL Startseite] im rechten Bedienfeld einen Korrekturabzug öffnet und bei einem Kommentar auf [!UICONTROL Im Korrekturabzug antworten] klickt, wird ein Textfeld angezeigt, in dem er/sie im Bereich [!UICONTROL Dokumentaktualisierungen] eine Aktualisierung hinterlassen kann, anstatt wie vorgesehen zur [!UICONTROL Korrekturabzugsanzeige] weitergeleitet zu werden.
 

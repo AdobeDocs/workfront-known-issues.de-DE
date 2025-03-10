@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '1036'
-ht-degree: 73%
+source-wordcount: '979'
+ht-degree: 71%
 
 ---
 
@@ -77,6 +77,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Berichte: Fehler beim Exportieren eines Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Dienstag, 14. Oktober 2024 |
 | [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | Mittwoch, 8. Oktober 2024 |
 | [Prioritäten: Gruppierungen verhindern das Sortieren und die Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | Mittwoch, 8. Oktober 2024 |
+| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 5. September 2024 |
 | [Berichte: Es kann nicht gescrollt werden, um den gesamten Diagrammbericht anzuzeigen](known-issues-workfront/wf-reports-unable-to-scroll.md) | Freitag, 19. September 2024 |
 | [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Donnerstag, 18. September 2024 |
 | [Benutzerdefinierte Formulare: Berechnetes Feld mit falschem Wert](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | Freitag, 12. September 2024 |
@@ -119,27 +120,21 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14. September 2022 |
 | [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5. August 2022 |
-| [[!UICONTROL Startseite]: Benutzerdefinierte Terminologie wird nicht auf den Bereich der Startseite angewendet](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 3. Juni 2022 |
 | [Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 11. Mai 2022 |
 | [Agile: Probleme beim Verschieben von Karten auf der [!UICONTROL Agile]-Pinnwand](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27. April 2022 |
 | [Genehmigungen: Für die Delegierung von Genehmigungen erscheint die falsche Anzahl von Tagen](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 20. April 2022 |
 | [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1. Oktober 2021 |
 | [Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1. Oktober 2021 |
 | [Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22. Juni 2021 |
-| [[!UICONTROL Startseite]: Die Schaltfläche [!UICONTROL In Korrekturabzug antworten] funktioniert nicht ordnungsgemäß](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21. Juni 2021 |
 | [E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2. Juni 2021 |
 | [E-Mail-Benachrichtigungen: Benutzende werden nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23. April 2021 |
 | [Kalender: [!DNL OR] -Filteranweisung führt zum Ausschluss der Filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23. April 2021 |
 | [[!UICONTROL Workfront-Korrekturabzug]: Für den Bericht zu [!UICONTROL Korrekturabzugsgenehmigungen] können Fristen nicht genau bestimmt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21. April 2021 |
-| [[!UICONTROL Startseite]: Der Projektname wird in der [!UICONTROL Arbeitsliste]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) als GUID angezeigt | 11. Februar 2021 |
 | [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25. Januar 2021 |
 | [Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5. Februar 2021 |
 | [E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) nicht korrekt formatiert | 30. März 2021 |
-| [[!UICONTROL Startseite]: Das Dokumentbild wird nicht in der [!UICONTROL Arbeitsliste]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) angezeigt | 9. November 2020 |
 | [Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9. November 2020 |
-| [Startseite: Datumsangaben für die Delegierung von Genehmigungen ändern sich nach der Aktualisierung, und es werden zwei E-Mails versandt](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9. November 2020 |
 | [Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9. November 2020 |
-| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 5. September 2024 |
 
 {style="table-layout:auto"}
 

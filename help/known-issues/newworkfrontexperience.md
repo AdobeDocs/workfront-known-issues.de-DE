@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 71%
+source-wordcount: '988'
+ht-degree: 70%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Anfragen: Anfrage-Warteschlange nicht verfügbar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | Freitag, 13. März 2025 |
+| [Projekte: Der Projektfortschrittsstatus wird nicht automatisch auf „In Verzug“ aktualisiert](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | Freitag, 13. März 2025 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | Freitag, 20. Februar 2025 |
 | [Benutzer: Beim Wechsel des Systemadministrators wird ein doppeltes Konto erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | Freitag, 9. Januar 2025 |
 | [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |

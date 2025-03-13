@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '1701'
+source-wordcount: '1716'
 ht-degree: 58%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 58%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anfragen: Anfrage-Warteschlange nicht verfügbar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [Projekte: Der Status des Projektfortschritts wird nicht automatisch auf „In Verzug“ aktualisiert](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Aktualisierungen: Einige Benutzer können Bilder oder Dokumente, die an Kommentare angehängt sind, nicht sehen](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)

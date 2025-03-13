@@ -4,20 +4,18 @@ description: Die folgenden Probleme wurden bei der Neuberechnung des Zeitplans g
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 5%
 
 ---
 
 # Aufgaben: Probleme bei der Neuberechnung der Zeitleiste
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>Dieses Problem wurde am 10. März 2025 behoben.
 
 Die folgenden Probleme wurden bei der Neuberechnung des Zeitplans gemeldet:
 

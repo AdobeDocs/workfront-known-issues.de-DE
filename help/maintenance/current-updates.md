@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 27%
+source-wordcount: '797'
+ht-degree: 26%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im März 2025
+
++++**Wartungs-Update am Freitag, 13. März 2025**
+
+### Wartungs-Update am Freitag, 13. März 2025
+
+#### Berichte
+
+**Anzahl der Elemente im Diagramm ist ungenau**
+
+Klicken Sie in einem Dashboard-Bericht auf ein Diagrammergebnis mit mehr als 15 Elementen und wählen Sie die Auswahl aus, um nur 15 Ergebnisse wie erwartet anzuzeigen. Wenn Sie denselben Bericht jedoch außerhalb des Dashboards öffnen und auf dasselbe Diagrammergebnis klicken, zeigt dies an, dass alle Elemente angezeigt werden, tatsächlich jedoch nur 15 angezeigt werden.
+
++++
 
 +++**Wartungs-Update am Freitag, 6. März 2025**
 

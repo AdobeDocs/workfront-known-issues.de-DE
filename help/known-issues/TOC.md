@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 58%
+source-wordcount: '1726'
+ht-degree: 57%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 58%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aktualisierungen: Aktualisierungen sind verzögert](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist extrem langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [Anfragen: Anfrage-Warteschlange nicht verfügbar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projekte: Der Status des Projektfortschritts wird nicht automatisch auf „In Verzug“ aktualisiert](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Aktualisierungen: Einige Benutzer können Bilder oder Dokumente, die an Kommentare angehängt sind, nicht sehen](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)

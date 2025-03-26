@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
-workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 80%
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+workflow-type: ht
+source-wordcount: '152'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,10 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| Keine |  |
+| Keine | |
 
 {style="table-layout:auto"}
+
 
 ## In Arbeit
 
@@ -35,8 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Das Szenario wird nicht ausgeführt](known-issues-workfront-fusion/fusion-scenario-not-running.md) | Mittwoch, 19. März 2024 |
-| [Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder aus ihr gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | Mittwoch, 24. September 2024 |
+| Keine |  |
 
 {style="table-layout:auto"}
 
@@ -46,8 +46,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Korrekturabzüge für Videos, die von AEM über Fusion verknüpft sind, können nicht erstellt werden](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | Freitag, 13. Februar 2025 |
-| [Workfront Fusion: Beginnen Sie mit der Einstellung „Von jetzt an“ und verarbeiten Sie alle Daten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | Mittwoch, 29. Oktober 2024 |
 | [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | Dienstag, 5. Februar 2024 |
 | [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | Donnerstag, 31. Januar 2024 |
 | [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16. November 2023 |

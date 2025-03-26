@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '1738'
+source-wordcount: '1745'
 ht-degree: 57%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 57%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Filter: Dropdown verschwindet beim Klicken auf die Bildlaufleiste](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Startseite: Antworten können nicht über das Erwähnungs-Widget gesendet werden](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Aktualisierungen: Aktualisierungen sind verzögert](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)

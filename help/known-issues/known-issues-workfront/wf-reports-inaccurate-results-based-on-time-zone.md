@@ -1,22 +1,23 @@
 ---
 title: 'Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse'
-description: Users in different time zones who use the date picker to get a report for a certain date get different results for that report.
+description: Benutzer in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen Bericht für ein bestimmtes Datum zu erhalten, erhalten für diesen Bericht unterschiedliche Ergebnisse.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: 56e1c820-0199-4fe6-9d81-c518ae0d4309
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 5%
 
 ---
 
-
 # Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse
 
-Users in different time zones who use the date picker to get a report for a certain date get different results for that report.
+Benutzer in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen Bericht für ein bestimmtes Datum zu erhalten, erhalten für diesen Bericht unterschiedliche Ergebnisse.
 
 **Problemumgehung**
 
-Use a date wildcard or a relative date for the report, instead of the date picker.
+Verwenden Sie einen Datums-Platzhalter oder ein relatives Datum für den Bericht anstelle der Datumsauswahl.
 
 _Erste Meldung am Freitag, 13. März 2025._
+

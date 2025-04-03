@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
-ht-degree: 56%
+source-wordcount: '1794'
+ht-degree: 55%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 56%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Anfragen: URLs mit eingebettetem Code laden die Anfrage-Warteschlange nicht korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [Benutzende: Gruppenadministratoren können Benutzende nicht deaktivieren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 56%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Beim Herstellen einer Verbindung zu einer Sandbox-Umgebung sind die Optionen für Workfront Event Subscription Version 2 nicht verfügbar](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Szenario wird nicht ausgeführt](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: Beginnen Sie mit der Einstellung „Von jetzt an“ für die Verarbeitung aller Daten](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder aus ihr gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

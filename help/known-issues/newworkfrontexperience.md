@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '986'
 ht-degree: 70%
 
 ---
@@ -106,7 +106,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3. August 2023 |
 | [[!UICONTROL Setup]: Audit-Protokolle können nicht exportiert werden](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20. Juli 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
-| [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
 | [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11. April 2023 |
 | [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
 | [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) verknüpftes Dokument | 23. März 2023 |

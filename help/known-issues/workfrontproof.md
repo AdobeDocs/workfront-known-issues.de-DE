@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '416'
 ht-degree: 87%
 
 ---
@@ -63,7 +63,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9. Juni 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8. Juni 2023 |
 | [[!DNL Workfront Proof]: 500-Fehler bei Zugriff auf [!DNL Workfront Proof] über API oder [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25. Mai 2023 |
-| [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21. April 2023 |
 | [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27. März 2023 |
 | [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) verknüpftes Dokument | 23. März 2023 |
 | [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23. März 2023 |

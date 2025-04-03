@@ -4,10 +4,10 @@ description: Wenn Benutzende die Seite mit Dokumentdetails ansehen und im Menü 
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 92%
+source-wordcount: '91'
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde behoben.
 
 Wenn Benutzende die Seite [!UICONTROL Dokumentendetails] ansehen und im Menü [!UICONTROL Korrekturabzugsaktivitäten] auf eine Option klicken, werden die Benutzenden zu einer Anmeldeseite anstelle zu der vorgesehenen Zielseite weitergeleitet.
 

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 70%
+source-wordcount: '968'
+ht-degree: 71%
 
 ---
 
@@ -25,9 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | Freitag, 3. April 2025 |
 | [Anfragen: URLs mit eingebettetem Code laden die Anfrage-Warteschlange nicht korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | Freitag, 27. März 2025 |
-| [Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | Freitag, 27. März 2025 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | Freitag, 20. Februar 2025 |
 | [Benutzer: Beim Wechsel des Systemadministrators wird ein doppeltes Konto erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | Freitag, 9. Januar 2025 |
 | [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 12. November 2024 |

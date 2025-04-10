@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '964'
-ht-degree: 27%
+source-wordcount: '962'
+ht-degree: 28%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 27%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe Systems Produkte, einschließlich Workfront, finden Sie in der Seite](https://status.adobe.com/) Adobe Systems [Status.
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
 
-In diesem Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
+Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
 Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
@@ -26,9 +26,9 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im April 2025
 
-+++**(Geplantes) Wartungs-Update vom 10. April 2025**
++++**Wartungs-Update am Freitag, 10. April 2025**
 
-### **(Geplantes) Wartungs-Update vom 10. April 2025**
+### **Wartungs-Update am Freitag, 10. April 2025**
 
 #### Dashboards
 
@@ -48,7 +48,7 @@ Benutzer in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen B
 
 ### Wartungs-Update am Freitag, 3. April 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben ist.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
@@ -58,7 +58,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am Freitag, 27. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben ist.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
@@ -66,7 +66,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am Freitag, 20. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben ist.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
@@ -86,7 +86,7 @@ Klicken Sie in einem Dashboard-Bericht auf ein Diagrammergebnis mit mehr als 15 
 
 ### Wartungs-Update am Freitag, 6. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben ist.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
@@ -98,9 +98,9 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 #### Gruppen
 
-**Administratorzugriffsebene kann nicht freigegeben werden.**
+**Administratorzugriffsebene kann nicht freigegeben werden**
 
-Beim Versuch, die Administratorzugriffsebene für eine Gruppe freizugeben, reagiert das Kontrollkästchen zum Aktivieren der einzelnen Gruppe nicht, und die Gruppe erhält nicht die erwartete Zugriffsebene.
+Beim Versuch, die Administratorzugriffsebene für eine Gruppe freizugeben, reagiert das Kontrollkästchen zum Aktivieren der einzelnen Gruppen nicht und die Gruppe erhält nicht die erwartete Zugriffsebene.
 
 +++
 
@@ -110,7 +110,7 @@ Beim Versuch, die Administratorzugriffsebene für eine Gruppe freizugeben, reagi
 
 #### Benachrichtigungen
 
-**Verzögerungen bei E-Mail- und In-App-Benachrichtigung**
+**E-Mail- und In-App-Benachrichtigungsverzögerungen**
 
 Wenn ein Ereignis eintritt, bei dem Trigger-E-Mails oder In-App-Benachrichtigungen senden sollten, werden die Benachrichtigungen zum Zeitpunkt des Ereignisses nicht gesendet. Es kann stattdessen bis zu ein paar Stunden dauern, bis sie gesendet werden.
 
@@ -134,15 +134,15 @@ Bei der Berechnung der Gesamtstundenzahl von Arbeitszeittabellen wird gelegentli
 
 #### Benutzerdefinierte Formulare
 
-**Benutzerdefinierte Daten werden nicht im Bedienfeld Zusammenfassung angezeigt**
+**Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt**
 
-Wenn ein Kunde das Zusammenfassung Bedienfeld für eine Aufgabe anzeigt, sind benutzerdefinierte Daten, die im Zusammenfassung Bedienfeld angezeigt werden sollten, nicht vorhanden. Dies kann vorkommen Linear das für Aufgaben Vorlage Layout benutzerdefinierte Felder enthält.
+Wenn eine Kundin oder ein Kunde das Bedienfeld Zusammenfassung für eine Aufgabe anzeigt, sind keine benutzerdefinierten Daten vorhanden, die im Bedienfeld Zusammenfassung angezeigt werden sollen. Dies kann auch dann vorkommen, wenn die Layout-Vorlage für Aufgaben die benutzerdefinierten Felder enthält.
 
 #### Berichte
 
-**Probleme mit der Eingabeaufforderungsanzeige**
+**Eingabeaufforderung bei Anzeigeproblemen**
 
-Wenn Sie auf einen Bericht mit Eingabeaufforderungen mit einer großen Anzahl von Eingabeaufforderungen zugreifen, erlaubt das Eingabeaufforderungsdialogfeld nicht das Scrollen, um auf alle Eingabeaufforderungen oder die Button Melden ausführen zuzugreifen.
+Beim Zugriff auf einen Bericht mit einer großen Anzahl von Eingabeaufforderungen erlaubt das Eingabeaufforderungsdialogfeld kein Scrollen, um auf alle Eingabeaufforderungen oder die Schaltfläche Bericht ausführen zuzugreifen.
 
 +++
 
@@ -152,9 +152,9 @@ Wenn Sie auf einen Bericht mit Eingabeaufforderungen mit einer großen Anzahl vo
 
 #### Listen
 
-**Nach dem Hochladen der Testversand kann Aufgabe Liste nicht bearbeitet werden**
+**Aufgabenliste kann nach dem Hochladen des Korrekturabzugs nicht bearbeitet werden**
 
-Beim Hochladen einer Testversand in ein Projekt können die Aufgabe Liste für dieses Projekt erst dann inline bearbeitet werden, wenn die Seite aktualisiert wurde oder der Testversand den Upload abgeschlossen hat.
+Beim Hochladen eines Korrekturabzugs zu einem Projekt kann die Aufgabenliste für dieses Projekt erst inline bearbeitet werden, wenn die Seite aktualisiert wurde oder der Korrekturabzug das Hochladen abgeschlossen hat.
 
 +++
 
@@ -184,15 +184,15 @@ Wenn ein Stundenbericht so gefiltert wird, dass nur ein bestimmtes Datum angezei
 
 #### Berichte
 
-**Benutzerdefinierte Währungsfelder verursachen Berichtsfehler**
+**Benutzerdefinierte Währungsfelder verursachen einen Berichtsfehler**
 
-Wenn ein Bericht Ansicht zwei oder mehr benutzerdefinierte Währungsfelder enthält, gibt der Bericht einen Fehler zurück.
+Wenn eine Berichtsansicht zwei oder mehr benutzerdefinierte Währungsfelder enthält, gibt der Bericht den Fehler und zurück.
 
 #### Benutzende
 
-**Der Tag &quot;unregistriert&quot; bleibt bestehen, nachdem Log-in**
+**Tag „Unregistered“ bleibt nach der Anmeldung bestehen**
 
-Trotz mindestens einer erfolgreichen Protokollierung verschwindet der &quot;unregistrierte&quot; Tag für neue Benutzer nicht wie erwartet.
+Trotz mindestens einmaliger erfolgreicher Anmeldung verliert das Tag „unregistered“ nicht wie für neue Benutzer erwartet.
 
 +++
 
@@ -202,9 +202,9 @@ Trotz mindestens einer erfolgreichen Protokollierung verschwindet der &quot;unre
 
 #### Dokumente
 
-**Fehler &quot;Nicht gespeicherte Änderungen&quot; beim Hinzufügen eines Formulars zu einer Dokument**
+**Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
 
-Beim Hinzufügen eines Formulars zu einer Dokument wird der Fehler &quot;Nicht gespeicherte Änderungen&quot; angezeigt, der nicht geschlossen werden kann und die Interaktion mit dem Applikation verhindert.
+Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Nicht gespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit dem Programm verhindert.
 
 #### Korrekturabzüge
 
@@ -220,13 +220,13 @@ Wenn ein(e) Benutzende(r) versucht, eine erweiterte Benutzerzuweisung für eine 
 
 „Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
-Eine Aktualisierung der Browser Seite ist ineffektiv.
+Das Aktualisieren der Browser-Seite funktioniert nicht.
 
 #### Anforde- rungen
 
-**Erstellen von Anforderungen in Vorschau Umgebungen nicht möglich**
+**Anfragen können nicht in Vorschauumgebungen erstellt werden**
 
-Beim Versuch, eine neue Anfrage in einer Vorschau Sandbox-Umgebung zu erstellen, wird eine Fehlermeldung angezeigt, die besagt, dass die Anfrage Warteschlange nicht mehr verfügbar ist und die Anfrage nicht erstellt werden kann.
+Beim Versuch, eine neue Anfrage in einer Sandbox-Vorschau-Umgebung zu erstellen, wird ein Fehler angezeigt, der besagt, dass die Anfrage-Warteschlange nicht mehr verfügbar ist und die Anfrage nicht erstellt werden kann.
 
 +++
 

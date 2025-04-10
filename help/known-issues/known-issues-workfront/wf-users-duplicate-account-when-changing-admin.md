@@ -3,14 +3,19 @@ title: 'Benutzende: Doppeltes Konto beim Wechsel des Systemadministrators erstel
 description: Wenn ein primärer Systemadministrator in einen anderen Benutzer geändert wird, wird ein Duplikat dieses Benutzerkontos mit dem Namen „Admin User“ und einer identischen E-Mail-Adresse erstellt.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: c39a8765871393b457c81d01306255400e023be5
+exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
 # Benutzende: Doppeltes Konto beim Wechsel des Systemadministrators erstellt
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 10. April 2025 behoben.
 
 Wenn der primäre Administrator eines Systems in einen anderen Benutzer geändert wird, wird ein Duplikat des Kontos dieses Benutzers mit dem Namen „Admin User“ und einer identischen E-Mail-Adresse erstellt.
 

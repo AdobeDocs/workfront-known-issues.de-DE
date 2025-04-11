@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '1794'
-ht-degree: 55%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 55%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Vorlagen: Für Contribute-Zugriff kann nicht freigegeben werden](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Anfragen: URLs mit eingebettetem Code laden die Anfrage-Warteschlange nicht korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)

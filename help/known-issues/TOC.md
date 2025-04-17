@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 54%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Vorlagen: Für Contribute-Zugriff kann nicht freigegeben werden](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Anfragen: URLs mit eingebettetem Code laden die Anfrage-Warteschlange nicht korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [Für den Bericht zu [!UICONTROL Korrekturabzugs-Genehmigungen] können keine korrekten Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Gelöste Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
+   + Gelöste Probleme [!DNL Workfront] Korrekturabzug {#proof-resolved}
       + [Korrekturabzüge: In den Korrekturabzügen wird „[!UICONTROL Korrekturabzug wird erstellt]“ zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -245,7 +246,7 @@ ht-degree: 0%
    + [Bekannte Probleme in [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Bekannte Probleme in [!DNL Workfront Library]](workfrontlibrary.md)
-+ [!DNL Workfront] Mobile App {#mobile}
++ Mobile App [!DNL Workfront] {#mobile}
    + [Bekannte Probleme in  [!DNL Workfront] Mobile App](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Bekannte Probleme in [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)

@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '954'
 ht-degree: 72%
 
 ---
@@ -38,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
+| [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | Freitag, 17. April 2025 |
 | [Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | Freitag, 6. März 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 

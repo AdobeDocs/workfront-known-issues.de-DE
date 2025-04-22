@@ -4,10 +4,10 @@ description: Wenn Benutzende versuchen, eine hohe Anzahl von Audit-Protokollen z
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 95%
+source-wordcount: '79'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Das Produkt-Team arbeitet derzeit an der Problemlösung. Wenn dieses Problem behoben ist, wird dies in den Produktankündigungen und nicht mit den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde am Dienstag, 4. November 2024 behoben.
 
 Wenn Benutzende versuchen, eine hohe Anzahl von Audit-Protokollen zu exportieren, werden die Protokolle nicht exportiert. Es gibt keinen Hinweis darauf, dass der Export fehlgeschlagen ist.
 

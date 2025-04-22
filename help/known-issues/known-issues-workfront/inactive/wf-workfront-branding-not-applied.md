@@ -1,13 +1,13 @@
 ---
 title: 'Workfront: Branding ist nicht verfügbar'
-description: Beim Versuch, Dateien in den Branding-Bereich von Setup hochzuladen, scheinen die Dateien korrekt hochgeladen zu werden. Wenn jedoch das Hauptmenü angezeigt wird, ist das Logo nicht zu sehen. Stattdessen wird ihnen eine Fehlermeldung angezeigt.
+description: Das Branding ist nicht für Organisationen verfügbar, die auf Adobe Admin Console, Adobe Unified Shell oder Adobe IMS (Identity Management-System) migriert wurden.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 

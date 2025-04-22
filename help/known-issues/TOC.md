@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
-ht-degree: 54%
+source-wordcount: '1625'
+ht-degree: 60%
 
 ---
 
@@ -50,50 +50,29 @@ ht-degree: 54%
       + [Startseite: Schaltflächen „Genehmigung ausstehend“ fehlen im Widget „Genehmigung ausstehend“](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Benutzende: Doppeltes Konto beim Wechsel des Systemadministrators erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projekte: Späte Bedingung wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [Benutzerdefinierte Formulare: Benutzerdefiniertes Formular wird im alten Format angezeigt](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Rechnungsnachweis: Stunden werden nicht gespeichert](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Pinnwände: Karte kann nicht in eine andere Spalte verschoben werden](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Benutzerdefinierte Formulare: Meldung „Ungültige Felder“ beim Bearbeiten eines benutzerdefinierten Formulars](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Benutzer: Die Massenaktualisierung von Benutzern ist sehr langsam](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [Benutzerdefinierte Formulare: Optionsschaltflächen werden horizontal aufgelistet](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Aktualisierungen: Protokollierte Stunden werden nicht auf der Protokollzeitbeschriftung im Bereich Aktualisierungen angezeigt](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Berichte: Bericht-Eingabeaufforderungen werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Benachrichtigungen: Push-Benachrichtigungen an die Workfront Mobile App funktionieren nicht](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Dokumente: Im Bereich Dokumente werden nicht alle Dokumente angezeigt](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [Benutzerdefinierte Formulare: Fehler beim Bearbeiten eines benutzerdefinierten Formulars durch eine Spalte](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Anfragen und Probleme: Fehler mit erweiterten Benutzerzuweisungen](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Benutzerdefinierte Formulare: Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile: Storys in einer Iteration können nicht stapelweise bearbeitet werden](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [Korrekturabzüge: Empfänger können nicht zum Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [Korrekturabzüge: Name des Korrekturabzugs wird nicht auf der Browser-Registerkarte angezeigt](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [Aufgaben: Hoppla-Fehler beim Hinzufügen persönlicher Aufgaben](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Genehmigungen: Delegierte Genehmigungen werden für Delegierte nicht angezeigt](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Dokumente: Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [Aufgaben: Feld Bereit zum Start wird trotz abgeschlossener Vorgänger nicht aktualisiert](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront: Datumsformatänderungen im gesamten Programm](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: ZScaler-Einstellungen können die Leistung beeinträchtigen](known-issues-workfront//wf-workfront-zscaler.md)
-      + [Arbeitszeittabellen: Mitwirkende haben die Schaltfläche „Zur Genehmigung einreichen“](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Benutzerdefinierte Formulare: Aufgabenfelder „estimatedByHours“ oder „hoursPerPoint“ können nicht hinzugefügt werden](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Dokumente: Genehmigung „Quick Add“ enthält keine Termineingabe für neue Versionen](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Layout-Vorlagen: Administratoren können die Layoutvorlagen der Startseite nicht bearbeiten](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [Benutzende: Tag „Unregistered“ bleibt nach der Anmeldung bestehen](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Genehmigungen: Filter „Alle“ schließt persönlich gesendete Genehmigungen aus](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Aufgaben: Verstrichene Tage sind für übergeordnete Aufgaben mit untergeordneten Elementen falsch.](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Berichte: Massenbearbeitung in Diagrammlisten reagiert nicht](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [Berichte: Berichte können nicht geladen werden](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenzusammenfassung hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [Startseite: Das Widget Meine Aktualisierungen funktioniert nicht](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Dokumente: Schaltfläche für Genehmigungsoptionen fehlt in Dokumenten](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Integrationen: JumpSeat-Integrationen schlagen für Organisationen auf Unified Shell fehl](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Korrekturabzüge: Korrekturabzüge können nicht in der Vorschauumgebung erstellt werden](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Prioritäten: Gruppierungen verhindern Sortierung und Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [Projekte: Projekte können aufgrund des Fehlers „Zugriff zum Löschen“ nicht freigegeben werden](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [Berichte: Es kann nicht gescrollt werden, um den gesamten Diagrammbericht anzuzeigen.](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Gruppen: Der Status Gelöschte Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Benachrichtigungen: Mitwirkende erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

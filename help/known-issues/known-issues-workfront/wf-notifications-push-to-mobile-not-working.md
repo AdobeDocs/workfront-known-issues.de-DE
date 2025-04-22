@@ -4,10 +4,10 @@ description: Wenn ein Ereignis eintritt, bei dem eine Push-Benachrichtigung an d
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Dieses Problem wurde am 22. Januar 2025 behoben.
+>Dieses Problem wurde am Donnerstag, 22. Januar 2025 behoben.
 
 Wenn ein Ereignis eintritt, bei dem eine Push-Benachrichtigung an die Workfront Mobile App Trigger werden sollte, wird die Benachrichtigung nicht empfangen.
 

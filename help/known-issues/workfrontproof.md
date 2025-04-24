@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 87%
+ht-degree: 98%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | Dienstag, 17. März 2025 |
-| [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | Freitag, 20. Februar 2025 |
+| [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 17. März 2025 |
+| [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20. Februar 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -38,8 +38,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
 | [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | Freitag, 17. April 2025 |
-| [Aktualisierungen: Einige Benutzer können Bilder oder Dokumente, die an Kommentare angehängt sind, nicht sehen](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | Dienstag, 10. März 2025 |
-| [Korrekturabzüge: Genehmigte Korrekturabzüge werden in Berichten angezeigt](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | Mittwoch, 11. Februar 2025 |
+| [Aktualisierungen: Einige Benutzende können keine Bilder oder Dokumente sehen, die an Kommentare angehängt sind](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10. März 2025 |
+| [Korrekturabzüge: Genehmigte Korrekturabzüge werden in Berichten angezeigt](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11. Februar 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8. Mai 2024 |
 
@@ -51,8 +51,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Korrekturabzüge für Videos, die von AEM über Fusion verknüpft sind, können nicht erstellt werden](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | Freitag, 13. Februar 2025 |
-| [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | Samstag, 20. Dezember 2024 |
+| [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13. Februar 2025 |
+| [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20. Dezember 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7. Juni 2024 |
 | [Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16. November 2023 |
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |

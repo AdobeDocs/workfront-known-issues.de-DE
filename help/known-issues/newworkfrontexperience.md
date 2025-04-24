@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
 source-wordcount: '940'
-ht-degree: 72%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Vorlagen: Freigabe für Contribute-Zugriff nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | Samstag, 11. April 2025 |
-| [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | Freitag, 20. Februar 2025 |
+| [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20. Februar 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
 | [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | Freitag, 17. April 2025 |
-| [Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | Freitag, 6. März 2025 |
+| [Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6. März 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
 {style="table-layout:auto"}
@@ -49,39 +49,39 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: Offene Browser-Registerkarten werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 22. April 2025 |
+| [Workfront: Offen gelassene Registerkarten im Browser werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md) | Mittwoch, 22. April 2025 |
 | [Filter: Das Dropdown-Menü wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | Donnerstag, 26. März 2025 |
-| [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | Freitag, 13. März 2025 |
-| [Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | Freitag, 13. März 2025 |
-| [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | Mittwoch, 4. März 2025 |
-| [Benachrichtigungen: E-Mails duplizieren](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | Freitag, 27. Februar 2025 |
-| [Dokumente: Kann nicht in die AEM-Ordnerdokumentliste hochgeladen werden](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | Freitag, 27. Februar 2025 |
-| [Integrationen: Anmeldung bei Workfront for Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | Freitag, 20. Februar 2025 |
-| [Projekte: Späte Bedingung wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | Dienstag, 20. Januar 2025 |
-| [Benutzerdefinierte Formulare: Unternehmen fehlen im benutzerdefinierten Feld für automatische Textvervollständigung](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | Freitag, 20. Februar 2025 |
-| [Korrekturabzüge: Korrekturabzüge für Videos, die von AEM über Fusion verknüpft sind, können nicht erstellt werden](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | Freitag, 13. Februar 2025 |
-| [Anmelden als: Die Layoutvorlage Startseite des Administrators wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | Freitag, 23. Januar 2025 |
-| [Berichte: Berichtaufforderungen werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md) | Mittwoch, 16. Januar 2024 |
-| [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | Samstag, 20. Dezember 2024 |
-| [Workfront: Datumsformatänderungen im gesamten Programm](known-issues-workfront/wf-workfront-date-format-changing.md) | Samstag, 20. Dezember 2024 |
-| [Genehmigungen: Delegierte Genehmigungen werden für Delegierte nicht angezeigt](known-issues-workfront/wf-approvals-delegation-not-working.md) | Samstag, 20. Dezember 2024 |
-| [Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor BizContext-Fehler)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | Mittwoch, 10. Dezember 2024 |
-| [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenzusammenfassung hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | Dienstag, 4. November 2024 |
-| [Benachrichtigungen: E-Mail-Benachrichtigungen für nicht gesendete Aktualisierungen](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | Freitag, 5. Dezember 2024 |
-| [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | Freitag, 5. Dezember 2024 |
-| [Workfront: ZScaler-Einstellungen können zu Leistungseinbußen führen](known-issues-workfront//wf-workfront-zscaler.md) | Donnerstag, 20. November 2024 |
-| [Benachrichtigungen: Mitwirkende erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | Mittwoch, 12. November 2024 |
-| [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | Mittwoch, 29. Oktober 2024 |
-| [Berichte: Fehler beim Exportieren eines Berichts](known-issues-workfront/wf-reports-error-cache-content.md) | Dienstag, 14. Oktober 2024 |
-| [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | Mittwoch, 8. Oktober 2024 |
-| [Prioritäten: Gruppierungen verhindern das Sortieren und die Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | Mittwoch, 8. Oktober 2024 |
-| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 5. September 2024 |
-| [Berichte: Es kann nicht gescrollt werden, um den gesamten Diagrammbericht anzuzeigen](known-issues-workfront/wf-reports-unable-to-scroll.md) | Freitag, 19. September 2024 |
-| [Workfront: Mehrere Browser-Registerkarten führen dazu, dass sich Workfront abmeldet](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | Donnerstag, 18. September 2024 |
-| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | Freitag, 12. September 2024 |
-| [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt | Samstag, 30. August 2024 |
-| [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | Samstag, 30. August 2024 |
-| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Mittwoch, 27. August 2024 |
+| [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13. März 2025 |
+| [Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | 13. März 2025 |
+| [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4. März 2025 |
+| [Benachrichtigungen: Duplizieren von E-Mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27. Februar 2025 |
+| [Dokumente: Ladevorgänge in die Liste der AEM-Ordnerdokumente sind nicht möglich](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27. Februar 2025 |
+| [Integrationen: Anmelden bei Workfront for Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20. Februar 2025 |
+| [Projekte: Die Bedingung „Verspätet“ wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20. Januar 2025 |
+| [Benutzerdefinierte Formulare: Fehlende Firmen im benutzerdefinierten Feld für automatische Vervollständigung](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20. Februar 2025 |
+| [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13. Februar 2025 |
+| [Anmelden als: Startseiten-Layout-Vorlage von Admins wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 23. Januar 2025 |
+| [Berichte: Bericht-Prompts werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 16. Januar 2024 |
+| [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20. Dezember 2024 |
+| [Workfront: Änderungen des Datumsformats in der gesamten Anwendung](known-issues-workfront/wf-workfront-date-format-changing.md) | 20. Dezember 2024 |
+| [Genehmigungen: Delegierte Genehmigungen werden für Beauftragte nicht angezeigt](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20. Dezember 2024 |
+| [Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor BizContext-Fehler)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10. Dezember 2024 |
+| [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenübersicht hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4. November 2024 |
+| [Benachrichtigungen: E-Mail-Benachrichtigungen für Aktualisierungen werden nicht gesendet](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5. Dezember 2024 |
+| [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5. Dezember 2024 |
+| [Workfront: ZScaler-Einstellungen können die Leistung beeinträchtigen](known-issues-workfront//wf-workfront-zscaler.md) | 20. November 2024 |
+| [Benachrichtigungen: Mitwirkende erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 12. November 2024 |
+| [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 29. Oktober 2024 |
+| [Berichte: Fehler beim Exportieren von Berichten](known-issues-workfront/wf-reports-error-cache-content.md) | 14. Oktober 2024 |
+| [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8. Oktober 2024 |
+| [Prioritäten: Gruppierungen verhindern das Sortieren und die Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8. Oktober 2024 |
+| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | 5. September 2024 |
+| [Berichte: Es kann nicht gescrollt werden, um den gesamten Diagrammbericht anzuzeigen](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19. September 2024 |
+| [Workfront: Mehrere Registerkarten im Browser führen zur Abmeldung von Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18. September 2024 |
+| [Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md) | 12. September 2024 |
+| [Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt | 30. August 2024 |
+| [Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück](known-issues-workfront/wf-navigation-back-button-not-work.md) | 30. August 2024 |
+| [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 27. August 2024 |
 | [Startseite: Das Widget „Meine Probleme“ zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | Freitag, 20. Juni 2024 |
 | [Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | Donnerstag, 12. Juni 2024 |
 | [Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7. Juni 2024 |

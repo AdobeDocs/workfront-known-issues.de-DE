@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7208bf6b6ab3ca990aae9dd417dbe80a1a661a77
 workflow-type: tm+mt
 source-wordcount: '992'
-ht-degree: 29%
+ht-degree: 93%
 
 ---
 
@@ -70,29 +70,29 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++
 
-+++**Wartungs-Update am Freitag, 20. März 2025**
++++**Wartungs-Update am 20. März 2025**
 
-### Wartungs-Update am Freitag, 20. März 2025
+### Wartungs-Update am 20. März 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update am Freitag, 13. März 2025**
++++**Wartungs-Update am 13. März 2025**
 
-### Wartungs-Update am Freitag, 13. März 2025
+### Wartungs-Update am 13. März 2025
 
 #### Berichte
 
-**Anzahl der Elemente im Diagramm ist ungenau**
+**Anzahl der Elemente im Diagramm ist nicht korrekt**
 
-Klicken Sie in einem Dashboard-Bericht auf ein Diagrammergebnis mit mehr als 15 Elementen und wählen Sie die Auswahl aus, um nur 15 Ergebnisse wie erwartet anzuzeigen. Wenn Sie denselben Bericht jedoch außerhalb des Dashboards öffnen und auf dasselbe Diagrammergebnis klicken, zeigt dies an, dass alle Elemente angezeigt werden, tatsächlich jedoch nur 15 angezeigt werden.
+In einem Dashboard-Bericht funktioniert das Klicken auf ein Diagrammergebnis mit mehr als 15 Elementen und das Auswählen der Anzeige von nur 15 Elementen wie erwartet. Wird derselbe Bericht jedoch außerhalb des Dashboards geöffnet und auf dasselbe Diagrammergebnis geklickt, gibt es an, dass alle Elemente angezeigt werden, tatsächlich werden jedoch nur 15 Elemente angezeigt.
 
 +++
 
-+++**Wartungs-Update am Freitag, 6. März 2025**
++++**Wartungs-Update am 6. März 2025**
 
-### Wartungs-Update am Freitag, 6. März 2025
+### Wartungs-Update am 6. März 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
@@ -100,9 +100,9 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ## Updates im Februar 2025
 
-+++**Wartungs-Update am Freitag, 27. Februar 2025**
++++**Wartungs-Update am 27. Februar 2025**
 
-### Wartungs-Update am Freitag, 27. Februar 2025
+### Wartungs-Update am 27. Februar 2025
 
 #### Gruppen
 
@@ -112,129 +112,129 @@ Beim Versuch, die Administratorzugriffsebene für eine Gruppe freizugeben, reagi
 
 +++
 
-+++**Wartungs-Update am Freitag, 20. Februar 2025**
++++**Wartungs-Update am 20. Februar 2025**
 
-### Wartungs-Update am Freitag, 20. Februar 2025
+### Wartungs-Update am 20. Februar 2025
 
 #### Benachrichtigungen
 
-**E-Mail- und In-App-Benachrichtigungsverzögerungen**
+**Verzögerungen von E-Mail- und In-App-Benachrichtigungen**
 
-Wenn ein Ereignis eintritt, bei dem Trigger-E-Mails oder In-App-Benachrichtigungen senden sollten, werden die Benachrichtigungen zum Zeitpunkt des Ereignisses nicht gesendet. Es kann stattdessen bis zu ein paar Stunden dauern, bis sie gesendet werden.
+Wenn ein Ereignis eintritt, das E-Mail- oder In-App-Benachrichtigungen auslösen sollte, werden die Benachrichtigungen nicht zum Zeitpunkt des Ereignisses gesendet. Stattdessen kann es bis zu mehrere Stunden dauern, bis sie gesendet werden.
 
 #### Aufgaben
 
-**Protokollierte Stunde verbleibt im vorherigen Projekt, sobald sie verschoben wurde**
+**Protokollierte Stunde verbleibt nach dem Verschieben im vorherigen Projekt**
 
-Nachdem Aufgaben in ein neues Projekt verschoben wurden, enthält die Summe der Projektstunden für das ursprüngliche Projekt Stunden für die verschobenen Aufgaben. Die Aufgaben behalten ihre protokollierten Stunden im neuen Projekt weiterhin ordnungsgemäß bei.
+Nachdem Aufgaben zu einem neuen Projekt verschoben wurden, enthält die Summe der Projektstunden für das ursprüngliche Projekt die Stunden für die verschobenen Aufgaben. Die Aufgaben behalten ihre protokollierten Stunden im neuen Projekt weiterhin ordnungsgemäß bei.
 
-#### Arbeitszeit- tabellen
+#### Arbeitszeittabellen
 
-**Falsche Gesamtstunden**
+**Falsche Angabe für „Stunden gesamt“**
 
-Bei der Berechnung der Gesamtstundenzahl von Arbeitszeittabellen wird gelegentlich eine falsche Summe angezeigt.
+Bei der Berechnung für „Stunden gesamt“ in Arbeitszeittabellen wird gelegentlich eine falsche Summe angezeigt.
 
 +++
 
-+++**Wartungs-Update am Freitag, 13. Februar 2025**
++++**Wartungs-Update am 13. Februar 2025**
 
-### Wartungs-Update am Freitag, 13. Februar 2025
+### Wartungs-Update am 13. Februar 2025
 
 #### Benutzerdefinierte Formulare
 
-**Benutzerdefinierte Daten werden nicht im Zusammenfassungsbereich angezeigt**
+**Benutzerdefinierte Daten werden nicht im Panel „Zusammenfassung“ angezeigt**
 
-Wenn eine Kundin oder ein Kunde das Bedienfeld Zusammenfassung für eine Aufgabe anzeigt, sind keine benutzerdefinierten Daten vorhanden, die im Bedienfeld Zusammenfassung angezeigt werden sollen. Dies kann auch dann vorkommen, wenn die Layout-Vorlage für Aufgaben die benutzerdefinierten Felder enthält.
+Wenn eine Kundin oder ein Kunde das Panel „Zusammenfassung“ für eine Aufgabe anzeigt, sind keine benutzerdefinierten Daten vorhanden, die eigentlich im Panel „Zusammenfassung“ angezeigt werden sollten. Dies kann auch dann vorkommen, wenn die Layout-Vorlage für Aufgaben die benutzerdefinierten Felder enthält.
 
 #### Berichte
 
-**Eingabeaufforderung bei Anzeigeproblemen**
+**Probleme beim Anzeigen von Prompts**
 
-Beim Zugriff auf einen Bericht mit einer großen Anzahl von Eingabeaufforderungen erlaubt das Eingabeaufforderungsdialogfeld kein Scrollen, um auf alle Eingabeaufforderungen oder die Schaltfläche Bericht ausführen zuzugreifen.
+Beim Zugriff auf einen Prompt-Bericht mit einer großen Anzahl an Prompts ermöglicht das Dialogfeld „Prompt“ kein Scrollen, um auf alle Prompts oder die Schaltfläche „Bericht ausführen“ zuzugreifen.
 
 +++
 
-+++**Wartungs-Update am Freitag, 6. Februar 2025**
++++**Wartungs-Update am 6. Februar 2025**
 
-### Wartungs-Update am Freitag, 6. Februar 2025
+### Wartungs-Update am 6. Februar 2025
 
 #### Listen
 
 **Aufgabenliste kann nach dem Hochladen des Korrekturabzugs nicht bearbeitet werden**
 
-Beim Hochladen eines Korrekturabzugs zu einem Projekt kann die Aufgabenliste für dieses Projekt erst inline bearbeitet werden, wenn die Seite aktualisiert wurde oder der Korrekturabzug das Hochladen abgeschlossen hat.
+Beim Hochladen eines Korrekturabzugs in ein Projekt kann die Aufgabenliste für dieses Projekt erst dann inline bearbeitet werden, wenn die Seite aktualisiert wurde oder der Korrekturabzug vollständig hochgeladen wurde.
 
 +++
 
 ## Updates im Januar 2025
 
-+++**Wartungs-Update am Freitag, 30. Januar 2025**
++++**Wartungs-Update am 30. Januar 2025**
 
-### Wartungs-Update am Freitag, 30. Januar 2025
+### Wartungs-Update am 30. Januar 2025
 
 #### Startseite
 
 **Genehmigungen werden nicht im Startseiten-Widget angezeigt**
 
-Von einem Benutzer gesendete Genehmigungen werden nicht im eigenen Widget Meine Genehmigungen angezeigt, selbst wenn sie gefiltert werden, um sie spezifisch anzuzeigen.
+Von Benutzenden gesendete Genehmigungen werden nicht in ihrem eigenen Widget „Meine Genehmigungen“ angezeigt, selbst wenn sie für eine spezifische Anzeige gefiltert werden.
 
 #### Berichte
 
-**Stundenberichte enthalten falsche Datumsangaben**
+**Stundenberichtsfilter enthalten falsche Daten**
 
-Wenn ein Stundenbericht so gefiltert wird, dass nur ein bestimmtes Datum angezeigt wird, ist ein anderes angrenzendes Datum tatsächlich im Bericht enthalten. Dieses Problem scheint mit den Zeitzoneneinstellungen in Zusammenhang zu stehen.
+Wenn ein Stundenbericht auf die Anzeige von nur einem spezifischen Datum gefiltert wird, wird tatsächlich ein anderes, angrenzendes Datum in den Bericht aufgenommen. Dieses Problem scheint mit den Zeitzoneneinstellungen in Zusammenhang zu stehen.
 
 +++
 
-+++**Wartungs-Update am Freitag, 23. Januar 2025**
++++**Wartungs-Update am 23. Januar 2025**
 
-### Wartungs-Update am Freitag, 23. Januar 2025
+### Wartungs-Update am 23. Januar 2025
 
 #### Berichte
 
 **Benutzerdefinierte Währungsfelder verursachen einen Berichtsfehler**
 
-Wenn eine Berichtsansicht zwei oder mehr benutzerdefinierte Währungsfelder enthält, gibt der Bericht den Fehler und zurück.
+Wenn eine Berichtsansicht zwei oder mehr benutzerdefinierte Währungsfelder enthält, gibt der Bericht einen Fehler zurück.
 
 #### Benutzende
 
-**Tag „Unregistered“ bleibt nach der Anmeldung bestehen**
+**Tag „Nicht registriert“ bleibt nach der Anmeldung bestehen**
 
-Trotz mindestens einmaliger erfolgreicher Anmeldung verliert das Tag „unregistered“ nicht wie für neue Benutzer erwartet.
+Trotz ein- oder mehrmaliger erfolgreicher Anmeldung verschwindet das Tag „Nicht registriert“ nicht wie für neue Benutzende erwartet.
 
 +++
 
-+++**Wartungs-Update am Freitag, 16. Januar 2025**
++++**Wartungs-Update am 16. Januar 2025**
 
-### Wartungs-Update am Freitag, 16. Januar 2025
+### Wartungs-Update am 16. Januar 2025
 
 #### Dokumente
 
-**Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
+**Fehler „Ungespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
 
-Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Nicht gespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit dem Programm verhindert.
+Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Ungespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit der Anwendung verhindert.
 
 #### Korrekturabzüge
 
-**Der Name des Korrekturabzugs wird nicht auf der Browser-Registerkarte angezeigt**
+**Der Name des Korrekturabzugs wird nicht auf der Registerkarte im Browser angezeigt**
 
-Wenn ein(e) Benutzende(r) einen Korrekturabzug aufruft, ist der Name des Korrekturabzugs auf der Browser-Registerkarte nicht sichtbar. Stattdessen wird auf der Browser-Registerkarte &quot;Workfront&quot; angezeigt.
+Wenn Benutzende einen Korrekturabzug anzeigen, ist der Name des Korrekturabzugs auf der Registerkarte im Browser nicht sichtbar. Stattdessen wird auf der Registerkarte im Browser „Workfront“ angezeigt.
 
-#### Anfragen und Probleme
+#### Aufgaben und Probleme
 
 **Fehler bei erweiterten Benutzerzuweisungen**
 
-Wenn ein(e) Benutzende(r) versucht, eine erweiterte Benutzerzuweisung für eine Anfrage oder ein Problem vorzunehmen, wird dem/r Benutzenden nicht zugewiesen und die folgende Fehlermeldung wird angezeigt:
+Beim Versuch, in Workfront eine erweiterte Benutzerzuweisung für eine Anfrage oder ein Problem vorzunehmen, wird die Benutzerin bzw. der Benutzer nicht zugewiesen und die Person erhält die folgende Fehlermeldung:
 
 „Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
 Das Aktualisieren der Browser-Seite funktioniert nicht.
 
-#### Anforde- rungen
+#### Anforderungen
 
 **Anfragen können nicht in Vorschauumgebungen erstellt werden**
 
-Beim Versuch, eine neue Anfrage in einer Sandbox-Vorschau-Umgebung zu erstellen, wird ein Fehler angezeigt, der besagt, dass die Anfrage-Warteschlange nicht mehr verfügbar ist und die Anfrage nicht erstellt werden kann.
+Beim Versuch, eine neue Anfrage in einer Sandbox-Vorschauumgebung zu erstellen, wird ein Fehler mit dem Hinweis angezeigt, dass die Anfrage-Warteschlange nicht mehr verfügbar ist, und die Anfrage kann nicht erstellt werden.
 
 +++
 

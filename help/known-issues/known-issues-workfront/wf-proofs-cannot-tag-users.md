@@ -1,13 +1,13 @@
 ---
 title: 'Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden'
-description: Wenn ein(e) Benutzende(r) versucht, in einem Korrekturabzug eine(n) andere(n) Benutzende(n) zu taggen, sind im Feld mit automatischer Textvervollständigung gelegentlich einige Benutzende nicht verfügbar.
+description: Beim Versuch, eine andere Benutzerin oder einen anderen Benutzer in einem Korrekturabzug zu taggen, sind einige Benutzende im Feld für automatische Vervollständigung gelegentlich nicht verfügbar.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 6%
 >
 >This issue was fixed on February 7, 2025.-->
 
-Wenn ein(e) Benutzende(r) versucht, in einem Korrekturabzug eine(n) andere(n) Benutzende(n) zu taggen, sind im Feld mit automatischer Textvervollständigung gelegentlich einige Benutzende nicht verfügbar.
+Beim Versuch, eine andere Benutzerin oder einen anderen Benutzer in einem Korrekturabzug zu taggen, sind einige Benutzende im Feld für automatische Vervollständigung gelegentlich nicht verfügbar.
 
-_Erste Meldung am Samstag, 10. Januar 2025._
+_Erste Meldung am 10. Januar 2025._

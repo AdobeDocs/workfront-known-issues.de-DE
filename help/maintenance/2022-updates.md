@@ -4,9 +4,9 @@ description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16794'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1083,8 +1083,8 @@ Jetzt enthalten die Korrekturabzugs-E-Mail-Adressen keine Unternehmens-Subdomain
 
 Daher empfehlen wir, die folgenden Aktionen durchzuführen, falls Sie dies noch nicht getan haben:
 
-* Spam-Filter aktualisieren, um E-Mails von `notification@my.workfront.com` zu akzeptieren
-* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von `notification@my.workfront.com` zu akzeptieren
+* Aktualisieren Sie Ihre Spam-Filter, um E-Mails von `notification@my.workfront.com` zuzulassen.
+* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von `notification@my.workfront.com` zuzulassen.
   **Benutzeroptionen können nach der erstmaligen Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
 
 *[!DNL Workfront Proof]*
@@ -1496,11 +1496,11 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu erstellen, ist der T
 
 +++**Wartungs-Update vom 5. Mai 2022**
 
-**Neuer Rechnungs-Datensatz kann nicht hinzugefügt werden**
+**Neuer Abrechnungseintrag kann nicht hinzugefügt werden**
 
 *Projekte*
 
-Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungs-Datensätze] eines Projekts befindet und die Ansicht [!UICONTROL Neuer Abrechnungs-Datensatz] geöffnet hat und versucht, einen neuen Abrechnungs-Datensatz hinzuzufügen, werden die Felder für den neuen Abrechnungs-Datensatz nicht angezeigt und der Abrechnungs-Datensatz kann nicht erstellt werden.
+Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Abrechnungeinträge] eines Projekts befindet und die Ansicht [!UICONTROL Neuer Abrechnungseintrag] geöffnet hat und versucht, einen neuen Abrechnungseintrag hinzuzufügen, werden die Felder für den neuen Abrechnungseintrag nicht angezeigt und der Abrechnungseintrag kann nicht erstellt werden.
 
 **Fehler bei der Massenzuweisung im [!UICONTROL Workload-Balancer]**
 
@@ -1802,7 +1802,7 @@ Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konv
 
 **Benutzerdefiniertes objektübergreifendes Formular kann nicht an Anfrage-Warteschlange angehängt werden**
 
-Anforde- rungen
+Anforderungen
 
 Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifendes Formular zur Detailseite einer Warteschlange hinzuzufügen, wird das objektübergreifende Formular nicht in der Dropdown-Liste der verfügbaren Formulare angezeigt und der/die Benutzende kann es nicht auswählen, um es zu den Warteschlangendetails hinzuzufügen.
 

@@ -1,33 +1,33 @@
 ---
 title: 'Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook'
-description: Wenn ein(e) Benutzende(r) die Workfront for Outlook-Integration verwendet, wird möglicherweise ein Fehler angezeigt.
+description: Wenn Benutzende die Workfront for Outlook-Integration verwenden, wird möglicherweise ein Fehler angezeigt.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19d438b3a368b076aa03a89fe6648ec4b225225f
-workflow-type: tm+mt
+exl-id: a5abe90c-4583-467e-8131-60bead300673
+source-git-commit: fff5428fd0c9a50f20ded044bf0ab251dfde5a6e
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook
 
-Wenn ein(e) Benutzende(r) die Workfront for Outlook-Integration verwendet, wird möglicherweise der folgende Fehler angezeigt:
+Wenn Benutzende die Workfront for Outlook-Integration verwenden, wird möglicherweise der folgende Fehler angezeigt:
 
 ```
 Unexpected error
 Unable to get the outlookIdentityToken
 ```
 
-**Problemumgehung**
+**Umgehungslösung**
 
 
-Um diesen Fehler zu beheben, müssen Sie ältere Microsoft 365-Token für Ihr Unternehmen aktivieren. Da dies in Microsoft 365 erfolgen muss, kann Workfront diese Token für Ihr Unternehmen nicht aktivieren.
+Um diesen Fehler zu beheben, müssen Sie Microsoft 365-Legacytoken für Ihr Unternehmen aktivieren. Da dies in Microsoft 365 erfolgen muss, kann Workfront diese Token nicht für Ihr Unternehmen aktivieren.
 
-Anweisungen zur Aktivierung veralteter Microsoft 365-Token finden Sie unter [Aktivieren oder Deaktivieren veralteter Exchange Online-Token](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/turn-exchange-tokens-on-off) in der Dokumentation zu Microsoft.
+Anweisungen zum Aktivieren von Microsoft 365-Legacytoken finden Sie unter [Aktivieren oder Deaktivieren von Legacytoken](https://learn.microsoft.com/de-de/office/dev/add-ins/outlook/turn-exchange-tokens-on-off) in der Dokumentation zu Microsoft.
 
-Weitere Informationen zu älteren Token finden Sie unter [Kann ich ältere Exchange Online-Token wieder aktivieren?](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/faq-nested-app-auth-outlook-legacy-tokens#can-i-turn-exchange-online-legacy-tokens-back-on) in der Dokumentation zu Microsoft.
+Weitere Informationen zu Legacytoken finden Sie unter [Kann ich Exchange Online Legacytoken wieder aktivieren?](https://learn.microsoft.com/de-de/office/dev/add-ins/outlook/faq-nested-app-auth-outlook-legacy-tokens#can-i-turn-exchange-online-legacy-tokens-back-on) in der Dokumentation zu Microsoft.
 
 
 _Erste Meldung am 3. März 2025, 2024._

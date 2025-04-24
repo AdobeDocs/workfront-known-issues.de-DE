@@ -1,18 +1,18 @@
 ---
-title: 'Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden'
-description: Wenn ein(e) Gruppen-Administrator(in) versucht, sich als ein(e) andere(r) Benutzende(r) anzumelden, wird er/sie nicht als Benutzer(in) angemeldet. Stattdessen wird im Banner Anmelden als der Name des Gruppenadministrators angezeigt und der Gruppenadministrator sieht sein eigenes Konto.
+title: 'Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden'
+description: Wenn Gruppen-Admins versuchen, sich als eine andere Person anzumelden, werden sie nicht als diese Person angemeldet. Stattdessen wird im Banner „Angemeldet als“ der Name der Gruppen-Admins angezeigt und sie sehen ihr eigenes Konto.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
-workflow-type: tm+mt
+exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
+source-git-commit: 7de2c762d323b8ab457d694edc447fb538ab1eb4
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden
 
-# Anmelden als: Gruppenadministratoren können sich nicht als ein anderer Benutzer anmelden
+Wenn Gruppen-Admins versuchen, sich als eine andere Person anzumelden, werden sie nicht als diese Person angemeldet. Stattdessen wird im Banner „Angemeldet als“ der Name der Gruppen-Admins angezeigt und sie sehen ihr eigenes Konto.
 
-Wenn ein(e) Gruppen-Administrator(in) versucht, sich als ein(e) andere(r) Benutzende(r) anzumelden, wird er/sie nicht als Benutzer(in) angemeldet. Stattdessen wird im Banner „Angemeldet als“ der Name des Gruppenadministrators angezeigt, und der Gruppenadministrator sieht sein eigenes Konto.
-
-_Erste Meldung am Mittwoch, 18. Februar 2025._
+_Erste Meldung am 18. Februar 2025._

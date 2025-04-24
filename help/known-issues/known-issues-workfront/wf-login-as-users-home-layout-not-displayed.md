@@ -1,22 +1,22 @@
 ---
-title: 'Melden Sie sich als an: Layoutvorlage Startseite des Administrators wird angezeigt'
-description: Wenn sich ein(e) Administrator(in) als ein(e) andere(r) Benutzende(r) anmeldet und zu Layout-Vorlagen im Setup navigiert, wird seine/ihre eigene Startseiten-Layout-Vorlage anstelle des/r Benutzenden angezeigt, unter dem/der er/sie angemeldet ist.
+title: 'Anmelden als: Startseiten-Layout-Vorlage von Admins wird angezeigt'
+description: Wenn sich Admins als eine andere Person anmelden und zu Layout-Vorlagen unter „Setup“ navigieren, wird ihre eigene Startseiten-Layout-Vorlage angezeigt und nicht die Vorlage der Person, als der sie angemeldet sind.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
-# Anmelden als: Die Layoutvorlage Startseite des Administrators wird angezeigt
+# Anmelden als: Startseiten-Layout-Vorlage von Admins wird angezeigt
 
 >[!NOTE]
 >
 >Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
-Wenn sich ein(e) Administrator(in) als ein(e) andere(r) Benutzende(r) anmeldet und zu Layout-Vorlagen im Setup navigiert, wird seine/ihre eigene Startseiten-Layout-Vorlage anstelle des/r Benutzenden angezeigt, unter dem/der er/sie angemeldet ist.
+Wenn sich Admins als eine andere Person anmelden und zu Layout-Vorlagen unter „Setup“ navigieren, wird ihre eigene Startseiten-Layout-Vorlage angezeigt und nicht die Vorlage der Person, als der sie angemeldet sind.
 
-_Erste Meldung am Samstag, 10. Januar 2025._
+_Erste Meldung am 10. Januar 2025._

@@ -1,22 +1,22 @@
 ---
-title: 'Aufgaben: Filter und Ansichten auf Projektebene, die für Aufgaben verfügbar sind'
-description: Beim Öffnen der Filter- oder Ansichtslisten für eine Aufgabe werden Filter und Ansichten, die auf Projektebene erstellt wurden, in der Optionsliste angezeigt.
+title: 'Aufgaben: Filter und Ansichten auf Projektebene sind für Aufgaben verfügbar'
+description: Wenn die Filter- oder Ansichtslisten für eine Aufgabe geöffnet werden, erscheinen die auf Projektebene erstellten Filter und Ansichten in der Liste der Optionen.
 hidefromtoc: true
 feature: Tasks
 exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# Aufgaben: Filter und Ansichten auf Projektebene, die für Aufgaben verfügbar sind
+# Aufgaben: Filter und Ansichten auf Projektebene sind für Aufgaben verfügbar
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 21. Februar 2025 behoben.
+>Dieses Problem wurde am 21. Februar 2025 behoben.
 
-Beim Öffnen der Filter- oder Ansichtslisten für eine Aufgabe werden Filter und Ansichten, die auf Projektebene erstellt wurden, in der Optionsliste angezeigt.
+Wenn die Filter- oder Ansichtslisten für eine Aufgabe geöffnet werden, erscheinen die auf Projektebene erstellten Filter und Ansichten in der Liste der Optionen.
 
-_Erste Meldung am Dienstag, 27. Januar 2025._
+_Erste Meldung am 27. Januar 2025._

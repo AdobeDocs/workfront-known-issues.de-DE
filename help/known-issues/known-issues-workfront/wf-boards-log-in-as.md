@@ -1,13 +1,13 @@
 ---
-title: 'Pinnwände: Pinnwand wird nicht als Benutzer angezeigt, wenn Anmelden als verwendet wird'
+title: 'Pinnwände: Pinnwand wird bei Verwendung von „Anmelden als“ nicht als Benutzerin oder Benutzer angezeigt'
 description: Wenn sich eine oder ein Admin bzw. eine oder ein Gruppen-Admin als eine andere Benutzerin oder ein anderer Benutzer anmeldet und Pinnwände anzeigt, werden die Pinnwände der oder des Admins angezeigt, nicht die der Benutzerin oder des Benutzers.
 hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

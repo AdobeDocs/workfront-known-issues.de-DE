@@ -1,13 +1,13 @@
 ---
-title: 'Startseite: Die Schaltfläche Im Korrekturabzug antworten funktioniert nicht ordnungsgemäß'
+title: 'Startseite: Die Schaltfläche „In Proof antworten“ funktioniert nicht ordnungsgemäß'
 description: Wenn ein(e) Benutzende(r) in der neuen  [!DNL Adobe Workfront] -Version im Bereich [!UICONTROL Startseite] im rechten Bedienfeld einen Korrekturabzug öffnet und bei einem Kommentar auf [!UICONTROL Im Korrekturabzug antworten] klickt, wird ein Textfeld angezeigt, in dem er/sie im Bereich [!UICONTROL Dokumentaktualisierungen] eine Aktualisierung hinterlassen kann, anstatt wie vorgesehen zur Korrekturabzugsanzeige weitergeleitet zu werden.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
 source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

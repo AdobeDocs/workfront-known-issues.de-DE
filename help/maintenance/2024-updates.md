@@ -2,10 +2,11 @@
 title: Wartungs-Updates für Workfront in 2024
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 67%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der Seite [Adobe-Status](https://status.adobe.com/).
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
@@ -21,11 +22,11 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 
 Informationen zu Wartungs-Updates, die vor 2024 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
-Die folgenden Wartungs-Updates wurden 2024 vorgenommen.
+Die folgenden Wartungs-Updates wurden im Jahr 2024 vorgenommen.
 
 ## Updates im Dezember 2024
 
-+++**Wartungs-Update vom Freitag, 19. Dezember 2024**
++++**Wartungs-Update vom 19. Dezember 2024**
 
 ### Wartungs-Update vom 19. Dezember 2024
 
@@ -33,7 +34,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++
 
-+++**Wartungs-Update vom Freitag, 12. Dezember 2024**
++++**Wartungs-Update vom 12. Dezember 2024**
 
 ### Wartungs-Update vom 12. Dezember 2024
 
@@ -45,101 +46,101 @@ Beim Sortieren eines in einem Dashboard platzierten Berichts nach einer Spalte w
 
 #### Berichte
 
-**Spalte unter Diagrammoption gruppieren verursacht Fehler**
+**Die Option „Spalte unter Diagramm gruppieren“ verursacht einen Fehler**
 
-Wenn Sie die Option „Spalte unter Diagramm gruppieren“ in einem Bericht mit einem Diagramm aktivieren, wird die folgende Fehlermeldung angezeigt: „Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
+Beim Aktivieren der Option „Spalte unter Diagramm gruppieren“ in einem Bericht mit einem Diagramm wird die folgende Fehlermeldung angezeigt: „Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
-**Symbole zum Massenbearbeiten und Löschen fehlen in Berichten**
+**Symbole für „Massenbearbeitung“ und „Löschen“ fehlen in Berichten**
 
-Wenn Sie versuchen, mehrere Berichtselemente stapelweise zu bearbeiten oder zu löschen, werden die Symbole Bearbeiten und Löschen gelegentlich nicht angezeigt.
+Beim Versuch, mehrere Berichtselemente auf einmal zu bearbeiten oder zu löschen, werden die Symbole „Bearbeiten“ und „Löschen“ gelegentlich nicht angezeigt.
 
 **Fehler in Projektberichten (Finanzdaten)**
 
-Ein Hoppla -Fehler tritt gelegentlich bei Projekt-Berichten (Finanzdaten) sowohl auf der Detailseite als auch auf der Matrixseite auf.
+Ein Fehler vom Typ „Tut uns leid!“ tritt gelegentlich bei Projekt-Berichten (Finanzdaten) sowohl auf der Detailseite als auch auf der Matrixseite auf.
 
-Um dieses Problem zu beheben, werden Projekte in diesem Berichtstyp vor dem Laden der Daten nicht mehr automatisch neu berechnet. Benutzer müssen die Finanzen einzelner Projekte manuell neu berechnen, um die Daten in einem Finanzdatenbericht zu aktualisieren.
+Um dieses Problem zu beheben, werden unter anderem Projekte in diesem Berichtstyp vor dem Laden der Daten nicht mehr automatisch neu berechnet. Die Benutzenden müssen die Finanzen einzelner Projekte manuell neu berechnen, um die Daten in einem Finanzdatenbericht zu aktualisieren.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 5. Dezember 2024**
++++**Wartungs-Update vom 5. Dezember 2024**
 
 ### Wartungs-Update vom 5. Dezember 2024
 
 #### Benutzerdefinierte Formulare
 
-**Aufgabenfelder „estimatedByHours“ oder „hoursPerPoint“**
+**Aufgabenfelder „estimatedByHours“ oder „hoursPerPoint“ können nicht hinzugefügt werden**
 
-Wenn ein(e) Benutzende(r) versucht, die Felder „estimatedByHours“ oder „hoursPerPoint“ zu einem benutzerdefinierten Formular im Formular-Builder hinzuzufügen, wird eine Fehlermeldung angezeigt: „Dies ist ein ungültiger benutzerdefinierter Ausdruck. Bitte erneut versuchen.“
+Beim Versuch, die Felder „estimatedByHours“ oder „hoursPerPoint“ im Formular-Builder zu einem benutzerdefinierten Formular hinzuzufügen, wird diese Fehlermeldung angezeigt: „Dieser benutzerdefinierte Ausdruck ist ungültig. Bitte versuchen Sie es erneut.“
 
 **Anzeigelogik funktioniert nicht in benutzerdefinierten Formularen**
 
-Wenn ein(e) Benutzende(r) Informationen in ein benutzerdefiniertes Formular mit Anzeigelogik eingibt, werden Felder, die basierend auf der Anzeigelogik angezeigt werden sollen, nicht angezeigt.
+Wenn Benutzende Informationen in ein benutzerdefiniertes Formular mit Anzeigelogik eingeben, werden Felder, die basierend auf der Anzeigelogik eigentlich angezeigt werden sollen, nicht angezeigt.
 
 #### Startseite
 
-**Die Schaltfläche „Daran arbeiten“ für die Beitragenden wird nicht angezeigt**
+**Mitwirkenden wird eine nicht funktionierende Schaltfläche „Bearbeiten“ angezeigt**
 
-Mitwirkende haben Zugriff auf eine nicht funktionale Schaltfläche „Bearbeiten“ im Widget „Meine Arbeit“ auf der Startseite.
+Mitwirkende haben auf der Startseite im Widget „Meine Arbeit“ Zugriff auf eine nicht funktionale Schaltfläche „Bearbeiten“.
 
 #### Berichte
 
-**Benutzerdefinierte Quartale werden in Berichtsaufforderungen nicht angezeigt**
+**Benutzerdefinierte Quartale werden nicht in Prompts im Bericht angezeigt**
 
-Wenn ein(e) Benutzende(r) einen Bericht mit einer datumsbasierten Eingabeaufforderung ausführt, werden angepasste Quartale nicht in der Auswahlliste für die Eingabeaufforderung angezeigt.
+Wenn Benutzende einen Bericht mit einem datumsbasierten Prompt ausführen, werden angepasste Quartale nicht in der Auswahlliste für den Prompt angezeigt.
 
 +++
 
 ## Updates im November 2024
 
-+++**Wartungs-Update vom Freitag, 28. November 2024**
++++**Wartungs-Update vom 28. November 2024**
 
 ### Wartungs-Update vom 28. November 2024
 
 #### Projekte
 
-**Projekte können aufgrund des Fehlers „Zugriff zum Löschen“ nicht freigegeben werden**
+**Projekte können aufgrund des Fehlers „Zugriffsrechte zum Löschen“ nicht freigegeben werden**
 
-Beim Versuch, ein Projekt freizugeben, erhält der Benutzer eine Fehlermeldung: „Sie verfügen nicht über genügend Zugriffsrechte, um dieses Projekt zu löschen“. Dies tritt auf, obwohl der/die Benutzende nicht versucht, das Projekt zu löschen, und obwohl der/die Benutzende Projektbesitzer(in) ist und Zugriff auf das Projekt freigibt und verwaltet.
+Beim Versuch, ein Projekt freizugeben, wird Benutzenden der Fehler: „Sie verfügen nicht über genügend Zugriffsrechte, um dieses Projekt zu löschen“ angezeigt. Dies tritt auf, obwohl die Person gar nicht versucht, das Projekt zu löschen, und als Projektbesitzerin bzw. Projektbesitzer über Zugriff auf die Freigabe und die Verwaltung des Projekts verfügt.
 
 #### Berichte
 
 **Feld „Kategoriename“ ist nicht mit benutzerdefiniertem Formular verknüpft**
 
-Wenn Sie eine Liste in einem Bericht anzeigen, der ein Feld für den Kategorienamen enthält, kann der Inhalt der Spalte für den Kategorienamen nicht angeklickt werden, um das entsprechende benutzerdefinierte Formular zu öffnen.
+Wenn eine Liste in einem Bericht mit dem Feld „Kategoriename“ angezeigt wird, kann zum Öffnen des entsprechenden benutzerdefinierten Formulars nicht auf den Inhalt der Spalte „Kategoriename“ geklickt werden.
 
-**Benutzerdefinierte Farben in Berichten gruppieren funktioniert nicht**
+**Benutzerdefinierte Farben für Gruppen in Berichten funktionieren nicht**
 
-Beim Zuweisen einer benutzerdefinierten Farbe zu einer Gruppe in Report Builder wird die Farbauswahl beim Ausführen des Berichts nicht angezeigt.
+Beim Zuweisen einer benutzerdefinierten Farbe zu einer Gruppe im Report Builder wird die Farbauswahl beim Ausführen des Berichts nicht angezeigt.
 
-**Lange Ladezeiten für Berichte**
+**Berichte werden langsam geladen**
 
-Das Laden von Berichten dauert länger. Dies wirkt sich auf die Anzeige von Berichten und deren Bearbeitung und Erstellung im Report Builder aus.
+Es dauert sehr lange, bis Berichte geladen werden. Dies wirkt sich auf die Anzeige von Berichten sowie auf die Bearbeitung und Erstellung von Berichten im Report Builder aus.
 
-**Zeitfeld fehlt für berechnete Datums-/Uhrzeitfelder in den Berichtsaufforderungen**
+**Zeitfeld für berechnete Felder „Datum/Zeit“ fehlt in Berichts-Prompts**
 
-Wenn beim Ausführen eines Berichts ein benutzerdefiniertes Datums-/Uhrzeitfeld als Eingabeaufforderung verwendet wird, fehlt das Zeitauswahlfeld in der Eingabeaufforderungsschnittstelle.
+Wenn beim Ausführen eines Berichts ein benutzerdefiniertes Feld „Datum/Zeit“ als Prompt verwendet wird, fehlt das Zeitauswahlfeld in der Prompt-Benutzeroberfläche.
 
 **Freigegebene Berichte/Dashboards können nicht angezeigt werden**
 
-Wenn ein(e) Benutzende(r) versucht, auf einen Bericht oder ein Dashboard zuzugreifen, der/das für ihn/sie freigegeben wurde, kann nicht auf den Bericht oder das Dashboard zugegriffen werden.
+Wenn Benutzende versuchen, auf einen Bericht oder ein Dashboard zuzugreifen, der bzw. das für sie freigegeben wurde, kann nicht darauf zugegriffen werden.
 
-#### Arbeitszeit- tabellen
+#### Arbeitszeittabellen
 
-**Mitwirkende haben eine Schaltfläche „Zur Genehmigung einreichen“**
+**Mitwirkende verfügen über eine Schaltfläche „Zur Genehmigung einreichen“**
 
-Obwohl es nicht möglich ist, Stunden in Arbeitszeittabellen einzugeben, verfügen Benutzende mit der Zugriffsebene Mitwirkende über eine Schaltfläche „Zur Genehmigung einreichen“, auf die sie klicken können.
+Obwohl sie keine Stunden in Arbeitszeittabellen eingeben können, verfügen Benutzende der Zugriffsebene „Mitwirkender oder Mitwirkende“ über eine Schaltfläche „Zur Genehmigung einreichen“, auf die sie klicken können.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 21. November 2024**
++++**Wartungs-Update vom 21. November 2024**
 
 ### Wartungs-Update vom 21. November 2024
 
 #### Dashboards
 
-**Interaktion mit Balkendiagramm-Berichtsbalken in Dashboards nicht möglich**
+**Interaktion mit Balken im Balkendiagrammbericht eines Dashboards nicht möglich**
 
-Wenn Sie versuchen, in einem Balkendiagrammbericht innerhalb eines Dashboards auf einen Balken zu klicken oder den Mauszeiger darüber zu bewegen, wird das Menü Details nicht geöffnet bzw. es wird keine QuickInfo angezeigt.
+Wenn versucht wird, in einem Balkendiagrammbericht innerhalb eines Dashboards auf einen Balken zu klicken oder den Mauszeiger darüber zu bewegen, wird das Menü „Details“ nicht geöffnet bzw. es wird keine QuickInfo angezeigt.
 
 #### Projekte
 
@@ -149,39 +150,39 @@ Beim Navigieren zu einem Projekt kann es vorkommen, dass auf der Seite keine Inh
 
 #### Berichte
 
-**Massenbearbeitung in Diagrammlisten reagiert nicht**
+**Keine Reaktion bei Massenbearbeitung in Diagrammlisten**
 
-Wenn ein(e) Benutzende(r) ein Diagramm in einem Bericht aufruft und mehrere Elemente in der Liste zur Massenbearbeitung auswählt, verschwindet der Cursor und die Textfelder für die Massenbearbeitung reagieren nicht mehr.
+Wenn Benutzende ein Diagramm in einem Bericht aufrufen und mehrere Elemente in der Liste zur Massenbearbeitung auswählen, verschwindet der Cursor und die Textfelder für die Massenbearbeitung reagieren nicht mehr.
 
-**Bearbeiten und Löschen von Schaltflächen reagieren in Arbeitszeittabellen-Berichten nicht**
+**Schaltflächen „Bearbeiten“ und „Löschen“ reagieren nicht in Arbeitszeittabellen-Berichten**
 
-Beim Versuch, auf die Symbole Bearbeiten oder Löschen in einem Arbeitszeittabellen-Bericht zu klicken, gibt es keine Antwort.
+Auf den Versuch, auf die Symbole „Bearbeiten“ oder „Löschen“ in einem Arbeitszeittabellen-Bericht zu klicken, folgt keine Reaktion.
 
-**Berichte mit Feldern mit automatischer Textvervollständigung können nicht geladen werden**
+**Berichte mit Feldern für automatische Vervollständigung können nicht geladen werden**
 
-Beim Öffnen eines Berichts, der benutzerdefinierte Felder mit automatischer Textvervollständigung enthält, kann der Bericht gelegentlich nicht geladen werden und zeigt eine Fehlermeldung an.
+Beim Öffnen eines Berichts mit benutzerdefinierten Feldern für die automatische Vervollständigung kann der Bericht mitunter nicht geladen werden und es wird eine Fehlermeldung angezeigt.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 14. November 2024**
++++**Wartungs-Update vom 14. November 2024**
 
 ### Wartungs-Update vom 14. November 2024
 
 #### Startseite
 
-**Aufgaben-Widget-Fehler für neue und abgeschlossene Aufgaben**
+**Fehler im Widget „Aufgabe“ bei neuen und abgeschlossenen Aufgaben**
 
-Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im Aufgaben-Widget der Startseite abzuschließen, tritt ein Fehler auf, und die Benutzenden können die Aufgabe nicht erstellen oder abschließen.
+Beim Versuch, eine neue Aufgabe zu erstellen oder eine vorhandene im Widget „Aufgabe“ der Startseite abzuschließen, tritt ein Fehler auf und die Benutzenden können die Aufgabe nicht erstellen bzw. abschließen.
 
 #### Benutzende
 
-**Checkbox „Einladungs-E-Mails an diese Personen senden“ fehlt**
+**Kontrollkästchen „E-Mail-Einladungen an diese Personen senden“ fehlt**
 
-Beim Importieren neuer Benutzender in Workfront fehlt im Dialogfenster das Kontrollkästchen „Einladungs-E-Mails an diese Personen senden“.
+Beim Importieren neuer Benutzender in Workfront fehlt im Dialogfenster das Kontrollkästchen „E-Mail-Einladungen an diese Personen senden“.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 7. November 2024**
++++**Wartungs-Update vom 7. November 2024**
 
 ### Wartungs-Update vom 7. November 2024
 
@@ -191,7 +192,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ## Updates im Oktober 2024
 
-+++**Wartungs-Update vom Freitag, 31. Oktober 2024**
++++**Wartungs-Update vom 31. Oktober 2024**
 
 ### Wartungs-Update vom 31. Oktober 2024
 
@@ -199,100 +200,100 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++
 
-+++**Wartungs-Update vom Freitag, 24. Oktober 2024**
++++**Wartungs-Update vom 24. Oktober 2024**
 
 ### Wartungs-Update vom 24. Oktober 2024
 
 #### Arbeitsaufträge
 
-**Ausfallzeiten-Symbol wird beim Zuweisen von Aufgaben nicht angezeigt**
+**Das Symbol „Ausfallzeiten“ wird beim Zuweisen von Aufgaben nicht angezeigt**
 
-Wenn ein(e) Benutzende(r) eine Aufgabe zuweist und mit der Eingabe des Namens des Verantwortlichen beginnt, der während der Aufgabe Ausfallzeiten geplant hat, wird in den Benutzersymbolen im Bereich Vorgeschlagene Zuweisungen nicht das Ausfallzeiten-Symbol (Flugzeug) angezeigt. Wenn der/die Benutzende weiterhin tippt, sodass der Name im Bereich Benutzende und Teams angezeigt wird, wird das Symbol nicht angezeigt.
+Wenn Benutzende eine Aufgabe zuweisen und mit der Eingabe des Namens der zugewiesenen Person beginnen, für die während der Aufgabe Ausfallzeiten geplant sind, wird in den Benutzersymbolen im Bereich „Vorgeschlagene Arbeitsaufträge“ nicht das Symbol „Ausfallzeiten“ (Flugzeug) angezeigt. Wenn die Benutzenden mit der Eingabe fortfahren, sodass der Name unter dem Bereich „Benutzende und Teams“ angezeigt wird, wird das Symbol nicht angezeigt.
 
 #### Benutzerdefinierte Formulare
 
 **Benutzerdefinierte Daten in abgeschlossenen Projekten können nicht aktualisiert werden**
 
-Wenn ein(e) Benutzende(r) versucht, benutzerdefinierte Daten in einem Projekt zu aktualisieren, das abgeschlossen ist, können die Daten nicht aktualisiert werden und die folgende Meldung wird angezeigt:
+Beim Versuch, benutzerdefinierte Daten in einem abgeschlossenen Projekt zu aktualisieren, können die Daten nicht aktualisiert werden und die folgende Meldung wird angezeigt:
 
-„Der Vorgang für ein Projekt mit dem Status „Abgeschlossen“ kann nicht abgeschlossen werden.“
+Ausführung nicht möglich für ein Projekt mit Status „Abgeschlossen“.
 
 #### Projekte
 
-**Probleme können nicht zum abgeschlossenen Projekt hinzugefügt werden**
+**Zu einem abgeschlossenen Projekt können keine Probleme hinzugefügt werden**
 
-Wenn ein(e) Benutzende(r) versucht, ein Problem zu einem Projekt im Status Abgeschlossen hinzuzufügen, kann der/die Benutzende das Problem nicht hinzufügen. Dies kann auch dann vorkommen, wenn die Option „Probleme hinzufügen und bearbeiten“ aktiviert ist
+Beim Versuch, ein Problem zu einem Projekt im Status „Abgeschlossen“ hinzuzufügen, kann das Problem nicht hinzugefügt werden. Dies kann auch dann vorkommen, wenn die Option „Probleme hinzufügen und bearbeiten“ aktiviert ist.
 
 **Gantt-Diagramm ist nicht korrekt**
 
-Wenn ein(e) Benutzende(r) das Gantt-Diagramm aufruft und die Ansichten wechselt, werden im Gantt-Diagramm keine genauen Daten angezeigt oder es werden möglicherweise keine Daten angezeigt.
+Wenn Benutzende das Gantt-Diagramm anzeigen und die Ansichten wechseln, werden im Gantt-Diagramm keine präzisen Daten oder möglicherweise überhaupt keine Daten angezeigt.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 17. Oktober 2024**
++++**Wartungs-Update vom 17. Oktober 2024**
 
 ### Wartungs-Update vom 17. Oktober 2024
 
 #### Korrekturabzüge
 
-**Korrekturabzüge zeigen ein ungenaues Datum an**
+**Korrekturabzüge zeigen ein falsches Datum an**
 
-In der Liste Dokumente aufgeführte Datumsangaben zeigen das Datum an, an dem die erste Version des Dokuments erstellt wurde, und nicht das Datum, an dem die neueste Version erstellt wurde.
+Für in der Dokumentenliste aufgeführte Daten wird das Datum angezeigt, an dem die erste Version des Dokuments erstellt wurde, anstatt des Datums, an dem die neueste Version erstellt wurde.
 
-#### Arbeitszeit- tabellen
+#### Arbeitszeittabellen
 
-Wenn ein(e) Benutzende(r) versucht, die Zeit in einer Arbeitszeittabelle zu protokollieren, die sich im Status Gesendet oder Geschlossen befindet, kann er/sie die Zeit nicht protokollieren.
+Beim Versuch, die Zeit in einer Arbeitszeittabelle mit dem Status „Gesendet“ oder „Geschlossen“ zu protokollieren, kann die Zeit nicht protokolliert werden.
 
 Dies ist das erwartete Verhalten und sollte nicht als Problem betrachtet werden.
 
-Zuvor konnten Benutzende die Zeit in gesendeten oder geschlossenen Arbeitszeittabellen über die Workfront-API oder Workfront Fusion protokollieren.
+Zuvor konnten Benutzende die Zeit in gesendeten oder geschlossenen Arbeitszeittabellen über die Workfront-API oder über Workfront Fusion protokollieren.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 10. Oktober 2024**
++++**Wartungs-Update vom 10. Oktober 2024**
 
 ### Wartungs-Update vom 10. Oktober 2024
 
 #### Pinnwände
 
-**Fehler beim Verschieben von Karten oder Zuweisen von Benutzern**
+**Fehler beim Verschieben von Karten oder beim Zuweisen von Benutzenden**
 
-Beim Verschieben von Karten oder Zuweisen von Benutzern wird die Aktion gelegentlich nicht ausgeführt, sondern nach einer Verzögerung der Fehler „Antwort nicht erfolgreich: Status-Code 502 empfangen“ ausgegeben.
+Beim Verschieben von Karten oder Zuweisen von Benutzenden wird die Aktion gelegentlich nicht ausgeführt. Stattdessen wird nach einer Verzögerung der Fehler „Antwort nicht erfolgreich: Status-Code 502 empfangen“ generiert.
 
 **Fehler beim Laden einer Pinnwand**
 
-Wenn ein(e) Benutzende(r) versucht, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und die folgende Meldung wird angezeigt:
+Beim Versuch, eine Pinnwand zu laden, wird die Pinnwand nicht geladen und den Benutzenden wird die folgende Meldung angezeigt:
 
 „Fehler beim Laden der Pinnwand“
 
-„Beim Laden dieses Boards ist ein Fehler aufgetreten. Aktualisieren Sie die Seite, um es erneut zu versuchen, oder wenden Sie sich unter Angabe der Fehler-ID an den Support, wenn das Problem weiterhin besteht.“
+„Beim Laden dieser Pinnwand ist ein Fehler aufgetreten. Aktualisieren Sie die Seite und versuchen Sie es erneut, oder wenden Sie sich unter Angabe der nachfolgenden Fehler-ID an den Support, wenn das Problem weiterhin besteht.“
 
 #### Startseite
 
-**„Als erledigt markieren“ wird der Zusammenfassungsbereich für das Widget „Meine Probleme“ geschlossen**
+**Mit „Als erledigt markieren“ wird der Zusammenfassungsbereich für das Widget „Meine Probleme“ geschlossen**
 
-Wenn Sie versuchen, die Schaltfläche „Als erledigt markieren“ im Zusammenfassungsbereich eines Problems zu verwenden, das über das Widget „Meine Probleme“ geöffnet wurde, wird der Zusammenfassungsbereich unerwartet geschlossen.
+Beim Versuch, die Schaltfläche „Als erledigt markieren“ im Zusammenfassungsbereich eines Problems zu verwenden, das über das Widget „Meine Probleme“ geöffnet wurde, wird der Zusammenfassungsbereich unerwartet geschlossen.
 
-**Die Einstellungen des Layout-Vorlagen-Widgets können keine Spalte hinzufügen**
+**In den Einstellungen des Widgets „Layout-Vorlage“ kann keine Spalte hinzugefügt werden**
 
-Wenn Sie ein Feld auswählen, das über die Widget-Einstellungen der Layout-Vorlage zu einem Widget hinzugefügt werden soll, kann ein Feld ausgewählt werden, aber die entsprechende Spalte wird nicht im Widget angezeigt.
+Wenn Sie ein Feld auswählen, das über die Einstellungen des Widgets „Layout-Vorlage“ zu einem Widget hinzugefügt werden soll, kann zwar ein Feld ausgewählt werden, aber die entsprechende Spalte wird nicht im Widget angezeigt.
 
 #### Aufgaben
 
-**Probleme bei der Neuberechnung der Zeitleiste**
+**Probleme bei der Neuberechnung der Timeline**
 
-Die folgenden Probleme wurden bei der Neuberechnung des Zeitplans gemeldet:
+Es wurden die folgenden Probleme bezüglich der Neuberechnung der Timeline gemeldet:
 
-* Bei der Aktualisierung der Dauer einer Zeitleistenaufgabe dauert die Neuberechnung des Systems sehr lange.
-* Wenn die Neuberechnung abgeschlossen ist, können die Datumswerte deaktiviert bleiben oder deaktiviert werden, so als ob die Timeline noch neu berechnet wird.
+* Beim Aktualisieren der Dauer einer Timeline-Aufgabe dauert die Neuberechnung durch das System sehr lange.
+* Nach Abschluss der Neuberechnung kann es sein, dass die Daten deaktiviert bleiben oder deaktiviert werden, so als ob die Timeline noch neu berechnet wird.
 
-**Aufgabenausgaben werden nicht angezeigt**
+**Aufwendungen für Aufgaben werden nicht angezeigt**
 
-Nach dem Hinzufügen einer Ausgabe zu einer Aufgabe werden die Kosten trotz der eingegebenen API-Bestätigung nicht in den Aufgabeninformationen angezeigt.
+Nach dem Hinzufügen einer Aufwendung zu einer Aufgabe werden die Aufwendung trotz der eingegebenen API-Bestätigung nicht in den Aufgabeninformationen angezeigt.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 3. Oktober 2024**
++++**Wartungs-Update vom 3. Oktober 2024**
 
 ### Wartungs-Update vom 3. Oktober 2024
 
@@ -308,82 +309,83 @@ Um Leistungsprobleme zu beheben, werden archivierte verbundene Karten nicht mehr
 
 Rich-Text-Felder verursachen den folgenden Fehler in benutzerdefinierten Formularen:
 
-„Fehler: Datentypkonvertierungen zwischen Text und Rich-Text sind nicht zulässig.“
+„Fehler: Datentypkonvertierungen zwischen Text und Rich Text sind nicht zulässig.“
 
 Dies kann unter folgenden Bedingungen auftreten:
 
-* Der/die Benutzende beginnt mit der Bearbeitung der Formulare, klickt jedoch auf Anwenden , ohne Änderungen vorzunehmen.
-* Der Benutzer erstellt ein benutzerdefiniertes Formular.
+* Benutzende beginnen mit der Bearbeitung der Formulare, klicken jedoch auf „Anwenden“, ohne Änderungen vorzunehmen.
+* Benutzende erstellen ein benutzerdefiniertes Formular.
 
-In beiden Fällen verursachen Rich-Text-Felder die Probleme.
+In beiden Fällen sind Rich-Text-Felder die Ursache für die Probleme.
 
 #### Benachrichtigungen
 
 **Mitwirkende erhalten keine E-Mail-Benachrichtigungen**
 
-Benutzende mit einer Mitwirkendenlizenz erhalten keine Benachrichtigungs-E-Mails. Dies kann sowohl Sofortbenachrichtigungs-E-Mails als auch Daily Digest-E-Mails betreffen.
+Benutzende mit einer Lizenz für Mitwirkende erhalten keine E-Mail-Benachrichtigung. Dies kann E-Mails vom Typ „Sofortige Benachrichtigung“ und „Täglicher Digest“ betreffen.
 
 #### Korrekturabzüge
 
-**Elektronische Signaturen können bei Verwendung von SSO für den Testversand nicht hinzugefügt werden**
+**Elektronische Signaturen können bei Verwendung von SSO für Korrekturabzüge nicht hinzugefügt werden**
 
-Wenn Sie SSO verwenden, um sich beim Korrekturabzug anzumelden, können Benutzende keinen Korrekturabzug so einrichten, dass elektronische Signaturen erforderlich sind.
+Wenn Benutzende sich per SSO bei einem Korrekturabzug anmelden, ist es ihnen nicht möglich, einen Korrekturabzug so einzurichten, dass elektronische Signaturen erforderlich sind.
 
 +++
 
 ## Updates im September 2024
 
-+++**Wartungs-Update vom Freitag, 26. September 2024**
++++**Wartungs-Update vom 26. September 2024**
 
 ### Wartungs-Update vom 26. September 2024
 
 #### Agile
 
-**Bei der Zuweisung eines Scrum-Teams wird die Option Zu Iteration hinzufügen zweimal aufgeführt**
+**Bei der Zuweisung eines Scrum-Teams wird die Option „Der Iteration hinzufügen“ zweimal aufgeführt**
 
-Beim Zuweisen einer Aufgabe oder eines Problems zu einem agilen Scrum-Team wird die Option „Zu Iteration hinzufügen“ zweimal im Menü Mehr angezeigt. Dies wirkt sich nicht auf die Möglichkeit aus, das Team zuzuweisen, und es wird auch nicht für Nicht-Scrum-Agile-Teams angezeigt.
+Beim Zuweisen einer Aufgabe oder eines Problems zu einem agilen Scrum-Team wird die Option „Der Iteration hinzufügen“ im Menü „Mehr“ zweimal angezeigt. Dies wirkt sich nicht auf die Möglichkeit aus, das Team zuzuweisen, und für sonstige agile Teams wird die Option nicht angezeigt.
 
 #### Benutzerdefinierte Formulare
 
 **Feldliste des Berechnungs-Editors auf 200 Elemente beschränkt**
 
-Im Berechnungs-Editor für berechnete Felder in benutzerdefinierten Formularen ist die Feldliste für ein Objekt jetzt auf 200 Elemente beschränkt, um die Systemleistung zu verbessern. Wenn Sie den Feldnamen kennen, können Sie mit der Option für automatische Textvervollständigung danach suchen, anstatt durch die Liste zu scrollen.
+Im Berechnungs-Editor für berechnete Felder in benutzerdefinierten Formularen ist die Feldliste für ein Objekt jetzt auf 200 Elemente beschränkt, um die Systemleistung zu verbessern. Wenn Sie den Feldnamen kennen, können Sie mit der Option für die automatische Vervollständigung danach suchen, anstatt durch die Liste zu scrollen.
 
 #### Berichte
 
 **Berichtlieferungen sind verzögert oder fehlen**
 
-Berichte mit terminierten Sendungen werden nicht wie erwartet bereitgestellt. Sie können sich verspäten oder gar nicht geliefert werden.
+Berichte mit geplanten Lieferungen werden nicht wie erwartet bereitgestellt. Sie können verspätet oder gar nicht geliefert werden.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 19. September 2024**
++++**Wartungs-Update vom 19. September 2024**
 
 ### Wartungs-Update vom 19. September 2024
 
 #### Dashboards
 
-**Auswählen der Schaltfläche „Exportieren“ in einem Bericht scrollt zur Seitenanfang**
+**Durch das Auswählen der Schaltfläche „Exportieren“ in einem Bericht wird zum Seitenanfang gescrollt**
 
-Wenn Sie für einen Bericht in einem Dashboard auf die Schaltfläche Exportieren klicken, scrollt das Fenster zum Seitenanfang. Danach müssen Sie zurückscrollen, um das geöffnete Menü mit den Exportoptionen zu finden.
+Wenn Sie für einen Bericht in einem Dashboard auf die Schaltfläche „Exportieren“ klicken, scrollt das Fenster zum Seitenanfang. Danach müssen Sie zurück scrollen, um das geöffnete Menü mit den Exportoptionen zu finden.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 12. September 2024**
++++**Wartungs-Update vom 12. September 2024**
 
 ### Wartungs-Update vom 12. September 2024
 
 #### Integrationen
 
-**Fehler beim Erstellen einer Anfrage aus Outlook**
+**Fehler beim Erstellen einer Anfrage von Outlook aus**
 
-Wenn ein(e) Benutzende(r) versucht, eine Anfrage über die Workfront for Outlook-Integration zu erstellen und eine Anlage hinzufügt. Der/die Benutzende sieht die Meldung „Irgendetwas ist schiefgelaufen. Versuchen Sie es später erneut.“
+Wenn Benutzende versuchen, eine Anfrage über die Workfront for Outlook-Integration zu erstellen, und einen Anhang hinzufügen.
+wird die folgende Meldung angezeigt: „Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.“
 
-Die Anfrage wird erstellt und die Anfrage enthält einen Ordner für E-Mail-Anhänge, der Ordner ist jedoch leer und die Anlage wurde nicht zur Anfrage hinzugefügt.
+Die Anfrage wird zwar erstellt und enthält einen Ordner für E-Mail-Anhänge, jedoch ist der Ordner leer und der Anhang wurde nicht zur Anfrage hinzugefügt.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 5. September 2024**
++++**Wartungs-Update vom 5. September 2024**
 
 ### Wartungs-Update vom 5. September 2024
 
@@ -391,15 +393,15 @@ Die Anfrage wird erstellt und die Anfrage enthält einen Ordner für E-Mail-Anh�
 
 **Untergruppen werden nicht korrekt angezeigt**
 
-Wenn ein(e) Benutzende(r) die Liste Gruppen im Bereich Setup aufruft, werden Untergruppen unter der übergeordneten Gruppe nicht korrekt aufgeführt. Die Untergruppe wird korrekt unter der übergeordneten Gruppe gespeichert, aber die Liste kann Verwirrung stiften.
+Wenn Benutzende die Liste „Gruppen“ im Bereich „Setup“ aufrufen, werden Untergruppen unter der übergeordneten Gruppe nicht korrekt aufgeführt. Die Untergruppe wird korrekt unter der übergeordneten Gruppe gespeichert, aber die Liste kann zu Verwirrung führen.
 
-Wenn der/die Benutzende die Untergruppe öffnet, kann er/sie in den Breadcrumbs sehen, dass die Untergruppe korrekt unter der übergeordneten Gruppe gespeichert wird.
+Wenn Benutzende die Untergruppe öffnen, können sie in den Breadcrumbs sehen, dass die Untergruppe korrekt unter der übergeordneten Gruppe gespeichert wurde.
 
 #### Benutzende
 
-**Benutzer kann nicht reaktiviert werden**
+**Benutzende können nicht reaktiviert werden**
 
-Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) über die Option „Benutzer erneut aktivieren“ im Menü Mehr erneut zu aktivieren, kann er/sie eine Zugriffsebene für den/die Benutzende(n) auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird die folgende Fehlermeldung angezeigt:
+Beim Versuch, eine Benutzerin oder einen Benutzer über die Option „Benutzer reaktivieren“ im Menü „Mehr“ erneut zu aktivieren, lässt sich zwar eine Zugriffsebene für die Person auswählen, die Änderung wird jedoch nicht gespeichert. Stattdessen wird die folgende Fehlermeldung angezeigt:
 
 „homeGroupID darf nicht null sein“
 
@@ -407,51 +409,51 @@ Wenn ein(e) Benutzende(r) versucht, eine(n) Benutzende(n) über die Option „Be
 
 ## Updates im August 2024
 
-+++**Wartungs-Update vom Freitag, 29. August 2024**
++++**Wartungs-Update vom 29. August 2024**
 
 ### Wartungs-Update vom 29. August 2024
 
 #### Benutzerdefinierte Formulare
 
-**Forms verwendet standardmäßig Projektformulare**
+**Formulare werden als Projektformulare festgelegt**
 
-Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular erstellt und einen Objekttyp für das Formular auswählt, wird der Objekttyp ignoriert und das Formular wird als benutzerdefiniertes Projekt-Formular erstellt.
+Wenn Benutzende ein benutzerdefiniertes Formular erstellen und einen Objekttyp für das Formular auswählen, wird der Objekttyp ignoriert und das Formular wird als benutzerdefiniertes Projektformular erstellt.
 
 #### Dokumente
 
-**Wenn Sie auf einen Dokumentnamen klicken, wird eine leere Seite angezeigt**
+**Durch das Klicken auf einen Dokumentnamen wird eine leere Seite angezeigt**
 
-Wenn ein(e) Benutzende(r) versucht, Dokumentdetails anzuzeigen, indem er/sie auf den Namen des Dokuments in einer Dokumentliste klickt, verschwindet die Liste, und der/die Benutzende wird nicht zu den Dokumentdetails weitergeleitet.
+Beim Versuch, Dokumentdetails durch einen Mausklick auf den Namen des Dokuments in einer Dokumentliste anzuzeigen, wird die Liste ausgeblendet und die Benutzenden werden nicht zu den Dokumentdetails weitergeleitet.
 
 #### Startseite
 
-**Das Widget Ausstehende Genehmigungen zeigt gelöschte Dokumente an**
+**Das Widget „Ausstehende Genehmigungen“ zeigt gelöschte Dokumente an**
 
-Wenn ein(e) Benutzende(r) das Widget Startseite - Ausstehende Genehmigungen aufruft, werden gelöschte Dokumente angezeigt. Wenn der/die Benutzende auf eines dieser Dokumente klickt, erscheint eine leere Seite.
+Wenn Benutzende das Widget „Ausstehende Genehmigungen“ auf der Startseite aufrufen, werden gelöschte Dokumente angezeigt. Wenn Benutzende auf eines dieser Dokumente klicken, erscheint eine leere Seite.
 
 #### Benutzende
 
-**Das Feld für das E-Mail-Gebietsschema des Benutzerprofils wurde deaktiviert**
+**Das Feld „Gebietsschema für E-Mail“ des Benutzerprofils wurde deaktiviert**
 
-Für Unternehmen in IMS werden die Spracheinstellungen im Adobe Experience Cloud-Profil jedes Benutzers gespeichert. Das Feld „E-Mail-Gebietsschema“ im Workfront-Benutzerprofil wurde deaktiviert (nur für IMS-Organisationen), und eine QuickInfo in diesem Feld enthält Anweisungen zum Zugriff auf Spracheinstellungen im Adobe-Profil.
+Für Organisationen in IMS werden die Spracheinstellungen im Adobe Experience Cloud-Profil jeder Benutzerin und jedes Benutzers gespeichert. Das Feld „Gebietsschema für E-Mail“ im Workfront-Benutzerprofil wurde deaktiviert (nur für IMS-Organisationen), und eine QuickInfo in diesem Feld enthält Anweisungen zum Zugriff auf die Spracheinstellungen im Adobe-Profil.
 
-Dies behebt ein Problem, das auftritt, wenn Admins versuchen, die E-Mail-Gebietsschema-Einstellung für Benutzende zu ändern.
+Dies behebt ein Problem, durch das das Gebietsschema für E-Mails auf „Englisch“ zurückgesetzt wird, wenn Admins versuchen, die Einstellung für „Gebietsschema für E-Mail“ für eine Benutzerin oder einen Benutzer zu ändern.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 22. August 2024**
++++**Wartungs-Update vom 22. August 2024**
 
 ### Wartungs-Update vom 22. August 2024
 
 #### Berichte
 
-**Im Bereich „Benutzerdefinierte Felder“ von „Setup“ kann nicht auf einen Bericht geklickt werden**
+**Im Setup-Bereich „Benutzerdefinierte Felder“ kann nicht auf einen Bericht geklickt werden**
 
-Wenn ein(e) Benutzende(r) den Bereich Benutzerdefinierte Forms > Felder von Setup aufruft und die Ansicht das native Feld Berichte enthält, funktionieren die Links zu den Berichten nicht. Der/die Benutzende sollte auf den Namen eines Berichts klicken können und zum Bericht weitergeleitet werden, doch das Klicken auf den Namen des Berichts ist nicht effektiv.
+Wenn Benutzende den Setup-Bereich „Benutzerdefinierte Formulare“ > „Felder“ aufrufen und die Ansicht das native Feld „Berichte“ enthält, funktionieren die Links zu den Berichten nicht. Benutzende sollten auf den Namen eines Berichts klicken können und zum Bericht weitergeleitet werden, doch das Klicken auf den Namen des Berichts bleibt wirkungslos.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 15. August 2024**
++++**Wartungs-Update vom 15. August 2024**
 
 ### Wartungs-Update vom 15. August 2024
 
@@ -466,39 +468,39 @@ Die folgenden Probleme bezüglich doppelter Karten in Pinnwänden wurden gemelde
 
 #### Benachrichtigungen
 
-**Hoppla-Fehler beim Festlegen der Benachrichtigungseinstellungen**
+**Ein Fehler vom Typ „Hoppla!“ tritt beim Festlegen der Benachrichtigungseinstellungen auf**
 
-Wenn ein(e) Benutzende(r) versucht, Benachrichtigungseinstellungen anzuzeigen, wird der folgende Fehler angezeigt:
+Beim Versuch, Benachrichtigungseinstellungen anzuzeigen, wird Benutzenden der folgende Fehler angezeigt:
 
 „[!UICONTROL Hoppla! Etwas ist schiefgelaufen. Bitte kontaktieren Sie Workfront, damit wir die Fehlerursache feststellen und den Fehler beheben können.]“
 
 Dies wurde in den folgenden Bereichen gemeldet:
 
 * Benachrichtigungseinstellungen für ein Benutzerprofil
-* Bereich „Ereignisbenachrichtigungen“ im Setup
+* Bereich „Ereignisbenachrichtigungen“ unter „Setup“
 
 #### Projekte
 
-**Währungssymbol ist beim Exportieren falsch**
+**Falsches Währungssymbol beim Exportieren**
 
-Wenn ein(e) Benutzende(r) ein Problem exportiert, stimmt das Währungssymbol im Export nicht mit der im Projekt oder Problem festgelegten Währung überein.
+Wenn Benutzende ein Problem exportieren, entspricht das Währungssymbol im Export nicht der im Projekt oder Problem festgelegten Währung.
 
 #### Korrekturabzüge
 
-**Korrekturabzugsmarkierungen sind ungenau**
+**Markierungen von Korrekturabzügen sind falsch**
 
-Korrekturabzug-Markierungen sind auf PDF-Ausdrucken falsch ausgerichtet, die per E-Mail von der Funktion für die Korrekturabzugsdruckung empfangen werden.
+Markierungen von Korrekturabzügen sind auf PDF-Ausdrucken falsch ausgerichtet, die per E-Mail von der Funktion für das Ausdrucken von Korrekturabzügen empfangen wurden.
 
 
 +++
 
-+++**Wartungs-Update vom Freitag, 8. August 2024**
++++**Wartungs-Update vom 8. August 2024**
 
 ### Wartungs-Update vom 8. August 2024
 
 #### Pinnwände
 
-**Karte enthält keine Teilaufgaben**
+**Karte enthält keine Unteraufgaben**
 
 Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine übergeordnete Aufgabe ist, werden die Unteraufgaben dieser übergeordneten Aufgabe nicht auf der Karte angezeigt. Stattdessen zeigt die Karte an, dass es 0 Unteraufgaben gibt.
 
@@ -506,17 +508,17 @@ Wenn Benutzende eine Karte für eine Aufgabe anzeigen, die eine übergeordnete A
 
 **Berichtlieferungen sind verzögert oder fehlen**
 
-Berichte mit terminierten Sendungen werden nicht wie erwartet bereitgestellt. Sie können sich verspäten oder gar nicht geliefert werden.
+Berichte mit geplanten Lieferungen werden nicht wie erwartet bereitgestellt. Sie können verspätet oder gar nicht geliefert werden.
 
 #### Setup
 
 **„Anmelden als“ führt zu einem leeren Bildschirm**
 
-Wenn sich ein Administrator als ein anderer Benutzer anmeldet, wird dem Administrator kein leerer Bildschirm angezeigt, anstatt das Konto dieses Benutzers zu sehen.
+Wenn sich Admins als andere Benutzerin oder anderer Benutzer anmeldet, wird ihnen anstelle des Kontos dieser bzw. dieses Benutzenden ein leerer Bildschirm angezeigt.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 1. August 2024**
++++**Wartungs-Update vom 1. August 2024**
 
 ### Wartungs-Update vom 1. August 2024
 
@@ -543,21 +545,21 @@ Diese Probleme sind auf Probleme mit Dropbox und nicht auf Workfront zurückzuf�
 
 ## Updates im Juli 2024
 
-+++**Wartungs-Update vom Freitag, 25. Juli 2024**
++++**Wartungs-Update vom 25. Juli 2024**
 
-### Wartungs-Update vom Freitag, 25. Juli 2024
+### Wartungs-Update vom 25. Juli 2024
 
 #### Benutzerdefinierte Formulare
 
-**Dropdown wird geschlossen, wenn mehrere Werte ausgewählt werden**
+**Beim Auswählen mehrerer Werte wird das Dropdown-Menü geschlossen**
 
-Wenn ein(e) Benutzende(r) versucht, mehrere Werte in einem benutzerdefinierten Formularfeld auszuwählen, wird das Dropdown-Menü geschlossen, nachdem der erste Wert ausgewählt wurde.
+Beim Versuch, in einem benutzerdefinierten Formularfeld mehrere Werte auszuwählen, wird das Dropdown-Menü geschlossen, nachdem der erste Wert ausgewählt wurde.
 
 Dies tritt auf, wenn das Feld mit der Anzeigelogik im benutzerdefinierten Formular verknüpft ist.
 
 #### Benachrichtigungen
 
-**Miniaturansichten sind in E-Mail-Benachrichtigungen nicht sichtbar**
+**Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar**
 
 Wenn Benutzende eine E-Mail-Benachrichtigung zu einer Dokumentgenehmigung anzeigen, wird die Miniaturansicht des Dokuments nicht in der E-Mail angezeigt.
 
@@ -565,31 +567,31 @@ Dies wurde in Gmail gemeldet.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 18. Juli 2024**
++++**Wartungs-Update vom 18. Juli 2024**
 
-### Wartungs-Update vom Freitag, 18. Juli 2024
+### Wartungs-Update vom 18. Juli 2024
 
 #### Agile
 
-**Story Board wird beim Hinzufügen einer Teilaufgabe leer angezeigt**
+**Das Storyboard bleibt beim Hinzufügen einer Unteraufgabe leer**
 
 Wenn Benutzende versuchen, einer Story-Pinnwand eine Unteraufgabe hinzuzufügen, während ein Filter ausgewählt ist, bleibt der Bildschirm leer und die Unteraufgabe lässt sich nicht hinzufügen.
 
 #### Startseite
 
-**Elemente können nicht aus dem [!UICONTROL Startseiten-Kalender] oder [!UICONTROL Arbeitsliste“ geöffnet]**
+**Elemente können nicht über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Auftragsliste]** geöffnet werden
 
 Wenn Benutzende versuchen, ein Arbeitselement oder einen Korrekturabzug über den [!UICONTROL Startseitenkalender] oder die [!UICONTROL Arbeitsliste der Startseite] zu öffnen, wird das Element nicht geöffnet.
 
-**Die eigene Startseite des Administrators wird angezeigt, wenn Sie als ein anderer Benutzer angemeldet sind**
+**Die eigene Startseite von Admins wird angezeigt, wenn sie als andere Benutzerin oder anderer Benutzer angemeldet sind.**
 
-Wenn ein Administrator als ein anderer Benutzer angemeldet ist und die Startseite dieses Benutzers aufruft, wird die eigene Startseite des Administrators angezeigt.
+Wenn Admins als andere Benutzerin bzw. anderer Benutzer angemeldet sind und die Startseite dieser Person aufrufen, wird stattdessen ihre eigene Startseite angezeigt.
 
 #### Korrekturabzüge
 
-**Das Schließen eines Korrekturabzugs führt zur Seite mit den Produktdokumenten**
+**Nach dem Schließen eines Korrekturabzugs wird die Seite „Produktdokumente“ geöffnet**
 
-Wenn Benutzende einen Korrekturabzug anzeigen und diesen schließen, werden sie auf die Seite mit den Projektdokumenten geleitet, anstatt auf die Seite, von der aus der Korrekturabzug geöffnet wurde.
+Wenn Benutzende einen Korrekturabzug anzeigen und diesen schließen, werden sie auf die Seite mit den Projektdokumenten geleitet anstatt auf die Seite, von der aus der Korrekturabzug geöffnet wurde.
 
 #### Workfront
 

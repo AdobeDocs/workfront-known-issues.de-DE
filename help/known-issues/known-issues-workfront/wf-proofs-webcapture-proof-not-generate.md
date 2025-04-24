@@ -1,13 +1,13 @@
 ---
 title: 'Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert'
-description: Wenn ein(e) Benutzende(r) versucht, einen WebCapture-Korrekturabzug zu erstellen, wird der Korrekturabzug nicht erfolgreich generiert.
+description: Beim Versuch, einen WebCapture-Korrekturabzug zu erstellen, wird der Korrekturabzug nicht erfolgreich generiert.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->Dieses Problem wurde abgeschlossen, da es ordnungsgemäß funktioniert. Siehe Problemumgehung unten.
+>Dieser Problemfall wurde geschlossen, da die Funktion ordnungsgemäß funktioniert. Siehe die Umgehungslösung unten.
 
-Wenn ein(e) Benutzende(r) versucht, einen WebCapture-Korrekturabzug zu erstellen, wird der Korrekturabzug nicht erfolgreich generiert.
+Beim Versuch, einen WebCapture-Korrekturabzug zu erstellen, wird der Korrekturabzug nicht erfolgreich generiert.
 
-**Problemumgehung**
+**Umgehungslösung**
 
-Dieses Problem wird durch lange Korrekturabzugsgenerierungszeiten für bestimmte PDF-Dateien verursacht. Um den Timeout für die Generierung von den standardmäßigen 30 Sekunden zu erhöhen, bearbeiten Sie die folgende Eigenschaft in den Verarbeitungseinstellungen auf Kontoebene in der Admin für Korrekturabzüge:
+Dieses Problem wird durch lange Generierungszeiten für Korrekturabzüge bei bestimmten PDF-Dateien verursacht. Um die standardmäßigen 30 Sekunden des Timeouts für die Generierung zu erhöhen, bearbeiten Sie die folgende Eigenschaft in den Verarbeitungseinstellungen auf Kontoebene unter „Admin für Korrekturabzüge“:
 
 `WebCaptureNavigationTimeout -> 120`
 
-_Erste Meldung am Freitag, 3. Oktober 2024._
+_Erste Meldung am 3. Oktober 2024._

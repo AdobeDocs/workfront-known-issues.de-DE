@@ -1,13 +1,13 @@
 ---
 title: Probleme beim Löschen des Gruppenstatus
-description: Nachdem Sie den Status einer Gruppe gelöscht haben, wird sie schließlich erneut angezeigt, ohne von einem Benutzer geändert zu werden, obwohl die Gruppe den Status und die Entfernungszeit, die in den Updates der Gruppe angezeigt werden, nicht mehr anzeigt.
+description: Nachdem der Status einer Gruppe gelöscht wurde, wird sie irgendwann erneut angezeigt, ohne von einer Person geändert worden zu sein, obwohl für die Gruppe der Status und die Entfernungszeit, die in den Updates der Gruppe zu sehen sind, nicht mehr angezeigt werden.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Dieses Problem wurde geschlossen, da es nicht reproduziert werden konnte.
+>Dieser Problemfall wurde geschlossen, da das Problem nicht reproduziert werden konnte.
 
-Die folgenden Probleme wurden beim Löschen von Gruppenstatus gemeldet:
+Folgende Probleme beim Löschen von Gruppenstatus wurden gemeldet:
 
-* Nachdem Sie den Status einer Gruppe gelöscht haben, wird sie schließlich erneut angezeigt, ohne von einem Benutzer geändert zu werden, obwohl die Gruppe den Status und die Entfernungszeit, die in den Updates der Gruppe angezeigt werden, nicht mehr anzeigt.
-* Wenn ein(e) Benutzende(r) versucht, einen Gruppenstatus zu löschen, reagiert das System nicht, das Fenster ist hervorgehoben und der/die Benutzende kann den Status nicht löschen.
+* Nachdem der Status einer Gruppe gelöscht wurde, wird sie irgendwann erneut angezeigt, ohne von einer Person geändert worden zu sein, obwohl für die Gruppe der Status und die Entfernungszeit, die in den Updates der Gruppe zu sehen sind, nicht mehr angezeigt werden.
+* Beim Versuch, einen Gruppenstatus zu löschen, reagiert das System nicht, das Fenster ist hervorgehoben und der Status lässt sich nicht löschen.
 
-**Problemumgehung**
+**Umgehungslösung**
 
-1. Navigieren Sie **Setup** > **Voreinstellungen** > **Status**.
+1. Navigieren Sie zu **Setup** > **Einstellungen** > **Statuswerte**.
 1. Suchen Sie nach der entsprechenden Gruppe.
-1. Löschen Sie den Status .
+1. Löschen Sie den Status.
 
-_Erste Meldung am Donnerstag, 26. Juni 2024._
+_Erste Meldung am 26. Juni 2024._

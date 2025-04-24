@@ -3,9 +3,9 @@ user-guide-title: Wartungsversionen
 user-guide-description: Wartungsversionen für  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '17'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

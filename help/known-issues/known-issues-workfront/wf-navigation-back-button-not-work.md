@@ -1,17 +1,17 @@
 ---
-title: 'Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück'
+title: 'Navigation: Schaltfläche „Zurück“ führt nicht zur vorherigen Seite zurück'
 description: Wenn Benutzende in Workfront auf die Schaltfläche „Zurück“ in ihrem Browser klicken, funktioniert die Schaltfläche nicht wie erwartet.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
-# Navigation: Schaltfläche „Zurück“ geht nicht zur vorherigen Seite zurück
+# Navigation: Schaltfläche „Zurück“ führt nicht zur vorherigen Seite zurück
 
 >[!NOTE]
 >

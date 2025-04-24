@@ -1,13 +1,13 @@
 ---
 title: 'Anfragen: Anfrage-Warteschlange nicht verfügbar'
-description: Wenn ein(e) Benutzende(r) versucht, eine bestimmte Anfrage-Warteschlange auszuwählen, wird die Meldung Die Anfrage-Warteschlange ist nicht mehr verfügbar angezeigt. Dies kann auch auftreten, wenn die Anfrage-Warteschlange noch vorhanden ist.
+description: Beim Versuch, eine bestimmte Anfrage-Warteschlange auszuwählen, wird die Meldung „Die Anfrage-Warteschlange ist nicht mehr verfügbar“ angezeigt. Dies kann selbst dann auftreten, wenn die Anfrage-Warteschlange nach wie vor vorhanden ist.
 hidefromtoc: true
 feature: Requests
 exl-id: 954b6647-3232-4340-9433-f7fcad0f6783
 source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 14. März 2025 behoben.
+>Dieses Problem wurde am 14. März 2025 behoben.
 
-Wenn ein(e) Benutzende(r) versucht, eine bestimmte Anfrage-Warteschlange auszuwählen, wird die Meldung „Die Anfrage-Warteschlange ist nicht mehr verfügbar“ angezeigt. Dies kann auch auftreten, wenn die Anfrage-Warteschlange noch vorhanden ist.
+Beim Versuch, eine bestimmte Anfrage-Warteschlange auszuwählen, wird die Meldung „Die Anfrage-Warteschlange ist nicht mehr verfügbar“ angezeigt. Dies kann selbst dann auftreten, wenn die Anfrage-Warteschlange nach wie vor vorhanden ist.
 
-_Erste Meldung am Freitag, 13. März 2025._
+_Erste Meldung am 13. März 2025._

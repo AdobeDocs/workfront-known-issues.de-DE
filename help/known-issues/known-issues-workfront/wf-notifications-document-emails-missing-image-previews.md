@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 9b733328-e05f-4a28-b8eb-da83d68ac68c
 source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 39%
 
 Beim Öffnen einer E-Mail zur Überprüfung oder Genehmigung eines Dokuments mit Gmail wird keine Bildvorschau angezeigt.
 
-**Problemumgehung**
+**Umgehungslösung**
 
-Die Verwendung einer anderen E-Mail-Anwendung als Gmail führt dazu, dass die Bildvorschau korrekt angezeigt wird.
+Bei Verwendung einer anderen E-Mail-Anwendung als Gmail wird die Bildvorschau korrekt angezeigt.
 
-_Erste Meldung am Freitag, 17. Oktober 2024._
+_Erste Meldung am 17. Oktober 2024._

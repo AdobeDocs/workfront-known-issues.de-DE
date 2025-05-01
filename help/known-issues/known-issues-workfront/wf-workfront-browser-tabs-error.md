@@ -4,9 +4,9 @@ description: 'Wenn Benutzende Registerkarten im Workfront-Browser so lange geöf
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Die Lösung für dieses Problem wird schrittweise eingeführt.
+>Dieses Problem wurde behoben.
 
 Wenn Benutzende Registerkarten im Workfront-Browser so lange geöffnet lassen, bis Workfront eine weitere Anmeldung erfordert, wird anstelle einer Aufforderung zur erneuten Anmeldung der folgende Fehler angezeigt: „500-001a: Die Seite konnte nicht geladen werden“.
 

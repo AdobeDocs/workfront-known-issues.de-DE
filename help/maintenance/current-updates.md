@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 62665ccbeec605b625b79379a99e7877d9ae037c
 workflow-type: tm+mt
 source-wordcount: '1056'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,35 +44,35 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++
 
-+++**Wartungs-Update am Freitag, 17. April 2025**
++++**Wartungs-Update am 17. April 2025**
 
-### Wartungs-Update am Freitag, 17. April 2025
+### Wartungs-Update am 17. April 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update am Freitag, 10. April 2025**
++++**Wartungs-Update am 10. April 2025**
 
-### **Wartungs-Update am Freitag, 10. April 2025**
+### **Wartungs-Update am 10. April 2025**
 
 #### Dashboards
 
 **Benutzerdefiniertes Dashboard wird nicht geöffnet**
 
-Wenn ein(e) Benutzende(r) ein Objekt aufruft und versucht, ein benutzerdefiniertes Dashboard zu öffnen, das an das Objekt angehängt ist, wird das Dashboard nicht geöffnet.
+Wenn Benutzende ein Objekt aufrufen und versuchen, ein benutzerdefiniertes Dashboard zu öffnen, das mit dem Objekt verbunden ist, wird das Dashboard nicht geöffnet.
 
 #### Berichte
 
 **Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse**
 
-Benutzer in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen Bericht für ein bestimmtes Datum zu erhalten, erhalten für diesen Bericht unterschiedliche Ergebnisse.
+Benutzende in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen Bericht für ein bestimmtes Datum abzurufen, erhalten unterschiedliche Ergebnisse für diesen Bericht.
 
 +++
 
-+++**Wartungs-Update am Freitag, 3. April 2025**
++++**Wartungs-Update am 3. April 2025**
 
-### Wartungs-Update am Freitag, 3. April 2025
+### Wartungs-Update am 3. April 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
@@ -80,9 +80,9 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ## Updates im März 2025
 
-+++**Wartungs-Update am Freitag, 27. März 2025**
++++**Wartungs-Update am 27. März 2025**
 
-### Wartungs-Update am Freitag, 27. März 2025
+### Wartungs-Update am 27. März 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 

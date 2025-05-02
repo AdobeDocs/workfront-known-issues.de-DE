@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Vorlagen: Freigabe für Contribute-Zugriff nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | Samstag, 11. April 2025 |
+| [Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 11. April 2025 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20. Februar 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
@@ -37,7 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | Freitag, 17. April 2025 |
+| [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6. März 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2. August 2022 |
 
@@ -49,7 +49,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Filter: Das Dropdown-Menü wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | Donnerstag, 26. März 2025 |
+| [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | 26. März 2025 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13. März 2025 |
 | [Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | 13. März 2025 |
 | [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4. März 2025 |

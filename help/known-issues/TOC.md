@@ -3,9 +3,9 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: ad58881526869c966792584b9a139c2759e7282d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1625'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Dokumente: Dokumentminiaturen werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Vorlagen: Für Contribute-Zugriff kann nicht freigegeben werden](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
+      + [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Anfragen: URLs mit eingebettetem Code laden die Anfrage-Warteschlange nicht korrekt](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [Anfragen: URLs mit eingebettetem Code laden die Anfragewarteschlange nicht ordnungsgemäß](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Benutzende: Gruppenadministratoren können Benutzende nicht deaktivieren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
-      + [Filter: Dropdown verschwindet beim Klicken auf die Bildlaufleiste](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [Benutzende: Gruppen-Admins können Benutzende nicht deaktivieren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
+      + [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Startseite: Antworten können nicht über das Widget „Erwähnungen“ gesendet werden](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Aktualisierungen: Aktualisierungen sind verzögert](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
@@ -200,14 +200,14 @@ ht-degree: 94%
       + [Für den Bericht zu [!UICONTROL Korrekturabzugs-Genehmigungen] können keine korrekten Fristen festgelegt werden](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Gelöste Probleme [!DNL Workfront] Korrekturabzug {#proof-resolved}
+   + Behobene Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
       + [Korrekturabzüge: In den Korrekturabzügen wird „[!UICONTROL Korrekturabzug wird erstellt]“ zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Beim Herstellen einer Verbindung zu einer Sandbox-Umgebung sind die Optionen für Workfront Event Subscription Version 2 nicht verfügbar](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
+      + [Workfront Fusion: Keine Optionen für das Workfront-Ereignisabonnement Version 2 beim Herstellen einer Verbindung mit einer Sandbox-Umgebung](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Das Szenario wird nicht ausgeführt](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: Trotz Starteinstellung „Von jetzt an“ werden alle Daten verarbeitet](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder daraus gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -225,7 +225,7 @@ ht-degree: 94%
    + [Bekannte Probleme in [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Bekannte Probleme in [!DNL Workfront Library]](workfrontlibrary.md)
-+ Mobile App [!DNL Workfront] {#mobile}
++ [!DNL Workfront]-App {#mobile}
    + [Bekannte Probleme in  [!DNL Workfront] Mobile App](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Bekannte Probleme in [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)

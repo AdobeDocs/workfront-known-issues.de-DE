@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Beim Herstellen einer Verbindung zu einer Sandbox-Umgebung sind die Optionen für das Workfront-Ereignisabonnement Version 2 nicht verfügbar](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | Freitag, 3. April 2025 |
+| [Workfront Fusion: Keine Optionen für das Workfront-Ereignisabonnement Version 2 beim Herstellen einer Verbindung mit einer Sandbox-Umgebung](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 3. April 2025 |
 
 {style="table-layout:auto"}
 

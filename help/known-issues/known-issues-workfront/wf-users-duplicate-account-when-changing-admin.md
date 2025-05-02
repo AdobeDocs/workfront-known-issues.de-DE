@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
 source-git-commit: cb008302e356aebf208353058a6fada352155c61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 10. April 2025 behoben.
+>Dieses Problem wurde am 10. April 2025 behoben.
 
 Wenn eine primäre oder ein primärer Systemadmin in eine andere Person geändert wird, wird ein Duplikat dieses Benutzerkontos mit dem Namen „Benutzer &#39;Admin&#39;“ und einer identischen E-Mail-Adresse erstellt.
 

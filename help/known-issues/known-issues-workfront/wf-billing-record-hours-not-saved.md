@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Donnerstag, 29. Januar 2025 behoben.
+>Dieses Problem wurde am 29. Januar 2025 behoben.
 
 Beim Versuch, einem Geschäftseintrag Arbeitsstunden hinzuzufügen, werden die Stunden nicht gespeichert und die folgende Meldung wird angezeigt:
 

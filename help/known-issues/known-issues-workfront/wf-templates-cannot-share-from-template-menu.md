@@ -1,18 +1,18 @@
 ---
-title: 'Vorlagen: Für Contribute-Zugriff kann nicht freigegeben werden'
-description: Wenn ein(e) Benutzende(r) eine Vorlage aufruft und versucht, die Vorlage oder ein Projekt für einen anderen Benutzenden freizugeben, kann er/sie diesem/r Benutzenden keinen Beitragszugriff zuweisen. Bei der Freigabe über eine Vorlage stehen nur die Optionen Verwalten und Anzeigen zur Verfügung.
+title: 'Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich'
+description: Wenn Benutzende eine Vorlage aufrufen und versuchen, die Vorlage oder ein Projekt für andere Benutzende freizugeben, können diese Personen den Benutzenden keinen Zugriff zum Mitwirken zuweisen. Bei der Freigabe über eine Vorlage stehen nur die Optionen zum Verwalten und Anzeigen zur Verfügung.
 hidefromtoc: true
 feature: Work Management, Projects
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: ffe3a135-c48b-483f-9fbf-a9ee8a0c0967
+source-git-commit: d1fa4c2fcb7096490d739caf656586dfa42acfb7
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
+# Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich
 
-# Vorlagen: Für Contribute-Zugriff kann nicht freigegeben werden
+Wenn Benutzende eine Vorlage aufrufen und versuchen, die Vorlage oder ein Projekt für andere Benutzende freizugeben, können diese Personen den Benutzenden keinen Zugriff zum Mitwirken zuweisen. Bei der Freigabe über eine Vorlage stehen nur die Optionen zum Verwalten und Anzeigen zur Verfügung.
 
-Wenn ein(e) Benutzende(r) eine Vorlage aufruft und versucht, die Vorlage oder ein Projekt für einen anderen Benutzenden freizugeben, kann er/sie diesem/r Benutzenden keinen Beitragszugriff zuweisen. Bei der Freigabe über eine Vorlage stehen nur die Optionen Verwalten und Anzeigen zur Verfügung.
-
-_Erste Meldung am Mittwoch, 1. April 2025._
+_Erste Meldung am 1. April 2025._

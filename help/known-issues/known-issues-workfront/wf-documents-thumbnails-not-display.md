@@ -1,18 +1,18 @@
 ---
-title: 'Dokumente: Dokumentminiaturen werden nicht angezeigt'
-description: Dokumentminiaturen werden nicht angezeigt, wenn das Dokument größer als 25 MB ist.
+title: 'Dokumente: Dokumentminiaturansichten werden nicht angezeigt'
+description: Dokumentminiaturansichten werden nicht angezeigt, wenn das Dokument größer als 25 MB ist.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
-workflow-type: tm+mt
+exl-id: fe140496-b15d-4ced-a51f-d5ee8fadc842
+source-git-commit: a9635a33bbd8db12c6c49fea52669294154125ef
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# Dokumente: Dokumentminiaturansichten werden nicht angezeigt
 
-# Dokumente: Dokumentminiaturen werden nicht angezeigt
+Dokumentminiaturansichten werden nicht angezeigt, wenn das Dokument größer als 25 MB ist.
 
-Dokumentminiaturen werden nicht angezeigt, wenn das Dokument größer als 25 MB ist.
-
-_Erste Meldung am Freitag, 17. April 2025._
+_Erste Meldung am 17. April 2025._

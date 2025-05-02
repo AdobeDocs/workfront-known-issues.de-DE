@@ -1,22 +1,22 @@
 ---
-title: 'Workfront Fusion: Beim Herstellen einer Verbindung zu einer Sandbox-Umgebung sind die Optionen für Workfront Event Subscription Version 2 nicht verfügbar'
-description: Wenn ein(e) Benutzende(r) ein Workfront-Modul konfiguriert, das Ereignisse in einer Workfront Sandbox-Umgebung überwacht, sind Kriterien, die auf Version 2 des Workfront-Ereignisabonnement-Services basieren, nicht verfügbar.
+title: 'Workfront Fusion: Keine Optionen für das Workfront-Ereignisabonnement Version 2 beim Herstellen einer Verbindung mit einer Sandbox-Umgebung'
+description: Wenn Benutzende ein Workfront-Modul konfigurieren, das Ereignisse in einer Workfront-Sandbox-Umgebung überwacht, sind Kriterien nicht verfügbar, die auf Version 2 des Workfront-Ereignisabonnement-Services basieren.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25175774cf26ff51af61ba81a33195113c7be5aa
-workflow-type: tm+mt
+exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
+source-git-commit: 65b81dafc9e0ff4aa33be9795a67904793473b93
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
-# Workfront Fusion: Beim Herstellen einer Verbindung zu einer Sandbox-Umgebung sind die Optionen für Workfront Event Subscription Version 2 nicht verfügbar
+# Workfront Fusion: Keine Optionen für das Workfront-Ereignisabonnement Version 2 beim Herstellen einer Verbindung mit einer Sandbox-Umgebung
 
 >[!NOTE]
 >
 >Dieses Problem wurde für die Sandbox-Umgebung gemeldet.
 
-Wenn ein(e) Benutzende(r) ein Workfront-Modul konfiguriert, das Ereignisse in einer Workfront Sandbox-Umgebung überwacht, sind Kriterien, die auf Version 2 des Workfront-Ereignisabonnement-Services basieren, nicht verfügbar.
+Wenn Benutzende ein Workfront-Modul konfigurieren, das Ereignisse in einer Workfront-Sandbox-Umgebung überwacht, sind Kriterien nicht verfügbar, die auf Version 2 des Workfront-Ereignisabonnement-Services basieren.
 
-_Erste Meldung am Dienstag, 10. März 2025._
+_Erste Meldung am 10. März 2025._

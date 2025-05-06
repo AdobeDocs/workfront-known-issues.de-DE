@@ -4,10 +4,10 @@ description: Wenn Benutzende ein Workfront-Modul konfigurieren, das Ereignisse i
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
-source-git-commit: 65b81dafc9e0ff4aa33be9795a67904793473b93
-workflow-type: ht
-source-wordcount: '105'
-ht-degree: 100%
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 94%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde für die Sandbox-Umgebung gemeldet.
+>Dieses Problem wurde am 5. Mai 2025 behoben.
 
 Wenn Benutzende ein Workfront-Modul konfigurieren, das Ereignisse in einer Workfront-Sandbox-Umgebung überwacht, sind Kriterien nicht verfügbar, die auf Version 2 des Workfront-Ereignisabonnement-Services basieren.
 

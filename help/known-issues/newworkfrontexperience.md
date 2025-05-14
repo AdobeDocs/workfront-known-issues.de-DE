@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
-workflow-type: ht
-source-wordcount: '931'
-ht-degree: 100%
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+workflow-type: tm+mt
+source-wordcount: '939'
+ht-degree: 99%
 
 ---
 
@@ -49,6 +49,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrekturabzüge: Der schließende Korrekturabzug leitet zur Dokumentliste weiter](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | Donnerstag, 14. Mai 2025 |
 | [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | 26. März 2025 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 13. März 2025 |
 | [Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md) | 13. März 2025 |

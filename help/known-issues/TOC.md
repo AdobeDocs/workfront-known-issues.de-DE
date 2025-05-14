@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad58881526869c966792584b9a139c2759e7282d
-workflow-type: ht
-source-wordcount: '1625'
-ht-degree: 100%
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+workflow-type: tm+mt
+source-wordcount: '1632'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Korrekturabzüge: Durch Schließen des Korrekturabzugs wird zur Dokumentliste weitergeleitet](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)

@@ -4,7 +4,7 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1086'
 ht-degree: 100%
 
@@ -26,9 +26,9 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Mai 2025
 
-+++**Wartungs-Update am Freitag, 8. Mai 2025**
++++**Wartungs-Update am 8. Mai 2025**
 
-### Wartungs-Update am Freitag, 8. Mai 2025
+### Wartungs-Update am 8. Mai 2025
 
 Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 

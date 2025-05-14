@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
 source-git-commit: 889157407be97219b0a258c038f5094b197238b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 5. Mai 2025 behoben.
+>Dieses Problem wurde am 5. Mai 2025 behoben.
 
 Hilfe-Links in [!DNL Workfront Fusion] führen derzeit nicht zu den jeweiligen Hilfeseiten. Stattdessen führen alle [!DNL Fusion]-Hilfelinks zur Startseite der [!DNL Workfront]-Dokumentation. Auf dieser Landingpage können Sie nach den benötigten Informationen suchen.
 

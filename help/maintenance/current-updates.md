@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
-workflow-type: ht
-source-wordcount: '1086'
-ht-degree: 100%
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
+workflow-type: tm+mt
+source-wordcount: '1129'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Mai 2025
+
++++**Wartungs-Update am Freitag, 15. Mai 2025**
+
+### Wartungs-Update am Freitag, 15. Mai 2025
+
+#### Berichte
+
+**Fehler beim Anzeigen eines Berichts mit einer Meilenstein -Ansicht**
+
+Wenn ein(e) Benutzende(r) versucht, einen Bericht anzuzeigen, für den eine Meilenstein -Ansicht verfügbar ist, wird der Bericht nicht geladen und zeigt einen Fehler an.
+
++++
 
 +++**Wartungs-Update am 8. Mai 2025**
 

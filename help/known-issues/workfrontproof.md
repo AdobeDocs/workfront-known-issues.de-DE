@@ -5,9 +5,9 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Der schließende Korrekturabzug leitet zur Dokumentliste weiter](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | Donnerstag, 14. Mai 2025 |
+| [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14. Mai 2025 |
 | [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13. Februar 2025 |
 | [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20. Dezember 2024 |
 | [Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7. Juni 2024 |

@@ -4,19 +4,18 @@ description: Beim Versuch, eine andere Benutzerin oder einen anderen Benutzer in
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '58'
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
 
 # Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on February 7, 2025.-->
+>Dieses Problem wurde am Samstag, 7. Februar 2025 behoben.
 
 Beim Versuch, eine andere Benutzerin oder einen anderen Benutzer in einem Korrekturabzug zu taggen, sind einige Benutzende im Feld für automatische Vervollständigung gelegentlich nicht verfügbar.
 

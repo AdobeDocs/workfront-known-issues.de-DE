@@ -3,7 +3,7 @@ user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
 source-git-commit: 9a3bf766e9660d24c6fe9899712f6011980a4c04
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1629'
 ht-degree: 100%
 

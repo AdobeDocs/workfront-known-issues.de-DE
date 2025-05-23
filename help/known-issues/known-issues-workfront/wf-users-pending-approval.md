@@ -42,7 +42,7 @@ Sie können einzelne Benutzer in der Benutzerliste auflösen.
 
 Um Benutzende aufzulösen, die in einem großen Batch hinzugefügt wurden, können Sie den Batch von Benutzenden direkt zur Adobe Admin Console hinzufügen.
 
-Anweisungen finden Sie unter [Mehrere Benutzer verwalten | CSV-Massen-Upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) in der Dokumentation zu Adobe.
+Anweisungen finden Sie unter [Mehrere Benutzer verwalten | CSV-Massen-Upload](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html) in der Dokumentation zu Adobe.
 
 
 _Erste Meldung am Freitag, 8. Mai 2025._

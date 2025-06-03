@@ -3,15 +3,19 @@ title: 'Suche: Die erweiterte Suche gibt nicht die erwarteten Ergebnisse zurück
 description: Wenn eine Benutzerin oder ein Benutzer die erweiterte Suche verwendet, werden die erwarteten Ergebnisse nicht zurückgegeben. Dies kann auch auftreten, wenn auf die erweiterte Suche keine Filter angewendet wurden.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+exl-id: 08e6943d-88a1-46f3-93aa-f4e567990d37
+source-git-commit: 699953cb67f5a32b926e1ab4febad4920d464b8e
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 6%
+source-wordcount: '84'
+ht-degree: 13%
 
 ---
 
-
 # Suche: Die erweiterte Suche gibt nicht die erwarteten Ergebnisse zurück
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 2. Juni 2025 behoben.
 
 Wenn eine Benutzerin oder ein Benutzer die erweiterte Suche verwendet, werden die erwarteten Ergebnisse nicht zurückgegeben. Dies kann auch auftreten, wenn auf die erweiterte Suche keine Filter angewendet wurden.
 

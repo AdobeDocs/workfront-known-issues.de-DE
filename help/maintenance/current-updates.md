@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
 source-wordcount: '1248'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -34,17 +34,17 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 **Die erweiterte Suche gibt nicht die erwarteten Ergebnisse zurück**
 
-Wenn eine Benutzerin oder ein Benutzer die erweiterte Suche verwendet, werden die erwarteten Ergebnisse nicht zurückgegeben. Dies kann auch auftreten, wenn auf die erweiterte Suche keine Filter angewendet wurden.
+Wenn Benutzende die erweiterte Suche verwenden, werden nicht die erwarteten Ergebnisse zurückgegeben. Dies kann selbst dann auftreten, wenn auf die erweiterte Suche keine Filter angewendet wurden.
 
 +++
 
 ## Updates im Mai 2025
 
-+++**Wartungs-Updates vom 26. bis 30. Mai 2025**
++++**Wartungs-Updates vom 26. bis 30. Mai 2025**
 
-### Wartungs-Update vom 26. bis 30. Mai 2025
+### Wartungs-Update vom 26. bis 30. Mai 2025
 
-Die Updates in dieser Woche enthalten nur kleinere oder weniger wichtige Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -52,7 +52,7 @@ Die Updates in dieser Woche enthalten nur kleinere oder weniger wichtige Fehlerb
 
 ### Wartungs-Update am 22. Mai 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -72,7 +72,7 @@ Wenn Benutzende versuchen, einen Bericht anzuzeigen, für den eine Meilensteinan
 
 ### Wartungs-Update am 8. Mai 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -80,7 +80,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am Freitag, 1. Mai 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -90,7 +90,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am Freitag, 24. April 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -98,7 +98,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am 17. April 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -124,7 +124,7 @@ Benutzende in verschiedenen Zeitzonen, die die Datumsauswahl verwenden, um einen
 
 ### Wartungs-Update am 3. April 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -134,7 +134,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am 27. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -142,7 +142,7 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 ### Wartungs-Update am 20. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
@@ -162,7 +162,7 @@ In einem Dashboard-Bericht funktioniert das Klicken auf ein Diagrammergebnis mit
 
 ### Wartungs-Update am 6. März 2025
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 

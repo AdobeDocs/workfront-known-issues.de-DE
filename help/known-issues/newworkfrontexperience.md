@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Ressourcenplaner: Schaltfläche „Exportieren“ ist deaktiviert](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) |  Freitag, 29. Mai 2025 |
+| [Ressourcenplaner: Schaltfläche „Exportieren“ ist deaktiviert](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 29. Mai 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | &#x200B;2. August 2022 |

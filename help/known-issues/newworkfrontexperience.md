@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '939'
 ht-degree: 98%
 
 ---
@@ -26,7 +26,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Berichte: Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | Dienstag, 9. Juni 2025 |
-| [Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert](known-issues-workfront/wf-timesheets-one-week-created.md) | &#x200B;3. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
 | [Korrekturabzüge: Der Korrekturabzug kann nicht über den direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | Dienstag, 9. Juni 2025 |
-| [Ressourcenplaner: Schaltfläche „Exportieren“ ist deaktiviert](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 29. Mai 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | &#x200B;2. August 2022 |

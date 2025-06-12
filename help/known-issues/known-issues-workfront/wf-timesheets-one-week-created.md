@@ -4,14 +4,18 @@ description: Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und d
 hidefromtoc: true
 feature: Timesheets
 exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
-source-git-commit: ca7e024d6729aceb59292533aac20709eb4edf0f
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
 # Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Mittwoch, 10. Juni 2025 behoben.
 
 Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
 

@@ -1,22 +1,22 @@
 ---
-title: 'Arbeitszeittabellen: Arbeitszeittabellen werden nicht korrekt generiert'
-description: Wenn ein(e) Benutzende(r) versucht, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
+title: 'Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert'
+description: Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
-workflow-type: tm+mt
+exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
+source-git-commit: ca7e024d6729aceb59292533aac20709eb4edf0f
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert
 
-# Arbeitszeittabellen: Arbeitszeittabellen werden nicht korrekt generiert
-
-Wenn ein(e) Benutzende(r) versucht, Arbeitszeittabellen zu generieren, und die Generierung auf „Jede zweite Woche“ festgelegt ist, wird nur eine Woche generiert.
+Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
 
 **Umgehungslösung**
 
-Erstellen Sie die Arbeitszeittabellen manuell über Setup > System > Diagnose > Arbeitszeittabellen erstellen .
+Erstellen Sie die Arbeitszeittabellen manuell über „Setup“ > „System“ > „Diagnose“ > „Arbeitszeittabellen erstellen“.
 
-_Erste Meldung am Dienstag, 2. Juni 2025._
+_Erste Meldung am 2. Juni 2025._

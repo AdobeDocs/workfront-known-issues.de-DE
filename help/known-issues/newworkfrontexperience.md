@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '911'
 ht-degree: 98%
 
 ---
@@ -56,7 +56,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | &#x200B;4. März 2025 |
 | [Benachrichtigungen: Duplizieren von E-Mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | &#x200B;27. Februar 2025 |
 | [Dokumente: Ladevorgänge in die Liste der AEM-Ordnerdokumente sind nicht möglich](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | &#x200B;27. Februar 2025 |
-| [Integrationen: Anmelden bei Workfront for Outlook nicht möglich](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | &#x200B;20. Februar 2025 |
 | [Projekte: Die Bedingung „Verspätet“ wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | &#x200B;20. Januar 2025 |
 | [Benutzerdefinierte Formulare: Fehlende Firmen im benutzerdefinierten Feld für automatische Vervollständigung](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | &#x200B;20. Februar 2025 |
 | [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | &#x200B;13. Februar 2025 |
@@ -70,7 +69,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Benachrichtigungen: E-Mail-Benachrichtigungen für Aktualisierungen werden nicht gesendet](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | &#x200B;5. Dezember 2024 |
 | [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | &#x200B;5. Dezember 2024 |
 | [Workfront: ZScaler-Einstellungen können die Leistung beeinträchtigen](known-issues-workfront//wf-workfront-zscaler.md) | &#x200B;20. November 2024 |
-| [Benachrichtigungen: Mitwirkende erhalten keine E-Mail-Benachrichtigungen](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | &#x200B;12. November 2024 |
 | [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | &#x200B;29. Oktober 2024 |
 | [Berichte: Fehler beim Exportieren von Berichten](known-issues-workfront/wf-reports-error-cache-content.md) | &#x200B;14. Oktober 2024 |
 | [Startseite: Gelöschte benutzerdefinierte Felder bleiben in Projekt-, Aufgaben- und Problem-Widgets erhalten](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | &#x200B;8. Oktober 2024 |
@@ -99,7 +97,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25. Oktober 2023 |
 | [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | &#x200B;25. September 2023 |
 | [[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | &#x200B;7. September 2023 |
-| [Korrekturabzüge: Korrekturabzüge werden in Berichten nicht als genehmigt angezeigt](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | &#x200B;3. August 2023 |
 | [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | &#x200B;8. Juni 2023 |
 | [Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | &#x200B;11. April 2023 |
 | [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | &#x200B;27. März 2023 |

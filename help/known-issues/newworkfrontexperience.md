@@ -26,7 +26,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Berichte: Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | Dienstag, 9. Juni 2025 |
-| [Arbeitszeittabellen: Arbeitszeittabellen werden nicht korrekt generiert](known-issues-workfront/wf-timesheets-one-week-created.md) | Mittwoch, 3. Juni 2025 |
+| [Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert](known-issues-workfront/wf-timesheets-one-week-created.md) | &#x200B;3. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}

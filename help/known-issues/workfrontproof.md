@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 98%
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -51,6 +51,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | Dienstag, 16. Juni 2025 |
 | [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | &#x200B;14. Mai 2025 |
 | [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | &#x200B;13. Februar 2025 |
 | [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | &#x200B;20. Dezember 2024 |

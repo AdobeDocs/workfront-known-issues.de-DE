@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
 source-wordcount: '925'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Berichte: Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | Dienstag, 9. Juni 2025 |
+| [Berichte: Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | &#x200B;9. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Korrekturabzüge: Der Korrekturabzug kann nicht über den direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | Dienstag, 9. Juni 2025 |
+| [Korrekturabzüge: Der Korrekturabzug kann nicht über den direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | &#x200B;9. Juni 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | &#x200B;2. August 2022 |

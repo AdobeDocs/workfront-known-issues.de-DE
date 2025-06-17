@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -37,7 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Der Korrekturabzug kann nicht über den direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | Dienstag, 9. Juni 2025 |
+| [Korrekturabzüge: Der Korrekturabzug kann nicht über den direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | &#x200B;9. Juni 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Aktualisierungen: Einige Benutzende können keine Bilder oder Dokumente sehen, die an Kommentare angehängt sind](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | &#x200B;10. März 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |

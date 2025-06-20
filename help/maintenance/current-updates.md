@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
 workflow-type: tm+mt
 source-wordcount: '1360'
-ht-degree: 94%
+ht-degree: 95%
 
 ---
 
@@ -40,13 +40,13 @@ Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbe
 
 #### Ressourcenplaner
 
-**Export-Schaltfläche ist deaktiviert**
+**Schaltfläche „Exportieren“ ist deaktiviert**
 
-Wenn Benutzende versuchen, Exporte über den Ressourcenplaner auszuführen, ist die Schaltfläche deaktiviert (ausgegraut) und die Person kann keinen Export ausführen.
+Wenn Benutzende versuchen, Exporte über den Ressourcenplaner auszuführen, ist die Schaltfläche deaktiviert (ausgegraut) und die Benutzenden können keinen Export ausführen.
 
 #### Arbeitszeittabellen
 
-**Arbeitszeittabellen werden nicht korrekt generiert**
+**Arbeitszeittabellen nicht korrekt generiert**
 
 Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
 

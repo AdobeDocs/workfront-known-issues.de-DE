@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Timesheets
 exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
 source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Mittwoch, 10. Juni 2025 behoben.
+>Dieses Problem wurde am 10. Juni 2025 behoben.
 
 Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierung auf „Alle zwei Wochen“ festgelegt ist, wird nur eine Woche generiert.
 

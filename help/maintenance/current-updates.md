@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1360'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,17 +26,17 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Juni 2025
 
-+++**Woche der Wartungs-Updates vom 15. bis 21. Juni 2025**
++++**Wartungs-Updates in der Woche vom 15. bis 21. Juni 2025**
 
-### Wartungs-Update vom 15. bis 21. Juni 2025
+### Wartungs-Update in der Woche vom 15. bis 21. Juni 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 8. bis 14. Juni 2025**
++++**Wartungs-Updates in der Woche vom 8. bis 14. Juni 2025**
 
-### Wartungs-Update vom 8. bis 14. Juni 2025
+### Wartungs-Update in der Woche vom 8. bis 14. Juni 2025
 
 #### Ressourcenplaner
 
@@ -52,9 +52,9 @@ Wenn Benutzende versuchen, Arbeitszeittabellen zu generieren, und die Generierun
 
 +++
 
-+++**Woche der Wartungs-Updates vom 1. bis 7. Juni 2025**
++++**Wartungs-Updates in der Woche vom 1. bis 7. Juni 2025**
 
-### Wartungs-Update vom 1. bis 7. Juni 2025
+### Wartungs-Update in der Woche vom 1. bis 7. Juni 2025
 
 ### Suchen
 
@@ -66,9 +66,9 @@ Wenn Benutzende die erweiterte Suche verwenden, werden nicht die erwarteten Erge
 
 ## Updates im Mai 2025
 
-+++**Woche der Wartungs-Updates vom 25. bis 31. Mai 2025**
++++**Wartungs-Updates in der Woche vom 25. bis 31. Mai 2025**
 
-### Wartungs-Update vom 25. bis 31. Mai 2025
+### Wartungs-Update in der Woche vom 25. bis 31. Mai 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 

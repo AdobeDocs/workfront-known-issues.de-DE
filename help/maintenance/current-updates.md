@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
-workflow-type: ht
-source-wordcount: '1360'
-ht-degree: 100%
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+workflow-type: tm+mt
+source-wordcount: '1421'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Juni 2025
+
++++**Woche der Wartungs-Updates vom 22. bis 27. Juni 2025**
+
+### Wartungs-Update vom 22. bis 27. Juni 2025
+
+#### Korrekturabzüge
+
+**Korrekturabzug kann nicht über direkten Link geöffnet werden**
+
+Wenn Benutzende versuchen, einen Korrekturabzug über einen direkten Link zu öffnen, wird der Korrekturabzug nicht geöffnet. Dies kann auch dann vorkommen, wenn sich Benutzende in einem Workflow für den Korrekturabzug befinden oder es sich bei der jeweiligen Person um eine bzw. einen Workfront-Admin handelt.
+
++++
 
 +++**Wartungs-Updates in der Woche vom 15. bis 21. Juni 2025**
 

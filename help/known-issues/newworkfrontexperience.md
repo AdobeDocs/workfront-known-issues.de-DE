@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '935'
-ht-degree: 99%
+source-wordcount: '936'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Berichte: Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | &#x200B;9. Juni 2025 |
+| [Aufgaben: Der Bereich Genehmigungen verschwindet aus der linken Navigation](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | Samstag, 27. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}

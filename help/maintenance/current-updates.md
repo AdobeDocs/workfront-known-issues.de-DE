@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1463'
 ht-degree: 98%
 
 ---
@@ -35,6 +35,14 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 **Korrekturabzug kann nicht über direkten Link geöffnet werden**
 
 Wenn Benutzende versuchen, einen Korrekturabzug über einen direkten Link zu öffnen, wird der Korrekturabzug nicht geöffnet. Dies kann auch dann vorkommen, wenn sich Benutzende in einem Workflow für den Korrekturabzug befinden oder es sich bei der jeweiligen Person um eine bzw. einen Workfront-Admin handelt.
+
+#### Berichte
+
+**Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse**
+
+Wenn Benutzende einen Diagrammbericht öffnen und versuchen, einen Drilldown in eine bestimmte Gruppierung durchzuführen, enthalten die Details Ergebnisse, die nicht in der ausgewählten Gruppierung enthalten sind.
+
+Dies wurde in Berichten gemeldet, die nach Datum gruppiert sind.
 
 +++
 
@@ -316,9 +324,9 @@ Trotz ein- oder mehrmaliger erfolgreicher Anmeldung verschwindet das Tag „Nich
 
 #### Dokumente
 
-**Fehler „Ungespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
+**Fehler „Nicht gespeicherte Änderungen“ beim Hinzufügen eines Formulars zu einem Dokument**
 
-Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Ungespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit der Anwendung verhindert.
+Beim Hinzufügen eines Formulars zu einem Dokument wird der Fehler „Nicht gespeicherte Änderungen“ angezeigt, der nicht geschlossen werden kann und die Interaktion mit der Anwendung verhindert.
 
 #### Korrekturabzüge
 

@@ -1,18 +1,18 @@
 ---
-title: 'Aufgaben: Der Bereich Genehmigungen verschwindet aus der linken Navigation'
-description: Wenn ein(e) Benutzende(r) eine Aufgabe aufruft, kann der Bereich Genehmigungen im linken Navigationsbereich verschwinden.
+title: 'Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet'
+description: Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im linken Navigationsbereich ausgeblendet.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: tm+mt
+exl-id: 99fac523-12e9-4542-b8b0-7b8d77899800
+source-git-commit: aa561424db533f807076847d11461500a4866953
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet
 
-# Aufgaben: Der Bereich Genehmigungen verschwindet aus der linken Navigation
+Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im linken Navigationsbereich ausgeblendet. Wird der Genehmigungsbereich aus der Layout-Vorlage entfernt und ihr dann wieder hinzugefügt, wird das Problem behoben, allerdings kann es erneut auftreten.
 
-Wenn ein(e) Benutzende(r) eine Aufgabe aufruft, kann der Bereich Genehmigungen im linken Navigationsbereich verschwinden. Das Entfernen und Hinzufügen des Bereichs Genehmigungen zur Layout-Vorlage behebt das Problem, es kann jedoch erneut auftreten.
-
-_Erste Meldung am Donnerstag, 18. Juni 2025._
+_Erste Meldung am 18. Juni 2025._

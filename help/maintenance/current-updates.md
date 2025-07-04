@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1463'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Juni 2025
 
-+++**Woche der Wartungs-Updates vom 22. bis 27. Juni 2025**
++++**Wartungs-Updates in der Woche vom 22. bis 27. Juni 2025**
 
-### Wartungs-Update vom 22. bis 27. Juni 2025
+### Wartungs-Update in der Woche vom 22. bis 27. Juni 2025
 
 #### Korrekturabzüge
 
@@ -38,7 +38,7 @@ Wenn Benutzende versuchen, einen Korrekturabzug über einen direkten Link zu öf
 
 #### Berichte
 
-**Die Drilldown-Liste des Diagramms enthält ungenaue Ergebnisse**
+**Die Drilldown-Liste des Diagramms enthält falsche Ergebnisse**
 
 Wenn Benutzende einen Diagrammbericht öffnen und versuchen, einen Drilldown in eine bestimmte Gruppierung durchzuführen, enthalten die Details Ergebnisse, die nicht in der ausgewählten Gruppierung enthalten sind.
 

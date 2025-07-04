@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 36291406-ea73-4ef0-9af8-571fc82f85da
 source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 26. Juni 2025 behoben.
+>Dieses Problem wurde am 26. Juni 2025 behoben.
 
 Wenn Benutzende einen Diagrammbericht öffnen und versuchen, einen Drilldown in eine bestimmte Gruppierung durchzuführen, enthalten die Details Ergebnisse, die nicht in der ausgewählten Gruppierung enthalten sind.
 

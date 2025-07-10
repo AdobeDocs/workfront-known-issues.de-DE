@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: ht
-source-wordcount: '1463'
-ht-degree: 100%
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+workflow-type: tm+mt
+source-wordcount: '1522'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,20 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
+
+## Updates im Juli 2025
+
++++**Woche der Wartungs-Updates vom 6. bis 12. Juli 2025**
+
+### Woche der Wartungs-Updates vom 6. bis 12. Juli
+
+### Projekte
+
+**Das Projekt kann nicht in das angegebene Programm verschoben werden**
+
+Beim Versuch, ein Projekt in ein Programm zu verschieben, wird das Projekt nicht verschoben. Dies kann auch dann vorkommen, wenn eine Meldung ausgegeben wurde, dass das Projekt erfolgreich verschoben wurde.
+
++++
 
 ## Updates im Juni 2025
 

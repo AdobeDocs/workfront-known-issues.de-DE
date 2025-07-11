@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
 source-wordcount: '955'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Setup: Anmeldung als anderer Benutzer nicht möglich](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | Dienstag, 7. Juli 2025 |
-| [Integrationen: Probleme mit der Integration von Workfront mit Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | Dienstag, 7. Juli 2025 |
+| [Setup: Anmeldung als andere Benutzerin bzw. anderer Benutzer nicht möglich](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 7. Juli 2025 |
+| [Integrationen: Probleme mit der Integration von Workfront für Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 7. Juli 2025 |
 | [Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | &#x200B;27. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 

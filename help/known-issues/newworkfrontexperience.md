@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '955'
-ht-degree: 99%
+source-wordcount: '963'
+ht-degree: 96%
 
 ---
 
@@ -52,7 +52,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16. Juni 2025 |
+| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | Mittwoch, 15. Juli 2025 |
+| [Korrekturabzüge: Benutzende können in der Vorschau-Umgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16. Juni 2025 |
 | [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | &#x200B;14. Mai 2025 |
 | [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | &#x200B;26. März 2025 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | &#x200B;13. März 2025 |

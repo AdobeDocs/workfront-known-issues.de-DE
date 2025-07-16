@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
 source-wordcount: '963'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | Freitag, 10. Juli 2025 |
+| [Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | &#x200B;10. Juli 2025 |
 | [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | &#x200B;17. Juni 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |

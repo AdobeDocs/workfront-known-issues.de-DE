@@ -1,20 +1,20 @@
 ---
 title: 'Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm'
-description: Wenn ein(e) Benutzende(r) versucht, ein vorhandenes Projekt zu einem Programm hinzuzufügen, wird das Projekt nicht hinzugefügt und eine Fehlermeldung wird angezeigt.
+description: Beim Versuch, einem Programm ein vorhandenes Projekt hinzuzufügen, wird das Projekt nicht hinzugefügt und es wird eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: Projects
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
-workflow-type: tm+mt
+exl-id: 08a94491-a967-4444-a362-fc3af9fd7247
+source-git-commit: e797ff513e0afde584a6ad3aa1ff2a617870a2cd
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm
 
-Wenn ein(e) Benutzende(r) versucht, ein vorhandenes Projekt zu einem Programm hinzuzufügen, wird das Projekt nicht hinzugefügt und die folgende Fehlermeldung wird angezeigt:
+Beim Versuch, einem Programm ein vorhandenes Projekt hinzuzufügen, wird das Projekt nicht hinzugefügt und es wird folgende Fehlermeldung angezeigt:
 
-„Fehler beim Laden des sekundären Inhalts…“
+„Fehler beim Laden sekundärer Inhalte …“
 
-_Erste Meldung am Samstag, 4. Juli 2025._
+_Erste Meldung am 4. Juli 2025._

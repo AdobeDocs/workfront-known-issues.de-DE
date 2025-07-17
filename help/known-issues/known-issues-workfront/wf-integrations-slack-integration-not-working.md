@@ -3,15 +3,19 @@ title: 'Integrationen: Probleme mit der Integration von Workfront für Slack'
 description: Es wurden mehrere Probleme bezüglich der Integration von Workfront für Slack gemeldet.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+exl-id: 6c3d7e68-f174-4672-a68d-c4e71438349e
+source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 89%
 
 ---
 
-
 # Integrationen: Probleme mit der Integration von Workfront für Slack
+
+>[!NOTE]
+>
+>Dieses Problem wurde am 16. Juli 2025 behoben.
 
 Die folgenden Probleme wurden bezüglich der Integration von Workfront für Slack gemeldet:
 

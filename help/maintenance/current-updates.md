@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
-workflow-type: ht
-source-wordcount: '1522'
-ht-degree: 100%
+source-git-commit: 6981a09efc71d2b7b5c20362878b0101ffd00b06
+workflow-type: tm+mt
+source-wordcount: '1590'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,22 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Juli 2025
+
++++**Woche der Wartungs-Updates vom 13. bis 19. Juli 2025**
+
+### Woche der Wartungs-Updates vom 13. Juli 192
+
+### Integrationen
+
+**Probleme mit der Integration von Workfront für Slack**
+
+Die folgenden Probleme wurden bezüglich der Integration von Workfront für Slack gemeldet:
+
+* Benutzende werden in Slack nicht benachrichtigt, wenn Aktualisierungen in Workfront vorgenommen werden.
+* Benutzende können sich in Slack nicht bei Workfront anmelden.
+* Andere Befehle in der Integration von Workfront für Slack funktionieren nicht erwartungsgemäß.
+
++++
 
 +++**Wartungs-Updates in der Woche vom 6. bis 12. Juli 2025**
 

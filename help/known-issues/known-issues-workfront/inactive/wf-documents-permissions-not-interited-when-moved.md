@@ -4,7 +4,7 @@ description: 'Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt vers
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ Wenn ein(e) Benutzende(r) ein Dokument in ein anderes Projekt verschiebt, erbt d
 Alternativ können Sie die ID des Dokuments (aus der URL der [!UICONTROL Dokumentdetailseite]) notieren und sich an den [!DNL Workfront]-Support wenden.
 
 _Erste Meldung am 6. Januar 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->

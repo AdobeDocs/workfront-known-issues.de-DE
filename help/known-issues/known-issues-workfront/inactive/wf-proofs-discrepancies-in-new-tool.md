@@ -4,7 +4,7 @@ description: Workfront hat kürzlich das Tool zur Bearbeitung von Korrekturabzü
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -24,3 +24,6 @@ Workfront arbeitet an der Aktualisierung seiner Bibliotheken, um sie mit dem alt
 Wenn bei der Verarbeitung solcher Dateien Probleme auftreten, empfehlen wir zunächst, die Seiten in JPG oder PNG zu exportieren und zu testen.
 
 _Erste Meldung am Mittwoch, 15. August 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

@@ -4,8 +4,8 @@ description: Wenn Benutzende versuchen, eine hohe Anzahl von Audit-Protokollen z
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
-workflow-type: ht
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -24,3 +24,6 @@ Wenn Benutzende versuchen, eine hohe Anzahl von Audit-Protokollen zu exportieren
 Exportieren Sie weniger Protokolle in einem Export.
 
 _Erste Meldung am 20. Juni 2023._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

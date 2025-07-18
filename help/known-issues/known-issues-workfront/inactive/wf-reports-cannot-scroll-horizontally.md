@@ -4,7 +4,7 @@ description: Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft 
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
@@ -20,3 +20,6 @@ ht-degree: 100%
 Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft und versucht, in ihm einen horizontalen Bildlauf durchzuführen, wird der Bericht überhaupt nicht gescrollt oder die Spaltenüberschriften laufen den entsprechenden Spalten hinterher. Wenn der Bericht eine große Anzahl von Spalten aufweist, kann beim horizontalen Bildlauf die Seite einfrieren.
 
 _Erste Meldung am 24. Februar 2021._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

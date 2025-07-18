@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1367'
 ht-degree: 98%
 
 ---
@@ -36,17 +36,8 @@ ht-degree: 98%
       + [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [Dashboards: Benutzerdefiniertes Dashboard wird nicht geöffnet](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [Anfragen: URLs mit eingebettetem Code laden die Anfragewarteschlange nicht ordnungsgemäß](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [Berichte: Benutzende in verschiedenen Zeitzonen erhalten unterschiedliche Berichtsergebnisse](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [Benutzende: Gruppen-Admins können Benutzende nicht deaktivieren](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [Startseite: Antworten können nicht über das Widget „Erwähnungen“ gesendet werden](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [Aktualisierungen: Aktualisierungen sind verzögert](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [Korrekturabzüge: Die Erstellung von Korrekturabzügen ist langsam](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [Anfragen: Anfrage-Warteschlange nicht verfügbar](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Projekte: Der Fortschrittsstatus des Projektfortschritts wird nicht automatisch auf „Verspätet“ aktualisiert](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [Aktualisierungen: Einige Benutzende können keine Bilder oder Dokumente sehen, die an Kommentare angehängt sind](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Benachrichtigungen: Duplizieren von E-Mails](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 98%
       + [Dokumente: Ladevorgänge in die Liste der AEM-Ordnerdokumente sind nicht möglich](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Anmelden als: Startseiten-Layout-Vorlage von Admins wird angezeigt](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Benutzende: Beim Wechsel der bzw. des Systemadmins werden doppelte Konten erstellt](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Projekte: Die Bedingung „Verspätet“ wird nicht wie erwartet angewendet](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Berichte: Bericht-Prompts werden langsam geladen](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 98%
       + [Workfront: Mehrere Registerkarten im Browser führen zur Abmeldung von Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Anfragen: Benutzende können den Status trotz fehlender Berechtigungen ändern](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Berichte: Fehler beim Exportieren von Berichten](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Benutzerdefinierte Formulare: Berechnetes Feld zeigt einen falschen Wert an](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion: Eine Verbindung kann nicht mit „Workfront-Anmeldung“ als Funktion authentifiziert werden](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Portfolios: Benutzende können das Portfolio nicht festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 98%
       + [Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint] verknüpftes Dokument](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [Dokumente: Optionen für [!UICONTROL Korrekturabzugsaktivitäten] führen zur Anmeldeseite](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL Lastenausgleich]: Stunden werden nicht entsprechend den Ausfallzeiten von Benutzenden angepasst](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Keine Optionen für das Workfront-Ereignisabonnement Version 2 beim Herstellen einer Verbindung mit einer Sandbox-Umgebung](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion: Das Szenario wird nicht ausgeführt](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: Trotz Starteinstellung „Von jetzt an“ werden alle Daten verarbeitet](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder daraus gelöscht werden](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -198,7 +185,7 @@ ht-degree: 98%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 97%
+source-wordcount: '960'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Korrekturabzüge: Benutzende können nicht in Korrekturabzugskommentaren getaggt werden](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | Samstag, 18. Juli 2025 |
 | [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | Donnerstag, 16. Juli 2025 |
 | [Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | &#x200B;27. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -37,7 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | &#x200B;10. Juli 2025 |
+| [Korrekturabzüge: Benutzende können nicht in Korrekturabzugskommentaren getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |
 | [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | &#x200B;17. Juni 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |

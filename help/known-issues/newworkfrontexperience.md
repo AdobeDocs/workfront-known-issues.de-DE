@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 95%
+source-wordcount: '952'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Korrekturabzüge: Benutzende können nicht in Korrekturabzugskommentaren getaggt werden](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | Samstag, 18. Juli 2025 |
 | [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | Donnerstag, 16. Juli 2025 |
 | [Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | &#x200B;27. Juni 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
@@ -52,8 +51,8 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | Mittwoch, 15. Juli 2025 |
-| [Korrekturabzüge: Benutzende können in der Vorschau-Umgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16. Juni 2025 |
+| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | &#x200B;15. Juli 2025 |
+| [Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16. Juni 2025 |
 | [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | &#x200B;14. Mai 2025 |
 | [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | &#x200B;26. März 2025 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | &#x200B;13. März 2025 |

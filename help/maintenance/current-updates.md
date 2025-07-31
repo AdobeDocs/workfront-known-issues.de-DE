@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 97%
+source-wordcount: '1646'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,11 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ### Wartungs-Update vom 20. bis 26. Juli 2025
 
-Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+#### Korrekturabzüge
+
+**Benutzende können nicht in Korrekturabzugskommentaren getaggt werden**
+
+Wenn ein(e) Benutzende(r) versucht, in einem Korrekturabzugskommentar eine(n) andere(n) Benutzende(n) zu taggen und mit der Eingabe des Benutzernamens beginnt, wird der/die Benutzende nicht in der Liste angezeigt und kann nicht zum Tagging ausgewählt werden.
 
 +++
 

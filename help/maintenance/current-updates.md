@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 95%
+source-wordcount: '1740'
+ht-degree: 90%
 
 ---
 
@@ -29,6 +29,18 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 +++**Woche der Wartungs-Updates vom 20. bis 26. Juli 2025**
 
 ### Wartungs-Update vom 20. bis 26. Juli 2025
+
+#### Projekte
+
+**Es wird jetzt eine Warnung angezeigt, wenn die Zeitleiste nicht neu berechnet wurde**
+
+Benutzende sehen jetzt ein Warnsymbol, wenn die Zeitleiste des Projekts nicht neu berechnet wurde. Wenn Sie den Mauszeiger über dieses Symbol bewegen, wird die folgende Meldung angezeigt:
+
+„Die Timeline des Projekts ist falsch. Möglicherweise müssen die Projektmanager die Timeline manuell neu berechnen.“
+
+Gelegentlich werden Timelines möglicherweise nicht neu berechnet, da ein Projekt extrem komplex ist. Beispielsweise kann ein Projekt mit mehreren Abhängigkeiten, einer großen Anzahl von Aufgaben, mehreren projektübergreifenden Vorgängern oder mehreren Aufgabeneinzügen betroffen sein.
+
+Zuvor gab es keinen Hinweis darauf, dass eine Timeline nicht neu berechnet wurde.
 
 #### Korrekturabzüge
 

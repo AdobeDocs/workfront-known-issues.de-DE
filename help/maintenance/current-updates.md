@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
+source-wordcount: '1801'
 ht-degree: 89%
 
 ---
@@ -26,9 +26,9 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im August 2025
 
-+++**Woche der Wartungs-Updates vom 27. Juli-3. August 2025**
++++**Woche der Wartungs-Updates vom 27. Juli bis 2. August 2025**
 
-### Woche der Wartungs-Updates vom 27. Juli-3. August 2025
+### Woche der Wartungs-Updates vom 27. Juli-2. August 2025
 
 #### Projekte
 
@@ -41,6 +41,12 @@ Benutzende sehen jetzt ein Warnsymbol, wenn die Zeitleiste des Projekts nicht ne
 Gelegentlich werden Timelines möglicherweise nicht neu berechnet, da ein Projekt extrem komplex ist. Beispielsweise kann ein Projekt mit mehreren Abhängigkeiten, einer großen Anzahl von Aufgaben, mehreren projektübergreifenden Vorgängern oder mehreren Aufgabeneinzügen betroffen sein.
 
 Zuvor gab es keinen Hinweis darauf, dass eine Timeline nicht neu berechnet wurde.
+
+#### Aufgaben
+
+**Der Bereich Genehmigungen verschwindet aus dem linken Navigationsbereich**
+
+Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im linken Navigationsbereich ausgeblendet. Wird der Genehmigungsbereich aus der Layout-Vorlage entfernt und ihr dann wieder hinzugefügt, wird das Problem behoben, allerdings kann es erneut auftreten.
 
 +++
 

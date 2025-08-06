@@ -1,18 +1,18 @@
 ---
-title: 'Projekte: Exportierte Projekte enthalten falsche Ist-Stunden'
-description: Wenn ein(e) Benutzende(r) ein Projekt in Excel exportiert, werden in der Spalte Tatsächliche Stunden nicht die richtigen Daten angezeigt.
+title: 'Projekte: Exportierte Projekte enthalten falsche tatsächliche Stunden'
+description: Wenn Benutzende ein Projekt in Excel exportieren, werden in der Spalte „Tatsächliche Stunden“ nicht die richtigen Daten angezeigt.
 hidefromtoc: true
 feature: Projects
-source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
-workflow-type: tm+mt
+exl-id: d4eda569-e38d-4fe7-8417-fc21ed5f145a
+source-git-commit: 6f7218ea0e20653b94ec0eeba7bf3b3851f21e79
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Projekte: Exportierte Projekte enthalten falsche tatsächliche Stunden
 
-# Projekte: Exportierte Projekte enthalten falsche Ist-Stunden
+Wenn Benutzende ein Projekt in Excel exportieren, werden in der Spalte „Tatsächliche Stunden“ nicht die richtigen Daten angezeigt.
 
-Wenn ein(e) Benutzende(r) ein Projekt in Excel exportiert, werden in der Spalte Tatsächliche Stunden nicht die richtigen Daten angezeigt.
-
-_Erste Meldung am Montag, 29. Juni 2025._
+_Erste Meldung am 29. Juni 2025._

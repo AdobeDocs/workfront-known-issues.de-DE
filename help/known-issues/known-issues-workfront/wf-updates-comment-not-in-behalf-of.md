@@ -1,17 +1,17 @@
 ---
-title: 'Aktualisierungen: Kommentare werden nicht im Namen von angezeigt'
-description: Wenn Admins als ein anderer Benutzer angemeldet sind und einen Kommentar abgeben, wird der Kommentar diesem Benutzer zugeordnet und nicht dem Administrator im Namen des Benutzers.
+title: 'Aktualisierungen: Der Zusatz „im Auftrag von“ wird in Kommentaren nicht angezeigt'
+description: Wenn eine Administratorin bzw. ein Administrator als jemand anderes angemeldet ist und einen Kommentar verfasst, wird dieser Kommentar der anderen Person zugeordnet und nicht der Administratorin bzw. dem Administrator im Auftrag der Person.
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 896e6dcb-945d-4563-80b4-f1e1eeb2eddb
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
-# Aktualisierungen: Für Kommentare wird nicht der Zusatz „[!UICONTROL im Auftrag von]“ angezeigt
+# Aktualisierungen: Für Kommentare wird nicht der Zusatz [!UICONTROL im Auftrag von] angezeigt
 
 >[!NOTE]
 >

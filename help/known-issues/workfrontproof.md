@@ -5,7 +5,7 @@ keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '381'
 ht-degree: 100%
 

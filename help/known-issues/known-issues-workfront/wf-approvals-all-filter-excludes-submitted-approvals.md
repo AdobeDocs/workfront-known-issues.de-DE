@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Wenn Genehmigungen im Widget „Meine Genehmigungen“ auf der Startseite oder a
 
 _Erste Meldung am 16. Oktober 2024._
 
-&lt;!—CHECK ME—1 view April-Juni 2025—>
+&lt;!—CHECK ME—1 Ansicht April–Juni 2025—>

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
 source-wordcount: '944'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | Donnerstag, 16. Juli 2025 |
+| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | &#x200B;16. Juli 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -36,7 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Korrekturabzüge: Benutzende können nicht in Korrekturabzugskommentaren getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |
+| [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |
 | [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | &#x200B;17. Juni 2025 |
 | [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md) |  23. Mai 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |

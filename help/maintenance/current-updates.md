@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
 source-wordcount: '1801'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -52,21 +52,21 @@ Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im link
 
 ## Updates im Juli 2025
 
-+++**Woche der Wartungs-Updates vom 20. bis 26. Juli 2025**
++++**Wartungs-Updates in der Woche vom 20. bis 26. Juli 2025**
 
 ### Woche der Wartungs-Updates vom 20. bis 26. Juli 2025
 
 #### Korrekturabzüge
 
-**Benutzende können nicht in Korrekturabzugskommentaren getaggt werden**
+**Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden**
 
-Wenn ein(e) Benutzende(r) versucht, in einem Korrekturabzugskommentar eine(n) andere(n) Benutzende(n) zu taggen und mit der Eingabe des Benutzernamens beginnt, wird der/die Benutzende nicht in der Liste angezeigt und kann nicht zum Tagging ausgewählt werden.
+Wenn Benutzende versuchen, andere Benutzende in einem Kommentar zu einem Korrekturabzug zu taggen und mit der Eingabe des Benutzernamens beginnen, wird der Benutzername nicht in der Liste angezeigt und kann nicht zum Tagging ausgewählt werden.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 13. bis 19. Juli 2025**
++++**Wartungs-Updates in der Woche vom 13. bis 19. Juli 2025**
 
-### Woche der Wartungs-Updates vom 13. Juli 192
+### Wartungs-Updates in der Woche vom 13. bis 19. Juli
 
 ### Integrationen
 

@@ -4,9 +4,9 @@ description: Die Ausführung eines Szenarios schlägt fehl wegen zu geringem Spe
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
+>Dieses Problem wurde behoben.
 
 Die Ausführung eines Szenarios schlägt fehl wegen zu geringem Speicher. Dies kann auch auftreten, wenn das Szenario zuvor erfolgreich ausgeführt wurde.
 

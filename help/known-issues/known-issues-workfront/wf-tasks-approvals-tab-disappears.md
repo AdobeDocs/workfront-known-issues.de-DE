@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks
 exl-id: 99fac523-12e9-4542-b8b0-7b8d77899800
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 1. August 2025 behoben.
+>Dieses Problem wurde am 1. August 2025 behoben.
 
 Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im linken Navigationsbereich ausgeblendet. Wird der Genehmigungsbereich aus der Layout-Vorlage entfernt und ihr dann wieder hinzugefügt, wird das Problem behoben, allerdings kann es erneut auftreten.
 

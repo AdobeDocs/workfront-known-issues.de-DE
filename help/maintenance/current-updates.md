@@ -4,9 +4,9 @@ description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1801'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,37 +24,37 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
-## Updates im August 2025
+## Updates im August 2025
 
-+++**Woche der Wartungs-Updates vom 27. Juli bis 2. August 2025**
++++**Wartungs-Updates in der Woche vom 27. Juli bis zum 2. August 2025**
 
-### Woche der Wartungs-Updates vom 27. Juli-2. August 2025
+### Wartungs-Updates in der Woche vom 27. Juli bis zum 2. August 2025
 
 #### Projekte
 
-**Es wird jetzt eine Warnung angezeigt, wenn die Zeitleiste nicht neu berechnet wurde**
+**Es wird jetzt eine Warnung angezeigt, wenn die Timeline nicht neu berechnet wurde**
 
-Benutzende sehen jetzt ein Warnsymbol, wenn die Zeitleiste des Projekts nicht neu berechnet wurde. Wenn Sie den Mauszeiger über dieses Symbol bewegen, wird die folgende Meldung angezeigt:
+Benutzende sehen jetzt ein Warnsymbol, wenn die Timeline des Projekts nicht neu berechnet wurde. Wenn Sie den Mauszeiger über dieses Symbol bewegen, wird die folgende Meldung angezeigt:
 
-„Die Timeline des Projekts ist falsch. Möglicherweise müssen die Projektmanager die Timeline manuell neu berechnen.“
+„Die Timeline des Projekts ist nicht korrekt. Möglicherweise muss die Timeline durch das Projekt-Management manuell neu berechnet werden.“
 
-Gelegentlich werden Timelines möglicherweise nicht neu berechnet, da ein Projekt extrem komplex ist. Beispielsweise kann ein Projekt mit mehreren Abhängigkeiten, einer großen Anzahl von Aufgaben, mehreren projektübergreifenden Vorgängern oder mehreren Aufgabeneinzügen betroffen sein.
+Gelegentlich werden Timelines möglicherweise nicht neu berechnet, da ein Projekt extrem komplex ist. Beispielsweise kann ein Projekt mit mehreren Abhängigkeiten, einer großen Anzahl von Aufgaben, mehreren projektübergreifenden Vorgängern oder mehreren Aufgabeneinrückungen betroffen sein.
 
 Zuvor gab es keinen Hinweis darauf, dass eine Timeline nicht neu berechnet wurde.
 
 #### Aufgaben
 
-**Der Bereich Genehmigungen verschwindet aus dem linken Navigationsbereich**
+**Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet**
 
 Beim Aufrufen einer Aufgabe wird der Genehmigungsbereich möglicherweise im linken Navigationsbereich ausgeblendet. Wird der Genehmigungsbereich aus der Layout-Vorlage entfernt und ihr dann wieder hinzugefügt, wird das Problem behoben, allerdings kann es erneut auftreten.
 
 +++
 
-## Updates im Juli 2025
+## Updates im Juli 2025
 
 +++**Wartungs-Updates in der Woche vom 20. bis 26. Juli 2025**
 
-### Woche der Wartungs-Updates vom 20. bis 26. Juli 2025
+### Wartungs-Updates in der Woche vom 20. bis 26. Juli 2025
 
 #### Korrekturabzüge
 

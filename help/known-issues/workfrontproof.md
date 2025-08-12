@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
-workflow-type: ht
-source-wordcount: '381'
-ht-degree: 100%
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+workflow-type: tm+mt
+source-wordcount: '394'
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, werden nicht benachrichtigt](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | Mittwoch, 12. August 2025 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |
 | [Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | &#x200B;8. Mai 2024 |

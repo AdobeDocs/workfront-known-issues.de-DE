@@ -4,8 +4,8 @@ description: Beim Erstellen einer Verbindung in Workfront Fusion können Benutze
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -21,5 +21,5 @@ Beim Erstellen einer Workfront-Verbindung in Workfront Fusion können Benutzende
 
 _Erste Meldung am 18. Juli 2024._
 
-<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025 (June 23 and Aug 13)-->
 

@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Aktualisierungen am Webhook werden nicht automatisch gespeichert](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | Donnerstag, 6. August 2025 |
+| [Workfront Fusion: Aktualisierungen am Webhook werden nicht automatisch gespeichert](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 6. August 2025 |
 | [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | &#x200B;13. Februar 2025 |
 | [Workfront Fusion: Trotz Starteinstellung „Von jetzt an“ werden alle Daten verarbeitet](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | &#x200B;29. Oktober 2024 |
 | [Workfront Fusion: Feld fehlt im Modul](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | Dienstag, 5. Februar 2024 |

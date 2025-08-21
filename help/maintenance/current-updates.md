@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9fb1fd8ba321c8b86a5f56228c4c64b668036754
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '1879'
-ht-degree: 98%
+source-wordcount: '1957'
+ht-degree: 96%
 
 ---
 
@@ -26,13 +26,33 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im August 2025
 
++++**Woche der Wartungs-Updates vom 17. bis 23. August 2025**
+
+### Wartungs-Update vom 17. bis 25. August 2025
+
+#### Projekte
+
+**Fehler beim Hinzufügen eines Projekts zu einem Programm**
+
+Beim Versuch, einem Programm ein vorhandenes Projekt hinzuzufügen, wird das Projekt nicht hinzugefügt und es wird folgende Fehlermeldung angezeigt:
+
+„Fehler beim Laden sekundärer Inhalte …“
+
+**Exportierte Projekte enthalten falsche Ist-Stunden**
+
+Wenn Benutzende ein Projekt in Excel exportieren, werden in der Spalte „Tatsächliche Stunden“ nicht die richtigen Daten angezeigt.
+
++++
+
 +++**Woche der Wartungs-Updates vom 10. bis 16. August 2025**
 
 ### Wartungs-Update vom 10. bis 16. August 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
-++++++**Woche der Wartungs-Updates vom 3. bis 9. August 2025**
++++
+
++++**Woche der Wartungs-Updates vom 3. bis 9. August 2025**
 
 ### Wartungs-Update vom 3. bis 9. August 2025
 

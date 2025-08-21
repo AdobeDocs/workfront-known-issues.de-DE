@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | &#x200B;16. Juli 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -68,7 +67,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | &#x200B;20. Dezember 2024 |
 | [Workfront: Änderungen des Datumsformats in der gesamten Anwendung](known-issues-workfront/wf-workfront-date-format-changing.md) | &#x200B;20. Dezember 2024 |
 | [Genehmigungen: Delegierte Genehmigungen werden für Beauftragte nicht angezeigt](known-issues-workfront/wf-approvals-delegation-not-working.md) | &#x200B;20. Dezember 2024 |
-| [Aufgaben: Datenbankfehler beim Hinzufügen oder Löschen einer Aufgabe (zuvor BizContext-Fehler)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | &#x200B;10. Dezember 2024 |
 | [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenübersicht hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | &#x200B;4. November 2024 |
 | [Benachrichtigungen: E-Mail-Benachrichtigungen für Aktualisierungen werden nicht gesendet](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | &#x200B;5. Dezember 2024 |
 | [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | &#x200B;5. Dezember 2024 |

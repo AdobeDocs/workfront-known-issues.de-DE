@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
 source-wordcount: '1957'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -44,17 +44,17 @@ Wenn Benutzende ein Projekt in Excel exportieren, werden in der Spalte „Tatsä
 
 +++
 
-+++**Woche der Wartungs-Updates vom 10. bis 16. August 2025**
++++**Wartungs-Updates in der Woche vom 10. bis 16. August 2025**
 
-### Wartungs-Update vom 10. bis 16. August 2025
+### Wartungs-Update in der Woche vom 10. bis 16. August 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 3. bis 9. August 2025**
++++**Wartungs-Updates in der Woche vom 3. bis 9. August 2025**
 
-### Wartungs-Update vom 3. bis 9. August 2025
+### Wartungs-Update in der Woche vom 3. bis 9. August 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 

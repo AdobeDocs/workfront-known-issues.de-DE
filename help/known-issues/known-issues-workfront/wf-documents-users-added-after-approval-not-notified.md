@@ -1,18 +1,18 @@
 ---
-title: 'Dokumente: Benutzer, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, werden nicht benachrichtigt'
-description: Wenn ein(e) Benutzende(r) ein Dokument genehmigt hat und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigungen über die Genehmigungsanfrage.
+title: 'Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung'
+description: Wenn ein Dokument bereits genehmigt wurde und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigung über die Genehmigungsanfrage.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
-workflow-type: tm+mt
+exl-id: b636c6ea-7c31-47f1-8b15-4e62c593ed07
+source-git-commit: e3fbdba51652d4cff44f0e955bc1acd5d44bf270
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung
 
-# Dokumente: Benutzer, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, werden nicht benachrichtigt
+Wenn ein Dokument bereits genehmigt wurde und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigung über die Genehmigungsanfrage.
 
-Wenn ein(e) Benutzende(r) ein Dokument genehmigt hat und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigungen über die Genehmigungsanfrage.
-
-_Erste Meldung am Dienstag, 28. Juli 2025._
+_Erste Meldung am 28. Juli 2025._

@@ -4,7 +4,7 @@ description: Wenn ein Feld auf einer Karte auf dem Kanban-Board über ein benutz
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,3 +24,4 @@ Wenn ein Feld auf einer Karte auf dem Kanban-Board über ein benutzerdefiniertes
 Öffnen Sie die Aufgabe und bearbeiten Sie das Feld im Fenster [!UICONTROL Aufgabe bearbeiten].
 
 _Erste Meldung am 12. April 2022._
+

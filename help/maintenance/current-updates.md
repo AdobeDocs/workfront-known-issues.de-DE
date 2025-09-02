@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
-ht-degree: 98%
+source-wordcount: '2091'
+ht-degree: 93%
 
 ---
 
@@ -24,11 +24,33 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
+## Updates im September 2025
+
++++**Woche der Wartungs-Updates vom 31. August bis zum 6. September 2025**
+
+### Wartungs-Update vom 31. August bis 6. September 2025
+
+#### API
+
+**Neue Leitplanken, um zu verhindern, dass Ereignisabonnements überlastet werden**
+
+Ereignisabonnements bieten einen zuverlässigen Versand von Ereignissen für alle Benutzer. Um dies sicherzustellen, wurden Schutzmaßnahmen eingeführt, um eine übermäßige Ereignisproduktion von einem einzelnen Benutzer zu verhindern, die potenzielle Probleme mit der Service-Qualität für alle Benutzer verursachen könnte. Daher kann es bei Benutzenden, die innerhalb eines kurzen Zeitraums zu viele Ereignisse mit hoher Rate produzieren, zu Sandbox- und Verzögerungen bei der Ereignisbereitstellung kommen.
+
++++
+
 ## Updates im August 2025
+
++++**Woche der Wartungs-Updates vom 24. bis 30. August 2025**
+
+### Wartungs-Update vom 24. bis 30. August 2025
+
+Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+
++++
 
 +++**Woche der Wartungs-Updates vom 17. bis 23. August 2025**
 
-### Wartungs-Update vom 17. bis 25. August 2025
+### Wartungs-Update vom 17. bis 23. August 2025
 
 #### Projekte
 

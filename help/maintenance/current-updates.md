@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
 workflow-type: tm+mt
 source-wordcount: '2091'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -48,19 +48,19 @@ Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbe
 
 +++
 
-+++**Woche der Wartungs-Updates vom 17. bis 23. August 2025**
++++**Wartungs-Updates in der Woche vom 17. bis 23. August 2025**
 
 ### Wartungs-Update vom 17. bis 23. August 2025
 
 #### Projekte
 
-**Fehler beim Hinzufügen eines Projekts zu einem Programm**
+**Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm**
 
 Beim Versuch, einem Programm ein vorhandenes Projekt hinzuzufügen, wird das Projekt nicht hinzugefügt und es wird folgende Fehlermeldung angezeigt:
 
 „Fehler beim Laden sekundärer Inhalte …“
 
-**Exportierte Projekte enthalten falsche Ist-Stunden**
+**Exportierte Projekte enthalten falsche tatsächliche Stunden**
 
 Wenn Benutzende ein Projekt in Excel exportieren, werden in der Spalte „Tatsächliche Stunden“ nicht die richtigen Daten angezeigt.
 

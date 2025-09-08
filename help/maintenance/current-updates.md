@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
+source-wordcount: '2133'
 ht-degree: 94%
 
 ---
@@ -35,6 +35,12 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 **Neue Leitplanken, um zu verhindern, dass Ereignisabonnements überlastet werden**
 
 Ereignisabonnements bieten einen zuverlässigen Versand von Ereignissen für alle Benutzer. Um dies sicherzustellen, wurden Schutzmaßnahmen eingeführt, um eine übermäßige Ereignisproduktion von einem einzelnen Benutzer zu verhindern, die potenzielle Probleme mit der Service-Qualität für alle Benutzer verursachen könnte. Daher kann es bei Benutzenden, die innerhalb eines kurzen Zeitraums zu viele Ereignisse mit hoher Rate produzieren, zu Sandbox- und Verzögerungen bei der Ereignisbereitstellung kommen.
+
+#### Dokumente
+
+**Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt wurden, werden nicht benachrichtigt**
+
+Wenn ein Dokument bereits genehmigt wurde und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigung über die Genehmigungsanfrage.
 
 +++
 

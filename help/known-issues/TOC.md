@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '1370'
-ht-degree: 100%
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+workflow-type: tm+mt
+source-wordcount: '1377'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzende: Die Federation ID eines/r Benutzenden kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)

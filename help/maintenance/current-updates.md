@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
 source-wordcount: '2133'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -26,15 +26,15 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im September 2025
 
-+++**Woche der Wartungs-Updates vom 31. August bis zum 6. September 2025**
++++**Wartungs-Updates in der Woche vom 31. August bis zum 6. September 2025**
 
-### Wartungs-Update vom 31. August bis 6. September 2025
+### Wartungs-Update in der Woche vom 31. August bis zum 6. September 2025
 
 #### API
 
-**Neue Leitplanken, um zu verhindern, dass Ereignisabonnements überlastet werden**
+**Neue Schutzmechanismen zum Verhindern der Überlastung von Ereignisabonnements**
 
-Ereignisabonnements bieten einen zuverlässigen Versand von Ereignissen für alle Benutzer. Um dies sicherzustellen, wurden Schutzmaßnahmen eingeführt, um eine übermäßige Ereignisproduktion von einem einzelnen Benutzer zu verhindern, die potenzielle Probleme mit der Service-Qualität für alle Benutzer verursachen könnte. Daher kann es bei Benutzenden, die innerhalb eines kurzen Zeitraums zu viele Ereignisse mit hoher Rate produzieren, zu Sandbox- und Verzögerungen bei der Ereignisbereitstellung kommen.
+Ereignisabonnements sollen eine zuverlässige Bereitstellung von Ereignissen für alle Benutzenden bieten. Damit dies sichergestellt wird, wurden Schutzmaßnahmen eingeführt, um eine übermäßige Ereignisproduktion durch eine einzelne Person zu verhindern, die potenziell die Service-Qualität für alle Benutzenden beeinträchtigen könnte. Daher kann es bei Benutzenden, die innerhalb eines kurzen Zeitraums zu viele Ereignisse mit hoher Rate produzieren, zu Sandboxing und zu Verzögerungen bei der Ereignisbereitstellung kommen.
 
 #### Dokumente
 
@@ -46,9 +46,9 @@ Wenn ein Dokument bereits genehmigt wurde und dann weitere Benutzende als genehm
 
 ## Updates im August 2025
 
-+++**Woche der Wartungs-Updates vom 24. bis 30. August 2025**
++++**Wartungs-Updates in der Woche vom 24. bis 30. August 2025**
 
-### Wartungs-Update vom 24. bis 30. August 2025
+### Wartungs-Update in der Woche vom 24. bis 30. August 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
@@ -56,7 +56,7 @@ Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbe
 
 +++**Wartungs-Updates in der Woche vom 17. bis 23. August 2025**
 
-### Wartungs-Update vom 17. bis 23. August 2025
+### Wartungs-Update in der Woche vom 17. bis 23. August 2025
 
 #### Projekte
 

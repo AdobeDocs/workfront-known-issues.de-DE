@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
 source-wordcount: '2172'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -47,7 +47,7 @@ Ereignisabonnements sollen eine zuverlässige Bereitstellung von Ereignissen fü
 
 #### Dokumente
 
-**Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt wurden, werden nicht benachrichtigt**
+**Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung**
 
 Wenn ein Dokument bereits genehmigt wurde und dann weitere Benutzende als genehmigende Personen hinzugefügt werden, erhalten die neu hinzugefügten genehmigenden Personen keine In-App- oder E-Mail-Benachrichtigung über die Genehmigungsanfrage.
 

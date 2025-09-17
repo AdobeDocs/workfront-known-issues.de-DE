@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
 source-wordcount: '1019'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
-| [Benutzer: Die Federation ID eines Benutzers kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | Mittwoch, 9. September 2025 |
+| [Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | &#x200B;9. September 2025 |
 | [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12. August 2025 |
 | [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |
 | [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | &#x200B;17. Juni 2025 |

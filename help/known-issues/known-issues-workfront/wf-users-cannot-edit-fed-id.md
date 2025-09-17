@@ -1,24 +1,24 @@
 ---
-title: 'Benutzende: Die Federation ID eines/r Benutzenden kann nicht bearbeitet werden'
-description: Wenn ein Administrator versucht, die Federation ID eines Benutzers zu aktualisieren, ist das Feld für diese Informationen nicht verfügbar und der Administrator kann es nicht aktualisieren.
+title: 'Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden'
+description: Wenn Admins versuchen, die Federation-ID einer Benutzerin oder eines Benutzers zu aktualisieren, ist das Feld für diese Informationen nicht verfügbar und die Admins können es nicht aktualisieren.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Benutzende: Die Federation ID eines/r Benutzenden kann nicht bearbeitet werden
+# Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden
 
 >[!NOTE]
 >
->Dieses Problem betrifft Organisationen, die noch nicht in das Identity Management-System von Adobe migriert wurden
+>Dieses Problem betrifft Organisationen, die noch nicht auf das Identitäts-Management-System von Adobe migriert wurden
 
-Wenn ein Administrator versucht, die Federation ID eines Benutzers zu aktualisieren, ist das Feld für diese Informationen nicht verfügbar und der Administrator kann es nicht aktualisieren.
+Wenn Admins versuchen, die Federation-ID einer Benutzerin oder eines Benutzers zu aktualisieren, ist das Feld für diese Informationen nicht verfügbar und die Admins können es nicht aktualisieren.
 
-Das bedeutet, dass sich der/die Benutzende nicht bei Workfront anmelden kann.
+Das bedeutet, dass sich der bzw. die Benutzende nicht bei Workfront anmelden kann.
 
-_Erste Meldung am Mittwoch, 9. September 2025._
+_Erste Meldung am 9. September 2025._

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '1019'
-ht-degree: 97%
+source-wordcount: '1010'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | Freitag, 11. September 2025 |
 | [Benutzer: Zugriffsebene eines Benutzers kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md) | Freitag, 11. September 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 

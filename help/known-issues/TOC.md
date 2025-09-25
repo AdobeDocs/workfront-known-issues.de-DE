@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
-source-wordcount: '1410'
-ht-degree: 100%
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+workflow-type: tm+mt
+source-wordcount: '1423'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Genehmigungen: Genehmigung wird als „Keine Frist“ angezeigt, wenn die Zeit nicht in der Frist enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht aus einer PowerPoint-Datei generiert werden](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [Benutzende: Zugriffsebene einer Person kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md)

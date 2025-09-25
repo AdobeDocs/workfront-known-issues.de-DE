@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1024'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
+| [Genehmigungen: Genehmigung wird als „Keine Frist“ angezeigt, wenn die Zeit nicht in der Frist enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | Freitag, 25. September 2025 |
 | [Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | &#x200B;9. September 2025 |
 | [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12. August 2025 |
 | [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |

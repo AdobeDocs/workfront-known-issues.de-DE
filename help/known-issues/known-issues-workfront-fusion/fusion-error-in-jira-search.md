@@ -4,9 +4,9 @@ description: Das vom alten Jira-Connector verwendete Suchmodul kann zu einem Feh
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -21,17 +21,17 @@ Das vom alten Jira-Connector verwendete Suchmodul kann zu folgendem Fehler führ
 
 `[410] The requested API has been removed. Please migrate to the /rest/api/3/search/jql API. A full migration guideline is available at https://developer.atlassian.com/changelog/#CHANGE-2046`
 
-Dies ist auf eine Einstellung auf der Jira-Seite zurückzuführen.
+Dies ist auf eine Funktionseinstellung aufseiten von Jira zurückzuführen.
 
-Beachten Sie Folgendes:
+Hinweis:
 
-* Nur das Suchmodul ist betroffen. Derzeit sind andere vom Fusion-Connector verwendete Jira-API-Endpunkte von dieser Einstellung nicht betroffen.
+* Betroffen ist nur das Suchmodul. Derzeit sind andere vom Fusion-Connector verwendete Jira-API-Endpunkte hiervon nicht betroffen.
 
-* Der geografische Rollout kann zu Inkonsistenzen führen. Atlassian führt diese Änderung regional ein, was bedeutet, dass einige Jira-Cloud-Instanzen möglicherweise noch vorübergehend ältere Endpunkte unterstützen. Dies kann zu inkonsistentem Verhalten in allen Umgebungen führen.
+* Der geografische Rollout kann zu Inkonsistenzen führen. Atlassian führt diese Änderung regional ein, was bedeutet, dass einige Jira-Cloud-Instanzen ggf. noch vorübergehend ältere Endpunkte unterstützen. Dies kann in allen Umgebungen zu inkonsistentem Verhalten führen.
 
 **Umgehungslösung**
 
-Wenn dieser Fehler auftritt, können Sie das Suchmodul des alten Jira-Connectors durch das Suchmodul des neuen Connectors ersetzen. Beachten Sie, dass Sie mit dem neuen Connector die verwendete API-Version auswählen können. Wählen Sie beim Erstellen **Verbindung unbedingt** V3 **im Feld API-Version** aus.
+Wenn dieser Fehler auftritt, können Sie das Suchmodul des alten Jira-Connectors durch das Suchmodul des neuen Connectors ersetzen. Beachten Sie, dass Sie beim neuen Connector die verwendete API-Version auswählen können. Wählen Sie beim Einrichten der Verbindung unbedingt **V3** im Feld **API-Version**.
 
-_Erste Meldung am Dienstag, 15. September 2025._
+_Erste Meldung am 15. September 2025._
 

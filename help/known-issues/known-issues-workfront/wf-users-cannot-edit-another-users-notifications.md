@@ -1,20 +1,20 @@
 ---
 title: 'Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden'
-description: Wenn ein(e) Benutzende(r) versucht, die Benachrichtigungseinstellungen für eine(n) andere(n) Benutzende(n) zu bearbeiten, können diese Einstellungen nicht bearbeitet werden und eine Fehlermeldung wird angezeigt.
+description: Wenn Benutzende versuchen, die Benachrichtigungseinstellungen für andere Benutzende zu bearbeiten, können sie die Einstellungen nicht bearbeiten und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
 # Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden
 
-Wenn ein(e) Benutzende(r) versucht, die Benachrichtigungseinstellungen für eine(n) andere(n) Benutzende(n) zu bearbeiten, können diese Einstellungen nicht bearbeitet werden und die folgende Meldung wird angezeigt:
+Wenn Benutzende versuchen, die Benachrichtigungseinstellungen für andere Benutzende zu bearbeiten, können sie die Einstellungen nicht bearbeiten und folgende Fehlermeldung wird angezeigt:
 
-„Sie verfügen nicht über genügend Zugriffsrechte, um Finanzdaten zu bearbeiten.“
+„Ihre Zugangsrechte reichen nicht aus, um finanzielle Daten zu bearbeiten.“
 
-_Erste Meldung am Mittwoch, 9. September 2025._
+_Erste Meldung am 9. September 2025._

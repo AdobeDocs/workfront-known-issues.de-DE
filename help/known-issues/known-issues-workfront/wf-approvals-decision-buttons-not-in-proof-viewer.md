@@ -1,17 +1,17 @@
 ---
-title: 'Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden nicht in der Korrekturabzugsansicht angezeigt'
+title: 'Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden in der Korrekturabzugsansicht für Teams nicht angezeigt'
 description: Wenn eine genehmigende Person einen Korrekturabzug in der Korrekturabzugsansicht öffnet und versucht, eine Entscheidung zu treffen, sind die Entscheidungsschaltflächen nicht verfügbar. Eine Umgehungslösung ist verfügbar.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 8%
 
 ---
 
 
-# Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden nicht in der Korrekturabzugsansicht angezeigt
+# Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden in der Korrekturabzugsansicht für Teams nicht angezeigt
 
 Wenn eine genehmigende Person einen Korrekturabzug in der Korrekturabzugsansicht öffnet und versucht, eine Entscheidung zu treffen, sind die Entscheidungsschaltflächen nicht verfügbar.
 

@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '2269'
-ht-degree: 98%
+source-wordcount: '2314'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,20 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
+
+## Updates im Oktober 2025
+
++++**Woche der Wartungs-Updates vom 28. September bis 4. Oktober 2025**
+
+### Woche der Wartungs-Updates vom 28. September bis 4. Oktober 2025
+
+#### Programme
+
+**Speichern beim Bearbeiten eines Programms nicht möglich**
+
+Wenn ein Benutzer ein Programm bearbeitet und versucht, die Änderungen zu speichern, werden die Änderungen nicht gespeichert.
+
++++
 
 ## Updates im September 2025
 

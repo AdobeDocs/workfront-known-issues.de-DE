@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1017'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,6 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Programme: Beim Bearbeiten eines Programms kann nicht gespeichert werden](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | Mittwoch, 30. September 2025 |
 | [Benutzende: Zugriffsebene einer Person kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md) | &#x200B;11. September 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
@@ -57,7 +56,6 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant, jedoch gibt es 
 | [Korrekturabzüge: Korrekturabzug kann nicht aus einer PowerPoint-Datei generiert werden](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | &#x200B;11. September 2025 |
 | [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | &#x200B;15. Juli 2025 |
 | [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md) | &#x200B;26. März 2025 |
-| [Integrationen: OutlookIdentityToken-Fehler bei Verwendung von Workfront für Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | &#x200B;4. März 2025 |
 | [Dokumente: Ladevorgänge in die Liste der AEM-Ordnerdokumente sind nicht möglich](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | &#x200B;27. Februar 2025 |
 | [Korrekturabzüge: Es können keine Korrekturabzüge für Videos erstellt werden, die von AEM über Fusion verknüpft sind](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | &#x200B;13. Februar 2025 |
 | [Korrekturabzüge: WebCapture-Korrekturabzüge werden nicht generiert](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | &#x200B;20. Dezember 2024 |

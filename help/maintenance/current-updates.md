@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
 source-wordcount: '2314'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -34,19 +34,19 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 **Speichern beim Bearbeiten eines Programms nicht möglich**
 
-Wenn ein Benutzer ein Programm bearbeitet und versucht, die Änderungen zu speichern, werden die Änderungen nicht gespeichert.
+Wenn Benutzende ein Programm bearbeiten und versuchen, die Änderungen zu speichern, werden die Änderungen nicht gespeichert.
 
 +++
 
 ## Updates im September 2025
 
-+++**Woche der Wartungs-Updates vom 21. bis 27. September 2025**
++++**Wartungs-Updates in der Woche vom 21. bis zum 27. September 2025**
 
-### Woche der Wartungs-Updates vom 21. bis 27. September 2025
+### Wartungs-Updates in der Woche vom 21. bis zum 27. September 2025
 
 #### Benutzende
 
-**Benachrichtigungseinstellungen für einen anderen Benutzer können nicht bearbeitet werden**
+**Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden**
 
 Wenn Benutzende versuchen, die Benachrichtigungseinstellungen für andere Benutzende zu bearbeiten, können sie die Einstellungen nicht bearbeiten und folgende Fehlermeldung wird angezeigt:
 
@@ -54,9 +54,9 @@ Wenn Benutzende versuchen, die Benachrichtigungseinstellungen für andere Benutz
 
 +++
 
-+++**Woche der Wartungs-Updates vom 14. bis 20. September 2025**
++++**Wartungs-Updates in der Woche vom 14. bis zum 20. September 2025**
 
-### Woche der Wartungs-Updates vom 14. bis 20. September 2025
+### Wartungs-Updates in der Woche vom 14. bis zum 20. September 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: a5abe90c-4583-467e-8131-60bead300673
 source-git-commit: 87c56abf4a5020632877263329f1455bbf4cc7f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Die Integration von Workfront für Outlook ist nicht mehr verfügbar. Dieser Artikel wird in naher Zukunft entfernt.
+>Die Workfront für Outlook-Integration ist nicht mehr verfügbar. Dieser Artikel wird in naher Zukunft entfernt.
 
 Wenn Benutzende die Workfront for Outlook-Integration verwenden, wird möglicherweise der folgende Fehler angezeigt:
 

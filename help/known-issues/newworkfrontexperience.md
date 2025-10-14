@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: ht
-source-wordcount: '1017'
-ht-degree: 100%
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+workflow-type: tm+mt
+source-wordcount: '1042'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Benutzerdefinierte Formulare: Die Anzeigelogik der Felder wird nicht korrekt befolgt](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | Mittwoch, 14. Oktober 2025 |
+| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | Mittwoch, 14. Oktober 2025 |
 | [Benutzende: Zugriffsebene einer Person kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md) | &#x200B;11. September 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
@@ -36,6 +38,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ---------------------------------- | ----------------- |
+| [Benutzende: Erweiterte Optionen können beim Erstellen von Benutzenden nicht verwendet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | Mittwoch, 14. Oktober 2025 |
 | [Genehmigungen: Die Genehmigung wird mit „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25. September 2025 |
 | [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12. August 2025 |
 | [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |

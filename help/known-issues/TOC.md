@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
-workflow-type: ht
-source-wordcount: '1439'
-ht-degree: 100%
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+workflow-type: tm+mt
+source-wordcount: '1461'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Erweiterte Optionen können beim Erstellen von Benutzern nicht verwendet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Benutzerdefinierte Formulare: Die Anzeigelogik der Felder wird nicht korrekt befolgt](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programme: Beim Bearbeiten eines Programms kann nicht gespeichert werden](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden nicht im Viewer für Korrekturabzüge angezeigt](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Genehmigungen: Die Genehmigung wird mit „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)

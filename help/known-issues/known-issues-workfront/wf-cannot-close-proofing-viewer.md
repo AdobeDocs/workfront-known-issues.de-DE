@@ -4,7 +4,7 @@ description: Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korr
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -15,4 +15,4 @@ ht-degree: 100%
 
 Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
 
-_Erste Meldung am Freitag, 9. Oktober 2025._
+_Erste Meldung am 9. Oktober 2025._

@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '1042'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '1033'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Benutzerdefinierte Formulare: Die Anzeigelogik der Felder wird nicht korrekt befolgt](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 14. Oktober 2025 |
-| [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 14. Oktober 2025 |
+| [Berichte: Probleme mit Dropdown-Listen in Diagrammen](known-issues-workfront/wf-reports-dropdown-not-working.md) | Mittwoch, 28. Oktober 2025 |
 | [Benutzende: Zugriffsebene einer Person kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md) | &#x200B;11. September 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 

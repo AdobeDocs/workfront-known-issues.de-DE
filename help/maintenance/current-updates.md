@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: ht
-source-wordcount: '2314'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '2492'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,40 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Oktober 2025
+
++++**Woche der Wartungs-Updates vom 19. bis 25. Oktober 2025**
+
+### Woche der Wartungs-Updates vom 19. bis 25. Oktober 2025
+
+#### Benutzerdefinierte Formulare
+
+**Logik der Feldanzeige wird nicht korrekt befolgt**
+
+Beim Ausfüllen eines benutzerdefinierten Formulars, das eine Anzeigelogik enthält (bei der einige Felder basierend auf den Werten in anderen Feldern angezeigt oder nicht angezeigt werden), werden die Felder nicht auf eine Weise angezeigt, die dieser Feldlogik folgt.
+
+#### Korrekturabzüge
+
+**Korrekturabzug-Viewer kann nicht geschlossen werden**
+
+Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
+
++++
+
++++**Woche der Wartungs-Updates vom 12. bis 18. Oktober 2025**
+
+### Wartungs-Update vom 12. bis 18. Oktober 2025
+
+Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+
++++
+
++++**Woche der Wartungs-Updates vom 5. bis 11. Oktober 2025**
+
+### Wartungs-Update vom 5. bis 11. Oktober 2025
+
+Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+
++++
 
 +++**Wartungs-Updates in der Woche vom 28. September bis zum 4. Oktober 2025**
 

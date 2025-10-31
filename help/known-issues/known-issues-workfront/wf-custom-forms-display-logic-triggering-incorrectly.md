@@ -4,7 +4,7 @@ description: Beim Ausfüllen eines benutzerdefinierten Formulars, das eine Anzei
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Donnerstag, 22. Oktober 2025 behoben.
+>Dieses Problem wurde am 22. Oktober 2025 behoben.
 
 Beim Ausfüllen eines benutzerdefinierten Formulars, das eine Anzeigelogik enthält (bei der einige Felder basierend auf den Werten in anderen Feldern angezeigt oder nicht angezeigt werden), werden die Felder nicht auf eine Weise angezeigt, die dieser Feldlogik folgt.
 

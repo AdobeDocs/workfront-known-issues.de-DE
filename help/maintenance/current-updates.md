@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
 workflow-type: tm+mt
 source-wordcount: '2492'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Oktober 2025
 
-+++**Woche der Wartungs-Updates vom 19. bis 25. Oktober 2025**
++++**Wartungs-Updates in der Woche vom 19. bis 25. Oktober 2025**
 
-### Woche der Wartungs-Updates vom 19. bis 25. Oktober 2025
+### Wartungs-Updates in der Woche vom 19. bis 25. Oktober 2025
 
 #### Benutzerdefinierte Formulare
 
-**Logik der Feldanzeige wird nicht korrekt befolgt**
+**Die Anzeigelogik der Felder wird nicht korrekt befolgt**
 
 Beim Ausfüllen eines benutzerdefinierten Formulars, das eine Anzeigelogik enthält (bei der einige Felder basierend auf den Werten in anderen Feldern angezeigt oder nicht angezeigt werden), werden die Felder nicht auf eine Weise angezeigt, die dieser Feldlogik folgt.
 
@@ -40,21 +40,21 @@ Beim Ausfüllen eines benutzerdefinierten Formulars, das eine Anzeigelogik enth�
 
 **Korrekturabzug-Viewer kann nicht geschlossen werden**
 
-Wenn eine Benutzerin oder ein Benutzer einen Korrekturabzug im Korrekturabzug-Viewer betrachtet und versucht, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
+Wenn Benutzende einen Korrekturabzug im Korrekturabzug-Viewer betrachten und versuchen, den Korrekturabzug durch Klicken auf das X in der oberen rechten Ecke zu schließen, wird der Korrekturabzug nicht geschlossen.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 12. bis 18. Oktober 2025**
++++**Wartungs-Updates in der Woche vom 12. bis 18. Oktober 2025**
 
-### Wartungs-Update vom 12. bis 18. Oktober 2025
+### Wartungs-Update in der Woche vom 12. bis 18. Oktober 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 5. bis 11. Oktober 2025**
++++**Wartungs-Updates in der Woche vom 5. bis 11. Oktober 2025**
 
-### Wartungs-Update vom 5. bis 11. Oktober 2025
+### Wartungs-Update in der Woche vom 5. bis 11. Oktober 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 

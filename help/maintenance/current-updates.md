@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
-ht-degree: 100%
+source-wordcount: '2607'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,39 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
+
+
+
+## Updates im November 2025
+
++++**Woche der Wartungs-Updates vom 26. Oktober bis 1. November 2025**
+
+### Woche der Wartungs-Updates vom 26. Oktober bis 1. November 2025
+
+#### Berichte
+
+**Probleme mit Dropdown-Listen in Diagrammen**
+
+Es wurden folgende Probleme bezüglich Dropdown-Menüs in Diagrammen gemeldet:
+
+* Wenn Benutzende einen Bericht mit einer Dropdown-Spalte anzeigen und die Diagrammfunktion verwenden, funktioniert das Dropdown-Menü im Diagrammfenster nicht.
+* Wenn Benutzende versuchen, über ein Dropdown-Menü andere Benutzende aus einem Bericht zuzuweisen, wird die Zuweisung nicht gespeichert.
+
+#### Benutzende
+
+**Erweiterte Optionen können beim Erstellen von Benutzern nicht verwendet werden**
+
+Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die erweiterte Option zu verwenden, können die Optionen nicht verwendet werden und es wird folgende Meldung angezeigt:
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## Updates im Oktober 2025
 

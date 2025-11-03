@@ -3,15 +3,19 @@ title: 'Benutzende: Erweiterte Optionen können beim Erstellen von Benutzenden n
 description: Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die erweiterte Option zu verwenden, können die Optionen nicht verwendet werden und es wird eine Fehlermeldung angezeigt.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # Benutzende: Erweiterte Optionen können beim Erstellen von Benutzenden nicht verwendet werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 27. Oktober 2025 behoben.
 
 Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die erweiterte Option zu verwenden, können die Optionen nicht verwendet werden und es wird folgende Meldung angezeigt:
 

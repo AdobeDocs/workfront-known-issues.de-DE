@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: ht
-source-wordcount: '1467'
-ht-degree: 100%
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '1476'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzer: Aufgabengebiete können nur nach dem ersten Wort durchsucht werden](known-issues-workfront/wf-users-job-role-first-word.md)
       + [Berichte: Probleme mit Dropdown-Menüs in Diagrammen](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Benutzende: Erweiterte Optionen können beim Erstellen von Benutzenden nicht verwendet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [Benutzerdefinierte Formulare: Die Anzeigelogik der Felder wird nicht korrekt befolgt](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)

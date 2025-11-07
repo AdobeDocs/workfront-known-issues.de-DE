@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
 workflow-type: tm+mt
 source-wordcount: '2646'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -36,13 +36,13 @@ Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbe
 
 +++
 
-+++**Woche der Wartungs-Updates vom 26. Oktober bis 1. November 2025**
++++**Wartungs-Updates in der Woche vom 26. Oktober bis 1. November 2025**
 
-### Woche der Wartungs-Updates vom 26. Oktober bis 1. November 2025
+### Wartungs-Updates in der Woche vom 26. Oktober bis 1. November 2025
 
 #### Berichte
 
-**Probleme mit Dropdown-Listen in Diagrammen**
+**Probleme mit Dropdown-Menüs in Diagrammen**
 
 Es wurden folgende Probleme bezüglich Dropdown-Menüs in Diagrammen gemeldet:
 
@@ -51,7 +51,7 @@ Es wurden folgende Probleme bezüglich Dropdown-Menüs in Diagrammen gemeldet:
 
 #### Benutzende
 
-**Erweiterte Optionen können beim Erstellen von Benutzern nicht verwendet werden**
+**Erweiterte Optionen können beim Erstellen von Benutzenden nicht verwendet werden**
 
 Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die erweiterte Option zu verwenden, können die Optionen nicht verwendet werden und es wird folgende Meldung angezeigt:
 

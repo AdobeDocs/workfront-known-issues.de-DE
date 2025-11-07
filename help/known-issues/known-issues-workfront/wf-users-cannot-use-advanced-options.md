@@ -4,7 +4,7 @@ description: Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 27. Oktober 2025 behoben.
+>Dieses Problem wurde am 27. Oktober 2025 behoben.
 
 Wenn Workfront-Admins versuchen, beim Erstellen von Benutzenden die erweiterte Option zu verwenden, können die Optionen nicht verwendet werden und es wird folgende Meldung angezeigt:
 

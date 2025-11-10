@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 99%
+source-wordcount: '2712'
+ht-degree: 97%
 
 ---
 
@@ -27,6 +27,18 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 
 ## Updates im November 2025
+
++++**Woche der Wartungs-Updates vom 9. bis 15. November 2025**
+
+### Woche der Wartungs-Updates vom 9. bis 15. November 2025
+
+#### Aufgaben
+
+**Das Hinzufügen von Vorgängern ist nicht mehr von den Bearbeitungsuntereinstellungen der Aufgaben in der Zugriffsebene abhängig**
+
+Benutzer können Aufgaben Vorgänger hinzufügen, wenn der Bearbeitungszugriff für Aufgaben in ihrer Zugriffsebene aktiviert ist, unabhängig davon, welche Untereinstellungen Sie ausgewählt haben. Dies ist jetzt mit den vorhandenen API-Funktionen konsistent.
+
++++
 
 +++**Woche der Wartungs-Updates vom 2. bis 8. November 2025**
 

@@ -1,18 +1,18 @@
 ---
-title: 'Genehmigungen: Links zu Genehmigungen nicht verfügbar'
-description: Wenn ein(e) Benutzende(r) einem Objekt als genehmigende Person zugewiesen wird, wird der Link zu diesem Objekt nicht im Bereich Meine Aktualisierungen oder im Widget Meine Genehmigungen in der Startseite angezeigt.
+title: 'Genehmigungen: Links zu Genehmigungen sind nicht verfügbar'
+description: Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der Link zu diesem Objekt nicht im Bereich „Meine Updates“ oder im Widget „Meine Genehmigungen“ auf der Startseite angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront, Updates and Notifications
 source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Genehmigungen: Links zu Genehmigungen nicht verfügbar
+# Genehmigungen: Links zu Genehmigungen sind nicht verfügbar
 
-Wenn ein(e) Benutzende(r) einem Objekt als genehmigende Person zugewiesen wird, wird der Link zu diesem Objekt nicht im Bereich Meine Aktualisierungen oder im Widget Meine Genehmigungen in der Startseite angezeigt.
+Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der Link zu diesem Objekt nicht im Bereich „Meine Updates“ oder im Widget „Meine Genehmigungen“ auf der Startseite angezeigt.
 
-_Erste Meldung am Dienstag, 27. Oktober 2025._
+_Erste Meldung am 27. Oktober 2025._

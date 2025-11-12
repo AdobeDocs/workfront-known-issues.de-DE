@@ -40,9 +40,9 @@ Benutzer können Aufgaben Vorgänger hinzufügen, wenn der Bearbeitungszugriff f
 
 +++
 
-+++**Woche der Wartungs-Updates vom 2. bis 8. November 2025**
++++**Wartungs-Updates in der Woche vom 2. bis 8. November 2025**
 
-### Woche der Wartungs-Updates vom 2. bis 8. November 2025
+### Wartungs-Updates in der Woche vom 2. bis 8. November 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 

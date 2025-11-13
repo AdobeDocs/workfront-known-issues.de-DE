@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 97%
+source-wordcount: '2790'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,18 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 
 ## Updates im November 2025
+
++++**Workfront Planning Maintenance Updates Week of 9-15 November 2025**
+
+### Workfront Planning Maintenance Updates Week of 9-15 November 2025
+
+#### Eintragstypen
+
+**Das Hinzufügen von Vorgängern ist nicht mehr von den Bearbeitungsuntereinstellungen der Aufgaben in der Zugriffsebene abhängig**
+
+Wir haben die Optionen Bearbeiten und Einstellungen aus dem Menü Mehr eines globalen Datensatztyps entfernt, der zu einem sekundären Arbeitsbereich von einem vorhandenen globalen Datensatztyp hinzugefügt wurde. Vor diesem Update waren die Menüs abgeblendet und nicht funktionsfähig.
+
++++
 
 +++**Woche der Wartungs-Updates vom 9. bis 15. November 2025**
 

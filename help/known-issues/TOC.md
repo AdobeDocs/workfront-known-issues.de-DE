@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: ht
-source-wordcount: '1492'
-ht-degree: 100%
+source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+workflow-type: tm+mt
+source-wordcount: '1500'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Aufgaben: Meldung „Unzureichender Zugriff“ bei der Inline-Bearbeitung von Aufgaben](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Genehmigungen: Links zu Genehmigungen sind nicht verfügbar](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Anfragen: Die Person, die ein Anfrageformular erstellt hat, hat keinen Zugriff auf das Formular](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Benutzende: Aufgabengebiete können nur nach dem ersten Wort durchsucht werden](known-issues-workfront/wf-users-job-role-first-word.md)

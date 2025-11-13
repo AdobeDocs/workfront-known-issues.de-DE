@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 #### Eintragstypen
 
-**Das Hinzufügen von Vorgängern ist nicht mehr von den Bearbeitungsuntereinstellungen der Aufgaben in der Zugriffsebene abhängig**
+**Die Optionen Bearbeiten und Einstellungen wurden aus dem Menü Mehr in einem Datensatztyp entfernt**
 
 Wir haben die Optionen Bearbeiten und Einstellungen aus dem Menü Mehr eines globalen Datensatztyps entfernt, der zu einem sekundären Arbeitsbereich von einem vorhandenen globalen Datensatztyp hinzugefügt wurde. Vor diesem Update waren die Menüs abgeblendet und nicht funktionsfähig.
 

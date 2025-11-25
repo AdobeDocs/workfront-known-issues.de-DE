@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 94%
+source-wordcount: '2900'
+ht-degree: 91%
 
 ---
 
@@ -27,6 +27,20 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 
 ## Updates im November 2025
+
++++**Workfront Planning Maintenance Updates Week of 16-22 November 2025**
+
+### Workfront Planning Maintenance Updates Week of 16-22 November 2025
+
+#### Benutzerdefinierte Formulare
+
+**Indikator „Aktiv/Inaktiv“ wurde zur Liste der benutzerdefinierten Formulare hinzugefügt, in denen ein Feld verwendet wird**
+
+Im Designer für benutzerdefinierte Formulare können Sie ein Feld auswählen und auf **Verwandte Forms anzeigen** klicken, um eine Liste aller anderen Formulare anzuzeigen, in denen das Feld verwendet wird. Dadurch wird angezeigt, welche anderen Formulare betroffen sind, wenn Sie das Feld bearbeiten.
+
+Eine Erweiterung dieser Liste ist ein aktiver/inaktiver Indikator für jedes Formular. Sie können auf einen Blick sehen, ob das Feld derzeit in aktiven oder inaktiven Formularen verwendet wird.
+
++++
 
 +++**Workfront Planning Maintenance Updates Week of 9-15 November 2025**
 

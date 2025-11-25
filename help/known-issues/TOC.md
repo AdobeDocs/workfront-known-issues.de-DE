@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 99%
+source-wordcount: '1534'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anfragen: Berechtigungen werden beim Erstellen einer Anfrage nicht vererbt](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Zeitpläne: Berechtigungen zum Zeitplan für eine Gruppe widerrufen](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Arbeitsaufträge: Team-Arbeitsaufträge werden nicht gespeichert](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Aufgaben: Geplante Stunden werden beim Erstellen einer Aufgabe nicht gespeichert](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [Arbeitszeittabellen: Arbeitszeittabellen werden nicht generiert](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Aufgaben: Meldung „Unzureichender Zugriff“ bei der Inline-Bearbeitung von Aufgaben](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Genehmigungen: Links zu Genehmigungen sind nicht verfügbar](known-issues-workfront/wf-approvals-link-not-appearing.md)
@@ -203,13 +207,13 @@ ht-degree: 99%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

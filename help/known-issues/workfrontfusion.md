@@ -4,8 +4,8 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
+source-git-commit: 8c2f913bcda64043a42ffe8477ba23d2dad7d210
+workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
 

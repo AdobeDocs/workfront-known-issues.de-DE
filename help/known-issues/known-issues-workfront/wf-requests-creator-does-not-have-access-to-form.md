@@ -3,9 +3,9 @@ title: 'Anfragen: Die Person, die ein Anfrageformular erstellt hat, hat keinen Z
 description: Wenn Benutzende in Workfront-Planung ein Anfrageformular erstellen und dann versuchen, auf das Formular zuzugreifen, ist der Zugriff nicht möglich und die Meldung „Sie haben keinen Zugriff auf dieses Formular“ wird angezeigt.
 hidefromtoc: true
 feature: Requests
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem betrifft Funktionen, die nur in Workfront-Planung verfügbar sind.
+>* Dieses Problem wurde am Donnerstag, 26. November 2025 behoben.
+>* Dieses Problem betrifft Funktionen, die nur in Workfront-Planung verfügbar sind.
 
 Wenn Benutzende in Workfront-Planung ein Anfrageformular erstellen und dann versuchen, auf das Formular zuzugreifen, ist der Zugriff nicht möglich und die Meldung „Sie haben keinen Zugriff auf dieses Formular“ wird angezeigt.
 

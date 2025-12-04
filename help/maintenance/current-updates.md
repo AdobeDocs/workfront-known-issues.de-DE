@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
 workflow-type: tm+mt
-source-wordcount: '2900'
-ht-degree: 91%
+source-wordcount: '2943'
+ht-degree: 90%
 
 ---
 
@@ -24,7 +24,15 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
+## Updates im Dezember 2025
 
++++**Woche der Wartungs-Updates vom 30. November bis zum 6. Dezember 2025**
+
+### Woche der Wartungs-Updates vom 30. November bis 6. Dezember 2025
+
+Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+
++++
 
 ## Updates im November 2025
 

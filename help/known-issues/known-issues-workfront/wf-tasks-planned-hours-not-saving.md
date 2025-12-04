@@ -3,15 +3,19 @@ title: 'Aufgaben: Geplante Stunden werden beim Erstellen einer Aufgabe nicht ges
 description: ''
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 18%
 
 ---
 
 
 # Aufgaben: Geplante Stunden werden beim Erstellen einer Aufgabe nicht gespeichert
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Donnerstag, 3. Dezember 2025 behoben.
 
 Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und die geplanten Stunden eingibt und die Aufgabe dann speichert, werden die geplanten Stunden nicht gespeichert.
 

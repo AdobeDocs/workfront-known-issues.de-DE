@@ -3,15 +3,19 @@ title: 'Benutzende: Probleme mit Änderungen am Korrekturabzugsprofil'
 description: Es wurden Probleme beim Ändern des Korrekturabzugsprofils einer Benutzerin oder eines Benutzers gemeldet.
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 
 # Benutzende: Probleme mit Änderungen am Korrekturabzugsprofil
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Samstag, 5. Dezember 2025 behoben.
 
 Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers gemeldet:
 

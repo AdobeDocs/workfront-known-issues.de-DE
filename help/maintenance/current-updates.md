@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 90%
+source-wordcount: '3008'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,20 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Dezember 2025
+
++++**Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025**
+
+### Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025
+
+#### Benutzende
+
+**Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte**
+
+Wenn ein(e) Benutzende(r) eine Massenbearbeitung von Benutzenden durchführt, in das Feld Ressourcenpools klickt und keinen Wert eingibt, werden Ressourcenpools für alle bearbeiteten Benutzenden entfernt.
+
+Massenbearbeitung kann auch direkte Berichte von den bearbeiteten Benutzern entfernen.
+
++++
 
 +++**Woche der Wartungs-Updates vom 30. November bis zum 6. Dezember 2025**
 

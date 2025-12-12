@@ -3,10 +3,10 @@ title: 'Anfragen: Dokument kann nicht von GDrive in Anfrage hochgeladen werden'
 description: Wenn ein(e) Benutzende(r) in der neuen anfordernden Version eine Anfrage erstellt und versucht, ein Dokument von GDrive hochzuladen, reagiert das GDrive-Fenster nicht. Der/die Benutzende kann keine Datei auswählen oder das Fenster schließen. Eine Umgehungslösung ist verfügbar.
 hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Dieses Problem betrifft das neue anfragende Erlebnis.
+>* Dieses Problem betrifft das neue anfragende Erlebnis.
+>* Dieses Problem wurde am Samstag, 12. Dezember 2025 behoben.
 
 Wenn ein(e) Benutzende(r) in der neuen anfordernden Version eine Anfrage erstellt und versucht, ein Dokument von GDrive hochzuladen, reagiert das GDrive-Fenster nicht. Der/die Benutzende kann keine Datei auswählen oder das Fenster schließen.
 

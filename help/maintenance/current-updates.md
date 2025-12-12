@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
-ht-degree: 89%
+source-wordcount: '3103'
+ht-degree: 87%
 
 ---
 
@@ -30,6 +30,13 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ### Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025
 
+#### Anforderungen
+
+**Dokument kann nicht von GDrive angefordert werden**
+
+Wenn ein(e) Benutzende(r) in der neuen anfordernden Version eine Anfrage erstellt und versucht, ein Dokument von GDrive hochzuladen, reagiert das GDrive-Fenster nicht. Der/die Benutzende kann keine Datei auswählen oder das Fenster schließen.
+
+
 #### Benutzende
 
 **Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte**
@@ -37,6 +44,12 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 Wenn ein(e) Benutzende(r) eine Massenbearbeitung von Benutzenden durchführt, in das Feld Ressourcenpools klickt und keinen Wert eingibt, werden Ressourcenpools für alle bearbeiteten Benutzenden entfernt.
 
 Massenbearbeitung kann auch direkte Berichte von den bearbeiteten Benutzern entfernen.
+
+**Fehler beim Öffnen der Seite „Benutzer“**
+
+Wenn ein(e) Benutzende(r) versucht, die Seite Benutzende über das Hauptmenü zu öffnen, wird die Seite nicht geöffnet und die folgende Meldung wird angezeigt:
+
+„Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
 +++
 

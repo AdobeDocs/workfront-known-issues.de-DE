@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
-ht-degree: 87%
+source-wordcount: '3210'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,30 @@ Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Dezember 2025
+
++++**Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025**
+
+### Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025
+
+#### Arbeitsaufträge
+
+**Team-Arbeitsaufträge werden nicht gespeichert**
+
+Wenn ein(e) Benutzende(r) ein Team einem Arbeitselement in Workfront zuweist, wird die Team-Zuweisung nicht gespeichert und das Team wird nicht über die Arbeit benachrichtigt.
+
+#### Aufgaben
+
+**Inline-Bearbeitungen an einer Aufgabe werden nicht gespeichert**
+
+Wenn ein(e) Benutzende(r) im alten Aufgabenerlebnis Inline-Änderungen an einer Aufgabe vornimmt und speichert, werden die Änderungen nicht gespeichert.
+
+#### Arbeitszeittabellen
+
+**Arbeitszeittabellen nicht generiert**
+
+Arbeitszeittabellen werden nicht wie erwartet automatisch generiert. Dies kann auch dann vorkommen, wenn Arbeitszeittabellenprofile korrekt sind und Arbeitszeittabellen für andere Wochen korrekt generiert wurden.
+
++++
 
 +++**Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025**
 

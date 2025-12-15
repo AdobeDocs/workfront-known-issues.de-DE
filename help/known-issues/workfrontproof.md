@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 94%
+source-wordcount: '439'
+ht-degree: 92%
 
 ---
 
@@ -37,6 +37,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | -----------------------------------------------------------------| ----------------- |
+| [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Dienstag, 15. Dezember 2025 |
 | [Benutzende: Option zum automatischen Erzeugen von Korrekturabzügen fehlt im Benutzerprofil](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | Donnerstag, 10. Dezember 2025 |
 | [Korrekturabzüge: Änderungen des Korrekturabzugsstatus werden verzögert](known-issues-workfront/wf-proof-status-sync-delayed.md) | Dienstag, 8. Dezember 2025 |
 | [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12. August 2025 |

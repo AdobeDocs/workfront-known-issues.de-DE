@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
-ht-degree: 84%
+source-wordcount: '3378'
+ht-degree: 80%
 
 ---
 
@@ -36,6 +36,13 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 Wenn ein(e) Benutzende(r) ein Team einem Arbeitselement in Workfront zuweist, wird die Team-Zuweisung nicht gespeichert und das Team wird nicht über die Arbeit benachrichtigt.
 
+#### Zeitpläne
+
+**Berechtigungen zum Zeitplan für eine Gruppe aufgehoben**
+
+Wenn ein Workfront-Gruppenadministrator eine Datumsausnahme zu einem Zeitplan hinzufügt und die Änderungen speichert, werden die Berechtigungen für diesen Zeitplan aus der Gruppe entfernt und der Workfront-Administrator muss der Gruppe Zugriff gewähren.
+
+
 #### Aufgaben
 
 **Inline-Bearbeitungen an einer Aufgabe werden nicht gespeichert**
@@ -47,6 +54,20 @@ Wenn ein(e) Benutzende(r) im alten Aufgabenerlebnis Inline-Änderungen an einer 
 **Arbeitszeittabellen nicht generiert**
 
 Arbeitszeittabellen werden nicht wie erwartet automatisch generiert. Dies kann auch dann vorkommen, wenn Arbeitszeittabellenprofile korrekt sind und Arbeitszeittabellen für andere Wochen korrekt generiert wurden.
+
+#### Benutzende
+
+**Probleme mit Änderungen am Korrekturabzugsprofil**
+
+Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers gemeldet:
+
+* Wenn ein(e) Benutzende(r) einem/r Benutzenden ein anderes Korrekturabzugsprofil zuweist und speichert, wird die Änderung nicht gespeichert und der/die Benutzende behält das vorherige Korrekturabzugsprofil bei.
+* Das Korrekturabzugsprofil eines/r Benutzenden wird möglicherweise als falsches Korrekturabzugsprofil angezeigt, auch wenn das richtige Korrekturabzugsprofil zugewiesen ist.
+* Wenn andere Änderungen an einem Benutzer vorgenommen werden, können sich auch dessen Korrekturabzugsberechtigungen ändern.
+
+**Option zum automatischen Erzeugen von Korrekturabzügen fehlt im Benutzerprofil**
+
+Wenn ein(e) Benutzende(r) ein Benutzerprofil aufruft, ist die Option „Beim Hochladen von Dokumenten automatisch Korrekturabzüge generieren“ nicht verfügbar. Dies kann auch dann vorkommen, wenn alle Voraussetzungen für die Option erfüllt sind.
 
 +++
 

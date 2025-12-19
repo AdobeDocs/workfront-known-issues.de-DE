@@ -4,9 +4,9 @@ description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -V
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1089'
 ht-degree: 94%
 
 ---
@@ -24,7 +24,7 @@ Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workf
 Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
-| ----------------------------------------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront-Planung: Fehler beim Entfernen des verbundenen Felds](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | Samstag, 12. Dezember 2025 |
 | [Benutzerdefinierte Formulare: Rich-Text-Felder können nicht bearbeitet werden](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | Dienstag, 8. Dezember 2025 |
 | [Aufgaben: Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewählt werden](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | Dienstag, 8. Dezember 2025 |
@@ -38,13 +38,12 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die nahe Zukunft geplant.
 
 | **Problem** | **Letzte Änderung** |
-| ---------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront-Planung: Feld kann nicht zu einer Ansicht hinzugefügt werden](known-issues-workfront/wf-planning-cannot-add-field.md) | Dienstag, 15. Dezember 2025 |
 | [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Dienstag, 15. Dezember 2025 |
 | [Korrekturabzüge: Änderungen des Korrekturabzugsstatus werden verzögert](known-issues-workfront/wf-proof-status-sync-delayed.md) | Dienstag, 8. Dezember 2025 |
 | [Aufgaben: Änderungen am Abschnitt „Zuweisungen“ einer Aufgabe werden nicht gespeichert](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | Dienstag, 1. Dezember 2025 |
 | [Anfragen: Berechtigungen werden beim Erstellen einer Anfrage nicht vererbt](known-issues-workfront/wf-requests-permissions-not-inherited.md) | Mittwoch, 25. November 2025 |
-| [Genehmigungen: Links zu Genehmigungen sind nicht verfügbar](known-issues-workfront/wf-approvals-link-not-appearing.md) | Freitag, 13. November 2025 |
 | [Genehmigungen: Die Genehmigung wird mit „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25. September 2025 |
 | [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 12. August 2025 |
 | [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | &#x200B;10. Juli 2025 |
@@ -60,7 +59,7 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 Fehlerbehebungen für diese Probleme sind derzeit nicht geplant, jedoch gibt es Problemumgehungen, die im Artikel für jedes Problem beschrieben sind.
 
 | **Problem** | **Letzte Änderung** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden nicht im Viewer für Korrekturabzüge angezeigt](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 30. September 2025 |
 | [Korrekturabzüge: Korrekturabzug kann nicht aus einer PowerPoint-Datei generiert werden](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | &#x200B;11. September 2025 |
 | [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | &#x200B;15. Juli 2025 |
@@ -85,7 +84,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant, jedoch gibt es 
 | [Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | &#x200B;23. März 2023 |
 | [Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | &#x200B;7. März 2023 |
 | [Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert | &#x200B;2. Dezember 2022 |
-| [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] &#x200B;](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md) | &#x200B;21. November 2022 |
+| [Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] ](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md) | &#x200B;21. November 2022 |
 | [Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | &#x200B;18. September 2022 |
 | [Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | &#x200B;14. September 2022 |
 | [Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | &#x200B;11. Mai 2022 |
@@ -98,7 +97,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant, jedoch gibt es 
 Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser Probleme werden in Zukunft durch neue Funktionen oder Funktions-Updates behoben.
 
 | **Problem** | **Letzte Änderung** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16. Juni 2025 |
 | [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | &#x200B;14. Mai 2025 |
 | [Teams: Team-Inhaberin bzw. -Inhaber kann nicht angezeigt oder Team kann nicht gelöscht werden](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | &#x200B;13. März 2025 |
@@ -139,7 +138,7 @@ Fehlerbehebungen für diese Probleme sind derzeit nicht geplant. Einige dieser P
 | [[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) nur langsam geladen | &#x200B;28. Oktober 2022 |
 | [Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | &#x200B;5. August 2022 |
 | [Agile: Probleme beim Verschieben von Karten auf der [!UICONTROL Agile]-Pinnwand](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | &#x200B;27. April 2022 |
-| [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | &#x200B;1. Oktober 2021 |
+| [[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | &#x200B;1. Oktober 2021 |
 | [Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | &#x200B;1. Oktober 2021 |
 | [Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | &#x200B;22. Juni 2021 |
 | [E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | &#x200B;2. Juni 2021 |

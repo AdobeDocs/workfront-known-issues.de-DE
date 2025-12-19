@@ -3,9 +3,9 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 80%
 
 ---
@@ -29,6 +29,12 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 +++**Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025**
 
 ### Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025
+
+#### Genehmigungen
+
+**Links zu Genehmigungen nicht verfügbar**
+
+Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der Link zu diesem Objekt nicht im Bereich „Meine Updates“ oder im Widget „Meine Genehmigungen“ auf der Startseite angezeigt.
 
 #### Arbeitsaufträge
 

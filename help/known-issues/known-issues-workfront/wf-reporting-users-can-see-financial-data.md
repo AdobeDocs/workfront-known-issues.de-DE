@@ -3,7 +3,7 @@ title: 'Berichte: Benutzer können Finanzdaten in Visualisierungen des Arbeitsfl
 description: Benutzer mit der Zugriffsebene Anzeigen oder Bearbeiten von Finanzdaten können Finanzdaten in den Visualisierungen des Arbeitsflächen-Dashboards anzeigen, selbst wenn die Berechtigung zum Anzeigen von Finanzdaten auf der Aufgaben- oder Projektebene entfernt wurde.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%

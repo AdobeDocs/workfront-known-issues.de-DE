@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 90%
+source-wordcount: '1523'
+ht-degree: 89%
 
 ---
 
@@ -48,28 +48,13 @@ ht-degree: 90%
       + [Genehmigungen: Die Genehmigung wird mit „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht aus einer PowerPoint-Datei generiert werden](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Benutzende: Zugriffsebene einer Person kann nicht geändert werden](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Dokumente: Benutzende, die nach Abschluss der Genehmigung als genehmigende Personen hinzugefügt werden, erhalten keine Benachrichtigung](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [Korrekturabzüge: Benutzende können nicht in Kommentaren zu Korrekturabzügen getaggt werden](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Berechtigungen: Objektberechtigungen werden nicht korrekt vererbt](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Projekte: Fehler beim Hinzufügen eines Projekts zu einem Programm](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Setup: Anmeldung als andere Benutzerin bzw. anderer Benutzer nicht möglich](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Integrationen: Probleme mit der Integration von Workfront für Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [Aufgaben: Der Genehmigungsbereich wird im linken Navigationsbereich ausgeblendet](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [Projekte: Projekt kann nicht in das angegebene Programm verschoben werden](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Korrekturabzüge: Korrekturabzug kann nicht über direkten Link geöffnet werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Berichte: Die Drilldown-Liste des Diagramms enthält falsche Ergebnisse](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [Arbeitszeittabellen: Arbeitszeittabellen nicht korrekt generiert](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Suche: Erweiterte Suche gibt nicht die erwarteten Ergebnisse zurück](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt](known-issues-workfront/wf-users-pending-approval.md)
-      + [Ressourcenplaner: Schaltfläche „Exportieren“ ist deaktiviert](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Korrekturabzüge: Weiterleitung zur Dokumentenliste beim Schließen eines Korrekturabzugs](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Vorlagen: Freigabe mit Zugriff zum Mitwirken nicht möglich](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Filter: Dropdown wird beim Klicken auf die Bildlaufleiste ausgeblendet](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Projekte: Der Fortschrittsstatus des Projektfortschritts wird nicht automatisch auf „Verspätet“ aktualisiert](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Anmelden als: Gruppen-Admins können sich nicht als andere Benutzende anmelden](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 90%
       + [Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Genehmigungen: Filter „Alle“ schließt persönlich gesendete Genehmigungen aus](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Aufgaben: Die Dauer für „Verstrichene Tage“ ist für übergeordnete Aufgaben mit untergeordneten Elementen falsch.](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront: Offen gelassene Registerkarten im Browser werden nicht geladen](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Layout-Vorlagen: Benutzerdefinierte Datenfelder werden nicht angezeigt, wenn sie über die Layout-Vorlage zur Aufgabenübersicht hinzugefügt werden](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Integrationen: JumpSeat-Integrationen schlagen für Organisationen in Unified Shell fehl](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Benachrichtigungen: E-Mails mit Dokumentbenachrichtigungen können keine Bildvorschauen anzeigen](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 90%
       + [[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Startseite]: Das [!UICONTROL Anfragen]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL Startseite]: Das Widget „[!UICONTROL Erwähnungen]“ auf der neuen [!UICONTROL Startseite] ist nicht auf Nachrichten beschränkt, bei denen die Benutzerin bzw. der Benutzer getaggt ist](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Setup]: Auditprotokolle können nicht exportiert werden](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Korrekturabzüge: Korrekturabzüge werden in der Vorschauumgebung langsam erstellt](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Benutzerdefinierte Formulare: Fehler „[!UICONTROL Hoppla]“ beim Einrichten eines berechneten Felds](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Korrekturabzüge: Registerkarte [!UICONTROL Aktivität von Korrekturabzügen] öffnet [!UICONTROL Details von Korrekturabzügen]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -220,13 +203,16 @@ ht-degree: 90%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ [!DNL Workfront] {#planning}
+   + [Bekannte Probleme in  [!DNL Workfront]  Planung](workfrontplanning.md)
+
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

@@ -15,7 +15,7 @@ ht-degree: 88%
 Informationen zu den aktuell in [!DNL Workfront] identifizierten Problemen finden Sie hier:
 
 * [Bekannte Probleme in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
-* [Bekannte Probleme mit Korrekturabzügen in  [!DNL Workfront] ](workfrontproof.md)
+* [Bekannte Probleme mit Korrekturabzügen in  [!DNL Workfront] &#x200B;](workfrontproof.md)
 * [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
 * [Bekannte Probleme in Workfront Planning](workfrontplanning.md)
-* [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
+* [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)

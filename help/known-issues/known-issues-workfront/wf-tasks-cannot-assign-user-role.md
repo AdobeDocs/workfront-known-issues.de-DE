@@ -3,15 +3,19 @@ title: 'Aufgaben: Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewä
 description: Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und versucht, eine Benutzerrolle zuzuweisen, ist die Option zum Zuweisen der Rolle nicht vorhanden und der/die Benutzende kann keine Benutzerrolle zuweisen. Eine Umgehungslösung ist verfügbar.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 8%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 
 
 # Aufgaben: Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewählt werden
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Montag, 21. Dezember 2025 behoben.
 
 Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und versucht, eine Benutzerrolle zuzuweisen, ist die Option zum Zuweisen der Rolle nicht vorhanden und der/die Benutzende kann keine Benutzerrolle zuweisen.
 

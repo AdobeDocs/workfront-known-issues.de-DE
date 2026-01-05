@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
-ht-degree: 80%
+source-wordcount: '3664'
+ht-degree: 74%
 
 ---
 
@@ -26,6 +26,50 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Dezember 2025
 
++++**Workfront Planning Maintenance Updates Week of 21-27, 2025**
+
+### Workfront Planning Maintenance Updates Week of 21-27, 2025
+
+#### Fehler beim Entfernen eines verbundenen Felds
+
+Wenn ein(e) Benutzende(r) versucht, ein verbundenes Feld in Workfront Planning zu entfernen, kann er/sie das Feld nicht entfernen, und die Meldung „Das Feld kann nicht gelöscht werden“ wird angezeigt. Versuchen Sie es erneut.“
+
++++
+
++++**Woche der Wartungs-Updates vom 21. bis 27. Dezember 2025**
+
+### Woche der Wartungs-Updates vom 21. bis 27. Dezember 2025
+
+#### Benutzerdefinierte Formulare
+
+**Rich-Text-Felder können nicht bearbeitet werden**
+
+Wenn ein(e) Benutzende(r) versucht, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht aktualisiert, um die Änderungen widerzuspiegeln.
+
+#### Aufgaben
+
+**Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewählt werden**
+
+Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und versucht, eine Benutzerrolle zuzuweisen, ist die Option zum Zuweisen der Rolle nicht vorhanden und der/die Benutzende kann keine Benutzerrolle zuweisen.
+
++++
+
++++**Workfront Planning Maintenance Updates Week of 14-20, 2025**
+
+### Workfront Planning Maintenance Updates Week of 14.-20. Dezember 2025
+
+#### Feld kann nicht zu einer Ansicht hinzugefügt werden
+
+>[!NOTE]
+>
+>* Dieses Problem wurde in der benutzerdefinierten Aktualisierungs-Sandbox gemeldet.
+
+Wenn ein(e) Benutzende(r) versucht, in Workfront Planning ein Feld zu einer Ansicht hinzuzufügen, wird das Feld nicht hinzugefügt und die folgende Meldung wird angezeigt:
+
+„Die Feldspalte kann nicht erstellt werden. Versuchen Sie es erneut.“
+
++++
+
 +++**Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025**
 
 ### Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025
@@ -41,6 +85,12 @@ Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der
 **Team-Arbeitsaufträge werden nicht gespeichert**
 
 Wenn ein(e) Benutzende(r) ein Team einem Arbeitselement in Workfront zuweist, wird die Team-Zuweisung nicht gespeichert und das Team wird nicht über die Arbeit benachrichtigt.
+
+#### Anforderungen
+
+**Berechtigungen werden beim Erstellen einer Anfrage nicht vererbt**
+
+Wenn ein Benutzer eine Anfrage erstellt, erbt diese Anfrage keine Berechtigungen. Dies bedeutet, dass Benutzende möglicherweise nicht auf die Anfrage zugreifen können.
 
 #### Zeitpläne
 

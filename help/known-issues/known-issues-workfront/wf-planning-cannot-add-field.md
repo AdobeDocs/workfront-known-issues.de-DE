@@ -3,10 +3,10 @@ title: 'Workfront Planning: Feld kann nicht zu einer Ansicht hinzugefügt werden
 description: Wenn ein(e) Benutzende(r) versucht, in Workfront Planning ein Feld zu einer Ansicht hinzuzufügen, wird das Feld nicht hinzugefügt und eine Meldung wird angezeigt.
 hidefromtoc: true
 feature: Workfront Planning
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Dieses Problem wurde in der benutzerdefinierten Aktualisierungs-Sandbox gemeldet.
+>* Dieses Problem wurde am Samstag, 19. Dezember 2025 behoben.
+>* Dieses Problem wurde in der benutzerdefinierten Aktualisierungs-Sandbox gemeldet.
 
 Wenn ein(e) Benutzende(r) versucht, in Workfront Planning ein Feld zu einer Ansicht hinzuzufügen, wird das Feld nicht hinzugefügt und die folgende Meldung wird angezeigt:
 

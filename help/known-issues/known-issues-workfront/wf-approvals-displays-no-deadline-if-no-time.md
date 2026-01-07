@@ -1,12 +1,12 @@
 ---
 title: 'Genehmigungen: Für die Genehmigung wird „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist'
-description: Wenn eine Genehmigungsfrist nur ein Datum und keine Uhrzeit enthält, wird sie im Startseiten-Widget für Genehmigungen als Frist des Typs „Keine Frist“ angezeigt.
+description: Wenn ein Validierungs-Deadline nur ein Datum und keine Uhrzeit enthält, wird er im Widget Validierungen - Startseite als Deadline (Frist ohne Deadline) angezeigt.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: ca8e5b7ff629064fdd7f372c21090a10cf2346da
-workflow-type: ht
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
+workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 

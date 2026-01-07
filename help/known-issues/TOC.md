@@ -2,7 +2,7 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
 workflow-type: tm+mt
 source-wordcount: '1561'
 ht-degree: 87%
@@ -49,7 +49,7 @@ ht-degree: 87%
       + [Korrekturabzüge: Korrekturabzug-Viewer kann nicht geschlossen werden](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programme: Beim Bearbeiten eines Programms kann nicht gespeichert werden](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Genehmigungen: Schaltflächen für Genehmigungsentscheidungen werden nicht im Viewer für Korrekturabzüge angezeigt](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
-      + [Genehmigungen: Die Genehmigung wird mit „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
+      + [Genehmigungen: Für die Genehmigung wird „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Korrekturabzüge: Korrekturabzug kann nicht aus einer PowerPoint-Datei generiert werden](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Benutzende: Benachrichtigungseinstellungen für andere Benutzende können nicht bearbeitet werden](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [Benutzende: Federation-ID einer bzw. eines Benutzenden kann nicht bearbeitet werden](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
@@ -208,7 +208,7 @@ ht-degree: 87%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -217,7 +217,7 @@ ht-degree: 87%
    + [Bekannte Probleme in  [!DNL Workfront]  Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

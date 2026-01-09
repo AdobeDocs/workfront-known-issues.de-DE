@@ -3,15 +3,19 @@ title: 'Fusion: Fehler wegen fehlender Kopfzeile bei AWS-Modulen'
 description: 'AWS-Module schlagen fehl mit dem Fehler: Fehlende erforderliche Kopfzeile für diese Anfrage'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '51'
+ht-degree: 19%
 
 ---
 
 
 # Fusion: Fehler wegen fehlender Kopfzeile bei AWS-Modulen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Freitag, 8. Januar 2026 behoben.
 
 AWS-Module schlagen mit dem folgenden Fehler fehl:
 

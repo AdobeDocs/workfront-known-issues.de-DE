@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Fusion]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 96%
+source-wordcount: '224'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: Fehler in der Kopfzeile bei AWS-Modulen](known-issues-workfront-fusion/fusion-missing-header-aws.md) | Mittwoch, 6. Januar 2026 |
+| Keine | |
 
 {style="table-layout:auto"}
 

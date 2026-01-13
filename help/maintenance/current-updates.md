@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 52%
+source-wordcount: '274'
+ht-degree: 41%
 
 ---
 
@@ -28,7 +28,7 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 +++**Workfront Fusion-Wartungs-Updates vom 4. bis 10. Januar 2026**
 
-### Woche der Wartungs-Updates vom 4. bis 10. Januar 202
+### Woche der Wartungs-Updates vom 4. bis 10. Januar 2026
 
 **Fehler wegen fehlender Kopfzeile bei AWS-Modulen**
 
@@ -40,13 +40,26 @@ AWS-Module schlagen mit dem folgenden Fehler fehl:
 
 +++**Woche der Wartungs-Updates vom 4. bis 10. Januar 2026**
 
-### Woche der Wartungs-Updates vom 4. bis 10. Januar 202
+### Woche der Wartungs-Updates vom 4. bis 10. Januar 2026
+
+#### Genehmigungen
+
+**Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an**
+
+Wenn ein(e) Benutzende(r) das Widget Meine Genehmigungen auf der Startseite aufruft, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.
 
 #### Korrekturabzüge
 
 **Änderungen des Korrekturabzugsstatus sind verzögert**
 
 Wenn eine Entscheidung über einen Korrekturabzug getroffen wird, wird diese Entscheidung bis zu 24 Stunden lang nicht im Bereich Dokumente eines Projekts angezeigt. Dies kann zu Verwirrung führen, da der Status weiterhin als Ausstehend oder ein anderer veralteter Status angezeigt wird, auch wenn eine Entscheidung getroffen wurde.
+
+#### Anforderungen
+
+**Anforderungswarteschlangen werden mehrmals angezeigt**
+
+Wenn ein(e) Benutzende(r) mit der Erstellung einer Anfrage beginnt und eine Anfrage-Warteschlange auswählt, wird dieselbe Anfrage-Warteschlange mehrmals in der Dropdown-Liste angezeigt.
+
 
 +++
 

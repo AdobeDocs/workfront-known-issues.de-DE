@@ -3,10 +3,10 @@ title: 'Anfragen: Anforderungswarteschlangen werden mehrmals angezeigt'
 description: Wenn ein(e) Benutzende(r) mit der Erstellung einer Anfrage beginnt und eine Anfrage-Warteschlange auswählt, wird dieselbe Anfrage-Warteschlange mehrmals in der Dropdown-Liste angezeigt.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Dieses Problem wurde in der veralteten -Berichterstellung gemeldet.
+>* Dieses Problem wurde am Freitag, 8. Januar 2026 behoben.
+>* Dieses Problem wurde in der veralteten -Berichterstellung gemeldet.
 
 Wenn ein(e) Benutzende(r) mit der Erstellung einer Anfrage beginnt und eine Anfrage-Warteschlange auswählt, wird dieselbe Anfrage-Warteschlange mehrmals in der Dropdown-Liste angezeigt.
 

@@ -3,10 +3,10 @@ title: Im Dialogfeld „Bearbeiten“ einer Aufgabe vorgenommene Änderungen wer
 description: Wenn ein(e) Benutzende(r) Änderungen am Abschnitt Bearbeiten einer Aufgabe im Dialogfeld „Alte Aufgabe“ vornimmt und speichert, werden die Änderungen nicht gespeichert.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Dieses Problem betrifft das alte Aufgabenerlebnis.
+>* Dieses Problem betrifft das alte Aufgabenerlebnis.
+>* Das Produkt-Team bewertet derzeit diese Problemlösung, die möglicherweise eine Produktverbesserung erfordert. Produktverbesserungen werden in den Produktankündigungen und nicht in den Wartungs-Updates kommuniziert.
 
 Wenn ein(e) Benutzende(r) Änderungen am Abschnitt Bearbeiten einer Aufgabe im Dialogfeld „Alte Aufgabe“ vornimmt und speichert, werden die Änderungen nicht gespeichert.
 

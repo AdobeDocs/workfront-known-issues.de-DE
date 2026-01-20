@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1632'
+source-wordcount: '1643'
 ht-degree: 83%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Anfragen: Fehler „Sie verfügen nicht über die erforderliche Zugriffsberechtigung“ beim Kopieren von Anfragen](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Zeitpläne: Ausnahmen aus früheren Jahren werden nicht angezeigt](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Anfragen: Die Ansicht „Alle“ zeigt nicht alle Anfragen an](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Benutzerdefinierte Formulare: Berechnete Felder zeigen keine Daten für Benutzer ohne Administratorrechte an](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
@@ -216,7 +217,7 @@ ht-degree: 83%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -225,7 +226,7 @@ ht-degree: 83%
    + [Bekannte Probleme in  [!DNL Workfront]  Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

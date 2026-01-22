@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1648'
 ht-degree: 83%
 
 ---
@@ -17,37 +17,38 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
-      + [Anfragen: Fehler „Sie verfügen nicht über die erforderliche Zugriffsberechtigung“ beim Kopieren von Anfragen](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
+      + [Dokumente: Zusammenfassung Bedienfeld ist leer](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
+      + [Requests: Fehler &quot;Sie haben keinen ausreichenden Zugriff&quot; beim Kopieren von Requests](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Zeitpläne: Ausnahmen aus früheren Jahren werden nicht angezeigt](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
-      + [Anfragen: Die Ansicht „Alle“ zeigt nicht alle Anfragen an](known-issues-workfront/wf-requests-not-showing-all.md)
-      + [Benutzerdefinierte Formulare: Berechnete Felder zeigen keine Daten für Benutzer ohne Administratorrechte an](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
-      + [Anfragen: Ein mit der Anfrage erstellter Entwurf verursacht Probleme](known-issues-workfront/wf-requests-draft-created-with-request.md)
-      + [Anfragen: Fehler „Sie müssen ein Systemadministrator sein“ beim Kopieren von Anfragen](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [Benutzende: Benutzende werden in der Adobe Admin Console nicht korrekt bereitgestellt](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [Anfragen: Probleme mit Entwürfen in der neuen anfordernden -Version](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [Anfragen: Anforderungswarteschlangen werden mehrmals angezeigt](known-issues-workfront/wf-requests-queues-duplicated.md)
-      + [Benutzende: Benutzerzugriff kann nicht aktualisiert werden](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [Berichte: Data-Lake-Abfrage gibt nicht die erwarteten Ergebnisse zurück](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [Berichte: Benutzer können Finanzdaten in Visualisierungen des Arbeitsflächen-Dashboards anzeigen](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [Workfront Planning: Feld kann nicht zu einer Ansicht hinzugefügt werden](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [Genehmigungen: Das Widget Meine Genehmigungen zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [Workfront-Planung: Fehler beim Entfernen eines verbundenen Felds](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [Benutzende: Option zum automatischen Erzeugen von Korrekturabzügen fehlt im Benutzerprofil](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [Anforderungen: &quot;Alle&quot; Ansicht zeigt nicht alle Anfragen an](known-issues-workfront/wf-requests-not-showing-all.md)
+      + [Benutzerdefinierte Formulare: Berechnete Felder, die keine Daten für Nicht-Administratoren anzeigen](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
+      + [Anfragen: Der zusammen mit Anfrage erstellte Entwurf verursacht Probleme](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Anfragen: &quot;Sie müssen ein Systemadministrator sein&quot;-Fehler beim Kopieren von Anfragen](known-issues-workfront/wf-requests-error-when-copying.md)
+      + [Benutzer: Benutzer werden nicht ordnungsgemäß auf der Adobe Admin Console bereitgestellt](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [Anforderungen: Probleme mit Entwürfen in der neuen anfordernden Erlebnis](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [Anforderungen: Anforderungswarteschlangen werden mehrmals angezeigt](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Benutzer: User Zugriff kann nicht aktualisiert werden](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Berichte: Daten Lake Abfrage liefert keine erwarteten Ergebnisse.](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [Berichterstattung: Benutzer können Finanzdaten in Canvas-Dashboard-Visualisierungen anzeigen](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Arbeitsfrontplanung: Feld kann nicht zu einer Ansicht hinzugefügt werden](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [Genehmigungen: Das Widget &quot;Meine Genehmigungen&quot; zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [Arbeitsfrontplanung: Fehler beim Entfernen des verbundenen Feldes](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [Benutzer: Option zum automatischen Generieren von Testsendungen fehlt in User Profil](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Benutzerdefinierte Formulare: Rich-Text-Felder können nicht bearbeitet werden](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [Benutzer: Fehler beim Öffnen der Seite „Benutzer“](known-issues-workfront/wf-users-cannot-open-user-tab.md)
-      + [Aufgaben: Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewählt werden](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [Korrekturabzüge: Änderungen des Korrekturstatus werden verzögert](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [Benutzer: Fehler beim Öffnen von Benutzer Seite](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Aufgaben: Beim Erstellen einer Aufgabe kann User Rolle nicht ausgewählt werden](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [Testsendungen: Änderungen des Testversandstatus verzögern sich](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [Aufgaben: Inline-Bearbeitungen an einer Aufgabe werden nicht gespeichert](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [Benutzer: Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [Anfragen: Dokument kann nicht von GDrive in Anfrage hochgeladen werden](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [Aufgaben: Änderungen am Abschnitt „Zuweisungen“ einer Aufgabe werden nicht gespeichert](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [Benutzende: Probleme mit Änderungen am Korrekturabzugsprofil](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [Anfragen: Berechtigungen werden beim Erstellen einer Anfrage nicht vererbt](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [Zeitpläne: Berechtigungen zum Zeitplan für eine Gruppe widerrufen](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [Arbeitsaufträge: Team-Arbeitsaufträge werden nicht gespeichert](known-issues-workfront/wf-assignments-not-saved.md)
-      + [Aufgaben: Geplante Stunden werden beim Erstellen einer Aufgabe nicht gespeichert](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [Arbeitszeittabellen: Arbeitszeittabellen werden nicht generiert](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [Aufgaben: Meldung „Unzureichender Zugriff“ bei der Inline-Bearbeitung von Aufgaben](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [Benutzer: Durch die Massenbearbeitung von Benutzern werden Ressourcenpools und direkt unterstellte Mitarbeiter entfernt](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [Anfragen: Dokument kann nicht von GDrive Anfrage Upload](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [Aufgaben: Änderungen am Abschnitt &quot;Aufgaben&quot; einer Aufgabe werden nicht gespeichert](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [Benutzer: Probleme mit Änderungen am Testversand-Profil](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [Anforderungen: Berechtigungen, die beim Erstellen einer Anfrage nicht vererbt werden](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Zeitpläne: Berechtigungen für die Planung für eine Gruppe widerrufen](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Zuweisungen: Teamzuweisungen werden nicht gespeichert](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Aufgaben: Geplante Stunden werden beim Erstellen von Aufgabe nicht gespeichert](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [Arbeitszeittabellen: Arbeitszeittabellen wurden nicht erstellt](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [Aufgaben: Meldung &quot;Unzureichender Zugriff&quot; bei Inline-Bearbeitungsaufgaben](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Genehmigungen: Links zu Genehmigungen sind nicht verfügbar](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Anfragen: Die Person, die ein Anfrageformular erstellt hat, hat keinen Zugriff auf das Formular](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Benutzende: Aufgabengebiete können nur nach dem ersten Wort durchsucht werden](known-issues-workfront/wf-users-job-role-first-word.md)
@@ -181,7 +182,7 @@ ht-degree: 83%
 + [!DNL Workfront Proof] {#proof}
    + [Bekannte Probleme in [!DNL Workfront Proof]](workfrontproof.md)
    + Aktuelle Probleme in [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Proof: Korrekturabzüge werden nicht in Ordnern angezeigt](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
+      + [Workfront Proof: Testsendungen werden nicht in Ordnern angezeigt](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]: Assets können beim Erstellen eines Korrekturabzugs nicht neu angeordnet werden](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: Ungenauer Zeitstempel in der [!UICONTROL Zusammenfassung von Korrekturabzügen]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: Workflow kann nicht erweitert werden](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -206,7 +207,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Bekannte Probleme in Workfront Fusion](workfrontfusion.md)
    + Aktuelle Probleme in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: Fehler in der Kopfzeile bei AWS-Modulen](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+      + [Workfront Fusion: Fehler wegen fehlendem Header auf AWS-Modulen](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [Workfront Fusion: Das Jira-Suchmodul gibt einen Fehler zurück](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion: Aktualisierungen am Webhook werden nicht automatisch gespeichert](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion: Das Szenario wird nicht ausgeführt](known-issues-workfront-fusion/fusion-scenario-not-running.md)
@@ -217,16 +218,16 @@ ht-degree: 83%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront] {#planning}
-   + [Bekannte Probleme in  [!DNL Workfront]  Planung](workfrontplanning.md)
++ [!DNL Workfront] Planung {#planning}
+   + [Bekannte Probleme in [!DNL Workfront] der Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

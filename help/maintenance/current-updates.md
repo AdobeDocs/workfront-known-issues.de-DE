@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 41%
+source-wordcount: '406'
+ht-degree: 34%
 
 ---
 
@@ -25,6 +25,35 @@ Informationen zu Wartungs-Updates, die vor 2026 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ## Updates im Januar 2026
+
++++**Wartungs-Update vom 18. bis 24. Januar 2026**
+
+### Wartungs-Update vom 18. bis 24. Januar 2026
+
+#### Anforderungen
+
+**Probleme mit Entwürfen in der neuen anfordernden -Version**
+
+Es wurden die folgenden Probleme mit Entwürfen in der neuen anfordernden -Version gemeldet:
+
+* Anfragen, die als Entwurf erstellt und dann gesendet werden, zeigen in der Anfragenliste nur den ersten Buchstaben des Betreffs an.
+* Verworfene Entwürfe werden nicht aus der Anfragenliste entfernt,
+
+#### Zeitpläne
+
+**Es können keine Ausnahmen aus früheren Jahren angezeigt werden**
+
+Wenn ein(e) Benutzende(r) den Ausnahmenkalender öffnet und versucht, frühere Jahre anzuzeigen, können die vorherigen Jahre nicht angezeigt werden.
+
++++
+
++++**Wartungs-Update vom 11. bis 17. Januar 2026**
+
+### Wartungs-Update vom 11. bis 17. Januar 2026
+
+Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
+
++++
 
 +++**Workfront Fusion-Wartungs-Updates vom 4. bis 10. Januar 2026**
 

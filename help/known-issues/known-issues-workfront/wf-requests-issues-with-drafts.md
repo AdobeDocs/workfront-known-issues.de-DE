@@ -3,15 +3,19 @@ title: 'Anfragen: Probleme mit Entwürfen in der neuen anfordernden -Version'
 description: Es wurden mehrere Entwürfe für das neue anfordernde Erlebnis gemeldet.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Anfragen: Probleme mit Entwürfen in der neuen anfordernden -Version
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Samstag, 23. Januar 2026 behoben.
 
 Es wurden die folgenden Probleme mit Entwürfen in der neuen anfordernden -Version gemeldet:
 

@@ -1,12 +1,12 @@
 ---
 title: Wartungs-Updates für Workfront
-description: Wartungs-Updates für [!DNL Adobe Workfront]
+description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 34%
+ht-degree: 81%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 34%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/de/).
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
@@ -30,13 +30,13 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ### Wartungs-Update vom 18. bis 24. Januar 2026
 
-#### Anforderungen
+#### Anfragen
 
 **Probleme mit Entwürfen in der neuen anfordernden -Version**
 
-Es wurden die folgenden Probleme mit Entwürfen in der neuen anfordernden -Version gemeldet:
+Es wurden die folgenden Probleme mit Entwürfen im neuen Anfrageerlebnis gemeldet:
 
-* Anfragen, die als Entwurf erstellt und dann gesendet werden, zeigen in der Anfragenliste nur den ersten Buchstaben des Betreffs an.
+* Bei Anfragen, die als Entwurf erstellt und dann gesendet werden, wird in der Anfragenliste nur der erste Buchstabe des Betreffs angezeigt.
 * Verworfene Entwürfe werden nicht aus der Anfragenliste entfernt,
 
 #### Zeitpläne
@@ -55,39 +55,39 @@ Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. De
 
 +++
 
-+++**Workfront Fusion-Wartungs-Updates vom 4. bis 10. Januar 2026**
++++**Wartungs-Updates für Workfront Fusion in der Woche vom 4. bis 10. Januar 2026**
 
-### Woche der Wartungs-Updates vom 4. bis 10. Januar 2026
+### Wartungs-Updates in der Woche vom 4. bis 10. Januar 2026
 
-**Fehler wegen fehlender Kopfzeile bei AWS-Modulen**
+**Fehler wegen fehlendem Header bei AWS-Modulen**
 
 AWS-Module schlagen mit dem folgenden Fehler fehl:
 
-„Für diese Anfrage fehlt die erforderliche Kopfzeile“
+„Der erforderliche Header für diese Anfrage fehlt“
 
 +++
 
-+++**Woche der Wartungs-Updates vom 4. bis 10. Januar 2026**
++++**Wartungs-Updates in der Woche vom 4. bis 10. Januar 2026**
 
-### Woche der Wartungs-Updates vom 4. bis 10. Januar 2026
+### Wartungs-Updates in der Woche vom 4. bis 10. Januar 2026
 
 #### Genehmigungen
 
 **Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an**
 
-Wenn ein(e) Benutzende(r) das Widget Meine Genehmigungen auf der Startseite aufruft, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.
+Wenn Benutzende das Widget „Meine Genehmigungen“ auf der Startseite aufrufen, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.
 
 #### Korrekturabzüge
 
 **Änderungen des Korrekturabzugsstatus sind verzögert**
 
-Wenn eine Entscheidung über einen Korrekturabzug getroffen wird, wird diese Entscheidung bis zu 24 Stunden lang nicht im Bereich Dokumente eines Projekts angezeigt. Dies kann zu Verwirrung führen, da der Status weiterhin als Ausstehend oder ein anderer veralteter Status angezeigt wird, auch wenn eine Entscheidung getroffen wurde.
+Wenn eine Entscheidung über einen Korrekturabzug getroffen wird, wird diese Entscheidung bis zu 24 Stunden lang nicht im Bereich „Dokumente“ eines Projekts angezeigt. Dies kann zu Verwirrung führen, da der Status weiterhin als „Ausstehend“ oder ein anderer veralteter Status angezeigt wird, auch wenn eine Entscheidung getroffen wurde.
 
-#### Anforderungen
+#### Anfragen
 
-**Anforderungswarteschlangen werden mehrmals angezeigt**
+**Anfrage-Warteschlangen werden mehrmals angezeigt**
 
-Wenn ein(e) Benutzende(r) mit der Erstellung einer Anfrage beginnt und eine Anfrage-Warteschlange auswählt, wird dieselbe Anfrage-Warteschlange mehrmals in der Dropdown-Liste angezeigt.
+Wenn Benutzende mit der Erstellung einer Anfrage beginnen und eine Anfrage-Warteschlange auswählen, wird dieselbe Anfrage-Warteschlange mehrmals in der Dropdown-Liste angezeigt.
 
 
 +++

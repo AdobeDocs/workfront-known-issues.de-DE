@@ -1,24 +1,24 @@
 ---
-title: 'Fusion: Fehler wegen fehlender Kopfzeile bei AWS-Modulen'
-description: 'AWS-Module schlagen fehl mit dem Fehler: Fehlende erforderliche Kopfzeile für diese Anfrage'
+title: 'Fusion: Fehler wegen fehlendem Header bei AWS-Modulen'
+description: 'AWS-Module schlagen mit dem folgenden Fehler fehl: Der erforderliche Header für diese Anfrage fehlt'
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Fusion: Fehler wegen fehlender Kopfzeile bei AWS-Modulen
+# Fusion: Fehler wegen fehlendem Header bei AWS-Modulen
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 8. Januar 2026 behoben.
+>Dieses Problem wurde am 8. Januar 2026 behoben.
 
 AWS-Module schlagen mit dem folgenden Fehler fehl:
 
-„Für diese Anfrage fehlt die erforderliche Kopfzeile“
+„Der erforderliche Header für diese Anfrage fehlt“
 
-_Erste Meldung am Mittwoch, 23. Dezember 2025._
+_Erste Meldung am 23. Dezember 2025._

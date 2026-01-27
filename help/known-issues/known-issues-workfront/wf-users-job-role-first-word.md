@@ -4,7 +4,7 @@ description: Wenn Admins Benutzende erstellen oder bearbeiten und dabei Aufgaben
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 17. November 2025 behoben.
+>Dieses Problem wurde am 17. November 2025 behoben.
 
 Wenn Admins Benutzende erstellen oder bearbeiten und dabei Aufgabengebiete durchsuchen, gibt die Suche nur Aufgabengebiete zurück, die mit dem Suchbegriff beginnen, nicht aber alle Aufgabengebiete, die den Suchbegriff enthalten.
 

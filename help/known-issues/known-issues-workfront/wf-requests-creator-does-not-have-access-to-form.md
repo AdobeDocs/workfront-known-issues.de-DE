@@ -4,7 +4,7 @@ description: Wenn Benutzende in Workfront-Planung ein Anfrageformular erstellen 
 hidefromtoc: true
 feature: Requests
 source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->* Dieses Problem wurde am Donnerstag, 26. November 2025 behoben.
+>* Dieses Problem wurde am 26. November 2025 behoben.
 >* Dieses Problem betrifft Funktionen, die nur in Workfront-Planung verfügbar sind.
 
 Wenn Benutzende in Workfront-Planung ein Anfrageformular erstellen und dann versuchen, auf das Formular zuzugreifen, ist der Zugriff nicht möglich und die Meldung „Sie haben keinen Zugriff auf dieses Formular“ wird angezeigt.

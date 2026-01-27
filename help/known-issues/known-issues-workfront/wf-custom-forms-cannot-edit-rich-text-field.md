@@ -1,12 +1,12 @@
 ---
 title: 'Benutzerdefinierte Formulare: Rich-Text-Felder können nicht bearbeitet werden'
-description: Wenn ein(e) Benutzende(r) versucht, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht aktualisiert, um die Änderungen widerzuspiegeln.
+description: Wenn Benutzende versuchen, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht mit den Änderungen aktualisiert.
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 22. Dezember 2025 behoben.
+>Dieses Problem wurde am 22. Dezember 2025 behoben.
 
-Wenn ein(e) Benutzende(r) versucht, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht aktualisiert, um die Änderungen widerzuspiegeln.
+Wenn Benutzende versuchen, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht mit den Änderungen aktualisiert.
 
-_Erste Meldung am Donnerstag, 3. Dezember 2025._
+_Erste Meldung am 3. Dezember 2025._

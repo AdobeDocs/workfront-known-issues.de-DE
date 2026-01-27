@@ -4,17 +4,17 @@ description: ''
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 26ea0ef4504eed2f99cb3fb6e0af20410f9853a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
 # Benutzende: Benutzerzugriff kann nicht aktualisiert werden
 
-Wenn ein(e) Benutzende(r) versucht, den Zugriff eines/r anderen Benutzenden über Ansicht in Verwalten für ein Projekt zu aktualisieren, kann der/die Benutzende den Zugriff nicht aktualisieren, und die folgende Meldung wird angezeigt:
+Wenn Benutzende versuchen, den Zugriff einer anderen Person von „Anzeigen“ zu „Verwalten“ zu aktualisieren, können sie den Zugriff nicht aktualisieren und die folgende Meldung wird angezeigt:
 
-„Sie verfügen nicht über genügend Zugriffsrechte, um Finanzdaten für dieses Projekt anzuzeigen.“
+„Sie verfügen nicht über die erforderliche Zugriffsberechtigung, um für dieses Projekt Finanzdaten anzuzeigen.“
 
-_Erste Meldung am Freitag, 11. Dezember 2025._
+_Erste Meldung am 11. Dezember 2025._

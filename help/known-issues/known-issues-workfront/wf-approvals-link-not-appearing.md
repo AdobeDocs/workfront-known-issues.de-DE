@@ -4,7 +4,7 @@ description: Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen s
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront, Updates and Notifications
 source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Samstag, 19. Dezember 2025 behoben.
+>Dieses Problem wurde am 19. Dezember 2025 behoben.
 
 Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der Link zu diesem Objekt nicht im Bereich „Meine Updates“ oder im Widget „Meine Genehmigungen“ auf der Startseite angezeigt.
 

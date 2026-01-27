@@ -1,24 +1,24 @@
 ---
-title: 'Benutzer: Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte'
-description: Wenn ein(e) Benutzende(r) eine Massenbearbeitung von Benutzenden durchführt, in das Feld Ressourcenpools klickt und keinen Wert eingibt, werden Ressourcenpools für alle bearbeiteten Benutzenden entfernt. Massenbearbeitung kann auch direkte Berichte von den bearbeiteten Benutzern entfernen.
+title: 'Benutzende: Benutzende, die die Massenbearbeitung verwenden, entfernen Ressourcen-Pools und direkte Berichte'
+description: Wenn Benutzende eine Massenbearbeitung von Benutzenden durchführen, in das Feld „Ressourcen-Pools“ klicken und keinen Wert eingeben, werden Ressourcen-Pools für alle bearbeiteten Benutzenden entfernt. Bei der Massenbearbeitung können auch direkte Berichte von den bearbeiteten Benutzenden entfernt werden.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Benutzer: Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte
+# Benutzende: Benutzende, die die Massenbearbeitung verwenden, entfernen Ressourcen-Pools und direkte Berichte
 
 >[!NOTE]
 >
->Dieses Problem wurde am Mittwoch, 9. Dezember 2025 behoben.
+>Dieses Problem wurde am 9. Dezember 2025 behoben.
 
-Wenn ein(e) Benutzende(r) eine Massenbearbeitung von Benutzenden durchführt, in das Feld Ressourcenpools klickt und keinen Wert eingibt, werden Ressourcenpools für alle bearbeiteten Benutzenden entfernt.
+Wenn Benutzende eine Massenbearbeitung von Benutzenden durchführen, in das Feld „Ressourcen-Pools“ klicken und keinen Wert eingeben, werden Ressourcen-Pools für alle bearbeiteten Benutzenden entfernt.
 
-Massenbearbeitung kann auch direkte Berichte von den bearbeiteten Benutzern entfernen.
+Bei der Massenbearbeitung können auch direkte Berichte von den bearbeiteten Benutzenden entfernt werden.
 
-_Erste Meldung am Samstag, 21. November 2025._
+_Erste Meldung am 21. November 2025._

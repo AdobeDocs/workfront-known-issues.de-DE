@@ -1,11 +1,11 @@
 ---
-title: Wartungs-Updates für Workfront in 2025
-description: Wartungs-Updates für [!DNL Adobe Workfront]
+title: Wartungs-Updates für Workfront 2025
+description: Wartungs-Updates für  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 source-git-commit: 28cc4e22ad9c05b1a3e2ecac5bca62ff8d6f4e49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3668'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 74%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/de/).
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
@@ -25,37 +25,37 @@ Die folgenden Wartungs-Updates wurden 2025 vorgenommen.
 
 ## Updates im Dezember 2025
 
-+++**Workfront Planning Maintenance Updates Week of 21-27, 2025**
++++**Wartungs-Updates für Workfront-Planung in der Woche vom 21. bis 27. Dezember 2025**
 
-### Workfront Planning Maintenance Updates Week of 21-27, 2025
+### Wartungs-Updates für Workfront-Planung in der Woche vom 21. bis 27. Dezember 2025
 
 #### Fehler beim Entfernen eines verbundenen Felds
 
-Wenn ein(e) Benutzende(r) versucht, ein verbundenes Feld in Workfront Planning zu entfernen, kann er/sie das Feld nicht entfernen, und die Meldung „Das Feld kann nicht gelöscht werden“ wird angezeigt. Versuchen Sie es erneut.“
+Wenn Benutzende versuchen, ein verbundenes Feld in Workfront-Planung zu entfernen, können sie das Feld nicht entfernen und die Meldung „Das Feld kann nicht gelöscht werden. Erneut versuchen.“ wird angezeigt.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 21. bis 27. Dezember 2025**
++++**Wartungs-Updates in der Woche vom 21. bis 27. Dezember 2025**
 
-### Woche der Wartungs-Updates vom 21. bis 27. Dezember 2025
+### Wartungs-Updates in der Woche vom 21. bis 27. Dezember 2025
 
 #### Benutzerdefinierte Formulare
 
 **Rich-Text-Felder können nicht bearbeitet werden**
 
-Wenn ein(e) Benutzende(r) versucht, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht aktualisiert, um die Änderungen widerzuspiegeln.
+Wenn Benutzende versuchen, ein Rich-Text-Feld in einem benutzerdefinierten Formular zu bearbeiten, werden die Änderungen nicht gespeichert und das Feld wird nicht mit den Änderungen aktualisiert.
 
 #### Aufgaben
 
 **Benutzerrolle kann beim Erstellen einer Aufgabe nicht ausgewählt werden**
 
-Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und versucht, eine Benutzerrolle zuzuweisen, ist die Option zum Zuweisen der Rolle nicht vorhanden und der/die Benutzende kann keine Benutzerrolle zuweisen.
+Wenn Benutzende eine Aufgabe erstellen und versuchen, eine Benutzerrolle zuzuweisen, ist die Option zum Zuweisen der Rolle nicht vorhanden und die Person kann keine Benutzerrolle zuweisen.
 
 +++
 
-+++**Workfront Planning Maintenance Updates Week of 14-20, 2025**
++++**Wartungs-Updates für Workfront-Planung in der Woche vom 14. bis 20. Dezember 2025**
 
-### Workfront Planning Maintenance Updates Week of 14.-20. Dezember 2025
+### Wartungs-Updates für Workfront-Planung in der Woche vom 14. bis 20. Dezember 2025
 
 #### Feld kann nicht zu einer Ansicht hinzugefügt werden
 
@@ -63,19 +63,19 @@ Wenn ein(e) Benutzende(r) eine Aufgabe erstellt und versucht, eine Benutzerrolle
 >
 >* Dieses Problem wurde in der benutzerdefinierten Aktualisierungs-Sandbox gemeldet.
 
-Wenn ein(e) Benutzende(r) versucht, in Workfront Planning ein Feld zu einer Ansicht hinzuzufügen, wird das Feld nicht hinzugefügt und die folgende Meldung wird angezeigt:
+Wenn Benutzende versuchen, ein Feld zu einer Ansicht in Workfront-Planung hinzuzufügen, wird das Feld nicht hinzugefügt, und die folgende Meldung wird angezeigt:
 
-„Die Feldspalte kann nicht erstellt werden. Versuchen Sie es erneut.“
+„Die Feldspalte kann nicht erstellt werden. Erneut versuchen.“
 
 +++
 
-+++**Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025**
++++**Wartungs-Updates in der Woche vom 14. bis 20. Dezember 2025**
 
-### Woche der Wartungs-Updates vom 14. bis 20. Dezember 2025
+### Wartungs-Updates in der Woche vom 14. bis 20. Dezember 2025
 
 #### Genehmigungen
 
-**Links zu Genehmigungen nicht verfügbar**
+**Links zu Genehmigungen sind nicht verfügbar**
 
 Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der Link zu diesem Objekt nicht im Bereich „Meine Updates“ oder im Widget „Meine Genehmigungen“ auf der Startseite angezeigt.
 
@@ -83,26 +83,26 @@ Wenn Benutzende einem Objekt als genehmigende Personen zugewiesen sind, wird der
 
 **Team-Arbeitsaufträge werden nicht gespeichert**
 
-Wenn ein(e) Benutzende(r) ein Team einem Arbeitselement in Workfront zuweist, wird die Team-Zuweisung nicht gespeichert und das Team wird nicht über die Arbeit benachrichtigt.
+Wenn Benutzende ein Team einem Arbeitselement in Workfront zuweisen, wird der Team-Arbeitsauftrag nicht gespeichert und das Team wird nicht über die Arbeit benachrichtigt.
 
-#### Anforderungen
+#### Anfragen
 
-**Berechtigungen werden beim Erstellen einer Anfrage nicht vererbt**
+**Berechtigungen werden beim Erstellen einer Anfrage nicht übernommen**
 
-Wenn ein Benutzer eine Anfrage erstellt, erbt diese Anfrage keine Berechtigungen. Dies bedeutet, dass Benutzende möglicherweise nicht auf die Anfrage zugreifen können.
+Wenn Benutzende eine Anfrage erstellen, übernimmt diese Anfrage keine Berechtigungen. Dies bedeutet, dass Benutzende möglicherweise nicht auf die Anfrage zugreifen können.
 
 #### Zeitpläne
 
-**Berechtigungen zum Zeitplan für eine Gruppe aufgehoben**
+**Berechtigungen für Zeitplan für eine Gruppe widerrufen**
 
-Wenn ein Workfront-Gruppenadministrator eine Datumsausnahme zu einem Zeitplan hinzufügt und die Änderungen speichert, werden die Berechtigungen für diesen Zeitplan aus der Gruppe entfernt und der Workfront-Administrator muss der Gruppe Zugriff gewähren.
+Wenn eine oder ein Workfront-Gruppenadmin in einem Zeitplan eine Datumsausnahme hinzufügt und die Änderungen speichert, werden die Berechtigungen für diesen Zeitplan aus der Gruppe entfernt und der bzw. die Workfront-Admin muss der Gruppe Zugriff gewähren.
 
 
 #### Aufgaben
 
 **Inline-Bearbeitungen an einer Aufgabe werden nicht gespeichert**
 
-Wenn ein(e) Benutzende(r) im alten Aufgabenerlebnis Inline-Änderungen an einer Aufgabe vornimmt und speichert, werden die Änderungen nicht gespeichert.
+Wenn Benutzende im alten Aufgabenerlebnis Inline-Änderungen an einer Aufgabe vornehmen und speichern, werden die Änderungen nicht gespeichert.
 
 #### Arbeitszeittabellen
 
@@ -114,48 +114,48 @@ Arbeitszeittabellen werden nicht wie erwartet automatisch generiert. Dies kann a
 
 **Probleme mit Änderungen am Korrekturabzugsprofil**
 
-Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers gemeldet:
+Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers bzw. einer Benutzerin gemeldet:
 
-* Wenn ein(e) Benutzende(r) einem/r Benutzenden ein anderes Korrekturabzugsprofil zuweist und speichert, wird die Änderung nicht gespeichert und der/die Benutzende behält das vorherige Korrekturabzugsprofil bei.
-* Das Korrekturabzugsprofil eines/r Benutzenden wird möglicherweise als falsches Korrekturabzugsprofil angezeigt, auch wenn das richtige Korrekturabzugsprofil zugewiesen ist.
-* Wenn andere Änderungen an einem Benutzer vorgenommen werden, können sich auch dessen Korrekturabzugsberechtigungen ändern.
+* Wenn Benutzende einer Person ein anderes Korrekturabzugsprofil zuweisen und dieses speichern, wird die Änderung nicht gespeichert und das vorherige Korrekturabzugsprofil wird beibehalten.
+* Das Korrekturabzugsprofil einer Person wird möglicherweise als falsches Korrekturabzugsprofil angezeigt, auch wenn das richtige Korrekturabzugsprofil zugewiesen ist.
+* Wenn andere Änderungen an einer Person vorgenommen werden, können sich auch deren Korrekturabzugsberechtigungen ändern.
 
-**Option zum automatischen Erzeugen von Korrekturabzügen fehlt im Benutzerprofil**
+**Option zum automatischen Generieren von Korrekturabzügen fehlt im Benutzerprofil**
 
-Wenn ein(e) Benutzende(r) ein Benutzerprofil aufruft, ist die Option „Beim Hochladen von Dokumenten automatisch Korrekturabzüge generieren“ nicht verfügbar. Dies kann auch dann vorkommen, wenn alle Voraussetzungen für die Option erfüllt sind.
+Wenn Benutzende ein Benutzerprofil aufrufen, ist die Option „Beim Hochladen von Dokumenten automatisch Korrekturabzüge generieren“ nicht verfügbar. Dies kann auch dann vorkommen, wenn alle Voraussetzungen für die Option erfüllt sind.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025**
++++**Wartungs-Updates in der Woche vom 7. bis 13. Dezember 2025**
 
-### Woche der Wartungs-Updates vom 7. bis 13. Dezember 2025
+### Wartungs-Updates in der Woche vom 7. bis 13. Dezember 2025
 
-#### Anforderungen
+#### Anfragen
 
-**Dokument kann nicht von GDrive angefordert werden**
+**Dokument kann nicht aus GDrive in Anfrage hochgeladen werden**
 
-Wenn ein(e) Benutzende(r) in der neuen anfordernden Version eine Anfrage erstellt und versucht, ein Dokument von GDrive hochzuladen, reagiert das GDrive-Fenster nicht. Der/die Benutzende kann keine Datei auswählen oder das Fenster schließen.
+Wenn Benutzende im neuen Anfrageerlebnis eine Anfrage erstellen und versuchen, ein Dokument aus GDrive hochzuladen, reagiert das GDrive-Fenster nicht. Benutzende können keine Datei auswählen oder das Fenster nicht schließen.
 
 
 #### Benutzende
 
-**Benutzer, die Massenbearbeitung verwenden, entfernen Ressourcenpools und direkte Berichte**
+**Benutzende, die die Massenbearbeitung verwenden, entfernen Ressourcen-Pools und direkte Berichte**
 
-Wenn ein(e) Benutzende(r) eine Massenbearbeitung von Benutzenden durchführt, in das Feld Ressourcenpools klickt und keinen Wert eingibt, werden Ressourcenpools für alle bearbeiteten Benutzenden entfernt.
+Wenn Benutzende eine Massenbearbeitung von Benutzenden durchführen, in das Feld „Ressourcen-Pools“ klicken und keinen Wert eingeben, werden Ressourcen-Pools für alle bearbeiteten Benutzenden entfernt.
 
-Massenbearbeitung kann auch direkte Berichte von den bearbeiteten Benutzern entfernen.
+Bei der Massenbearbeitung können auch direkte Berichte von den bearbeiteten Benutzenden entfernt werden.
 
-**Fehler beim Öffnen der Seite „Benutzer“**
+**Fehler beim Öffnen der Seite „Benutzende“**
 
-Wenn ein(e) Benutzende(r) versucht, die Seite Benutzende über das Hauptmenü zu öffnen, wird die Seite nicht geöffnet und die folgende Meldung wird angezeigt:
+Wenn eine Benutzende versuchen, die Seite „Benutzende“ über das Hauptmenü zu öffnen, wird die Seite nicht geöffnet, und den Benutzenden wird die folgende Meldung angezeigt:
 
 „Es ist ein Fehler aufgetreten und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.“
 
 +++
 
-+++**Woche der Wartungs-Updates vom 30. November bis zum 6. Dezember 2025**
++++**Wartungs-Updates in der Woche vom 30. November bis 6. Dezember 2025**
 
-### Woche der Wartungs-Updates vom 30. November bis 6. Dezember 2025
+### Wartungs-Updates in der Woche vom 30. November bis 6. Dezember 2025
 
 Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbehebungen. Der Workfront-Support benachrichtigt Sie, wenn ein von Ihnen gemeldetes Problem behoben wurde.
 
@@ -163,41 +163,41 @@ Die Updates dieser Woche enthalten nur kleinere oder weniger bedeutende Fehlerbe
 
 ## Updates im November 2025
 
-+++**Workfront Planning Maintenance Updates Week of 16-22 November 2025**
++++**Wartungs-Updates für Workfront-Planung in der Woche vom 16. bis 22. November 2025**
 
-### Workfront Planning Maintenance Updates Week of 16-22 November 2025
+### Wartungs-Updates für Workfront-Planung in der Woche vom 16. bis 22. November 2025
 
 #### Benutzerdefinierte Formulare
 
 **Indikator „Aktiv/Inaktiv“ wurde zur Liste der benutzerdefinierten Formulare hinzugefügt, in denen ein Feld verwendet wird**
 
-Im Designer für benutzerdefinierte Formulare können Sie ein Feld auswählen und auf **Verwandte Forms anzeigen** klicken, um eine Liste aller anderen Formulare anzuzeigen, in denen das Feld verwendet wird. Dadurch wird angezeigt, welche anderen Formulare betroffen sind, wenn Sie das Feld bearbeiten.
+Im Designer für benutzerdefinierte Formulare können Sie ein Feld auswählen und auf **Zugehörige Formulare anzeigen** klicken, um eine Liste aller anderen Formulare anzuzeigen, in denen das Feld verwendet wird. Dadurch wird angezeigt, welche anderen Formulare betroffen sind, wenn Sie das Feld bearbeiten.
 
-Eine Erweiterung dieser Liste ist ein aktiver/inaktiver Indikator für jedes Formular. Sie können auf einen Blick sehen, ob das Feld derzeit in aktiven oder inaktiven Formularen verwendet wird.
+Eine Erweiterung dieser Liste ist ein Indikator „Aktiv/Inaktiv“ für jedes Formular. Sie können auf einen Blick sehen, ob das Feld derzeit in aktiven oder inaktiven Formularen verwendet wird.
 
 +++
 
-+++**Workfront Planning Maintenance Updates Week of 9-15 November 2025**
++++**Wartungs-Updates für Workfront-Planung in der Woche vom 9. bis 15. November 2025**
 
-### Workfront Planning Maintenance Updates Week of 9-15 November 2025
+### Wartungs-Updates für Workfront-Planung in der Woche vom 9. bis 15. November 2025
 
 #### Eintragstypen
 
-**Die Optionen Bearbeiten und Einstellungen wurden aus dem Menü Mehr in einem Datensatztyp entfernt**
+**Die Optionen „Änderungen“ und „Einstellungen“ wurden aus dem Menü „Mehr“ in einem Eintragstyp entfernt**
 
-Wir haben die Optionen Bearbeiten und Einstellungen aus dem Menü Mehr eines globalen Datensatztyps entfernt, der zu einem sekundären Arbeitsbereich von einem vorhandenen globalen Datensatztyp hinzugefügt wurde. Vor diesem Update waren die Menüs abgeblendet und nicht funktionsfähig.
+Wir haben die Optionen „Änderungen“ und „Einstellungen“ aus dem Menü „Mehr“ eines globalen Eintragstyps entfernt, der über einen bestehenden globalen Eintragstyp zu einem sekundären Arbeitsbereich hinzugefügt wurde. Vor diesem Update waren die Menüs abgeblendet und nicht funktionsfähig.
 
 +++
 
-+++**Woche der Wartungs-Updates vom 9. bis 15. November 2025**
++++**Wartungs-Updates in der Woche vom 9. bis 15. November 2025**
 
-### Woche der Wartungs-Updates vom 9. bis 15. November 2025
+### Wartungs-Updates in der Woche vom 9. bis 15. November 2025
 
 #### Aufgaben
 
-**Das Hinzufügen von Vorgängern ist nicht mehr von den Bearbeitungsuntereinstellungen der Aufgaben in der Zugriffsebene abhängig**
+**Das Hinzufügen von Vorgängern ist nicht mehr von den Untereinstellungen zur Bearbeitung der Aufgabe in der Zugriffsebene abhängig**
 
-Benutzer können Aufgaben Vorgänger hinzufügen, wenn der Bearbeitungszugriff für Aufgaben in ihrer Zugriffsebene aktiviert ist, unabhängig davon, welche Untereinstellungen Sie ausgewählt haben. Dies ist jetzt mit den vorhandenen API-Funktionen konsistent.
+Benutzende können Aufgaben Vorgänger hinzufügen, wenn der Bearbeitungszugriff für Aufgaben in ihrer Zugriffsebene aktiviert ist, unabhängig davon, welche Untereinstellungen Sie ausgewählt haben. Dies ist jetzt mit den vorhandenen API-Funktionen konsistent.
 
 +++
 
@@ -767,7 +767,7 @@ Beim Versuch, in Workfront eine erweiterte Benutzerzuweisung für eine Anfrage o
 
 Das Aktualisieren der Browser-Seite funktioniert nicht.
 
-#### Anforderungen
+#### Anfragen
 
 **Anfragen können nicht in Vorschauumgebungen erstellt werden**
 

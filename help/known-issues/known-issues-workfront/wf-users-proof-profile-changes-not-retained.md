@@ -4,9 +4,9 @@ description: Es wurden Probleme beim Ändern des Korrekturabzugsprofils einer Be
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
 source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Donnerstag, 17. Dezember 2025 behoben.
+>Dieses Problem wurde am 17. Dezember 2025 behoben.
 
-Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers gemeldet:
+Die folgenden Probleme wurden beim Ändern des Korrekturabzugsprofils eines Benutzers bzw. einer Benutzerin gemeldet:
 
-* Wenn ein(e) Benutzende(r) einem/r Benutzenden ein anderes Korrekturabzugsprofil zuweist und speichert, wird die Änderung nicht gespeichert und der/die Benutzende behält das vorherige Korrekturabzugsprofil bei.
-* Das Korrekturabzugsprofil eines/r Benutzenden wird möglicherweise als falsches Korrekturabzugsprofil angezeigt, auch wenn das richtige Korrekturabzugsprofil zugewiesen ist.
-* Wenn andere Änderungen an einem Benutzer vorgenommen werden, können sich auch dessen Korrekturabzugsberechtigungen ändern.
+* Wenn Benutzende einer Person ein anderes Korrekturabzugsprofil zuweisen und dieses speichern, wird die Änderung nicht gespeichert und das vorherige Korrekturabzugsprofil wird beibehalten.
+* Das Korrekturabzugsprofil einer Person wird möglicherweise als falsches Korrekturabzugsprofil angezeigt, auch wenn das richtige Korrekturabzugsprofil zugewiesen ist.
+* Wenn andere Änderungen an einer Person vorgenommen werden, können sich auch deren Korrekturabzugsberechtigungen ändern.
 
-_Erste Meldung am Dienstag, 24. November 2025._
+_Erste Meldung am 24. November 2025._

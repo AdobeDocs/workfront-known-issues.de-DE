@@ -1,12 +1,12 @@
 ---
 title: 'Workfront-Planung: Fehler beim Entfernen eines verbundenen Felds'
-description: Wenn ein(e) Benutzende(r) versucht, ein verbundenes Feld in Workfront Planning zu entfernen, kann er/sie das Feld nicht entfernen, und die Meldung wird angezeigt, dass das Feld nicht gelöscht werden kann. Erneut versuchen.
+description: 'Wenn Benutzende versuchen, ein verbundenes Feld in Workfront-Planung zu entfernen, können sie das Feld nicht entfernen und folgende Meldung wird angezeigt: Das Feld kann nicht gelöscht werden. Erneut versuchen.'
 hidefromtoc: true
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Dienstag, 22. Dezember 2025 behoben.
+>Dieses Problem wurde am 22. Dezember 2025 behoben.
 
-Wenn ein(e) Benutzende(r) versucht, ein verbundenes Feld in Workfront Planning zu entfernen, kann er/sie das Feld nicht entfernen, und die Meldung „Das Feld kann nicht gelöscht werden“ wird angezeigt. Versuchen Sie es erneut.“
+Wenn Benutzende versuchen, ein verbundenes Feld in Workfront-Planung zu entfernen, können sie das Feld nicht entfernen und die Meldung „Das Feld kann nicht gelöscht werden. Erneut versuchen.“
 
-_Erste Meldung am Donnerstag, 10. Dezember 2025._
+_Erste Meldung am 10. Dezember 2025._

@@ -3,19 +3,15 @@ title: 'Anfragen: Probleme mit Entwürfen im neuen Anfrageerlebnis'
 description: Es wurden mehrere Probleme mit Entwürfen im neuen Anfrageerlebnis gemeldet.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # Anfragen: Probleme mit Entwürfen im neuen Anfrageerlebnis
-
->[!NOTE]
->
->Dieses Problem wurde am Samstag, 23. Januar 2026 behoben.
 
 Es wurden die folgenden Probleme mit Entwürfen im neuen Anfrageerlebnis gemeldet:
 

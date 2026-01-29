@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 81%
+source-wordcount: '449'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2026 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ## Updates im Januar 2026
+
++++**Wartungs-Update vom 25. bis 31. Januar 2026**
+
+### Wartungs-Update vom 25. bis 31. Januar 2026
+
+#### Genehmigungen
+
+**Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an**
+
+Wenn Benutzende das Widget „Meine Genehmigungen“ auf der Startseite aufrufen, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.
+
++++
 
 +++**Wartungs-Update vom 18. bis 24. Januar 2026**
 

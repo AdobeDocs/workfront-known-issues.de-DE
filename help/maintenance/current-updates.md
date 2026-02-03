@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,34 @@ Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. D
 Informationen zu Wartungs-Updates, die vor 2026 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
+
+## Updates im Februar 2026
+
++++**Wartungs-Update vom 1. bis 7. Februar 2026**
+
+### Wartungs-Update vom 1. bis 7. Februar 2026
+
+#### Anfragen
+
+**Fehler „Sie verfügen nicht über die erforderliche Zugriffsberechtigung“ beim Kopieren von Anfragen**
+
+Wenn ein(e) Benutzende(r) versucht, eine Anfrage über die Anfrageseite zu kopieren, wird die Anfrage nicht kopiert und der folgende Fehler wird angezeigt:
+
+„Sie verfügen nicht über genügend Zugriffsrechte zur Bearbeitung dieses Problems.“
+
+**Fehler „Sie müssen ein Systemadministrator sein“ beim Kopieren von Anfragen**
+
+Wenn ein(e) Benutzende(r) eine Anfrage kopiert und versucht zu speichern, wird die Anfrage nicht gespeichert und die folgende Meldung wird angezeigt:
+
+„Sie müssen Systemadministrator sein, um diesen benutzerdefinierten Parameterwert zu ändern.“
+
+#### Benutzende
+
+**Benutzende werden auf der Adobe Admin Console nicht korrekt bereitgestellt**
+
+Wenn eine Benutzerin oder ein Benutzer bereits in einer Adobe Admin Console vorhanden ist und dann automatisch in einer Konsole bereitgestellt wird, die Workfront enthält, wird diese Person nicht korrekt in der neuen Konsole bereitgestellt.
+
++++
 
 ## Updates im Januar 2026
 

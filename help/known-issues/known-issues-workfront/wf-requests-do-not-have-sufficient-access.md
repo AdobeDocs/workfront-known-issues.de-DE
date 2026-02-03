@@ -3,15 +3,19 @@ title: 'Anfragen: Beim Kopieren von Anfragen tritt der Fehler „Zugriff nicht a
 description: Wenn ein(e) Benutzende(r) versucht, eine Anfrage über die Anfrageseite zu kopieren, wird die Anfrage nicht kopiert und ein Fehler wird angezeigt.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 5%
+source-wordcount: '99'
+ht-degree: 11%
 
 ---
 
 
 # Anfragen: Fehler „Sie verfügen nicht über die erforderliche Zugriffsberechtigung“ beim Kopieren von Anfragen
+
+>[!NOTE]
+>
+>Dieses Problem wurde am Dienstag, 2. Februar 2026 behoben.
 
 Wenn ein(e) Benutzende(r) versucht, eine Anfrage über die Anfrageseite zu kopieren, wird die Anfrage nicht kopiert und der folgende Fehler wird angezeigt:
 

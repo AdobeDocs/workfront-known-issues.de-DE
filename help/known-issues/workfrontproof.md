@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 96%
+source-wordcount: '405'
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Dokumente: Bedienfeld Zusammenfassung ist leer](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | Donnerstag, 21. Januar 2026 |
-| [Workfront Proof: Korrekturabzüge werden nicht in Ordnern angezeigt](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | Samstag, 16. Januar 2026 |
 | [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Freitag, 15. Januar 2026 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |

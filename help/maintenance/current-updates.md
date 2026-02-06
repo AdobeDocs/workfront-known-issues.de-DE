@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 65%
+source-wordcount: '761'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,21 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ### Wartungs-Update vom 1. bis 7. Februar 2026
 
+#### Dokumente
+
+**Zusammenfassungsbereich ist leer**
+
+Wenn ein(e) Benutzende(r) eine Dokumentenliste öffnet und auf ein Dokument klickt, wird das Bedienfeld Zusammenfassung geöffnet, bleibt aber leer. Der/die Benutzende kann das Bedienfeld Zusammenfassung nicht schließen.
+
+Wenn der/die Benutzende die Seite neu lädt, wird das Bedienfeld Zusammenfassung möglicherweise wie erwartet ausgefüllt. Wenn der/die Benutzende jedoch auf ein anderes Dokument klickt, ist das Bedienfeld „Zusammenfassung“ dieses Dokuments leer.
+
 #### Anfragen
+
+**„Kein Betreff“ wird in der Anfrageliste angezeigt**
+
+Wenn ein(e) Benutzende(r) die Anfrageliste in der neuen anfragenden -Version anzeigt, wird in einigen Anfragen in der Spalte Betreff „Kein Betreff“ angezeigt.
+
+Wenn der/die Benutzende eine dieser Anfragen öffnet, sieht er/sie, dass die Anfrage einen Betreff hat.
 
 **Fehler „Sie verfügen nicht über die erforderliche Zugriffsberechtigung“ beim Kopieren von Anfragen**
 
@@ -49,6 +63,12 @@ Wenn ein(e) Benutzende(r) eine Anfrage kopiert und versucht zu speichern, wird d
 **Benutzende werden auf der Adobe Admin Console nicht korrekt bereitgestellt**
 
 Wenn eine Benutzerin oder ein Benutzer bereits in einer Adobe Admin Console vorhanden ist und dann automatisch in einer Konsole bereitgestellt wird, die Workfront enthält, wird diese Person nicht korrekt in der neuen Konsole bereitgestellt.
+
+#### Workload Balancer
+
+**Stunden pro Benutzer wurden nicht korrekt berechnet**
+
+Wenn ein(e) Benutzende(r) die Stunden eines/r Benutzenden im Workload Balancer aufruft, werden diese Stunden möglicherweise falsch berechnet. Beispielsweise kann in der Wochenansicht eine Berechnung von Stunden angezeigt werden, in der 4-Wochen-Ansicht ist die Anzahl von Stunden jedoch eine andere.
 
 +++
 

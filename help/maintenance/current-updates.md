@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 52%
+source-wordcount: '798'
+ht-degree: 51%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2026 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ## Updates im Februar 2026
+
++++**Wartungs-Update vom 8. bis 14. Februar 2026**
+
+### Wartungs-Update vom 8. bis 14. Februar 2026
+
+#### Berichte
+
+**Data-Lake-Abfrage gibt nicht die erwarteten Ergebnisse zurück**
+
+Wenn der Data Lake abgefragt wird, werden nicht alle erwarteten Ergebnisse zurückgegeben.
+
++++
 
 +++**Wartungs-Update vom 1. bis 7. Februar 2026**
 

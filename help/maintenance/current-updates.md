@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 51%
+source-wordcount: '859'
+ht-degree: 53%
 
 ---
 
@@ -35,6 +35,15 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 **Data-Lake-Abfrage gibt nicht die erwarteten Ergebnisse zurück**
 
 Wenn der Data Lake abgefragt wird, werden nicht alle erwarteten Ergebnisse zurückgegeben.
+
+#### Anfragen
+
+**Probleme mit Entwürfen in der neuen anfordernden -Version**
+
+Es wurden die folgenden Probleme mit Entwürfen im neuen Anfrageerlebnis gemeldet:
+
+* Bei Anfragen, die als Entwurf erstellt und dann gesendet werden, wird in der Anfragenliste nur der erste Buchstabe des Betreffs angezeigt.
+* Verworfene Entwürfe werden nicht aus der Anfragenliste entfernt, was zu dem Fehler „Entwurf konnte nicht abgerufen werden“ führt.
 
 +++
 

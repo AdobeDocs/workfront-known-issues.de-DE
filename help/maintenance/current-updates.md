@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 Wenn der Data Lake abgefragt wird, werden nicht alle erwarteten Ergebnisse zurückgegeben.
 
 #### Anfragen
+
+**Entwurf, der zusammen mit der Anfrage erstellt wurde, verursacht Probleme**
+
+Wenn ein(e) Benutzende(r) in der neuen anfordernden -Version eine neue Anfrage erstellt und sendet, wird auch ein Entwurf erstellt. Der Entwurf zeigt nur den ersten Buchstaben des Namens der gesendeten Anfrage an, und der Versuch, ihn zu öffnen, führt zu einem Fehler „Fehler beim Abrufen“.
+
+Wenn die gesendete Anfrage dann gelöscht wird, scheint sie gelöscht zu werden, bleibt jedoch im Bereich Anfragen von Workfront sichtbar. Wenn der/die Benutzende versucht, die Anfrage erneut zu öffnen, wird eine Meldung angezeigt, die besagt, dass die Anfrage nicht existiert.
 
 **Probleme mit Entwürfen in der neuen anfordernden -Version**
 

@@ -3,7 +3,7 @@ title: 'Zuweisungen: Erweiterte Zuweisungsänderung kann nicht in einem Bericht 
 description: Wenn ein(e) Benutzende(r) versucht, eine erweiterte Zuweisungsänderung in einem Bericht vorzunehmen, wird die Änderung nicht gespeichert und eine Fehlermeldung wird angezeigt.
 hidefromtoc: true
 feature: Tasks, Reports and Dashboards
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 48c35e6d2e5df5b2a0078a0b5327505b09c7b7f8
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -22,3 +22,5 @@ Wenn ein(e) Benutzende(r) versucht, eine erweiterte Zuweisungsänderung in einem
 Erweiterte Zuweisungen können in der Aufgabenliste des Projekts geändert werden.
 
 _Erste Meldung am Donnerstag, 4. Februar 2026._
+
+

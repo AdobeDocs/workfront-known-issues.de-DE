@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md) | Mittwoch, 17. Februar 2026 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | &#x200B;20. Februar 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
@@ -36,6 +37,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Startseite: Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | Mittwoch, 17. Februar 2026 |
+| [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | Mittwoch, 17. Februar 2026 |
 | [Workfront Proof: Korrekturabzüge werden nicht in Ordnern angezeigt](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | Samstag, 6. Februar 2026 |
 | [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Freitag, 15. Januar 2026 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |

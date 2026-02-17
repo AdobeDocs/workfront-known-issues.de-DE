@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Startseite: Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [Integrationen: Slack-Benachrichtigungen von Workfront werden nicht ausgelöst](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Workfront-Planung: Fehler „Anfrage konnte nicht gesendet werden“](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md)
       + [Zuweisungen: Erweiterte Zuweisungsänderung kann nicht in einem Bericht gespeichert werden](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Berichte: Workfront Planning-Felder werden nicht in Report Builder für Arbeitsflächen-Dashboards angezeigt](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Benutzende: Direktberichte können nicht entfernt werden](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -226,7 +231,7 @@ ht-degree: 92%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -235,7 +240,7 @@ ht-degree: 92%
    + [Bekannte Probleme in  [!DNL Workfront] -Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

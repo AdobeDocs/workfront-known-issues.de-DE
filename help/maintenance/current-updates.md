@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 48%
+source-wordcount: '1003'
+ht-degree: 46%
 
 ---
 
@@ -25,6 +25,18 @@ Informationen zu Wartungs-Updates, die vor 2026 durchgeführt wurden, finden Sie
 Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ## Updates im Februar 2026
+
++++**Wartungs-Update vom 15. bis 21. Februar 2026**
+
+### Wartungs-Update vom 15. bis 21. Februar 2026
+
+#### Benutzerdefinierte Formulare
+
+**Anzeigelogik wird im Anfrageformular nicht korrekt angezeigt**
+
+Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt, das mit einer Anfrage verbunden ist, wird die Anzeigelogik nicht befolgt und einige Felder werden möglicherweise nicht wie erwartet angezeigt.
+
++++
 
 +++**Wartungs-Update vom 8. bis 14. Februar 2026**
 

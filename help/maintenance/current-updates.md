@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 **Anzeigelogik wird im Anfrageformular nicht korrekt angezeigt**
 
 Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt, das mit einer Anfrage verbunden ist, wird die Anzeigelogik nicht befolgt und einige Felder werden möglicherweise nicht wie erwartet angezeigt.
+
+#### Anfragen
+
+**Ansicht „Alle“ zeigt nicht alle Anfragen an**
+
+Wenn ein(e) Benutzende(r) die Anfrageliste in der neuen Anfrageerfahrung anzeigt und die Ansicht so eingestellt ist, dass alle Anfragen angezeigt werden, werden nur einige der Anfragen angezeigt.
+
 
 +++
 

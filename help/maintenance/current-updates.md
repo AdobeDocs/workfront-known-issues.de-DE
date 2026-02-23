@@ -3,10 +3,10 @@ title: Wartungs-Updates für Workfront
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 44%
+source-wordcount: '1265'
+ht-degree: 37%
 
 ---
 
@@ -26,15 +26,53 @@ Die folgenden Wartungs-Updates wurden im Jahr 2026 vorgenommen.
 
 ## Updates im Februar 2026
 
++++**Wartungs-Update vom 22. bis 28. Februar 2026**
+
+### Wartungs-Update vom 22. bis 28. Februar 2026
+
+#### Anfragen
+
+**Dokument kann beim Ausfüllen einer Anfrage nicht hochgeladen werden**
+
+Wenn ein(e) Benutzende(r) eine Anfrage ausfüllt und versucht, ein Dokument hochzuladen, wird das Dokument nicht hochgeladen und die folgende Fehlermeldung wird angezeigt:
+
+„Upload-Fehler: Versuchen Sie es mit einer kleineren Datei oder hängen Sie die Datei nach der Erstellung an.“
+
++++
+
 +++**Wartungs-Update vom 15. bis 21. Februar 2026**
 
 ### Wartungs-Update vom 15. bis 21. Februar 2026
 
 #### Benutzerdefinierte Formulare
 
+**Berechnete Felder zeigen keine Daten für Benutzer ohne Administratorrechte an**
+
+Wenn ein(e) Benutzende(r), der/die kein Workfront-Administrator(in) ist, ein benutzerdefiniertes Formular mit Feldern anzeigt, die aus Daten in einem Abschnitt des Formulars stammen, der nur von einem Administrator bzw. einer Administratorin verwaltet werden kann, wird der berechnete Wert in diesem Feld nicht angezeigt. Wenn Benutzende Ausdrücke für die Neuberechnung ausführen, wird der Wert zwar angezeigt, geht aber bei der Aktualisierung verloren.
+
+Workfront-Admins können die Feldwerte erwartungsgemäß sehen.
+
 **Anzeigelogik wird im Anfrageformular nicht korrekt angezeigt**
 
 Wenn ein(e) Benutzende(r) ein benutzerdefiniertes Formular ausfüllt, das mit einer Anfrage verbunden ist, wird die Anzeigelogik nicht befolgt und einige Felder werden möglicherweise nicht wie erwartet angezeigt.
+
+#### Startseite
+
+**Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt**
+
+Wenn ein(e) Benutzende(r) in einem Kommentar zu einem Korrekturabzug erwähnt wird, ist diese Erwähnung nicht im Erwähnungs -Widget auf der Startseite enthalten.
+
+#### Anmeldung
+
+**Workfront wird nach der Anmeldung nicht geladen**
+
+Wenn sich ein(e) Benutzende(r) bei Workfront anmeldet, wird Workfront nicht geladen. Wenn die Benutzerin oder der Benutzer die Seite aktualisiert, wird Workfront erwartungsgemäß geladen.
+
+#### Reporting
+
+Workfront Planning-Felder werden nicht in Report Builder für Arbeitsflächen-Dashboards angezeigt
+
+Wenn ein(e) Benutzende(r) den -Builder in Arbeitsflächen-Dashboards verwendet und versucht, auf Felder aus Workfront Planning zu verweisen, werden diese Felder nicht im Builder angezeigt.
 
 #### Anfragen
 

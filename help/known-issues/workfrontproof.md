@@ -4,10 +4,10 @@ description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Proof]
 keywords: neue Datei, Datei hinzufügen
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 88%
+source-wordcount: '445'
+ht-degree: 90%
 
 ---
 
@@ -40,7 +40,6 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 | ----------------------------------------------------------------- | ----------------- |
 | [Startseite: Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | Mittwoch, 17. Februar 2026 |
 | [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | Mittwoch, 17. Februar 2026 |
-| [Workfront Proof: Korrekturabzüge werden nicht in Ordnern angezeigt](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | Samstag, 6. Februar 2026 |
 | [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Freitag, 15. Januar 2026 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |

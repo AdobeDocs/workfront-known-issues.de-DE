@@ -2,10 +2,10 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 87%
+source-wordcount: '1833'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Aktuelle Probleme in [!DNL Adobe Workfront] {#wf-current}
+      + [Benutzende: Benutzende, die aus Adobe Admin Console entfernt wurden, sind weiterhin in Workfront aktiv](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+      + [Workfront Planning: Der Anfragestatus wird als „In Bearbeitung“ angezeigt, nachdem die Anfrage genehmigt wurde](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+      + [Benachrichtigungen: Der/die Benutzende erhält keine erwarteten Benachrichtigungen](known-issues-workfront/wf-notifications-user-not-receiving.md)
       + [Programme: Übernommene Berechtigungen funktionieren nicht für Programme](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
       + [Pinnwände: Auf der Pinnwand werden doppelte Karten angezeigt](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [Aufgaben: Große Aufgabenliste springt unerwartet an eine andere Stelle in der Liste](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
@@ -235,7 +238,7 @@ ht-degree: 87%
       + [Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Fehler wegen zu geringem Speicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Modul für benutzerdefinierten API-Aufruf] gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [In-App-Hilfe-Links in [!DNL Workfront Fusion] führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -244,7 +247,7 @@ ht-degree: 87%
    + [Bekannte Probleme in  [!DNL Workfront] -Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

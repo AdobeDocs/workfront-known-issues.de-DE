@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/).
+>Informationen zu Wartungsausfällen für alle Adobe-Produkte, einschließlich Workfront, finden Sie auf der [Adobe-Statusseite](https://status.adobe.com/de-de/).
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 

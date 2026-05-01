@@ -4,19 +4,19 @@ solution: Workfront
 product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/workfront-known-issues.de-DE
+git-repo: https://github.com/AdobeDocs/workfront-known-issues.en
 index: true
 feature-set: Workfront
-source-git-commit: e758575bf35ef5e54b79472ec9611b237e7456a5
+source-git-commit: 78d1aa2666e1c267ce838befa24b754d0dea9efd
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 49%
 
 ---
 
 
 # Metadaten für die interne Verwendung
 
-Die Datei [!DNL metadata].md enthält Metadaten auf Repo-Ebene, die an die [!DNL TOC.md]-Dateien des Benutzerhandbuchs im Repository weitergegeben werden. Wenn Sie den Inhalt von metadata.md für ein Benutzerhandbuch ändern möchten, können Sie das in jeder beliebigen TOC.md-Datei tun.
+Die Datei [!DNL metadata].md enthält Metadaten auf Repo-Ebene, die an die [!DNL TOC.md] des Benutzerhandbuchs im Repository weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, verwenden Sie dazu eine beliebige Datei „TOC.md“.
 
-Siehe [Metadaten](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=de) für eine Liste gültiger Werte für **Lösung**, **Produkt** und **Typ**.
+Unter [Metadaten](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) finden Sie eine Liste gültiger Werte für **Lösung**, **Produkt** und **Typ**.

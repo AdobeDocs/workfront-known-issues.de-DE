@@ -1,12 +1,11 @@
 ---
 title: 'Setup: Listen werden in Setup nur langsam geladen'
 description: Wenn sich Benutzende im Bereich „Setup“ befinden und versuchen, eine Liste zu laden, wird sie nur sehr langsam geladen. Dies wurde in verschiedenen Bereichen von Setup gemeldet.
-hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 94%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 94%
 
 Wenn sich ein(e) Benutzende(r) im Bereich [!UICONTROL Setup] befindet und versucht, eine Liste zu laden, wird sie nur sehr langsam geladen. Dies wurde in verschiedenen Bereichen von [!UICONTROL Setup] gemeldet.
 
-_Erste Meldung am 20. Oktober 2022._
+_Erste Meldung am Freitag, 20. Oktober 2022._

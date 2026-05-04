@@ -1,15 +1,14 @@
 ---
 title: 'Benutzende: Benutzende, die die Massenbearbeitung verwenden, entfernen Ressourcen-Pools und direkte Berichte'
 description: Wenn Benutzende eine Massenbearbeitung von Benutzenden durchführen, in das Feld „Ressourcen-Pools“ klicken und keinen Wert eingeben, werden Ressourcen-Pools für alle bearbeiteten Benutzenden entfernt. Bei der Massenbearbeitung können auch direkte Berichte von den bearbeiteten Benutzenden entfernt werden.
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
-workflow-type: ht
-source-wordcount: '108'
+exl-id: 838b142d-9245-465d-a22c-883641215ef7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
-
 
 # Benutzende: Benutzende, die die Massenbearbeitung verwenden, entfernen Ressourcen-Pools und direkte Berichte
 

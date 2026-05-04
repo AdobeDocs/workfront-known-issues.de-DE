@@ -1,12 +1,11 @@
 ---
 title: 'Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab'
 description: Beim Versuch, die neue Startseite anzuzeigen, stürzt die Site mit einer Fehlermeldung ab. Eine Umgehungslösung ist verfügbar.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ Dies kann durch zu viele Elemente in einem Widget verursacht werden. Wir empfehl
 * Filtern, sodass weniger Elemente im Widget enthalten sind.
 * Entfernen des Widgets von der Startseite.
 
-_Erste Meldung am 30. Juli 2024._
+_Erste Meldung am Mittwoch, 30. Juli 2024._

@@ -1,17 +1,16 @@
 ---
-title: 'Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst'
+title: 'Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst'
 description: Wenn ein(e) Benutzende(r) ein Berichtsdiagramm in einem Dashboard anzeigt, sind die Farben anders als vom Bericht selbst. Dies kann verwirrend sein, wenn der/die Benutzende erwartet, dass eine bestimmte Farbe eine bestimmte Bedeutung hat.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
-# Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als der Bericht selbst
+# Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst
 
 <!--Converted to story-->
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Wenn ein(e) Benutzende(r) ein Berichtsdiagramm in einem Dashboard anzeigt, sind die Farben anders als vom Bericht selbst. Dies kann verwirrend sein, wenn der/die Benutzende erwartet, dass eine bestimmte Farbe eine bestimmte Bedeutung hat.
 
-_Erste Meldung am 19. Juli 2022._
+_Erste Meldung am Mittwoch, 19. Juli 2022._

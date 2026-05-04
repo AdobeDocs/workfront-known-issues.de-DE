@@ -3,10 +3,9 @@ title: 'Kalender: OR-Filteranweisung führt zum Ausschluss der Filterregel'
 description: Wenn ein(e) Benutzende(r) einen Kalenderbericht einrichtet, um Aufgaben basierend auf einer benutzerdefinierten Feldauswahl zu erfassen, und eine OR-Anweisung hinzufügt, werden Objekte, die die Kriterien des ersten Teils der Filterregel erfüllen, von den Ergebnissen ausgeschlossen.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 94%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 94%
 
 Wenn ein(e) Benutzende(r) einen Kalenderbericht einrichtet, um Aufgaben basierend auf einer benutzerdefinierten Feldauswahl zu erfassen, und eine [!DNL OR]-Anweisung hinzufügt, werden Objekte, die die Kriterien des ersten Teils der Filterregel erfüllen, von den Ergebnissen ausgeschlossen.
 
-_Erste Meldung am 23. März 2021._
+_Erste Meldung am Mittwoch, 23. März 2021._

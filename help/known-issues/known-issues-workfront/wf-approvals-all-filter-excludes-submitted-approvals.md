@@ -1,13 +1,12 @@
 ---
 title: 'Genehmigungen: Filter „Alle“ schließt persönlich gesendete Genehmigungen aus'
 description: Wenn Genehmigungen im Widget „Meine Genehmigungen“ auf der Startseite oder auf der Seite „Meine Updates“ angezeigt werden, enthält die Liste keine von den Benutzenden gesendeten Genehmigungen, selbst wenn der Filter auf „Alle“ gesetzt ist.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '107'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 91%
 
 ---
 
@@ -19,6 +18,6 @@ ht-degree: 100%
 
 Wenn Genehmigungen im Widget „Meine Genehmigungen“ auf der Startseite oder auf der Seite „Meine Updates“ angezeigt werden, enthält die Liste keine von den Benutzenden gesendeten Genehmigungen, selbst wenn der Filter auf „Alle“ gesetzt ist.
 
-_Erste Meldung am 16. Oktober 2024._
+_Erste Meldung am Donnerstag, 16. Oktober 2024._
 
-&lt;!--CHECK ME--1 Ansicht April–Juni 2025 (7. Juli)-->
+&lt;!—CHECK ME—1 Ansicht April-Juni 2025 (7. Juli)—>

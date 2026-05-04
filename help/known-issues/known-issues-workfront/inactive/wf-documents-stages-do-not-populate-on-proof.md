@@ -2,16 +2,15 @@
 title: '„Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“'
 description: Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt und diesen dann in einem Bericht anzeigt, wie z. B. in einem Bericht zur [!UICONTROL Dokumentversion] oder zur [!UICONTROL Korrekturabzugsgenehmigung], ist das Feld [!UICONTROL Aktive Korrekturabzugsschritte] leer. Dies tritt auf, wenn der Korrekturabzug nach dem Hochladen des Dokuments erstellt wird, und zwar entweder als [!UICONTROL einfacher Korrekturabzug] oder [!UICONTROL erweiterter Korrekturabzug] mit einem [!UICONTROL einfachen Workflow].
 feature: Digital Content and Documents
-hidefromtoc: true
 exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '202'
 ht-degree: 100%
 
 ---
 
-# „Korrekturabzüge: Das Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer“
+# „Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugphasen] ist leer“
 
 <!--Requested article. This Known Issue is on the TOC for both Workfront and Workfront Proof.-->
 
@@ -21,11 +20,11 @@ ht-degree: 100%
 
 Wenn ein(e) Benutzende(r) einen Korrekturabzug erstellt und diesen dann in einem Bericht anzeigt, wie z. B. in einem Bericht zur [!UICONTROL Dokumentversion] oder zur [!UICONTROL Korrekturabzugsgenehmigung], ist das Feld [!UICONTROL Aktive Korrekturabzugsschritte] leer. Dies tritt auf, wenn der Korrekturabzug nach dem Hochladen des Dokuments erstellt wird, und zwar entweder als [!UICONTROL einfacher Korrekturabzug] oder [!UICONTROL erweiterter Korrekturabzug] mit einem [!UICONTROL einfachen Workflow].
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Führen Sie einen der folgenden Schritte aus:
 
 * Wenn Sie ein neues Dokument hinzufügen, fügen Sie es als Korrekturabzug hinzu, indem Sie [!UICONTROL Neu hinzufügen] > [!UICONTROL Korrekturabzug] auswählen.
 * Wenn Sie einen Korrekturabzug von einem vorhandenen Dokument generieren, erstellen Sie ihn als [!UICONTROL erweiterten Korrekturabzug] mit einem [!UICONTROL automatisierten Workflow].
 
-_Erste Meldung am 31. August 2022._
+_Erste Meldung am Donnerstag, 31. August 2022._

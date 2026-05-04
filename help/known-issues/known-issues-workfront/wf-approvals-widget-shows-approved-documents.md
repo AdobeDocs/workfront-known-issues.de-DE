@@ -1,21 +1,20 @@
 ---
 title: 'Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an'
 description: Wenn Benutzende das Widget „Meine Genehmigungen“ auf der Startseite aufrufen, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.
-hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+exl-id: ccd4da4e-87a5-44a5-bbb9-bd7fe6e170af
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 88%
 
 ---
-
 
 # Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 29. Januar 2026 behoben.
+>Dieses Problem wurde am 29. Januar 2026 behoben.
 
 
 Wenn Benutzende das Widget „Meine Genehmigungen“ auf der Startseite aufrufen, enthält das Widget Korrekturabzüge, die bereits genehmigt wurden.

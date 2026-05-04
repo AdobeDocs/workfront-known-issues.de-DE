@@ -1,15 +1,14 @@
 ---
 title: 'Benutzende: Fehler beim Öffnen der Seite „Benutzende“'
 description: 'Wenn Benutzende versuchen, die Seite „Benutzende“ über das Hauptmenü zu öffnen, wird die Seite nicht geöffnet und die folgende Fehlermeldung wird angezeigt:'
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
-workflow-type: ht
-source-wordcount: '94'
+exl-id: 6efb4f4c-f096-49c3-ae89-62d5ee3f9aaa
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # Benutzende: Fehler beim Öffnen der Seite „Benutzende“
 

@@ -1,17 +1,16 @@
 ---
 title: 'Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben'
 description: Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem Benutzende während der Erstellung des Korrekturabzugs hinzugefügt wurden, wird der Korrekturabzug nicht für diese Benutzenden freigegeben, und sie können nicht auf den Korrekturabzug zugreifen.
-hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 feature: Workfront Proof
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
 
-# Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben.
+# Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben
 
 <!--This issue is on the WF and WFP TOCs-->
 <!--Requested article, live for workaround-->
@@ -22,8 +21,8 @@ ht-degree: 100%
 
 Wenn ein Korrekturabzug einen Schritt in einem Workflow erreicht, zu dem ein(e) Benutzende(r) während der Erstellung des Korrekturabzugs hinzugefügt wurde, wird der Korrekturabzug nicht für den/die Benutzende(n) freigegeben, und er/sie kann nicht auf den Korrekturabzug zugreifen.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Geben Sie das Dokument für den/die Benutzende(n) manuell frei.
 
-_Erste Meldung am 1. September 2022._
+_Erste Meldung am Freitag, 1. September 2022._

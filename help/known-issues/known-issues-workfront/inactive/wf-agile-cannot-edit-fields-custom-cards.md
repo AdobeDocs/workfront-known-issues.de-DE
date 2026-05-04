@@ -3,10 +3,9 @@ title: 'Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüll
 description: Wenn ein Feld auf einer Karte auf dem Kanban-Board über ein benutzerdefiniertes Formular befüllt wird, können die Benutzenden dieses Feld nicht direkt auf der Karte bearbeiten.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
-hidefromtoc: true
-source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -19,9 +18,9 @@ ht-degree: 100%
 
 Wenn ein Feld auf einer Karte auf dem Kanban-Board über ein benutzerdefiniertes Formular befüllt wird, können die Benutzenden dieses Feld nicht direkt auf der Karte bearbeiten.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Öffnen Sie die Aufgabe und bearbeiten Sie das Feld im Fenster [!UICONTROL Aufgabe bearbeiten].
 
-_Erste Meldung am 12. April 2022._
+_Erste Meldung am Mittwoch, 12. April 2022._
 

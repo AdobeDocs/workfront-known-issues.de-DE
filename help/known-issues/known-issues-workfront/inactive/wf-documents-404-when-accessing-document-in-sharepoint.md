@@ -1,12 +1,11 @@
 ---
 title: 'Dokumente: 404-Fehler beim Zugriff auf ein über SharePoint verknüpftes Dokument'
 description: Wenn Benutzende versuchen, auf ein über SharePoint verknüpftes Dokument zuzugreifen, werden sie zu einer Seite mit einem 404-Fehler geleitet.
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 91%
 
 ---
@@ -21,8 +20,8 @@ Wenn Benutzende versuchen, auf ein Dokument zuzugreifen, das über [!DNL SharePo
 
 Dies ist ein bekanntes [!DNL SharePoint]-Problem, das auftritt, wenn die Site ein „@“-Symbol im Link enthält.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 [!DNL SharePoint] empfiehlt, eine kurze URL zu generieren und diese für den Link zu verwenden.
 
-_Erste Meldung am 14. März 2023._
+_Erste Meldung am Mittwoch, 14. März 2023._

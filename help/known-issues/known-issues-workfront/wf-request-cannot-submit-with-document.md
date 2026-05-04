@@ -1,13 +1,12 @@
 ---
 title: 'Anfragen: Ein Dokument kann beim Ausfüllen einer Anfrage nicht hochgeladen werden'
 description: Wenn ein(e) Benutzende(r) eine Anfrage ausfüllt und versucht, ein Dokument hochzuladen, wird das Dokument nicht hochgeladen und ein Fehler wird angezeigt.
-hidefromtoc: true
 feature: Requests
 exl-id: e73b00ef-b5ab-4458-a9be-49a4954b560e
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
@@ -15,10 +14,10 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->Dieses Problem wurde am Freitag, 23. Februar 2023 behoben.
+>Dieses Problem wurde am 23. Februar 2023 behoben.
 
 Wenn ein(e) Benutzende(r) eine Anfrage ausfüllt und versucht, ein Dokument hochzuladen, wird das Dokument nicht hochgeladen und die folgende Fehlermeldung wird angezeigt:
 
 „Upload-Fehler: Versuchen Sie es mit einer kleineren Datei oder hängen Sie die Datei nach der Erstellung an.“
 
-_Erste Meldung am Samstag, 6. Februar 2026._
+_Erste Meldung am 6. Februar 2026._

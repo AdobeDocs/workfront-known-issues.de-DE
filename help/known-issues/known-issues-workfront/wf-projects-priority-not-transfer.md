@@ -1,12 +1,11 @@
 ---
 title: 'Projekte: Ein Projekt, das aus einem Problem mithilfe einer Vorlage erstellt wurde, spiegelt nicht die in der Vorlage festgelegte Priorität wider.'
 description: Wenn Benutzende ein Problem mithilfe einer Vorlage in ein Projekt konvertieren, stimmt die Priorität des neu erstellten Projekts nicht mit der in der Vorlage festgelegten Priorität überein.
-hidefromtoc: true
 feature: Projects
 exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---

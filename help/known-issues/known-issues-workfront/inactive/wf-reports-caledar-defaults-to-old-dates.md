@@ -2,16 +2,15 @@
 title: 'Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt'
 description: Wenn ein(e) Benutzende(r) einen Kalender öffnet, lädt der Kalender einen zufälligen vergangenen Datumsbereich (z. B. eine Woche aus dem Jahr 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
-# Berichte: Der Kalender zeigt standardmäßig alte Datumswerte an
+# Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt
 
 >[!NOTE]
 >
@@ -19,9 +18,9 @@ ht-degree: 100%
 
 Wenn ein(e) Benutzende(r) einen Kalender öffnet, lädt der Kalender einen zufälligen vergangenen Datumsbereich (z. B. eine Woche aus dem Jahr 1800).
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Durch Klicken auf **[!UICONTROL Heute]** wird die richtige Woche in den Kalender geladen.
 
 
-_Erste Meldung am 7. April 2020._
+_Erste Meldung am Mittwoch, 7. April 2020._

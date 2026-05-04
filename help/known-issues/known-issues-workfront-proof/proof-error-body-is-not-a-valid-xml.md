@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Proof-API: Fehler: Text ist keine gültige XML'
 description: Ein Aufruf der Workfront-Korrekturabzug-API gibt einen Fehler zurück.
-hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 86%
 
 ---
@@ -25,4 +24,4 @@ Ein Aufruf an die [!DNL Workfront Proof]-API gibt den folgenden Fehler zurück:
 
 Dieser Fehler kann auftreten, wenn auf die [!DNL Workfront Proof]-API direkt oder über [!DNL Workfront Fusion] zugegriffen wird.
 
-_Erste Meldung am 15. September 2022._
+_Erste Meldung am Freitag, 15. September 2022._

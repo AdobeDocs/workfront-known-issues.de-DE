@@ -1,15 +1,14 @@
 ---
 title: 'Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden'
 description: Wenn Benutzende versuchen, eine andere Person zu einem Korrekturabzug hinzuzufügen und nach dieser Person anhand des Namens suchen, wird der Name nicht angezeigt und die Benutzenden können ihn nicht auswählen, um die andere Person zum Korrekturabzug hinzuzufügen.
-hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
-workflow-type: ht
-source-wordcount: '126'
+exl-id: d9871cfc-41de-4d60-9dd6-a855436bf875
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
-
 
 # Korrekturabzüge: Benutzende können in der Vorschauumgebung nicht anhand des Namens zu einem Korrekturabzug hinzugefügt werden
 
@@ -21,4 +20,4 @@ Wenn Benutzende versuchen, eine andere Person zu einem Korrekturabzug hinzuzufü
 
 Dies kann auch nach der Aktualisierung der Sandbox-Vorschauumgebung auftreten.
 
-_Erste Meldung am 5. Mai 2025._
+_Erste Meldung am Dienstag, 5. Mai 2025._

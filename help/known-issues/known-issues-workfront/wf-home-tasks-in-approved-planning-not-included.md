@@ -1,12 +1,11 @@
 ---
 title: 'Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten'
-description: Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht auf der Startseite angezeigt. Eine Problemumgehung ist verfügbar.
-hidefromtoc: true
+description: Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden nicht auf der Startseite angezeigt. Eine Umgehungslösung ist verfügbar.
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -24,7 +23,7 @@ Aufgaben aus Projekten mit dem Status „Genehmigt“ oder „Planung“ werden 
 
 Dies liegt daran, dass Aufgaben aus Projekten mit diesem Status derzeit in der Abfragebegrenzung von 2000 Elementen enthalten sind, aber nicht in „Meine Aufgaben“ oder der Arbeitsliste der Startseite angezeigt werden. Dies kann dazu führen, dass Benutzende mit weniger als 2000 Aufgaben diese Aufgaben nicht sehen können.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Erstellen Sie einen benutzerspezifischen Zuweisungsbericht, der die folgenden Textmodusfilter enthält:
 
@@ -52,4 +51,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_Erste Meldung am 6. November 2023._
+_Erste Meldung am Dienstag, 6. November 2023._

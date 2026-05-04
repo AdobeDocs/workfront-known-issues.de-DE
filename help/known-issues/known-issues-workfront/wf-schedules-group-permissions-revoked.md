@@ -1,15 +1,14 @@
 ---
 title: 'Zeitpläne: Berechtigungen für Zeitplan für eine Gruppe widerrufen'
 description: Wenn eine oder ein Workfront-Gruppenadmin in einem Zeitplan eine Datumsausnahme hinzufügt und die Änderungen speichert, werden die Berechtigungen für diesen Zeitplan aus der Gruppe entfernt und der bzw. die Workfront-Admin muss der Gruppe Zugriff gewähren.
-hidefromtoc: true
 feature: Timesheets
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
-workflow-type: ht
-source-wordcount: '98'
+exl-id: 7af9219d-82f6-4384-ad07-2833e181b106
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
-
 
 # Zeitpläne: Berechtigungen für Zeitplan für eine Gruppe widerrufen
 

@@ -1,15 +1,14 @@
 ---
 title: 'Integrationen: Slack-Benachrichtigungen von Workfront werden nicht ausgelöst'
 description: 'Wenn in Workfront ein Ereignis auftritt, bei dem eine Slack-Benachrichtigung Trigger werden sollte, wird die Benachrichtigung nicht gesendet. '
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+exl-id: b8afdfb3-fad1-48fa-aacd-8e9ce829e994
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 3%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
-
 
 # Integrationen: Slack-Benachrichtigungen von Workfront werden nicht ausgelöst
 
@@ -22,4 +21,4 @@ Dies wurde bei den folgenden Ereignissen gemeldet:
 
 Dies kann auch dann vorkommen, wenn die Benachrichtigungseinstellungen der Benutzenden so konfiguriert sind, dass die Benachrichtigung in Slack gesendet wird.
 
-_Erste Meldung am Dienstag, 2. Februar 2026._
+_Erste Meldung am 2. Februar 2026._

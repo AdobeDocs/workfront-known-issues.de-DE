@@ -1,12 +1,11 @@
 ---
 title: 'Workfront: Branding ist nicht verfügbar'
 description: Branding ist nicht für Organisationen verfügbar, die zu Adobe Admin Console, Adobe Unified Shell oder Adobe IMS (Identitäts-Management-System) migriert wurden.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: ht
-source-wordcount: '181'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '183'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ Branding ist nicht für Organisationen verfügbar, die zu Adobe Admin Console, A
 
   &quot;[!UICONTROL Firmenlogo nicht verfügbar. Wir konnten Ihr Firmenlogo basierend auf der angegebenen URL nicht laden. Wenden Sie sich an Ihren Systemadministrator.]“
 
-_Erste Meldung am 29. September 2023._
+_Erste Meldung am Samstag, 29. September 2023._

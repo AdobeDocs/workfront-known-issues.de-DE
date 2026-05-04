@@ -1,12 +1,11 @@
 ---
 title: 'Korrekturabzüge: Korrekturabzüge können nicht in der Vorschauumgebung erstellt werden'
 description: Beim Versuch, einen Korrekturabzug in einer Vorschau-Sandbox zu erstellen, wird der Korrekturabzug nicht erstellt und es wird eine Nachricht angezeigt, dass das Erstellen des Korrekturabzugs nicht möglich war.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3cade5ee-e561-48d4-a570-6fc1cbf409f1
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Beim Versuch, einen Korrekturabzug in einer Vorschau-Sandbox zu erstellen, wird der Korrekturabzug nicht erstellt und es wird eine Nachricht vom Typ „Fehler beim Generieren“ angezeigt.
 
-_Erste Meldung am 17. Oktober 2024._
+_Erste Meldung am Freitag, 17. Oktober 2024._

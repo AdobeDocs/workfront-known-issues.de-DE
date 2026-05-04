@@ -1,12 +1,11 @@
 ---
 title: 'Benutzende: Bei neuen Benutzenden wird das Badge „Ausstehende Genehmigung“ angezeigt'
 description: Neue Benutzende in Workfront werden möglicherweise in der Benutzerliste mit dem Badge „Ausstehende Genehmigung“ angezeigt. Das Badge wird länger als einige Minuten angezeigt und ist beim Aktualisieren der Seite weiterhin vorhanden.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 39a085b629d6d2afc5a198e47ca639d2bb431b0d
-workflow-type: ht
-source-wordcount: '245'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '255'
 ht-degree: 100%
 
 ---
@@ -45,4 +44,4 @@ Um Probleme bei Benutzenden zu lösen, die in großer Anzahl hinzugefügt wurden
 Anweisungen finden Sie unter [Verwalten mehrerer Benutzender | CSV-Massen-Upload](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html) in der Adobe-Dokumentation.
 
 
-_Erste Meldung am 8. Mai 2025._
+_Erste Meldung am Freitag, 8. Mai 2025._

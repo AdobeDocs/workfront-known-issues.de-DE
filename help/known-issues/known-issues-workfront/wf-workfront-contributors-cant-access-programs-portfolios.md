@@ -1,12 +1,11 @@
 ---
 title: 'Workfront: Mitwirkende können nicht auf Programme oder Portfolios zugreifen'
 description: Benutzende mit der neuen Zugriffsebene „Mitwirkende“ können nicht auf Programme oder Portfolios zugreifen, obwohl der Zugriff für beides in die Zugriffsebene aufgenommen wurde.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Benutzende mit der neuen Zugriffsebene „Mitwirkende“ können nicht auf Programme oder Portfolios zugreifen, obwohl der Zugriff für beides in die Zugriffsebene aufgenommen wurde.
 
-_Erste Meldung am 16. Oktober 2024._
+_Erste Meldung am Donnerstag, 16. Oktober 2024._

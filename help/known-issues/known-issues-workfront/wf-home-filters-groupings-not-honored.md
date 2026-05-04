@@ -1,10 +1,9 @@
 ---
 title: 'Neue Startseite: Die Standardeinstellungen für Widget-Filter und Gruppierung entsprechen nicht der Layoutvorlage'
 description: Wenn versucht wird, das Widget „Meine Projekte“, „Meine Aufgaben“ oder „Meine Probleme“ im neuen Startseiten-Erlebnis anzuzeigen, sind die Standardfilter und die Standardgruppierung für dieses Widget nicht die Standardeinstellung in der dieser Person zugewiesenen Layout-Vorlage.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 93%

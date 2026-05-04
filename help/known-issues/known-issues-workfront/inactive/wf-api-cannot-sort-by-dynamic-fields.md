@@ -1,12 +1,11 @@
 ---
 title: 'API: Sortieren nach dynamischen Feldern nicht möglich'
 description: 'Die Workfront-API ermöglicht keine Sortierung nach dynamischen Feldern. '
-hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Die Workfront-API ermöglicht keine Sortierung nach dynamischen Feldern.
 
-_Erste Meldung am 15. März 2022._
+_Erste Meldung am Mittwoch, 15. März 2022._

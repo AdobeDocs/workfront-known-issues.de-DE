@@ -1,12 +1,11 @@
 ---
 title: 'Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden'
 description: Wenn Benutzende einen Bericht in einem Dashboard anzeigen und versuchen, einen Filter aus diesem Bericht freizugeben, können sie den Filter nicht freigeben. Wenn auf die drei Punkte geklickt wird, wechselt das Dashboard zum nächsten Bericht. Beim Zurückkehren zum gewünschten Bericht wird angezeigt, dass die Option „Freigeben“ nicht geöffnet wurde.
-hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
 feature: Reports and Dashboards
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ ht-degree: 100%
 
 Wenn Benutzende einen Bericht in einem Dashboard anzeigen und versuchen, einen Filter aus diesem Bericht freizugeben, können sie den Filter nicht freigeben. Wenn auf die drei Punkte geklickt wird, wechselt das Dashboard zum nächsten Bericht. Beim Zurückkehren zum gewünschten Bericht wird angezeigt, dass die Option [!UICONTROL Freigeben] nicht geöffnet wurde.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Probieren Sie eine der folgenden Vorgehensweisen aus:
 
@@ -25,4 +24,4 @@ Probieren Sie eine der folgenden Vorgehensweisen aus:
 * Navigieren Sie zu einer Liste des Objekts, das der Bericht darstellt, und geben Sie dann den Filter über diese Liste frei.
 * Geben Sie den Filter über den Bereich [!UICONTROL Einrichtung] > [!UICONTROL Filter] frei.
 
-_Erste Meldung am 14. März 2023._
+_Erste Meldung am Mittwoch, 14. März 2023._

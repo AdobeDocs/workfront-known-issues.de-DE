@@ -1,12 +1,11 @@
 ---
 title: 'Korrekturabzüge: Korrekturabzug verhindert die Konvertierung einer Aufgabe oder eines Problems in ein Projekt'
-description: Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web-generierten Korrekturabzug enthält, in ein Projekt zu konvertieren, wird das Projekt nicht erstellt und es wird eine Meldung angezeigt. Eine Problemumgehung ist verfügbar.
-hidefromtoc: true
+description: Beim Versuch, eine Aufgabe oder ein Problem, die bzw. das einen Web-generierten Korrekturabzug enthält, in ein Projekt zu konvertieren, wird das Projekt nicht erstellt und es wird eine Meldung angezeigt. Eine Umgehungslösung ist verfügbar.
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
@@ -29,5 +28,5 @@ Gehen Sie wie folgt vor:
 2. Konvertieren Sie die Aufgabe oder das Problem in ein Projekt.
 3. Verwenden Sie die Funktion „Dokument verschieben“, um den Korrekturabzug in das neue Projekt zu verschieben.
 
-_Erste Meldung am 28. März 2024._
+_Erste Meldung am Freitag, 28. März 2024._
 

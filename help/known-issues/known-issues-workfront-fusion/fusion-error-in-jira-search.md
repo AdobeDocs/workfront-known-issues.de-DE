@@ -1,15 +1,14 @@
 ---
 title: 'Workfront Fusion: Das Jira-Suchmodul gibt einen Fehler zurück'
 description: Das vom alten Jira-Connector verwendete Suchmodul kann zu einem Fehler führen. Eine Umgehungslösung ist verfügbar.
-hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
-source-wordcount: '186'
+exl-id: 9502ffb3-f287-47b2-9b35-1a906345e924
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
-
 
 # Workfront Fusion: Das Jira-Suchmodul gibt einen Fehler zurück
 
@@ -33,5 +32,4 @@ Hinweis:
 
 Wenn dieser Fehler auftritt, können Sie das Suchmodul des alten Jira-Connectors durch das Suchmodul des neuen Connectors ersetzen. Beachten Sie, dass Sie beim neuen Connector die verwendete API-Version auswählen können. Wählen Sie beim Einrichten der Verbindung unbedingt **V3** im Feld **API-Version**.
 
-_Erste Meldung am 15. September 2025._
-
+_Erste Meldung am Dienstag, 15. September 2025._

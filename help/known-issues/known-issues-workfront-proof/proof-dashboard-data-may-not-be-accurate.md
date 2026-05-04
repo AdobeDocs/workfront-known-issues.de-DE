@@ -1,12 +1,11 @@
 ---
 title: 'Workfront-Korrekturabzug: Dashboard-Daten sind nicht immer genau'
 description: Die im Dashboard-Bereich innerhalb eines Korrekturabzugs angezeigten Daten zeigen nicht immer die aktuellsten Informationen an. Es wird empfohlen, eine benutzerdefinierte Ansicht zu erstellen und diese zu verwenden, um die aktuellsten Informationen zu Ihren Daten zu erhalten.
-hidefromtoc: true
 feature: Workfront Proof
 exl-id: f414f918-4416-44d1-99e9-afd75f4f40f4
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -17,4 +16,4 @@ Die im Dashboard-Bereich innerhalb eines Korrekturabzugs angezeigten Daten zeige
 
 Es wird empfohlen, eine benutzerdefinierte Ansicht zu erstellen und diese zu verwenden, um die aktuellsten Informationen zu Ihren Daten zu erhalten.
 
-_Erste Meldung am 1. März 2023._
+_Erste Meldung am Donnerstag, 1. März 2023._

@@ -1,11 +1,10 @@
 ---
 title: 'Workfront Fusion: Benutzende können nicht zu Workfront Fusion hinzugefügt oder daraus gelöscht werden'
 description: Wenn Benutzende versuchen, eine Benutzerin oder einen Benutzer in Workfront Fusion hinzuzufügen oder zu löschen, ist dies nicht möglich.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: bd5eb99e-c9a5-470d-b58d-51097bbd9ea4
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
-workflow-type: ht
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 

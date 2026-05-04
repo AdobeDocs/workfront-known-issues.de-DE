@@ -1,12 +1,11 @@
 ---
 title: 'Benachrichtigungen: E-Mail-Benachrichtigungen für Aktualisierungen werden nicht gesendet'
 description: Benutzende, für die E-Mail-Benachrichtigungen für Objekt-Updates aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: d320a7cd-a732-49a7-a4f3-045b85b7fb2b
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Benutzende, für die E-Mail-Benachrichtigungen für Objekt-Updates aktiviert sind, erhalten manchmal nicht die erwartete E-Mail-Benachrichtigung.
 
-_Erste Meldung am 1. Oktober 2024._
+_Erste Meldung am Mittwoch, 1. Oktober 2024._

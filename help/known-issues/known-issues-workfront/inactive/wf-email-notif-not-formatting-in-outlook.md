@@ -3,10 +3,9 @@ title: 'E-Mail-Benachrichtigungen: E-Mails werden in Outlook nicht korrekt forma
 description: Wenn die Outlook-E-Mail-Adresse eines/r Benutzenden so eingestellt ist, dass ein automatisches Herunterladen eines Bildes nicht möglich ist, und er/sie eine E-Mail-Benachrichtigung von  [!DNL Workfront] erhält, wird das Profilbild des/r Benutzenden in der Benachrichtigung nicht ordnungsgemäß angezeigt, wobei der Name des Bildes manchmal vertikal dargestellt wird. Durch das manuelle Herunterladen dieser Bilder wird das Formatierungsproblem nicht behoben.
 feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
-hidefromtoc: true
-source-git-commit: 69f143e6b764eb8e6aebef92abc9c2ba3dc53770
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '164'
 ht-degree: 100%
 
 ---

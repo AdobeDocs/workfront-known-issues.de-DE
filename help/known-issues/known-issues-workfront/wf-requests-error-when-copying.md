@@ -1,21 +1,20 @@
 ---
 title: 'Anfragen: Beim Kopieren von Anfragen muss ein Systemadministrator-Fehler vorliegen.'
 description: Wenn ein(e) Benutzende(r) eine Anfrage kopiert und versucht zu speichern, wird die Anfrage nicht gespeichert und eine Fehlermeldung wird angezeigt
-hidefromtoc: true
 feature: Requests
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+exl-id: 79dcff8a-3410-4f54-bc85-579be364c618
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 10%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
-
 
 # Anfragen: Fehler „Sie müssen ein Systemadministrator sein“ beim Kopieren von Anfragen
 
 >[!NOTE]
 >
->Dieses Problem wurde am Mittwoch, 3. Februar 2026 behoben.
+>Dieses Problem wurde am 3. Februar 2026 behoben.
 
 Wenn ein(e) Benutzende(r) eine Anfrage kopiert und versucht zu speichern, wird die Anfrage nicht gespeichert und die folgende Meldung wird angezeigt:
 

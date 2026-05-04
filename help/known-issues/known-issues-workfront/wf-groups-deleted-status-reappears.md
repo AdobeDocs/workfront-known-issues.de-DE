@@ -1,12 +1,11 @@
 ---
 title: Probleme beim Löschen des Gruppenstatus
 description: Nachdem der Status einer Gruppe gelöscht wurde, wird sie irgendwann erneut angezeigt, ohne von einer Person geändert worden zu sein, obwohl für die Gruppe der Status und die Entfernungszeit, die in den Updates der Gruppe zu sehen sind, nicht mehr angezeigt werden.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ Folgende Probleme beim Löschen von Gruppenstatus wurden gemeldet:
 1. Suchen Sie nach der entsprechenden Gruppe.
 1. Löschen Sie den Status.
 
-_Erste Meldung am 26. Juni 2024._
+_Erste Meldung am Donnerstag, 26. Juni 2024._

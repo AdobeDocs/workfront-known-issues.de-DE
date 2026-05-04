@@ -1,15 +1,14 @@
 ---
 title: 'Reporting: Benutzende können Finanzdaten in Visualisierungen des Arbeitsflächen-Dashboards anzeigen'
 description: Benutzende mit der Zugriffsberechtigung „Anzeigen“ oder „Bearbeiten“ für Finanzdaten können Finanzdaten in den Visualisierungen des Arbeitsflächen-Dashboards anzeigen, selbst wenn die Berechtigung zum Anzeigen von Finanzdaten auf der Aufgaben- oder Projektebene entfernt wurde.
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: ht
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
 ---
-
 
 # Reporting: Benutzende sehen Finanzdaten in Visualisierungen des Arbeitsflächen-Dashboards
 

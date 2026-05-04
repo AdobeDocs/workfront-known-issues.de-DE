@@ -1,17 +1,16 @@
 ---
 title: 'Dokumente: Kein Zugriff auf SharePoint'
 description: „Beim Versuch, einen SharePoint-Ordner in Workfront zu öffnen, öffnet sich der Ordner nicht und es wird eine Meldung angezeigt.“
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6b6c4c13-5d43-4d30-a7d0-67ff8aa0b113
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 95%
+source-wordcount: '118'
+ht-degree: 96%
 
 ---
 
-# Dokumente: Zugriff auf [!DNL SharePoint] nicht möglich 
+# Dokumente: Zugriff auf [!DNL SharePoint] nicht möglich
 
 <!--WF and WFP, article live for workaround-->
 
@@ -25,10 +24,10 @@ Wenn versucht wird, einen [!UICONTROL SharePoint]-Ordner in [!DNL Workfront] zu 
 
 Der Zeitpunkt der Autorisierung liegt in der Kontrolle von Microsoft.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Erneut genehmigen.
 
 Wenn die Probleme weiterhin auftreten, lesen Sie den Abschnitt [Fehlerbehebung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=de#troubleshooting) von [Konfigurieren der SharePoint-Integration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=de).
 
-_Erste Meldung am 9. November 2023._
+_Erste Meldung am Freitag, 9. November 2023._

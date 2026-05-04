@@ -1,12 +1,11 @@
 ---
 title: 'Einrichtung: [!UICONTROL Kick-Start] kann nicht zum Einrichten von Gruppierungen verwendet werden'
 description: Beim Versuch, eine Gruppierung mit [!UICONTROL Kickstart] einzurichten, schlägt der Import fehl und es wird eine Fehlermeldung angezeigt.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -24,4 +23,4 @@ Beim Versuch, eine Gruppierung mit [!UICONTROL Kick-Start] einzurichten, schläg
 
 Dies kann sogar dann auftreten, wenn Filter und Ansichten erfolgreich mit [!UICONTROL Kick-Start] ausgeführt wurden.
 
-_Erste Meldung am 1. Juni 2023._
+_Erste Meldung am Freitag, 1. Juni 2023._

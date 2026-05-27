@@ -78,7 +78,7 @@ In der Nachricht werden Dokumente erwähnt, auch wenn sich der/die Benutzende in
 
 _[!UICONTROL Workload Balancer]_
 
-Wenn ein(e) Benutzende(r[!UICONTROL  im Workload ]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
+Wenn ein(e) Benutzende(r[!UICONTROL &#x200B; im Workload &#x200B;]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
 **Durch das Anhängen einer Vorlage mit der Option „[!UICONTROL Anpassen und anhängen]“ werden benutzerdefinierte Feldwerte gelöscht**
 
@@ -152,7 +152,7 @@ Wenn ein(e) Benutzende(r) versucht, einen benutzerdefinierten Abschnitt aus dem 
 
 _[!UICONTROL Workload Balancer]_
 
-Wenn ein(e) Benutzende(r[!UICONTROL  im Workload ]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
+Wenn ein(e) Benutzende(r[!UICONTROL &#x200B; im Workload &#x200B;]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
 **Seiten werden in bestimmten Browsern nicht geladen**
 

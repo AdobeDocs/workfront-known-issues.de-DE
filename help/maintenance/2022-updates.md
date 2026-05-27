@@ -2178,7 +2178,7 @@ Wenn ein(e) Benutzende(r) ein benutzerdefinierten Formular ausfüllt, um ein Pro
 
 *Genehmigungen*
 
-Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, [!UICONTROL  der Abschnitt „Dieser Genehmigungsprozess kann verwendet werden von…]&quot; Feld fehlt. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
+Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, [!UICONTROL &#x200B; der Abschnitt „Dieser Genehmigungsprozess kann verwendet werden von…]&quot; Feld fehlt. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
 
 **Der Systemadministrator bzw. die Systemadministratorin kann Benutzende beim Löschen einer Gruppe nicht neu zuweisen**
 

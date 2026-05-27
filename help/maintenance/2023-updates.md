@@ -1,28 +1,28 @@
 ---
-title: Wartungs-Updates für Workfront in 2023
-description: Wartungs-Updates für [!DNL Adobe Workfront]
+title: Wartungs-Updates für Workfront 2023
+description: Wartungs-Updates für  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
-source-wordcount: '7701'
-ht-degree: 100%
+source-wordcount: '7893'
+ht-degree: 98%
 
 ---
 
 # Wartungs-Updates für [!DNL Workfront] im Jahr 2023
 
-Die folgenden Wartungs-Updates wurden 2023 vorgenommen.
+Die folgenden Wartungs-Updates wurden im Jahr 2023 vorgenommen.
 
 >[!NOTE]
 >
->Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+>Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2023 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Dezember 2023
 
-+++**Wartungs-Update vom Freitag, 21. Dezember 2023**
++++**Wartungs-Update am Freitag, 21. Dezember 2023**
 
 **Probleme beim Anzeigen von Unteraufgaben-Status**
 
@@ -63,11 +63,11 @@ _[!DNL Workfront Fusion]_
 
 <!--no article-->
 
-Wenn jemand ein Modul konfiguriert und das Modul Daten aus dem verbundenen Konto benötigt (z. B. zur Auswahl eines Datensatzes), kann das Modul die Daten nicht abrufen und die Datenanforderung wird mit einer Zeitüberschreitung beendet.
+Wenn jemand ein Modul konfiguriert und das Modul Daten aus dem verbundenen Konto benötigt (z. B. zur Auswahl eines Eintrags), kann das Modul die Daten nicht abrufen und die Datenanforderung wird mit einer Zeitüberschreitung beendet.
 
 +++
 
-+++**Wartungs-Update vom Freitag, 14. Dezember 2023**
++++**Wartungs-Update am Freitag, 14. Dezember 2023**
 
 **Korrekturabzüge, für die eine Genehmigung aussteht, werden nicht in Berichten angezeigt**
 
@@ -76,7 +76,7 @@ _Korrekturabzüge_
 Wenn Benutzende einen Bericht für ausstehende Korrekturabzuggenehmigungen anzeigen, werden einige ausstehende Genehmigungen nicht im Bericht angezeigt.
 +++
 
-+++**Wartungs-Update vom Freitag, 7. Dezember 2023**
++++**Wartungs-Update am Freitag, 7. Dezember 2023**
 
 **Genehmigung steckt im Widget [!UICONTROL Warten auf Genehmigung] fest**
 
@@ -99,7 +99,7 @@ Berichten zufolge tritt dies auf, wenn jemand einen Bereich aus der linken Navig
 
 ## Updates im November 2023
 
-+++**Wartungs-Update vom Freitag, 30. November 2023**
++++**Wartungs-Update am Freitag, 30. November 2023**
 
 **Aufgaben werden nicht im Widget [!UICONTROL Meine Arbeit] angezeigt**
 
@@ -127,7 +127,7 @@ Dies wurde in Berichten gemeldet, die einen `valueexpression` verwenden, um auf 
 
 +++
 
-+++**Wartungs-Update vom 16. November 2023**
++++**Wartungs-Update am Freitag, 16. November 2023**
 
 **Die im Nutzungsbericht budgetierten Stunden stimmen nicht mit den über die API gemeldeten budgetierten Stunden überein**
 
@@ -143,7 +143,7 @@ Wenn jemand eine Anfrage sendet und eine Auswahl trifft, die die Anzeigelogik im
 
 Wenn die Anfrage gesendet wird, wird die Währung als die richtige benutzerdefinierte Währung für das Projekt angezeigt, für das die Anfrage-Warteschlange steht
 
-**Zusätzliche Zeilen in Kommentaren, die über API oder[!DNL Workfront Fusion]** erstellt wurden 
+**Zusätzliche Zeilen in Kommentaren, die über API oder[!DNL Workfront Fusion]** erstellt wurden
 
 _Updates_
 
@@ -153,7 +153,7 @@ Dies wurde für die neue Kommentarerfahrung berichtet.
 
 +++
 
-+++**Wartungs-Update vom 9. November 2023**
++++**Wartungs-Update am Freitag, 9. November 2023**
 
 **Im Widget „Meine Arbeit“ fehlen Objekte, wenn es sich nicht oben auf der Seite befindet**
 
@@ -195,7 +195,7 @@ Wenn eine Benutzerin bzw. ein Benutzer Aufgaben in einer Vorlage erstellt und di
 
 +++
 
-+++**Wartungs-Update vom 2. November 2023**
++++**Wartungs-Update am Freitag, 2. November 2023**
 
 **Private Aktualisierungen werden in den Feldern „valueexpression“ angezeigt**
 
@@ -215,7 +215,7 @@ Wird der Datumsbereich geändert, ist die Zuordnung korrekt. Nach dem Aktualisie
 
 ## Updates im Oktober 2023
 
-+++**Wartungs-Update vom 26. Oktober 2023**
++++**Wartungs-Update am Freitag, 26. Oktober 2023**
 
 **Suche funktioniert nicht**
 
@@ -257,7 +257,7 @@ Wenn Benutzende eine Aufgabe anzeigen, enthält die Kopfzeile der Aufgabe keine 
 
 +++
 
-+++**Wartungs-Update vom 19. Oktober 2023**
++++**Wartungs-Update am Freitag, 19. Oktober 2023**
 
 Benutzende werden nicht über Antworten auf einen Kommentar-Thread benachrichtigt
 
@@ -293,7 +293,7 @@ Wenn eine Person, die als eine andere Person angemeldet ist, ein Problem in eine
 
 +++
 
-+++**Wartungs-Update vom 12. Oktober 2023**
++++**Wartungs-Update am Freitag, 12. Oktober 2023**
 
 **Arbeitsabläufe wurden für Konten entfernt, die sie nicht verwenden**
 
@@ -319,7 +319,7 @@ Beim Ändern der Filter auf der [!UICONTROL Startseite] wird der Bereich [!UICON
 
 +++
 
-+++**Wartungs-Update vom 5. Oktober 2023**
++++**Wartungs-Update am Freitag, 5. Oktober 2023**
 
 **Die Pinnwand wird langsam geladen**
 
@@ -361,7 +361,7 @@ Automatische E-Mail-Erinnerungen werden nicht gesendet. Dies begann am 14. Sept
 
 ## Updates im September 2023
 
-+++**Wartungs-Update vom 28. September 2023**
++++**Wartungs-Update am Freitag, 28. September 2023**
 
 **Benutzerdefiniertes Feld kann nicht gelöscht werden**
 
@@ -387,7 +387,7 @@ Wenn in [!DNL Workfront] zu einem benutzerdefinierten Abschnitt eines Objekts na
 
 +++
 
-+++**Wartungs-Update vom 21. September 2023**
++++**Wartungs-Update am Freitag, 21. September 2023**
 
 **Benutzerin bzw. Benutzer kann auf einer Pinnwand einem Arbeitsablauf nicht zugewiesen werden**
 
@@ -450,7 +450,7 @@ Die Erstellung eines Korrekturabzugs dauert übermäßig lange. Die Erstellung e
 
 +++
 
-+++**Wartungs-Update vom 14. September 2023**
++++**Wartungs-Update am Freitag, 14. September 2023**
 
 **Fehler „[!UICONTROL Keine Fabrik]“ beim Hinzufügen eines Dokuments**
 
@@ -472,7 +472,7 @@ Dies geschieht bei der Gruppierung eines Berichts nach Datumsbereichen.
 
 +++
 
-+++**Wartungs-Update vom 11. September 2023**
++++**Wartungs-Update am Dienstag, 11. September 2023**
 
 **Persönliche Aufgaben werden nicht in Arbeitszeittabellen angezeigt**
 
@@ -482,7 +482,7 @@ Persönliche Aufgaben werden nicht mehr standardmäßig in der Arbeitszeittabell
 
 +++
 
-+++**Wartungs-Update vom 7. September 2023**
++++**Wartungs-Update am Freitag, 7. September 2023**
 
 **Das Projekt ist leer, wenn es aus dem neuen [!UICONTROL Startseitenerlebnis] geladen wird**
 
@@ -494,9 +494,9 @@ Dies tritt auf, wenn sich die Benutzerin bzw. der Benutzer sich als jemand ander
 
 +++
 
-## Updates im August 2023
+## Updates im August 2023
 
-+++**Wartungs-Update vom 31. August 2023**
++++**Wartungs-Update am Freitag, 31. August 2023**
 
 **Startseite: Filter funktionieren im neuen [!UICONTROL Startseitenerlebnis] nicht für Widgets**
 
@@ -589,7 +589,7 @@ Das Modul [!UICONTROL Tools] > [!UICONTROL Schlafen] in einem Szenario kann dazu
 
 +++
 
-+++**Wartungs-Update vom 3. August 2023**
++++**Wartungs-Update am Freitag, 3. August 2023**
 
 **Schwierigkeiten beim Auffinden von Elementen in der Aufnahmespalte**
 
@@ -602,7 +602,7 @@ Die Standardreihenfolge lautet nun wie folgt:
 Aufgaben:
 
 * Primäre Reihenfolge: Projektname
-* Sekundäre Reihenfolge: Struktur für Auffächerung des Arbeitsaufwands
+* Sekundäre Reihenfolge: Struktur zur Aufschlüsselung des Arbeitsaufwands
 
 Probleme
 
@@ -627,9 +627,9 @@ Dies wurde für Benutzerinnen und Benutzer in EMEA berichtet.
 
 +++
 
-## Updates im Juli 2023
+## Updates im Juli 2023
 
-+++**Wartungs-Update vom 27. Juli 2023**
++++**Wartungs-Update am Freitag, 27. Juli 2023**
 
 **Tags und Checklisten-Elemente funktionieren in der Pinnwandansicht eines Projekts nicht ordnungsgemäß**
 
@@ -645,13 +645,13 @@ Wenn jemand einen Filter freigibt und die Option „[!UICONTROL Systemweit anzei
 
 +++
 
-+++**Wartungs-Update vom 20. Juli 2023**
++++**Wartungs-Update am Freitag, 20. Juli 2023**
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update vom 13. Juli 2023**
++++**Wartungs-Update am Freitag, 13. Juli 2023**
 
 **Timeline wird nicht neu berechnet**
 
@@ -683,13 +683,13 @@ Wenn eine Benutzerin oder ein Benutzer versucht, andere Benutzende zu bearbeiten
 
 ## Updates im Juni 2023
 
-+++**Wartungs-Update vom 29. Juni 2023**
++++**Wartungs-Update am Freitag, 29. Juni 2023**
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update vom 22. Juni 2023**
++++**Wartungs-Update am Freitag, 22. Juni 2023**
 
 **Fehler beim Anzeigen des Matrixberichts**
 
@@ -709,15 +709,15 @@ Wenn ein Diagramm oder Matrixbericht nach Datum gruppiert ist, können Datumsang
 
 +++
 
-+++**Wartungs-Update vom 15. Juni 2023**
++++**Wartungs-Update am Freitag, 15. Juni 2023**
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
-+++**Wartungs-Update vom 8. Juni 2023**
++++**Wartungs-Update am Freitag, 8. Juni 2023**
 
-Dieses Update enthält nur kleinere oder weniger bedeutende Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Dieses Update enthält nur kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 +++
 
@@ -729,7 +729,7 @@ Admins von [!DNL Fusion]-Teams können weiterhin nicht benötigte Verbindungen v
 
 +++
 
-+++**Wartungs-Update vom 1. Juni 2023**
++++**Wartungs-Update am Freitag, 1. Juni 2023**
 
 **Keine Fehlermeldung bei Neuanordnung einer Aufgabe im Status [!UICONTROL Ausstehende Genehmigung]**
 
@@ -747,7 +747,7 @@ Wenn beim Versuch, eine Aufgabe in einer Aufgabenliste neu anzuordnen, sich die 
 
 ## Updates im Mai 2023
 
-+++**Wartungs-Update vom 25. Mai 2023**
++++**Wartungs-Update am Freitag, 25. Mai 2023**
 
 **[!UICONTROL Kanban]-Pinnwand beim Bearbeiten von Karten leer**
 
@@ -763,7 +763,7 @@ Dies wurde unter den folgenden Umständen gemeldet:
 
 +++
 
-+++**Wartungs-Update vom 22. Mai 2023**
++++**Wartungs-Update am Dienstag, 22. Mai 2023**
 
 **Die Größe des beschreibenden Texts kann nicht angepasst werden**
 
@@ -773,12 +773,12 @@ Als der Designer für benutzerdefinierte Formulare in der Beta-Version veröffen
 
 +++
 
-+++**Wartungs-Update vom 18. Mai 2023**
++++**Wartungs-Update am Freitag, 18. Mai 2023**
 
 **Bericht wird beim Sortieren nach benutzerdefiniertem Feld nicht korrekt sortiert**
 
 _Berichte_
-Wenn jemand einen Aufgabenbericht ausführt, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
+Wenn ein(e) Benutzende(r) einen Aufgabenbericht ausführt, wird der Bericht beim Laden scheinbar korrekt sortiert, doch nach Abschluss des Ladevorgangs ist ersichtlich, dass der Bericht nicht korrekt sortiert wurde.
 
 Dies scheint zu passieren, wenn alle folgenden Bedingungen erfüllt sind:
 
@@ -788,7 +788,7 @@ Dies scheint zu passieren, wenn alle folgenden Bedingungen erfüllt sind:
 
 +++
 
-+++**Wartungs-Update am 11. Mai 2023**
++++**Wartungs-Update am Freitag, 11. Mai 2023**
 
 **Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
 
@@ -824,7 +824,7 @@ Dieses Problem betrifft auch die Funktionalität des Moduls [!DNL Workfront Fusi
 
 +++
 
-+++**Wartungs-Update vom 9. Mai 2023**
++++**Wartungs-Update am Mittwoch, 9. Mai 2023**
 
 **Gespeicherte Filter, die in der Aufnahmespalte der Pinnwand verfügbar sind**
 
@@ -834,7 +834,7 @@ Sie können jetzt in Workfront vorhandene Aufgaben- und Problemfilter beim Konfi
 
 +++
 
-+++**Wartungs-Update vom 4. Mai 2023**
++++**Wartungs-Update am Freitag, 4. Mai 2023**
 
 **Vorlage kann nicht aus den [!UICONTROL Favoritenvorlagen]** ausgewählt werden
 
@@ -846,7 +846,7 @@ Wenn jemand versucht, eine Vorlage aus dem Menü „Aktionen“ (drei Punkte) au
 
 ## Updates im April 2023
 
-+++**Wartungs-Update vom 27. April 2023**
++++**Wartungs-Update am Freitag, 27. April 2023**
 
 **Kann im [!UICONTROL Überprüfungs-Viewer]** nicht zwischen Korrekturabzügen wechseln
 
@@ -872,7 +872,7 @@ Wenn jemand einen Korrekturabzug im [!UICONTROL Überprüfungs-Viewer] anzeigt u
 
 +++
 
-+++**Wartungs-Update vom 20. April 2023**
++++**Wartungs-Update am Freitag, 20. April 2023**
 
 **Probleme in benutzerdefinierten Dropdown-Feldern**
 
@@ -923,7 +923,7 @@ Die Zugriffsebene einer Benutzerin oder eines Benutzers kann vom System unvorher
 
 +++
 
-+++**Wartungs-Update vom 17. April 2023**
++++**Wartungs-Update am Dienstag, 17. April 2023**
 
 **Anzeige neuer Kommentare außerhalb des sichtbaren Bildschirmbereichs im Abschnitt [!UICONTROL Aktualisierungen] von Problemen (neue Beta-Kommentar-Funktion) und im Abschnitt [!UICONTROL Ziele]**
 
@@ -933,7 +933,7 @@ Wir haben ein Benachrichtigungs-Banner für den Abschnitt [!UICONTROL Aktualisie
 
 +++
 
-+++**Wartungs-Update vom 13. April 2023**
++++**Wartungs-Update am Freitag, 13. April 2023**
 
 **Filter werden nicht auf die Anfrageliste angewendet**
 
@@ -949,7 +949,7 @@ Wenn Admins eine Benutzerin oder einen Benutzer bearbeiten und versuchen, einen 
 
 +++
 
-+++**Wartungs-Update vom 6. April 2023**
++++**Wartungs-Update am Freitag, 6. April 2023**
 
 **Dropdown-Listen werden nicht geöffnet, wenn Benutzende zu einem Korrekturabzug hinzugefügt werden**
 
@@ -961,7 +961,7 @@ Wenn Benutzende andere Benutzende zu einem Korrekturabzug im [!UICONTROL Überpr
 
 ## Updates im März 2023
 
-+++**Wartungs-Update vom 30. März 2023**
++++**Wartungs-Update am Freitag, 30. März 2023**
 
 **Korrekturabzugsversion kann bei der Ansicht des Korrekturstatus nicht gewechselt werden**
 
@@ -983,7 +983,7 @@ Wenn Admins als Benutzende angemeldet sind und einen Kommentar abgeben, wird die
 
 +++
 
-+++**Wartungs-Update vom 23. März 2023**
++++**Wartungs-Update am Freitag, 23. März 2023**
 
 Inhalte des Bedienfelds **[!UICONTROL Zusammenfassung] sind zu breit für das Bedienfeld**
 
@@ -991,22 +991,22 @@ _Dokumente_
 
 Wenn jemand das Bedienfeld [!UICONTROL Zusammenfassung] für ein Dokument ansieht, sind die Inhalte zu breit, um im Bedienfeld sichtbar zu sein. Das Bedienfeld verfügt nun über eine horizontale Bildlaufleiste und Benutzende müssen horizontal scrollen, um die Inhalte des Bedienfelds [!UICONTROL Zusammenfassung] zu sehen. Dies geschieht, weil der Dateiname des Dokuments nicht umgebrochen wird. Dieses Problem ist auf Dateien beschränkt, bei welchen der Dateiname eine HTML-Dateierweiterung aufweist.
 
-**Neue [!UICONTROL Desktop Überprüfungs-Viewer]-Version**
+**Neue [!UICONTROL Desktop-Proofing-Viewer]-Version**
 
 _Proofing_
 
-Um ein Kommentierproblem im [!UICONTROL Desktop Überprüfungs-Viewer] zu beheben, haben wir eine neue Version des Desktop Überprüfungs-Viewers bereitgestellt.
+Um ein Kommentierproblem im [!UICONTROL Desktop-Proofing-Viewer] zu beheben, haben wir eine neue Version des Desktop-Proofing-Viewers bereitgestellt.
 
-Benutzende, die den [!UICONTROL Desktop Überprüfungs-Viewer] bereits installiert haben, erhalten dieses Update automatisch.
+Benutzende, die den [!UICONTROL Desktop-Proofing-Viewer] bereits installiert haben, erhalten dieses Update automatisch.
 
-Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop Überprüfungs-Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [[!UICONTROL Installieren des Desktop-Proofing-Viewers]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
 * Frühere Version: 2.1.22
 * Neue Version: 2.1.23
 
 +++
 
-+++**Wartungs-Update vom 16. März 2023**
++++**Wartungs-Update am Freitag, 16. März 2023**
 
 **Beim Kopieren einer Karte werden Checklisten-Elemente nicht kopiert**
 
@@ -1028,7 +1028,7 @@ Wenn ein Korrekturabzug freigegeben und ihm eine benutzerdefinierte Nachricht hi
 
 +++
 
-+++**Wartungs-Update vom 9. März 2023**
++++**Wartungs-Update am Freitag, 9. März 2023**
 
 **Zugriffsebene wird beim Reaktivieren der bzw. des Benutzenden nicht zugewiesen**
 
@@ -1044,7 +1044,7 @@ Wenn Sie von der Seite [!UICONTROL Updates] eines Ziels während der Erstellung 
 
 +++
 
-+++**Wartungs-Update vom 2. März 2023**
++++**Wartungs-Update am Freitag, 2. März 2023**
 
 **Bei angewendeter Gruppierung können keine Karten hinzugefügt werden**
 
@@ -1079,7 +1079,7 @@ Wenn eine Benutzerin bzw. ein Benutzer versucht, die Seite „Druckzusammenfassu
 
 ## Updates im Februar 2023
 
-+++**Wartungs-Update vom 23. Februar 2023**
++++**Wartungs-Update am Freitag, 23. Februar 2023**
 
 **Link zu einem Kommentar leitet auf die Seite [!UICONTROL Details] um**
 
@@ -1097,7 +1097,7 @@ Wenn Benutzende mit der Lizenz [!UICONTROL Arbeitskraft] versuchten, ihre eigene
 
 +++
 
-+++**Wartungs-Update vom 16. Februar 2023**
++++**Wartungs-Update am Freitag, 16. Februar 2023**
 
 **Mehrere Team-Zuweisungen auf Pinnwänden**
 
@@ -1119,7 +1119,7 @@ Wenn die Deaktivierung von Benutzenden geplant ist und das geplante Datum und di
 
 +++
 
-+++**Wartungs-Update vom 9. Februar 2023**
++++**Wartungs-Update am Freitag, 9. Februar 2023**
 
 Das Feld **[!UICONTROL Story-Punkte] wurde zu Aufgaben- und Problemlisten und Berichten hinzugefügt**
 
@@ -1129,7 +1129,7 @@ Das Feld [!UICONTROL Story-Punkte] kann jetzt zu Listen und Berichten für Aufga
 
 +++
 
-+++**Wartungs-Update vom 8. Februar 2023**
++++**Wartungs-Update am Donnerstag, 8. Februar 2023**
 
 **Filterschaltfläche in Aufnahmespalte**
 
@@ -1139,7 +1139,7 @@ Wenn die Aufnahmespalte leer ist und keine Filter erstellt wurden, enthält die 
 
 +++
 
-+++**Wartungs-Update vom 2. Februar 2023**
++++**Wartungs-Update am Freitag, 2. Februar 2023**
 
 Das Symbol **[!UICONTROL Pinnwände] wird standardmäßig im [!UICONTROL Hauptmenü] angezeigt**
 
@@ -1157,7 +1157,7 @@ Wenn Benutzende versuchen, eine E-Mail-Vorlage zu erstellen oder zu bearbeiten, 
 
 ## Updates im Januar 2023
 
-+++**Wartungs-Update vom 30. Januar 2023**
++++**Wartungs-Update am Dienstag, 30. Januar 2023**
 
 **Tastaturbefehle für häufige Aktionen in der Arbeitszeittabelle hinzugefügt**
 
@@ -1192,7 +1192,7 @@ Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert
 
 +++
 
-+++**Wartungs-Update vom 26. Januar 2023**
++++**Wartungs-Update am Freitag, 26. Januar 2023**
 
 **Fehler beim Senden einer Anfrage über [!DNL Outlook]**
 
@@ -1204,13 +1204,13 @@ Wenn jemand versucht, eine Anfrage mit Anhängen über eine [!DNL Outlook]-E-Mai
 
 Dies tritt nur auf, wenn bei der neuen Anfrage entweder über die Anfrage-Warteschlange oder beim manuellen Erstellen der Anfrage ein Arbeitsauftrag erteilt wird.
 
-**Neue Desktop Überprüfungs-Viewer-Version**
+**Neue Desktop-Proofing-Viewer-Version**
 
 _Proofing_
 
-Um ein Einfrieren im Desktop Überprüfungs-Viewer zu beheben, haben wir eine neue Version des Desktop Überprüfungs-Viewers bereitgestellt. Benutzende, die bereits den Desktop Überprüfungs-Viewer installiert haben, erhalten dieses Update automatisch.
+Um ein Einfrieren im Desktop-Proofing-Viewer zu beheben, haben wir eine neue Version des Desktop-Proofing-Viewers bereitgestellt. Benutzende, die bereits den Desktop-Proofing-Viewer installiert haben, erhalten dieses Update automatisch.
 
-Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop Überprüfungs-Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
+Benutzende können die neueste Version auch manuell herunterladen. Weitere Informationen finden Sie unter [Installieren des Desktop-Proofing-Viewers](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=de).
 
 * Frühere Version: 2.1.19
 * Neue Version: 2.1.20
@@ -1223,7 +1223,7 @@ Wenn Benutzende mit einer Lizenz für Arbeit, Überprüfung oder Anfrage versuch
 
 +++
 
-+++**Wartungs-Update vom 19. Januar 2023**
++++**Wartungs-Update am Freitag, 19. Januar 2023**
 
 **Spaltenfilter für die Aufnahme können jetzt geteilt werden**
 
@@ -1243,7 +1243,7 @@ Die folgenden Funktionen sind jetzt im Menü [!UICONTROL Mehr] für Pins in der 
 
 +++
 
-+++**Wartungs-Update vom 18. Januar 2023**
++++**Wartungs-Update am Donnerstag, 18. Januar 2023**
 
 **Ausdrücke mit Platzhaltern sind in benutzerdefinierten Feldern nicht gültig**
 
@@ -1269,7 +1269,7 @@ Beim Ausführen eines Szenarios wird von einem [!DNL Workfront]-Modul ein 404-Fe
 
 Dies wurde in den folgenden Modulen gemeldet:
 
-* [!UICONTROL Datensatz lesen]
+* [!UICONTROL Eintrag lesen]
 
 +++
 
@@ -1293,7 +1293,7 @@ Wenn eine Benutzerin bzw. ein Benutzer versucht, die Zugriffsebene einer anderen
 
 +++
 
-+++**Wartungs-Update vom 12. Januar 2023**
++++**Wartungs-Update am Freitag, 12. Januar 2023**
 
 **Strg+F bzw. Befehl+F funktioniert in Dropdown-Feldern nicht wie erwartet**
 
@@ -1315,7 +1315,7 @@ Wenn jemand eine Aufgabenliste anzeigt und eine Aufgabe einrückt, kehrt die Auf
 
 +++
 
-+++**Wartungs-Update vom 5. Januar 2023**
++++**Wartungs-Update am Freitag, 5. Januar 2023**
 
 **Pin-Funktionalität verfügbar im Menü [!UICONTROL Mehr]**
 

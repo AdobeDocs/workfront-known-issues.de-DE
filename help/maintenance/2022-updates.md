@@ -1,22 +1,22 @@
 ---
-title: Wartungs-Updates für Workfront in 2022
+title: Wartungs-Updates für Workfront 2022
 description: Warungs-Updates 2022 für  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: ht
-source-wordcount: '16794'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '17038'
+ht-degree: 98%
 
 ---
 
 # Wartungs-Updates für [!DNL Workfront] im Jahr 2022
 
-Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
+Die folgenden Wartungs-Updates wurden im Jahr 2022 vorgenommen.
 
 >[!NOTE]
 >
->Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+>Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -28,7 +28,7 @@ Die folgenden Wartungs-Updates wurden 2022 vorgenommen.
 * [January 2022](#updates-in-january-2022)
 -->
 
-Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [früheren Wartungs-Updates](#previous-maintenance-updates)
+Informationen zu Wartungs-Updates, die vor 2022 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 
 ## Updates im Dezember 2022
 
@@ -71,7 +71,7 @@ Wir haben QuickInfos hinzugefügt, um zu erklären, warum eine Stundenzelle in e
 
 Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
+„[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planlizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
 
 Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
 
@@ -147,7 +147,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 +++
 
-+++**Wartungs-Update vom 1. Dezember 2022**
++++**Wartungs-Update am Freitag, 1. Dezember 2022**
 
 **Aufgabe hat einen Kanban-Rückstand von 0**
 
@@ -189,7 +189,7 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug freigibt und versucht, eine benut
 
 Wenn ein(e) Benutzende(r) eine Arbeitszeittabelle erstellt und versucht, eine genehmigende Person zuzuweisen, enthält die Dropdown-Liste deaktivierte Benutzende. Wenn ein(e) deaktivierte(r) Benutzende(r) ausgewählt wird, wird die Arbeitszeittabelle nicht gespeichert und die folgende Fehlermeldung wird angezeigt:
 
-„[!UICONTROL Fehler. Tut uns leid! Nur Benutzende mit einer Abo-Lizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
+„[!UICONTROL Fehler. Entschuldigung! Nur Benutzer mit Planlizenz können Arbeitszeittabellen genehmigen oder ablehnen. Wenden Sie sich an Ihren Systemadministrator.]“
 
 Da der/die deaktivierte Benutzende nicht zugewiesen werden kann, muss der/die Benutzende eine(n) aktivierte(n) Benutzende(n) auswählen. Die Arbeitszeittabelle funktioniert wie erwartet, aber die deaktivierten Benutzenden in der Liste können Verwirrung oder Unannehmlichkeiten bereiten.
 
@@ -203,7 +203,7 @@ Arbeitszeittabellen werden trotz der Einstellungen im Arbeitszeittabellenprofil 
 
 ## Updates im November 2022
 
-+++**Wartungs-Update vom 17. November 2022**
++++**Wartungs-Update am Freitag, 17. November 2022**
 
 **Dokumente werden in den [!UICONTROL Papierkorb] verschoben, wenn sie beim Verschieben einer Aufgabe oder eines Problems nicht ausgewählt sind**
 
@@ -220,7 +220,7 @@ Wenn ein(e) Benutzende(r) verändert, ob ein Element ausgeblendet oder angezeigt
 
 +++
 
-+++**Wartungs-Update vom 10. November 2022**
++++**Wartungs-Update am Freitag, 10. November 2022**
 
 **Durch Massenbearbeitung werden Aufgabenzuweisungen geändert**
 
@@ -309,7 +309,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Webhook zum Modul [!DNL Workfront] > [
 
 +++
 
-+++**Wartungs-Update vom 3. November 2022**
++++**Wartungs-Update am Freitag, 3. November 2022**
 
 **Umbenennung der Abschnitte „Zeitplan“ und „Planung“ für Teams und Projekte in der Layout-Vorlage**
 
@@ -356,7 +356,7 @@ Beachten Sie, dass sich die Funktionalität dieser Einstellungen nicht geändert
 
 ## Updates im Oktober 2022
 
-+++**Wartungs-Update vom 27. Oktober 2022**
++++**Wartungs-Update am Freitag, 27. Oktober 2022**
 
 **[!UICONTROL STUNDE]-Funktion in berechneten Feldern verwendet UTC**
 
@@ -390,7 +390,7 @@ Wenn ein(e) Benutzende(r) im [!DNL Safari]-Browser auf einen Freigabe-Link zum [
 
 +++
 
-+++**Wartungs-Update vom 20. Oktober 2022**
++++**Wartungs-Update am Freitag, 20. Oktober 2022**
 
 **Fehler bei der Massenzuweisung eines Teams**
 
@@ -423,7 +423,7 @@ Wenn ein(e) Benutzende(r) eine Aufgabe betrachtet, fehlt das Vorgänger-Symbol d
 
 +++
 
-+++**Wartungs-Update vom 13. Oktober 2022**
++++**Wartungs-Update am Freitag, 13. Oktober 2022**
 
 **Eine Seite kann nicht erneut angeheftet werden, nachdem ihre Nadel entfernt wurde**
 
@@ -473,7 +473,7 @@ Wenn ein(e) Benutzende(r) versucht, die Seite erneut anzuheften, indem er/sie di
 
 +++
 
-+++**Wartungs-Update vom 6. Oktober 2022**
++++**Wartungs-Update am Freitag, 6. Oktober 2022**
 
 **Neuer Blueprint-Typ**
 
@@ -526,7 +526,7 @@ Wenn ein Ereignis in [!DNL Workfront Proof] stattfindet, durch das eine E-Mail-B
 
 +++
 
-+++**Wartungs-Update vom 3. Oktober 2022**
++++**Wartungs-Update am Dienstag, 3. Oktober 2022**
 
 **Speichern Sie Ihre Arbeitszeittabelle manuell, wenn sich die vorherigen Aufgabengebiete geändert haben.**
 
@@ -538,7 +538,7 @@ Wenn sich ein Aufgabengebiet, für das Sie die Zeit erfasst haben, geändert hat
 
 ## Updates im September 2022
 
-+++**Wartungs-Update vom 29. September 2022**
++++**Wartungs-Update am Freitag, 29. September 2022**
 
 **Benutzende(r) kehrt beim Schließen des Korrekturabzugs nicht zur vorherigen Seite zurück**
 
@@ -568,7 +568,7 @@ Wenn ein(e) Benutzende(r) einen Korrekturabzug mit mehreren Seiten aufruft, kann
 
 +++
 
-+++**Wartungs-Update vom 22. September 2022**
++++**Wartungs-Update am Freitag, 22. September 2022**
 
 **Benutzerkarte wird in Aktualisierungen nicht geschlossen**
 
@@ -578,7 +578,7 @@ Wenn sich ein(e) Benutzende(r) Aktualisierungen ansieht und den Mauszeiger über
 
 +++
 
-+++**Wartungs-Update vom 15. September 2022**
++++**Wartungs-Update am Freitag, 15. September 2022**
 
 **Beim Eingeben von Stunden erscheint der Fehler „[!UICONTROL Eine andere Person hat versucht, dieses Projekt zu speichern]“**
 
@@ -612,7 +612,7 @@ Wenn Sie nun einen Projektfilter für eine Gruppe mit zusätzlichen Untergruppen
 
 +++
 
-+++**Wartungs-Update vom 8. September 2022**
++++**Wartungs-Update am Freitag, 8. September 2022**
 
 **Aktualisierte Feldernamen zur Zuweisung von Benutzenden und Aufgabengebieten wurden wieder zurückgesetzt**
 
@@ -653,7 +653,7 @@ Sie können Ablagebereiche weiterhin auf andere Weise verwenden, um neue Korrekt
 
 +++
 
-+++**Wartungs-Update vom 6. September 2022**
++++**Wartungs-Update am Mittwoch, 6. September 2022**
 
 **Zur Felderliste für anpassbare Projekt-Kopfzeilen wurden ein voraussichtliches Datum hinzugefügt**
 
@@ -669,7 +669,7 @@ Wenn Sie zum Hinzufügen an eine Arbeitszeittabelle mehr als 50 Elemente auswäh
 
 +++
 
-+++**Wartungs-Update vom 2. September 2022**
++++**Wartungs-Update am Samstag, 2. September 2022**
 
 Das Feld [!UICONTROL Integrationen] kann zur benutzerdefinierten Kopfzeile eines Projekts hinzugefügt werden
 
@@ -683,7 +683,7 @@ Sie können bei der Verwendung einer Layout-Vorlage jetzt das Feld [!UICONTROL I
 
 +++
 
-+++**Wartungs-Update vom 1. September 2022**
++++**Wartungs-Update am Freitag, 1. September 2022**
 
 **Erledigte Elemente aus der Delegierung entfernt**
 
@@ -719,9 +719,9 @@ Wenn ein(e) Benutzende(r) beim Erstellen eines neuen Korrekturabzugs eine Datei 
 
 +++
 
-## Updates im August 2022
+## Updates im August 2022
 
-+++**Wartungs-Update vom 25. August 2022**
++++**Wartungs-Update am Freitag, 25. August 2022**
 
 **Links zum Workload-Balancer werden in Dashboards falsch angezeigt**
 
@@ -762,7 +762,7 @@ Jetzt zeigt der Workload-Balancer in der Ansicht [!UICONTROL Tag], [!UICONTROL W
 
 +++
 
-+++**Wartungs-Update vom 18. August 2022**
++++**Wartungs-Update am Freitag, 18. August 2022**
 
 Die Optionen **„[!UICONTROL Zu Iteration hinzufügen]“ und „[!UICONTROL Zu Kanban-Board hinzufügen]“ sind nicht verfügbar, wenn Aufgaben in einem Bericht inline bearbeitet werden**
 
@@ -802,7 +802,7 @@ Wenn ein(e) Benutzende(r) in einem Korrekturabzugskommentar getaggt wird, erhäl
 
 +++
 
-+++**Wartungs-Update vom 12. August 2022**
++++**Wartungs-Update am Samstag, 12. August 2022**
 
 **Neues anpassbares Kopfzeilenfeld am Anfang der Kopfzeile hinzugefügt**
 
@@ -812,7 +812,7 @@ Wenn Sie ein neues Feld zu einer anpassbaren Kopfzeile hinzufügen, wird das Fel
 
 +++
 
-+++**Wartungs-Update vom 11. August 2022**
++++**Wartungs-Update am Freitag, 11. August 2022**
 
 **Benutzerdefinierte Formulare können aufgrund einer falschen Zeichenbeschränkung für beschreibende Textfelder nicht bearbeitet werden**
 
@@ -856,7 +856,7 @@ Wenn ein(e) Benutzende(r) eine Anfrage erstellt und ihr ein Team zuweist und dan
 
 +++
 
-+++**Wartungs-Update vom 4. August 2022**
++++**Wartungs-Update am Freitag, 4. August 2022**
 
 Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
@@ -872,9 +872,9 @@ Wenn ein(e) Benutzende(r) versucht, das [!UICONTROL geplante Abschlussdatum] in 
 
 +++
 
-## Updates im Juli 2022
+## Updates im Juli 2022
 
-+++**Wartungs-Update vom 28. Juli 2022**
++++**Wartungs-Update am Freitag, 28. Juli 2022**
 
 Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
@@ -931,7 +931,7 @@ Die folgenden Probleme wurden bei der Erstellung von Arbeitszeittabellen gemelde
 
 *[!DNL Workfront] Korrekturabzug*
 
-Beim Korrekturabzug treten derzeit Indexierungsverzögerungen auf. Dies kann sich auf das Benutzererlebnis auswirken, beispielsweise:
+Beim Korrekturabzug treten derzeit Indizierungsverzögerungen auf. Dies kann sich auf das Benutzererlebnis auswirken, beispielsweise:
 
 * In Dashboards wird nicht die richtige Anzahl von Korrekturabzügen angezeigt
 * Ordner werden beim Erstellen oder Verschieben eines Korrekturabzugs nicht aktualisiert
@@ -960,7 +960,7 @@ Wenn ein(e) Benutzende(r) eine Anfrage mithilfe einer Vorlage in ein Projekt kon
 
 +++
 
-+++**Wartungs-Update vom 21. Juli 2022**
++++**Wartungs-Update am Freitag, 21. Juli 2022**
 
 Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
@@ -980,7 +980,7 @@ Vor diesem Update umging das Objekt den Genehmigungsprozess für den Ablehnungss
 
 *[!UICONTROL Hauptmenü]*
 
-Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie im [!UICONTROL Hauptmenü] das [!UICONTROL Hilfe]-Symbol so konfigurieren, dass es auf diese Seite verweist. Dies ist nützlich, wenn die Hilfeseite Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront]nutzt.
+Wenn Ihr Unternehmen über eine benutzerdefinierte interne Hilfeseite verfügt, können Sie im [!UICONTROL Hauptmenü] das [!UICONTROL Hilfe]-Symbol so konfigurieren, dass es auf diese Seite verweist. Dies ist nützlich, wenn die Hilfe-Website Informationen darüber enthält, wie Ihr Unternehmen [!DNL Workfront]nutzt.
 Diese benutzerdefinierte URL hat keine Auswirkungen auf den Haupt-Hilfe-Link im oberen Bereich von [!DNL Workfront] noch auf die kontextsensitiven Hilfelinks in [!DNL Workfront], über die Benutzende zur [!DNL Workfront]-Hilfeseite gelangen.
 
 **Verstrichene Zeit kann nicht ausgewählt werden, wenn die [!UICONTROL Aufgabendauer]** inline bearbeitet wird
@@ -1009,7 +1009,7 @@ Wenn ein(e) Gruppen-Administrator(in) eine(n) Benutzende(n) kopiert und die Opti
 
 +++
 
-+++**Wartungs-Update vom 14. Juli 2022**
++++**Wartungs-Update am Freitag, 14. Juli 2022**
 
 Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben.
 
@@ -1084,7 +1084,7 @@ Jetzt enthalten die Korrekturabzugs-E-Mail-Adressen keine Unternehmens-Subdomain
 Daher empfehlen wir, die folgenden Aktionen durchzuführen, falls Sie dies noch nicht getan haben:
 
 * Aktualisieren Sie Ihre Spam-Filter, um E-Mails von `notification@my.workfront.com` zuzulassen.
-* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von `notification@my.workfront.com` zuzulassen.
+* Aktualisieren Sie Ihre Zulassungslisten, um E-Mails von zu akzeptieren `notification@my.workfront.com`
   **Benutzeroptionen können nach der erstmaligen Konfiguration in Workflow-Vorlagen nicht mehr geändert werden**
 
 *[!DNL Workfront Proof]*
@@ -1107,7 +1107,7 @@ Dieser Filter befindet sich jetzt im [!UICONTROL Workload-Balancer] eines Projek
 
 ## Updates im Juni 2022
 
-+++**Wartungs-Update vom 30. Juni 2022**
++++**Wartungs-Update am Freitag, 30. Juni 2022**
 
 **Anzeigen des [!UICONTROL Workload-Balancer] für eine Woche**
 
@@ -1162,7 +1162,7 @@ Wenn ein(e) Benutzende(r) den [!UICONTROL Korrekturabzug-Workflow] eines Korrekt
 
 +++
 
-+++**Wartungs-Update vom 23. Juni 2022**
++++**Wartungs-Update am Freitag, 23. Juni 2022**
 
 **[!UICONTROL Neue Anfrage kann nicht über das Dashboard hinzugefügt werden]**
 
@@ -1213,7 +1213,7 @@ Benutzende mit der Genehmigung [!UICONTROL Verwalten] für einen Plan im [!DNL S
 
 +++
 
-+++**Wartungs-Update vom 16. Juni 2022**
++++**Wartungs-Update am Freitag, 16. Juni 2022**
 
 **Gruppenadministrator bzw. -administratorin kann keine Mitglieder zu Gruppe hinzufügen**
 
@@ -1259,7 +1259,7 @@ Wenn ein(e) Benutzende(r) den Abschnitt [!UICONTROL Arbeitsanfragen] auf einer T
 
 +++
 
-+++** Wartungs-Update vom 9. Juni 2022**
++++**Wartungs-Update am Freitag, 9. Juni 2022**
 
 **Objekte, die in den Voreinstellungen von [!UICONTROL Portfolio-Optimizer] gefiltert werden sollen, können nicht ausgewählt werden**
 
@@ -1307,7 +1307,7 @@ Wenn ein(e) Benutzende(r) den Ausführungsverlauf eines Szenarios anzeigt und ve
 
 +++
 
-+++**Wartungs-Update vom 2. Juni 2022**
++++**Wartungs-Update am Freitag, 2. Juni 2022**
 
 **[!UICONTROL Portfolio-Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
 
@@ -1335,8 +1335,8 @@ Wenn ein(e) Benutzende(r) versucht, [!UICONTROL Bedingungen] im Abschnitt [!UICO
 >
 >Dieses Update gilt nur für die Vorschau-Umgebung.
 
-Um die Leistung des Bereichs „Aktualisierungen“ zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie bei einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch dieses Update wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000. Aktualisierungen
-Unterstützung für benutzerdefinierte Felder mit automatischer Textvervollständigung in den Workload-Balancer-Filtern
+Um die Leistung des Bereichs „Aktualisierungen“ zu verbessern, haben wir eine neue Begrenzung für die Anzahl der Zeichen eingeführt, die Sie bei einer Aktualisierung oder einer Antwort auf eine vorhandene Aktualisierung eingeben können. Die neue Beschränkung beträgt 15.000 Zeichen. Durch dieses Update wurde die zulässige Zeichenanzahl bei Verwendung der API nicht geändert. Die API-Zeichenbeschränkung für Aktualisierungen beträgt 4.000. Updates
+Unterstützung für benutzerdefinierte Felder mit automatischer Textvervollständigung in Workload-Balancer-Filtern
 
 Wir unterstützen im Workload-Balancer nun Filter, die auf benutzerdefinierten Feldern [!UICONTROL mit automatischer Textvervollständigung] basieren. Vor diesem Patch war das Filtern nach diesem Typ von benutzerdefinierten Feldern im Workload-Balancer nicht möglich.
 
@@ -1351,7 +1351,7 @@ Wenn ein(e) Benutzende(r) versucht, die Rollenberechtigungen „[!UICONTROL Komm
 
 ## Updates im Mai 2022
 
-+++**Wartungs-Update vom 26. Mai 2022**
++++**Wartungs-Update am Freitag, 26. Mai 2022**
 
 Diese Probleme wurden in der neuen [!DNL Workfront]-Version behoben. [!DNL Adobe Workfront Classic] wird nicht mehr unterstützt.
 
@@ -1377,7 +1377,8 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular mit einem A
 
 *Dashboards*
 
-Beim Drucken eines Dashboards im PDF-Format wurden die folgenden Probleme gemeldet: Im PDF-Format wird nicht jede Zeile des Berichts ausgedruckt. Wenn Zeilen fehlen, wird nur Leerraum angezeigt.
+Beim Drucken eines Dashboards in eine PDF wurden die folgenden Probleme gemeldet:
+Die PDF druckt nicht jede Zeile im Bericht. Wenn Zeilen fehlen, wird nur Leerraum angezeigt.
 Die PDF-Datei enthält Leerzeichen zwischen den Spaltenüberschriften und der ersten Zeile des Berichts.
 
 **[!DNL Portfolio Optimizer] zeigt den Score 0 an, wenn eine andere Sprache als Englisch verwendet wird**
@@ -1400,7 +1401,7 @@ Wenn ein(e) Benutzende(r) den [!UICONTROL Workload-Balancer] über einen freigeg
 
 +++
 
-+++**Wartungs-Update vom 19. Mai 2022**
++++**Wartungs-Update am Freitag, 19. Mai 2022**
 
 **Aus einer [!DNL PowerPoint]**-Datei kann kein Korrekturabzug erstellt werden
 
@@ -1456,7 +1457,7 @@ Wir haben das Feld [!UICONTROL Status] in der Arbeitszeittabellen-Ansicht geänd
 
 +++
 
-+++**Wartungs-Update vom 12. Mai 2022**
++++**Wartungs-Update am Freitag, 12. Mai 2022**
 
 **[!UICONTROL Speichern]-Schaltfläche lädt beim Bearbeiten eines Projekts unentwegt**
 
@@ -1494,7 +1495,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu erstellen, ist der T
 
 +++
 
-+++**Wartungs-Update vom 5. Mai 2022**
++++**Wartungs-Update am Freitag, 5. Mai 2022**
 
 **Neuer Abrechnungseintrag kann nicht hinzugefügt werden**
 
@@ -1558,7 +1559,7 @@ Weitere Informationen dazu, warum das System Alias-E-Mail-Adressen generiert, fi
 
 ## Updates im April 2022
 
-+++**Wartungs-Update vom 28. April 2022**
++++**Wartungs-Update am Freitag, 28. April 2022**
 
 **Scrollen zur Schaltfläche [!UICONTROL Speichern] beim Bearbeiten einer Arbeitszeittabelle nicht möglich**
 
@@ -1586,7 +1587,7 @@ Wenn ein(e) Benutzende(r) versucht, den [!UICONTROL Workload-Balancer] zu öffne
 
 +++
 
-+++**Wartungs-Update vom 21. April 2022**
++++**Wartungs-Update am Freitag, 21. April 2022**
 
 **Beim Hinzufügen einer Aufgabe springt die Seite nach unten**
 
@@ -1648,7 +1649,7 @@ Wenn ein(e) Benutzende(r) versucht, sich bei [!DNL Workfront] anzumelden, schein
 
 +++
 
-+++**Wartungs-Update vom 14. April 2022**
++++**Wartungs-Update am Freitag, 14. April 2022**
 
 **Aufgabe kann nicht aus einem Bericht über einen benutzerdefinierten Abschnitt zu einer Aufgabe hinzugefügt werden**
 
@@ -1686,7 +1687,7 @@ Wenn ein(e) Benutzende(r) in [!UICONTROL Workload-Balancer] versucht, einem/r Be
 
 +++
 
-+++**Wartungs-Update vom 7. April 2022**
++++**Wartungs-Update am Freitag, 7. April 2022**
 
 **Benutzende, die zu Korrekturabzüge hinzugefügt wurden, haben falsche Rollen**
 
@@ -1776,7 +1777,7 @@ Wenn ein(e) Benutzende(r) über eine Registerkarte, die als Teil der Layout-Vorl
 
 ## Updates im März 2022
 
-+++**Wartungs-Update vom 31. März 2022**
++++**Wartungs-Update am Freitag, 31. März 2022**
 
 **Zeitzonen zwischen [!DNL Workfront] und [!DNL Workfront Proof]** stimmen nicht überein
 
@@ -1802,7 +1803,7 @@ Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konv
 
 **Benutzerdefiniertes objektübergreifendes Formular kann nicht an Anfrage-Warteschlange angehängt werden**
 
-Anforderungen
+Anfragen
 
 Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes objektübergreifendes Formular zur Detailseite einer Warteschlange hinzuzufügen, wird das objektübergreifende Formular nicht in der Dropdown-Liste der verfügbaren Formulare angezeigt und der/die Benutzende kann es nicht auswählen, um es zu den Warteschlangendetails hinzuzufügen.
 
@@ -1850,7 +1851,7 @@ HINWEIS: Diese Problembehebung umfasste zusätzliche Funktionen. Wenn Sie nun mi
 
 +++
 
-+++**Wartungs-Update vom 24. März 2022**
++++**Wartungs-Update am Freitag, 24. März 2022**
 
 **Zeitzonen zwischen [!DNL Workfront] und [!DNL Workfront Proof]** stimmen nicht überein
 
@@ -1862,8 +1863,8 @@ Wenn das Profil eines/r Benutzenden auf eine bestimmte Zeitzone in [!DNL Workfro
 
 *Projekte*
 
-Beim Anhängen einer Vorlage mit benutzerdefinierten Pflichtfeldern an ein Projekt, in dem das Feld bereits vorhanden und ausgefüllt ist, wird dem/der Benutzenden folgender Fehler angezeigt: „[!UICONTROL Es gibt unausgefüllte Felder. Geben Sie Werte für die Pflichtfelder ein, damit Sie fortfahren können.]“
-Wenn der/die Benutzende auf „[!UICONTROL Anzeigen]“ klickt, kann er/sie sehen, dass die Felder ausgefüllt sind, und die Vorlage kann erfolgreich angehängt werden.
+Beim Anhängen einer Vorlage mit benutzerdefinierten Pflichtfeldern an ein Projekt, in dem das Feld bereits vorhanden und ausgefüllt ist, wird dem/der Benutzenden folgender Fehler angezeigt: „[!UICONTROL Es gibt unausgefüllte Felder. Geben Sie Werte für die Pflichtfelder ein, bevor Sie fortfahren können.]&quot;
+Wenn der/die Benutzende auf [!UICONTROL Anzeigen] klickt, kann er/sie sehen, dass die Felder ausgefüllt sind, und die Vorlage kann erfolgreich angehängt werden.
 
 **Der [!UICONTROL Workload-Balancer] blinkt, wenn Sie zwischen Datumsangaben wechseln**
 
@@ -1875,7 +1876,7 @@ Durch die Aktualisierung des Filters wird die Anzeige zurückgesetzt. Doch wenn 
 
 **Benutzerdefinierte Terminologie ist inkonsistent**
 
-*Layoutvorlagen*
+*Layout-Vorlagen*
 
 Benutzende melden, dass, wenn der [!DNL Workfront]-Administrator bzw. die Administratorin die Terminologie mancher Objekte mithilfe einer Layout-Vorlage anpasst, der neue Objektname in der Benutzeroberfläche inkonsistent angezeigt wird.
 
@@ -1885,7 +1886,7 @@ Dies führt zu Verwirrung bei den Benutzenden.
 
 +++
 
-+++**Wartungs-Update vom 17. März 2022**
++++**Wartungs-Update am Freitag, 17. März 2022**
 
 **Miniaturansicht und Hauptbilder sind beim Anzeigen mehrseitiger Dateien mit dem [!DNL Safari] -Browser leer**
 
@@ -1933,11 +1934,11 @@ Wenn ein(e) Benutzende(r) ein [!DNL Kanban]-Board aufruft und versucht, eine Zuw
 
 *Berichte*
 
-Beim Anzeigen eines Projektberichts mit der [!UICONTROL Meilenstein]-Ansicht erscheint die Fehlermeldung „[!UICONTROL APIModel INTERNAL unterstützt nicht namedQuery TILE:milestone-Ansicht (UIVW)]“.
+Beim Anzeigen eines Projektberichts mit der Ansicht [!UICONTROL Meilenstein] wird die Fehlermeldung &quot;[!UICONTROL APIModel INTERNAL unterstützt nicht namedQuery TILE:milestone-view (UIVW)]&quot; angezeigt.
 
 **Benutzerdefinierte Terminologie ist inkonsistent**
 
-*Layoutvorlagen*
+*Layout-Vorlagen*
 
 Benutzende melden, dass, wenn der [!DNL Workfront]-Administrator bzw. die Administratorin die Terminologie mancher Objekte mithilfe einer Layout-Vorlage anpasst, der neue Objektname in der Benutzeroberfläche inkonsistent angezeigt wird.
 
@@ -1963,7 +1964,7 @@ Benutzende können ihre Passwörter in keiner Umgebung zurücksetzen. Wenn er/si
 
 +++
 
-+++**Wartungs-Update vom 10. März 2022**
++++**Wartungs-Update am Freitag, 10. März 2022**
 
 **Probleme bei der Anmeldung bei der Vorschau-Umgebung**
 
@@ -2033,7 +2034,8 @@ Wenn Sie den Status eines Projekts, einer Aufgabe oder eines Problems ändern un
 
 Wenn ein(e) Benutzende(r) eine(n) andere(n) Benutzende(n) zu einem Korrekturabzug hinzufügt, wird die Rolle dieses/r Benutzenden im Korrekturabzug als „[!UICONTROL Schreibgeschützt]“ festgelegt trotz der tatsächlichen Korrekturabzugsrolle des/r Benutzenden.
 
-Problemumgehung: Wählen Sie für die Korrekturabzugsrolle des/r Benutzenden in seinem/ihrem Profil einen anderen Wert und wählen Sie danach wieder die richtige Rolle aus.
+Problemumgehung:
+Legen Sie die Rolle des Korrekturabzugs für Benutzende in ihrem Profil auf etwas Anderes fest und setzen Sie sie dann auf die richtige Rolle zurück.
 
 **Benutzerdefiniertes Formular wird beim Konvertieren eines Problems in ein Projekt mit einer Vorlage nicht geladen**
 
@@ -2073,7 +2075,7 @@ Wenn ein(e) Benutzende(r) den Status eines Arbeitselements in der Kopfzeile änd
 
 +++
 
-+++**Wartungs-Update vom 3. März 2022**
++++**Wartungs-Update am Freitag, 3. März 2022**
 
 **Dokument kann nicht aus[!DNL Google Drive]** hinzugefügt werden
 
@@ -2162,7 +2164,7 @@ Wenn ein(e) Benutzende(r) versucht, eine Anfrage zu kopieren, funktioniert die S
 
 +++
 
-+++**Wartungs-Update vom 24. Februar 2022**
++++**Wartungs-Update am Freitag, 24. Februar 2022**
 
 **Daten in benutzerdefinierten Formularen werden ausgeblendet, wenn andere Formularfelder ausgefüllt werden**
 
@@ -2172,11 +2174,11 @@ Wenn ein(e) Benutzende(r) ein benutzerdefinierten Formular ausfüllt, um ein Pro
 
 „[!UICONTROL Sie müssen Systemadministrator sein, um diesen benutzerspezifischen Parameterwert zu ändern]“
 
-**Feld „[!UICONTROL Dieser Genehmigungsprozess kann genutzt werden von...]“ fehlt**
+**&quot;[!UICONTROL Dieser Genehmigungsprozess kann genutzt werden von…]&quot; Feld fehlt**
 
 *Genehmigungen*
 
-Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, fehlt das Feld „[!UICONTROL Dieser Genehmigungsprozess kann genutzt werden von...]“. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
+Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, [!UICONTROL  der Abschnitt „Dieser Genehmigungsprozess kann verwendet werden von…]&quot; Feld fehlt. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
 
 **Der Systemadministrator bzw. die Systemadministratorin kann Benutzende beim Löschen einer Gruppe nicht neu zuweisen**
 
@@ -2216,7 +2218,7 @@ HINWEIS: Dieses Update ist ab dem 10. März in der Produktionsumgebung verfügba
 
 **Update für die Workfront-Suche**
 
-*Suchen*
+*Suche*
 
 Diese Woche begann ein schrittweiser Rollout zur Aktualisierung der Infrastruktur für die [!DNL Workfront]-Suchfunktion. Durch dieses Update werden zukünftige Verbesserungen der Suche einfacher und zuverlässiger. Mit diesen Änderungen werden Elemente, die zu [!DNL Workfront] hinzugefügt werden, schneller indiziert und daher früher in den Suchergebnissen zu finden sein.
 
@@ -2234,7 +2236,7 @@ Es wurde ein Problem behoben, durch das es Benutzenden möglich war, in Felder f
 
 +++
 
-+++**Wartungs-Update vom 17. Februar 2022**
++++**Wartungs-Update am Freitag, 17. Februar 2022**
 
 **Fehler beim Löschen des Vorgängers auf der Registerkarte „Vorgänger“**
 
@@ -2242,7 +2244,7 @@ Es wurde ein Problem behoben, durch das es Benutzenden möglich war, in Felder f
 
 Wenn ein(e) Benutzende(r) versucht, einen Vorgänger aus der Registerkarte [!UICONTROL Vorgänger] einer Aufgabe zu löschen, wird die Aufgabe nicht gelöscht und dem/der Benutzenden wird der folgende Fehler angezeigt:
 
-[!UICONTROL Aufgabe mit primärem/n Schlüsselwert(en) &quot;&quot; nicht gefunden]
+[!UICONTROL Aufgabe mit Primärschlüsselwert(en) &quot;&quot; nicht gefunden]
 
 **Hoppla-Fehler beim Öffnen der Benutzerseite**
 
@@ -2262,8 +2264,9 @@ Wenn ein(e) Benutzende(r) einen Bericht in einem Dashboard aufruft, überschneid
 
 *Dokumente*
 
-Wenn ein(e) Benutzende(r) ein Dokument oder einen Korrekturabzug in einer [!DNL Workfront Classic]-Dokumentliste auswählt und auf „[!UICONTROL Mehr]“ klickt, kann eines der folgenden Probleme auftreten: Die Schaltfläche reagiert nicht
-Alle Optionen unter der Schaltfläche sind mit „[!UICONTROL objekt Objekt]“ beschriftet und können nicht verwendet werden.
+Wenn ein(e) Benutzende(r) ein Dokument oder einen Korrekturabzug in einer [!DNL Workfront Classic] Dokumentliste auswählt und auf &quot;[!UICONTROL Mehr] klickt, kann eines der folgenden Probleme auftreten:
+Die Schaltfläche reagiert nicht
+Alle Optionen unter der Schaltfläche sind mit &quot;[!UICONTROL Objekt] beschriftet und können nicht verwendet werden.
 
 **Fehler „Sie müssen ein Systemadministrator sein“ beim Erstellen eines Projekts**
 
@@ -2281,7 +2284,7 @@ Wenn ein(e) Benutzende(r) ein Problem mithilfe einer Vorlage in ein Projekt konv
 
 +++
 
-+++**Wartungs-Update vom 10. Februar 2022**
++++**Wartungs-Update am Freitag, 10. Februar 2022**
 
 **Beim Erstellen eines Projekts erscheint der Fehler „[!UICONTROL Sie müssen Systemadministrator sein]“**
 
@@ -2315,7 +2318,7 @@ Wenn ein Administrator oder eine Administratorin versucht, Projekte, Aufgaben od
 
 +++
 
-+++**Wartungs-Update vom 3. Februar 2022**
++++**Wartungs-Update am Freitag, 3. Februar 2022**
 
 **[!UICONTROL BizContext]-Fehler beim Anmelden**
 
@@ -2381,7 +2384,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Problem in ein Projekt zu konvertieren, 
 
 ## Updates im Januar 2022
 
-+++**Wartungs-Update vom 27. Januar 2022**
++++**Wartungs-Update am Freitag, 27. Januar 2022**
 
 **Benutzerdefinierte Daten werden beim Konvertieren eines Problems in ein Projekt nicht beibehalten**
 
@@ -2409,7 +2412,7 @@ Das Limit für IP-Adressen, die zur [!DNL Workfront]-Zulassungsliste hinzugefüg
 
 +++
 
-+++**Wartungs-Update vom 20. Januar 2022**
++++**Wartungs-Update am Freitag, 20. Januar 2022**
 
 **Fehler „[!UICONTROL Ungültiger Parameter]“ beim Erstellen eines Projekts aus einer Vorlage**
 
@@ -2441,7 +2444,7 @@ Wenn für mindestens ein Feld im Modul [!UICONTROL Erstellen] oder [!UICONTROL A
 
 +++
 
-+++**Wartungs-Update vom 13. Januar 2022**
++++**Wartungs-Update am Freitag, 13. Januar 2022**
 
 **Es ist nicht möglich, zu einem Kommentar im Bedienfeld „Zusammenfassung“ einen Hyperlink hinzuzufügen**
 
@@ -2475,7 +2478,7 @@ Wenn ein(e) Benutzende(r) auf einem Agile-Board „[!UICONTROL Weiterer Arbeitse
 
 +++
 
-+++**Wartungs-Update vom 6. Januar 2022**
++++**Wartungs-Update am Freitag, 6. Januar 2022**
 
 **Fehler „[!UICONTROL Ungültiger Parameter]“ beim Anhängen von Vorlagen oder benutzerdefinierten Formularen an Projekte**
 
@@ -2489,11 +2492,11 @@ Wenn ein(e) Benutzende(r) versucht, ein benutzerdefiniertes Formular oder eine V
 
 Wenn ein(e) Benutzende(r) im Bereich [!UICONTROL Dokumente] einen Korrekturabzug aufruft, werden im Bereich [!UICONTROL Aktualisierungen] des Dokuments keine Kommentare zum Korrekturabzug selbst angezeigt.
 
-**[!UICONTROL Workload-Balancer]: „[!UICONTROL ?[objekt Objekt]?]„ wird in Information bei übermäßiger Zuordnung angezeigt**
+**[!UICONTROL Workload Balancer]: &quot;[!UICONTROL ?[Objekt]?]&quot; wird in Informationen zur Überallokation angezeigt**
 
-*[!UICONTROL Workload-Balancer]*
+*[!UICONTROL Workload Balancer]*
 
-Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload-Balancer] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich „[!UICONTROL Kapazität]“ der Zuordnungsinformation „[!UICONTROL ?[objekt Objekt]?]“ anstelle der tatsächlichen Kapazität des/r Benutzenden angezeigt.
+Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload-] eine übermäßige Zuordnung von Aufgaben angezeigt wird, da sich eine Aufgabe mit dem Urlaub eines/r Benutzenden überschneidet, und ein(e) andere(r) Benutzende(r) die übermäßige Zuordnung aufruft, wird im Bereich &quot;[!UICONTROL Kapazität]&quot; der Zuordnungsinformation &quot;[!UICONTROL ?[Objekt]?]&quot; angezeigt anstelle der tatsächlichen Kapazität des/r Benutzenden.
 
 +++
 
@@ -2501,4 +2504,4 @@ Wenn für eine(n) Benutzende(n) im [!UICONTROL Workload-Balancer] eine übermä�
 
 Informationen zu früheren Wartungs-Updates finden Sie hier:
 
-* [Archiv mit Wartungs-Updates für [!DNL Workfront]– 2021](2021-updates.md)
+* [Archiv mit Wartungs-Updates für [!DNL Workfront] – 2021](2021-updates.md)

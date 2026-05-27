@@ -128,7 +128,7 @@ ht-degree: 52%
       + {hide-from-toc}[Portfolios: Der Benutzer kann kein Portfolio festlegen](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + {hide-from-toc}[Aufgaben: Bei der Suche nach dem Vornamen in der Aufgabenzuweisung werden keine Benutzer zurückgegeben](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + {hide-from-toc}[Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + {hide-from-toc}[Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als] nicht als Benutzerin oder Benutzer angezeigt](known-issues-workfront/wf-boards-log-in-as.md)
+      + {hide-from-toc}[Pinnwände: Pinnwand wird bei Verwendung von [!UICONTROL Anmelden als]](known-issues-workfront/wf-boards-log-in-as.md) nicht als Benutzerin oder Benutzer angezeigt
       + {hide-from-toc}[Startseite: Das Widget „Meine Probleme“ zeigt keine geschlossenen oder abgeschlossenen Probleme an](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + {hide-from-toc}[Startseite: Das Genehmigungen-Widget ist nicht korrekt](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + {hide-from-toc}[Startseite: Das Widget „Erwähnungen“ kann nicht entfernt werden](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
@@ -147,14 +147,14 @@ ht-degree: 52%
       + {hide-from-toc}[Aktualisierungen: Anfordernde Benutzer können keine Bilder zu Aktualisierungen hinzufügen](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + {hide-from-toc}[Korrekturabzüge: Komprimierte Korrekturabzüge können nicht generiert werden](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + {hide-from-toc}[Neu [!UICONTROL Startseite]: Die Standardeinstellungen für Widget-Filter und Gruppierung entsprechen nicht der Layoutvorlage](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + {hide-from-toc}[Teams: Probleme beim Festlegen des Team-Status für [!UICONTROL &#x200B; Schaltfläche &quot;]&quot;](known-issues-workfront/wf-teams-statuses-missing.md)
+      + {hide-from-toc}[Teams: Probleme beim Festlegen des Team-Status für [!UICONTROL  Schaltfläche &quot;]&quot;](known-issues-workfront/wf-teams-statuses-missing.md)
       + {hide-from-toc}[Setup: [!UICONTROL Kickstarts] können nicht zum Einrichten von Gruppierungen verwendet werden](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + {hide-from-toc}[Pinnwände: Karten, die in eine Spalte verschoben werden, kehren nach der Aktualisierung zur ursprünglichen Spalte zurück](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + {hide-from-toc}[Dokumente: Kein Zugriff [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + {hide-from-toc}[Dashboard: Großer leerer Rand beim Drucken des Dashboards in PDF](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + {hide-from-toc}[Startseite: Aufgaben in Projekten mit dem Status „Genehmigt“ oder „Planung“ sind nicht in der Arbeitsliste von „Meine Aufgaben“ oder der Startseite enthalten](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + {hide-from-toc}[[!DNL Workfront]: Das Branding wird nicht angewendet](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
-      + {hide-from-toc}[Korrekturabzüge: Abgeschlossene Korrekturabzüge verbleiben im Widget [!UICONTROL Warten auf meine Genehmigung] &#x200B;](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + {hide-from-toc}[Korrekturabzüge: Abgeschlossene Korrekturabzüge verbleiben im Widget [!UICONTROL Warten auf meine Genehmigung] ](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + {hide-from-toc}[Korrekturabzüge: Fehler bei der Freigabe eines Korrekturabzugs über einen E-Mail-Link](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + {hide-from-toc}[[!UICONTROL Startseite]: Neue [!UICONTROL Startseiten]-Widget-Vorschau zeigt nicht den richtigen Namen des Objekts an](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + {hide-from-toc}[[!UICONTROL Startseite]: [!UICONTROL Anfrage]-Widget zeigt nicht alle zugewiesenen Teams an](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
@@ -165,19 +165,19 @@ ht-degree: 52%
       + {hide-from-toc}[Filter: Filter aus einem Bericht können nicht in einem Dashboard freigeben werden](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + {hide-from-toc}[Korrekturabzüge: Das Messwerkzeug akzeptiert keine Dezimalpunkte](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + {hide-from-toc}[Dokumente: Probleme mit der Dokumentliste](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
-      + {hide-from-toc}[Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint] verknüpftes Dokument](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + {hide-from-toc}[Dokumente: 404-Fehler beim Zugriff auf ein über [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) verknüpftes Dokument
       + {hide-from-toc}[[!UICONTROL Lastenausgleich]: Stunden werden nicht den Auszeiten der Benutzenden entsprechend angepasst](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + {hide-from-toc}[[!UICONTROL Updates]: Die Zeit für den aktuellen Tag kann nicht im Bereich [!UICONTROL Updates] protokolliert werden](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + {hide-from-toc}[Dokumente: Berechtigungen werden nicht vererbt, wenn ein Dokument in ein neues Projekt verschoben wird](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + {hide-from-toc}[Dokumente: Fehler beim Hochladen einer großen Datei](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + {hide-from-toc}[Dokumente: Dokumente können nicht von hinzugefügt werden [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + {hide-from-toc}[Korrekturabzüge: Der Status des Korrekturabzugs wird nicht in [!UICONTROL Dokumentlisten] aktualisiert](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
-      + {hide-from-toc}[Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] &#x200B;](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
+      + {hide-from-toc}[Benutzerdefinierte Formulare: Benutzerdefinierte, objektübergreifende Formulare erfordern zum Bearbeiten von Feldern die Berechtigung [!UICONTROL Verwalten] oder [!UICONTROL Bearbeiten] ](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
       + {hide-from-toc}[Korrekturabzüge: Druckzusammenfassung zeigt keine Miniaturansicht an](known-issues-workfront/inactive/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + {hide-from-toc}[Aufgaben: Geplantes [!UICONTROL &#x200B; einer Aufgabe kann nicht &#x200B;] werden](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
+      + {hide-from-toc}[Aufgaben: Geplantes [!UICONTROL  einer Aufgabe kann nicht ] werden](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
       + {hide-from-toc}[API: Sortieren nach dynamischen Feldern nicht möglich](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
-      + {hide-from-toc}[[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup] nur langsam geladen](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
-      + {hide-from-toc}[Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich] von Aufgaben nicht gespeichert](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + {hide-from-toc}[[!UICONTROL Setup]: Listen werden in [!UICONTROL Setup]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) nur langsam geladen
+      + {hide-from-toc}[Aufgaben: Stunden werden beim Eingeben von Stunden in den [!UICONTROL Zusammenfassungsbereich]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) von Aufgaben nicht gespeichert
       + {hide-from-toc}[Korrekturabzüge: Feld [!UICONTROL Aktive Korrekturabzugsschritte] ist leer](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + {hide-from-toc}[[!DNL Workfront]: Probleme beim Senden einer [!DNL Workfront] -Support-Anfrage in Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + {hide-from-toc}[Dashboards: Die in einem Dashboard angezeigten Berichtsdiagramme haben andere Farben als im Bericht selbst](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
@@ -185,14 +185,14 @@ ht-degree: 52%
       + {hide-from-toc}[Agile: Felder auf Karten, die über benutzerdefinierte Formulare befüllt werden, können nicht bearbeitet werden](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + {hide-from-toc}[Genehmigungen: Für die Delegierung von Genehmigungen erscheint die falsche Anzahl von Tagen](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
       + {hide-from-toc}[[!UICONTROL Startseite]: Probleme mit der [!UICONTROL Startseiten]-Zusammenfassung bei der Verwendung anderer Browser als [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
-      + {hide-from-toc}[[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
+      + {hide-from-toc}[[!UICONTROL Startseite]: Option „Neue Aufgabe“ zeigt deaktivierte Benutzende im Feld [!UICONTROL Zuweisen zu] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + {hide-from-toc}[Aktualisierungen: Name des Teams wird nicht in @mention angezeigt](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + {hide-from-toc}[Agile: Diskrepanz bei [!UICONTROL abgeschlossenen Punkten] bei einer Iteration](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + {hide-from-toc}[E-Mail-Benachrichtigungen: Die Einstellung „[!UICONTROL Ich bin einem Problem zugewiesen]“ wird angezeigt](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + {hide-from-toc}[E-Mail-Benachrichtigungen: Benutzende werden nicht zum Kommentar-Thread weitergeleitet](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + {hide-from-toc}[Kalender: [!DNL OR] -Filteranweisung führt zum Ausschluss der Filterregel](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + {hide-from-toc}[Berichte: Im Kalender werden standardmäßig alte Datumswerte angezeigt](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
-      + {hide-from-toc}[E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook] nicht korrekt formatiert](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
+      + {hide-from-toc}[E-Mail-Benachrichtigungen: E-Mails werden in [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) nicht korrekt formatiert
       + {hide-from-toc}[Listen: Anzeigename wird nicht auf benutzerdefinierte Feldergruppierung angewendet](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + {hide-from-toc}[Kalender: Aufgaben werden nicht angezeigt](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
@@ -218,10 +218,10 @@ ht-degree: 52%
       + {hide-from-toc}[Korrekturabzüge: Der Korrekturabzug wird Benutzenden im Korrekturabzugs-Workflow nicht freigegeben](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + {hide-from-toc}[Benutzende können nicht zum Korrekturabzug hinzugefügt werden, indem sie in einem Kommentar getaggt werden](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + {hide-from-toc}[[!UICONTROL Korrekturabzugs-Genehmigung]-Bericht kann keine korrekten Fristen festlegen](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
-      + {hide-from-toc}[[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste] hängen](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
+      + {hide-from-toc}[[!UICONTROL Startseite]: Abgeschlossene Korrekturabzüge bleiben in der [!UICONTROL Arbeitsliste]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) hängen
       + {hide-from-toc}[Dokumente: Das Symbol für den Korrekturabzugs-Workflow wird nicht angezeigt](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Behobene Probleme im [!DNL Workfront]-Korrekturabzug {#proof-resolved}
-      + {hide-from-toc}[Korrekturabzüge: In den Korrekturabzügen wird &quot;[!UICONTROL &#x200B; Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
+      + {hide-from-toc}[Korrekturabzüge: In den Korrekturabzügen wird &quot;[!UICONTROL  Korrekturabzug wird erstellt] zu lange angezeigt](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -238,7 +238,7 @@ ht-degree: 52%
       + {hide-from-toc}[Workfront Fusion: Ausgabeformatierung für Datumsangaben](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + {hide-from-toc}[Workfront Fusion: Fehler wegen zu wenig Arbeitsspeicher](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + {hide-from-toc}[Workfront Fusion: Duplizieren von Projekten, die aus einem einzigen Modul erstellt wurden](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; benutzerdefinierter API-Aufruf]-Modul gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  benutzerdefinierter API-Aufruf]-Modul gibt 404- oder 422-Fehler zurück](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: Fehler „Verbindung konnte nicht verifiziert werden“](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: Das  [!DNL Fusion] -Modul gibt einen 404-Fehler ohne weitere Informationen zurück](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]  In-App-Hilfe-Links in führen nicht zu den jeweiligen Hilfeseiten](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
@@ -247,7 +247,7 @@ ht-degree: 52%
    + [Bekannte Probleme in  [!DNL Workfront] -Planung](workfrontplanning.md)
 
 + [!DNL Workfront]-App {#mobile}
-   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Bekannte Probleme in der Mobile App von  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

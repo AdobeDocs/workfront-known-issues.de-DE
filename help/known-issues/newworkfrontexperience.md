@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1130'
-ht-degree: 90%
+source-wordcount: '1328'
+ht-degree: 89%
 
 ---
 
@@ -25,14 +25,14 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | --- | --- |
-| [Benutzende: Benutzende, die aus Adobe Admin Console entfernt wurden, sind weiterhin in Workfront aktiv](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | Mittwoch, 24. Februar 2026 |
-| [Benachrichtigungen: Der/die Benutzende erhält keine erwarteten Benachrichtigungen](known-issues-workfront/wf-notifications-user-not-receiving.md) | Mittwoch, 24. Februar 2026 |
-| [Programme: Geerbte Berechtigungen funktionieren nicht für Programme](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | Dienstag, 23. Februar 2026 |
-| [Pinnwände: Auf der Pinnwand werden doppelte Karten angezeigt](known-issues-workfront/wf-boards-duplicate-cards.md) | Dienstag, 23. Februar 2026 |
-| [Aufgaben: Eine große Aufgabenliste springt unerwartet an eine andere Stelle in der Liste](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | Donnerstag, 18. Februar 2026 |
-| [Genehmigungen: Das Widget Meine Genehmigungen zeigt Korrekturabzüge an, die sich nicht in dem Schritt befinden, dem der Benutzer zugewiesen ist](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | Donnerstag, 18. Februar 2026 |
-| [Integrationen: Slack-Benachrichtigungen von Workfront werden nicht ausgelöst](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | Mittwoch, 17. Februar 2026 |
-| [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md) | Mittwoch, 17. Februar 2026 |
+| [Benutzende: Benutzende, die aus Adobe Admin Console entfernt wurden, sind weiterhin in Workfront aktiv](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | &#x200B;24. Februar 2026 |
+| [Benachrichtigungen: Der/die Benutzende erhält keine erwarteten Benachrichtigungen](known-issues-workfront/wf-notifications-user-not-receiving.md) | &#x200B;24. Februar 2026 |
+| [Programme: Geerbte Berechtigungen funktionieren nicht für Programme](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | &#x200B;23. Februar 2026 |
+| [Pinnwände: Auf der Pinnwand werden doppelte Karten angezeigt](known-issues-workfront/wf-boards-duplicate-cards.md) | &#x200B;23. Februar 2026 |
+| [Aufgaben: Eine große Aufgabenliste springt unerwartet an eine andere Stelle in der Liste](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | &#x200B;18. Februar 2026 |
+| [Genehmigungen: Das Widget Meine Genehmigungen zeigt Korrekturabzüge an, die sich nicht in dem Schritt befinden, dem der Benutzer zugewiesen ist](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | &#x200B;18. Februar 2026 |
+| [Integrationen: Slack-Benachrichtigungen von Workfront werden nicht ausgelöst](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | &#x200B;17. Februar 2026 |
+| [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md) | &#x200B;17. Februar 2026 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
 {style="table-layout:auto"}
@@ -43,10 +43,10 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | --- | --- |
-| [Anfragen: Die Ansicht „Alle“ zeigt nicht alle Anfragen an](known-issues-workfront/wf-requests-not-showing-all.md) | Mittwoch, 17. Februar 2026 |
-| [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | Mittwoch, 17. Februar 2026 |
-| [Zuweisungen: Erweiterte Zuweisungsänderung kann nicht in einem Bericht gespeichert werden](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | Freitag, 12. Februar 2026 |
-| [Benutzende: Direktberichte können nicht entfernt werden](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | Mittwoch, 10. Februar 2026 |
+| [Anfragen: Die Ansicht „Alle“ zeigt nicht alle Anfragen an](known-issues-workfront/wf-requests-not-showing-all.md) | &#x200B;17. Februar 2026 |
+| [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | &#x200B;17. Februar 2026 |
+| [Zuweisungen: Erweiterte Zuweisungsänderung kann nicht in einem Bericht gespeichert werden](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | &#x200B;12. Februar 2026 |
+| [Benutzende: Direktberichte können nicht entfernt werden](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | &#x200B;10. Februar 2026 |
 | [Berichte: Benutzende können Finanzdaten in Visualisierungen des Arbeitsflächen-Dashboards anzeigen](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | &#x200B;19. Dezember 2025 |
 | [Genehmigungen: Für die Genehmigung wird „Keine Frist“ angezeigt, wenn in der Frist keine Uhrzeit enthalten ist](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 25. September 2025 |
 | [Workfront: Objekte zwischen Workfront und Snowflake nicht synchronisiert](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | &#x200B;17. Juni 2025 |

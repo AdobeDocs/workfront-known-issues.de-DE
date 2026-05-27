@@ -6,8 +6,8 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 90%
+source-wordcount: '518'
+ht-degree: 89%
 
 ---
 
@@ -25,8 +25,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Genehmigungen: Das Widget Meine Genehmigungen zeigt Korrekturabzüge an, die sich nicht in dem Schritt befinden, dem der Benutzer zugewiesen ist](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | Donnerstag, 18. Februar 2026 |
-| [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md) | Mittwoch, 17. Februar 2026 |
+| [Genehmigungen: Das Widget Meine Genehmigungen zeigt Korrekturabzüge an, die sich nicht in dem Schritt befinden, dem der Benutzer zugewiesen ist](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | &#x200B;18. Februar 2026 |
+| [Genehmigungen: Genehmigungen werden automatisch gesperrt](known-issues-workfront/wf-approvals-are-locked.md) | &#x200B;17. Februar 2026 |
 | [Korrekturabzüge: Bestimmte Benutzende können nicht getaggt werden](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | &#x200B;20. Februar 2025 |
 | [Integrationen: Beim Verknüpfen des Ordners aus  [!DNL Google Drive]  werden keine Assets im Ordner verknüpft](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | Mittwoch, 25. Juni 2024 |
 
@@ -38,8 +38,8 @@ Korrekturen zu diesen Problemen werden derzeit durchgeführt oder sind für die 
 
 | **Problem** | **Letzte Änderung** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Startseite: Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | Mittwoch, 17. Februar 2026 |
-| [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | Mittwoch, 17. Februar 2026 |
+| [Startseite: Erwähnungen aus Korrekturabzügen werden nicht im Erwähnungs-Widget angezeigt](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | &#x200B;17. Februar 2026 |
+| [Genehmigungen: Dokument kann nicht über das Widget Meine Genehmigungen in der Startseite genehmigt werden](known-issues-workfront/wf-approval-not-work-from-widget.md) | &#x200B;17. Februar 2026 |
 | [Genehmigungen: Das Widget „Meine Genehmigungen“ zeigt abgeschlossene Genehmigungen an](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | Freitag, 15. Januar 2026 |
 | [Dokumente: Dokumentminiaturansichten werden nicht angezeigt](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17. April 2025 |
 | [Benachrichtigungen: Miniaturansichten in E-Mail-Benachrichtigungen sind nicht sichtbar](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | Dienstag, 8. Juli 2024 |

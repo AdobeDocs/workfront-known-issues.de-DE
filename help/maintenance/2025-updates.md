@@ -2,10 +2,11 @@
 title: Wartungs-Updates für Workfront 2025
 description: Wartungs-Updates für  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 28cc4e22ad9c05b1a3e2ecac5bca62ff8d6f4e49
-workflow-type: ht
-source-wordcount: '3668'
-ht-degree: 100%
+exl-id: 4bab940b-382b-41da-b134-7a956c679a26
+source-git-commit: 8468e07a3f497551b6690f2b63679efc0ce67295
+workflow-type: tm+mt
+source-wordcount: '3762'
+ht-degree: 99%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 100%
 
 Auf dieser Seite werden die Probleme beschrieben, die in den wöchentlichen Workfront-Updates behoben wurden.
 
-Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. Der [!DNL Workfront]-Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
+Diese Updates beinhalten auch kleinere oder weniger wichtige Fehlerbehebungen. [!DNL Workfront] Der -Support benachrichtigt Sie, wenn ein von Ihnen gesendetes Problem behoben wurde.
 
 Informationen zu Wartungs-Updates, die vor 2025 durchgeführt wurden, finden Sie unter [Frühere Wartungs-Updates](#previous-maintenance-updates)
 

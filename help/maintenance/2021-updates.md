@@ -5,8 +5,8 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: tm+mt
-source-wordcount: '10060'
-ht-degree: 100%
+source-wordcount: '10220'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ Die folgenden Wartungs-Updates wurden 2021 vorgenommen:
 
 ## Updates im Dezember 2021
 
-+++**Wartungs-Update vom 23. Dezember 2021**
++++**Wartungs-Update am Freitag, 23. Dezember 2021**
 
 **Für neue Aufgaben wird standardmäßig eine falsche Aufgabenbeschränkung festgelegt**
 
@@ -56,7 +56,7 @@ Wenn ein(e) Benutzende(r), der/die bei [!DNL Workfront Proof] angemeldet ist, ei
 
 +++
 
-+++**Wartungs-Update vom 16. Dezember 2021**
++++**Wartungs-Update am Freitag, 16. Dezember 2021**
 
 **Durch das Klicken auf eine Mitteilung in der Benachrichtigungsliste wird eine leere Seite angezeigt**
 
@@ -78,7 +78,7 @@ In der Nachricht werden Dokumente erwähnt, auch wenn sich der/die Benutzende in
 
 _[!UICONTROL Workload Balancer]_
 
-Wenn ein(e) Benutzende(r) im [!UICONTROL Workload Balancer] über das Feld [!UICONTROL Arbeitsauftrag: Rollen-ID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
+Wenn ein(e) Benutzende(r[!UICONTROL &#x200B; im Workload &#x200B;]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
 **Durch das Anhängen einer Vorlage mit der Option „[!UICONTROL Anpassen und anhängen]“ werden benutzerdefinierte Feldwerte gelöscht**
 
@@ -100,7 +100,7 @@ Wenn ein(e) Benutzende(r) versucht, eine Vorlage an ein vorhandenes Projekt anzu
 
 +++
 
-+++**Wartungs-Update vom 9. Dezember 2021**
++++**Wartungs-Update am Freitag, 9. Dezember 2021**
 
 
 **Das reduzierte linke Navigationsfenster wird beim Laden der Seite erweitert**
@@ -117,7 +117,7 @@ Wenn ein(e) Benutzende(r) den [!UICONTROL Workload Balancer] öffnet und die Ein
 
 +++
 
-+++**Wartungs-Update vom 8. Dezember 2021**
++++**Wartungs-Update am Donnerstag, 8. Dezember 2021**
 
 **Die Genehmigung wird bei einer Aktualisierung zurückgesetzt**
 
@@ -134,7 +134,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Arbeitsauftrag in einem Bericht inline
 
 +++
 
-+++**Wartungs-Update vom 2. Dezember 2021**
++++**Wartungs-Update am Freitag, 2. Dezember 2021**
 
 **Zusätzlicher Schrägstrich bei manueller Eingabe einer URL**
 
@@ -152,7 +152,7 @@ Wenn ein(e) Benutzende(r) versucht, einen benutzerdefinierten Abschnitt aus dem 
 
 _[!UICONTROL Workload Balancer]_
 
-Wenn ein(e) Benutzende(r) im [!UICONTROL Workload Balancer] über das Feld [!UICONTROL Arbeitsauftrag: Rollen-ID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
+Wenn ein(e) Benutzende(r[!UICONTROL &#x200B; im Workload &#x200B;]-Balancer über das Feld [!UICONTROL Arbeitsauftrag:RoleID] einen Filter erstellt, wird der Bereich [!UICONTROL Nicht zugewiesene Arbeit] nicht geladen.
 
 **Seiten werden in bestimmten Browsern nicht geladen**
 
@@ -174,7 +174,7 @@ Dieser Fehler tritt zufällig auf und kann jeden Bereich von [!DNL Workfront] be
 
 ## Updates im November 2021
 
-+++**Wartungs-Update vom 18. November 2021**
++++**Wartungs-Update am Freitag, 18. November 2021**
 
 **[!DNL Workfront]für [!DNL Jira]: Fehler „[!UICONTROL Ungültige Client-ID oder ungültiges Client-Geheimnis]“ bei der Anmeldung**
 
@@ -225,7 +225,7 @@ Dieser Fehler tritt zufällig auf und kann jeden Bereich von Workfront betreffen
 
 +++
 
-+++**Wartungs-Update vom 11. November 2021**
++++**Wartungs-Update am Freitag, 11. November 2021**
 
 **Problem mit Dokumentintegrationen, leere Seite im Popup-Fenster beim Hochladen von Dokumenten in[!DNL Google Drive*]*
 
@@ -262,7 +262,7 @@ Das Erstellen von Teams ist jetzt intuitiver, da neue visuelle Symbole hinzugef�
 
 +++
 
-+++**Wartungs-Update vom 4. November 2021**
++++**Wartungs-Update am Freitag, 4. November 2021**
 
 **Für neue Aufgaben wird standardmäßig eine falsche Aufgabenbeschränkung festgelegt**
 
@@ -343,7 +343,7 @@ Die Filteroperatoren zum Filtern der Bereiche im [!UICONTROL Workload Balancer] 
 
 ## Updates im Oktober 2021
 
-+++**Wartungs-Update vom 28. Oktober 2021**
++++**Wartungs-Update am Freitag, 28. Oktober 2021**
 
 Auf der **[!UICONTROL Startseite] und in [!UICONTROL Meine Arbeit] werden leere Seiten angezeigt**
 
@@ -365,7 +365,7 @@ Wenn ein(e) Benutzende(r) eine Anfrage mit einem obligatorischen Optionsschaltfl
 
 +++
 
-+++**Wartungs-Update vom 21. Oktober 2021**
++++**Wartungs-Update am Freitag, 21. Oktober 2021**
 
 **In [!UICONTROL Workload Balancer]** kann kein Filter hinzugefügt werden
 
@@ -409,7 +409,7 @@ Wenn ein(e) Benutzende(r) zur [!UICONTROL Startseite] oder zu [!UICONTROL Meine 
 
 +++
 
-+++**Wartungs-Update vom 20. Oktober 2021**
++++**Wartungs-Update am Donnerstag, 20. Oktober 2021**
 
 **[!UICONTROL Workload Balancer] als standardmäßige Zeitplan-Option festgelegt**
 
@@ -435,7 +435,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Scrum-Story-Board unter Verwendung eines
 
 +++
 
-+++**Wartungs-Update vom 14. Oktober 2021**
++++**Wartungs-Update am Freitag, 14. Oktober 2021**
 
 **Vorlagen, die systemweit freigegeben sind, sind nicht sichtbar**
 
@@ -449,7 +449,7 @@ _Vorlagen_
 
 Wenn ein(e) Benutzende(r) versucht, ein Projekt in einer Vorlage zu erstellen, die ein benutzerdefiniertes Formular mit einem Abschnitt enthält, der nur für Administratoren bzw. Administratorinnen sichtbar ist, kann der/die Benutzende das Projekt nicht erstellen und die folgende Meldung wird angezeigt:
 
-„[!UICONTROL Kategorie mit primärem/n Schlüsselwert(en) ‚xxxxxxxxxxxxxxxx‘ nicht gefunden]“
+„[!UICONTROL Kategorie mit Primärschlüsselwert(en) ‚xxxxxxxxxxxxxxxx‘ nicht gefunden]“
 
 **Links zum Kopieren und Verschieben von Aufgaben wurden aktualisiert**
 
@@ -469,7 +469,7 @@ Zuvor wurden in [!DNL Workfront] bei der Suche nach Aufgabengebieten nur die ers
 
 +++
 
-+++**Wartungs-Update vom 7. Oktober 2021**
++++**Wartungs-Update am Freitag, 7. Oktober 2021**
 
 **[!UICONTROL In-App-Benachrichtigungen verschwinden aus der] Benachrichtigungszentrale**
 
@@ -501,7 +501,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Arbeitsauftrag im [!UICONTROL Workload
 
 ## Updates im September 2021
 
-+++**Wartungs-Update vom 30. September 2021**
++++**Wartungs-Update am Freitag, 30. September 2021**
 
 **Fehler beim schnellen Navigieren zur oder von der [!UICONTROL Startseite]**
 
@@ -515,7 +515,7 @@ Dies kann auch auftreten, wenn Sie über eine Nadel zur [!UICONTROL Startseite] 
 
 +++
 
-+++**Wartungs-Update vom 23. September 2021**
++++**Wartungs-Update am Freitag, 23. September 2021**
 
 Fehler **[!UICONTROL Zugriff verweigert] bei der Anzeige von Tickets, die an[!DNL Workfront]** gesendet worden sind
 
@@ -545,7 +545,7 @@ Wenn ein benutzerdefiniertes Formular in der neuen [!DNL Adobe Workfront]-Versio
 
 +++
 
-+++**Wartungs-Update vom 16. September 2021**
++++**Wartungs-Update am Freitag, 16. September 2021**
 
 **Gruppen können nicht bearbeitet werden**
 
@@ -579,7 +579,7 @@ Wenn ein(e) Benutzende(r) einen Bericht mit bedingter Formatierung betrachtet un
 
 +++
 
-+++**Wartungs-Update vom 9. September 2021**
++++**Wartungs-Update am Freitag, 9. September 2021**
 
 **Bei Problemen werden keine Problemdetails angezeigt**
 
@@ -657,7 +657,7 @@ Wenn ein(e) Administrator(in) zuvor versuchte, verknüpfte Elemente von einem ex
 
 +++
 
-+++**Wartungs-Update vom 2. September 2021**
++++**Wartungs-Update am Freitag, 2. September 2021**
 
 **Benutzerdefiniertes Dashboard kann nicht angeheftet werden**
 
@@ -676,9 +676,9 @@ Wenn ein(e) Benutzende(r) die Druckzusammenfassung öffnet, um einen Korrekturab
 +++
 
 
-## Updates im August 2021
+## Updates im August 2021
 
-+++**Wartungs-Update vom 26. August 2021**
++++**Wartungs-Update am Freitag, 26. August 2021**
 
 **In [!DNL Safari] ist der Hintergrund für den Text der Spaltenüberschriften dunkelgrau.**
 
@@ -696,7 +696,7 @@ Wenn ein(e) Benutzende(r) versucht, als Vorgänger(in) eine Aufgabe mithilfe ein
 
 +++
 
-+++**Wartungs-Update vom 19. August 2021**
++++**Wartungs-Update am Freitag, 19. August 2021**
 
 **Gespeicherte Filter fehlen, nachdem ein Filter ausgewählt wurde, der keine Probleme anzeigt**
 
@@ -712,7 +712,7 @@ Wenn ein(e) Benutzende(r) in [!DNL Adobe Workfront Classic] ein Problem aus der 
 
 +++
 
-+++**Wartungs-Update vom 12. August 2021**
++++**Wartungs-Update am Freitag, 12. August 2021**
 
 **Die Agile-Ansicht eines Projekts kann nicht angepasst werden**
 
@@ -752,7 +752,7 @@ _[!DNL Workfront Fusion]_
 
 +++
 
-+++**Wartungs-Update vom 5. August 2021**
++++**Wartungs-Update am Freitag, 5. August 2021**
 
 **Interaktion mit einem Dokument im Bedienfeld [!UICONTROL Zusammenfassung] oder im Menü [!UICONTROL Mehr] funktioniert nicht**
 
@@ -787,7 +787,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version zu einem [
 +++
 
 
-## Updates im Juli 2021
+## Updates im Juli 2021
 
 +++**Wartungs-Update (Hotfix) vom 29. Juli 2021**
 
@@ -799,7 +799,7 @@ Wenn ein(e) Benutzende(r) versucht, einen neuen Korrekturabzug oder eine neue Ve
 
 +++
 
-+++**Wartungs-Update vom 29. Juli 2021**
++++**Wartungs-Update am Freitag, 29. Juli 2021**
 
 Die Seiten **[!UICONTROL Korrekturabzugsaktivität] und [!UICONTROL Einstellungen der Korrekturabzugsansicht] sind immer verfügbar**
 
@@ -819,7 +819,7 @@ Wenn ein(e) Benutzende(r) die Option [!UICONTROL Prozentsatz] für [!UICONTROL Z
 
 +++
 
-+++**Wartungs-Update vom 22. Juli 2021**
++++**Wartungs-Update am Freitag, 22. Juli 2021**
 
 **Neue Korrekturabzugsnamen sind abgeschnitten**
 
@@ -837,7 +837,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version versucht, 
 
 +++
 
-+++**Wartungs-Update vom 15. Juli 2021**
++++**Wartungs-Update am Freitag, 15. Juli 2021**
 
 **Standardpriorität für neue Anfragen ist falsch**
 
@@ -907,7 +907,7 @@ Wenn ein(e) Benutzende(r) mehrere Module auswählt und versucht, sie zu kopieren
 
 +++
 
-+++**Wartungs-Update vom 1. Juli 2021**
++++**Wartungs-Update am Freitag, 1. Juli 2021**
 
 **Farbsatz für Karten wird nicht übernommen**
 
@@ -937,7 +937,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version zur Seite 
 
 _Projekte_
 
-Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version versucht, ein benutzerdefiniertes Formular zu erweitern, das an ein Projekt angehängt ist, kann er/sie das benutzerdefinierte Formular nicht öffnen, und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“. Durch Aktualisieren der Seite wird das Problem nicht behoben.
+Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version versucht, ein benutzerdefiniertes Formular zu erweitern, das an ein Projekt angehängt ist, kann er/sie das benutzerdefinierte Formular nicht öffnen, und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Es ist ein Fehler aufgetreten, und wir arbeiten daran, das Problem zu beheben. Aktualisieren Sie diese Browser-Seite, um mit Ihrer Arbeit fortzufahren.]“ Durch Aktualisieren der Seite wird das Problem nicht behoben.
 
 Das **[!DNL Adobe Workfront]-Branding wird jetzt in E-Mails der Ankündigungszentrale angezeigt**
 
@@ -955,7 +955,7 @@ Künftig wird dieses Branding bei weiteren E-Mail-Typen in Workfront angezeigt.
 
 ## Updates im Juni 2021
 
-+++**Wartungs-Update vom 24. Juni 2021**
++++**Wartungs-Update am Freitag, 24. Juni 2021**
 
 **Team kann nicht bearbeitet werden**
 
@@ -988,7 +988,7 @@ Informationen zum Ändern der Benachrichtigungseinstellungen finden Sie im Absch
 
 +++
 
-+++**Wartungs-Update vom 17. Juni 2021**
++++**Wartungs-Update am Freitag, 17. Juni 2021**
 
 **[!UICONTROL Gantt-Diagramm]-Ansicht nicht verfügbar für Aufgabenbericht**
 
@@ -1004,7 +1004,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Adobe Workfront]-Version versucht, 
 
 +++
 
-+++**Wartungs-Update vom 10. Juni 2021**
++++**Wartungs-Update am Freitag, 10. Juni 2021**
 
 **Neu angeordnete Vorlagenaufgaben lassen sich nicht verschieben**
 
@@ -1026,7 +1026,7 @@ Wenn zu einem Projekt ein Meilensteinpfad hinzugefügt wird und ein(e) Benutzend
 
 +++
 
-+++**Wartungs-Update vom 3. Juni 2021**
++++**Wartungs-Update am Freitag, 3. Juni 2021**
 
 **Bei Eingabeaufforderung wird Inhalt der Seite verschoben**
 
@@ -1058,7 +1058,7 @@ _[!DNL Workfront Proof]_
 
 ## Updates im Mai 2021
 
-+++**Wartungs-Update vom 27. Mai 2021**
++++**Wartungs-Update am Freitag, 27. Mai 2021**
 
 **[!UICONTROL Übertragungsdatum]-Kalender wird für Aktualisierungen angezeigt**
 
@@ -1088,13 +1088,13 @@ Einige Benutzende erhalten [!UICONTROL Daily Digest]-E-Mail-Benachrichtigungen, 
 
 _Objekte_
 
-Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version versucht, bestimmte Objekte zu öffnen, wird die folgende Fehlermeldung angezeigt: „[!UICONTROL Das (Objekt) existiert nicht mehr: Möglicherweise haben Sie die Web-Adresse falsch eingegeben. Überprüfen Sie sie und geben Sie die Adresse ggf. erneut ein.]“ Die Objektverknüpfung wird weiterhin in Listen, „Zuletzt ausgewertet“, Favoriten, Suchergebnissen usw. angezeigt, ein Zugriff darauf ist jedoch nicht möglich und sie wird nicht im Papierkorb gemeinsam mit gelöschten Objekten angezeigt.
+Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version versucht, bestimmte Objekte zu öffnen, wird die folgende Fehlermeldung angezeigt: „[!UICONTROL Das (Objekt) existiert nicht mehr: Möglicherweise haben Sie die Web-Adresse falsch eingegeben. Bitte überprüfen Sie die Adresse und geben Sie sie erneut ein.]“ Die Objektverknüpfung wird weiterhin in Listen, „Zuletzt ausgewertet“, Favoriten, Suchergebnissen usw. angezeigt, ein Zugriff darauf ist jedoch nicht möglich und sie wird nicht im Papierkorb gemeinsam mit gelöschten Objekten angezeigt.
 
 
 
 +++
 
-+++**Wartungs-Update vom 20. Mai 2021**
++++**Wartungs-Update am Freitag, 20. Mai 2021**
 
 **Korrekturabzugsoptionen fehlen**
 
@@ -1128,19 +1128,19 @@ Im Dashboard [!UICONTROL Organisation] wurde zuvor ein leeres Feld anstelle der 
 
 _[!DNL Workfront Fusion]_
 
-In Datenstrukturen, in denen Spaltentitel verwendet wurden, wurde in der Ansicht [!UICONTROL Datenspeichersuche] zuvor der Spaltenname angezeigt. Jetzt wird der Spaltentitel angezeigt. Wenn für die Spalte kein Titel angegeben ist, wird der Spaltenname angezeigt.
+In Datenstrukturen, in denen Spaltentitel verwendet wurden, wurde in der Ansicht [!UICONTROL Datenspeichersuche] zuvor der Spaltenname angezeigt.  Jetzt wird der Spaltentitel angezeigt.  Wenn für die Spalte kein Titel angegeben ist, wird der Spaltenname angezeigt.
 
 **Der Fehler bei der Szenario-Initialisierung wirkt sich nicht mehr auf Webhook-Daten aus**
 
 _[!DNL Workfront Fusion]_
 
-Zuvor führte ein Webhook-initiiertes Szenario (einschließlich diejenigen, die für Auslöser Echtzeit-Ereignisse verwenden), bei dessen Initialisierung ein Fehler auftrat, möglicherweise dazu, dass der Zugriff auf diese Webhook-Daten verloren ging. Wenn nun bei der Initialisierung eines Szenarios ein Fehler auftritt (z. B. wenn eine Verbindung nicht verifiziert werden kann), werden die Webhook-Daten in der Webhook-Warteschlange gespeichert und die Ausführung wird automatisch wiederholt. Nach drei fehlgeschlagenen Versuchen wird das Szenario deaktiviert und die Informationen verbleiben in der Warteschlange.
+Zuvor führte ein Webhook-initiiertes Szenario (einschließlich diejenigen, die für Auslöser Echtzeit-Ereignisse verwenden), bei dessen Initialisierung ein Fehler auftrat, möglicherweise dazu, dass der Zugriff auf diese Webhook-Daten verloren ging.  Wenn nun bei der Initialisierung eines Szenarios ein Fehler auftritt (z. B. wenn eine Verbindung nicht verifiziert werden kann), werden die Webhook-Daten in der Webhook-Warteschlange gespeichert und die Ausführung wird automatisch wiederholt.  Nach drei fehlgeschlagenen Versuchen wird das Szenario deaktiviert und die Informationen verbleiben in der Warteschlange.
 
-**Datensätze in Webhook-Warteschlangen werden jetzt in kleineren Batches verarbeitet**
+**Einträge in Webhook-Warteschlangen werden jetzt in kleineren Batches verarbeitet**
 
 _[!DNL Workfront Fusion]_
 
-Wenn ein(e) Benutzende(r) zuvor ein inaktives Szenario aktiviert hat, das mit einer Webhook-Warteschlange mit vielen Datensätzen verknüpft war, versuchte [!DNL Workfront Fusion], die gesamte Warteschlange in einer einzigen Ausführung (wenn auch in mehreren Zyklen) zu verarbeiten. Je nach Menge der verarbeiteten Datensätze konnte dies dazu führen, dass diese Einzelausführung manchmal die maximale Ausführungsdauer (40 Minuten) überschritt. Wenn Sie jetzt ein inaktives Szenario aktivieren, das mit einer Webhook-Warteschlange von Datensätzen verknüpft ist, verarbeitet Workfront Fusion die maximale Anzahl von Datensätzen, die in einer Einzelausführung identifiziert werden (in der Regel 2 Datensätze pro Ausführung).
+Wenn ein(e) Benutzende(r) zuvor ein inaktives Szenario aktiviert hat, das mit einer Webhook-Warteschlange mit vielen Einträgen verknüpft war, versuchte [!DNL Workfront Fusion], die gesamte Warteschlange in einer einzigen Ausführung (wenn auch in mehreren Zyklen) zu verarbeiten.  Je nach Menge der verarbeiteten Einträge konnte dies dazu führen, dass diese Einzelausführung manchmal die maximale Ausführungsdauer (40 Minuten) überschritt.  Wenn Sie jetzt ein inaktives Szenario aktivieren, das mit einer Webhook-Warteschlange von Einträgen verknüpft ist, verarbeitet Workfront Fusion die maximale Anzahl von Einträgen, die in einer Einzelausführung identifiziert werden (in der Regel 2 Einträge pro Ausführung).
 
 **Datenspeicher zeigen jetzt den Wert „0“ korrekt an**
 
@@ -1150,7 +1150,7 @@ Zuvor wurde der Datenspeicherwert 0 als leer angezeigt. &lt;...>
 
 +++
 
-+++**Wartungs-Update vom 13. Mai 2021**
++++**Wartungs-Update am Freitag, 13. Mai 2021**
 
 **Dropdown-Kalender wird hinter der Überschrift [!UICONTROL Nicht zugeordnete Arbeit] angezeigt**
 
@@ -1197,7 +1197,7 @@ Wenn ein(e) Benutzende(r) ein Rich-Text-Feld mit der [!DNL Workfront for Outlook
 
 +++
 
-+++**Wartungs-Update vom 6. Mai 2021**
++++**Wartungs-Update am Freitag, 6. Mai 2021**
 
 Feld **[!UICONTROL Währung] funktioniert nicht erwartungsgemäß**
 
@@ -1244,7 +1244,7 @@ Wenn ein(e) Benutzende(r) auf ein Objekt in der [!UICONTROL Startseiten-Arbeitsl
 
 ## Updates im April 2021
 
-+++**Wartungs-Update vom 29. April 2021**
++++**Wartungs-Update am Freitag, 29. April 2021**
 
 **[!DNL SharePoint]-Integration authentifiziert sich über Anmeldeinformationen einer anderen Integration**
 
@@ -1266,7 +1266,7 @@ Wenn ein(e) Benutzende(r) mit dem Browser [!DNL Internet Explorer] zum Bereich [
 
 +++
 
-+++**Wartungs-Update vom 22. April 2021**
++++**Wartungs-Update am Freitag, 22. April 2021**
 
 **Aufgaben in der falschen Reihenfolge hinzugefügt**
 
@@ -1291,7 +1291,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Szenario auszuführen, wird das Szenario
 
 +++
 
-+++**Wartungs-Update vom 15. April 2021**
++++**Wartungs-Update am Freitag, 15. April 2021**
 
 **[!UICONTROL Workload Balancer] zeigt falsche geplante Stunden an**
 
@@ -1313,7 +1313,7 @@ Wir haben die Anzeige der langen benutzerdefinierten Feldtitel verbessert, um ei
 
 +++
 
-+++**Wartungs-Update vom 8. April 2021**
++++**Wartungs-Update am Freitag, 8. April 2021**
 
 **Korrekturabzüge können nicht in [!DNL Adobe Creative Cloud]-Integration erstellt werden**
 
@@ -1323,7 +1323,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug direkt über [!DNL Adob
 
 +++
 
-+++**Wartungs-Update vom 1. April 2021**
++++**Wartungs-Update am Freitag, 1. April 2021**
 
 **Probleme beim Anzeigen des Übersichtsbereichs in [!DNL Chrome]**
 
@@ -1350,7 +1350,7 @@ Wenn ein(e) Benutzende(r) versucht, einem Projekt im Status [!UICONTROL Ausstehe
 
 ## Updates im März 2021
 
-+++**Wartungs-Update vom 26. März 2021**
++++**Wartungs-Update am Samstag, 26. März 2021**
 
 **Schaltflächen in einem Business-Case werden falsch angezeigt**
 
@@ -1386,7 +1386,7 @@ Wenn ein(e) Benutzende(r) versucht, einen Korrekturabzug zu erstellen, wird der 
 
 _[!DNL Workfront Fusion]2.0_
 
-Wenn ein(e) Benutzende(r) einen Begriff aus der [!DNL Workfront]-API zur Auswahl eines Sammlungs- oder Referenzfelds verwendet, um ihn in die Ausgabe eines [!DNL Workfront]-Moduls einzufügen, wird dieses Feld in der Ausgabe für dieses Modul mit einem Doppelpunkt (z. B. [!UICONTROL Besitzer:Name]) angezeigt und auch in den Attributen dargestellt („Name“ ist ein Feld unter „Besitzer“). Das mit einem Doppelpunkt gekennzeichnete Feld enthält keine Daten und liefert falsche Daten, wenn es später im Szenario einem Modul zugeordnet wird.
+Wenn ein(e) Benutzende(r) einen Begriff aus der [!DNL Workfront]-API zur Auswahl eines Sammlungs- oder Referenzfelds verwendet, um ihn in die Ausgabe eines [!DNL Workfront] einzuschließen, wird dieses Feld in der Ausgabe für dieses Modul mit einem Doppelpunkt (z. B. [!UICONTROL Besitzer:name]) angezeigt und auch in den Attributen dargestellt („Name“ ist ein Feld unter „Besitzer„). Das mit einem Doppelpunkt gekennzeichnete Feld enthält keine Daten und liefert falsche Daten, wenn es später im Szenario einem Modul zugeordnet wird.
 
 +++
 
@@ -1400,7 +1400,7 @@ Beim Erstellen eines Projekts über eine Vorlage mit [!DNL Workfront Fusion] 2.0
 
 +++
 
-+++**Wartungs-Update vom 18. März 2021**
++++**Wartungs-Update am Freitag, 18. März 2021**
 
 **Die Einstellungen der Projektvorlage gelten jetzt für Projekte, die über die API erstellt werden**
 
@@ -1471,7 +1471,7 @@ Wenn ein(e) Benutzende(r) auf einen freigegebenen Link klickt, um ein Dokument h
 
 +++
 
-+++**Wartungs-Update vom 11. März 2021**
++++**Wartungs-Update am Freitag, 11. März 2021**
 
 **Abschnitt eines benutzerdefinierten Formulars wird nicht für Benutzende ohne Administratorrechte exportiert**
 
@@ -1487,11 +1487,11 @@ Wenn ein(e) Benutzende(r) ein Dokument über die [!UICONTROL Korrekturabzugsansi
 
 +++
 
-+++**Wartungs-Update vom 4. März 2021**
++++**Wartungs-Update am Freitag, 4. März 2021**
 
 **Fehler beim Zugriff auf Layout-Vorlage**
 
-_Layoutvorlagen_
+_Layout-Vorlagen_
 
 Wenn ein(e) Benutzende(r), der/die in der neuen [!DNL Workfront]-Version angemeldet ist, zur [!DNL Classic]-Version wechselt und versucht, auf eine [!DNL Classic]-Layout-Vorlage zuzugreifen, wird der Fehler „[!UICONTROL Diese Seite existiert nicht.]“ angezeigt
 
@@ -1551,7 +1551,7 @@ Wenn ein(e) Benutzende(r) einen neuen Korrekturabzug erstellt und die Option [!U
 
 ## Updates im Februar 2021
 
-+++**Wartungs-Update vom 25. Februar 2021**
++++**Wartungs-Update am Freitag, 25. Februar 2021**
 
 Das Tool **[!UICONTROL Zeitplan] wird in keinem Bereich geladen**
 
@@ -1591,7 +1591,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version ein benutzerdefi
 
 +++
 
-+++**Wartungs-Update vom 18. Februar 2021**
++++**Wartungs-Update am Freitag, 18. Februar 2021**
 
 **Unnötiges Kontrollkästchen wurde aus dem Bereich [!UICONTROL Anfragen] entfernt**
 
@@ -1603,7 +1603,7 @@ Das Kontrollkästchen links neben den Anfragenamen in der Liste „Gesendet“ i
 
 _Dokumente_
 
-Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version auf Dokument-Links klickt, kann er/sie das Dokument nicht aufrufen und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Das Dokument existiert nicht mehr: Möglicherweise haben Sie die Web-Adresse falsch eingegeben. Überprüfen Sie sie und geben Sie die Adresse ggf. erneut ein.]“ Derselbe Fehler tritt beim Link [!UICONTROL Details anzeigen] in den E-Mail-Benachrichtigungen zu Korrekturabzügen auf.
+Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version auf Dokument-Links klickt, kann er/sie das Dokument nicht aufrufen und die folgende Fehlermeldung wird angezeigt: „[!UICONTROL Das Dokument existiert nicht mehr: Möglicherweise haben Sie die Web-Adresse falsch eingegeben. Bitte überprüfen Sie die Adresse und geben Sie sie erneut ein.]“ Derselbe Fehler tritt beim Link [!UICONTROL Details anzeigen] in den E-Mail-Benachrichtigungen zu Korrekturabzügen auf.
 
 +++
 
@@ -1617,7 +1617,7 @@ Durch dieses Update wurde ein Problem behoben, durch das in [!DNL Fusion] 2.0 di
 
 +++
 
-+++**Wartungs-Update vom 11. Februar 2021**
++++**Wartungs-Update am Freitag, 11. Februar 2021**
 
 **Korrekturabzüge werden nicht in den ausgewählten Ordner hochgeladen**
 
@@ -1639,7 +1639,7 @@ Wenn ein(e) Benutzende(r) versucht, ein Rich-Text-Feld inline zu bearbeiten, kan
 
 +++
 
-+++**Wartungs-Update vom 4. Februar 2021**
++++**Wartungs-Update am Freitag, 4. Februar 2021**
 
 **Exportierte Berichte haben [!DNL Workfront Classic]-Branding**
 
@@ -1652,7 +1652,7 @@ Wenn ein(e) Benutzende(r) in der neuen Workfront-Version einen Bericht exportier
 
 ## Updates im Januar 2021
 
-+++**Wartungs-Update vom 28. Januar 2021**
++++**Wartungs-Update am Freitag, 28. Januar 2021**
 
 **In Kommentaren wird nicht „[!UICONTROL im Namen von]“ angezeigt**
 
@@ -1698,7 +1698,7 @@ Wenn ein(e) Benutzende(r) zum Bereich [!UICONTROL Arbeitszeittabellen] navigiert
 
 +++
 
-+++**Wartungs-Update vom 21. Januar 2021**
++++**Wartungs-Update am Freitag, 21. Januar 2021**
 
 **Durch das manuelle Sortieren nach einer Spalte werden alle Ergebnisse angezeigt**
 
@@ -1720,7 +1720,7 @@ Wenn ein(e) Benutzende(r) versucht, Text in bestimmte Felder in der Korrekturabz
 
 +++
 
-+++**Wartungs-Update vom 14. Januar 2021**
++++**Wartungs-Update am Freitag, 14. Januar 2021**
 
 **E-Mail-Benachrichtigungseinstellungen können nicht aktualisiert werden**
 
@@ -1742,7 +1742,7 @@ Wenn ein(e) Benutzende(r) in der neuen [!DNL Workfront]-Version versucht, über 
 
 +++
 
-+++**Wartungs-Update vom 7. Januar 2021**
++++**Wartungs-Update am Freitag, 7. Januar 2021**
 
 **Dialogfeld „Genehmigungen delegieren“ wird geschlossen**
 

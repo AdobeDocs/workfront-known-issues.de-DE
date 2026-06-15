@@ -2,9 +2,9 @@
 user-guide-title: Bekannte Probleme
 user-guide-description: Bekannte Probleme in [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 52%
 
 # Bekannte Probleme {#issues}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Bekannte Probleme in [!DNL Adobe Workfront]](newworkfrontexperience.md)
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[Prioritäten: Gruppierungen verhindern das Sortieren und die Inline-Bearbeitung](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[Berichte: Es kann nicht gescrollt werden, um den gesamten Diagrammbericht anzuzeigen](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[Gruppen: Der Status Gelöschte Gruppe wird erneut angezeigt](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[Dokumente: Kommentare zu Korrekturabzügen werden bei Dokumentaktualisierungen nicht angezeigt](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[Startseite: „Kein Zugriff“ wird als Projektname angezeigt](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[Startseite: Startseite stürzt mit dem Fehler „Nicht genügend Arbeitsspeicher“ ab](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront: Mehrere Registerkarten im Browser führen zur Abmeldung von Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)

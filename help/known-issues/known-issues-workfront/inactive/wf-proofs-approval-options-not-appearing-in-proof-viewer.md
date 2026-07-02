@@ -5,8 +5,8 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '146'
+workflow-type: tm+mt
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 100%
 
 Wenn eine Benutzerin bzw. ein Benutzer versucht, einen Korrekturabzug in der [!UICONTROL Desktop-Korrekturabzugsanzeige] zu genehmigen, sind kurz nach der Anforderung der Genehmigung die Genehmigungsoptionen nicht mehr sichtbar und der Korrekturabzug kann nicht genehmigt werden. Die Genehmigungsoptionen erscheinen mehrere Stunden nach Anforderung der Genehmigung.
 
-**Problemumgehung**
+**Umgehungslösung**
 
 Genehmigen Sie das Dokument auf der Seite [!UICONTROL Dokumentdetails] in [!DNL Workfront].
 
-_Erste Meldung am 12. Juni 2023._
+_Erste Meldung am Dienstag, 12. Juni 2023._
 
 <!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

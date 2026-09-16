@@ -1,16 +1,15 @@
 ---
 title: Bekannte Probleme in [!DNL Adobe Workfront Planning]
-description: Gemeldete bekannte Probleme für  [!DNL Adobe Workfront Planning]
+description: Gemeldete bekannte Probleme in [!DNL Adobe Workfront Planning]
 keywords: neue Datei, Datei hinzufügen
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 87%
-
+source-wordcount: '159'
+ht-degree: 83%
 ---
-
 # Bekannte Probleme in [!DNL Adobe Workfront Planning]
 
 Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workfront Planning].
@@ -25,8 +24,8 @@ Diese kürzlich gemeldeten Probleme werden derzeit überprüft.
 
 | **Problem** | **Letzte Änderung** |
 | --- | --- |
-| [Workfront-Planung: Nach der Genehmigung der Anfrage wird der Anfragestatus als „In Bearbeitung“ angezeigt](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | Mittwoch, 24. Februar 2026 |
-| [Workfront-Planung: Fehler „Anfrage konnte nicht gesendet werden“](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | Mittwoch, 17. Februar 2026 |
+| [Workfront-Planung: Nach der Genehmigung der Anfrage wird der Anfragestatus als „In Bearbeitung“ angezeigt](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | &#x200B;24. Februar 2026 |
+| [Workfront-Planung: Fehler „Anfrage konnte nicht gesendet werden“](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | &#x200B;17. Februar 2026 |
 
 {style="table-layout:auto"}
 

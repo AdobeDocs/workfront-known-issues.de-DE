@@ -1,16 +1,15 @@
 ---
-title: Bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
-description: Gemeldete bekannte Probleme in der neuen  [!DNL Adobe Workfront] -Version
+title: Bekannte Probleme in der neuen [!DNL Adobe Workfront]
+description: Gemeldete bekannte Probleme in der neuen [!DNL Adobe Workfront]
 keywords: neue Datei, Datei hinzufügen
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '1328'
+source-wordcount: '1330'
 ht-degree: 89%
-
 ---
-
 # Bekannte Probleme in [!DNL Adobe Workfront]
 
 Auf dieser Seite finden Sie aktuell identifizierte Probleme in [!DNL Adobe Workfront].

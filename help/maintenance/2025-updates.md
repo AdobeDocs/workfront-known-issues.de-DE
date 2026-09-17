@@ -1,15 +1,14 @@
 ---
 title: Wartungs-Updates für Workfront 2025
-description: Wartungs-Updates für  [!DNL Adobe Workfront]
+description: Wartungs-Updates für [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 4bab940b-382b-41da-b134-7a956c679a26
-source-git-commit: 8468e07a3f497551b6690f2b63679efc0ce67295
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '3762'
 ht-degree: 99%
-
 ---
-
 # Wartungs-Updates für [!DNL Workfront] im Jahr 2025
 
 >[!NOTE]

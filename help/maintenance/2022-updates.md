@@ -4,7 +4,16 @@ description: Wartungs-Updates 2022 für [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '17045'
 ht-degree: 98%
@@ -2177,7 +2186,7 @@ Wenn ein(e) Benutzende(r) ein benutzerdefinierten Formular ausfüllt, um ein Pro
 
 *Genehmigungen*
 
-Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, [!UICONTROL &#x200B; der Abschnitt „Dieser Genehmigungsprozess kann verwendet werden von…]&quot; Feld fehlt. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
+Wenn ein(e) Benutzende(r) einen Genehmigungsprozess im Bereich [!UICONTROL Setup] erstellt oder bearbeitet, [!UICONTROL  der Abschnitt „Dieser Genehmigungsprozess kann verwendet werden von…]&quot; Feld fehlt. Dies kann beim Erstellen oder Bearbeiten eines Genehmigungsprozesses auftreten.
 
 **Der Systemadministrator bzw. die Systemadministratorin kann Benutzende beim Löschen einer Gruppe nicht neu zuweisen**
 
